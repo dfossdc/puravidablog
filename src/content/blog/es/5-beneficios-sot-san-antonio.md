@@ -2,7 +2,7 @@
 title: "5 Beneficios de la Técnica Sacro-Occipital (SOT) en San Antonio"
 description: "Descubre cómo la Técnica Sacro-Occipital (SOT) puede aliviar el dolor, mejorar tu postura y apoyar el bienestar integral para los residentes de San Antonio."
 date: "2025-03-15"
-author: "Dra. María Reyes, DC"
+author: "Dr. Dan Foss, DC"
 image: "/images/sot-chiropractic-san-antonio.jpg"
 keywords:
   - "Técnica Sacro-Occipital San Antonio"
@@ -101,7 +101,7 @@ En Pura Vida Chiropractic, hemos ayudado a cientos de familias de San Antonio a 
 
 ## ¿Listo para Experimentar el SOT en San Antonio?
 
-Tu primer paso es una **evaluación gratuita** en Pura Vida Chiropractic. Durante esta visita, la Dra. Reyes:
+Tu primer paso es una **evaluación gratuita** en Pura Vida Chiropractic. Durante esta visita, el Dr. Foss:
 
 1. Revisará tu historial de salud y preocupaciones
 2. Realizará una evaluación postural y estructural SOT completa
@@ -109,6 +109,6 @@ Tu primer paso es una **evaluación gratuita** en Pura Vida Chiropractic. Durant
 
 Estamos ubicados convenientemente en San Antonio, TX y damos la bienvenida a pacientes de las áreas circundantes, incluyendo Alamo Heights, Stone Oak, Leon Valley y el distrito del Centro Médico.
 
-**Llámanos hoy al (210) 234-5678** o visítanos en 2318 NW Military Hwy Suite 103, San Antonio, TX 78231.
+**Llámanos hoy al (210) 685-1994** o visítanos en 2318 NW Military Hwy Suite 103, San Antonio, TX 78231.
 
 *Pura Vida — vive la vida al máximo.*

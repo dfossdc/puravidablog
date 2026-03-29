@@ -33,7 +33,7 @@ export default function Header({ locale, currentSlug }: HeaderProps) {
             {langLabel}
           </Link>
           <Link
-            href="tel:+12102345678"
+            href="tel:+12106851994"
             className={styles.cta}
             aria-label={locale === "en" ? "Free Evaluation" : "Evaluación Gratis"}
           >

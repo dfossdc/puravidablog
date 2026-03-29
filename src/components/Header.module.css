@@ -1,16 +1,17 @@
 .header {
-  background: var(--color-primary);
+  background: #ffffff;
   position: sticky;
   top: 0;
   z-index: 100;
-  box-shadow: 0 2px 8px rgba(45, 106, 79, 0.25);
+  border-bottom: 2px solid #e8f0eb;
+  box-shadow: 0 2px 8px rgba(46, 110, 142, 0.1);
 }
 
 .inner {
   max-width: 1100px;
   margin: 0 auto;
   padding: 0 1.25rem;
-  height: 64px;
+  height: 70px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -20,15 +21,13 @@
 .brand {
   display: flex;
   align-items: center;
-  gap: 0.5rem;
   text-decoration: none;
 }
 
 .logo {
-  height: 44px;
+  height: 50px;
   width: auto;
   object-fit: contain;
-  filter: brightness(0) invert(1);
 }
 
 .nav {
@@ -38,24 +37,24 @@
 }
 
 .langToggle {
-  color: var(--color-accent);
+  color: #2E6E8E;
   font-weight: 600;
   font-size: 0.85rem;
   letter-spacing: 0.05em;
   padding: 0.35rem 0.65rem;
-  border: 1.5px solid var(--color-accent);
+  border: 1.5px solid #2E6E8E;
   border-radius: 6px;
   transition: background 0.2s, color 0.2s;
 }
 
 .langToggle:hover {
-  background: var(--color-accent);
-  color: var(--color-primary);
+  background: #2E6E8E;
+  color: #ffffff;
 }
 
 .cta {
-  background: var(--color-accent);
-  color: var(--color-primary);
+  background: #7A9E3B;
+  color: #ffffff;
   font-weight: 700;
   font-size: 0.9rem;
   padding: 0.5rem 1.1rem;
@@ -65,6 +64,6 @@
 }
 
 .cta:hover {
-  background: #d4f1e0;
+  background: #6a8c32;
   transform: translateY(-1px);
 }

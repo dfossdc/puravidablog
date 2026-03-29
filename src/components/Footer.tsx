@@ -57,7 +57,7 @@ export default function Footer({ locale }: FooterProps) {
           </address>
           <p className={styles.phone}>
             <span className={styles.label}>{t.phone}:</span>{" "}
-            <a href="tel:+12102345678">(210) 234-5678</a>
+            <a href="tel:+12106851994">(210) 685-1994</a>
           </p>
         </div>
 

@@ -1,5 +1,5 @@
 .footer {
-  background: var(--color-primary);
+  background: #2E6E8E;
   color: #e8f5ee;
   margin-top: auto;
 }
@@ -17,7 +17,7 @@
   height: 50px;
   width: auto;
   object-fit: contain;
-  filter: brightness(0) invert(1);
+  filter: brightness(0) invert(1) sepia(1) saturate(0) hue-rotate(0deg) brightness(2);
   margin-bottom: 0.5rem;
 }
 
