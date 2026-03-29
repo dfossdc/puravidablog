@@ -8,10 +8,8 @@ const content = {
   en: {
     hours: "Office Hours",
     schedule: [
-      { day: "Mon – Wed", time: "8:00 AM – 6:00 PM" },
-      { day: "Thu", time: "8:00 AM – 1:00 PM" },
-      { day: "Fri", time: "8:00 AM – 6:00 PM" },
-      { day: "Sat – Sun", time: "Closed" },
+      { day: "Mon, Tue, Thu", time: "7:00 AM – 4:00 PM" },
+      { day: "Wed, Fri – Sun", time: "Closed" },
     ],
     address: "Address",
     phone: "Phone",
@@ -20,10 +18,8 @@ const content = {
   es: {
     hours: "Horario de Atención",
     schedule: [
-      { day: "Lun – Mié", time: "8:00 AM – 6:00 PM" },
-      { day: "Jue", time: "8:00 AM – 1:00 PM" },
-      { day: "Vie", time: "8:00 AM – 6:00 PM" },
-      { day: "Sáb – Dom", time: "Cerrado" },
+      { day: "Lun, Mar, Jue", time: "7:00 AM – 4:00 PM" },
+      { day: "Mié, Vie – Dom", time: "Cerrado" },
     ],
     address: "Dirección",
     phone: "Teléfono",
