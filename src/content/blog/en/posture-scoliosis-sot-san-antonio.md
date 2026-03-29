@@ -1,73 +1,71 @@
 ---
 title: "Poor Posture & Scoliosis: How SOT Chiropractic Realigns Your Spine in San Antonio"
-description: "Poor posture and scoliosis affect millions. Learn how the SOT technique at Pura Vida Chiropractic in San Antonio corrects spinal alignment and improves quality of life at any age."
+description: "Poor posture and scoliosis can lead to chronic pain and long-term spinal damage. Learn how Dr. Dan Foss uses SOT at Pura Vida Chiropractic in San Antonio to restore spinal alignment."
 date: "2025-03-11"
 author: "Dr. Dan Foss, DC"
 image: "https://picsum.photos/seed/posture/800/450"
 keywords:
-  - "scoliosis San Antonio"
-  - "poor posture chiropractor San Antonio"
-  - "SOT scoliosis San Antonio TX"
-  - "postural correction San Antonio"
-  - "Pura Vida Chiropractic"
+  - "scoliosis chiropractor San Antonio"
+  - "poor posture treatment San Antonio TX"
+  - "SOT chiropractic posture San Antonio"
+  - "Sacro-Occipital Technique scoliosis San Antonio"
   - "spinal alignment San Antonio"
+  - "Pura Vida Chiropractic posture scoliosis"
+  - "Dr. Dan Foss scoliosis San Antonio"
 slug: "posture-scoliosis-sot-san-antonio"
 ---
 
-We are living through a **postural crisis**. Smartphones, remote work, long commutes, and sedentary lifestyles have created an epidemic of forward head posture, rounded shoulders, and imbalanced hips. And in more serious cases, these cumulative postural stresses can complicate — or even contribute to — conditions like **scoliosis**.
+## The Silent Epidemic of Poor Posture in San Antonio
 
-At Pura Vida Chiropractic, Dr. Dan Foss, DC uses the Sacro-Occipital Technique (SOT) to address postural problems and spinal curvatures at their structural foundation.
+In a city where people spend hours behind the wheel navigating I-10 and Loop 1604, hunched over laptops at home offices, and scrolling on phones during every spare moment, poor posture has become the norm. What many people dismiss as a cosmetic concern or a minor bad habit is actually a progressive structural problem that places cumulative stress on the spine, joints, muscles, and nerves.
 
-## The Real Cost of Poor Posture
+Left unaddressed, postural distortions evolve into chronic pain patterns, accelerated spinal degeneration, reduced lung capacity, and even digestive problems. For patients with scoliosis — an abnormal lateral curvature of the spine — these risks are compounded further. At Pura Vida Chiropractic, Dr. Dan Foss, DC uses the Sacro-Occipital Technique (SOT) to address both postural dysfunction and scoliosis with a systematic, whole-spine approach rooted in structural analysis.
 
-Posture isn't just about how you look. Nobel Prize-winning physiologist Dr. Roger Sperry demonstrated that **90% of brain energy** is used maintaining the body upright in the gravitational field. When posture is poor, the brain works overtime — leaving less energy for cognition, immune function, and healing.
+## How Poor Posture Develops and Why It Matters
 
-Physical consequences include chronic pain, reduced lung capacity, compressed abdominal organs, accelerated disc degeneration, and persistent fatigue. Posture affects everything.
+Posture is not just about how you hold yourself — it is the visible expression of how your entire musculoskeletal system is organized. Good posture means the ears, shoulders, hips, knees, and ankles line up vertically in a balanced stack. When this alignment breaks down, every segment of the spine compensates.
 
-## Understanding Scoliosis
+The most common postural distortions seen at Pura Vida Chiropractic include:
 
-Scoliosis is an abnormal lateral curvature of the spine, affecting approximately **3% of the population** in the US. It most commonly appears during adolescent growth spurts, though degenerative scoliosis can develop in adults as discs and joints wear down.
+- **Forward head posture:** The head drifts in front of the center of gravity, loading the cervical spine with excessive mechanical stress.
+- **Kyphosis:** An exaggerated rounding of the upper and mid-back, often paired with tight chest muscles and weak upper back muscles.
+- **Anterior pelvic tilt:** The pelvis tips forward, increasing the lumbar curve and compressing the lower back.
+- **Lateral pelvic tilt:** One hip is higher than the other, creating a functional leg length discrepancy and a spinal S-curve pattern.
 
-Curves under 10 degrees (Cobb angle) typically require monitoring only. Between 10–40 degrees, conservative care is the standard. SOT chiropractic is most effective in the early to moderate stages, helping manage progression and maintaining quality of life.
+Each of these patterns has downstream consequences: joint wear, disc compression, muscle imbalances, and nerve irritation. SOT addresses the entire chain rather than targeting one isolated region.
 
-## How SOT Corrects Posture and Manages Scoliosis
+## Scoliosis: What It Is and How SOT Helps
 
-### The Pelvis Is the Foundation
+Scoliosis refers to an abnormal lateral curvature of the spine, often accompanied by rotation of the vertebral bodies. It is classified in several ways:
 
-SOT begins with a foundational principle: **your posture is only as good as its base**. The sacrum and pelvis are the structural foundation of the entire spine. When this base is level and balanced, the vertebrae stack correctly above it. When it tilts or rotates, compensations cascade up the spine — producing the postural deviations and lateral curves that cause pain and dysfunction.
+- **Idiopathic scoliosis:** The most common type, typically developing during adolescent growth spurts, with no single identifiable cause.
+- **Functional scoliosis:** A spinal curve driven by pelvic imbalance, leg length discrepancy, or muscle imbalance — structurally reversible when the underlying cause is corrected.
+- **Degenerative scoliosis:** Develops in adulthood as disc and joint degeneration causes the spine to collapse unevenly.
 
-SOT wedge blocks level this pelvic foundation, often producing visible postural improvements throughout the entire spine.
+SOT is particularly effective for functional scoliosis and plays a meaningful supportive role for idiopathic and degenerative cases. By restoring pelvic balance — the foundation on which the entire spine rests — SOT removes the mechanical driving force behind functional curves. For idiopathic scoliosis, consistent SOT care helps manage the structural load on the curve, reduce associated pain and muscle imbalance, and support better quality of life during ongoing monitoring.
 
-### Comprehensive Postural Assessment
+## The SOT Approach to Postural Correction
 
-Before any adjustment, Dr. Foss performs a detailed postural analysis examining:
-- Shoulder and hip levels
-- Functional leg length
-- Spinal curves from front and side
-- Head and neck position
-- Gait and movement patterns
+Unlike exercises or bracing alone, SOT works by reprogramming the spine's structural foundation. Here is what the process looks like:
 
-This assessment identifies exactly which structures need correction and in which direction.
+**Comprehensive Postural Analysis:** Dr. Foss performs a standing postural analysis, gait observation, and seated spinal assessment to identify your specific pattern of imbalance. For scoliosis cases, X-ray review is incorporated to assess curve degree and rotation.
 
-### For Scoliosis: Slowing Progression
+**Pelvic Leveling:** The pelvis is the base of the spinal column. SOT blocking techniques restore pelvic symmetry, which naturally encourages the vertebral stack above to organize more evenly.
 
-While SOT cannot structurally "cure" idiopathic scoliosis, consistent chiropractic care has been shown to:
-- **Reduce the rate of curve progression**, especially in adolescents during growth
-- **Decrease pain** associated with scoliosis at any age
-- **Improve breathing** by reducing thoracic cage compression
-- **Enhance mobility** and functional independence
-- **Delay or eliminate** the need for bracing or surgery in moderate cases
+**Category-Specific Spinal Corrections:** Based on your SOT category and postural pattern, Dr. Foss applies precise adjustments to the regions of the spine that are most restricted and load-bearing.
 
-## SOT for Every Age
+**Cranial Balance:** SOT recognizes that the occiput (base of the skull) is the top anchor of the spinal system. Cranial techniques ensure that the craniosacral rhythm is balanced and that the upper end of the postural chain is coordinated with the corrections made at the pelvis.
 
-- **Children & teens** — the ideal window to intervene in early scoliosis or poor postural habits while the skeleton is still developing
-- **Adults** — correcting ingrained postural patterns and relieving the pain they cause
-- **Seniors** — maintaining mobility and preventing further vertebral collapse
+**Home Care Guidance:** Posture changes require reinforcement between visits. Dr. Foss provides specific exercises, ergonomic recommendations, and self-care strategies to support lasting improvement.
 
-## Stand Taller Starting Today
+## Results That Last: Why SOT Works for Long-Term Postural Health
 
-Dr. Dan Foss, DC at **Pura Vida Chiropractic** performs complete postural and scoliosis evaluations and builds individualized SOT care plans for patients of all ages in San Antonio.
+Postural correction is not a quick fix. The patterns that develop over years of sitting, stress, and repetitive movement take consistent, targeted work to change. What SOT offers is a method sophisticated enough to address the whole structural system — not just the most symptomatic area — and gentle enough to be applied safely and repeatedly over a long-term corrective care program.
 
-**Call (210) 685-1994** or visit us at 2318 NW Military Hwy Suite 103, San Antonio, TX 78231.
+Patients who commit to a structured SOT postural program at Pura Vida Chiropractic typically report not only pain relief but noticeable changes in how they carry themselves — standing taller, breathing more easily, and moving with greater confidence and comfort.
 
-**Free first evaluation.** Your posture can change — and with it, your entire quality of life.
+## Stand Taller. Move Better. Start Today.
+
+Whether you are dealing with chronic postural pain, have been told you have scoliosis, or simply want to protect your spine from the stresses of modern San Antonio life, SOT chiropractic care offers a proven structural solution.
+
+Pura Vida Chiropractic is offering a **free initial evaluation** for new patients. Call Dr. Dan Foss today at **(210) 685-1994** or visit us at **2318 NW Military Hwy Suite 103, San Antonio, TX 78231**. Your healthiest posture starts with one appointment.
