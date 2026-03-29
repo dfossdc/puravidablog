@@ -1,73 +1,65 @@
 ---
 title: "SOT Chiropractic During Pregnancy: Safe, Gentle Care in San Antonio"
-description: "Pregnancy changes your body in profound ways. Discover how SOT chiropractic at Pura Vida Chiropractic in San Antonio relieves pelvic pain, prepares for birth, and supports a healthy pregnancy."
+description: "Pura Vida Chiropractic in San Antonio offers safe, gentle Sacro-Occipital Technique care for expectant mothers to relieve pregnancy discomfort and support a healthy birth."
 date: "2025-03-21"
 author: "Dr. Dan Foss, DC"
 image: "https://picsum.photos/seed/pregnancy/800/450"
 keywords:
-  - "chiropractic during pregnancy San Antonio"
-  - "prenatal chiropractor San Antonio"
-  - "SOT pregnancy San Antonio TX"
-  - "pelvic pain pregnancy San Antonio"
-  - "Pura Vida Chiropractic"
-  - "Webster technique San Antonio"
+  - "prenatal chiropractic San Antonio"
+  - "pregnancy chiropractic care San Antonio"
+  - "SOT chiropractic pregnancy San Antonio"
+  - "Sacro-Occipital Technique prenatal"
+  - "Pura Vida Chiropractic San Antonio"
+  - "safe chiropractic during pregnancy San Antonio"
+  - "pregnancy back pain relief San Antonio"
+  - "Dr. Dan Foss DC"
 slug: "pregnancy-prenatal-sot-san-antonio"
 ---
 
-Pregnancy is one of the most profound transformations the human body undergoes. Over 40 weeks, a woman's body experiences sweeping biomechanical, hormonal, and neurological changes — and while this is entirely natural, those changes frequently bring significant discomfort that affects daily life.
+Pregnancy is one of the most profound physical transformations the human body undergoes. As the body adapts week by week to support a growing baby, many expectant mothers in San Antonio experience significant musculoskeletal discomfort — low back pain, pelvic pain, sciatica, hip aching, and postural strain that can make it difficult to sleep, work, or simply move comfortably. At **Pura Vida Chiropractic**, Dr. Dan Foss, DC offers specialized prenatal chiropractic care using the **Sacro-Occipital Technique (SOT)** — a gentle, highly effective approach that is safe throughout all trimesters of pregnancy and designed to support both mother and baby.
 
-The Sacro-Occipital Technique (SOT) is one of the safest and most effective chiropractic approaches for pregnancy care. At Pura Vida Chiropractic, Dr. Dan Foss, DC works with expectant mothers at every stage of pregnancy using techniques adapted specifically for prenatal care.
+## Why Pregnancy Places Unique Demands on the Spine and Pelvis
 
-## Why Pregnancy Changes Everything Biomechanically
+During pregnancy, the body undergoes rapid hormonal and structural changes. The hormone relaxin loosens ligaments throughout the pelvis and spine to prepare for childbirth, which simultaneously increases the risk of joint instability and misalignment. As the baby grows and the center of gravity shifts forward, the lumbar spine curves more deeply, the pelvis tilts, and the entire postural chain is forced to adapt — often unevenly, leading to pain and dysfunction.
 
-### The Relaxin Effect
-During pregnancy, the body produces **relaxin** — a hormone that loosens ligaments throughout the pelvis to prepare for birth. While necessary, this also makes the pelvis more susceptible to instability and pain, especially at the sacroiliac joints and pubic symphysis.
+The result is that a large majority of pregnant women experience some degree of back pain, pelvic pain, or sciatic nerve irritation during their pregnancy. While many are told to simply endure these symptoms, safe and effective relief is available through prenatal SOT chiropractic care.
 
-### Shifting Center of Gravity
-As the uterus grows, the center of gravity shifts forward and downward. This increases lumbar lordosis, strains the sacroiliac joints, and creates compensatory tension throughout the back, hips, and legs. Left unaddressed, this cascading imbalance is the primary driver of pregnancy-related back pain.
+## How SOT Is Adapted for Pregnancy
 
-## Common Pregnancy Conditions SOT Addresses
+The Sacro-Occipital Technique is inherently well-suited to prenatal care because of its gentle, low-force nature. Unlike traditional high-velocity chiropractic adjustments, SOT relies primarily on:
 
-### Lower Back Pain
-**50–70% of pregnant women** experience significant low back pain. SOT's gentle pelvic-balancing approach — using gravity-assisted wedge blocks rather than forceful manipulation — is ideal for safe, effective relief during all trimesters.
+- **Pelvic blocking** — padded wedge-shaped blocks placed strategically under the pelvis and hips to use the body's own weight and gravity to gently guide pelvic alignment, with no forceful thrusting involved
+- **Gentle spinal adjustments** — low-force, carefully measured corrections to address vertebral misalignments contributing to pain and nerve irritation
+- **Cranial therapy** — light-touch work at the base of the skull to support nervous system balance and reduce overall tension
+- **Soft tissue techniques** — to relieve muscular tightness in the low back, hips, piriformis, and round ligaments
 
-### Pelvic Girdle Pain
-Asymmetric separation of the pubic symphysis or excessive sacroiliac joint motion causes sharp, debilitating pelvic pain. SOT stabilizes and balances the pelvic ring, reducing this painful separation.
+Dr. Foss also uses specialized pregnancy pillows and positioning accommodations so that patients can be treated comfortably in a side-lying position as the pregnancy progresses, ensuring safety and comfort at every stage.
 
-### Sciatica of Pregnancy
-As the uterus grows, it can compress the sciatic nerve or increase tension through the piriformis muscle. SOT addresses both pathways simultaneously.
+## Pregnancy Conditions Commonly Addressed with SOT
 
-### Round Ligament Pain
-Tension in the round ligaments supporting the uterus can cause sharp, pulling pain in the lower abdomen. Gentle SOT pelvic adjustments reduce this ligament tension.
+At Pura Vida Chiropractic in San Antonio, prenatal SOT care commonly helps expectant mothers find relief from:
 
-### Pregnancy-Related Headaches
-Hormonal shifts and postural changes combine to produce headaches in many pregnant women. SOT cranial and cervical techniques offer safe, drug-free relief.
+- Low back pain and lumbar disc irritation
+- Pelvic girdle pain (symphysis pubis dysfunction and SI joint pain)
+- Sciatica and radiating leg pain
+- Hip pain and tightness
+- Round ligament pain
+- Upper back and rib pain from postural changes
+- Neck pain and tension headaches
+- Sleep difficulties related to positional discomfort
 
-## The Webster Technique Connection
+## Supporting Optimal Fetal Positioning
 
-The **Webster Technique**, widely used by prenatal chiropractors, works specifically to balance the pelvis and reduce tension in the uterine ligaments — creating optimal space for the baby to move into the ideal head-down position for birth.
+One of the most remarkable potential benefits of prenatal chiropractic care — and a key reason many San Antonio midwives and OBs refer patients to chiropractors — is its role in supporting optimal fetal positioning. When the pelvis is balanced and symmetrical, the uterus hangs evenly and the baby has the best possible environment to settle into the ideal head-down position for birth. Pelvic misalignment, by contrast, can create intrauterine constraint that makes it harder for the baby to assume or maintain an optimal position.
 
-SOT's pelvic balancing principles align closely with the Webster Technique, complementing this approach naturally. By ensuring pelvic symmetry, Dr. Foss helps maximize intrauterine space and supports the baby's optimal positioning throughout pregnancy.
+SOT's emphasis on pelvic balance makes it particularly well-suited to support this aspect of prenatal health. Many patients also report that regular chiropractic care throughout pregnancy is associated with more comfortable labor and delivery experiences.
 
-## Is SOT Safe During Pregnancy?
+## Safe for All Trimesters
 
-Absolutely — when performed by a chiropractor trained in prenatal care. SOT's features that make it particularly pregnancy-safe:
+SOT chiropractic care is safe in the first, second, and third trimesters. Dr. Foss has training and experience in prenatal chiropractic care and customizes every session to the specific stage and needs of each patient's pregnancy. Whether you are newly pregnant and want to establish a healthy foundation or are in your third trimester seeking relief from pelvic pressure and back pain, Pura Vida Chiropractic has the expertise and the gentle approach to serve you well.
 
-- **Minimal force** — the wedge blocks use gravity, not pressure
-- **No high-velocity manipulation** — ever
-- **Specialized positioning** — pregnancy tables with abdominal cutouts allow comfortable face-down positioning if needed
-- **Trimester-specific protocols** — treatment is adapted at each stage
+## Start Your Prenatal Care Journey Today
 
-SOT prenatal care is considered safe throughout all three trimesters and is endorsed by the American Pregnancy Association as a safe intervention for pregnancy discomfort.
+Pregnancy discomfort is common — but it is not something you simply have to endure. Pura Vida Chiropractic offers a **free initial evaluation** so Dr. Dan Foss can assess your individual needs and explain exactly how SOT prenatal chiropractic care can support you through a more comfortable, healthier pregnancy.
 
-## Postpartum Recovery
-
-Care doesn't end at delivery. The postpartum period involves the pelvis readjusting, core structures recovering, and the physical demands of newborn care creating new strain patterns. SOT postpartum care supports a smoother, faster recovery.
-
-## Care for You and Your Baby in San Antonio
-
-Dr. Dan Foss, DC at **Pura Vida Chiropractic** provides compassionate, expert SOT care for expectant and new mothers throughout San Antonio.
-
-**Call (210) 685-1994** or visit us at 2318 NW Military Hwy Suite 103, San Antonio, TX 78231.
-
-**Free first evaluation.** You and your baby deserve the gentlest, most effective care possible.
+**Call us at (210) 685-1994** to schedule your free evaluation, or visit us at **2318 NW Military Hwy Suite 103, San Antonio, TX 78231**. You and your baby deserve the best possible foundation — let us help you build it.

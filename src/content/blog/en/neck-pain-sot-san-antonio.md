@@ -1,81 +1,60 @@
 ---
 title: "Neck Pain & Tech Neck: How SOT Chiropractic Helps in San Antonio"
-description: "Struggling with neck pain or tech neck in San Antonio? Learn how the Sacro-Occipital Technique at Pura Vida Chiropractic restores alignment and eliminates pain naturally."
+description: "Struggling with neck pain or tech neck in San Antonio? Learn how Dr. Dan Foss uses the Sacro-Occipital Technique at Pura Vida Chiropractic to restore alignment and eliminate pain."
 date: "2025-03-03"
 author: "Dr. Dan Foss, DC"
 image: "https://picsum.photos/seed/neckpain/800/450"
 keywords:
   - "neck pain San Antonio"
-  - "tech neck San Antonio"
-  - "SOT chiropractic San Antonio"
+  - "tech neck chiropractor San Antonio"
+  - "SOT chiropractic neck pain San Antonio"
   - "Sacro-Occipital Technique neck pain"
-  - "chiropractor neck pain San Antonio"
-  - "Dr. Dan Foss DC"
+  - "chiropractor San Antonio TX"
   - "Pura Vida Chiropractic San Antonio"
-  - "cervical spine chiropractic San Antonio"
+  - "Dr. Dan Foss DC San Antonio"
 slug: "neck-pain-sot-san-antonio"
 ---
 
-## Neck Pain in the Digital Age — A Growing Problem in San Antonio
+## Neck Pain in the Digital Age: A Growing Problem in San Antonio
 
-San Antonio is a city on the move. Whether you're working a desk job downtown, studying at UTSA, or running a small business, chances are you spend a significant portion of your day looking at a screen. And if you've started noticing a persistent ache in your neck, stiffness when you turn your head, or tension that creeps up into your shoulders and skull — you may be dealing with what healthcare providers now call **"tech neck."**
+San Antonio is a city that works hard — in offices along Loop 410, in medical centers near the South Texas Medical Center, and in homes where remote work has become the new normal. Unfortunately, all of that screen time comes with a cost. Neck pain and "tech neck" have become epidemic, affecting people of all ages across the city.
 
-Tech neck is the modern epidemic of cervical spine stress caused by the forward head posture that develops from prolonged screen use. But neck pain has many other causes too: old whiplash injuries, poor sleeping positions, stress-related muscle tension, and spinal misalignments that have been building for years.
+Tech neck is a term used to describe the postural strain and pain that develops when the head is held forward and downward — typically while looking at a phone, tablet, or computer screen. For every inch your head moves forward from its neutral position, the effective weight on your cervical spine increases dramatically. What should be a 10 to 12 pound head can functionally weigh 40 to 60 pounds when held in a forward position for hours at a time.
 
-Whatever the source, **Dr. Dan Foss, DC** at **Pura Vida Chiropractic** in San Antonio uses the **Sacro-Occipital Technique (SOT)** to address neck pain at its structural root — gently, effectively, and without medication.
+At Pura Vida Chiropractic, Dr. Dan Foss, DC addresses neck pain and tech neck using the Sacro-Occipital Technique (SOT) — a whole-spine, structural approach that gets to the root of why your neck hurts in the first place.
 
----
+## Understanding the Spine as a Whole System
 
-## Understanding the Connection Between Your Pelvis and Your Neck
+One of the most important insights that SOT brings to neck care is this: the cervical spine does not exist in isolation. The position and mobility of your neck are directly influenced by the alignment of your thoracic spine, ribcage, and pelvis below it. If the pelvis is tilted or the mid-back is hunched, the cervical spine compensates — pulling into hyperextension or forward head posture just to keep your eyes level with the horizon.
 
-At first glance, it might seem odd that a chiropractic technique focused on the sacrum and occiput would be relevant to neck pain. But this is precisely what makes SOT so powerful.
+This is why treating only the neck often provides only temporary relief. SOT corrects spinal alignment from the foundation up, restoring the conditions that allow the cervical spine to sit properly balanced and relaxed.
 
-Your spine is not a collection of independent parts — it functions as a unified system. The **occiput**, the bone at the base of your skull, sits at the top of the spine, while the **sacrum** anchors the spine at the bottom. When the pelvis is unbalanced, compensatory tension ripples upward through every spinal segment, including the cervical vertebrae in your neck.
+## How SOT Addresses Common Causes of Neck Pain
 
-SOT practitioners like Dr. Foss are trained to identify these whole-body compensation patterns and correct them from the foundation up, rather than chasing symptoms from the top down. This is why SOT often produces lasting results where other approaches have offered only temporary relief.
+**Forward Head Posture:** SOT pelvic blocking and spinal category work rebalance the entire spinal column, reducing the mechanical forces that pull the head forward. As the lower spine realigns, the neck naturally follows.
 
----
+**Cervical Joint Restriction:** Gentle, specific SOT adjustments to the cervical vertebrae restore normal range of motion and relieve the stiffness and clicking that many neck pain patients experience.
 
-## How SOT Relieves Neck Pain and Tech Neck
+**Muscle Tension and Trigger Points:** Chronic neck muscles tighten to protect an unstable or misaligned spine. As structural alignment is restored through SOT, muscular tension releases naturally — without the need for aggressive soft tissue work.
 
-SOT addresses neck pain through several interconnected mechanisms:
+**Headache and Radiating Arm Pain:** When cervical joints compress nerves, pain and numbness can radiate into the head, shoulders, and arms. SOT decompresses these joints and restores normal nerve flow.
 
-- **Cranio-cervical correction:** SOT includes specialized cranial adjusting techniques that gently restore proper motion and alignment to the joints between the skull and the first two cervical vertebrae (C1 and C2). Restriction at these joints is a common driver of neck pain, headaches, and even jaw tension.
-- **Dural tension release:** The dura mater is a tough connective tissue sheath that surrounds the brain and spinal cord. It attaches at both the occiput and the sacrum. SOT techniques reduce tension in this system, which can directly relieve pain and stiffness throughout the spine, including the neck.
-- **Postural correction:** SOT's foundational pelvic balancing corrects the forward-head-forward-shoulder posture pattern that underlies tech neck, taking sustained mechanical stress off the cervical spine.
-- **Soft tissue work:** Dr. Foss may incorporate targeted soft tissue techniques to release tight muscles and fascia in the neck and upper back that perpetuate pain cycles.
+## What Makes SOT Different from Standard Cervical Adjustments
 
----
+Many people are nervous about having their neck adjusted. High-velocity cervical manipulation can feel jarring, and some patients are not good candidates for it due to osteoporosis, prior injury, or other conditions. SOT offers an alternative that is highly effective yet remarkably gentle.
 
-## Symptoms That SOT Can Help Address
+Dr. Foss uses low-force SOT methods including cranial techniques, which work directly with the craniosacral system to release tension patterns held at the base of the skull and throughout the cervical spine. These approaches are safe for all ages, including children and seniors.
 
-Patients at Pura Vida Chiropractic have found SOT beneficial for a wide range of neck-related complaints, including:
+## Lifestyle Habits That Compound Neck Pain — and What to Do
 
-- Stiffness or reduced range of motion when turning the head
-- Aching or burning pain in the neck and upper trapezius muscles
-- Numbness or tingling radiating into the arms or hands
-- Tension headaches originating at the base of the skull
-- Jaw pain and TMJ issues connected to cervical misalignment
-- Neck pain following a whiplash injury
+While SOT care addresses the structural component, Dr. Foss also helps patients understand daily habits that contribute to their neck pain:
 
----
+- **Screen ergonomics:** Raising your monitor to eye level and reducing phone scrolling time can significantly reduce cervical strain.
+- **Pillow positioning:** Sleeping with proper cervical support prevents nighttime aggravation.
+- **Movement breaks:** Brief neck mobility exercises during the workday maintain circulation and prevent stiffness from setting in.
 
-## A Gentle Approach for Long-Lasting Results
+## Start Your Recovery at Pura Vida Chiropractic
 
-One of the most valued aspects of SOT at Pura Vida Chiropractic is its gentleness. There are no sudden, forceful neck adjustments. SOT relies on precise, low-force techniques that work with your body's own healing intelligence. Patients often report feeling noticeably more relaxed and comfortable after just a single session.
+If neck pain is limiting your daily life, you deserve a solution that works — not just a temporary fix. Pura Vida Chiropractic is offering a **free initial evaluation** for new patients in San Antonio.
 
-Dr. Dan Foss takes the time to understand your complete health history, identify the underlying structural patterns contributing to your neck pain, and build a personalized care plan designed to produce lasting improvement — not just temporary relief.
-
----
-
-## Schedule Your Free Evaluation Today
-
-If neck pain or tech neck is affecting your quality of life, don't wait. **Pura Vida Chiropractic** is currently offering a **complimentary initial evaluation** for new patients in San Antonio.
-
-**Call now: (210) 685-1994**
-
-**Pura Vida Chiropractic**
-2318 NW Military Hwy Suite 103
-San Antonio, TX 78231
-
-Conveniently located and serving patients across San Antonio including the Medical Center area, Shavano Park, Balcones Heights, and nearby neighborhoods. Your neck will thank you.
+Call Dr. Dan Foss today at **(210) 685-1994** or visit us at **2318 NW Military Hwy Suite 103, San Antonio, TX 78231**. Together, we will build a care plan that gets your neck feeling better and keeps it that way.
