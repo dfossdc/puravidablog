@@ -1,0 +1,88 @@
+.footer {
+  background: var(--color-primary);
+  color: #e8f5ee;
+  margin-top: auto;
+}
+
+.inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 3rem 1.25rem 2rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 2.5rem;
+}
+
+.brand {
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: #ffffff;
+  margin-bottom: 0.5rem;
+}
+
+.tagline {
+  font-size: 0.9rem;
+  opacity: 0.8;
+}
+
+.colTitle {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--color-accent);
+  margin-bottom: 0.75rem;
+  font-weight: 600;
+}
+
+.address {
+  font-style: normal;
+  font-size: 0.9rem;
+  line-height: 1.7;
+  opacity: 0.9;
+  margin-bottom: 0.5rem;
+}
+
+.phone {
+  font-size: 0.9rem;
+}
+
+.phone a {
+  color: var(--color-accent);
+  font-weight: 600;
+}
+
+.phone a:hover {
+  text-decoration: underline;
+}
+
+.label {
+  opacity: 0.75;
+}
+
+.schedule {
+  list-style: none;
+  font-size: 0.875rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.schedule li {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  opacity: 0.9;
+}
+
+.day {
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.bottom {
+  border-top: 1px solid rgba(183, 228, 199, 0.2);
+  text-align: center;
+  padding: 1rem 1.25rem;
+  font-size: 0.8rem;
+  opacity: 0.65;
+}
