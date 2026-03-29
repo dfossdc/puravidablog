@@ -3,7 +3,7 @@ title: "Dolor de Hombro: Cómo el SOT Quiropráctico Restaura Tu Movilidad en Sa
 description: "El dolor de hombro limita tu vida diaria. Descubre cómo la Técnica SOT en Pura Vida Chiropractic San Antonio aborda las causas cervicales, torácicas y articulares del dolor de hombro."
 date: "2025-03-13"
 author: "Dr. Dan Foss, DC"
-image: "https://picsum.photos/seed/shoulder/800/450"
+image: "https://source.unsplash.com/800x450/?shoulder,rotator,cuff,injury&sig=38"
 keywords:
   - "dolor de hombro San Antonio"
   - "quiropráctica hombro San Antonio"

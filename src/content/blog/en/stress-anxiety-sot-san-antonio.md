@@ -3,7 +3,7 @@ title: "Stress & Anxiety: How SOT Chiropractic Regulates Your Nervous System in 
 description: "Learn how the Sacro-Occipital Technique at Pura Vida Chiropractic in San Antonio helps regulate the nervous system to reduce stress, anxiety, and physical tension naturally."
 date: "2025-03-17"
 author: "Dr. Dan Foss, DC"
-image: "https://picsum.photos/seed/stress/800/450"
+image: "https://source.unsplash.com/800x450/?meditation,calm,wellness,stress&sig=10"
 keywords:
   - "stress relief chiropractic San Antonio"
   - "anxiety chiropractic care San Antonio"

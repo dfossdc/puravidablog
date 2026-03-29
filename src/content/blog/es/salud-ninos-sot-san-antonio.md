@@ -3,7 +3,7 @@ title: "Quiropráctica SOT Para Niños: Salud Infantil Natural en San Antonio"
 description: "Los niños también necesitan cuidado quiropráctico. Descubre cómo la Técnica SOT en Pura Vida Chiropractic San Antonio apoya el desarrollo, el sueño y la salud de los más pequeños."
 date: "2025-03-23"
 author: "Dr. Dan Foss, DC"
-image: "https://picsum.photos/seed/children/800/450"
+image: "https://source.unsplash.com/800x450/?child,baby,health,play&sig=43"
 keywords:
   - "quiropráctica niños San Antonio"
   - "SOT pediátrico San Antonio"

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 100" width="440" height="100">
+  <defs>
+    <linearGradient id="iconGrad" x1="0.5" y1="0" x2="0.5" y2="1">
+      <stop offset="0%" stop-color="#2E7D9A"/>
+      <stop offset="60%" stop-color="#4A8E5C"/>
+      <stop offset="100%" stop-color="#6B9A35"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Head circle -->
+  <circle cx="52" cy="18" r="10" fill="#2E7D9A"/>
+  <!-- Left hand/arm dot -->
+  <circle cx="27" cy="31" r="8" fill="#3A8A6A"/>
+  <!-- Right hand/arm dot -->
+  <circle cx="77" cy="31" r="8" fill="#3A8A6A"/>
+
+  <!-- Upper body -->
+  <path d="M27,39 Q27,52 52,58 Q77,52 77,39 Q65,47 52,47 Q39,47 27,39Z" fill="#4A8E55"/>
+  <!-- Lower body tapering to point -->
+  <path d="M33,55 Q38,72 52,80 Q66,72 71,55 Q63,64 52,64 Q41,64 33,55Z" fill="#6B9A35"/>
+
+  <!-- PURAVIDA -->
+  <text x="98" y="57"
+    font-family="'Arial Black', 'Helvetica Neue', Arial, sans-serif"
+    font-weight="900"
+    font-size="39"
+    fill="#1C5F80"
+    letter-spacing="1">PURAVIDA</text>
+
+  <!-- CHIROPRACTIC -->
+  <text x="155" y="79"
+    font-family="'Helvetica Neue', Arial, sans-serif"
+    font-weight="700"
+    font-size="16"
+    fill="#6B9A35"
+    letter-spacing="4">CHIROPRACTIC</text>
+</svg>

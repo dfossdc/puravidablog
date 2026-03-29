@@ -3,7 +3,7 @@ title: "Pediatric SOT Chiropractic: Natural Children's Health Care in San Antoni
 description: "Dr. Dan Foss at Pura Vida Chiropractic in San Antonio uses the gentle Sacro-Occipital Technique to support children's health naturally — from infants to teens."
 date: "2025-03-23"
 author: "Dr. Dan Foss, DC"
-image: "https://picsum.photos/seed/children/800/450"
+image: "https://source.unsplash.com/800x450/?children,pediatric,healthy,kids&sig=13"
 keywords:
   - "pediatric chiropractic San Antonio"
   - "children's chiropractic care San Antonio"

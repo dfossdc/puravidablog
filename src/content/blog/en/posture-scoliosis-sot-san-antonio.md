@@ -3,7 +3,7 @@ title: "Poor Posture & Scoliosis: How SOT Chiropractic Realigns Your Spine in Sa
 description: "Poor posture and scoliosis can lead to chronic pain and long-term spinal damage. Learn how Dr. Dan Foss uses SOT at Pura Vida Chiropractic in San Antonio to restore spinal alignment."
 date: "2025-03-11"
 author: "Dr. Dan Foss, DC"
-image: "https://picsum.photos/seed/posture/800/450"
+image: "https://source.unsplash.com/800x450/?posture,spine,alignment,back&sig=7"
 keywords:
   - "scoliosis chiropractor San Antonio"
   - "poor posture treatment San Antonio TX"

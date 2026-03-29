@@ -3,7 +3,7 @@ title: "Shoulder Pain Relief: How SOT Chiropractic Restores Mobility in San Anto
 description: "Discover how the Sacro-Occipital Technique (SOT) at Pura Vida Chiropractic helps San Antonio residents recover from shoulder pain and regain full range of motion naturally."
 date: "2025-03-13"
 author: "Dr. Dan Foss, DC"
-image: "https://picsum.photos/seed/shoulder/800/450"
+image: "https://source.unsplash.com/800x450/?shoulder,pain,rotator,arm&sig=8"
 keywords:
   - "shoulder pain relief San Antonio"
   - "SOT chiropractic San Antonio"

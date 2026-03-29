@@ -3,7 +3,7 @@ title: "SOT Chiropractic During Pregnancy: Safe, Gentle Care in San Antonio"
 description: "Pura Vida Chiropractic in San Antonio offers safe, gentle Sacro-Occipital Technique care for expectant mothers to relieve pregnancy discomfort and support a healthy birth."
 date: "2025-03-21"
 author: "Dr. Dan Foss, DC"
-image: "https://picsum.photos/seed/pregnancy/800/450"
+image: "https://source.unsplash.com/800x450/?pregnancy,prenatal,mother,maternity&sig=12"
 keywords:
   - "prenatal chiropractic San Antonio"
   - "pregnancy chiropractic care San Antonio"

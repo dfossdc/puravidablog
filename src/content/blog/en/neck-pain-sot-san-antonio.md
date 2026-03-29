@@ -3,7 +3,7 @@ title: "Neck Pain & Tech Neck: How SOT Chiropractic Helps in San Antonio"
 description: "Struggling with neck pain or tech neck in San Antonio? Learn how Dr. Dan Foss uses the Sacro-Occipital Technique at Pura Vida Chiropractic to restore alignment and eliminate pain."
 date: "2025-03-03"
 author: "Dr. Dan Foss, DC"
-image: "https://picsum.photos/seed/neckpain/800/450"
+image: "https://source.unsplash.com/800x450/?neck,pain,posture,office&sig=3"
 keywords:
   - "neck pain San Antonio"
   - "tech neck chiropractor San Antonio"

@@ -3,7 +3,7 @@ title: "Sciatica Pain? SOT Chiropractic Offers Natural Relief in San Antonio"
 description: "Sharp, shooting pain down your leg? Learn how the Sacro-Occipital Technique at Pura Vida Chiropractic in San Antonio, TX can relieve sciatica naturally and effectively."
 date: "2025-03-07"
 author: "Dr. Dan Foss, DC"
-image: "https://picsum.photos/seed/sciatica/800/450"
+image: "https://source.unsplash.com/800x450/?leg,nerve,pain,sciatica&sig=5"
 keywords:
   - "sciatica relief San Antonio"
   - "sciatica chiropractor San Antonio TX"

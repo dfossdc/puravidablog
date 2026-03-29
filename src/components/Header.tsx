@@ -19,9 +19,9 @@ export default function Header({ locale, currentSlug }: HeaderProps) {
       <div className={styles.inner}>
         <Link href={`/${locale}/blog`} className={styles.brand}>
           <Image
-            src="/images/logo.png"
+            src="/images/logo.svg"
             alt="Pura Vida Chiropractic"
-            width={180}
+            width={220}
             height={60}
             className={styles.logo}
             priority
@@ -32,13 +32,15 @@ export default function Header({ locale, currentSlug }: HeaderProps) {
           <Link href={langHref} className={styles.langToggle} aria-label="Toggle language">
             {langLabel}
           </Link>
-          <Link
-            href="tel:+12106851994"
+          <a
+            href="https://www.puravidasanantonio.com/special/"
             className={styles.cta}
+            target="_blank"
+            rel="noopener noreferrer"
             aria-label={locale === "en" ? "Free Evaluation" : "Evaluación Gratis"}
           >
             {locale === "en" ? "Free Evaluation" : "Evaluación Gratis"}
-          </Link>
+          </a>
         </nav>
       </div>
     </header>

@@ -3,7 +3,7 @@ title: "Herniated Disc Treatment Without Surgery: The SOT Approach in San Antoni
 description: "A herniated disc does not have to mean surgery. Discover how the Sacro-Occipital Technique at Pura Vida Chiropractic in San Antonio, TX helps discs heal naturally."
 date: "2025-03-09"
 author: "Dr. Dan Foss, DC"
-image: "https://picsum.photos/seed/spinehealth/800/450"
+image: "https://source.unsplash.com/800x450/?spine,disc,vertebrae,anatomy&sig=6"
 keywords:
   - "herniated disc treatment San Antonio"
   - "herniated disc chiropractor San Antonio TX"

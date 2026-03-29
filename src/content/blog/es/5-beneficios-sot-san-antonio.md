@@ -3,7 +3,7 @@ title: "5 Beneficios de la Técnica Sacro-Occipital (SOT) en San Antonio"
 description: "Descubre cómo la Técnica Sacro-Occipital (SOT) puede aliviar el dolor, mejorar tu postura y apoyar el bienestar integral para los residentes de San Antonio."
 date: "2025-03-15"
 author: "Dr. Dan Foss, DC"
-image: "/images/sot-chiropractic-san-antonio.jpg"
+image: "https://source.unsplash.com/800x450/?chiropractic,holistic,wellness&sig=31"
 keywords:
   - "Técnica Sacro-Occipital San Antonio"
   - "quiropráctica SOT San Antonio"
