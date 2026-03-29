@@ -13,10 +13,11 @@
   gap: 2.5rem;
 }
 
-.brand {
-  font-size: 1.15rem;
-  font-weight: 700;
-  color: #ffffff;
+.logo {
+  height: 50px;
+  width: auto;
+  object-fit: contain;
+  filter: brightness(0) invert(1);
   margin-bottom: 0.5rem;
 }
 

@@ -1,3 +1,4 @@
+import Image from "next/image";
 import styles from "./Footer.module.css";
 
 interface FooterProps {
@@ -33,7 +34,13 @@ export default function Footer({ locale }: FooterProps) {
     <footer className={styles.footer}>
       <div className={styles.inner}>
         <div className={styles.col}>
-          <p className={styles.brand}>🌿 Pura Vida Chiropractic</p>
+          <Image
+              src="/images/logo.png"
+              alt="Pura Vida Chiropractic"
+              width={160}
+              height={54}
+              className={styles.logo}
+            />
           <p className={styles.tagline}>
             {locale === "en"
               ? "Holistic chiropractic care in San Antonio, TX."

@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import styles from "./Header.module.css";
 
 interface HeaderProps {
@@ -17,8 +18,14 @@ export default function Header({ locale, currentSlug }: HeaderProps) {
     <header className={styles.header}>
       <div className={styles.inner}>
         <Link href={`/${locale}/blog`} className={styles.brand}>
-          <span className={styles.brandLeaf}>🌿</span>
-          <span className={styles.brandName}>Pura Vida Chiropractic</span>
+          <Image
+            src="/images/logo.png"
+            alt="Pura Vida Chiropractic"
+            width={180}
+            height={60}
+            className={styles.logo}
+            priority
+          />
         </Link>
 
         <nav className={styles.nav}>

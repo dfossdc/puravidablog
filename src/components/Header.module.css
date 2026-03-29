@@ -24,22 +24,11 @@
   text-decoration: none;
 }
 
-.brandLeaf {
-  font-size: 1.4rem;
-  line-height: 1;
-}
-
-.brandName {
-  font-size: 1.1rem;
-  font-weight: 700;
-  color: #ffffff;
-  letter-spacing: -0.01em;
-}
-
-@media (max-width: 480px) {
-  .brandName {
-    font-size: 0.95rem;
-  }
+.logo {
+  height: 44px;
+  width: auto;
+  object-fit: contain;
+  filter: brightness(0) invert(1);
 }
 
 .nav {
