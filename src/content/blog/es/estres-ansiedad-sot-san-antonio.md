@@ -3,7 +3,7 @@ title: "Estrés y Ansiedad: Cómo el SOT Quiropráctico Regula Tu Sistema Nervio
 description: "El estrés crónico daña tu cuerpo. Descubre cómo la Técnica SOT en Pura Vida Chiropractic San Antonio equilibra el sistema nervioso y reduce los efectos físicos del estrés y la ansiedad."
 date: "2025-03-17"
 author: "Dr. Dan Foss, DC"
-image: "/images/estres-ansiedad-sot.jpg"
+image: "https://picsum.photos/seed/stress/800/450"
 keywords:
   - "estrés San Antonio"
   - "ansiedad quiropráctica San Antonio"

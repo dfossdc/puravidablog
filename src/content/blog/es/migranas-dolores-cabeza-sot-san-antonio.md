@@ -3,7 +3,7 @@ title: "Migrañas y Dolores de Cabeza: El Enfoque SOT Que Cambia Vidas en San An
 description: "Más de 39 millones de americanos sufren migrañas. Descubre cómo la Técnica SOT en Pura Vida Chiropractic San Antonio reduce la frecuencia e intensidad de las migrañas de forma natural."
 date: "2025-03-05"
 author: "Dr. Dan Foss, DC"
-image: "/images/migranas-sot.jpg"
+image: "https://picsum.photos/seed/headache/800/450"
 keywords:
   - "migrañas San Antonio"
   - "dolor de cabeza quiropráctica San Antonio"

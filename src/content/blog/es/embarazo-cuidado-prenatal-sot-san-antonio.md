@@ -3,7 +3,7 @@ title: "Quiropráctica SOT Durante el Embarazo: Bienestar Para Mamá y Bebé en 
 description: "El embarazo transforma tu cuerpo. Descubre cómo la Técnica SOT en Pura Vida Chiropractic San Antonio alivia el dolor pélvico, prepara el parto y cuida tu salud prenatal de forma segura."
 date: "2025-03-21"
 author: "Dr. Dan Foss, DC"
-image: "/images/embarazo-sot.jpg"
+image: "https://picsum.photos/seed/pregnancy/800/450"
 keywords:
   - "quiropráctica embarazo San Antonio"
   - "dolor pélvico embarazo San Antonio"
