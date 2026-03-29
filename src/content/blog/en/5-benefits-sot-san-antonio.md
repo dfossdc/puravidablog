@@ -109,6 +109,6 @@ Your first step is a **free evaluation** at Pura Vida Chiropractic. During this 
 
 We are conveniently located in San Antonio, TX and welcome patients from the surrounding areas including Alamo Heights, Stone Oak, Leon Valley, and the Medical Center district.
 
-**Call us today at (210) 234-5678** or visit us at 1234 Alamo Plaza Dr, Suite 100, San Antonio, TX 78205.
+**Call us today at (210) 234-5678** or visit us at 2318 NW Military Hwy Suite 103, San Antonio, TX 78231.
 
 *Pura Vida — live life to the fullest.*

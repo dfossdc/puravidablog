@@ -109,6 +109,6 @@ Tu primer paso es una **evaluación gratuita** en Pura Vida Chiropractic. Durant
 
 Estamos ubicados convenientemente en San Antonio, TX y damos la bienvenida a pacientes de las áreas circundantes, incluyendo Alamo Heights, Stone Oak, Leon Valley y el distrito del Centro Médico.
 
-**Llámanos hoy al (210) 234-5678** o visítanos en 1234 Alamo Plaza Dr, Suite 100, San Antonio, TX 78205.
+**Llámanos hoy al (210) 234-5678** o visítanos en 2318 NW Military Hwy Suite 103, San Antonio, TX 78231.
 
 *Pura Vida — vive la vida al máximo.*

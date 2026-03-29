@@ -48,9 +48,9 @@ export default function Footer({ locale }: FooterProps) {
         <div className={styles.col}>
           <h3 className={styles.colTitle}>{t.address}</h3>
           <address className={styles.address}>
-            1234 Alamo Plaza Dr, Suite 100
+            2318 NW Military Hwy Suite 103
             <br />
-            San Antonio, TX 78205
+            San Antonio, TX 78231
           </address>
           <p className={styles.phone}>
             <span className={styles.label}>{t.phone}:</span>{" "}
