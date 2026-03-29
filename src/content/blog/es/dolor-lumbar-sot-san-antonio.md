@@ -3,7 +3,7 @@ title: "Dolor Lumbar y la Técnica SOT: Alivio Natural en San Antonio"
 description: "El dolor lumbar afecta al 80% de los adultos. Descubre cómo la Técnica Sacro-Occipital (SOT) corrige la causa raíz y ofrece alivio duradero en San Antonio, TX."
 date: "2025-03-01"
 author: "Dr. Dan Foss, DC"
-image: "https://source.unsplash.com/800x450/?backache,lumbar,spine,relief&sig=32"
+image: "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?w=800&h=450&fit=crop&auto=format"
 keywords:
   - "dolor lumbar San Antonio"
   - "quiropráctica dolor de espalda San Antonio"

@@ -3,7 +3,7 @@ title: "Migraines & Headaches: Natural Relief with SOT in San Antonio"
 description: "Tired of migraines and chronic headaches controlling your life in San Antonio? Discover how the Sacro-Occipital Technique at Pura Vida Chiropractic targets the structural causes of head pain."
 date: "2025-03-05"
 author: "Dr. Dan Foss, DC"
-image: "https://source.unsplash.com/800x450/?headache,migraine,woman&sig=4"
+image: "https://images.unsplash.com/photo-1523712999-277f3168c9b0?w=800&h=450&fit=crop&auto=format"
 keywords:
   - "migraine relief San Antonio"
   - "headache chiropractor San Antonio"

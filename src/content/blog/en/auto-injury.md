@@ -3,7 +3,7 @@ title: "Auto Injury Chiropractor in San Antonio: What to Do After a Car Accident
 description: "Been in a car accident in San Antonio? Dr. Dan Foss at Pura Vida Chiropractic treats whiplash, back pain, and hidden injuries. Get a free evaluation today."
 date: "2025-02-01"
 author: "Dr. Dan Foss, DC"
-image: "https://source.unsplash.com/800x450/?car,accident,injury&sig=53"
+image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=450&fit=crop&auto=format"
 keywords:
   - "auto injury chiropractor San Antonio"
   - "car accident chiropractor San Antonio"

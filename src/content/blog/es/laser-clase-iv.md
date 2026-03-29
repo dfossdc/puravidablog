@@ -3,7 +3,7 @@ title: "Terapia Láser Clase IV en San Antonio: Sanación Profunda para el Dolor
 description: "La terapia láser Clase IV en Pura Vida Quiropráctica de San Antonio ofrece sanación profunda mediante fotobiomodulación. Reduzca el dolor y la inflamación sin medicamentos."
 date: "2025-02-01"
 author: "Dr. Dan Foss, DC"
-image: "https://source.unsplash.com/800x450/?laser,terapia,dolor,profundo&sig=66"
+image: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800&h=450&fit=crop&auto=format"
 keywords:
   - "terapia láser Clase IV San Antonio"
   - "tratamiento láser para el dolor San Antonio"

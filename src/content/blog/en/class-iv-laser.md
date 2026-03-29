@@ -3,7 +3,7 @@ title: "Class IV Laser Therapy San Antonio: Deep Healing for Stubborn Pain"
 description: "Class IV laser therapy at Pura Vida Chiropractic in San Antonio delivers deep tissue healing through photobiomodulation. Reduce pain and inflammation without drugs."
 date: "2025-02-01"
 author: "Dr. Dan Foss, DC"
-image: "https://source.unsplash.com/800x450/?laser,therapy,pain,relief&sig=56"
+image: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800&h=450&fit=crop&auto=format"
 keywords:
   - "Class IV laser therapy San Antonio"
   - "laser pain treatment San Antonio"

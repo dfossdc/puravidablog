@@ -3,7 +3,7 @@ title: "Terapia SoftWave en San Antonio: Regeneración Sin Cirugía"
 description: "La terapia SoftWave en Pura Vida Quiropráctica de San Antonio activa la regeneración tisular natural para sanar el dolor sin cirugía ni inyecciones. Evaluación gratis."
 date: "2025-02-01"
 author: "Dr. Dan Foss, DC"
-image: "https://source.unsplash.com/800x450/?terapia,ultrasonido,regeneracion&sig=62"
+image: "https://images.unsplash.com/photo-1559757175-0eb8772c7976?w=800&h=450&fit=crop&auto=format"
 keywords:
   - "terapia SoftWave San Antonio"
   - "regeneración tisular San Antonio"

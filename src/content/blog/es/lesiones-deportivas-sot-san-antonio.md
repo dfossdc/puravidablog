@@ -3,7 +3,7 @@ title: "Lesiones Deportivas y SOT: Recuperación Más Rápida para Atletas en Sa
 description: "Los atletas de San Antonio confían en la Técnica SOT para recuperarse más rápido de lesiones deportivas y rendir al máximo. Descubre cómo el Dr. Dan Foss, DC puede ayudarte."
 date: "2025-03-15"
 author: "Dr. Dan Foss, DC"
-image: "https://source.unsplash.com/800x450/?athlete,sport,gym,training&sig=39"
+image: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=450&fit=crop&auto=format"
 keywords:
   - "lesiones deportivas San Antonio"
   - "quiropráctica deportiva San Antonio"

@@ -3,7 +3,7 @@ title: "Ciática: Cómo la Técnica SOT Alivia el Dolor del Nervio Ciático en S
 description: "El dolor ciático puede ser debilitante. Aprende cómo el SOT quiropráctica en Pura Vida Chiropractic San Antonio libera la compresión del nervio ciático sin cirugía ni medicamentos."
 date: "2025-03-07"
 author: "Dr. Dan Foss, DC"
-image: "https://source.unsplash.com/800x450/?hip,sciatic,back,pain&sig=35"
+image: "https://images.unsplash.com/photo-1536896407-2415c2279f93?w=800&h=450&fit=crop&auto=format"
 keywords:
   - "ciática San Antonio"
   - "dolor nervio ciático San Antonio"

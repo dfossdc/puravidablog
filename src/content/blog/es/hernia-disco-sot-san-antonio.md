@@ -3,7 +3,7 @@ title: "Hernia de Disco y SOT: Recuperación Natural Sin Cirugía en San Antonio
 description: "Una hernia de disco no siempre requiere cirugía. Descubre cómo la Técnica SOT en Pura Vida Chiropractic San Antonio descomprime los discos y restaura tu movilidad de forma natural."
 date: "2025-03-09"
 author: "Dr. Dan Foss, DC"
-image: "https://source.unsplash.com/800x450/?vertebrae,spine,disc,medical&sig=36"
+image: "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&h=450&fit=crop&auto=format"
 keywords:
   - "hernia de disco San Antonio"
   - "tratamiento hernia disco sin cirugía"

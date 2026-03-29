@@ -3,7 +3,7 @@ title: "Dolor de Cuello: Cómo el SOT Quiropráctica Alivia la Tensión Cervical
 description: "El dolor cervical es una epidemia moderna. Aprende cómo la Técnica SOT en Pura Vida Chiropractic San Antonio trata las causas estructurales del dolor de cuello de forma natural."
 date: "2025-03-03"
 author: "Dr. Dan Foss, DC"
-image: "https://source.unsplash.com/800x450/?neck,cervical,tension,desk&sig=33"
+image: "https://images.unsplash.com/photo-1552693673-1bf958298935?w=800&h=450&fit=crop&auto=format"
 keywords:
   - "dolor de cuello San Antonio"
   - "dolor cervical quiropráctica San Antonio"

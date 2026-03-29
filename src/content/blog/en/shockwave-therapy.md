@@ -3,7 +3,7 @@ title: "Shockwave Therapy San Antonio: Heal Chronic Pain at the Root"
 description: "Shockwave therapy at Pura Vida Chiropractic in San Antonio targets the root cause of chronic pain, stimulating healing for tendons, fascia, and soft tissue."
 date: "2025-02-01"
 author: "Dr. Dan Foss, DC"
-image: "https://source.unsplash.com/800x450/?physical,therapy,recovery&sig=55"
+image: "https://images.unsplash.com/photo-1588776814546-1ffbb3cd01ac?w=800&h=450&fit=crop&auto=format"
 keywords:
   - "shockwave therapy San Antonio"
   - "chronic pain treatment San Antonio"

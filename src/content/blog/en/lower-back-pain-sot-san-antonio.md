@@ -3,7 +3,7 @@ title: "Lower Back Pain Relief with SOT Chiropractic in San Antonio"
 description: "Discover how the Sacro-Occipital Technique (SOT) at Pura Vida Chiropractic in San Antonio, TX provides lasting lower back pain relief without drugs or surgery."
 date: "2025-03-01"
 author: "Dr. Dan Foss, DC"
-image: "https://source.unsplash.com/800x450/?lower,back,pain,spine&sig=2"
+image: "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?w=800&h=450&fit=crop&auto=format"
 keywords:
   - "lower back pain San Antonio"
   - "SOT chiropractic San Antonio"

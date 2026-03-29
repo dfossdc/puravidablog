@@ -3,7 +3,7 @@ title: "Mala Postura y Escoliosis: Cómo el SOT Corrige Tu Columna en San Antoni
 description: "La mala postura y la escoliosis afectan millones de personas. Descubre cómo la Técnica SOT en Pura Vida Chiropractic San Antonio mejora la alineación vertebral y la calidad de vida."
 date: "2025-03-11"
 author: "Dr. Dan Foss, DC"
-image: "https://source.unsplash.com/800x450/?scoliosis,posture,straight,back&sig=37"
+image: "https://images.unsplash.com/photo-1520618836881-8cffef4e0c86?w=800&h=450&fit=crop&auto=format"
 keywords:
   - "escoliosis San Antonio"
   - "mala postura quiropráctica San Antonio"

@@ -3,7 +3,7 @@ title: "Fibromyalgia & Chronic Pain: The SOT Chiropractic Approach in San Antoni
 description: "Pura Vida Chiropractic in San Antonio offers the Sacro-Occipital Technique as a gentle, effective approach to managing fibromyalgia and chronic pain without drugs or surgery."
 date: "2025-03-19"
 author: "Dr. Dan Foss, DC"
-image: "https://source.unsplash.com/800x450/?chronic,pain,wellness,healing&sig=11"
+image: "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=800&h=450&fit=crop&auto=format"
 keywords:
   - "fibromyalgia chiropractic San Antonio"
   - "chronic pain relief San Antonio"

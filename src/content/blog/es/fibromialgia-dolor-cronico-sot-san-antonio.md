@@ -3,7 +3,7 @@ title: "Fibromialgia y Dolor Crónico: El Rol del SOT Quiropráctico en San Anto
 description: "La fibromialgia afecta a millones sin diagnóstico claro. Descubre cómo la Técnica SOT en Pura Vida Chiropractic San Antonio puede reducir el dolor generalizado y mejorar la calidad de vida."
 date: "2025-03-19"
 author: "Dr. Dan Foss, DC"
-image: "https://source.unsplash.com/800x450/?pain,body,fatigue,rest&sig=41"
+image: "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=800&h=450&fit=crop&auto=format"
 keywords:
   - "fibromialgia San Antonio"
   - "dolor crónico quiropráctica San Antonio"

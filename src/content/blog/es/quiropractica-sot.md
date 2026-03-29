@@ -3,7 +3,7 @@ title: "Quiropráctica SOT en San Antonio: Cómo la Técnica Sacro-Occipital Res
 description: "Descubra cómo la quiropráctica SOT en Pura Vida Quiropráctica de San Antonio restaura el equilibrio espinal y alivia el dolor de forma natural. Evaluación gratis."
 date: "2025-02-01"
 author: "Dr. Dan Foss, DC"
-image: "https://source.unsplash.com/800x450/?quiropractica,columna,salud&sig=61"
+image: "https://images.unsplash.com/photo-1585776245991-cf89dd1fc19e?w=800&h=450&fit=crop&auto=format"
 keywords:
   - "quiropráctica SOT San Antonio"
   - "Técnica Sacro-Occipital San Antonio"

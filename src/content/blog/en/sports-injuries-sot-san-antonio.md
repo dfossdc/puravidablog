@@ -3,7 +3,7 @@ title: "Sports Injuries & SOT: Faster Recovery for San Antonio Athletes"
 description: "San Antonio athletes are discovering how the Sacro-Occipital Technique at Pura Vida Chiropractic speeds recovery from sports injuries and enhances performance naturally."
 date: "2025-03-15"
 author: "Dr. Dan Foss, DC"
-image: "https://source.unsplash.com/800x450/?sports,athlete,running,fitness&sig=9"
+image: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=450&fit=crop&auto=format"
 keywords:
   - "sports injury chiropractic San Antonio"
   - "SOT chiropractic athletes San Antonio"

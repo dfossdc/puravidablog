@@ -3,7 +3,7 @@ title: "Quiropráctico para Lesiones de Auto en San Antonio: Qué Hacer Después
 description: "¿Tuvo un accidente de auto en San Antonio? El Dr. Dan Foss en Pura Vida Quiropráctica trata latigazos, dolor de espalda y lesiones ocultas. Evaluación gratis."
 date: "2025-02-01"
 author: "Dr. Dan Foss, DC"
-image: "https://source.unsplash.com/800x450/?accidente,auto,lesion&sig=63"
+image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=450&fit=crop&auto=format"
 keywords:
   - "quiropráctico lesiones de auto San Antonio"
   - "accidente de carro quiropráctico San Antonio"

@@ -3,7 +3,7 @@ title: "Pediatric & Prenatal Chiropractic in San Antonio: Safe Care for Every St
 description: "Gentle chiropractic care for pregnant moms and children in San Antonio. Dr. Dan Foss at Pura Vida Chiropractic supports health from pregnancy through childhood."
 date: "2025-02-01"
 author: "Dr. Dan Foss, DC"
-image: "https://source.unsplash.com/800x450/?pregnancy,baby,children&sig=54"
+image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&h=450&fit=crop&auto=format"
 keywords:
   - "pediatric chiropractor San Antonio"
   - "prenatal chiropractic San Antonio"

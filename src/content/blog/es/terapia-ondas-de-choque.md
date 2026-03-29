@@ -3,7 +3,7 @@ title: "Terapia de Ondas de Choque en San Antonio: Sane el Dolor Crónico desde 
 description: "La terapia de ondas de choque en Pura Vida Quiropráctica de San Antonio trata la causa raíz del dolor crónico, estimulando la sanación de tendones y tejidos blandos."
 date: "2025-02-01"
 author: "Dr. Dan Foss, DC"
-image: "https://source.unsplash.com/800x450/?terapia,dolor,cronico&sig=65"
+image: "https://images.unsplash.com/photo-1588776814546-1ffbb3cd01ac?w=800&h=450&fit=crop&auto=format"
 keywords:
   - "terapia de ondas de choque San Antonio"
   - "tratamiento dolor crónico San Antonio"

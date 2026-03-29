@@ -3,7 +3,7 @@ title: "Quiropráctica Pediátrica y Prenatal en San Antonio: Cuidado Seguro en 
 description: "Cuidado quiropráctico suave para mamás embarazadas y niños en San Antonio. El Dr. Dan Foss en Pura Vida Quiropráctica apoya la salud desde el embarazo hasta la infancia."
 date: "2025-02-01"
 author: "Dr. Dan Foss, DC"
-image: "https://source.unsplash.com/800x450/?bebe,embarazo,nino&sig=64"
+image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=800&h=450&fit=crop&auto=format"
 keywords:
   - "quiropráctico pediátrico San Antonio"
   - "quiropráctica prenatal San Antonio"

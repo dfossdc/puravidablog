@@ -3,7 +3,7 @@ title: "SoftWave Therapy in San Antonio: Regenerate Without Surgery"
 description: "Learn how SoftWave therapy at Pura Vida Chiropractic in San Antonio stimulates natural tissue regeneration to heal pain without surgery or injections."
 date: "2025-02-01"
 author: "Dr. Dan Foss, DC"
-image: "https://source.unsplash.com/800x450/?ultrasound,therapy,healing&sig=52"
+image: "https://images.unsplash.com/photo-1559757175-0eb8772c7976?w=800&h=450&fit=crop&auto=format"
 keywords:
   - "SoftWave therapy San Antonio"
   - "tissue regeneration San Antonio"
