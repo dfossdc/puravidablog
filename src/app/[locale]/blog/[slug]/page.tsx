@@ -7,6 +7,8 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import styles from "./post.module.css";
 
+const BASE_URL = "https://puravidasanantonio.com";
+
 interface Props {
   params: Promise<{ locale: string; slug: string }>;
 }
@@ -27,18 +29,20 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale, slug } = await params;
   const data = await getPostHtml(locale, slug);
   if (!data) return {};
-
   const { post } = data;
+  const canonical = `${BASE_URL}/${locale}/blog/${slug}`;
+
   return {
-    title: post.title,
+    title: `${post.title} | Pura Vida Chiropractic San Antonio`,
     description: post.description,
     keywords: post.keywords,
     authors: [{ name: post.author }],
     alternates: {
-      canonical: `/${locale}/blog/${slug}`,
+      canonical,
       languages: {
-        en: `/en/blog/${slug}`,
-        es: `/es/blog/${slug}`,
+        en: `${BASE_URL}/en/blog/${slug}`,
+        es: `${BASE_URL}/es/blog/${slug}`,
+        "x-default": `${BASE_URL}/en/blog/${slug}`,
       },
     },
     openGraph: {
@@ -47,8 +51,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       type: "article",
       publishedTime: post.date,
       authors: [post.author],
+      url: canonical,
+      siteName: "Pura Vida Chiropractic",
       images: post.image
-        ? [{ url: post.image, width: 1200, height: 630, alt: post.title }]
+        ? [{ url: post.image, width: 800, height: 450, alt: post.title }]
         : [],
       locale: locale === "es" ? "es_MX" : "en_US",
     },
@@ -74,10 +80,33 @@ export default async function BlogPost({ params }: Props) {
     { year: "numeric", month: "long", day: "numeric" }
   );
 
+  const articleSchema = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": post.title,
+    "description": post.description,
+    "datePublished": post.date,
+    "author": {
+      "@type": "Person",
+      "name": "Dr. Dan Foss, DC",
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Pura Vida Chiropractic",
+      "url": BASE_URL,
+    },
+    "url": `${BASE_URL}/${locale}/blog/${slug}`,
+    "image": post.image || "",
+  };
+
   return (
     <>
       <Header locale={locale as "en" | "es"} currentSlug={slug} />
       <main className={styles.main}>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+        />
         <article className={styles.article}>
           <Link href={`/${locale}/blog`} className={styles.back}>
             ← {isEs ? "Volver al blog" : "Back to blog"}
@@ -99,10 +128,11 @@ export default async function BlogPost({ params }: Props) {
               <Image
                 src={post.image}
                 alt={post.title}
-                width={1200}
-                height={630}
+                width={800}
+                height={450}
                 className={styles.cover}
                 priority
+                unoptimized
               />
             </div>
           )}

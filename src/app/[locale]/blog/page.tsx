@@ -5,6 +5,8 @@ import Footer from "@/components/Footer";
 import BlogCard from "@/components/BlogCard";
 import styles from "./blog.module.css";
 
+const BASE_URL = "https://puravidasanantonio.com";
+
 interface Props {
   params: Promise<{ locale: string }>;
 }
@@ -16,18 +18,20 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale } = await params;
   const isEs = locale === "es";
+  const canonical = `${BASE_URL}/${locale}/blog`;
   return {
     title: isEs
       ? "Blog de Quiropráctica | Pura Vida Chiropractic San Antonio"
       : "Chiropractic Blog | Pura Vida Chiropractic San Antonio",
     description: isEs
-      ? "Artículos sobre salud quiropráctica, la técnica SOT, bienestar y cuidado de la columna vertebral en San Antonio, TX."
-      : "Articles on chiropractic health, the SOT technique, wellness, and spinal care in San Antonio, TX.",
+      ? "Artículos sobre salud quiropráctica, técnica SOT, bienestar y cuidado de la columna vertebral en San Antonio, TX."
+      : "Articles on chiropractic health, SOT technique, wellness, and spinal care in San Antonio, TX.",
     alternates: {
-      canonical: `/${locale}/blog`,
+      canonical,
       languages: {
-        en: "/en/blog",
-        es: "/es/blog",
+        en: `${BASE_URL}/en/blog`,
+        es: `${BASE_URL}/es/blog`,
+        "x-default": `${BASE_URL}/en/blog`,
       },
     },
     openGraph: {
@@ -37,6 +41,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       description: isEs
         ? "Consejos de salud y bienestar del equipo de Pura Vida Chiropractic en San Antonio."
         : "Health and wellness tips from the Pura Vida Chiropractic team in San Antonio.",
+      url: canonical,
       locale: isEs ? "es_MX" : "en_US",
     },
   };
@@ -47,10 +52,33 @@ export default async function BlogIndex({ params }: Props) {
   const posts = getAllPosts(locale);
   const isEs = locale === "es";
 
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": BASE_URL,
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": isEs ? "Blog" : "Blog",
+        "item": `${BASE_URL}/${locale}/blog`,
+      },
+    ],
+  };
+
   return (
     <>
       <Header locale={locale as "en" | "es"} />
       <main className={styles.main}>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+        />
         <section className={styles.hero}>
           <h1 className={styles.heroTitle}>
             {isEs ? "Blog de Quiropráctica" : "Chiropractic Blog"}
