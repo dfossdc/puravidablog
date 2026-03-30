@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { getAllPosts } from "@/lib/posts";
+import { fetchPosts } from "@/lib/posts";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import BlogCard from "@/components/BlogCard";
@@ -47,9 +47,15 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   };
 }
 
+// ISR: revalidate every 60 seconds so new Sanity posts appear quickly
+export const revalidate = 60;
+
 export default async function BlogIndex({ params }: Props) {
   const { locale } = await params;
-  const posts = getAllPosts(locale);
+  const posts = await Promise.race([
+    fetchPosts(locale),
+    new Promise<[]>((resolve) => setTimeout(() => resolve([]), 5000)),
+  ]).catch(() => []);
   const isEs = locale === "es";
 
   const breadcrumbSchema = {

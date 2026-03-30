@@ -1,5 +1,5 @@
 import type { MetadataRoute } from "next";
-import { getPostSlugs, getPostBySlug } from "@/lib/posts";
+import { fetchAllSlugs } from "@/lib/posts";
 
 const BASE_URL = "https://puravidasanantonio.com";
 
@@ -21,7 +21,7 @@ const esServices = [
   "laser-clase-iv",
 ];
 
-export default function sitemap(): MetadataRoute.Sitemap {
+export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const entries: MetadataRoute.Sitemap = [];
 
   // Blog index pages
@@ -34,18 +34,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
     });
   }
 
-  // Blog posts
-  for (const locale of ["en", "es"]) {
-    const slugs = getPostSlugs(locale);
-    for (const slug of slugs) {
-      const post = getPostBySlug(locale, slug);
-      entries.push({
-        url: `${BASE_URL}/${locale}/blog/${slug}`,
-        lastModified: post?.date ? new Date(post.date) : new Date(),
-        changeFrequency: "monthly",
-        priority: 0.8,
-      });
-    }
+  // Blog posts from Sanity (with timeout guard)
+  const slugEntries = await Promise.race([
+    fetchAllSlugs(),
+    new Promise<[]>((resolve) => setTimeout(() => resolve([]), 5000)),
+  ]);
+  for (const { slug, language } of slugEntries) {
+    entries.push({
+      url: `${BASE_URL}/${language}/blog/${slug}`,
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    });
   }
 
   // Service pages

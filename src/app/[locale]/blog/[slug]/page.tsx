@@ -2,34 +2,46 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Image from "next/image";
 import Link from "next/link";
-import { getPostHtml, getPostSlugs } from "@/lib/posts";
+import { fetchPostBySlug, fetchAllSlugs } from "@/lib/posts";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import PortableTextRenderer from "@/components/PortableTextRenderer";
 import styles from "./post.module.css";
 
 const BASE_URL = "https://puravidasanantonio.com";
+
+// ISR: revalidate every 60 seconds
+export const revalidate = 60;
+// Allow pages not in generateStaticParams to be rendered on-demand
+export const dynamicParams = true;
 
 interface Props {
   params: Promise<{ locale: string; slug: string }>;
 }
 
 export async function generateStaticParams() {
-  const locales = ["en", "es"];
-  const paths: { locale: string; slug: string }[] = [];
-  for (const locale of locales) {
-    const slugs = getPostSlugs(locale);
-    for (const slug of slugs) {
-      paths.push({ locale, slug });
-    }
+  // Race against a 5-second timeout — if Sanity is unreachable at build time
+  // all post pages are still served on-demand via ISR (dynamicParams = true).
+  try {
+    const timeout = new Promise<{ locale: string; slug: string }[]>((resolve) =>
+      setTimeout(() => resolve([]), 5000)
+    );
+    const fetch = fetchAllSlugs().then((slugs) =>
+      slugs.map(({ slug, language }) => ({ locale: language, slug }))
+    );
+    return await Promise.race([fetch, timeout]);
+  } catch {
+    return [];
   }
-  return paths;
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale, slug } = await params;
-  const data = await getPostHtml(locale, slug);
-  if (!data) return {};
-  const { post } = data;
+  const post = await Promise.race([
+    fetchPostBySlug(slug, locale),
+    new Promise<null>((resolve) => setTimeout(() => resolve(null), 5000)),
+  ]).catch(() => null);
+  if (!post) return {};
   const canonical = `${BASE_URL}/${locale}/blog/${slug}`;
 
   return {
@@ -69,10 +81,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 export default async function BlogPost({ params }: Props) {
   const { locale, slug } = await params;
-  const data = await getPostHtml(locale, slug);
-  if (!data) notFound();
+  const post = await fetchPostBySlug(slug, locale);
+  if (!post) notFound();
 
-  const { post, html } = data;
   const isEs = locale === "es";
 
   const formattedDate = new Date(post.date).toLocaleDateString(
@@ -83,20 +94,17 @@ export default async function BlogPost({ params }: Props) {
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": post.title,
-    "description": post.description,
-    "datePublished": post.date,
-    "author": {
-      "@type": "Person",
-      "name": "Dr. Dan Foss, DC",
-    },
-    "publisher": {
+    headline: post.title,
+    description: post.description,
+    datePublished: post.date,
+    author: { "@type": "Person", name: "Dr. Dan Foss, DC" },
+    publisher: {
       "@type": "Organization",
-      "name": "Pura Vida Chiropractic",
-      "url": BASE_URL,
+      name: "Pura Vida Chiropractic",
+      url: BASE_URL,
     },
-    "url": `${BASE_URL}/${locale}/blog/${slug}`,
-    "image": post.image || "",
+    url: `${BASE_URL}/${locale}/blog/${slug}`,
+    image: post.image || "",
   };
 
   return (
@@ -137,10 +145,7 @@ export default async function BlogPost({ params }: Props) {
             </div>
           )}
 
-          <div
-            className={`prose ${styles.content}`}
-            dangerouslySetInnerHTML={{ __html: html }}
-          />
+          <PortableTextRenderer value={post.body} />
         </article>
       </main>
       <Footer locale={locale as "en" | "es"} />

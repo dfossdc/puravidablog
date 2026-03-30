@@ -1,9 +1,16 @@
-import fs from "fs";
-import path from "path";
-import matter from "gray-matter";
-import { remark } from "remark";
-import remarkHtml from "remark-html";
+import { sanityClient } from "@/sanity/client";
+import { urlFor } from "@/sanity/image";
+import { postsQuery, postBySlugQuery, allPostSlugsQuery } from "@/sanity/queries";
+import type {
+  SanityPostSummary,
+  SanityPost,
+  SanitySlugEntry,
+} from "@/sanity/types";
+import type { PortableTextBlock } from "@portabletext/react";
 
+// ── Types ──────────────────────────────────────────────────────────────────
+
+/** Shape consumed by BlogCard and blog index */
 export interface PostFrontmatter {
   title: string;
   description: string;
@@ -14,47 +21,62 @@ export interface PostFrontmatter {
   slug: string;
 }
 
+/** Full post including Portable Text body for rendering */
 export interface Post extends PostFrontmatter {
-  content: string;
+  body: PortableTextBlock[];
 }
 
-const contentDir = path.join(process.cwd(), "src/content/blog");
+// ── Helpers ────────────────────────────────────────────────────────────────
 
-export function getPostSlugs(locale: string): string[] {
-  const dir = path.join(contentDir, locale);
-  if (!fs.existsSync(dir)) return [];
-  return fs
-    .readdirSync(dir)
-    .filter((f) => f.endsWith(".md"))
-    .map((f) => f.replace(/\.md$/, ""));
-}
-
-export function getPostBySlug(locale: string, slug: string): Post | null {
-  const filePath = path.join(contentDir, locale, `${slug}.md`);
-  if (!fs.existsSync(filePath)) return null;
-
-  const raw = fs.readFileSync(filePath, "utf8");
-  const { data, content } = matter(raw);
-
+function mapToPostFrontmatter(post: SanityPostSummary): PostFrontmatter {
   return {
-    ...(data as PostFrontmatter),
-    slug,
-    content,
+    title: post.title,
+    description: post.description || "",
+    date: post.publishedAt || new Date().toISOString(),
+    author: "Dr. Dan Foss, DC",
+    image: post.mainImage
+      ? urlFor(post.mainImage).width(800).height(450).fit("crop").url()
+      : "",
+    keywords: post.keywords
+      ? post.keywords.split(",").map((k) => k.trim()).filter(Boolean)
+      : [],
+    slug: post.slug.current,
   };
 }
 
-export async function getPostHtml(locale: string, slug: string): Promise<{ post: Post; html: string } | null> {
-  const post = getPostBySlug(locale, slug);
-  if (!post) return null;
+// ── Data-fetching functions ────────────────────────────────────────────────
 
-  const result = await remark().use(remarkHtml).process(post.content);
-  return { post, html: result.toString() };
+/** Fetch all posts for a given locale — used on blog index */
+export async function fetchPosts(lang: string): Promise<PostFrontmatter[]> {
+  const posts = await sanityClient.fetch<SanityPostSummary[]>(postsQuery, {
+    lang,
+  });
+  return (posts || []).map(mapToPostFrontmatter);
 }
 
-export function getAllPosts(locale: string): PostFrontmatter[] {
-  const slugs = getPostSlugs(locale);
-  return slugs
-    .map((slug) => getPostBySlug(locale, slug))
-    .filter((p): p is Post => p !== null)
-    .sort((a, b) => (a.date < b.date ? 1 : -1));
+/** Fetch a single post by slug and locale — used on post page */
+export async function fetchPostBySlug(
+  slug: string,
+  lang: string
+): Promise<Post | null> {
+  const post = await sanityClient.fetch<SanityPost | null>(postBySlugQuery, {
+    slug,
+    lang,
+  });
+  if (!post) return null;
+
+  return {
+    ...mapToPostFrontmatter(post),
+    author: post.author?.name || "Dr. Dan Foss, DC",
+    image: post.mainImage
+      ? urlFor(post.mainImage).width(800).height(450).fit("crop").url()
+      : "",
+    body: post.body || [],
+  };
+}
+
+/** Fetch all slug+language pairs — used in generateStaticParams */
+export async function fetchAllSlugs(): Promise<SanitySlugEntry[]> {
+  const slugs = await sanityClient.fetch<SanitySlugEntry[]>(allPostSlugsQuery);
+  return slugs || [];
 }
