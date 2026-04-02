@@ -1,3 +1,4 @@
+import Link from "next/link";
 import Image from "next/image";
 import styles from "./Footer.module.css";
 
@@ -5,76 +6,113 @@ interface FooterProps {
   locale: "en" | "es";
 }
 
-const content = {
-  en: {
-    hours: "Office Hours",
-    schedule: [
-      { day: "Mon, Tue, Thu", time: "7:00 AM – 4:00 PM" },
-      { day: "Wed, Fri – Sun", time: "Closed" },
-    ],
-    address: "Address",
-    phone: "Phone",
-    copyright: "Pura Vida Chiropractic. All rights reserved.",
-  },
-  es: {
-    hours: "Horario de Atención",
-    schedule: [
-      { day: "Lun, Mar, Jue", time: "7:00 AM – 4:00 PM" },
-      { day: "Mié, Vie – Dom", time: "Cerrado" },
-    ],
-    address: "Dirección",
-    phone: "Teléfono",
-    copyright: "Pura Vida Chiropractic. Todos los derechos reservados.",
-  },
-};
+const socialLinks = [
+  { name: "Facebook", href: "https://www.facebook.com/puravidasanantonio/" },
+  { name: "Instagram", href: "https://www.instagram.com/puravidasatx/" },
+  { name: "YouTube", href: "https://www.youtube.com/@puravidasanantonio" },
+  { name: "Yelp", href: "https://www.yelp.com/biz/pura-vida-chiropractic-san-antonio" },
+];
 
 export default function Footer({ locale }: FooterProps) {
-  const t = content[locale];
+  const isEs = locale === "es";
   return (
     <footer className={styles.footer}>
+
+      {/* ── Top: Logo + Tagline ── */}
+      <div className={styles.footerTop}>
+        <div className={styles.footerTopInner}>
+          <Image
+            src="/images/puravidalogo.jpg"
+            alt="Pura Vida Chiropractic"
+            width={260}
+            height={80}
+            className={styles.topLogo}
+          />
+          <p className={styles.topTagline}>
+            {isEs ? "Mejore su Salud. Mantenga su Salud." : "Get Healthy. Stay Healthy."}
+          </p>
+        </div>
+      </div>
+
+      {/* ── Middle: 3 columns ── */}
       <div className={styles.inner}>
         <div className={styles.col}>
-          <Image
-              src="/images/logo.png"
-              alt="Pura Vida Chiropractic"
-              width={160}
-              height={54}
-              className={styles.logo}
-            />
+          <h3 className={styles.colTitle}>{isEs ? "Pura Vida Quiropráctica" : "Pura Vida Chiropractic"}</h3>
           <p className={styles.tagline}>
-            {locale === "en"
-              ? "Holistic chiropractic care in San Antonio, TX."
-              : "Atención quiropráctica holística en San Antonio, TX."}
+            {isEs
+              ? "Atención quiropráctica bilingüe en San Antonio, TX. Certificado SOT Avanzado. 23+ años de experiencia."
+              : "Bilingual chiropractic care in San Antonio, TX. Advanced SOT Certified. 23+ years experience."}
           </p>
+          <div className={styles.social}>
+            <p className={styles.socialLabel}>{isEs ? "Síguenos" : "Follow Us"}</p>
+            <div className={styles.socialIcons}>
+              {socialLinks.map((s) => (
+                <a key={s.name} href={s.href} target="_blank" rel="noopener noreferrer" className={styles.socialIcon}>
+                  {s.name}
+                </a>
+              ))}
+            </div>
+          </div>
         </div>
 
         <div className={styles.col}>
-          <h3 className={styles.colTitle}>{t.address}</h3>
+          <h3 className={styles.colTitle}>{isEs ? "Dirección" : "Address"}</h3>
           <address className={styles.address}>
-            2318 NW Military Hwy Suite 103
-            <br />
+            2318 NW Military Hwy Suite 103<br />
             San Antonio, TX 78231
           </address>
           <p className={styles.phone}>
-            <span className={styles.label}>{t.phone}:</span>{" "}
+            <span className={styles.label}>{isEs ? "Teléfono" : "Phone"}:</span>{" "}
             <a href="tel:+12106851994">(210) 685-1994</a>
+          </p>
+          <p className={styles.email}>
+            <a href="mailto:dfossdc@yahoo.com">dfossdc@yahoo.com</a>
           </p>
         </div>
 
         <div className={styles.col}>
-          <h3 className={styles.colTitle}>{t.hours}</h3>
+          <h3 className={styles.colTitle}>{isEs ? "Horario" : "Office Hours"}</h3>
           <ul className={styles.schedule}>
-            {t.schedule.map(({ day, time }) => (
-              <li key={day}>
-                <span className={styles.day}>{day}</span>
-                <span>{time}</span>
-              </li>
-            ))}
+            <li>
+              <span className={styles.day}>{isEs ? "Lun, Mar, Jue" : "Mon, Tue, Thu"}</span>
+              <span>7:00 AM – 4:00 PM</span>
+            </li>
+            <li>
+              <span className={styles.day}>{isEs ? "Mié, Vie–Dom" : "Wed, Fri–Sun"}</span>
+              <span>{isEs ? "Cerrado" : "Closed"}</span>
+            </li>
           </ul>
+          <div className={styles.quickLinks}>
+            <h4 className={styles.quickTitle}>{isEs ? "Acceso Rápido" : "Quick Links"}</h4>
+            <ul className={styles.quickList}>
+              <li><Link href={`/${locale}/about`}>{isEs ? "Sobre Nosotros" : "About"}</Link></li>
+              <li><Link href={`/${locale}/services/chiropractic-care`}>{isEs ? "Servicios" : "Services"}</Link></li>
+              <li><Link href={`/${locale}/blog`}>Blog</Link></li>
+              <li><Link href={`/${locale}/contact`}>{isEs ? "Contacto" : "Contact"}</Link></li>
+            </ul>
+          </div>
         </div>
       </div>
+
+      {/* ── Bottom bar ── */}
       <div className={styles.bottom}>
-        <p>© {new Date().getFullYear()} {t.copyright}</p>
+        <p className={styles.bottomCopy}>
+          © {new Date().getFullYear()} Pura Vida Chiropractic.{" "}
+          {isEs ? "Todos los derechos reservados." : "All rights reserved."}
+        </p>
+        <div className={styles.bottomLinks}>
+          <a href="https://puravidasanantonio.com/privacy-policy/" target="_blank" rel="noopener noreferrer">
+            {isEs ? "Privacidad" : "Privacy Policy"}
+          </a>
+          <span className={styles.bottomSep}>|</span>
+          <a href="https://puravidasanantonio.com/terms-of-service/" target="_blank" rel="noopener noreferrer">
+            {isEs ? "Términos" : "Terms"}
+          </a>
+          <span className={styles.bottomSep}>|</span>
+          <a href="https://puravidasanantonio.com/healthcare-disclaimer/" target="_blank" rel="noopener noreferrer">
+            {isEs ? "Aviso Médico" : "Healthcare Disclaimer"}
+          </a>
+        </div>
       </div>
     </footer>
   );

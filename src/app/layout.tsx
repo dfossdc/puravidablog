@@ -14,18 +14,22 @@ export const metadata: Metadata = {
     "Bilingual chiropractic clinic in San Antonio, TX specializing in SOT, SoftWave, shockwave, Class IV laser, auto injury, and pediatric/prenatal care. Free evaluation.",
   keywords: [
     "chiropractor San Antonio",
+    "quiropráctico San Antonio",
     "SOT chiropractic San Antonio",
     "SoftWave therapy San Antonio",
     "auto injury chiropractor San Antonio",
     "pediatric chiropractor San Antonio",
-    "quiropráctico San Antonio",
+    "bilingual chiropractor San Antonio",
+    "quiropráctica San Antonio TX",
+    "quiropráctico que habla español San Antonio",
+    "mejor quiropráctico San Antonio",
   ],
   alternates: {
     canonical: BASE_URL,
     languages: {
-      "en": `${BASE_URL}/en/blog`,
-      "es": `${BASE_URL}/es/blog`,
-      "x-default": `${BASE_URL}/en/blog`,
+      en: `${BASE_URL}/en`,
+      es: `${BASE_URL}/es`,
+      "x-default": `${BASE_URL}/en`,
     },
   },
   openGraph: {
@@ -33,7 +37,14 @@ export const metadata: Metadata = {
     type: "website",
     url: BASE_URL,
     locale: "en_US",
-    images: [{ url: `${BASE_URL}/images/logo.svg`, width: 440, height: 100, alt: "Pura Vida Chiropractic" }],
+    images: [
+      {
+        url: "https://www.puravidasanantonio.com/wp-content/uploads/2026/03/Chiropractor-San-Antonio-TX-Dan-Foss-Adjusting-A-Patient-HP.webp",
+        width: 1200,
+        height: 630,
+        alt: "Pura Vida Chiropractic San Antonio TX",
+      },
+    ],
   },
   twitter: {
     card: "summary_large_image",

@@ -5,14 +5,11 @@ import Link from "next/link";
 import { fetchPostBySlug, fetchAllSlugs } from "@/lib/posts";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
-import PortableTextRenderer from "@/components/PortableTextRenderer";
 import styles from "./post.module.css";
 
 const BASE_URL = "https://puravidasanantonio.com";
 
-// ISR: revalidate every 60 seconds
 export const revalidate = 60;
-// Allow pages not in generateStaticParams to be rendered on-demand
 export const dynamicParams = true;
 
 interface Props {
@@ -20,16 +17,9 @@ interface Props {
 }
 
 export async function generateStaticParams() {
-  // Race against a 5-second timeout — if Sanity is unreachable at build time
-  // all post pages are still served on-demand via ISR (dynamicParams = true).
   try {
-    const timeout = new Promise<{ locale: string; slug: string }[]>((resolve) =>
-      setTimeout(() => resolve([]), 5000)
-    );
-    const fetch = fetchAllSlugs().then((slugs) =>
-      slugs.map(({ slug, language }) => ({ locale: language, slug }))
-    );
-    return await Promise.race([fetch, timeout]);
+    const slugs = fetchAllSlugs();
+    return slugs.map(({ slug, lang }) => ({ locale: lang, slug }));
   } catch {
     return [];
   }
@@ -37,13 +27,9 @@ export async function generateStaticParams() {
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale, slug } = await params;
-  const post = await Promise.race([
-    fetchPostBySlug(slug, locale),
-    new Promise<null>((resolve) => setTimeout(() => resolve(null), 5000)),
-  ]).catch(() => null);
+  const post = await fetchPostBySlug(slug, locale);
   if (!post) return {};
   const canonical = `${BASE_URL}/${locale}/blog/${slug}`;
-
   return {
     title: `${post.title} | Pura Vida Chiropractic San Antonio`,
     description: post.description,
@@ -70,12 +56,6 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
         : [],
       locale: locale === "es" ? "es_MX" : "en_US",
     },
-    twitter: {
-      card: "summary_large_image",
-      title: post.title,
-      description: post.description,
-      images: post.image ? [post.image] : [],
-    },
   };
 }
 
@@ -85,7 +65,6 @@ export default async function BlogPost({ params }: Props) {
   if (!post) notFound();
 
   const isEs = locale === "es";
-
   const formattedDate = new Date(post.date).toLocaleDateString(
     isEs ? "es-MX" : "en-US",
     { year: "numeric", month: "long", day: "numeric" }
@@ -117,9 +96,8 @@ export default async function BlogPost({ params }: Props) {
         />
         <article className={styles.article}>
           <Link href={`/${locale}/blog`} className={styles.back}>
-            ← {isEs ? "Volver al blog" : "Back to blog"}
+            {isEs ? "← Volver al blog" : "← Back to blog"}
           </Link>
-
           <header className={styles.header}>
             <time className={styles.date} dateTime={post.date}>
               {formattedDate}
@@ -130,7 +108,6 @@ export default async function BlogPost({ params }: Props) {
               {isEs ? "Por" : "By"} <strong>{post.author}</strong>
             </p>
           </header>
-
           {post.image && (
             <div className={styles.coverWrap}>
               <Image
@@ -144,8 +121,10 @@ export default async function BlogPost({ params }: Props) {
               />
             </div>
           )}
-
-          <PortableTextRenderer value={post.body} />
+          <div
+            className={styles.body}
+            dangerouslySetInnerHTML={{ __html: post.content }}
+          />
         </article>
       </main>
       <Footer locale={locale as "en" | "es"} />

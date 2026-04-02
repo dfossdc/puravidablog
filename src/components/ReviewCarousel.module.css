@@ -1,0 +1,297 @@
+/* ── Section ──────────────────────────────────────────── */
+.section {
+  background: #0d1f2d;
+  padding: 3.5rem 1.25rem 0;
+  text-align: center;
+}
+
+/* ── Badge ────────────────────────────────────────────── */
+.badge {
+  display: inline-block;
+  background: #2f7a45;
+  color: #ffffff;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  padding: 0.35rem 1.1rem;
+  border-radius: 50px;
+  margin-bottom: 1.25rem;
+}
+
+/* ── Title ────────────────────────────────────────────── */
+.title {
+  font-family: Georgia, "Times New Roman", serif;
+  font-style: italic;
+  font-size: clamp(1.8rem, 3.5vw, 2.6rem);
+  color: #ffffff;
+  font-weight: 400;
+  margin: 0 0 2.5rem;
+  line-height: 1.2;
+}
+
+/* ── Carousel Row ─────────────────────────────────────── */
+.carouselRow {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  max-width: 1100px;
+  margin: 0 auto 1.5rem;
+}
+
+/* ── Arrow Buttons ────────────────────────────────────── */
+.arrow {
+  flex-shrink: 0;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.1);
+  border: 1.5px solid rgba(255, 255, 255, 0.25);
+  color: #ffffff;
+  font-size: 1.6rem;
+  line-height: 1;
+  cursor: pointer;
+  transition: background 0.2s, transform 0.15s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+}
+
+.arrow:hover {
+  background: rgba(255, 255, 255, 0.2);
+  transform: scale(1.08);
+}
+
+/* ── Cards Wrapper ────────────────────────────────────── */
+.cardsWrap {
+  flex: 1;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.25rem;
+  overflow: hidden;
+}
+
+/* ── Individual Card ──────────────────────────────────── */
+.card {
+  background: #ffffff;
+  border-radius: 14px;
+  padding: 1.25rem 1.25rem 1.5rem;
+  text-align: left;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  animation: fadeIn 0.3s ease;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(6px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+/* ── Card Top Row ─────────────────────────────────────── */
+.cardTop {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.avatarWrap {
+  position: relative;
+  flex-shrink: 0;
+}
+
+.avatar {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  color: #ffffff;
+  font-size: 1.1rem;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Google G badge */
+.gBadge {
+  position: absolute;
+  bottom: -2px;
+  right: -4px;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: #ffffff;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.25);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.gLetter {
+  font-size: 0.65rem;
+  font-weight: 700;
+  background: linear-gradient(135deg, #4285F4 0%, #EA4335 40%, #FBBC05 70%, #34A853 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  line-height: 1;
+}
+
+.reviewerInfo {
+  flex: 1;
+  min-width: 0;
+}
+
+.reviewerName {
+  font-size: 0.875rem;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin: 0 0 0.1rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.reviewerTime {
+  font-size: 0.78rem;
+  color: #888;
+  margin: 0;
+}
+
+/* ── Stars ────────────────────────────────────────────── */
+.stars {
+  color: #F5A800;
+  font-size: 0.95rem;
+  letter-spacing: 0.05em;
+  line-height: 1;
+}
+
+/* ── Review Text ──────────────────────────────────────── */
+.reviewText {
+  font-size: 0.875rem;
+  color: #333;
+  line-height: 1.65;
+  margin: 0;
+  flex: 1;
+}
+
+.readMore {
+  color: #2E7EA6;
+  font-weight: 600;
+  text-decoration: none;
+  font-size: 0.875rem;
+}
+
+.readMore:hover {
+  text-decoration: underline;
+}
+
+/* ── Dot Indicators ───────────────────────────────────── */
+.dots {
+  display: flex;
+  justify-content: center;
+  gap: 0.4rem;
+  margin-bottom: 2.5rem;
+}
+
+.dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.25);
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  transition: background 0.2s, transform 0.15s;
+}
+
+.dot:hover {
+  background: rgba(255, 255, 255, 0.5);
+}
+
+.dotActive {
+  background: #F5A800;
+  transform: scale(1.25);
+}
+
+/* ── Bottom CTA Bar ───────────────────────────────────── */
+.ctaBar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  background: #1e3a5f;
+  color: #ffffff;
+  text-decoration: none;
+  padding: 1.1rem 2rem;
+  transition: background 0.2s;
+  width: 100%;
+}
+
+.ctaBar:hover {
+  background: #16304f;
+}
+
+.ctaThumb {
+  font-size: 1.4rem;
+  flex-shrink: 0;
+}
+
+.ctaText {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.15rem;
+  text-align: center;
+}
+
+.ctaText strong {
+  font-size: 0.9rem;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  color: #F5A800;
+}
+
+.ctaSub {
+  font-size: 0.8rem;
+  color: rgba(255, 255, 255, 0.75);
+}
+
+.ctaArrow {
+  font-size: 1.6rem;
+  color: rgba(255, 255, 255, 0.6);
+  flex-shrink: 0;
+}
+
+/* ── Responsive ───────────────────────────────────────── */
+@media (max-width: 900px) {
+  .cardsWrap {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  /* Hide third card */
+  .card:nth-child(3) {
+    display: none;
+  }
+}
+
+@media (max-width: 560px) {
+  .cardsWrap {
+    grid-template-columns: 1fr;
+  }
+  .card:nth-child(2),
+  .card:nth-child(3) {
+    display: none;
+  }
+  .arrow {
+    width: 36px;
+    height: 36px;
+    font-size: 1.3rem;
+  }
+  .ctaBar {
+    padding: 1rem 1.25rem;
+  }
+  .ctaText strong {
+    font-size: 0.8rem;
+  }
+}

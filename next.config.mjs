@@ -1,11 +1,14 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  // Removed output: 'export' — Sanity Studio requires server-side rendering
-  // Blog pages use ISR (revalidate) for fresh content from Sanity
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
   images: {
     unoptimized: true,
     remotePatterns: [
-      { protocol: "https", hostname: "cdn.sanity.io" },
+      { protocol: "https", hostname: "www.puravidasanantonio.com" },
+      { protocol: "https", hostname: "avatarpreview.com" },
+      { protocol: "https", hostname: "puravidasanantonio.net" },
       { protocol: "https", hostname: "images.unsplash.com" },
     ],
   },

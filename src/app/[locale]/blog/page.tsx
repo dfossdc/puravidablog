@@ -65,8 +65,8 @@ export default async function BlogIndex({ params }: Props) {
       {
         "@type": "ListItem",
         "position": 1,
-        "name": "Home",
-        "item": BASE_URL,
+        "name": isEs ? "Inicio" : "Home",
+        "item": `${BASE_URL}/${locale}`,
       },
       {
         "@type": "ListItem",

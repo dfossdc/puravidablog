@@ -1,63 +1,119 @@
 .footer {
-  background: #2E6E8E;
-  color: #e8f5ee;
   margin-top: auto;
 }
 
-.inner {
+/* ── Top section ────────────────────────────────────── */
+.footerTop {
+  background: #1a2e3d;
+  padding: 2.5rem 1.25rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.footerTopInner {
   max-width: 1100px;
   margin: 0 auto;
-  padding: 3rem 1.25rem 2rem;
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 2.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.75rem;
+  text-align: center;
 }
 
-.logo {
-  height: 50px;
+.topLogo {
+  height: 70px;
   width: auto;
   object-fit: contain;
-  filter: brightness(0) invert(1) sepia(1) saturate(0) hue-rotate(0deg) brightness(2);
-  margin-bottom: 0.5rem;
+  filter: brightness(0) invert(1);
 }
 
-.tagline {
-  font-size: 0.9rem;
-  opacity: 0.8;
+.topTagline {
+  color: rgba(255, 255, 255, 0.75);
+  font-size: 1.05rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  margin: 0;
+}
+
+/* ── Middle 3-col ───────────────────────────────────── */
+.inner {
+  background: #1e3a4f;
+  max-width: 100%;
+  padding: 2rem 1.25rem 1.5rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.5rem;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+/* Full-bleed bg trick */
+.footer .inner {
+  max-width: 100%;
+}
+
+.footer {
+  background: #1e3a4f;
+}
+
+.col {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
 }
 
 .colTitle {
-  font-size: 0.8rem;
+  font-size: 0.78rem;
   text-transform: uppercase;
-  letter-spacing: 0.08em;
-  color: var(--color-accent);
-  margin-bottom: 0.75rem;
-  font-weight: 600;
+  letter-spacing: 0.1em;
+  color: #7ec8e3;
+  margin-bottom: 0.85rem;
+  font-weight: 700;
+}
+
+.tagline {
+  font-size: 0.875rem;
+  color: rgba(255, 255, 255, 0.72);
+  line-height: 1.7;
+  margin-bottom: 0;
 }
 
 .address {
   font-style: normal;
-  font-size: 0.9rem;
-  line-height: 1.7;
-  opacity: 0.9;
-  margin-bottom: 0.5rem;
+  font-size: 0.875rem;
+  line-height: 1.8;
+  color: rgba(255, 255, 255, 0.8);
+  margin-bottom: 0.6rem;
 }
 
 .phone {
-  font-size: 0.9rem;
+  font-size: 0.875rem;
+  color: rgba(255, 255, 255, 0.75);
+  margin-bottom: 0.35rem;
 }
 
 .phone a {
-  color: var(--color-accent);
-  font-weight: 600;
+  color: #7ec8e3;
+  font-weight: 700;
+  text-decoration: none;
 }
 
-.phone a:hover {
-  text-decoration: underline;
+.phone a:hover { text-decoration: underline; }
+
+.email {
+  font-size: 0.875rem;
+  margin-bottom: 0;
 }
+
+.email a {
+  color: rgba(255, 255, 255, 0.6);
+  text-decoration: none;
+  font-size: 0.825rem;
+}
+
+.email a:hover { color: #7ec8e3; }
 
 .label {
-  opacity: 0.75;
+  opacity: 0.65;
 }
 
 .schedule {
@@ -65,25 +121,132 @@
   font-size: 0.875rem;
   display: flex;
   flex-direction: column;
-  gap: 0.35rem;
+  gap: 0.4rem;
+  margin-bottom: 1.5rem;
+  padding: 0;
 }
 
 .schedule li {
   display: flex;
   justify-content: space-between;
   gap: 1rem;
-  opacity: 0.9;
+  color: rgba(255, 255, 255, 0.8);
 }
 
 .day {
   font-weight: 600;
   white-space: nowrap;
+  color: rgba(255, 255, 255, 0.9);
 }
 
-.bottom {
-  border-top: 1px solid rgba(183, 228, 199, 0.2);
-  text-align: center;
-  padding: 1rem 1.25rem;
+/* Quick Links */
+.quickTitle {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #7ec8e3;
+  font-weight: 700;
+  margin: 0 0 0.6rem;
+}
+
+.quickList {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+
+.quickList a {
+  color: rgba(255, 255, 255, 0.65);
+  font-size: 0.875rem;
+  text-decoration: none;
+  transition: color 0.15s;
+}
+
+.quickList a:hover { color: #7ec8e3; }
+
+/* Social */
+.social {
+  margin-top: 1.5rem;
+}
+
+.socialLabel {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-weight: 700;
+  color: #7ec8e3;
+  margin-bottom: 0.6rem;
+}
+
+.socialIcons {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.socialIcon {
+  color: rgba(255, 255, 255, 0.6);
   font-size: 0.8rem;
-  opacity: 0.65;
+  font-weight: 600;
+  text-decoration: none;
+  transition: color 0.15s, transform 0.15s;
+}
+
+.socialIcon:hover {
+  color: #7ec8e3;
+  transform: translateY(-2px);
+}
+
+/* ── Bottom bar ─────────────────────────────────────── */
+.bottom {
+  background: #0d1f2d;
+  padding: 1rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.bottomCopy {
+  margin: 0;
+  font-size: 0.78rem;
+  color: rgba(255, 255, 255, 0.45);
+}
+
+.bottomLinks {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.bottomLinks a {
+  font-size: 0.78rem;
+  color: rgba(255, 255, 255, 0.45);
+  text-decoration: none;
+  transition: color 0.15s;
+}
+
+.bottomLinks a:hover { color: rgba(255, 255, 255, 0.8); }
+
+.bottomSep {
+  color: rgba(255, 255, 255, 0.2);
+  font-size: 0.78rem;
+}
+
+/* ── Responsive ─────────────────────────────────────── */
+@media (max-width: 600px) {
+  .bottom {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .bottomLinks {
+    justify-content: center;
+  }
 }

@@ -1,0 +1,147 @@
+/* ── Wrapper ──────────────────────────────────────────── */
+.wrapper {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  z-index: 9999;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 10px;
+}
+
+/* ── Floating Action Button ───────────────────────────── */
+.fab {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background: #25D366;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 12px rgba(37, 211, 102, 0.45);
+  transition: transform 0.2s, box-shadow 0.2s;
+  animation: waPulse 2.5s ease-in-out infinite;
+  flex-shrink: 0;
+}
+
+.fab:hover {
+  transform: scale(1.08);
+  box-shadow: 0 6px 20px rgba(37, 211, 102, 0.6);
+  animation: none;
+}
+
+@keyframes waPulse {
+  0%, 100% {
+    box-shadow: 0 4px 12px rgba(37, 211, 102, 0.45);
+  }
+  50% {
+    box-shadow: 0 4px 20px rgba(37, 211, 102, 0.75), 0 0 0 8px rgba(37, 211, 102, 0.12);
+  }
+}
+
+/* ── Popup Card ───────────────────────────────────────── */
+.card {
+  width: 260px;
+  background: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(10px);
+  transition: opacity 0.22s ease, transform 0.22s ease, visibility 0.22s;
+  position: relative;
+}
+
+.cardVisible {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+/* Arrow pointing down toward the button */
+.arrow {
+  position: absolute;
+  bottom: -8px;
+  right: 20px;
+  width: 16px;
+  height: 8px;
+  background: #ffffff;
+  clip-path: polygon(0 0, 100% 0, 50% 100%);
+  filter: drop-shadow(0 2px 2px rgba(0,0,0,0.08));
+}
+
+/* ── Card Header ──────────────────────────────────────── */
+.cardHeader {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.6rem;
+}
+
+.cardIconWrap {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: #25D366;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.cardTitle {
+  font-size: 0.875rem;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin: 0 0 0.15rem;
+  line-height: 1.3;
+}
+
+.cardSub {
+  font-size: 0.75rem;
+  color: #777;
+  margin: 0;
+  line-height: 1.4;
+}
+
+.closeBtn {
+  margin-left: auto;
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: #aaa;
+  font-size: 0.85rem;
+  line-height: 1;
+  padding: 0 0 0 0.25rem;
+  flex-shrink: 0;
+  transition: color 0.15s;
+}
+
+.closeBtn:hover {
+  color: #555;
+}
+
+/* ── Start Chat Button ────────────────────────────────── */
+.startBtn {
+  display: block;
+  background: #25D366;
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 0.875rem;
+  text-align: center;
+  padding: 0.6rem 1rem;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: background 0.2s, transform 0.15s;
+}
+
+.startBtn:hover {
+  background: #1db954;
+  transform: translateY(-1px);
+}

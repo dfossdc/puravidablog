@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import WhatsAppButton from "@/components/WhatsAppButton";
 
 const BASE_URL = "https://puravidasanantonio.com";
 
@@ -15,11 +16,11 @@ export async function generateMetadata({
   const isEs = locale === "es";
   return {
     alternates: {
-      canonical: `${BASE_URL}/${locale}/blog`,
+      canonical: `${BASE_URL}/${locale}`,
       languages: {
-        en: `${BASE_URL}/en/blog`,
-        es: `${BASE_URL}/es/blog`,
-        "x-default": `${BASE_URL}/en/blog`,
+        en: `${BASE_URL}/en`,
+        es: `${BASE_URL}/es`,
+        "x-default": `${BASE_URL}/en`,
       },
     },
     openGraph: {
@@ -37,5 +38,10 @@ export default async function LocaleLayout({
   params: Promise<{ locale: string }>;
 }) {
   const { locale } = await params;
-  return <div lang={locale}>{children}</div>;
+  return (
+    <>
+      {children}
+      <WhatsAppButton locale={locale as "en" | "es"} />
+    </>
+  );
 }
