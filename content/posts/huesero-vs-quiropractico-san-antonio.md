@@ -5,7 +5,7 @@ date: "2026-03-10"
 author: "Dr. Dan Foss"
 lang: "es"
 slug: "huesero-vs-quiropractico-san-antonio"
-image: "/images/sideposture.jpg"
+image: "https://www.puravidasanantonio.com/wp-content/uploads/bb-plugin/cache/Chiropractor-San-Antonio-TX-Dan-Foss-Examining-Patient-HP-circle.webp"
 keywords: "huesero san antonio, quiropráctico san antonio, diferencia huesero quiropráctico, sobador san antonio, ajuste quiropráctico"
 ---
 

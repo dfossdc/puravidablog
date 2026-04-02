@@ -5,7 +5,7 @@ date: "2026-03-12"
 author: "Dr. Dan Foss"
 lang: "es"
 slug: "quiropractico-sin-seguro-san-antonio"
-image: "/images/shockwave-back.webp"
+image: "https://www.puravidasanantonio.com/wp-content/uploads/2026/03/Chiropractor-San-Antonio-TX-Dan-Foss-Adjusting-A-Patient-HP.webp"
 keywords: "quiropráctico sin seguro san antonio, quiropráctica sin seguro médico, quiropráctico barato san antonio, atención quiropráctica accesible texas"
 ---
 

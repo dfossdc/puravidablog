@@ -5,7 +5,7 @@ date: "2026-03-24"
 author: "Dr. Dan Foss"
 lang: "es"
 slug: "subluxacion-vertebral-que-es-quiropractico"
-image: "/images/sideposture.jpg"
+image: "https://www.puravidasanantonio.com/wp-content/uploads/bb-plugin/cache/Chiropractor-San-Antonio-TX-Dan-Foss-Examining-Patient-HP-circle.webp"
 keywords: "subluxación vertebral san antonio, qué es subluxación quiropráctica, ajuste quiropráctico subluxación, sistema nervioso quiropráctica san antonio, huesero vs quiropráctico diferencia"
 ---
 

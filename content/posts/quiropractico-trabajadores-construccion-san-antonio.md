@@ -5,7 +5,7 @@ date: "2026-03-18"
 author: "Dr. Dan Foss"
 lang: "es"
 slug: "quiropractico-trabajadores-construccion-san-antonio"
-image: "/images/shockwave-back.webp"
+image: "https://www.puravidasanantonio.com/wp-content/uploads/2026/03/Chiropractic-San-Antonio-TX-Shockwave-Instrument-Being-Used-On-Patients-Shoulder.webp"
 keywords: "quiropráctico trabajadores construcción san antonio, lesiones trabajo construcción quiropráctica, dolor espalda trabajo físico san antonio, workers comp quiropráctico texas"
 ---
 

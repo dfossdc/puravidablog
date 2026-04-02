@@ -5,7 +5,7 @@ date: "2026-03-16"
 author: "Dr. Dan Foss"
 lang: "es"
 slug: "quiropractica-para-embarazo-natural"
-image: "/images/cranialadult.jpg"
+image: "https://www.puravidasanantonio.com/wp-content/uploads/bb-plugin/cache/Chiropractic-San-Antonio-TX-Pregnant-Patient-HP-circle.webp"
 keywords: "quiropráctica embarazo san antonio, quiropráctico prenatal san antonio, dolor espalda embarazo tratamiento natural, ciática embarazo san antonio, técnica Webster embarazo"
 ---
 

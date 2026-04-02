@@ -3,7 +3,7 @@ title: "Shockwave Therapy in San Antonio, TX | Dr. Dan Foss"
 description: "Shockwave therapy at Pura Vida Chiropractic in San Antonio delivers targeted acoustic energy to break down scar tissue, stimulate healing, and resolve chronic pain conditions."
 date: "2026-03-31"
 author: "Dr. Dan Foss, DC"
-image: "https://www.puravidasanantonio.com/wp-content/uploads/bb-plugin/cache/Chiropractic-San-Antonio-TX-Shockwave-Instrument-Being-Used-On-Patients-Back-HP-circle.webp"
+image: "https://www.puravidasanantonio.com/wp-content/uploads/2026/03/Chiropractic-San-Antonio-TX-Shockwave-Instrument-Being-Used-On-Patients-Shoulder.webp"
 keywords:
   - shockwave therapy San Antonio
   - ESWT San Antonio TX

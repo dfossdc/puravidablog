@@ -108,7 +108,7 @@ const services: Record<"en" | "es", ServiceMap> = {
         "Expert chiropractic care in San Antonio, TX. Dr. Dan Foss uses 300+ techniques including SOT to treat the root cause of pain. Free evaluation.",
       keywords: ["chiropractor San Antonio TX", "chiropractic care San Antonio", "San Antonio chiropractor", "back pain San Antonio"],
       h1: "Chiropractic Care in San Antonio, TX",
-      image: "/images/chiropractic-care.jpg",
+      image: "https://www.puravidasanantonio.com/wp-content/uploads/2017/06/content-library-chiropractic-care-is-necessary.jpg",
       body: [
         "**Chiropractic care** is health maintenance of the spinal column, discs, related nerves and bone geometry. It focuses on treating the causes of physical problems, rather than just the symptoms. At Pura Vida Chiropractic, Dr. Dan Foss uses over 300 chiropractic techniques including the advanced **Sacro-Occipital Technique (SOT)** to restore proper spinal function.",
         "With chiropractic adjustments, you give your body the best possible opportunity to prevent injury and return to a healthy state. Many patients report a feeling of release following an adjustment, along with significant decrease in [headaches](/en/blog/headaches-migraines-chiropractor-san-antonio), [back pain](/en/blog/back-pain-chiropractor-san-antonio), [neck pain](/en/blog/neck-pain-chiropractor-san-antonio), and overall improved well-being.",
@@ -122,7 +122,7 @@ const services: Record<"en" | "es", ServiceMap> = {
         "Specialized cranial chiropractic therapy in San Antonio, TX. Dr. Dan Foss addresses headaches, migraines, TMJ, and more with gentle cranial techniques.",
       keywords: ["cranial chiropractic San Antonio", "cranial therapy San Antonio TX", "TMJ chiropractor San Antonio"],
       h1: "Cranial Chiropractic in San Antonio, TX",
-      image: "/images/dr-foss-adjusting-neck.webp",
+      image: "https://www.puravidasanantonio.com/wp-content/uploads/2026/03/Chiropractor-San-Antonio-TX-Dan-Foss-Performing-Cranial-Adjustment.webp",
       body: [
         "**Cranial Chiropractic** is the study of the skull and the restoration of proper cranial function. It is an advanced aspect of chiropractic care that addresses the relationship between the skull, the sacrum, and the meningeal system — the connective tissue that surrounds the brain and spinal cord.",
         "When the cranial bones are misaligned or the meningeal system is under tension, the effects can be wide-ranging: [headaches and migraines](/en/blog/headaches-migraines-chiropractor-san-antonio), [TMJ dysfunction](/en/blog/a-doctor-s-perspective-on-tmj), ear problems, sinus issues, neurological symptoms, and more. Dr. Foss is one of the few chiropractors in San Antonio with specialized training in cranial chiropractic therapy.",
@@ -136,7 +136,7 @@ const services: Record<"en" | "es", ServiceMap> = {
         "Safe, gentle infant chiropractic care in San Antonio, TX. Dr. Dan Foss helps newborns with colic, feeding difficulties, torticollis, and reflux.",
       keywords: ["infant chiropractor San Antonio", "baby chiropractor San Antonio", "newborn chiropractic San Antonio TX"],
       h1: "Infant Chiropractic in San Antonio, TX",
-      image: "/images/dr-foss-adjusting-child.webp",
+      image: "https://www.puravidasanantonio.com/wp-content/uploads/2026/03/Chiropractic-San-Antonio-TX-Dan-Foss-With-Pediatric-Patient.webp",
       body: [
         "The birth process — even under ideal circumstances — places significant forces on a newborn's spine and nervous system. Misalignments acquired during delivery can affect **feeding, sleep, digestion, and overall development**. Many families choose to have their babies evaluated as soon as possible after birth.",
         "Infant chiropractic adjustments use no more pressure than a gentle fingertip touch — they are completely safe, gentle, and appropriate for newborns. Dr. Foss recommends that parents bring their babies in shortly after birth for a gentle post-birth wellness evaluation.",
@@ -150,7 +150,7 @@ const services: Record<"en" | "es", ServiceMap> = {
         "Specialized pediatric chiropractic care in San Antonio, TX. Dr. Dan Foss has cared for children from newborns to teens for 23+ years. Free evaluation.",
       keywords: ["pediatric chiropractor San Antonio", "children's chiropractor San Antonio", "kids chiropractic San Antonio TX"],
       h1: "Pediatric Chiropractor in San Antonio, TX",
-      image: "/images/dr-foss-adjusting-child.webp",
+      image: "https://www.puravidasanantonio.com/wp-content/uploads/2026/03/Chiropractic-San-Antonio-TX-Dan-Foss-With-Pediatric-Patient.webp",
       body: [
         "Dr. Foss is a San Antonio pediatric chiropractor who has specialized in caring for children from newborns through teenagers for over **23 years**. Kids love to run, jump, and play — and while their spongy bones are more resilient than adults, childhood is actually one of the most important times to receive chiropractic care.",
         "Falls, sports injuries, heavy backpacks, poor posture from device use, and even the birth process itself can create spinal misalignments that affect a child's **nervous system development, immune function, sleep, and behavior**.",
@@ -164,7 +164,7 @@ const services: Record<"en" | "es", ServiceMap> = {
         "Webster Technique prenatal chiropractic in San Antonio, TX. Dr. Dan Foss keeps expectant mothers comfortable and aligned through every trimester.",
       keywords: ["pregnancy chiropractor San Antonio", "prenatal chiropractic San Antonio", "Webster Technique San Antonio TX"],
       h1: "Pregnancy Chiropractor in San Antonio, TX",
-      image: "/images/pregnant-patient.webp",
+      image: "https://www.puravidasanantonio.com/wp-content/uploads/bb-plugin/cache/Chiropractic-San-Antonio-TX-Pregnant-Patient-HP-circle.webp",
       body: [
         "Being pregnant puts a lot of strain on your spine and nervous system. As your baby grows, your center of gravity shifts, your posture changes, and the ligaments in your pelvis loosen — creating instability and discomfort. By months 6–9, many mothers are forced to assume a very unbalanced posture just to get around.",
         "Pregnancy chiropractic care helps expectant mothers stay comfortable, aligned, and supported throughout every trimester. Dr. Foss uses the **Webster Technique** — a specialized prenatal chiropractic protocol — to restore pelvic balance and reduce intrauterine constraint, supporting optimal fetal positioning as delivery approaches. [Learn more about chiropractic care during pregnancy →](/en/blog/prenatal-chiropractor-san-antonio-tx)",
@@ -178,7 +178,7 @@ const services: Record<"en" | "es", ServiceMap> = {
         "Injured in a car accident in San Antonio? Dr. Dan Foss evaluates, documents, and treats whiplash and auto injuries. Free evaluation. Work with PI attorneys.",
       keywords: ["auto injury chiropractor San Antonio", "car accident chiropractor San Antonio TX", "whiplash treatment San Antonio"],
       h1: "Auto Injury Chiropractor in San Antonio, TX",
-      image: "/images/dr-foss-adjusting-patient.webp",
+      image: "https://www.puravidasanantonio.com/wp-content/uploads/2026/03/Chiropractor-San-Antonio-TX-Dan-Foss-Adjusting-A-Patient-HP.webp",
       body: [
         "An auto injury can devastate a person on many levels — physically, emotionally, and financially. Car accidents come in all magnitudes, but always have one thing in common: they put sudden, significant stress on your body. Whether it's **whiplash** or a more serious personal injury, the impact creates a shock wave that negatively affects your spine, muscles, ligaments, and nervous system.",
         "The damage isn't always visible — far from it. Even if you feel fine immediately after an accident, you may be in serious trouble. Whiplash symptoms can take days or even weeks to appear, and untreated injuries become **chronic pain**.",
@@ -192,7 +192,7 @@ const services: Record<"en" | "es", ServiceMap> = {
         "Proactive wellness chiropractic care in San Antonio, TX. The Pura Vida Protocol integrates chiropractic, osteopathic, and manual therapy for optimal health.",
       keywords: ["wellness chiropractor San Antonio", "maintenance chiropractic San Antonio", "preventive chiropractic San Antonio TX"],
       h1: "Wellness Chiropractic Care in San Antonio, TX",
-      image: "/images/dr-foss-about-hp.webp",
+      image: "https://www.puravidasanantonio.com/wp-content/uploads/2022/04/Chiropractic-For-Wellness-Care.jpg",
       body: [
         "**Wellness chiropractic care** is proactive, regular care designed to maintain optimal spinal alignment, nervous system function, and overall health — even when you are not in pain. Think of it like regular dental cleanings or exercise. Your nervous system controls every function in your body.",
         "When the spine is properly aligned and free from interference, every system in the body functions better — **immune response, digestion, sleep, energy, and mood** all improve. The Pura Vida Protocol is Dr. Foss's comprehensive wellness approach developed over 23 years.",
@@ -206,7 +206,7 @@ const services: Record<"en" | "es", ServiceMap> = {
         "Bilingual chiropractic care for San Antonio's Latino community. Dr. Dan Foss speaks Spanish and understands Latino culture. Free evaluation.",
       keywords: ["chiropractor San Antonio Latino", "bilingual chiropractor San Antonio", "quiropráctico San Antonio TX"],
       h1: "Serving San Antonio's Latino Community",
-      image: "/images/dr-foss-adjusting-neck.webp",
+      image: "https://www.puravidasanantonio.com/wp-content/uploads/2026/03/Chiropractor-San-Antonio-TX-Dan-Foss-About-HP.webp",
       body: [
         "Pura Vida Chiropractic was founded with a commitment to serving San Antonio's **Latino community** with the health and wellness care it deserves. Dr. Dan Foss is fully bilingual and has practiced in Costa Rica, Spain, Ireland, the Netherlands, and Guatemala — giving him a deep understanding of Latino culture and health needs.",
         "As a San Antonio chiropractor in the Castle Hills area, Dr. Foss made a promise to himself: to make high-quality chiropractic care accessible to **Spanish-speaking families** who need a doctor who truly understands them.",
@@ -304,7 +304,7 @@ const services: Record<"en" | "es", ServiceMap> = {
         "Atención quiropráctica experta en San Antonio, TX. El Dr. Dan Foss usa la técnica SOT para tratar la causa del dolor. Evaluación gratuita disponible.",
       keywords: ["quiropráctico San Antonio TX", "cuidado quiropráctico San Antonio", "quiropráctico San Antonio"],
       h1: "Cuidado Quiropráctico en San Antonio, TX",
-      image: "/images/chiropractic-care.jpg",
+      image: "https://www.puravidasanantonio.com/wp-content/uploads/2017/06/content-library-chiropractic-care-is-necessary.jpg",
       body: [
         "El **cuidado quiropráctico** es el mantenimiento de la salud de la columna vertebral, los discos, los nervios relacionados y la geometría ósea. Se enfoca en tratar las causas de los problemas físicos, no solo los síntomas. En Pura Vida Quiropráctica, el Dr. Dan Foss utiliza la avanzada **Técnica Sacro-Occipital (SOT)** para restaurar la función espinal adecuada.",
         "Con los ajustes quiroprácticos, le da a su cuerpo la mejor oportunidad posible de prevenir lesiones y volver a un estado de salud óptimo. Muchos pacientes reportan una sensación de alivio después de un ajuste, junto con una disminución significativa de dolores de cabeza, dolor de espalda, dolor de cuello y un bienestar general mejorado.",
@@ -318,7 +318,7 @@ const services: Record<"en" | "es", ServiceMap> = {
         "Terapia quiropráctica craneal especializada en San Antonio, TX. El Dr. Dan Foss trata migrañas, ATM, sinusitis y más con técnicas craneales suaves.",
       keywords: ["quiropráctica craneal San Antonio", "terapia craneal San Antonio TX", "quiropráctico ATM San Antonio"],
       h1: "Quiropráctica Craneal en San Antonio, TX",
-      image: "/images/dr-foss-adjusting-neck.webp",
+      image: "https://www.puravidasanantonio.com/wp-content/uploads/2026/03/Chiropractor-San-Antonio-TX-Dan-Foss-Performing-Cranial-Adjustment.webp",
       body: [
         "La **quiropráctica craneal** es el estudio del cráneo y la restauración de la función craneal adecuada. Es un aspecto avanzado del cuidado quiropráctico que aborda la relación entre el cráneo, el sacro y el sistema meníngeo — el tejido conectivo que rodea el cerebro y la médula espinal.",
         "Cuando los huesos craneales están desalineados o el sistema meníngeo está bajo tensión, los efectos pueden ser de amplio alcance: dolores de cabeza, migrañas, disfunción de la articulación temporomandibular (ATM), problemas de oído, sinusitis, síntomas neurológicos y más.",
@@ -332,7 +332,7 @@ const services: Record<"en" | "es", ServiceMap> = {
         "Cuidado quiropráctico seguro y suave para bebés en San Antonio, TX. El Dr. Dan Foss ayuda a los recién nacidos con cólico, tortícolis y problemas de alimentación.",
       keywords: ["quiropráctico para bebés San Antonio", "quiropráctica neonatal San Antonio", "quiropráctico recién nacido San Antonio TX"],
       h1: "Quiropráctica para Bebés en San Antonio, TX",
-      image: "/images/dr-foss-adjusting-child.webp",
+      image: "https://www.puravidasanantonio.com/wp-content/uploads/2026/03/Chiropractic-San-Antonio-TX-Dan-Foss-With-Pediatric-Patient.webp",
       body: [
         "El proceso de nacimiento — incluso en circunstancias ideales — ejerce fuerzas significativas sobre la columna vertebral y el sistema nervioso del recién nacido. Las desalineaciones adquiridas durante el parto pueden afectar la **alimentación, el sueño, la digestión y el desarrollo general** del bebé.",
         "Los ajustes quiroprácticos para bebés usan no más presión que un toque suave de la yema del dedo — son completamente seguros, gentiles y apropiados para los recién nacidos. El Dr. Foss recomienda que los padres traigan a sus bebés poco después del nacimiento para una evaluación de bienestar post-parto.",
@@ -346,7 +346,7 @@ const services: Record<"en" | "es", ServiceMap> = {
         "Quiropráctica pediátrica especializada en San Antonio, TX. El Dr. Dan Foss ha atendido a niños desde recién nacidos hasta adolescentes por 23+ años.",
       keywords: ["quiropráctico pediátrico San Antonio", "quiropráctica para niños San Antonio", "quiropráctico infantil San Antonio TX"],
       h1: "Quiropráctico Pediátrico en San Antonio, TX",
-      image: "/images/dr-foss-adjusting-child.webp",
+      image: "https://www.puravidasanantonio.com/wp-content/uploads/2026/03/Chiropractic-San-Antonio-TX-Dan-Foss-With-Pediatric-Patient.webp",
       body: [
         "El Dr. Foss es un quiropráctico pediátrico de San Antonio que se ha especializado en el cuidado de niños desde recién nacidos hasta adolescentes durante más de **23 años**. Los niños aman correr, saltar y jugar — y aunque sus huesos son más resistentes que los de los adultos, la infancia es en realidad uno de los momentos más importantes para recibir cuidado quiropráctico.",
         "Las caídas, las lesiones deportivas, las mochilas pesadas, la mala postura por el uso de dispositivos e incluso el proceso de nacimiento pueden crear desalineaciones espinales que afectan el **desarrollo del sistema nervioso, la función inmunológica, el sueño y el comportamiento** del niño.",
@@ -360,7 +360,7 @@ const services: Record<"en" | "es", ServiceMap> = {
         "Quiropráctica prenatal con Técnica Webster en San Antonio, TX. El Dr. Dan Foss mantiene a las futuras mamás cómodas y alineadas en cada trimestre.",
       keywords: ["quiropráctico embarazo San Antonio", "quiropráctica prenatal San Antonio", "Técnica Webster San Antonio TX"],
       h1: "Quiropráctico para el Embarazo en San Antonio, TX",
-      image: "/images/pregnant-patient.webp",
+      image: "https://www.puravidasanantonio.com/wp-content/uploads/bb-plugin/cache/Chiropractic-San-Antonio-TX-Pregnant-Patient-HP-circle.webp",
       body: [
         "El embarazo pone mucha tensión en su columna vertebral y sistema nervioso. A medida que su bebé crece, su centro de gravedad cambia, su postura se modifica y los ligamentos en su pelvis se aflojan — creando inestabilidad e incomodidad. En los meses 6 a 9, muchas madres se ven obligadas a adoptar una postura muy desequilibrada.",
         "El cuidado quiropráctico durante el embarazo ayuda a las futuras madres a mantenerse cómodas, alineadas y apoyadas durante cada trimestre. El Dr. Foss utiliza la **Técnica Webster** — un protocolo quiropráctico prenatal especializado — para restaurar el equilibrio pélvico y reducir la restricción intrauterina.",
@@ -374,7 +374,7 @@ const services: Record<"en" | "es", ServiceMap> = {
         "¿Lesionado en un accidente de auto en San Antonio? El Dr. Dan Foss evalúa, documenta y trata el latigazo y lesiones de auto. Evaluación gratuita.",
       keywords: ["quiropráctico accidente auto San Antonio", "lesiones auto quiropráctico San Antonio TX", "latigazo cervical San Antonio"],
       h1: "Quiropráctico para Lesiones de Auto en San Antonio, TX",
-      image: "/images/dr-foss-adjusting-patient.webp",
+      image: "https://www.puravidasanantonio.com/wp-content/uploads/2026/03/Chiropractor-San-Antonio-TX-Dan-Foss-Adjusting-A-Patient-HP.webp",
       body: [
         "Una lesión de auto puede devastar a una persona en muchos niveles — físico, emocional y financiero. Los accidentes de auto vienen en todas las magnitudes, pero siempre tienen algo en común: ponen estrés repentino y significativo en su cuerpo. Ya sea **latigazo cervical** o una lesión personal más grave, el impacto crea una onda de choque que afecta negativamente su columna, músculos, ligamentos y sistema nervioso.",
         "El daño no siempre es visible. Incluso si se siente bien inmediatamente después de un accidente, puede estar en problemas serios. Los síntomas del latigazo cervical pueden tardar días o incluso semanas en aparecer, y las lesiones no tratadas se convierten en **dolor crónico**.",
@@ -388,7 +388,7 @@ const services: Record<"en" | "es", ServiceMap> = {
         "Cuidado quiropráctico de bienestar proactivo en San Antonio, TX. El Protocolo Pura Vida integra quiropráctica, osteopatía y terapia manual.",
       keywords: ["quiropráctica bienestar San Antonio", "quiropráctica mantenimiento San Antonio", "quiropráctica preventiva San Antonio TX"],
       h1: "Cuidado Quiropráctico de Bienestar en San Antonio, TX",
-      image: "/images/dr-foss-about-hp.webp",
+      image: "https://www.puravidasanantonio.com/wp-content/uploads/2022/04/Chiropractic-For-Wellness-Care.jpg",
       body: [
         "El **cuidado quiropráctico de bienestar** es un cuidado proactivo y regular diseñado para mantener la alineación espinal óptima, la función del sistema nervioso y la salud en general — incluso cuando no tiene dolor. Piense en ello como las limpiezas dentales regulares o el ejercicio. Su sistema nervioso controla cada función en su cuerpo.",
         "Cuando la columna está correctamente alineada y libre de interferencias, cada sistema en el cuerpo funciona mejor — la **respuesta inmunológica, la digestión, el sueño, la energía y el estado de ánimo** mejoran. El Protocolo Pura Vida es el enfoque integral de bienestar del Dr. Foss desarrollado a lo largo de 23 años.",
@@ -402,7 +402,7 @@ const services: Record<"en" | "es", ServiceMap> = {
         "Cuidado quiropráctico bilingüe para la comunidad latina de San Antonio. El Dr. Dan Foss habla español y entiende la cultura latina. Evaluación gratuita.",
       keywords: ["quiropráctico bilingüe San Antonio", "quiropráctico latino San Antonio", "quiropráctico español San Antonio TX"],
       h1: "Sirviendo a la Comunidad Latina de San Antonio",
-      image: "/images/dr-foss-adjusting-neck.webp",
+      image: "https://www.puravidasanantonio.com/wp-content/uploads/2026/03/Chiropractor-San-Antonio-TX-Dan-Foss-About-HP.webp",
       body: [
         "Pura Vida Chiropractic fue fundada con el compromiso de servir a la **comunidad latina de San Antonio** con el cuidado de salud y bienestar que merece. El Dr. Dan Foss es completamente bilingüe y ha practicado en Costa Rica, España, Irlanda, los Países Bajos y Guatemala — lo que le da una comprensión profunda de la cultura y las necesidades de salud latinas.",
         "Como quiropráctico de San Antonio en el área de Castle Hills, el Dr. Foss se hizo una promesa a sí mismo: hacer que el cuidado quiropráctico de alta calidad sea accesible para las **familias hispanohablantes** que necesitan un médico que realmente las entienda.",

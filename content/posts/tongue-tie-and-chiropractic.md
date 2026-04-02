@@ -3,7 +3,7 @@ title: "Tongue-Tie and Chiropractic"
 description: "## **What every parent needs to know about Tongue-Tie and Chiropractic**  Tongue-tie or its medical term ankyloglossia is a condition where someone is born with a shorter, thick, or tight band of conn"
 date: "2023-05-03"
 author: "Dr. Dan Foss, DC"
-image: "https://www.puravidasanantonio.com/wp-content/uploads/bb-plugin/cache/Chiropractor-San-Antonio-TX-Dan-Foss-Adjusting-Child-Patient-HP-circle.webp"
+image: "https://www.puravidasanantonio.com/wp-content/uploads/2026/03/Chiropractic-San-Antonio-TX-Dan-Foss-With-Pediatric-Patient.webp"
 keywords:
   - chiropractor San Antonio
   - tongue-tie and chiropractic

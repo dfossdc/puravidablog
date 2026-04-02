@@ -5,7 +5,7 @@ date: "2026-03-14"
 author: "Dr. Dan Foss"
 lang: "es"
 slug: "es-seguro-llevar-bebe-quiropractico"
-image: "/images/cranialadult.jpg"
+image: "https://www.puravidasanantonio.com/wp-content/uploads/2026/03/Chiropractic-San-Antonio-TX-Dan-Foss-With-Pediatric-Patient.webp"
 keywords: "quiropráctico para bebés san antonio, quiropráctica pediátrica san antonio, cólicos bebé quiropráctico, ajuste bebé quiropráctico seguro, quiropráctico niños san antonio"
 ---
 

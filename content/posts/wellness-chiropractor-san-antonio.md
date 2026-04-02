@@ -3,7 +3,7 @@ title: "Wellness Chiropractor in San Antonio, TX | Dr. Dan Foss"
 description: "Looking for a wellness chiropractor in San Antonio? Dr. Dan Foss at Pura Vida Chiropractic helps families achieve lasting health with a holistic, whole-body approach to care."
 date: "2026-04-01"
 author: "Dr. Dan Foss, DC"
-image: "https://www.puravidasanantonio.com/wp-content/uploads/2026/03/Chiropractor-San-Antonio-TX-Dan-Foss-About-HP.webp"
+image: "https://www.puravidasanantonio.com/wp-content/uploads/2022/04/Chiropractic-For-Wellness-Care.jpg"
 keywords:
   - wellness chiropractor San Antonio
   - family chiropractor San Antonio TX

@@ -3,7 +3,7 @@ title: "Quiropráctica en Niños"
 description: "La quiropráctica es una disciplina que se enfoca en el cuidado del sistema nervioso, especialmente la columna vertebral. Aunque la quiropráctica puede ser útil en el cuidado de ciertos trastornos en n"
 date: "2023-05-03"
 author: "Dr. Dan Foss, DC"
-image: "https://www.puravidasanantonio.com/wp-content/uploads/bb-plugin/cache/Chiropractor-San-Antonio-TX-Dan-Foss-Adjusting-Child-Patient-HP-circle.webp"
+image: "https://www.puravidasanantonio.com/wp-content/uploads/2026/03/Chiropractic-San-Antonio-TX-Dan-Foss-With-Pediatric-Patient.webp"
 keywords:
   - chiropractor San Antonio
   - quiropráctica en niños

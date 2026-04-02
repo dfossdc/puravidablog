@@ -5,7 +5,7 @@ date: "2026-03-22"
 author: "Dr. Dan Foss"
 lang: "es"
 slug: "quiropractica-comunidad-latina-san-antonio"
-image: "/images/adrenals.jpg"
+image: "https://www.puravidasanantonio.com/wp-content/uploads/2026/03/Chiropractor-San-Antonio-TX-Dan-Foss-About-HP.webp"
 keywords: "quiropráctico español san antonio, quiropráctico latino san antonio, quiropráctica comunidad hispana san antonio, médico español san antonio tx, quiropráctico bilingüe san antonio"
 ---
 
