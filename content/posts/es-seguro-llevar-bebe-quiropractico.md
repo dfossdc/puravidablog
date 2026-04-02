@@ -92,4 +92,4 @@ No es necesaria una referencia médica para traer a su bebé. Sin embargo, si su
 
 ---
 
-**¿Tiene preguntas sobre quiropráctica pediátrica para su bebé o niño?** Llame al [(210) 525-9063](tel:2105259063) o visite [puravidasanantonio.com/special/](https://puravidasanantonio.com/special/) para programar una **evaluación gratuita** con el Dr. Dan Foss en San Antonio, TX. El Dr. Foss habla español y tiene años de experiencia atendiendo bebés y niños con gentileza y cuidado.
+**¿Tiene preguntas sobre quiropráctica pediátrica para su bebé o niño?** Llame al [(210) 685-1994](tel:2106851994) o visite [puravidasanantonio.com/special/](https://puravidasanantonio.com/special/) para programar una **evaluación gratuita** con el Dr. Dan Foss en San Antonio, TX. El Dr. Foss habla español y tiene años de experiencia atendiendo bebés y niños con gentileza y cuidado.

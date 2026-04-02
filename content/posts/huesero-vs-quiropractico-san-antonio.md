@@ -96,4 +96,4 @@ Nuestro objetivo es que usted y su familia reciban el mejor cuidado posible —e
 
 ---
 
-**¿Tiene preguntas sobre quiropráctica o quiere saber si su condición puede tratarse?** Llame al [(210) 525-9063](tel:2105259063) o visite [puravidasanantonio.com/special/](https://puravidasanantonio.com/special/) para su **evaluación gratuita** con el Dr. Dan Foss en San Antonio, TX. Servicio bilingüe español/inglés.
+**¿Tiene preguntas sobre quiropráctica o quiere saber si su condición puede tratarse?** Llame al [(210) 685-1994](tel:2106851994) o visite [puravidasanantonio.com/special/](https://puravidasanantonio.com/special/) para su **evaluación gratuita** con el Dr. Dan Foss en San Antonio, TX. Servicio bilingüe español/inglés.

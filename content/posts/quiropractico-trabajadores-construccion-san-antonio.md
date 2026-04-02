@@ -98,4 +98,4 @@ Entendemos que los trabajadores de construcción trabajan duro y tienen horarios
 
 ---
 
-**¿Trabaja en construcción y vive con dolor?** Su cuerpo es su herramienta más importante. Protéjalo. Llame al [(210) 525-9063](tel:2105259063) o visite [puravidasanantonio.com/special/](https://puravidasanantonio.com/special/) para su **evaluación gratuita** con el Dr. Dan Foss en San Antonio, TX. Atención en español, sin juicios y con opciones para todos los presupuestos.
+**¿Trabaja en construcción y vive con dolor?** Su cuerpo es su herramienta más importante. Protéjalo. Llame al [(210) 685-1994](tel:2106851994) o visite [puravidasanantonio.com/special/](https://puravidasanantonio.com/special/) para su **evaluación gratuita** con el Dr. Dan Foss en San Antonio, TX. Atención en español, sin juicios y con opciones para todos los presupuestos.

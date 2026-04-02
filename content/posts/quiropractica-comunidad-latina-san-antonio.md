@@ -81,7 +81,7 @@ Estamos orgullosos de haber atendido a **miles de familias latinas** en el área
 Estamos ubicados convenientemente en San Antonio, TX, con estacionamiento disponible y acceso fácil desde las principales áreas de la ciudad.
 
 Puede contactarnos por:
-- **Teléfono/WhatsApp**: [(210) 525-9063](tel:2105259063)
+- **Teléfono/WhatsApp**: [(210) 685-1994](tel:2106851994)
 - **En línea**: [puravidasanantonio.com](https://puravidasanantonio.com/special/)
 
 Aceptamos pacientes nuevos sin referencia médica y la consulta inicial es completamente gratuita.
@@ -96,4 +96,4 @@ Aceptamos pacientes nuevos sin referencia médica y la consulta inicial es compl
 
 ---
 
-**¿Busca un quiropráctico que lo atienda en español en San Antonio?** El Dr. Dan Foss está aquí para usted y su familia. Llame al [(210) 525-9063](tel:2105259063) o visite [puravidasanantonio.com/special/](https://puravidasanantonio.com/special/) para su **evaluación gratuita** hoy. Bienvenido a Pura Vida — aquí todos son bienvenidos.
+**¿Busca un quiropráctico que lo atienda en español en San Antonio?** El Dr. Dan Foss está aquí para usted y su familia. Llame al [(210) 685-1994](tel:2106851994) o visite [puravidasanantonio.com/special/](https://puravidasanantonio.com/special/) para su **evaluación gratuita** hoy. Bienvenido a Pura Vida — aquí todos son bienvenidos.

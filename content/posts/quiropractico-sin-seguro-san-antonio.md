@@ -77,7 +77,7 @@ El Dr. Foss quiere que sepa que hay opciones. No tiene que elegir entre pagar su
 
 ## Cómo Comenzar
 
-1. **Llame o envíe un mensaje de WhatsApp** al [(210) 525-9063](tel:2105259063) para programar su evaluación gratuita
+1. **Llame o envíe un mensaje de WhatsApp** al [(210) 685-1994](tel:2106851994) para programar su evaluación gratuita
 2. **Cuéntenos su situación** — no hay preguntas incómodas, solo queremos ayudarle
 3. **Venga a su cita** — el Dr. Foss le explicará todo en español y diseñará un plan que funcione para usted
 
@@ -92,4 +92,4 @@ Nuestra clínica está ubicada convenientemente en San Antonio, TX, con horarios
 
 ---
 
-**¿Vive con dolor y no tiene seguro médico?** No espere más. Llame al [(210) 525-9063](tel:2105259063) o visite [puravidasanantonio.com/special/](https://puravidasanantonio.com/special/) para su **evaluación gratuita** hoy. El Dr. Dan Foss habla español y está listo para ayudarle, con o sin seguro médico.
+**¿Vive con dolor y no tiene seguro médico?** No espere más. Llame al [(210) 685-1994](tel:2106851994) o visite [puravidasanantonio.com/special/](https://puravidasanantonio.com/special/) para su **evaluación gratuita** hoy. El Dr. Dan Foss habla español y está listo para ayudarle, con o sin seguro médico.

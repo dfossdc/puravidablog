@@ -112,4 +112,4 @@ Lo que no haremos es exagerar la cantidad de visitas necesarias. Nuestra meta es
 
 ---
 
-**¿Listo para su primera visita?** No espere más para comenzar su camino hacia una vida sin dolor. Llame al [(210) 525-9063](tel:2105259063) o visite [puravidasanantonio.com/special/](https://puravidasanantonio.com/special/) para su **evaluación inicial gratuita** con el Dr. Dan Foss en San Antonio, TX. Atención completamente en español, sin compromisos.
+**¿Listo para su primera visita?** No espere más para comenzar su camino hacia una vida sin dolor. Llame al [(210) 685-1994](tel:2106851994) o visite [puravidasanantonio.com/special/](https://puravidasanantonio.com/special/) para su **evaluación inicial gratuita** con el Dr. Dan Foss en San Antonio, TX. Atención completamente en español, sin compromisos.

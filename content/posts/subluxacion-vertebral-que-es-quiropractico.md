@@ -125,4 +125,4 @@ El Dr. Foss le dará una estimación honesta durante su evaluación inicial grat
 
 ---
 
-**¿Cree que puede tener una subluxación vertebral?** Permita que el Dr. Dan Foss lo evalúe. Llame al [(210) 525-9063](tel:2105259063) o visite [puravidasanantonio.com/special/](https://puravidasanantonio.com/special/) para su **evaluación gratuita** en San Antonio, TX. Descubra la causa raíz de su dolor —en español, con un quiropráctico que realmente escucha.
+**¿Cree que puede tener una subluxación vertebral?** Permita que el Dr. Dan Foss lo evalúe. Llame al [(210) 685-1994](tel:2106851994) o visite [puravidasanantonio.com/special/](https://puravidasanantonio.com/special/) para su **evaluación gratuita** en San Antonio, TX. Descubra la causa raíz de su dolor —en español, con un quiropráctico que realmente escucha.

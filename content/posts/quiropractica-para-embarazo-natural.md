@@ -87,4 +87,4 @@ El trabajo de parto es exigente físicamente. Después del nacimiento, la column
 
 ---
 
-**¿Está embarazada y vive con dolor?** Usted no tiene que aguantar. Llame al [(210) 525-9063](tel:2105259063) o visite [puravidasanantonio.com/special/](https://puravidasanantonio.com/special/) para su **evaluación prenatal gratuita** con el Dr. Dan Foss en San Antonio, TX. Atención en español, con técnicas seguras y suaves especialmente adaptadas para mamás embarazadas.
+**¿Está embarazada y vive con dolor?** Usted no tiene que aguantar. Llame al [(210) 685-1994](tel:2106851994) o visite [puravidasanantonio.com/special/](https://puravidasanantonio.com/special/) para su **evaluación prenatal gratuita** con el Dr. Dan Foss en San Antonio, TX. Atención en español, con técnicas seguras y suaves especialmente adaptadas para mamás embarazadas.
