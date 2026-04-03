@@ -1,5 +1,6 @@
 import type { MetadataRoute } from "next";
 import { fetchAllSlugs } from "@/lib/posts";
+import { conditionsContent } from "@/lib/conditionsContent";
 
 const BASE_URL = "https://puravidasanantonio.com";
 
@@ -82,6 +83,18 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       changeFrequency: "monthly",
       priority: 0.9,
     });
+  }
+
+  // Condition pages
+  for (const condition of conditionsContent) {
+    for (const locale of ["en", "es"]) {
+      entries.push({
+        url: `${BASE_URL}/${locale}/conditions/${condition.slug}`,
+        lastModified: new Date(),
+        changeFrequency: "monthly",
+        priority: 0.85,
+      });
+    }
   }
 
   return entries;
