@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import LocalBusinessSchema from "@/components/LocalBusinessSchema";
 import "./globals.css";
 
-const BASE_URL = "https://puravidasanantonio.com";
+const BASE_URL = "https://puravidablog.vercel.app";
 
 export const metadata: Metadata = {
   metadataBase: new URL(BASE_URL),

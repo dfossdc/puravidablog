@@ -2,7 +2,7 @@ import type { MetadataRoute } from "next";
 import { fetchAllSlugs } from "@/lib/posts";
 import { conditionsContent } from "@/lib/conditionsContent";
 
-const BASE_URL = "https://puravidasanantonio.com";
+const BASE_URL = "https://puravidablog.vercel.app";
 
 const enServices = [
   // Original services
