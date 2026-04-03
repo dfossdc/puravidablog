@@ -52,7 +52,7 @@ export const conditionsContent: ConditionData[] = [
   {
     slug: "auto-accident-injuries",
     title: "Auto Accident Injuries",
-    image: "/images/conditions/autoaccidentinjury.jpg",
+    image: "/images/conditions/autoaccident.jpg",
     metaDescription:
       "Auto accident injury treatment in San Antonio TX. Pura Vida Chiropractic specializes in whiplash, neck pain, and soft-tissue injuries from car accidents using SOT chiropractic and regenerative therapies.",
     intro:
@@ -111,7 +111,7 @@ export const conditionsContent: ConditionData[] = [
   {
     slug: "sports-injury",
     title: "Sports Injuries",
-    image: "/images/conditions/sportsinjury.jpg",
+    image: "/images/conditions/sports-injury.webp",
     metaDescription:
       "Sports injury treatment in San Antonio TX. Pura Vida Chiropractic helps athletes recover from sprains, strains, and overuse injuries with SOT chiropractic, Shockwave, SoftWave, and Class IV Laser.",
     intro:
@@ -140,7 +140,7 @@ export const conditionsContent: ConditionData[] = [
   {
     slug: "neck-pain",
     title: "Neck Pain",
-    image: "/images/conditions/neckpain.jpg",
+    image: "/images/conditions/neck.jpg",
     metaDescription:
       "Neck pain treatment in San Antonio TX. Pura Vida Chiropractic addresses cervical spine dysfunction, muscle tension, and nerve irritation causing neck pain using SOT chiropractic and laser therapy.",
     intro:
@@ -170,7 +170,7 @@ export const conditionsContent: ConditionData[] = [
   {
     slug: "arthritis-joint-pain",
     title: "Arthritis & Joint Pain",
-    image: "/images/conditions/arthritisjointpain.jpg",
+    image: "/images/conditions/arthritis.webp",
     metaDescription:
       "Arthritis and joint pain relief in San Antonio TX. Pura Vida Chiropractic uses SOT chiropractic, SoftWave, and Class IV Laser to reduce joint inflammation and slow arthritis progression.",
     intro:
@@ -230,7 +230,7 @@ export const conditionsContent: ConditionData[] = [
   {
     slug: "tmj-jaw-pain",
     title: "TMJ & Jaw Pain",
-    image: "/images/conditions/tmj.jpg",
+    image: "/images/conditions/tmj.webp",
     metaDescription:
       "TMJ and jaw pain treatment in San Antonio TX. Pura Vida Chiropractic addresses TMJ dysfunction through craniosacral therapy, SOT chiropractic, and laser — resolving jaw pain without a mouthguard alone.",
     intro:
@@ -260,7 +260,7 @@ export const conditionsContent: ConditionData[] = [
   {
     slug: "lower-back-pain",
     title: "Lower Back Pain",
-    image: "/images/conditions/lowerbackpain.jpg",
+    image: "/images/conditions/backpain.jpg",
     metaDescription:
       "Lower back pain treatment in San Antonio TX. Pura Vida Chiropractic uses SOT chiropractic to correct lumbar and pelvic dysfunction — the root cause of most lower back pain.",
     intro:
@@ -290,7 +290,7 @@ export const conditionsContent: ConditionData[] = [
   {
     slug: "neuropathy-numbness",
     title: "Neuropathy & Numbness",
-    image: "/images/conditions/neuropathy.jpg",
+    image: "/images/conditions/neuropathy.webp",
     metaDescription:
       "Peripheral neuropathy treatment in San Antonio TX. Pura Vida Chiropractic uses SOT chiropractic, SoftWave, and Class IV Laser to improve nerve function and reduce numbness and tingling.",
     intro:
@@ -350,7 +350,7 @@ export const conditionsContent: ConditionData[] = [
   {
     slug: "pregnancy-wellness",
     title: "Pregnancy Wellness",
-    image: "/images/conditions/pregnancywellness.jpg",
+    image: "/images/conditions/pregnancy.webp",
     metaDescription:
       "Prenatal chiropractic care in San Antonio TX. Pura Vida Chiropractic helps pregnant mothers relieve low back pain, pelvic girdle pain, and sciatica, and optimize fetal positioning using Webster Technique.",
     intro:
@@ -379,7 +379,7 @@ export const conditionsContent: ConditionData[] = [
   {
     slug: "plantar-fasciitis",
     title: "Plantar Fasciitis",
-    image: "/images/conditions/plantarfasciitis.jpg",
+    image: "/images/conditions/footpain.jpg",
     metaDescription:
       "Plantar fasciitis treatment in San Antonio TX. Pura Vida Chiropractic combines SOT chiropractic, Shockwave Therapy, SoftWave, and Class IV Laser to resolve heel and arch pain fast.",
     intro:
@@ -409,7 +409,7 @@ export const conditionsContent: ConditionData[] = [
   {
     slug: "postural-correction",
     title: "Postural Correction",
-    image: "/images/conditions/posturalcorrection.jpg",
+    image: "/images/conditions/postural-correction.webp",
     metaDescription:
       "Postural correction in San Antonio TX. Pura Vida Chiropractic uses SOT chiropractic to correct forward head posture, scoliosis, and spinal misalignment — improving posture and long-term health.",
     intro:
@@ -439,7 +439,7 @@ export const conditionsContent: ConditionData[] = [
   {
     slug: "shoulder-arm-pain",
     title: "Shoulder & Arm Pain",
-    image: "/images/conditions/shoulderarmpain.jpg",
+    image: "/images/conditions/shoulderpain.jpg",
     metaDescription:
       "Shoulder and arm pain treatment in San Antonio TX. Pura Vida Chiropractic addresses rotator cuff dysfunction, cervical nerve compression, and shoulder biomechanics causing arm pain.",
     intro:
@@ -469,7 +469,7 @@ export const conditionsContent: ConditionData[] = [
   {
     slug: "migraines",
     title: "Migraines",
-    image: "/images/conditions/migraine.jpg",
+    image: "/images/conditions/migrane.jpg",
     metaDescription:
       "Migraine treatment in San Antonio TX. Pura Vida Chiropractic uses upper cervical SOT chiropractic and Class IV Laser to reduce migraine frequency and severity naturally.",
     intro:
@@ -559,7 +559,7 @@ export const conditionsContent: ConditionData[] = [
   {
     slug: "tinnitus",
     title: "Tinnitus",
-    image: "/images/conditions/tinnitus.jpg",
+    image: "/images/conditions/vertigo.jpg",
     metaDescription:
       "Tinnitus treatment in San Antonio TX. Pura Vida Chiropractic uses upper cervical SOT and craniosacral therapy to address the cervicogenic and TMJ causes of ringing in the ears.",
     intro:
@@ -619,7 +619,7 @@ export const conditionsContent: ConditionData[] = [
   {
     slug: "ear-infections",
     title: "Ear Infections",
-    image: "/images/conditions/earinfections.jpg",
+    image: "/images/conditions/sinuscongestion.jpg",
     metaDescription:
       "Ear infection care in San Antonio TX. Pura Vida Chiropractic uses SOT and craniosacral therapy to improve Eustachian tube drainage, reducing the frequency of ear infections in children and adults.",
     intro:
@@ -649,7 +649,7 @@ export const conditionsContent: ConditionData[] = [
   {
     slug: "chronic-fatigue-syndrome",
     title: "Chronic Fatigue Syndrome",
-    image: "/images/conditions/chronicfatigue.jpg",
+    image: "/images/conditions/chronicfatiguesyndrome.jpg",
     metaDescription:
       "Chronic fatigue syndrome care in San Antonio TX. Pura Vida Chiropractic uses SOT chiropractic and Class IV Laser to address neurological dysfunction contributing to chronic fatigue.",
     intro:
@@ -679,7 +679,7 @@ export const conditionsContent: ConditionData[] = [
   {
     slug: "fibromyalgia",
     title: "Fibromyalgia",
-    image: "/images/conditions/fibromyalgia.jpg",
+    image: "/images/conditions/arthritic-hands.jpg",
     metaDescription:
       "Fibromyalgia care in San Antonio TX. Pura Vida Chiropractic uses SOT chiropractic and Class IV Laser to reduce widespread pain and improve quality of life for fibromyalgia patients.",
     intro:
@@ -769,7 +769,7 @@ export const conditionsContent: ConditionData[] = [
   {
     slug: "acid-reflux-gerd",
     title: "Acid Reflux & GERD",
-    image: "/images/conditions/acidreflux.jpg",
+    image: "/images/conditions/reflux.jpg",
     metaDescription:
       "Acid reflux and GERD care in San Antonio TX. Pura Vida Chiropractic addresses the thoracic and vagal nerve dysfunction contributing to acid reflux without relying solely on medication.",
     intro:
@@ -799,7 +799,7 @@ export const conditionsContent: ConditionData[] = [
   {
     slug: "digestive-issues-ibs",
     title: "Digestive Issues & IBS",
-    image: "/images/conditions/digestiveibs.jpg",
+    image: "/images/conditions/ibs.jpg",
     metaDescription:
       "IBS and digestive issues care in San Antonio TX. Pura Vida Chiropractic uses SOT to correct the spinal nerve dysfunction that disrupts gut motility and causes irritable bowel symptoms.",
     intro:
@@ -889,7 +889,7 @@ export const conditionsContent: ConditionData[] = [
   {
     slug: "breech-presentation",
     title: "Breech Presentation",
-    image: "/images/conditions/breechpresentation.jpg",
+    image: "/images/conditions/breechbaby.jpg",
     metaDescription:
       "Webster Technique for breech presentation in San Antonio TX. Pura Vida Chiropractic uses the Webster Technique to balance the pelvis and support optimal fetal positioning.",
     intro:
@@ -978,7 +978,7 @@ export const conditionsContent: ConditionData[] = [
   {
     slug: "nursing-latching",
     title: "Nursing & Latching Difficulties",
-    image: "/images/conditions/nursinglatching.jpg",
+    image: "/images/conditions/nursinglactation.jpg",
     metaDescription:
       "Nursing and latching difficulty care in San Antonio TX. Pura Vida Chiropractic addresses cervical, craniosacral, and tongue tie restrictions affecting infant breastfeeding.",
     intro:
@@ -1068,7 +1068,7 @@ export const conditionsContent: ConditionData[] = [
   {
     slug: "adhd-focus",
     title: "ADHD & Focus Issues",
-    image: "/images/conditions/adhdfocus.jpg",
+    image: "/images/conditions/adhd.jpg",
     metaDescription:
       "ADHD and focus support in San Antonio TX. Pura Vida Chiropractic uses SOT and craniosacral therapy to improve neurological regulation in children and adults with ADHD.",
     intro:
@@ -1185,7 +1185,7 @@ export const conditionsContent: ConditionData[] = [
   {
     slug: "scheuermanns-disease",
     title: "Scheuermann's Disease",
-    image: "/images/conditions/scheuermanns.jpg",
+    image: "/images/conditions/scheumanns.jpg",
     metaDescription:
       "Scheuermann's disease care in San Antonio TX. Pura Vida Chiropractic uses SOT and Class IV Laser to manage the thoracic kyphosis and pain of Scheuermann's disease.",
     intro:
@@ -1391,7 +1391,7 @@ export const conditionsContent: ConditionData[] = [
   {
     slug: "carpal-tunnel-syndrome",
     title: "Carpal Tunnel Syndrome",
-    image: "/images/conditions/carpaltunnel.jpg",
+    image: "/images/conditions/carpal-tunnel.jpg",
     metaDescription:
       "Carpal tunnel syndrome treatment in San Antonio TX. Pura Vida Chiropractic uses SOT to address the cervical and wrist components of carpal tunnel without surgery or bracing alone.",
     intro:
@@ -1420,7 +1420,7 @@ export const conditionsContent: ConditionData[] = [
   {
     slug: "de-quervains-tenosynovitis",
     title: "De Quervain's Tenosynovitis",
-    image: "/images/conditions/dequervains.jpg",
+    image: "/images/conditions/dequervain.jpg",
     metaDescription:
       "De Quervain's tenosynovitis treatment in San Antonio TX. Pura Vida Chiropractic uses SOT, Shockwave, and Class IV Laser to resolve thumb-side wrist pain without cortisone injections.",
     intro:
@@ -1449,7 +1449,7 @@ export const conditionsContent: ConditionData[] = [
   {
     slug: "trigger-finger",
     title: "Trigger Finger",
-    image: "/images/conditions/triggerfinger.jpg",
+    image: "/images/conditions/trigger-finger.jpg",
     metaDescription:
       "Trigger finger treatment in San Antonio TX. Pura Vida Chiropractic uses Shockwave Therapy, SoftWave, and Class IV Laser to resolve trigger finger tendon nodules without cortisone or surgery.",
     intro:
@@ -1478,7 +1478,7 @@ export const conditionsContent: ConditionData[] = [
   {
     slug: "rib-subluxation",
     title: "Rib Subluxation",
-    image: "/images/conditions/ribsubluxation.jpg",
+    image: "/images/conditions/rib-xray.jpg",
     metaDescription:
       "Rib subluxation treatment in San Antonio TX. Pura Vida Chiropractic uses SOT to gently reposition subluxated ribs and relieve the sharp, stabbing pain of a 'rib out of place.'",
     intro:
@@ -1566,7 +1566,7 @@ export const conditionsContent: ConditionData[] = [
   {
     slug: "si-joint-dysfunction",
     title: "SI Joint Dysfunction",
-    image: "/images/conditions/sijointdysfunction.jpg",
+    image: "/images/conditions/si-joint.png",
     metaDescription:
       "SI joint dysfunction treatment in San Antonio TX. Pura Vida Chiropractic uses SOT Category II protocols to correct sacroiliac joint misalignment and resolve SI joint pain.",
     intro:
@@ -1596,7 +1596,7 @@ export const conditionsContent: ConditionData[] = [
   {
     slug: "piriformis-syndrome",
     title: "Piriformis Syndrome",
-    image: "/images/conditions/piriformissyndrome.jpg",
+    image: "/images/conditions/piriformis.jpg",
     metaDescription:
       "Piriformis syndrome treatment in San Antonio TX. Pura Vida Chiropractic uses SOT and soft-tissue therapy to release piriformis muscle spasm and relieve sciatic nerve entrapment.",
     intro:
@@ -1656,7 +1656,7 @@ export const conditionsContent: ConditionData[] = [
   {
     slug: "it-band-syndrome",
     title: "IT Band Syndrome",
-    image: "/images/conditions/itbandsyndrome.jpg",
+    image: "/images/conditions/runnersknee.jpg",
     metaDescription:
       "IT band syndrome treatment in San Antonio TX. Pura Vida Chiropractic uses SOT, Shockwave Therapy, and Class IV Laser to resolve iliotibial band friction and lateral knee pain.",
     intro:
@@ -1806,7 +1806,7 @@ export const conditionsContent: ConditionData[] = [
   {
     slug: "bunions",
     title: "Bunions",
-    image: "/images/conditions/bunions.jpg",
+    image: "/images/conditions/bunion.jpg",
     metaDescription:
       "Bunion care in San Antonio TX. Pura Vida Chiropractic addresses the pelvic and foot biomechanics driving bunion formation to slow progression and relieve bunion pain.",
     intro:

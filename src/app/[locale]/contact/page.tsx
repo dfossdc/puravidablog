@@ -85,7 +85,7 @@ export default async function ContactPage({ params }: Props) {
                   <span className={styles.infoIcon}>📞</span>
                   <div>
                     <p className={styles.infoLabel}>{isEs ? "Teléfono" : "Phone"}</p>
-                    <a href="tel:2106851994" className={styles.phone}>
+                    <a href="tel:+12106851994" className={styles.phone}>
                       (210) 685-1994
                     </a>
                   </div>

@@ -161,7 +161,7 @@ export default async function FaqPage({ params }: Props) {
                 : "Still have questions? We're here to help."}
             </p>
             <div className={styles.ctaRow}>
-              <a href="tel:2106851994" className={styles.callBtn}>
+              <a href="tel:+12106851994" className={styles.callBtn}>
                 {isEs ? "Llamar (210) 685-1994" : "Call (210) 685-1994"}
               </a>
               <a
