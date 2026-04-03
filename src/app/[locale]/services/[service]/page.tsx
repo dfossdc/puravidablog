@@ -108,7 +108,7 @@ const services: Record<"en" | "es", ServiceMap> = {
         "Expert chiropractic care in San Antonio, TX. Dr. Dan Foss uses 300+ techniques including SOT to treat the root cause of pain. Free evaluation.",
       keywords: ["chiropractor San Antonio TX", "chiropractic care San Antonio", "San Antonio chiropractor", "back pain San Antonio"],
       h1: "Chiropractic Care in San Antonio, TX",
-      image: "https://www.puravidasanantonio.com/wp-content/uploads/2017/06/content-library-chiropractic-care-is-necessary.jpg",
+      image: "https://www.puravidasanantonio.com/wp-content/uploads/2026/03/Chiropractor-San-Antonio-TX-Dan-Foss-Adjusting-A-Patient-HP.webp",
       body: [
         "**Chiropractic care** is health maintenance of the spinal column, discs, related nerves and bone geometry. It focuses on treating the causes of physical problems, rather than just the symptoms. At Pura Vida Chiropractic, Dr. Dan Foss uses over 300 chiropractic techniques including the advanced **Sacro-Occipital Technique (SOT)** to restore proper spinal function.",
         "With chiropractic adjustments, you give your body the best possible opportunity to prevent injury and return to a healthy state. Many patients report a feeling of release following an adjustment, along with significant decrease in [headaches](/en/blog/headaches-migraines-chiropractor-san-antonio), [back pain](/en/blog/back-pain-chiropractor-san-antonio), [neck pain](/en/blog/neck-pain-chiropractor-san-antonio), and overall improved well-being.",
@@ -192,7 +192,7 @@ const services: Record<"en" | "es", ServiceMap> = {
         "Proactive wellness chiropractic care in San Antonio, TX. The Pura Vida Protocol integrates chiropractic, osteopathic, and manual therapy for optimal health.",
       keywords: ["wellness chiropractor San Antonio", "maintenance chiropractic San Antonio", "preventive chiropractic San Antonio TX"],
       h1: "Wellness Chiropractic Care in San Antonio, TX",
-      image: "https://www.puravidasanantonio.com/wp-content/uploads/2022/04/Chiropractic-For-Wellness-Care.jpg",
+      image: "https://www.puravidasanantonio.com/wp-content/uploads/bb-plugin/cache/Chiropractor-San-Antonio-TX-Dan-Foss-Examining-Patient-HP-circle.webp",
       body: [
         "**Wellness chiropractic care** is proactive, regular care designed to maintain optimal spinal alignment, nervous system function, and overall health — even when you are not in pain. Think of it like regular dental cleanings or exercise. Your nervous system controls every function in your body.",
         "When the spine is properly aligned and free from interference, every system in the body functions better — **immune response, digestion, sleep, energy, and mood** all improve. The Pura Vida Protocol is Dr. Foss's comprehensive wellness approach developed over 23 years.",
@@ -304,7 +304,7 @@ const services: Record<"en" | "es", ServiceMap> = {
         "Atención quiropráctica experta en San Antonio, TX. El Dr. Dan Foss usa la técnica SOT para tratar la causa del dolor. Evaluación gratuita disponible.",
       keywords: ["quiropráctico San Antonio TX", "cuidado quiropráctico San Antonio", "quiropráctico San Antonio"],
       h1: "Cuidado Quiropráctico en San Antonio, TX",
-      image: "https://www.puravidasanantonio.com/wp-content/uploads/2017/06/content-library-chiropractic-care-is-necessary.jpg",
+      image: "https://www.puravidasanantonio.com/wp-content/uploads/2026/03/Chiropractor-San-Antonio-TX-Dan-Foss-Adjusting-A-Patient-HP.webp",
       body: [
         "El **cuidado quiropráctico** es el mantenimiento de la salud de la columna vertebral, los discos, los nervios relacionados y la geometría ósea. Se enfoca en tratar las causas de los problemas físicos, no solo los síntomas. En Pura Vida Quiropráctica, el Dr. Dan Foss utiliza la avanzada **Técnica Sacro-Occipital (SOT)** para restaurar la función espinal adecuada.",
         "Con los ajustes quiroprácticos, le da a su cuerpo la mejor oportunidad posible de prevenir lesiones y volver a un estado de salud óptimo. Muchos pacientes reportan una sensación de alivio después de un ajuste, junto con una disminución significativa de dolores de cabeza, dolor de espalda, dolor de cuello y un bienestar general mejorado.",
@@ -388,7 +388,7 @@ const services: Record<"en" | "es", ServiceMap> = {
         "Cuidado quiropráctico de bienestar proactivo en San Antonio, TX. El Protocolo Pura Vida integra quiropráctica, osteopatía y terapia manual.",
       keywords: ["quiropráctica bienestar San Antonio", "quiropráctica mantenimiento San Antonio", "quiropráctica preventiva San Antonio TX"],
       h1: "Cuidado Quiropráctico de Bienestar en San Antonio, TX",
-      image: "https://www.puravidasanantonio.com/wp-content/uploads/2022/04/Chiropractic-For-Wellness-Care.jpg",
+      image: "https://www.puravidasanantonio.com/wp-content/uploads/bb-plugin/cache/Chiropractor-San-Antonio-TX-Dan-Foss-Examining-Patient-HP-circle.webp",
       body: [
         "El **cuidado quiropráctico de bienestar** es un cuidado proactivo y regular diseñado para mantener la alineación espinal óptima, la función del sistema nervioso y la salud en general — incluso cuando no tiene dolor. Piense en ello como las limpiezas dentales regulares o el ejercicio. Su sistema nervioso controla cada función en su cuerpo.",
         "Cuando la columna está correctamente alineada y libre de interferencias, cada sistema en el cuerpo funciona mejor — la **respuesta inmunológica, la digestión, el sueño, la energía y el estado de ánimo** mejoran. El Protocolo Pura Vida es el enfoque integral de bienestar del Dr. Foss desarrollado a lo largo de 23 años.",

@@ -1,12 +1,28 @@
 .main {
-  min-height: calc(100vh - 70px);
-  padding: 2.5rem 1.25rem 5rem;
+  min-height: calc(100vh - 256px);
+  padding: 2rem 1.25rem 2.5rem;
   background: var(--color-bg);
 }
 
 .container {
   max-width: 780px;
   margin: 0 auto;
+}
+
+.heroWrap {
+  border-radius: 12px;
+  overflow: hidden;
+  margin-bottom: 2rem;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.heroImg {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: cover;
+  max-height: 420px;
+  object-position: center top;
 }
 
 .breadcrumb {
@@ -56,20 +72,21 @@
 
 .ctaBtn {
   display: inline-block;
-  background: var(--color-primary);
-  color: #fff;
-  font-weight: 700;
+  background: #F5A800;
+  color: #1a1a1a;
+  font-weight: 800;
   font-size: 1rem;
   padding: 0.75rem 1.75rem;
-  border-radius: 8px;
+  border-radius: 50px;
   text-decoration: none;
   transition: background 0.2s, transform 0.15s;
   margin-bottom: 1rem;
 }
 
 .ctaBtn:hover {
-  background: var(--color-secondary);
-  transform: translateY(-1px);
+  background: #e09600;
+  color: #1a1a1a;
+  transform: translateY(-2px);
 }
 
 .contact {

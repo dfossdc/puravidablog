@@ -499,18 +499,15 @@
 }
 
 .serviceCard {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
-  padding: 1.5rem 1rem;
+  position: relative;
   border-radius: 14px;
+  overflow: hidden;
   text-decoration: none;
-  color: var(--color-text);
-  background: #ffffff;
+  aspect-ratio: 4 / 3;
   box-shadow: 0 2px 12px rgba(0, 0, 0, 0.07);
   transition: box-shadow 0.2s, transform 0.15s;
   border: 1px solid #e8f0f8;
+  display: block;
 }
 
 .serviceCard:hover {
@@ -520,19 +517,8 @@
 }
 
 .serviceImgWrap {
-  position: relative;
-  width: 160px;
-  height: 160px;
-  border-radius: 50%;
-  overflow: hidden;
-  margin-bottom: 1rem;
-  flex-shrink: 0;
-  border: 3px solid #dce8f0;
-  transition: border-color 0.2s;
-}
-
-.serviceCard:hover .serviceImgWrap {
-  border-color: #2E7EA6;
+  position: absolute;
+  inset: 0;
 }
 
 .serviceImg {
@@ -544,16 +530,29 @@
   transform: scale(1.06);
 }
 
+.serviceOverlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to top, rgba(0,0,0,0.55) 0%, rgba(0,0,0,0.05) 60%);
+}
+
 .serviceName {
-  font-size: 0.9rem;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 0.6rem 0.75rem;
+  font-size: 0.85rem;
   font-weight: 700;
-  color: #1a3a4a;
+  color: #ffffff;
   line-height: 1.3;
+  text-align: center;
+  text-shadow: 0 1px 3px rgba(0,0,0,0.5);
 }
 
 /* ── Conditions Photo Grid ───────────────────────────── */
 .conditionsSection {
-  padding: 2rem 0 0 0;
+  padding: 3rem 1.25rem;
   background: #ffffff;
 }
 
@@ -564,61 +563,97 @@
   letter-spacing: 0.15em;
   text-transform: uppercase;
   color: #1a1a1a;
-  margin-bottom: 1.25rem;
-  padding: 0 1.25rem;
+  margin-bottom: 1.5rem;
 }
 
 .conditionsGrid {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
-  gap: 4px;
-  width: 100%;
+  gap: 10px;
 }
 
 .conditionCard {
   position: relative;
-  aspect-ratio: 1 / 1;
-  overflow: hidden;
-  cursor: pointer;
   display: block;
+  overflow: hidden;
+  border-radius: 6px;
   text-decoration: none;
+  cursor: pointer;
+  aspect-ratio: 3 / 2;
+  background: #2D6A4F;
 }
 
 .conditionImg {
   object-fit: cover;
   transition: transform 0.4s ease;
-  filter: brightness(0.72);
 }
 
 .conditionCard:hover .conditionImg {
-  transform: scale(1.05);
-  filter: brightness(0.85);
+  transform: scale(1.06);
 }
 
 .conditionOverlay {
   position: absolute;
   inset: 0;
   background: linear-gradient(
-    160deg,
-    rgba(0,0,0,0.6) 0%,
-    rgba(0,0,0,0.15) 50%,
+    to top,
+    rgba(0, 0, 0, 0.65) 0%,
+    rgba(0, 0, 0, 0.2) 45%,
     transparent 100%
   );
+  pointer-events: none;
 }
 
 .conditionName {
   position: absolute;
-  top: 10px;
-  left: 12px;
+  top: 9px;
+  left: 10px;
   color: #ffffff;
-  font-size: 0.68rem;
+  font-size: 0.65rem;
+  font-weight: 800;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  line-height: 1.3;
+  text-shadow: 0 1px 8px rgba(0, 0, 0, 0.95);
+  max-width: 90%;
+  z-index: 2;
+  pointer-events: none;
+}
+
+/* Label centered on green placeholder cards (no image) */
+.conditionNameNoImg {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.5rem;
+  color: #ffffff;
+  font-size: 0.72rem;
   font-weight: 800;
   letter-spacing: 0.08em;
   text-transform: uppercase;
-  line-height: 1.3;
-  text-shadow: 0 1px 6px rgba(0,0,0,0.8);
-  max-width: 85%;
-  z-index: 2;
+  line-height: 1.4;
+  text-align: center;
+}
+
+@media (max-width: 900px) {
+  .conditionsGrid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 540px) {
+  .conditionsGrid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 8px;
+  }
+  .conditionName {
+    font-size: 0.6rem;
+  }
+  .conditionNameNoImg {
+    font-size: 0.65rem;
+  }
 }
 
 /* ── Video Testimonials ──────────────────────────────── */
@@ -955,11 +990,6 @@
 @media (max-width: 480px) {
   .servicesGrid {
     grid-template-columns: repeat(2, 1fr);
-  }
-
-  .serviceImgWrap {
-    width: 120px;
-    height: 120px;
   }
 
   .conditionsGrid {

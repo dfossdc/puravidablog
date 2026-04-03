@@ -1,0 +1,151 @@
+.main {
+  min-height: calc(100vh - 256px);
+  padding: 2rem 1.25rem 2.5rem;
+  background: var(--color-bg);
+}
+
+.container {
+  max-width: 780px;
+  margin: 0 auto;
+}
+
+.h1 {
+  font-size: clamp(1.75rem, 4vw, 2.6rem);
+  color: var(--color-primary);
+  margin-bottom: 1.25rem;
+  text-align: center;
+}
+
+.intro {
+  font-size: 1.05rem;
+  line-height: 1.8;
+  color: #555;
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.accordion {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  margin-bottom: 3rem;
+}
+
+.item {
+  background: var(--color-muted);
+  border: 1px solid var(--color-border);
+  border-radius: 10px;
+  overflow: hidden;
+  transition: border-color 0.2s;
+}
+
+.item[open] {
+  border-color: #2E7EA6;
+}
+
+.question {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  padding: 1.1rem 1.4rem;
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--color-primary);
+  list-style: none;
+  user-select: none;
+  transition: background 0.15s;
+}
+
+.question::-webkit-details-marker { display: none; }
+
+.question:hover {
+  background: rgba(45, 106, 79, 0.06);
+}
+
+.item[open] .question {
+  color: #2E7EA6;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.chevron {
+  font-size: 1.3rem;
+  font-weight: 400;
+  color: #2E7EA6;
+  transition: transform 0.2s;
+  flex-shrink: 0;
+  display: inline-block;
+}
+
+.item[open] .chevron {
+  transform: rotate(90deg);
+}
+
+.answer {
+  padding: 1.1rem 1.4rem;
+}
+
+.answer p {
+  font-size: 0.97rem;
+  line-height: 1.8;
+  color: var(--color-text);
+}
+
+.ctaBox {
+  background: var(--color-muted);
+  border: 1px solid var(--color-border);
+  border-left: 4px solid #2E7EA6;
+  border-radius: 12px;
+  padding: 2rem;
+  text-align: center;
+}
+
+.ctaBox p {
+  font-size: 1rem;
+  margin-bottom: 1.25rem;
+  color: var(--color-text);
+}
+
+.ctaRow {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.callBtn {
+  display: inline-block;
+  background: #F5A800;
+  color: #1a1a1a;
+  font-weight: 800;
+  font-size: 0.97rem;
+  padding: 0.7rem 1.4rem;
+  border-radius: 50px;
+  text-decoration: none;
+  transition: background 0.2s, transform 0.15s;
+}
+
+.callBtn:hover {
+  background: #e09600;
+  color: #1a1a1a;
+  transform: translateY(-2px);
+}
+
+.bookBtn {
+  display: inline-block;
+  background: #F5A800;
+  color: #1a1a1a;
+  font-weight: 800;
+  font-size: 0.97rem;
+  padding: 0.7rem 1.4rem;
+  border-radius: 50px;
+  text-decoration: none;
+  transition: background 0.2s, transform 0.15s;
+}
+
+.bookBtn:hover {
+  background: #e09600;
+  color: #1a1a1a;
+  transform: translateY(-2px);
+}

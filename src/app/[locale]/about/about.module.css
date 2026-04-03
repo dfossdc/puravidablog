@@ -1,0 +1,314 @@
+.main {
+  min-height: calc(100vh - 256px);
+  padding: 2rem 1.25rem 2.5rem;
+  background: var(--color-bg);
+}
+
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.h1 {
+  font-size: clamp(1.75rem, 4vw, 2.6rem);
+  color: var(--color-primary);
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.heroPhoto {
+  border-radius: 16px;
+  overflow: hidden;
+  margin-bottom: 3rem;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.1);
+}
+
+.heroImg {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: cover;
+  max-height: 460px;
+  object-position: center top;
+}
+
+.twoCol {
+  display: grid;
+  grid-template-columns: 1fr 400px;
+  gap: 2rem;
+  align-items: start;
+  margin-bottom: 3rem;
+}
+
+.leftCol {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.rightCol {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.section {}
+
+.h2 {
+  font-size: 1.3rem;
+  color: #2E7EA6;
+  margin-bottom: 0.9rem;
+}
+
+.story {
+  font-size: 1.05rem;
+  line-height: 1.85;
+  color: var(--color-text);
+}
+
+.philosophy {
+  font-size: 1.05rem;
+  font-style: italic;
+  line-height: 1.8;
+  color: var(--color-text);
+  border-left: 4px solid #2E7EA6;
+  padding-left: 1.25rem;
+  margin-bottom: 0.5rem;
+}
+
+.philosophyCite {
+  font-size: 0.9rem;
+  color: #666;
+  font-weight: 600;
+  padding-left: 1.25rem;
+}
+
+.credSection {}
+
+.credList {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0.65rem;
+}
+
+.credItem {
+  display: flex;
+  align-items: baseline;
+  gap: 0.6rem;
+  font-size: 0.97rem;
+  line-height: 1.5;
+  color: var(--color-text);
+}
+
+.credCheck {
+  color: #2E7EA6;
+  font-weight: 700;
+  flex-shrink: 0;
+}
+
+.sidePhoto {
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.sideImg {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.ctaBox {
+  background: var(--color-muted);
+  border: 1px solid var(--color-border);
+  border-left: 4px solid #2E7EA6;
+  border-radius: 12px;
+  padding: 2rem;
+  text-align: center;
+}
+
+.ctaBox p {
+  font-size: 1rem;
+  margin-bottom: 1rem;
+  color: var(--color-text);
+}
+
+.ctaBtn {
+  display: inline-block;
+  background: #F5A800;
+  color: #1a1a1a;
+  font-weight: 800;
+  font-size: 1rem;
+  padding: 0.75rem 1.75rem;
+  border-radius: 50px;
+  text-decoration: none;
+  transition: background 0.2s, transform 0.15s;
+}
+
+.ctaBtn:hover {
+  background: #e09600;
+  color: #1a1a1a;
+  transform: translateY(-2px);
+}
+
+/* ── Stats strip ── */
+.statsStrip {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+  margin: 0 0 3rem;
+  text-align: center;
+}
+
+.statCard {
+  background: #f4f9ff;
+  border: 1px solid #d0e4f0;
+  border-radius: 14px;
+  padding: 1.25rem 0.75rem;
+}
+
+.statNum {
+  font-size: clamp(1.6rem, 3vw, 2.2rem);
+  font-weight: 800;
+  color: #1a3a4a;
+  line-height: 1;
+  margin-bottom: 0.35rem;
+}
+
+.statLabel {
+  font-size: 0.82rem;
+  color: #5a7a8a;
+  line-height: 1.4;
+}
+
+/* ── Full-width bio sections ── */
+.bioSection {
+  margin-bottom: 2.75rem;
+}
+
+.bioSection p {
+  font-size: 1.02rem;
+  color: var(--color-text);
+  line-height: 1.85;
+  margin-bottom: 1rem;
+}
+
+.bioSection p:last-child {
+  margin-bottom: 0;
+}
+
+/* ── Highlight box (Protocol origin) ── */
+.highlightBox {
+  background: linear-gradient(135deg, #1a3a4a 0%, #2E7EA6 100%);
+  border-radius: 16px;
+  padding: 2rem 2rem 2rem 2.25rem;
+  margin-bottom: 2.75rem;
+  color: #fff;
+}
+
+.highlightBox h2 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #fff;
+  margin-bottom: 0.85rem;
+}
+
+.highlightBox p {
+  font-size: 0.97rem;
+  line-height: 1.8;
+  color: rgba(255,255,255,0.92);
+  margin-bottom: 0.75rem;
+}
+
+.highlightBox p:last-child {
+  margin-bottom: 0;
+}
+
+/* ── Two-column specialty grid ── */
+.specialtyGrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.25rem;
+  margin-bottom: 2.75rem;
+}
+
+.specialtyCard {
+  background: #f4f9ff;
+  border: 1px solid #d0e4f0;
+  border-radius: 12px;
+  padding: 1.25rem 1.5rem;
+}
+
+.specialtyCard h3 {
+  font-size: 1rem;
+  font-weight: 700;
+  color: #1a3a4a;
+  margin-bottom: 0.6rem;
+}
+
+.specialtyCard p {
+  font-size: 0.92rem;
+  color: #4a6a7a;
+  line-height: 1.7;
+  margin: 0;
+}
+
+/* ── Community section ── */
+.communitySection {
+  background: #fff7ed;
+  border: 1px solid #f0d8b0;
+  border-left: 4px solid #F5A800;
+  border-radius: 12px;
+  padding: 1.75rem 2rem;
+  margin-bottom: 2.75rem;
+}
+
+.communitySection h2 {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: #1a3a4a;
+  margin-bottom: 0.75rem;
+}
+
+.communitySection p {
+  font-size: 0.98rem;
+  color: var(--color-text);
+  line-height: 1.8;
+  margin-bottom: 0.6rem;
+}
+
+.communitySection p:last-child {
+  margin-bottom: 0;
+}
+
+@media (max-width: 900px) {
+  .twoCol {
+    grid-template-columns: 1fr;
+  }
+
+  .rightCol {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+    align-items: start;
+  }
+
+  .statsStrip {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .specialtyGrid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 600px) {
+  .rightCol {
+    grid-template-columns: 1fr;
+  }
+
+  .statsStrip {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}

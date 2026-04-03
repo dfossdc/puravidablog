@@ -5,6 +5,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import LocalBusinessSchema from "@/components/LocalBusinessSchema";
 import ReviewCarousel from "@/components/ReviewCarousel";
+import InsuranceSection from "@/components/InsuranceSection";
 import styles from "./home.module.css";
 
 const BASE_URL = "https://puravidasanantonio.com";
@@ -57,7 +58,7 @@ const services = [
     slugEs: "chiropractic-care",
     nameEn: "Chiropractic Care",
     nameEs: "Cuidado Quiropráctico",
-    image: "/images/dr-foss-adjusting-patient.webp",
+    image: "https://www.puravidasanantonio.com/wp-content/uploads/2026/03/Chiropractor-San-Antonio-TX-Dan-Foss-Adjusting-A-Patient-HP.webp",
     alt: "Chiropractic care adjustment",
   },
   {
@@ -65,7 +66,7 @@ const services = [
     slugEs: "cranial-chiropractic",
     nameEn: "Cranial Chiropractic",
     nameEs: "Quiropráctica Craneal",
-    image: "/images/cranialadult.jpg",
+    image: "https://www.puravidasanantonio.com/wp-content/uploads/2026/03/Chiropractor-San-Antonio-TX-Dan-Foss-Performing-Cranial-Adjustment.webp",
     alt: "Cranial chiropractic therapy",
   },
   {
@@ -73,7 +74,7 @@ const services = [
     slugEs: "terapia-softwave",
     nameEn: "SoftWave Therapy",
     nameEs: "Terapia SoftWave",
-    image: "/images/shockwave-back.webp",
+    image: "https://www.puravidasanantonio.com/wp-content/uploads/2026/03/Chiropractic-San-Antonio-TX-Softwave-Instrument-Being-Used-On-Patients-Knee.webp",
     alt: "SoftWave therapy treatment",
   },
   {
@@ -81,7 +82,7 @@ const services = [
     slugEs: "terapia-ondas-de-choque",
     nameEn: "Shockwave Therapy",
     nameEs: "Terapia de Ondas de Choque",
-    image: "/images/shockwave-back.webp",
+    image: "https://www.puravidasanantonio.com/wp-content/uploads/bb-plugin/cache/Chiropractic-San-Antonio-TX-Shockwave-Instrument-Being-Used-On-Patients-Back-HP-circle.webp",
     alt: "Shockwave therapy treatment",
   },
   {
@@ -89,7 +90,7 @@ const services = [
     slugEs: "pediatric-chiropractic",
     nameEn: "Pediatric Chiropractic",
     nameEs: "Quiropráctica Pediátrica",
-    image: "/images/dr-foss-adjusting-child.webp",
+    image: "https://www.puravidasanantonio.com/wp-content/uploads/bb-plugin/cache/Chiropractor-San-Antonio-TX-Dan-Foss-Adjusting-Child-Patient-HP-circle.webp",
     alt: "Pediatric chiropractic care",
   },
   {
@@ -97,7 +98,7 @@ const services = [
     slugEs: "pregnancy-chiropractic",
     nameEn: "Pregnancy Chiropractic",
     nameEs: "Quiropráctica Prenatal",
-    image: "/images/pregnant-patient.webp",
+    image: "https://www.puravidasanantonio.com/wp-content/uploads/bb-plugin/cache/Chiropractic-San-Antonio-TX-Pregnant-Patient-HP-circle.webp",
     alt: "Pregnancy chiropractic care",
   },
   {
@@ -105,7 +106,7 @@ const services = [
     slugEs: "laser-clase-iv",
     nameEn: "Class IV Laser",
     nameEs: "Láser Clase IV",
-    image: "/images/laser-therapy-knee.webp",
+    image: "https://www.puravidasanantonio.com/wp-content/uploads/bb-plugin/cache/Chiropractic-San-Antonio-TX-Laser-Therapy-Being-Used-On-A-Knee-HP-circle.webp",
     alt: "Class IV laser therapy",
   },
   {
@@ -113,87 +114,97 @@ const services = [
     slugEs: "latino-community",
     nameEn: "Latino Community",
     nameEs: "Comunidad Latina",
-    image: "/images/latino-community.png",
-    alt: "Bilingual chiropractic care for the Latino community",
+    image: "/images/conditions/latinofamily.jpg",
+    alt: "Bilingual chiropractic care for the Latino community in San Antonio TX",
   },
 ];
 
 const conditions = [
-  {
-    nameEN: "NECK PAIN", nameES: "DOLOR DE CUELLO",
-    image: "https://www.puravidasanantonio.com/wp-content/uploads/2026/03/Chiropractor-San-Antonio-TX-Dan-Foss-Examining-Patients-Neck-HP.webp",
-    hrefEN: "/en/blog/neck-pain-chiropractor-san-antonio", hrefES: "/es/blog/dolor-de-cuello-quiropractico-san-antonio",
-  },
-  {
-    nameEN: "LOWER BACK PAIN", nameES: "DOLOR DE ESPALDA",
-    image: "https://www.puravidasanantonio.com/wp-content/uploads/2026/03/Chiropractor-San-Antonio-TX-Dan-Foss-Adjusting-A-Patient-HP.webp",
-    hrefEN: "/en/blog/back-pain-chiropractor-san-antonio", hrefES: "/es/blog/dolor-de-espalda-quiropractico-san-antonio",
-  },
-  {
-    nameEN: "HEADACHES", nameES: "DOLORES DE CABEZA",
-    image: "https://images.unsplash.com/photo-1507120410856-1f35574c3b45?w=600&q=80",
-    hrefEN: "/en/blog/headaches-migraines-chiropractor-san-antonio", hrefES: "/es/blog/dolores-de-cabeza-migranas-san-antonio",
-  },
-  {
-    nameEN: "SCIATICA", nameES: "CIÁTICA",
-    image: "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&q=80",
-    hrefEN: "/en/blog/sciatica-chiropractor-san-antonio", hrefES: "/es/blog/ciatica-quiropractico-san-antonio",
-  },
-  {
-    nameEN: "DISC PROBLEMS", nameES: "HERNIA DE DISCO",
-    image: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=600&q=80",
-    hrefEN: "/en/blog/herniated-disc-chiropractor-san-antonio", hrefES: "/es/blog/hernia-disco-quiropractico-san-antonio",
-  },
-  {
-    nameEN: "PLANTAR FASCIITIS", nameES: "FASCITIS PLANTAR",
-    image: "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=600&q=80",
-    hrefEN: "/en/services/shockwave-therapy", hrefES: "/es/services/terapia-ondas-de-choque",
-  },
-  {
-    nameEN: "HIP, KNEE & ANKLE", nameES: "CADERA, RODILLA Y PIE",
-    image: "https://images.unsplash.com/photo-1593811167562-9cef47bfc4d7?w=600&q=80",
-    hrefEN: "/en/services/softwave-therapy", hrefES: "/es/services/terapia-softwave",
-  },
-  {
-    nameEN: "SHOULDER & ELBOW", nameES: "HOMBRO Y CODO",
-    image: "https://images.unsplash.com/photo-1562771379-eafdca7a02f8?w=600&q=80",
-    hrefEN: "/en/services/shockwave-therapy", hrefES: "/es/services/terapia-ondas-de-choque",
-  },
-  {
-    nameEN: "AUTO ACCIDENT", nameES: "ACCIDENTE DE AUTO",
-    image: "https://www.puravidasanantonio.com/wp-content/uploads/2026/03/Chiropractor-San-Antonio-TX-Dan-Foss-Adjusting-A-Patient-HP.webp",
-    hrefEN: "/en/blog/auto-injury", hrefES: "/es/blog/lesiones-de-auto",
-  },
-  {
-    nameEN: "PREGNANCY PAIN", nameES: "DOLOR EN EL EMBARAZO",
-    image: "https://www.puravidasanantonio.com/wp-content/uploads/bb-plugin/cache/Chiropractic-San-Antonio-TX-Pregnant-Patient-HP-circle.webp",
-    hrefEN: "/en/services/pregnancy-chiropractic", hrefES: "/es/services/pregnancy-chiropractic",
-  },
-  {
-    nameEN: "SPORTS INJURY", nameES: "LESIONES DEPORTIVAS",
-    image: "https://images.unsplash.com/photo-1571731956672-f2b94d7dd0cb?w=600&q=80",
-    hrefEN: "/en/sports-chiropractic", hrefES: "/es/sports-chiropractic",
-  },
-  {
-    nameEN: "ARTHRITIS & JOINTS", nameES: "ARTRITIS Y ARTICULACIONES",
-    image: "https://images.unsplash.com/photo-1559757175-0eb30cd8c063?w=600&q=80",
-    hrefEN: "/en/services/softwave-therapy", hrefES: "/es/services/terapia-softwave",
-  },
-  {
-    nameEN: "TMJ & JAW PAIN", nameES: "DOLOR DE MANDÍBULA",
-    image: "https://images.unsplash.com/photo-1606206873764-fd15e242c54c?w=600&q=80",
-    hrefEN: "/en/blog/a-doctor-s-perspective-on-tmj", hrefES: "/es/blog/a-doctor-s-perspective-on-tmj",
-  },
-  {
-    nameEN: "POSTURAL CORRECTION", nameES: "CORRECCIÓN POSTURAL",
-    image: "https://www.puravidasanantonio.com/wp-content/uploads/bb-plugin/cache/Chiropractor-San-Antonio-TX-Dan-Foss-Adjusting-Patients-Neck-HP-circle.webp",
-    hrefEN: "/en/services/sot-chiropractic", hrefES: "/es/services/quiropractica-sot",
-  },
-  {
-    nameEN: "NEUROPATHY & NUMBNESS", nameES: "NEUROPATÍA Y ENTUMECIMIENTO",
-    image: "https://www.puravidasanantonio.com/wp-content/uploads/bb-plugin/cache/Chiropractic-San-Antonio-TX-Laser-Therapy-Being-Used-On-A-Knee-HP-circle.webp",
-    hrefEN: "/en/services/class-iv-laser", hrefES: "/es/services/laser-clase-iv",
-  },
+  { label: "Headaches",                            labelEs: "Dolores de Cabeza",                    image: "/images/conditions/headache.jpg",        alt: "Headache and migraine relief San Antonio chiropractor",        href: "/[locale]/conditions/headaches" },
+  { label: "Auto Accident Injuries",               labelEs: "Lesiones por Accidente de Auto",       image: "/images/conditions/autoaccident.jpg",    alt: "Auto accident injury chiropractor San Antonio",               href: "/[locale]/conditions/auto-accident-injuries" },
+  { label: "Disc Problems",                        labelEs: "Problemas de Disco",                   image: "/images/conditions/discproblems.jpg",    alt: "Disc injury spine pain San Antonio chiropractor",             href: "/[locale]/conditions/disc-problems" },
+  { label: "Sports Injury",                        labelEs: "Lesiones Deportivas",                  image: "/images/conditions/sports-injury.webp",  alt: "Sports injury treatment San Antonio chiropractor",            href: "/[locale]/conditions/sports-injury" },
+  { label: "Neck Pain",                            labelEs: "Dolor de Cuello",                      image: "/images/conditions/neck.jpg",            alt: "Woman with neck pain San Antonio chiropractor",               href: "/[locale]/conditions/neck-pain" },
+  { label: "Arthritis and Joint Pain",             labelEs: "Artritis y Dolor en las Articulaciones", image: "/images/conditions/arthritis.webp",    alt: "Arthritis and joint pain treatment San Antonio chiropractor", href: "/[locale]/conditions/arthritis-joint-pain" },
+  { label: "Sciatica",                             labelEs: "Ciática",                              image: "/images/conditions/sciatica.jpg",        alt: "Sciatica nerve pain relief San Antonio chiropractor",         href: "/[locale]/conditions/sciatica" },
+  { label: "TMJ & Jaw Pain",                       labelEs: "ATM y Dolor de Mandíbula",             image: "/images/conditions/tmj.webp",            alt: "TMJ and jaw pain treatment San Antonio chiropractor",         href: "/[locale]/conditions/tmj-jaw-pain" },
+  { label: "Lower Back Pain",                      labelEs: "Dolor de Espalda Baja",                image: "/images/conditions/backpain.jpg",        alt: "Person with lower back pain San Antonio chiropractor",        href: "/[locale]/conditions/lower-back-pain" },
+  { label: "Neuropathy & Numbness",                labelEs: "Neuropatía y Entumecimiento",          image: "/images/conditions/neuropathy.webp",     alt: "Neuropathy and numbness treatment San Antonio chiropractor",  href: "/[locale]/conditions/neuropathy-numbness" },
+  { label: "Hip, Knee, Foot & Ankle",              labelEs: "Cadera, Rodilla, Pie y Tobillo",       image: "/images/conditions/hipkneefootankle.jpg",alt: "Hip knee foot ankle pain San Antonio chiropractor",           href: "/[locale]/conditions/hip-knee-foot-ankle" },
+  { label: "Pregnancy Pain & Wellness",            labelEs: "Dolor en el Embarazo y Bienestar",     image: "/images/conditions/pregnancy.webp",      alt: "Pregnancy chiropractic care San Antonio",                     href: "/[locale]/conditions/pregnancy-wellness" },
+  { label: "Plantar Fasciitis",                    labelEs: "Fascitis Plantar",                     image: "/images/conditions/footpain.jpg",        alt: "Plantar fasciitis treatment San Antonio chiropractor",        href: "/[locale]/conditions/plantar-fasciitis" },
+  { label: "Postural Correction",                  labelEs: "Corrección Postural",                  image: "/images/conditions/postural-correction.webp", alt: "Corrective exercise and postural correction San Antonio", href: "/[locale]/conditions/postural-correction" },
+  { label: "Shoulder, Elbow, Wrist & Hand",        labelEs: "Hombro, Codo, Muñeca y Mano",         image: "/images/conditions/shoulderpain.jpg",    alt: "Shoulder elbow wrist hand pain San Antonio chiropractor",     href: "/[locale]/conditions/shoulder-arm-pain" },
+
+  // HEAD & NEUROLOGICAL
+  { label: "Migraines",                  labelEs: "Migrañas",                          image: "/images/conditions/migrane.jpg",               alt: "Middle-aged woman holding head with migraine pain - chiropractor San Antonio TX",                   title: "Migraine relief at Pura Vida Chiropractic San Antonio",            href: "/[locale]/conditions/migraines" },
+  { label: "Vertigo",                    labelEs: "Vértigo",                           image: "/images/conditions/vertigo.jpg",               alt: "3D illustration of vertigo and inner ear dizziness - chiropractor San Antonio TX",                  title: "Vertigo treatment at Pura Vida Chiropractic San Antonio",          href: "/[locale]/conditions/vertigo" },
+  { label: "Dizziness",                  labelEs: "Mareos",                            image: "/images/conditions/dizziness.jpg",             alt: "Woman with dizziness and head pain - chiropractor San Antonio TX",                                  title: "Dizziness relief at Pura Vida Chiropractic San Antonio",           href: "/[locale]/conditions/dizziness" },
+  { label: "Tinnitus (Ear Ringing)",     labelEs: "Tinnitus (Zumbido en el Oído)",    image: "/images/conditions/tinnitus.jpg",              alt: "Woman with neck and head tension causing tinnitus ear ringing - chiropractor San Antonio TX",       title: "Tinnitus ear ringing treatment San Antonio chiropractor",           href: "/[locale]/conditions/tinnitus" },
+  { label: "Sinus Congestion",           labelEs: "Congestión Sinusal",               image: "/images/conditions/sinuscongestion.jpg",       alt: "Person with facial pressure and sinus congestion pain - chiropractor San Antonio TX",               title: "Sinus congestion relief San Antonio chiropractor",                 href: "/[locale]/conditions/sinus-congestion" },
+  { label: "Ear Infections",             labelEs: "Infecciones del Oído",             image: "/images/conditions/earinfections.jpg",         alt: "Woman with neck and ear pain from ear infection - pediatric chiropractor San Antonio TX",            title: "Ear infection relief pediatric chiropractor San Antonio",           href: "/[locale]/conditions/ear-infections" },
+  { label: "Chronic Fatigue Syndrome",   labelEs: "Síndrome de Fatiga Crónica",       image: "/images/conditions/chronicfatiguesyndrome.jpg",alt: "Exhausted woman with chronic fatigue syndrome head pain - chiropractor San Antonio TX",              title: "Chronic fatigue syndrome relief San Antonio chiropractor",          href: "/[locale]/conditions/chronic-fatigue-syndrome" },
+  { label: "Fibromyalgia",               labelEs: "Fibromialgia",                     image: "/images/conditions/arthritic-hands.jpg",       alt: "Arthritic hands with fibromyalgia joint pain - chiropractor San Antonio TX",                        title: "Fibromyalgia pain relief San Antonio chiropractor",                href: "/[locale]/conditions/fibromyalgia" },
+  { label: "Insomnia",                   labelEs: "Insomnio",                         image: "/images/conditions/insomnia.jpg",              alt: "Person with poor posture and spinal tension causing insomnia - chiropractor San Antonio TX",        title: "Insomnia treatment San Antonio chiropractor",                      href: "/[locale]/conditions/insomnia" },
+  { label: "Sleep Apnea",                labelEs: "Apnea del Sueño",                  image: "/images/conditions/sleepapnea.jpg",            alt: "Woman with neck tension contributing to sleep apnea - chiropractor San Antonio TX",                 title: "Sleep apnea relief San Antonio chiropractor",                      href: "/[locale]/conditions/sleep-apnea" },
+
+  // DIGESTIVE & INTERNAL
+  { label: "Reflux / GERD",              labelEs: "Reflujo / ERGE",                   image: "/images/conditions/reflux.jpg",                alt: "Acid reflux GERD treatment San Antonio chiropractor",                                               title: "Reflux GERD relief San Antonio chiropractor",                      href: "/[locale]/conditions/acid-reflux-gerd" },
+  { label: "Digestive Issues / IBS",     labelEs: "Problemas Digestivos / SII",       image: "/images/conditions/ibs.jpg",                   alt: "IBS digestive issues relief San Antonio chiropractor",                                              title: "IBS digestive issues relief San Antonio chiropractor",             href: "/[locale]/conditions/digestive-issues-ibs" },
+  { label: "Dysmenorrhea",               labelEs: "Dismenorrea",                      image: "/images/conditions/dysmenorrhea.jpg",          alt: "Painful period dysmenorrhea relief San Antonio chiropractor",                                        title: "Painful period dysmenorrhea relief San Antonio chiropractor",       href: "/[locale]/conditions/dysmenorrhea" },
+  { label: "Infertility Issues",         labelEs: "Problemas de Fertilidad",          image: "/images/conditions/infertility.jpg",           alt: "Pregnant woman with discomfort - infertility chiropractic care San Antonio TX",                     title: "Infertility chiropractic care San Antonio TX",                     href: "/[locale]/conditions/infertility" },
+  { label: "Breech Presentation",        labelEs: "Bebé en Posición Podálica",        image: "/images/conditions/breechbaby.jpg",            alt: "Pregnant woman with breech presentation Webster technique - chiropractor San Antonio TX",           title: "Breech presentation Webster technique San Antonio chiropractor",    href: "/[locale]/conditions/breech-presentation" },
+
+  // INFANT & PEDIATRIC
+  { label: "Colic (Infant)",             labelEs: "Cólico (Bebé)",                    image: "/images/conditions/infantcolic.jpg",           alt: "Infant colic relief pediatric chiropractor San Antonio",                                             title: "Infant colic relief pediatric chiropractor San Antonio",            href: "/[locale]/conditions/infant-colic" },
+  { label: "Reflux (Infant)",            labelEs: "Reflujo (Bebé)",                   image: "/images/conditions/infantreflux.jpg",          alt: "Infant reflux treatment pediatric chiropractor San Antonio",                                         title: "Infant reflux treatment pediatric chiropractor San Antonio",        href: "/[locale]/conditions/infant-reflux" },
+  { label: "Nursing / Latching",         labelEs: "Lactancia / Agarre",               image: "/images/conditions/nursinglactation.jpg",      alt: "Nursing latching difficulties chiropractor San Antonio TX",                                          title: "Nursing latching difficulties chiropractor San Antonio TX",         href: "/[locale]/conditions/nursing-latching" },
+  { label: "Torticollis",                labelEs: "Tortícolis",                       image: "/images/conditions/torticollis.jpg",           alt: "Woman with neck pain and restricted rotation from torticollis - chiropractor San Antonio TX",        title: "Torticollis treatment chiropractor San Antonio TX",                href: "/[locale]/conditions/torticollis" },
+  { label: "Growing Pains",              labelEs: "Dolores de Crecimiento",           image: "/images/conditions/growingpains.jpg",          alt: "Illustration of knee pain from growing pains - pediatric chiropractor San Antonio TX",               title: "Growing pains pediatric chiropractor San Antonio TX",              href: "/[locale]/conditions/growing-pains" },
+  { label: "ADHD / Focus Issues",        labelEs: "TDAH / Problemas de Concentración", image: "/images/conditions/adhd.jpg",                alt: "ADHD focus issues pediatric chiropractor San Antonio TX",                                            title: "ADHD focus issues pediatric chiropractor San Antonio TX",           href: "/[locale]/conditions/adhd-focus" },
+  { label: "Sensory Processing",         labelEs: "Procesamiento Sensorial",          image: "/images/conditions/sensoryprocessing.jpg",     alt: "Sensory processing disorder chiropractor San Antonio TX",                                            title: "Sensory processing disorder chiropractor San Antonio TX",           href: "/[locale]/conditions/sensory-processing" },
+  { label: "Tongue Tie",                 labelEs: "Frenillo Lingual",                 image: "/images/conditions/tonguetie.jpg",             alt: "Tongue tie ankyloglossia infant pediatric chiropractor San Antonio TX",                              title: "Tongue tie treatment pediatric chiropractor San Antonio TX",        href: "/[locale]/conditions/tongue-tie" },
+
+  // SPINE & POSTURE
+  { label: "Scoliosis",                  labelEs: "Escoliosis",                       image: "/images/conditions/scoliosis.jpg",             alt: "3D illustration of spine with scoliosis lateral curvature - chiropractor San Antonio TX",            title: "Scoliosis treatment chiropractor San Antonio TX",                  href: "/[locale]/conditions/scoliosis" },
+  { label: "Scheuermann's Disease",      labelEs: "Enfermedad de Scheuermann",        image: "/images/conditions/scheumanns.jpg",            alt: "X-ray showing Scheuermann's disease thoracic kyphosis - chiropractor San Antonio TX",               title: "Scheuermann's disease treatment chiropractor San Antonio TX",       href: "/[locale]/conditions/scheuermanns-disease" },
+  { label: "Forward Head Posture",       labelEs: "Postura de Cabeza Adelantada",     image: "/images/conditions/forwardheadposture.jpg",    alt: "Person with forward head posture and spinal misalignment - chiropractor San Antonio TX",            title: "Forward head posture tech neck chiropractor San Antonio TX",        href: "/[locale]/conditions/forward-head-posture" },
+  { label: "Thoracic Outlet Syndrome",   labelEs: "Síndrome del Outlet Torácico",    image: "/images/conditions/thoracicoutletsyndrome.jpg",alt: "Medical illustration of thoracic outlet syndrome brachial plexus anatomy - chiropractor San Antonio TX", title: "Thoracic outlet syndrome treatment San Antonio chiropractor", href: "/[locale]/conditions/thoracic-outlet-syndrome" },
+
+  // SHOULDER & ARM
+  { label: "Frozen Shoulder",            labelEs: "Hombro Congelado",                image: "/images/conditions/frozenshoulder.jpg",        alt: "Separated shoulder joint X-ray for frozen shoulder - chiropractor San Antonio TX",                 title: "Frozen shoulder adhesive capsulitis chiropractor San Antonio TX",   href: "/[locale]/conditions/frozen-shoulder" },
+  { label: "Rotator Cuff Injuries",      labelEs: "Lesiones del Manguito Rotador",   image: "/images/conditions/rotatorcufftear.jpg",       alt: "Rotator cuff tear medical image - chiropractor San Antonio TX",                                      title: "Rotator cuff injury treatment San Antonio chiropractor",            href: "/[locale]/conditions/rotator-cuff-injuries" },
+  { label: "Tennis Elbow",               labelEs: "Codo de Tenista",                 image: "/images/conditions/tenniselbow.jpg",           alt: "Tennis elbow lateral epicondylitis photo - chiropractor San Antonio TX",                             title: "Tennis elbow lateral epicondylitis San Antonio chiropractor",       href: "/[locale]/conditions/tennis-elbow" },
+  { label: "Golfer's Elbow",             labelEs: "Codo de Golfista",                image: "/images/conditions/golferselbow.jpg",          alt: "Office worker with medial elbow and arm pain from golfer's elbow - chiropractor San Antonio TX",   title: "Golfer's elbow medial epicondylitis San Antonio chiropractor",      href: "/[locale]/conditions/golfers-elbow" },
+  { label: "Carpal Tunnel Syndrome",     labelEs: "Síndrome del Túnel Carpiano",     image: "/images/conditions/carpal-tunnel.jpg",         alt: "Hand with untreated carpal tunnel syndrome nerve compression - chiropractor San Antonio TX",         title: "Carpal tunnel syndrome treatment San Antonio chiropractor",         href: "/[locale]/conditions/carpal-tunnel-syndrome" },
+  { label: "De Quervain's Tenosynovitis", labelEs: "Tenosinovitis de De Quervain",   image: "/images/conditions/dequervain.jpg",            alt: "Finkelstein test for De Quervain's tenosynovitis thumb wrist pain - chiropractor San Antonio TX",  title: "De Quervain's tenosynovitis treatment San Antonio chiropractor",    href: "/[locale]/conditions/de-quervains-tenosynovitis" },
+  { label: "Trigger Finger",             labelEs: "Dedo en Gatillo",                 image: "/images/conditions/trigger-finger.jpg",        alt: "Trigger finger locking condition of the hand - chiropractor San Antonio TX",                         title: "Trigger finger treatment San Antonio chiropractor",                href: "/[locale]/conditions/trigger-finger" },
+
+  // MID BACK & CORE
+  { label: "Rib Subluxation",            labelEs: "Subluxación de Costilla",         image: "/images/conditions/rib-xray.jpg",              alt: "X-ray of rib fracture and rib subluxation - chiropractor San Antonio TX",                           title: "Rib subluxation intercostal neuralgia San Antonio chiropractor",    href: "/[locale]/conditions/rib-subluxation" },
+  { label: "Mid-Back Pain",              labelEs: "Dolor de Espalda Media",          image: "/images/conditions/midbackpain.jpg",           alt: "Person with mid-back thoracic pain highlighted in red - chiropractor San Antonio TX",                title: "Mid back thoracic pain treatment San Antonio chiropractor",         href: "/[locale]/conditions/mid-back-pain" },
+  { label: "Pelvic Girdle Pain",         labelEs: "Dolor de Cintura Pélvica",        image: "/images/conditions/pelvicgirdlepain.jpg",      alt: "Pregnant woman with pelvic girdle pain - chiropractor San Antonio TX",                               title: "Pelvic girdle pain treatment San Antonio chiropractor",             href: "/[locale]/conditions/pelvic-girdle-pain" },
+  { label: "SI Joint Dysfunction",       labelEs: "Disfunción de la Articulación SI", image: "/images/conditions/si-joint.png",             alt: "Sacroiliac joint anatomy diagram SI joint dysfunction - chiropractor San Antonio TX",                title: "Sacroiliac SI joint dysfunction San Antonio chiropractor",          href: "/[locale]/conditions/si-joint-dysfunction" },
+
+  // HIP & LOWER BODY
+  { label: "Piriformis Syndrome",        labelEs: "Síndrome del Piriforme",          image: "/images/conditions/piriformis.jpg",            alt: "Piriformis syndrome muscle anatomy diagram - chiropractor San Antonio TX",                          title: "Piriformis syndrome treatment San Antonio chiropractor",            href: "/[locale]/conditions/piriformis-syndrome" },
+  { label: "Hip Bursitis",               labelEs: "Bursitis de Cadera",              image: "/images/conditions/hipbursitis.jpg",           alt: "3D model showing hip bursitis joint pain - chiropractor San Antonio TX",                             title: "Hip bursitis treatment San Antonio chiropractor",                   href: "/[locale]/conditions/hip-bursitis" },
+  { label: "IT Band Syndrome",           labelEs: "Síndrome de la Banda IT",         image: "/images/conditions/knee-pain-diagram.png",     alt: "Knee pain diagram showing IT band syndrome outer knee - chiropractor San Antonio TX",                title: "IT band syndrome treatment San Antonio chiropractor",               href: "/[locale]/conditions/it-band-syndrome" },
+  { label: "Runner's Knee",              labelEs: "Rodilla del Corredor",            image: "/images/conditions/runnersknee.jpg",           alt: "Runner holding knee with patellofemoral runner's knee pain - chiropractor San Antonio TX",          title: "Runner's knee patellofemoral pain San Antonio chiropractor",        href: "/[locale]/conditions/runners-knee" },
+  { label: "Meniscus Injuries",          labelEs: "Lesiones de Menisco",             image: "/images/conditions/meniscusinjury.jpg",        alt: "Anatomical diagram of knee meniscus injury - chiropractor San Antonio TX",                           title: "Meniscus injury treatment San Antonio chiropractor",                href: "/[locale]/conditions/meniscus-injuries" },
+
+  // LOWER LEG & FOOT
+  { label: "Shin Splints",               labelEs: "Periostitis Tibial",              image: "/images/conditions/shinsplint.jpg",            alt: "Tibia bone anatomy showing shin splints medial tibial stress syndrome - chiropractor San Antonio TX", title: "Shin splints treatment San Antonio chiropractor",              href: "/[locale]/conditions/shin-splints" },
+  { label: "Achilles Tendonitis",        labelEs: "Tendinitis de Aquiles",           image: "/images/conditions/achillestendonitis.jpg",    alt: "Labeled anatomy of Achilles insertional calcific tendinosis - chiropractor San Antonio TX",          title: "Achilles tendonitis treatment San Antonio chiropractor",            href: "/[locale]/conditions/achilles-tendonitis" },
+  { label: "Bunions",                    labelEs: "Juanetes",                        image: "/images/conditions/bunion.jpg",                alt: "Foot with hallux valgus bunion deformity - chiropractor San Antonio TX",                             title: "Bunion pain relief San Antonio chiropractor",                       href: "/[locale]/conditions/bunions" },
+  { label: "Heel Spur",                  labelEs: "Espolón Calcáneo",                image: "/images/conditions/heelspur.jpg",              alt: "Heel spur calcaneal spur treatment shockwave therapy chiropractor San Antonio TX",                   title: "Heel spur treatment shockwave therapy San Antonio TX",              href: "/[locale]/conditions/heel-spur" },
+  { label: "Hammer Toes",                labelEs: "Dedos en Martillo",               image: "/images/conditions/hammertoes.jpg",            alt: "Foot pain and hammer toes treatment - chiropractor San Antonio TX",                                  title: "Hammer toes foot pain San Antonio chiropractor",                    href: "/[locale]/conditions/hammer-toes" },
+  { label: "Sprains and Strains",        labelEs: "Esguinces y Distensiones",        image: "/images/conditions/sprainandstrain.jpg",       alt: "Swollen sprained ankle 30 minutes after injury - chiropractor San Antonio TX",                       title: "Sprains and strains treatment San Antonio chiropractor",            href: "/[locale]/conditions/sprains-strains" },
+
+  // VASCULAR & GENERAL WELLNESS
+  { label: "Restless Leg Syndrome",      labelEs: "Síndrome de Piernas Inquietas",   image: "/images/conditions/restlesslegsyndrome.jpg",  alt: "Lower leg anatomy showing restless leg syndrome nerve and muscle areas - chiropractor San Antonio TX", title: "Restless leg syndrome relief San Antonio chiropractor",         href: "/[locale]/conditions/restless-leg-syndrome" },
+  { label: "Poor Circulation",           labelEs: "Mala Circulación",                image: "/images/conditions/poorcirculation.jpg",       alt: "Lower body circulation anatomy - poor circulation treatment San Antonio chiropractor",                title: "Poor circulation treatment San Antonio chiropractor",               href: "/[locale]/conditions/poor-circulation" },
+  { label: "Stress & Anxiety Tension",   labelEs: "Tensión por Estrés y Ansiedad",   image: "/images/conditions/stressanxietytension.jpg", alt: "Woman with stress and anxiety tension holding aching head - chiropractor San Antonio TX",              title: "Stress anxiety tension relief San Antonio chiropractor",            href: "/[locale]/conditions/stress-anxiety" },
 ];
 
 const videoTestimonials = [
@@ -493,8 +504,11 @@ export default async function HomePage({ params }: Props) {
           </div>
         </section>
 
-        {/* Wave: Why (#ffffff) → Services (#F4F9FF) */}
+        {/* Wave: Why (#ffffff) → Insurance (#F4F9FF) */}
         <WaveDown fill="#F4F9FF" />
+
+        {/* ── INSURANCE ─────────────────────────────── */}
+        <InsuranceSection locale={locale} />
 
         {/* ── SERVICES ──────────────────────────────── */}
         <section className={styles.servicesSection}>
@@ -514,9 +528,10 @@ export default async function HomePage({ params }: Props) {
                         alt={svc.alt}
                         fill
                         className={styles.serviceImg}
-                        sizes="160px"
+                        sizes="(max-width: 480px) 50vw, 25vw"
                       />
                     </div>
+                    <div className={styles.serviceOverlay} aria-hidden="true" />
                     <span className={styles.serviceName}>{name}</span>
                   </Link>
                 );
@@ -530,28 +545,36 @@ export default async function HomePage({ params }: Props) {
 
         {/* ── CONDITIONS PHOTO GRID ─────────────────── */}
         <section className={styles.conditionsSection}>
-          <p className={styles.conditionsSectionTitle}>
-            {isEs ? "TRATAMOS LAS SIGUIENTES CONDICIONES" : "WE HELP WITH THE FOLLOWING CONDITIONS"}
-          </p>
-          <div className={styles.conditionsGrid}>
-            {conditions.map((c) => {
-              const href = isEs ? c.hrefES : c.hrefEN;
-              const name = isEs ? c.nameES : c.nameEN;
-              return (
-                <Link key={c.nameEN} href={href} className={styles.conditionCard}>
-                  <Image
-                    src={c.image}
-                    alt={name}
-                    fill
-                    className={styles.conditionImg}
-                    sizes="(max-width: 480px) 50vw, (max-width: 768px) 33vw, (max-width: 1024px) 25vw, 20vw"
-                    unoptimized
-                  />
-                  <div className={styles.conditionOverlay} aria-hidden="true" />
-                  <span className={styles.conditionName}>{name}</span>
-                </Link>
-              );
-            })}
+          <div className={styles.sectionInner}>
+            <p className={styles.conditionsSectionTitle}>
+              {isEs ? "TRATAMOS LAS SIGUIENTES CONDICIONES" : "WE HELP WITH THE FOLLOWING CONDITIONS"}
+            </p>
+            <div className={styles.conditionsGrid}>
+              {conditions.map((c) => (
+                <a
+                  key={c.label}
+                  href={c.href.replace("[locale]", locale)}
+                  className={styles.conditionCard}
+                >
+                  {c.image ? (
+                    <>
+                      <Image
+                        src={c.image}
+                        alt={c.alt}
+                        {...(c.title ? { title: c.title } : {})}
+                        fill
+                        className={styles.conditionImg}
+                        sizes="(max-width: 540px) 50vw, (max-width: 900px) 33vw, 20vw"
+                      />
+                      <div className={styles.conditionOverlay} aria-hidden="true" />
+                      <span className={styles.conditionName}>{isEs ? c.labelEs : c.label}</span>
+                    </>
+                  ) : (
+                    <span className={styles.conditionNameNoImg}>{isEs ? c.labelEs : c.label}</span>
+                  )}
+                </a>
+              ))}
+            </div>
           </div>
         </section>
 
