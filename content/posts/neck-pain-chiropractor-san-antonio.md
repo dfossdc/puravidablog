@@ -9,6 +9,10 @@ keywords:
   - cervical pain San Antonio TX
   - neck pain relief San Antonio
   - chiropractor for neck pain San Antonio
+  - chiropractor San Antonio TX
+  - neck pain treatment San Antonio TX
+  - best chiropractor San Antonio
+  - chiropractor near me San Antonio
 lang: en
 ---
 

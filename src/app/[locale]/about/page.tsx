@@ -24,8 +24,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       ? "Sobre el Dr. Dan Foss, DC | Pura Vida Chiropractic San Antonio"
       : "About Dr. Dan Foss, DC | Pura Vida Chiropractic San Antonio TX",
     description: isEs
-      ? "Conozca al Dr. Dan Foss, DC — quiropráctico certificado SOT con más de 23 años de experiencia internacional, fundador de Pura Vida Chiropractic en San Antonio, TX. Bilingüe, especializado en SOT, pediatría y cuidado prenatal."
-      : "Meet Dr. Dan Foss, DC — Advanced SOT-certified chiropractor with 23+ years of international clinical experience. Founder of Pura Vida Chiropractic in San Antonio, TX. Bilingual, pediatric and prenatal specialist.",
+      ? "Conozca al Dr. Dan Foss, DC — mejor quiropráctico en San Antonio TX, certificado SOT, más de 23 años de experiencia internacional. Quiropráctico que habla español en NW Military Hwy, San Antonio TX. Atendemos Stone Oak, Castle Hills, Alamo Heights y Helotes. Especializado en SOT, pediatría y Técnica Webster. Evaluación quiropráctica gratis."
+      : "Meet Dr. Dan Foss, DC — best chiropractor in San Antonio TX, Advanced SOT-certified, 23+ years of international clinical experience. Spanish-speaking chiropractor near Stone Oak on NW Military Hwy, San Antonio TX. Serving Castle Hills, Alamo Heights, and Helotes. Pediatric, prenatal, and SOT chiropractic specialist. Free chiropractic evaluation San Antonio.",
     alternates: {
       canonical,
       languages: {

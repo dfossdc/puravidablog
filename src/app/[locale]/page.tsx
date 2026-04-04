@@ -24,11 +24,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const canonical = `${BASE_URL}/${locale}`;
   return {
     title: isEs
-      ? "Quiropráctica en San Antonio TX | Pura Vida Chiropractic"
-      : "Chiropractor in San Antonio TX | Pura Vida Chiropractic",
+      ? "Quiropráctico San Antonio TX | Mejor Quiropráctico | Pura Vida Chiropractic"
+      : "Chiropractor San Antonio TX | Best Chiropractor Near Me | Pura Vida Chiropractic",
     description: isEs
-      ? "El Dr. Dan Foss ofrece atención quiropráctica bilingüe en San Antonio, TX. Técnica SOT, más de 23 años de experiencia. ¡Evaluación gratuita!"
-      : "Dr. Dan Foss offers bilingual chiropractic care in San Antonio, TX. SOT technique, 23+ years experience. Free evaluation!",
+      ? "El Dr. Dan Foss — mejor quiropráctico en San Antonio TX. Ajuste quiropráctico San Antonio, terapia SoftWave, láser Clase IV. Quiropráctico cerca de mí en Stone Oak, Castle Hills, Alamo Heights y Helotes. Técnica SOT, quiropráctico que habla español, más de 23 años de experiencia. ¡Evaluación quiropráctica gratis San Antonio!"
+      : "Dr. Dan Foss — best chiropractor in San Antonio TX. Chiropractic adjustment San Antonio, SoftWave therapy, Class IV laser. Chiropractor near me serving Stone Oak, Castle Hills, Alamo Heights, and Helotes. SOT chiropractic, Spanish-speaking chiropractor, 23+ years experience. Free chiropractic evaluation San Antonio!",
     alternates: {
       canonical,
       languages: {
@@ -39,11 +39,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     },
     openGraph: {
       title: isEs
-        ? "Quiropráctica San Antonio TX | Pura Vida Chiropractic"
-        : "Chiropractor San Antonio TX | Pura Vida Chiropractic",
+        ? "Quiropráctico San Antonio TX | Pura Vida Chiropractic"
+        : "Chiropractor San Antonio TX | Best Chiropractor Near Me | Pura Vida Chiropractic",
       description: isEs
-        ? "Atención quiropráctica bilingüe en San Antonio. Dr. Dan Foss, DC — más de 23 años de experiencia."
-        : "Bilingual chiropractic care in San Antonio. Dr. Dan Foss, DC — 23+ years experience.",
+        ? "Quiropráctico bilingüe en San Antonio TX. Atendemos Stone Oak, Castle Hills, Alamo Heights y Helotes. Dr. Dan Foss, DC — más de 23 años de experiencia."
+        : "Best chiropractor near me in San Antonio TX. Serving Stone Oak, Castle Hills, Alamo Heights, and Helotes. Dr. Dan Foss, DC — 23+ years experience.",
       url: canonical,
       siteName: "Pura Vida Chiropractic",
       locale: isEs ? "es_MX" : "en_US",

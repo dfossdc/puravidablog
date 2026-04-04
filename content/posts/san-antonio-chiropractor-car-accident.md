@@ -7,6 +7,11 @@ image: "https://www.puravidasanantonio.com/wp-content/uploads/2026/03/Chiropract
 keywords:
   - chiropractor San Antonio
   - san antonio chiropractor car accident
+  - car accident chiropractor San Antonio TX
+  - whiplash treatment San Antonio TX
+  - chiropractor San Antonio TX
+  - best chiropractor San Antonio
+  - auto injury chiropractor San Antonio
 lang: en
 ---
 

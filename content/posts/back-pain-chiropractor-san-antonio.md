@@ -9,6 +9,10 @@ keywords:
   - lower back pain San Antonio TX
   - back pain relief San Antonio
   - chiropractor for back pain San Antonio
+  - chiropractor San Antonio TX
+  - back pain doctor San Antonio
+  - best chiropractor San Antonio
+  - chiropractic adjustment San Antonio TX
 lang: en
 ---
 

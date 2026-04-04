@@ -21,10 +21,10 @@ export interface ConditionData {
 export const conditionsContent: ConditionData[] = [
   {
     slug: "headaches",
-    title: "Headaches",
+    title: "Headaches & Migraines | Chiropractor San Antonio TX",
     image: "/images/conditions/headache.jpg",
     metaDescription:
-      "Chiropractic care for headaches in San Antonio, TX. Dr. Foss uses the Pura Vida Protocol — SOT chiropractic, SoftWave, and laser — to resolve the root cause of recurring headaches.",
+      "Chiropractic care for headaches and migraines in San Antonio, TX. Dr. Foss — best chiropractor San Antonio — uses SOT chiropractic, SoftWave, and Class IV laser to resolve the root cause of recurring headaches. Serving Stone Oak, Castle Hills, and Alamo Heights.",
     intro:
       "Headaches are one of the most common reasons patients visit Pura Vida Chiropractic in San Antonio. Rather than simply masking pain with medication, our approach targets the underlying spinal and neurological dysfunction driving your headaches.",
     whatIs:
@@ -51,10 +51,10 @@ export const conditionsContent: ConditionData[] = [
   },
   {
     slug: "auto-accident-injuries",
-    title: "Auto Accident Injuries",
+    title: "Auto Accident Injuries | Car Accident Chiropractor San Antonio TX",
     image: "/images/conditions/autoaccident.jpg",
     metaDescription:
-      "Auto accident injury treatment in San Antonio TX. Pura Vida Chiropractic specializes in whiplash, neck pain, and soft-tissue injuries from car accidents using SOT chiropractic and regenerative therapies.",
+      "Car accident chiropractor in San Antonio, TX. Pura Vida Chiropractic specializes in whiplash, neck pain, and soft-tissue injuries from auto accidents. Best chiropractor San Antonio for car accident injuries — SOT chiropractic and regenerative therapies. Free evaluation.",
     intro:
       "Car accidents — even at low speeds — can cause significant spinal trauma that doesn't always show up on X-rays right away. Pura Vida Chiropractic helps San Antonio accident victims recover fully by addressing the spine, joints, and soft tissues injured during the collision.",
     whatIs:
@@ -81,10 +81,10 @@ export const conditionsContent: ConditionData[] = [
   },
   {
     slug: "disc-problems",
-    title: "Disc Problems",
+    title: "Disc Problems | Back Pain Doctor San Antonio TX",
     image: "/images/conditions/discproblems.jpg",
     metaDescription:
-      "Chiropractic care for disc herniation and disc problems in San Antonio TX. Non-surgical disc treatment using SOT chiropractic, SoftWave, and Class IV Laser at Pura Vida Chiropractic.",
+      "Non-surgical disc herniation treatment in San Antonio, TX. Dr. Dan Foss — back pain doctor San Antonio — uses SOT chiropractic, SoftWave, and Class IV Laser at Pura Vida Chiropractic. Chiropractor near me serving Stone Oak and NW Military Hwy.",
     intro:
       "Disc problems — including bulges, herniations, and degenerative disc disease — are among the most painful and debilitating spinal conditions. Pura Vida Chiropractic offers a non-surgical approach that decompresses the affected disc and supports the body's natural ability to heal.",
     whatIs:
@@ -110,10 +110,10 @@ export const conditionsContent: ConditionData[] = [
   },
   {
     slug: "sports-injury",
-    title: "Sports Injuries",
+    title: "Sports Injuries | Sports Chiropractor San Antonio TX",
     image: "/images/conditions/sports-injury.webp",
     metaDescription:
-      "Sports injury treatment in San Antonio TX. Pura Vida Chiropractic helps athletes recover from sprains, strains, and overuse injuries with SOT chiropractic, Shockwave, SoftWave, and Class IV Laser.",
+      "Sports chiropractor in San Antonio, TX. Pura Vida Chiropractic helps athletes recover from sprains, strains, and overuse injuries with SOT chiropractic, Shockwave, SoftWave, and Class IV Laser. Best sports injury treatment San Antonio near Stone Oak and NW Military Hwy.",
     intro:
       "Whether you're a weekend warrior or a competitive athlete, sports injuries disrupt performance and sideline you from what you love. Pura Vida Chiropractic helps San Antonio athletes recover faster and perform better by addressing injury at its root.",
     whatIs:
@@ -139,10 +139,10 @@ export const conditionsContent: ConditionData[] = [
   },
   {
     slug: "neck-pain",
-    title: "Neck Pain",
+    title: "Neck Pain | Neck Pain Chiropractor San Antonio TX",
     image: "/images/conditions/neck.jpg",
     metaDescription:
-      "Neck pain treatment in San Antonio TX. Pura Vida Chiropractic addresses cervical spine dysfunction, muscle tension, and nerve irritation causing neck pain using SOT chiropractic and laser therapy.",
+      "Neck pain chiropractor in San Antonio, TX. Pura Vida Chiropractic addresses cervical spine dysfunction, whiplash, and nerve irritation causing neck pain using SOT chiropractic and Class IV laser therapy. Best chiropractor San Antonio — serving Stone Oak, Castle Hills, and Alamo Heights.",
     intro:
       "Neck pain is one of the most common musculoskeletal complaints in modern life — driven by hours of screen time, poor posture, and unresolved spinal tension. Pura Vida Chiropractic in San Antonio provides effective, non-invasive care that addresses the root cause.",
     whatIs:
@@ -199,10 +199,10 @@ export const conditionsContent: ConditionData[] = [
   },
   {
     slug: "sciatica",
-    title: "Sciatica",
+    title: "Sciatica | Sciatica Chiropractor San Antonio TX",
     image: "/images/conditions/sciatica.jpg",
     metaDescription:
-      "Sciatica treatment in San Antonio TX. Pura Vida Chiropractic resolves sciatic nerve pain with SOT disc decompression, SoftWave therapy, and Class IV Laser — without drugs or surgery.",
+      "Sciatica chiropractor in San Antonio, TX. Pura Vida Chiropractic resolves sciatic nerve pain with SOT disc decompression, SoftWave therapy, and Class IV Laser — without drugs or surgery. Best chiropractor San Antonio for sciatica near Stone Oak and NW Military Hwy.",
     intro:
       "Sciatica — the searing, electric pain that radiates from the lower back down through the buttock and leg — can be completely debilitating. At Pura Vida Chiropractic, we identify and correct the exact spinal or muscular cause of your sciatic nerve compression.",
     whatIs:
@@ -229,10 +229,10 @@ export const conditionsContent: ConditionData[] = [
   },
   {
     slug: "tmj-jaw-pain",
-    title: "TMJ & Jaw Pain",
+    title: "TMJ & Jaw Pain | TMJ Chiropractor San Antonio TX",
     image: "/images/conditions/tmj.webp",
     metaDescription:
-      "TMJ and jaw pain treatment in San Antonio TX. Pura Vida Chiropractic addresses TMJ dysfunction through craniosacral therapy, SOT chiropractic, and laser — resolving jaw pain without a mouthguard alone.",
+      "TMJ chiropractor in San Antonio, TX. Pura Vida Chiropractic addresses TMJ dysfunction through craniosacral therapy, SOT chiropractic, and Class IV laser — resolving jaw pain without a mouthguard alone. Chiropractor near me San Antonio serving Stone Oak and Castle Hills.",
     intro:
       "TMJ dysfunction — pain, clicking, locking, or limited opening of the jaw — has a direct connection to the upper cervical spine and craniosacral system. Pura Vida Chiropractic addresses this link to provide lasting TMJ relief.",
     whatIs:
@@ -259,10 +259,10 @@ export const conditionsContent: ConditionData[] = [
   },
   {
     slug: "lower-back-pain",
-    title: "Lower Back Pain",
+    title: "Lower Back Pain | Back Pain Doctor San Antonio TX",
     image: "/images/conditions/backpain.jpg",
     metaDescription:
-      "Lower back pain treatment in San Antonio TX. Pura Vida Chiropractic uses SOT chiropractic to correct lumbar and pelvic dysfunction — the root cause of most lower back pain.",
+      "Back pain doctor in San Antonio, TX. Pura Vida Chiropractic uses SOT chiropractic adjustment to correct lumbar and pelvic dysfunction — the root cause of most lower back pain. Best chiropractor San Antonio near Stone Oak, NW Military Hwy. Free chiropractic evaluation.",
     intro:
       "Lower back pain is the leading cause of disability worldwide, yet most cases stem from correctable spinal and pelvic misalignment. At Pura Vida Chiropractic, we identify exactly what's causing your low back pain and correct it at the source.",
     whatIs:
@@ -289,10 +289,10 @@ export const conditionsContent: ConditionData[] = [
   },
   {
     slug: "neuropathy-numbness",
-    title: "Neuropathy & Numbness",
+    title: "Neuropathy & Numbness | Chiropractor San Antonio TX",
     image: "/images/conditions/neuropathy.webp",
     metaDescription:
-      "Peripheral neuropathy treatment in San Antonio TX. Pura Vida Chiropractic uses SOT chiropractic, SoftWave, and Class IV Laser to improve nerve function and reduce numbness and tingling.",
+      "Peripheral neuropathy treatment in San Antonio, TX. Pura Vida Chiropractic — chiropractor near me San Antonio — uses SOT chiropractic, SoftWave, and Class IV Laser to improve nerve function and reduce numbness and tingling. Serving Stone Oak, Castle Hills, and Helotes.",
     intro:
       "Peripheral neuropathy — numbness, tingling, burning, and weakness in the hands or feet — significantly impacts quality of life. Pura Vida Chiropractic addresses the neurological and vascular components of neuropathy to help restore sensation and function.",
     whatIs:
@@ -319,10 +319,10 @@ export const conditionsContent: ConditionData[] = [
   },
   {
     slug: "hip-knee-foot-ankle",
-    title: "Hip, Knee, Foot & Ankle Pain",
+    title: "Hip, Knee, Foot & Ankle Pain | Chiropractor San Antonio TX",
     image: "/images/conditions/hipkneefootankle.jpg",
     metaDescription:
-      "Hip, knee, foot, and ankle pain treatment in San Antonio TX. Pura Vida Chiropractic corrects the pelvic and spinal imbalances that drive lower extremity pain.",
+      "Hip, knee, foot, and ankle pain treatment in San Antonio, TX. Pura Vida Chiropractic — best chiropractor San Antonio — corrects the pelvic and spinal imbalances that drive lower extremity pain. Sports chiropractor San Antonio serving Stone Oak and NW Military Hwy.",
     intro:
       "Pain in the hips, knees, feet, and ankles is rarely isolated to those joints alone — it almost always reflects a pelvic or lumbar biomechanical imbalance. At Pura Vida, we treat the whole kinetic chain so your lower extremity pain stays resolved.",
     whatIs:
@@ -378,10 +378,10 @@ export const conditionsContent: ConditionData[] = [
   },
   {
     slug: "plantar-fasciitis",
-    title: "Plantar Fasciitis",
+    title: "Plantar Fasciitis | Shockwave Therapy San Antonio TX",
     image: "/images/conditions/footpain.jpg",
     metaDescription:
-      "Plantar fasciitis treatment in San Antonio TX. Pura Vida Chiropractic combines SOT chiropractic, Shockwave Therapy, SoftWave, and Class IV Laser to resolve heel and arch pain fast.",
+      "Plantar fasciitis treatment in San Antonio, TX. Pura Vida Chiropractic combines SOT chiropractic, Shockwave Therapy, SoftWave therapy San Antonio, and Class IV Laser to resolve heel and arch pain fast. Best chiropractor San Antonio near Stone Oak and NW Military Hwy.",
     intro:
       "Plantar fasciitis — stabbing heel and arch pain with your first steps in the morning — is one of the most common and frustrating foot conditions. At Pura Vida, we treat both the foot and the underlying pelvic mechanics driving it.",
     whatIs:
@@ -438,10 +438,10 @@ export const conditionsContent: ConditionData[] = [
   },
   {
     slug: "shoulder-arm-pain",
-    title: "Shoulder & Arm Pain",
+    title: "Shoulder & Arm Pain | Sports Chiropractor San Antonio TX",
     image: "/images/conditions/shoulderpain.jpg",
     metaDescription:
-      "Shoulder and arm pain treatment in San Antonio TX. Pura Vida Chiropractic addresses rotator cuff dysfunction, cervical nerve compression, and shoulder biomechanics causing arm pain.",
+      "Shoulder and arm pain treatment in San Antonio, TX. Pura Vida Chiropractic — sports chiropractor San Antonio — addresses rotator cuff dysfunction, cervical nerve compression, and shoulder biomechanics. Chiropractor near me San Antonio serving Stone Oak, Castle Hills, and Alamo Heights.",
     intro:
       "Shoulder and arm pain can originate from the shoulder joint itself, the cervical spine, or both. Pura Vida Chiropractic evaluates the entire upper extremity chain to find and fix the real source of your pain.",
     whatIs:
@@ -678,10 +678,10 @@ export const conditionsContent: ConditionData[] = [
   },
   {
     slug: "fibromyalgia",
-    title: "Fibromyalgia",
+    title: "Fibromyalgia | Chiropractor San Antonio TX",
     image: "/images/conditions/arthritic-hands.jpg",
     metaDescription:
-      "Fibromyalgia care in San Antonio TX. Pura Vida Chiropractic uses SOT chiropractic and Class IV Laser to reduce widespread pain and improve quality of life for fibromyalgia patients.",
+      "Fibromyalgia care in San Antonio, TX. Pura Vida Chiropractic — chiropractor near me San Antonio — uses gentle SOT chiropractic and Class IV Laser to reduce widespread pain and improve quality of life. Best chiropractor San Antonio serving Stone Oak, Castle Hills, and Alamo Heights.",
     intro:
       "Fibromyalgia — widespread pain, tenderness, and fatigue — involves central nervous system sensitization that chiropractic care can meaningfully modulate. Pura Vida Chiropractic helps fibromyalgia patients experience real, lasting reductions in pain.",
     whatIs:
@@ -1155,10 +1155,10 @@ export const conditionsContent: ConditionData[] = [
   },
   {
     slug: "scoliosis",
-    title: "Scoliosis",
+    title: "Scoliosis | SOT Chiropractor San Antonio TX",
     image: "/images/conditions/scoliosis.jpg",
     metaDescription:
-      "Scoliosis care in San Antonio TX. Pura Vida Chiropractic uses SOT to improve functional scoliosis, reduce progression risk, and relieve the pain and tension of spinal curvature.",
+      "Scoliosis care in San Antonio, TX. Pura Vida Chiropractic — SOT chiropractic San Antonio — uses SOT to improve functional scoliosis, reduce progression risk, and relieve spinal curvature pain. Pediatric chiropractor San Antonio serving Stone Oak, Castle Hills, and Helotes.",
     intro:
       "Scoliosis — abnormal lateral curvature of the spine — can be significantly improved with the right chiropractic care, especially when detected early. Dr. Foss uses SOT to address the functional components of scoliosis.",
     whatIs:
