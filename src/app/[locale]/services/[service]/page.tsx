@@ -97,7 +97,7 @@ const services: Record<"en" | "es", ServiceMap> = {
       keywords: ["pregnancy chiropractor San Antonio", "chiropractic during pregnancy San Antonio", "Webster Technique San Antonio TX"],
       h1: "Pregnancy Chiropractor in San Antonio",
       image: "https://puravidasanantonio.net/wp-content/uploads/2023/05/Pura-Vida-Chiropratic-Pregnancy-Chiropractor-San-Antonio.jpg",
-      videos: ["https://www.youtube.com/embed/IeiU-Q-ljik", "https://www.youtube.com/embed/1fiRlACQjdk", "https://www.youtube.com/embed/MTkj64jX_bw", "https://www.youtube.com/embed/FtiuiyKG4nc"],
+      videos: ["https://www.youtube.com/embed/IeiU-Q-ljik", "https://www.youtube.com/embed/1fiRlACQjdk", "https://www.youtube.com/embed/PiY9pCDDZTI", "https://www.youtube.com/embed/MTkj64jX_bw", "https://www.youtube.com/embed/FtiuiyKG4nc"],
       body: [
         "Being pregnant puts a lot of strain on your spine and nervous system. As the months pass, the growing weight in your abdominal area shifts your center of gravity and forces your spine to adapt. By months 6–9, many mothers are managing a very unbalanced posture just to get around. **Chiropractic care during pregnancy** helps your body handle these changes gracefully — reducing pain, improving mobility, and preparing you for childbirth.",
         "Dr. Foss offers pregnancy chiropractic care that helps the baby assume her optimal birthing position. The **Webster Technique** is a specific chiropractic adjustment that reduces the risk of breech presentation. It should ideally be started as soon as you discover your baby is breech. Dr. Foss is trained through the International Chiropractic Pediatric Association (ICPA) in this technique.",
@@ -350,7 +350,7 @@ const services: Record<"en" | "es", ServiceMap> = {
       keywords: ["quiropráctico embarazo San Antonio", "quiropráctica durante el embarazo San Antonio", "Técnica Webster San Antonio TX"],
       h1: "Quiropráctica para el Embarazo en San Antonio",
       image: "https://puravidasanantonio.net/wp-content/uploads/2023/05/Pura-Vida-Chiropratic-Pregnancy-Chiropractor-San-Antonio.jpg",
-      videos: ["https://www.youtube.com/embed/IeiU-Q-ljik", "https://www.youtube.com/embed/1fiRlACQjdk", "https://www.youtube.com/embed/MTkj64jX_bw", "https://www.youtube.com/embed/FtiuiyKG4nc"],
+      videos: ["https://www.youtube.com/embed/IeiU-Q-ljik", "https://www.youtube.com/embed/1fiRlACQjdk", "https://www.youtube.com/embed/PiY9pCDDZTI", "https://www.youtube.com/embed/MTkj64jX_bw", "https://www.youtube.com/embed/FtiuiyKG4nc"],
       body: [
         "El embarazo pone mucha presión en su columna vertebral y sistema nervioso. A medida que pasan los meses, el peso creciente en el área abdominal desplaza su centro de gravedad y obliga a su columna a adaptarse. Para los meses 6–9, muchas mamás manejan una postura muy desequilibrada solo para moverse. **La quiropráctica durante el embarazo** ayuda a su cuerpo a manejar estos cambios con gracia — reduciendo el dolor, mejorando la movilidad y preparándola para el parto.",
         "El Dr. Foss ofrece atención quiropráctica para el embarazo que ayuda al bebé a asumir su posición óptima para el nacimiento. La **Técnica Webster** es un ajuste quiropráctico específico que reduce el riesgo de presentación de nalgas. Idealmente debe comenzarse tan pronto como descubra que su bebé está en posición de nalgas. El Dr. Foss está capacitado por la Asociación Internacional de Pediatría Quiropráctica (ICPA).",

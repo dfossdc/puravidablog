@@ -18,6 +18,10 @@ Durante una sesión de CMRT para la hernia hiatal, el quiropráctico aplicará p
 
 ![Diagrama de hernia hiatal y quiropráctica](https://puravidasanantonio.net/wp-content/uploads/2023/05/diafragma-hernia-chiropractic-img-2.jpg)
 
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin:1.5rem 0">
+  <iframe src="https://www.youtube.com/embed/DIq4M-eVevQ" title="Hernia Hiatal y Quiropráctica — Dr. Dan Foss Pura Vida San Antonio" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"></iframe>
+</div>
+
 ## La Conexión Entre la Columna Vertebral y la Digestión
 
 La columna torácica media controla directamente los nervios que inervan el estómago, el diafragma y el esófago. Cuando las vértebras torácicas están subluxadas — ligeramente desalineadas — pueden interferir con la señalización nerviosa que regula la función digestiva. Esta interferencia puede exacerbar los síntomas de la hernia hiatal, incluyendo la acidez, el regurgitamiento y la sensación de plenitud después de comer.
