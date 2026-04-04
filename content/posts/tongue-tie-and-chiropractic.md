@@ -8,6 +8,31 @@ keywords:
   - chiropractor San Antonio
   - tongue-tie and chiropractic
 lang: en
+mentions:
+  - "@type": LocalBusiness
+    name: "The Breastfeeding House"
+    url: "http://www.breastfeedinghousecalls.com/"
+  - "@type": LocalBusiness
+    name: "Leche and Mimi Lactation"
+    url: "https://lecheandmimi.com/"
+  - "@type": LocalBusiness
+    name: "Breastfeeding Perspectives"
+    url: "https://www.breastfeedingperspectives.com/"
+  - "@type": LocalBusiness
+    name: "University Health"
+    url: "https://www.universityhealth.com/"
+  - "@type": LocalBusiness
+    name: "Rooted Birth"
+    url: "https://www.rooteddoula.com/"
+  - "@type": LocalBusiness
+    name: "San Antonio Birth Doulas"
+    url: "https://sabirthdoulas.org/"
+  - "@type": LocalBusiness
+    name: "Birth Center of San Antonio"
+    url: "https://birthcenterofsanantonio.com/"
+  - "@type": LocalBusiness
+    name: "San Antonio Nurse Midwife"
+    url: "https://sanantonionursemidwife.com/"
 ---
 
 ## **What every parent needs to know about Tongue-Tie and Chiropractic**
@@ -59,6 +84,26 @@ The most important thing I tell parents is to work with a team of professionals 
 - [Manuel Castillo, D.D.S.](https://happypedident.com/) located in San Antonio
 
 Many times tongue-tie is due more to tongue dysfunction which can be corrected without surgery. Our office performs the tests we discussed earlier looking at the spine, nerves, and cranial nerves of the mouth to determine if there is some level of dysfunction. We make specific corrections to these cranial nerves by making small adjustments to the cranial bones and many times babies go back to latching correctly and not needing surgery. We monitor mom and baby closely to make sure that they are not only feeling good but functioning properly.I have advanced training in cranial adjusting through a technique called Sacral Occipital Technique ® which I am also an instructor. Through these cranial techniques being utilized around the world we have been able to help many babies avoid tongue-tie surgeries and also helped babies that have had tongue-tie surgery improve their ability to thrive after surgery.If you have any questions about how we can help give us a call.Yours in health, Dr Foss
+
+---
+
+## Trusted San Antonio Resources for Nursing Families
+
+If your baby is struggling with latching or feeding after a tongue tie release, chiropractic care is just one piece of the puzzle. Here are trusted San Antonio providers we recommend working alongside:
+
+**Lactation Consultants (IBCLC)**
+
+Finding an experienced IBCLC is essential. [The Breastfeeding House](http://www.breastfeedinghousecalls.com/) — bilingual (Spanish/English) IBCLC Laura Gruber, private practice serving San Antonio since 2012, specializing in tongue tie and latching difficulties — is an excellent starting point. [Leche and Mimi Lactation](https://lecheandmimi.com/) offers bilingual IBCLC support with in-home visits throughout Bexar County. For families dealing with painful latch, low supply, or post-release recovery, [Breastfeeding Perspectives](https://www.breastfeedingperspectives.com/) brings 30 years of experience helping San Antonio mothers. Families who prefer a hospital-based team can also reach the bilingual IBCLCs at [University Health Lactation Services](https://www.universityhealth.com/services/pregnancy-childbirth/breastfeeding) at the Women's &amp; Children's Hospital by calling (210) 358-8255.
+
+**Doulas**
+
+Postpartum support makes a real difference in feeding success. [Rooted Birth San Antonio](https://www.rooteddoula.com/) provides evidence-based birth and postpartum doula support for San Antonio families. [San Antonio Birth Doulas](https://sabirthdoulas.org/) is a nonprofit organization offering birth support, postpartum visits, and lactation consultation across the city.
+
+**Midwives &amp; Birth Centers**
+
+For families seeking holistic prenatal and postpartum care, [Birth Center of San Antonio](https://birthcenterofsanantonio.com/) is staffed by licensed midwives and has chiropractic services available on site. [San Antonio Nurse Midwife](https://sanantonionursemidwife.com/) — Nikki McIver-Brown, CNM — offers holistic midwifery, home birth, and water birth in the San Antonio area.
+
+At Pura Vida Chiropractic, we frequently co-manage tongue tie babies alongside IBCLCs and pediatric dentists to ensure the best outcomes. If you have questions about how chiropractic care fits into your baby's feeding journey, call us at [(210) 685-1994](tel:+12106851994).
 
 ---
 

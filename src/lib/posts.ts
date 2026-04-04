@@ -6,6 +6,12 @@ import remarkHtml from "remark-html";
 
 const postsDirectory = path.join(process.cwd(), "content/posts");
 
+export interface PostMention {
+  "@type": string;
+  name: string;
+  url: string;
+}
+
 export interface PostFrontmatter {
   title: string;
   description: string;
@@ -15,6 +21,7 @@ export interface PostFrontmatter {
   keywords: string[];
   slug: string;
   lang: string;
+  mentions?: PostMention[];
 }
 
 export interface Post extends PostFrontmatter {
@@ -67,6 +74,7 @@ export async function fetchPostBySlug(slug: string, lang: string): Promise<Post 
     slug,
     lang: postLang,
     content: htmlContent,
+    mentions: Array.isArray(data.mentions) ? data.mentions : undefined,
   };
 }
 

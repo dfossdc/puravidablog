@@ -84,6 +84,7 @@ export default async function BlogPost({ params }: Props) {
     },
     url: `${BASE_URL}/${locale}/blog/${slug}`,
     image: post.image || "",
+    ...(post.mentions ? { mentions: post.mentions } : {}),
   };
 
   return (
