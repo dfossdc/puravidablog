@@ -10,60 +10,101 @@ interface HeaderProps {
 
 const aboutLinks = {
   en: [
-    { label: "Meet Dr. Foss", href: "/about" },
-    { label: "Mission Trips", href: "/mission" },
-    { label: "Testimonials", href: "/testimonials" },
-    { label: "Blog", href: "/blog" },
+    { label: "About Dr. Dan Foss", href: "/about" },
+    { label: "Mission Trips",        href: "/mission" },
+    { label: "Testimonials",         href: "/testimonials" },
+    { label: "Blog",                 href: "/blog" },
   ],
   es: [
-    { label: "Conoce al Dr. Foss", href: "/about" },
-    { label: "Misiones Médicas", href: "/mission" },
-    { label: "Testimonios", href: "/testimonials" },
-    { label: "Blog", href: "/blog" },
+    { label: "Sobre el Dr. Dan Foss", href: "/about" },
+    { label: "Misiones Médicas",      href: "/mission" },
+    { label: "Testimonios",           href: "/testimonials" },
+    { label: "Blog",                  href: "/blog" },
   ],
 };
 
 const patientLinks = {
   en: [
-    { label: "Initial Visit", href: "/new-patient" },
-    { label: "FAQs", href: "/faq" },
+    { label: "New Patient / Initial Visit", href: "/new-patient" },
+    { label: "Chiropractic FAQs",           href: "/faq" },
+    { label: "Contact Us",                  href: "/contact" },
   ],
   es: [
-    { label: "Primera Visita", href: "/new-patient" },
-    { label: "Preguntas Frecuentes", href: "/faq" },
+    { label: "Nuevo Paciente / Primera Visita", href: "/new-patient" },
+    { label: "Preguntas Frecuentes",            href: "/faq" },
+    { label: "Contáctenos",                     href: "/contact" },
   ],
 };
 
 const serviceLinks = {
   en: [
-    { label: "Chiropractic Care", href: "/services/chiropractic-care" },
-    { label: "Cranial Chiropractic", href: "/services/cranial-chiropractic" },
-    { label: "Infant Chiropractic", href: "/services/infant-chiropractic" },
-    { label: "Pediatric Chiropractic", href: "/services/pediatric-chiropractic" },
-    { label: "Pregnancy Chiropractic", href: "/services/pregnancy-chiropractic" },
-    { label: "Auto Injury", href: "/services/auto-injury-chiropractic" },
-    { label: "SoftWave Therapy", href: "/services/softwave-therapy" },
-    { label: "Shockwave Therapy", href: "/services/shockwave-therapy" },
-    { label: "Class IV Laser", href: "/services/class-iv-laser" },
-    { label: "SOT Chiropractic", href: "/services/sot-chiropractic" },
-    { label: "Wellness Care", href: "/services/wellness-care" },
-    { label: "Latino Community", href: "/services/latino-community" },
-    { label: "Sports Chiropractic", href: "/sports-chiropractic" },
+    { label: "Chiropractic Care",        href: "/services/chiropractic-care" },
+    { label: "SOT Chiropractic",         href: "/services/sot-chiropractic" },
+    { label: "Cranial Chiropractic",     href: "/services/cranial-chiropractic" },
+    { label: "Pediatric Chiropractor",   href: "/services/pediatric-chiropractor" },
+    { label: "Prenatal Chiropractor",    href: "/services/prenatal-chiropractor" },
+    { label: "Pregnancy Chiropractor",   href: "/services/pregnancy-chiropractor" },
+    { label: "Infants & Chiropractic",   href: "/services/infants-chiropractic" },
+    { label: "Auto Injury",              href: "/services/auto-injury" },
+    { label: "SoftWave Therapy",         href: "/services/softwave-therapy" },
+    { label: "Shockwave Therapy",        href: "/services/shockwave-therapy" },
+    { label: "Class IV Laser",           href: "/services/class-iv-laser" },
+    { label: "Sports Chiropractic",      href: "/sports-chiropractic" },
+    { label: "Wellness Care",            href: "/services/wellness-care" },
+    { label: "Latino Community",         href: "/services/latino-community" },
   ],
   es: [
-    { label: "Cuidado Quiropráctico", href: "/services/chiropractic-care" },
-    { label: "Quiropráctica Craneal", href: "/services/cranial-chiropractic" },
-    { label: "Quiropráctica para Bebés", href: "/services/infant-chiropractic" },
-    { label: "Quiropráctica Pediátrica", href: "/services/pediatric-chiropractic" },
-    { label: "Quiropráctica Prenatal", href: "/services/pregnancy-chiropractic" },
-    { label: "Lesiones de Auto", href: "/services/auto-injury-chiropractic" },
-    { label: "Terapia SoftWave", href: "/services/terapia-softwave" },
-    { label: "Terapia de Ondas de Choque", href: "/services/terapia-ondas-de-choque" },
-    { label: "Láser Clase IV", href: "/services/laser-clase-iv" },
-    { label: "Quiropráctica SOT", href: "/services/quiropractica-sot" },
-    { label: "Cuidado de Bienestar", href: "/services/wellness-care" },
-    { label: "Comunidad Latina", href: "/services/latino-community" },
-    { label: "Quiropráctica Deportiva", href: "/sports-chiropractic" },
+    { label: "Cuidado Quiropráctico",         href: "/services/chiropractic-care" },
+    { label: "Quiropráctica SOT",             href: "/services/quiropractica-sot" },
+    { label: "Quiropráctica Craneal",         href: "/services/cranial-chiropractic" },
+    { label: "Quiropráctico Pediátrico",      href: "/services/quiropractico-pediatrico" },
+    { label: "Quiropráctico Prenatal",        href: "/services/quiropractico-prenatal" },
+    { label: "Quiropráctica para Embarazo",   href: "/services/quiropractico-embarazo" },
+    { label: "Quiropráctica para Bebés",      href: "/services/quiropractico-infantes" },
+    { label: "Lesiones de Auto",              href: "/services/lesiones-de-auto" },
+    { label: "Terapia SoftWave",              href: "/services/terapia-softwave" },
+    { label: "Terapia de Ondas de Choque",    href: "/services/terapia-ondas-de-choque" },
+    { label: "Láser Clase IV",                href: "/services/laser-clase-iv" },
+    { label: "Quiropráctica Deportiva",       href: "/sports-chiropractic" },
+    { label: "Cuidado de Bienestar",          href: "/services/wellness-care" },
+    { label: "Comunidad Latina",              href: "/services/latino-community" },
+  ],
+};
+
+const conditionLinks = {
+  en: [
+    { label: "Back Pain",              href: "/conditions/back-pain" },
+    { label: "Neck Pain",              href: "/conditions/neck-pain" },
+    { label: "Sciatica",               href: "/conditions/sciatica" },
+    { label: "Headaches & Migraines",  href: "/conditions/headaches" },
+    { label: "Auto Accident Injuries", href: "/conditions/auto-accident-injuries" },
+    { label: "Disc Problems",          href: "/conditions/disc-problems" },
+    { label: "Scoliosis",              href: "/conditions/scoliosis" },
+    { label: "Fibromyalgia",           href: "/conditions/fibromyalgia" },
+    { label: "TMJ",                    href: "/conditions/tmj" },
+    { label: "Neuropathy",             href: "/conditions/neuropathy" },
+    { label: "Knee Pain",              href: "/conditions/knee-pain" },
+    { label: "Shoulder Pain",          href: "/conditions/shoulder-pain" },
+    { label: "Hip Pain",               href: "/conditions/hip-pain" },
+    { label: "Plantar Fasciitis",      href: "/conditions/plantar-fasciitis" },
+    { label: "All Conditions →",       href: "/conditions/headaches" },
+  ],
+  es: [
+    { label: "Dolor de Espalda",           href: "/conditions/back-pain" },
+    { label: "Dolor de Cuello",            href: "/conditions/neck-pain" },
+    { label: "Ciática",                    href: "/conditions/sciatica" },
+    { label: "Dolores de Cabeza",          href: "/conditions/headaches" },
+    { label: "Lesiones de Auto",           href: "/conditions/auto-accident-injuries" },
+    { label: "Problemas de Disco",         href: "/conditions/disc-problems" },
+    { label: "Escoliosis",                 href: "/conditions/scoliosis" },
+    { label: "Fibromialgia",               href: "/conditions/fibromyalgia" },
+    { label: "ATM / Mandíbula",            href: "/conditions/tmj" },
+    { label: "Neuropatía",                 href: "/conditions/neuropathy" },
+    { label: "Dolor de Rodilla",           href: "/conditions/knee-pain" },
+    { label: "Dolor de Hombro",            href: "/conditions/shoulder-pain" },
+    { label: "Dolor de Cadera",            href: "/conditions/hip-pain" },
+    { label: "Fascitis Plantar",           href: "/conditions/plantar-fasciitis" },
+    { label: "Ver Todas las Condiciones →", href: "/conditions/headaches" },
   ],
 };
 
@@ -127,6 +168,7 @@ export default function Header({ locale, currentSlug, currentPath }: HeaderProps
 
           <nav className={styles.nav}>
             <ul className={styles.navLinks}>
+
               {/* Home */}
               <li>
                 <Link href={`/${locale}`} className={styles.navLink}>
@@ -137,7 +179,7 @@ export default function Header({ locale, currentSlug, currentPath }: HeaderProps
               {/* About — dropdown */}
               <li className={styles.dropdown}>
                 <button className={styles.dropbtn} type="button">
-                  {locale === "en" ? "About" : "Sobre Nosotros"}
+                  {locale === "en" ? "About" : "Nosotros"}
                   <span className={styles.dropArrow} aria-hidden="true">▾</span>
                 </button>
                 <ul className={styles.dropMenu}>
@@ -145,6 +187,40 @@ export default function Header({ locale, currentSlug, currentPath }: HeaderProps
                     <li key={item.href}>
                       <Link href={`/${locale}${item.href}`} className={styles.dropItem}>
                         {item.label}
+                      </Link>
+                    </li>
+                  ))}
+                </ul>
+              </li>
+
+              {/* Services — dropdown wide */}
+              <li className={styles.dropdown}>
+                <button className={styles.dropbtn} type="button">
+                  {locale === "en" ? "Services" : "Servicios"}
+                  <span className={styles.dropArrow} aria-hidden="true">▾</span>
+                </button>
+                <ul className={`${styles.dropMenu} ${styles.dropMenuWide}`}>
+                  {serviceLinks[locale].map((s) => (
+                    <li key={s.href}>
+                      <Link href={`/${locale}${s.href}`} className={styles.dropItem}>
+                        {s.label}
+                      </Link>
+                    </li>
+                  ))}
+                </ul>
+              </li>
+
+              {/* Conditions — dropdown wide */}
+              <li className={styles.dropdown}>
+                <button className={styles.dropbtn} type="button">
+                  {locale === "en" ? "Conditions" : "Condiciones"}
+                  <span className={styles.dropArrow} aria-hidden="true">▾</span>
+                </button>
+                <ul className={`${styles.dropMenu} ${styles.dropMenuWide}`}>
+                  {conditionLinks[locale].map((c) => (
+                    <li key={c.href}>
+                      <Link href={`/${locale}${c.href}`} className={styles.dropItem}>
+                        {c.label}
                       </Link>
                     </li>
                   ))}
@@ -168,21 +244,11 @@ export default function Header({ locale, currentSlug, currentPath }: HeaderProps
                 </ul>
               </li>
 
-              {/* Services — dropdown */}
-              <li className={styles.dropdown}>
-                <button className={styles.dropbtn} type="button">
-                  {locale === "en" ? "Services" : "Servicios"}
-                  <span className={styles.dropArrow} aria-hidden="true">▾</span>
-                </button>
-                <ul className={`${styles.dropMenu} ${styles.dropMenuWide}`}>
-                  {serviceLinks[locale].map((s) => (
-                    <li key={s.href}>
-                      <Link href={`/${locale}${s.href}`} className={styles.dropItem}>
-                        {s.label}
-                      </Link>
-                    </li>
-                  ))}
-                </ul>
+              {/* Blog */}
+              <li>
+                <Link href={`/${locale}/blog`} className={styles.navLink}>
+                  Blog
+                </Link>
               </li>
 
               {/* Contact */}
@@ -191,6 +257,7 @@ export default function Header({ locale, currentSlug, currentPath }: HeaderProps
                   {locale === "en" ? "Contact" : "Contacto"}
                 </Link>
               </li>
+
             </ul>
 
             <div className={styles.navActions}>
