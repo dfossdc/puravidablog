@@ -94,6 +94,15 @@ export default function Footer({ locale }: FooterProps) {
         </div>
       </div>
 
+      {/* ── Verified Profiles ── */}
+      <div className={styles.verified}>
+        <span className={styles.verifiedLabel}>{isEs ? "Perfiles verificados:" : "Verified profiles:"}</span>
+        <a href="https://www.yelp.com/biz/pura-vida-chiropractic-san-antonio" target="_blank" rel="noopener noreferrer" title="Pura Vida Chiropractic reviews on Yelp San Antonio">Yelp</a>
+        <a href="https://www.healthgrades.com/providers/daniel-foss-2h2pq" target="_blank" rel="noopener noreferrer" title="Dr. Daniel Foss DC on Healthgrades San Antonio chiropractor">Healthgrades</a>
+        <a href="https://www.yellowpages.com/san-antonio-tx/mip/pura-vida-chiropractic-472722413" target="_blank" rel="noopener noreferrer" title="Pura Vida Chiropractic on YellowPages San Antonio TX">YellowPages</a>
+        <a href="https://www.google.com/maps/place/Pura+Vida+Chiropractic/@29.5275,-98.5647,17z" target="_blank" rel="noopener noreferrer" title="Pura Vida Chiropractic on Google Maps San Antonio TX">Google Maps</a>
+      </div>
+
       {/* ── Bottom bar ── */}
       <div className={styles.bottom}>
         <p className={styles.bottomCopy}>

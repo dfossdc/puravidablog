@@ -238,6 +238,36 @@
   font-size: 0.78rem;
 }
 
+/* ── Verified Profiles ───────────────────────────────── */
+.verified {
+  background: #111e29;
+  border-top: 1px solid rgba(255, 255, 255, 0.06);
+  padding: 0.6rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.verifiedLabel {
+  font-size: 0.72rem;
+  color: rgba(255, 255, 255, 0.3);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.verified a {
+  font-size: 0.72rem;
+  color: rgba(255, 255, 255, 0.35);
+  text-decoration: none;
+  transition: color 0.15s;
+}
+
+.verified a:hover {
+  color: rgba(255, 255, 255, 0.65);
+}
+
 /* ── Responsive ─────────────────────────────────────── */
 @media (max-width: 600px) {
   .bottom {

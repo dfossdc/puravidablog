@@ -37,6 +37,9 @@ export default function LocalBusinessSchema() {
       "https://www.instagram.com/puravidasatx/",
       "https://www.youtube.com/@puravidasanantonio",
       "https://www.yelp.com/biz/pura-vida-chiropractic-san-antonio",
+      "https://www.healthgrades.com/providers/daniel-foss-2h2pq",
+      "https://www.yellowpages.com/san-antonio-tx/mip/pura-vida-chiropractic-472722413",
+      "https://www.google.com/maps/place/Pura+Vida+Chiropractic/@29.5275,-98.5647,17z",
     ],
     "priceRange": "$$",
     "currenciesAccepted": "USD",
@@ -56,9 +59,11 @@ export default function LocalBusinessSchema() {
     "hasMap": "https://maps.google.com/?q=Pura+Vida+Chiropractic+2318+NW+Military+Hwy+San+Antonio+TX",
     "founder": {
       "@type": "Person",
-      "name": "Dr. Dan Foss",
+      "name": "Dr. Daniel Foss",
       "jobTitle": "Doctor of Chiropractic",
       "description": "Advanced SOT Certified through SORSI, 23+ years experience, bilingual English/Spanish",
+      "alumniOf": "Western States Chiropractic College",
+      "knowsLanguage": ["English", "Spanish"],
     },
   };
 
