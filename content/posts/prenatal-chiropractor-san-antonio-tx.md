@@ -18,7 +18,7 @@ Pregnancy is one of the most physically demanding journeys a woman's body will e
 
 As your body adapts to support a growing baby, your posture shifts, your center of gravity changes, and your pelvis and spine take on new demands. Prenatal chiropractic care addresses these changes at the root — restoring spinal and pelvic alignment, reducing nerve irritation, and supporting your body's natural ability to adapt.
 
-Prenatal chiropractic care is drug-free, non-invasive, safe throughout all trimesters, and complementary to your OB or midwife's care.
+Prenatal chiropractic care is drug-free, non-invasive, safe throughout all trimesters, and complementary to your OB or midwife's care. Many women find that regular chiropractic visits make pregnancy significantly more comfortable and may even support a smoother labor and delivery.
 
 ## Common Conditions Treated During Pregnancy
 
@@ -30,13 +30,58 @@ Prenatal chiropractic care is drug-free, non-invasive, safe throughout all trime
 - Neck pain and upper back tightness
 - Rib discomfort from expanding ribcage
 
+## How Chiropractic Helps During Pregnancy
+
+### Pelvic Balance and Fetal Positioning
+
+As the uterus grows, pelvic imbalance can create a condition called intrauterine constraint — where uneven tension in the uterine ligaments affects the amount of space available for the baby to move. This can influence fetal positioning, potentially contributing to breech or transverse presentations as delivery approaches.
+
+The **Webster Technique** directly addresses this by restoring pelvic balance and reducing uterine ligament tension, supporting the conditions for the baby to assume the optimal head-down position.
+
+### Low Back and Sciatic Pain Relief
+
+The lumbar spine takes on significantly increased mechanical load during pregnancy, particularly in the second and third trimesters. Many expectant mothers develop or worsen pre-existing disc and sacroiliac joint conditions during this time.
+
+Dr. Foss uses pregnancy-specific positioning and adjusting techniques — including specialized tables with drop pieces and cushions that accommodate the belly — to safely treat lumbar and pelvic pain without any pressure on the abdomen.
+
+### Nervous System Support
+
+The nervous system controls everything — including the uterus, the hormonal cascade of labor, and the baby's development. Keeping the spine free from interference supports optimal neurological function throughout pregnancy.
+
 ## The [Webster Technique](https://puravidasanantonio.com/pregnancy-chiropractor/)
 
 Dr. Foss uses the **Webster Technique** — a specialized prenatal chiropractic protocol that restores pelvic balance and reduces intrauterine constraint, supporting optimal fetal positioning as delivery approaches.
 
+The Webster Technique is recognized by the International Chiropractic Pediatric Association (ICPA) as the standard of care for prenatal chiropractic. Dr. Foss is certified in this technique and has helped many expectant mothers experience more comfortable pregnancies and smoother deliveries.
+
+## What to Expect at Pura Vida Chiropractic During Pregnancy
+
+Your first prenatal visit includes a full history and examination. Dr. Foss will assess your posture, pelvic balance, and spinal alignment, and discuss any specific symptoms or concerns you have. He will explain exactly what he found and design a care plan appropriate to your trimester and specific needs.
+
+Treatment is always performed with your comfort and your baby's safety as the top priorities. Specialized pregnancy pillows and table configurations allow you to lie comfortably throughout treatment in any trimester.
+
 ## Postpartum Care
 
-The journey does not end at delivery. Dr. Foss also offers postpartum chiropractic care to help new moms restore alignment and ease post-delivery back and hip pain — plus **[infant chiropractic care](/en/services/infant-chiropractic)** for newborns.
+The journey does not end at delivery. The postpartum period brings its own physical demands — new positions for feeding, carrying the baby, and the recovery from delivery itself (whether vaginal or by C-section). Dr. Foss also offers postpartum chiropractic care to help new moms restore alignment and ease post-delivery back and hip pain.
+
+Additionally, **[infant chiropractic care](/en/services/infant-chiropractic)** for newborns is available to address any tension or restrictions that may have developed during the birth process.
+
+## Why Choose Dr. Dan Foss for Prenatal Chiropractic
+
+With over **23 years of clinical experience** and Webster Technique certification, Dr. Foss is one of the most experienced prenatal chiropractors in San Antonio. His **Advanced SOT Certification through SORSI** includes extensive training in the gentle, non-force techniques most appropriate for pregnancy.
+
+His integrative approach — combining Webster adjustments, SOT corrections, and cranial therapy when appropriate — provides a comprehensive level of prenatal support that most chiropractors cannot match.
+
+## Frequently Asked Questions
+
+**Is chiropractic safe during the first trimester?**
+Yes. Chiropractic care is safe throughout all trimesters. Many women begin care early in pregnancy to establish good spinal and pelvic balance before the body's changes become more pronounced.
+
+**How often should I come in during pregnancy?**
+Many expectant mothers come in every two to four weeks throughout pregnancy, increasing frequency in the third trimester as the body's demands increase. Dr. Foss will recommend a schedule appropriate to your specific needs.
+
+**Can the Webster Technique turn a breech baby?**
+The Webster Technique is not a technique to "turn" the baby — it is designed to restore pelvic balance and reduce uterine constraint so the baby has the best opportunity to assume the optimal position on its own. Many women who receive Webster Technique care report their baby moving into the head-down position, though outcomes vary by individual.
 
 ## Serving Expectant Mothers Across San Antonio
 
@@ -46,8 +91,9 @@ Pura Vida Chiropractic serves pregnant patients from **Stone Oak, Alamo Heights,
 
 - [Sciatica Chiropractor in San Antonio](/en/blog/sciatica-chiropractor-san-antonio)
 - [Back Pain Chiropractor in San Antonio](/en/blog/back-pain-chiropractor-san-antonio)
+- [Pediatric & Prenatal Chiropractic](/en/blog/pediatric-prenatal)
 - [Pediatric Chiropractic Service](/en/services/pediatric-chiropractic)
-- [Infant Chiropractic Service](/en/services/infant-chiropractic)
+- [Contact Us](/en/contact)
 
 ---
 

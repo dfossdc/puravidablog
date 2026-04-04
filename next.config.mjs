@@ -10,6 +10,7 @@ const nextConfig = {
       { protocol: "https", hostname: "avatarpreview.com" },
       { protocol: "https", hostname: "puravidasanantonio.net" },
       { protocol: "https", hostname: "images.unsplash.com" },
+      { protocol: "https", hostname: "www.ethosregen.com" },
     ],
   },
 };
