@@ -98,6 +98,18 @@ export default async function MissionPage({ params }: Props) {
             ))}
           </div>
 
+          <div style={{ margin: "2rem 0" }}>
+            <div style={{ position: "relative", paddingBottom: "56.25%", height: 0, overflow: "hidden", maxWidth: "720px" }}>
+              <iframe
+                src="https://www.youtube.com/embed/dC1qG3CAlaI"
+                title={isEs ? "Misiones Médicas — Dr. Dan Foss Pura Vida Chiropractic" : "Mission Trips — Dr. Dan Foss Pura Vida Chiropractic"}
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowFullScreen
+                style={{ position: "absolute", top: 0, left: 0, width: "100%", height: "100%", border: 0 }}
+              />
+            </div>
+          </div>
+
           <div className={styles.ctaBox}>
             <p>{isEs
               ? "¿Listo para experimentar el mismo nivel de cuidado compasivo que el Dr. Foss lleva por todo el mundo?"

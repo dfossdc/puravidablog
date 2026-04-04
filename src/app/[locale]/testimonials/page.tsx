@@ -47,14 +47,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 }
 
 const videoTestimonials = [
-  { name: "Maria G.", condition: "Back Pain", conditionEs: "Dolor de Espalda" },
-  { name: "James R.", condition: "Auto Injury", conditionEs: "Lesión de Auto" },
-  { name: "Sofia L.", condition: "Prenatal Care", conditionEs: "Cuidado Prenatal" },
-  { name: "Carlos M.", condition: "Neck Pain", conditionEs: "Dolor de Cuello" },
-  { name: "Angela T.", condition: "Pediatric", conditionEs: "Quiropráctica Pediátrica" },
-  { name: "David K.", condition: "Sciatica", conditionEs: "Ciática" },
-  { name: "Rosa V.", condition: "Headaches", conditionEs: "Migrañas" },
-  { name: "Michael S.", condition: "Sports Injury", conditionEs: "Lesión Deportiva" },
+  { youtubeId: "QZ5B9RrqkdU", title: "Adiós Back Pain — Patient Testimonial", titleEs: "Adiós Dolor de Espalda — Testimonio" },
+  { youtubeId: "P6qk2XU-5ak", title: "No Podía Caminar — Patient Testimonial", titleEs: "No Podía Caminar — Testimonio" },
+  { youtubeId: "-sa_NwGveV4", title: "No Más Dolor — Patient Testimonial", titleEs: "No Más Dolor — Testimonio" },
+  { youtubeId: "zbRrK3LSrgI", title: "No More Neck Pain — Patient Testimonial", titleEs: "Sin Dolor de Cuello — Testimonio" },
+  { youtubeId: "DgGkCHYhfjE", title: "Auto Accident Recovery — Patient Testimonial", titleEs: "Accidente de Tráfico — Testimonio" },
+  { youtubeId: "PcDbAegw9ME", title: "No More Arm Pain — Patient Testimonial", titleEs: "No Más Dolor de Brazo — Testimonio" },
+  { youtubeId: "fipTPhQ8ARw", title: "Patient Testimonial — Pura Vida Chiropractic", titleEs: "Testimonio de Paciente — Pura Vida Chiropractic" },
 ];
 
 const writtenTestimonials = [
@@ -248,24 +247,20 @@ export default async function TestimonialsPage({ params }: Props) {
           </p>
           <div className={styles.videoGrid}>
             {videoTestimonials.map((v) => (
-              <a
-                key={v.name}
-                href="https://puravidasanantonio.com/testimonials/"
-                target="_blank"
-                rel="noopener noreferrer"
-                className={styles.videoCard}
-                aria-label={`${isEs ? "Ver testimonio de" : "Watch testimonial from"} ${v.name}`}
-              >
-                <div className={styles.videoThumb}>
-                  <div className={styles.playIcon}>▶</div>
+              <div key={v.youtubeId} className={styles.videoCard}>
+                <div style={{ position: "relative", paddingBottom: "56.25%", height: 0, overflow: "hidden" }}>
+                  <iframe
+                    src={`https://www.youtube.com/embed/${v.youtubeId}`}
+                    title={isEs ? v.titleEs : v.title}
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowFullScreen
+                    style={{ position: "absolute", top: 0, left: 0, width: "100%", height: "100%", border: 0 }}
+                  />
                 </div>
                 <div className={styles.videoInfo}>
-                  <p className={styles.videoName}>{v.name}</p>
-                  <p className={styles.videoCondition}>
-                    {isEs ? v.conditionEs : v.condition}
-                  </p>
+                  <p className={styles.videoName}>{isEs ? v.titleEs : v.title}</p>
                 </div>
-              </a>
+              </div>
             ))}
           </div>
         </section>
