@@ -16,6 +16,8 @@ La CMRT se basa en la teoría de que ciertos puntos del cuerpo están conectados
 
 Durante una sesión de CMRT para la hernia hiatal, el quiropráctico aplicará presión suave en puntos específicos de la columna vertebral y el abdomen. Estos puntos pueden incluir la zona torácica media de la columna vertebral, el músculo diafragma, el esternón y el esófago. La presión aplicada ayuda a aliviar la tensión y reducir la inflamación en estos puntos, mejorando así la función del sistema digestivo y reduciendo los síntomas de la hernia hiatal.
 
+![Diagrama de hernia hiatal y quiropráctica](https://puravidasanantonio.net/wp-content/uploads/2023/05/diafragma-hernia-chiropractic-img-2.jpg)
+
 ## La Conexión Entre la Columna Vertebral y la Digestión
 
 La columna torácica media controla directamente los nervios que inervan el estómago, el diafragma y el esófago. Cuando las vértebras torácicas están subluxadas — ligeramente desalineadas — pueden interferir con la señalización nerviosa que regula la función digestiva. Esta interferencia puede exacerbar los síntomas de la hernia hiatal, incluyendo la acidez, el regurgitamiento y la sensación de plenitud después de comer.

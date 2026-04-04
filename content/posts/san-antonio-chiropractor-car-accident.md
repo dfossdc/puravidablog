@@ -1,6 +1,6 @@
 ---
 title: "San Antonio Chiropractor Car Accident"
-description: "Chiropractic care can help you if you have been involved in a car accident. A San Antonio Chiropractor car accident victim can be evaluated and receive the care they need.  https://youtu.be/ZgtulDdR1k"
+description: "Chiropractic care can help you if you have been involved in a car accident. A San Antonio Chiropractor car accident victim can be evaluated and receive the care they need."
 date: "2023-05-03"
 author: "Dr. Dan Foss, DC"
 image: "https://www.puravidasanantonio.com/wp-content/uploads/2026/03/Chiropractor-San-Antonio-TX-Dan-Foss-Examining-Patients-Neck-HP.webp"
@@ -12,9 +12,25 @@ lang: en
 
 Chiropractic care can help you if you have been involved in a car accident. A San Antonio Chiropractor car accident victim can be evaluated and receive the care they need.
 
-https://youtu.be/ZgtulDdR1kU
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
+  <iframe
+    src="https://www.youtube.com/embed/ZgtulDdR1kU"
+    title="Car accident chiropractic care San Antonio"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
+  ></iframe>
+</div>
 
-https://youtu.be/Cc-t-EyrWok
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
+  <iframe
+    src="https://www.youtube.com/embed/Cc-t-EyrWok"
+    title="San Antonio chiropractor auto injury patient"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
+  ></iframe>
+</div>
 
 ## Why You Should See a Chiropractor After a Car Accident
 

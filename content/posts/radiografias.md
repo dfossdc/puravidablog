@@ -18,6 +18,8 @@ Además, las radiografías pueden ser útiles para monitorear el progreso del tr
 
 Es importante tener en cuenta que, aunque las radiografías son una herramienta valiosa para los quiroprácticos, no todas las personas que buscan tratamiento quiropráctico necesitan radiografías. El quiropráctico evaluará la necesidad de tomar radiografías en función de la historia clínica del paciente, los síntomas y el examen físico.
 
+![Radiografías antes y después — Pura Vida Quiropráctica](https://puravidasanantonio.net/wp-content/uploads/2023/05/Radiografias-Before-and-After.jpg)
+
 ## ¿Cuándo Toma Radiografías el Dr. Foss?
 
 El Dr. Dan Foss en Pura Vida Quiropráctica utiliza las radiografías de forma selectiva y responsable. Generalmente se recomienda tomar radiografías en las siguientes situaciones:

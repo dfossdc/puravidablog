@@ -281,6 +281,33 @@ export default async function AboutPage({ params }: Props) {
             </p>
           </div>
 
+          {/* Videos */}
+          <div className={styles.bioSection}>
+            <h2 className={styles.h2}>
+              {isEs ? "Conozca al Dr. Dan Foss en Video" : "Meet Dr. Dan Foss on Video"}
+            </h2>
+            <div style={{display:"grid",gridTemplateColumns:"repeat(auto-fit,minmax(300px,1fr))",gap:"1.5rem",margin:"1.5rem 0"}}>
+              <div style={{position:"relative",paddingBottom:"56.25%",height:0,overflow:"hidden"}}>
+                <iframe
+                  src="https://www.youtube.com/embed/eyMlgOcLfGs"
+                  title="Meet Dr. Dan Foss — Pura Vida Chiropractic San Antonio"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                  allowFullScreen
+                  style={{position:"absolute",top:0,left:0,width:"100%",height:"100%",border:0}}
+                />
+              </div>
+              <div style={{position:"relative",paddingBottom:"56.25%",height:0,overflow:"hidden"}}>
+                <iframe
+                  src="https://www.youtube.com/embed/h1DTJL0brg0"
+                  title="About Pura Vida Chiropractic San Antonio TX"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                  allowFullScreen
+                  style={{position:"absolute",top:0,left:0,width:"100%",height:"100%",border:0}}
+                />
+              </div>
+            </div>
+          </div>
+
           {/* CTA */}
           <div className={styles.ctaBox}>
             <p>

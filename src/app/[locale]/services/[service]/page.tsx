@@ -13,6 +13,7 @@ interface ServiceData {
   keywords: string[];
   h1: string;
   image?: string;
+  video?: string;
   body: string[];
   schema: object;
 }
@@ -59,6 +60,7 @@ const services: Record<"en" | "es", ServiceMap> = {
         "At Pura Vida Chiropractic, Dr. Dan Foss, DC specializes in diagnosing and treating auto injury patients using the Sacro-Occipital Technique and complementary therapies. Early chiropractic care after an accident can dramatically improve recovery outcomes and prevent chronic pain.",
         "We work with auto insurance and personal injury cases. Don't wait — the sooner you seek care, the better your recovery. Contact us today for a free post-accident evaluation.",
       ],
+      video: "https://www.youtube.com/embed/08Zh3oOtrag",
       schema: { "@type": "MedicalProcedure", "name": "Auto Injury Chiropractic Care", "procedureType": "Chiropractic" },
     },
     "pediatric-prenatal": {
@@ -67,6 +69,7 @@ const services: Record<"en" | "es", ServiceMap> = {
         "Gentle pediatric and prenatal chiropractic care in San Antonio, TX. SOT technique safe for all ages. Free evaluation for mom and baby.",
       keywords: ["pediatric chiropractor San Antonio", "prenatal chiropractor San Antonio", "chiropractic pregnancy San Antonio TX"],
       h1: "Pediatric & Prenatal Chiropractic in San Antonio",
+      video: "https://www.youtube.com/embed/fipTPhQ8ARw",
       body: [
         "Children and expectant mothers deserve the gentlest, most effective care available. At Pura Vida Chiropractic in San Antonio, Dr. Dan Foss, DC is trained in **pediatric and prenatal chiropractic** using the SOT technique — one of the safest approaches for these special populations.",
         "For **pregnant women**, SOT helps relieve pelvic pain, sciatica, round ligament discomfort, and prepares the pelvis for an optimal birth. The Webster Technique, a specific SOT protocol, supports ideal fetal positioning. For **infants and children**, gentle SOT adjustments address birth trauma, colic, ear infections, torticollis, and developmental concerns.",
@@ -255,6 +258,7 @@ const services: Record<"en" | "es", ServiceMap> = {
         "En Pura Vida Chiropractic, el Dr. Dan Foss, DC se especializa en diagnosticar y tratar pacientes con lesiones de auto utilizando la Técnica Sacro-Occipital y terapias complementarias. La atención quiropráctica temprana después de un accidente puede mejorar dramáticamente los resultados de recuperación y prevenir el dolor crónico.",
         "Trabajamos con seguros de auto y casos de lesiones personales. No espere — cuanto antes busque atención, mejor será su recuperación. Contáctenos hoy para una evaluación gratuita posterior al accidente. [Más información sobre lesiones de auto →](/es/blog/lesiones-de-auto)",
       ],
+      video: "https://www.youtube.com/embed/08Zh3oOtrag",
       schema: { "@type": "MedicalProcedure", "name": "Atención Quiropráctica por Lesiones de Auto", "procedureType": "Chiropractic" },
     },
     "quiropractica-pediatrica": {
@@ -263,6 +267,7 @@ const services: Record<"en" | "es", ServiceMap> = {
         "Atención quiropráctica pediátrica y prenatal gentil en San Antonio, TX. Técnica SOT segura para todas las edades. Evaluación gratuita para mamá y bebé.",
       keywords: ["quiropráctico pediátrico San Antonio", "quiropráctica prenatal San Antonio", "quiropráctica embarazo San Antonio TX"],
       h1: "Quiropráctica Pediátrica y Prenatal en San Antonio",
+      video: "https://www.youtube.com/embed/fipTPhQ8ARw",
       body: [
         "Los niños y las futuras mamás merecen la atención más gentil y efectiva disponible. En Pura Vida Chiropractic en San Antonio, el Dr. Dan Foss, DC está capacitado en **quiropráctica pediátrica y prenatal** utilizando la técnica SOT — uno de los enfoques más seguros para estas poblaciones especiales.",
         "Para las **mujeres embarazadas**, el SOT ayuda a aliviar el dolor pélvico, la ciática, la molestia del ligamento redondo y prepara la pelvis para un parto óptimo. Para los **bebés y niños**, los ajustes SOT suaves abordan el trauma del nacimiento, los cólicos, las infecciones de oído, la tortícolis y las preocupaciones del desarrollo.",
@@ -519,6 +524,20 @@ export default async function ServicePage({ params }: Props) {
               }} />
             ))}
           </div>
+
+          {data.video && (
+            <div style={{margin:"2rem 0"}}>
+              <div style={{position:"relative",paddingBottom:"56.25%",height:0,overflow:"hidden",maxWidth:"720px"}}>
+                <iframe
+                  src={data.video}
+                  title={data.h1}
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                  allowFullScreen
+                  style={{position:"absolute",top:0,left:0,width:"100%",height:"100%",border:0}}
+                />
+              </div>
+            </div>
+          )}
 
           <div className={styles.ctaBox}>
             <p>{isEs
