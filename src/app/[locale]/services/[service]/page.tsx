@@ -69,7 +69,7 @@ const services: Record<"en" | "es", ServiceMap> = {
       keywords: ["pediatric chiropractor San Antonio", "child chiropractor San Antonio", "kids chiropractic San Antonio TX"],
       h1: "Pediatric Chiropractor in San Antonio",
       image: "https://puravidasanantonio.net/wp-content/uploads/2023/05/Pura-Vida-Chiropratic-Why-children-need-chiropractic-more-often-than-you-might-think.jpg",
-      videos: ["https://www.youtube.com/embed/fipTPhQ8ARw"],
+      videos: ["https://www.youtube.com/embed/fipTPhQ8ARw", "https://www.youtube.com/embed/j_RHsJ0_EzE"],
       body: [
         "Dr. Foss is a **San Antonio Pediatric Chiropractor** who specializes in chiropractic care for kids from newborns through teenagers. Kids love to run, jump, and play — but the cumulative impact of childhood activity, poor posture, and digital device use can cause spinal misalignments that affect their health for years to come.",
         "As a pediatric chiropractor, I sometimes get calls from parents asking whether their child is too young to receive chiropractic care. The answer is always the same — it's never too early. The spine develops until around age 25, and most damage done by age 18 is very difficult to correct. Early evaluation and care sets the foundation for lifelong spinal health.",
@@ -323,7 +323,7 @@ const services: Record<"en" | "es", ServiceMap> = {
       keywords: ["quiropráctico pediátrico San Antonio", "quiropráctica para niños San Antonio", "quiropráctico infantil San Antonio TX"],
       h1: "Quiropráctico Pediátrico en San Antonio",
       image: "https://puravidasanantonio.net/wp-content/uploads/2023/05/Pura-Vida-Chiropratic-Why-children-need-chiropractic-more-often-than-you-might-think.jpg",
-      videos: ["https://www.youtube.com/embed/fipTPhQ8ARw"],
+      videos: ["https://www.youtube.com/embed/fipTPhQ8ARw", "https://www.youtube.com/embed/j_RHsJ0_EzE"],
       body: [
         "El Dr. Foss es un **Quiropráctico Pediátrico de San Antonio** que se especializa en el cuidado quiropráctico de niños desde recién nacidos hasta adolescentes. Los niños adoran correr, saltar y jugar — pero el impacto acumulado de la actividad infantil, la mala postura y el uso excesivo de dispositivos digitales puede causar subluxaciones vertebrales que afectan su salud por años.",
         "Como quiropráctico pediátrico, recibo llamadas de padres preguntando si su hijo es demasiado pequeño para recibir atención quiropráctica. La respuesta siempre es la misma — nunca es demasiado pronto. La columna vertebral se desarrolla hasta aproximadamente los 25 años, y la mayor parte del daño ocurrido antes de los 18 años es muy difícil de corregir. La evaluación y el cuidado tempranos sientan las bases para la salud espinal de por vida.",
