@@ -3,11 +3,35 @@ title: "A Doctor’s perspective on TMJ"
 description: "Over the past year I have experienced a lot of dental issues and suffered from TMJ. As a result I would like to compile all of my experiences here so that you can have a definitive guide to treating y"
 date: "2023-05-03"
 author: "Dr. Dan Foss, DC"
-image: "https://www.puravidasanantonio.com/wp-content/uploads/2026/03/Chiropractor-San-Antonio-TX-Dan-Foss-Performing-Cranial-Adjustment.webp"
+image: "https://www.puravidasanantonio.com/wp-content/uploads/bb-plugin/cache/Chiropractor-San-Antonio-TX-Dan-Foss-Adjusting-Patients-Neck-HP-circle.webp"
 keywords:
   - chiropractor San Antonio
   - a doctor’s perspective on tmj
 lang: en
+mentions:
+  - "@type": LocalBusiness
+    name: "Dr. Brian Hale DDS"
+    url: "https://www.drbrianhale.com"
+    telephone: "+1-210-308-7008"
+  - "@type": LocalBusiness
+    name: "Wholesome Dentistry"
+    url: "https://wholesomedentistry.com"
+    telephone: "+1-210-344-2384"
+  - "@type": LocalBusiness
+    name: "Physical Therapy TX - Dr Matt Randell"
+    url: "https://www.physicaltherapytx.com"
+  - "@type": LocalBusiness
+    name: "Thrive Head and Spinal Care - Dr Dutson"
+    url: "https://thriveheadandspinalcare.com"
+  - "@type": Organization
+    name: "Weston A. Price Foundation San Antonio"
+    url: "https://westonapricesa.org"
+  - "@type": Organization
+    name: "SORSI"
+    url: "https://sorsi.com"
+  - "@type": Organization
+    name: "ICAK Applied Kinesiology"
+    url: "https://www.icakusa.com"
 ---
 
 Over the past year I have experienced a lot of dental issues and suffered from TMJ. As a result I would like to compile all of my experiences here so that you can have a definitive guide to treating your TMJ successfully. The most important thing to remember is that TMJ is different for everyone. As a Chiropractor practicing over the past 17 years I realize that the whole is not the sum of its parts and as such everyone heals and repairs differently. There is no cookie cutter approach to TMJ. There are many people, providers, and doctors that will tell you otherwise, that they have the cure! This is not true! This is a compilation of my journey and what worked for me. Again what worked for me might or might not work for you.
@@ -36,7 +60,7 @@ My office specializes in Cranial Adjusting to align the cranial bones in additio
 
 - Upper Cervical Chiropractic is also a great compliment. I see [Dr Dutson](https://thriveheadandspinalcare.com/) here in San Antonio for my upper cervical care and he has done wonders for my jaw!
 
-- A Dentist who really knows what they are doing with TMJ. Again make sure you really talk to your Dentist about his experience treating TMJ. A nite guard from bruxism or teeth grinding is allot different than a occlusal splint that holds the teeth in place.
+- A Dentist who really knows what they are doing with TMJ. Again make sure you really talk to your Dentist about his experience treating TMJ. A nite guard for bruxism or teeth grinding is a lot different than an occlusal splint that holds the teeth in place. For bite-based TMJ treatment I personally refer patients to <a href="https://www.drbrianhale.com/tmj-tmd/" target="_blank" rel="noopener noreferrer" title="TMJ and TMD treatment San Antonio - Dr. Brian Hale DDS">Dr. Brian Hale, DDS</a> at 1100 NW Loop 410, Suite 511, San Antonio — a specialist in Gneuromuscular Dentistry who has personally resolved his own TMD and brings that lived experience to every patient.
 
 - Physical Therapy is beneficial for the muscles again I recommend trying Dry Needling
 
@@ -47,6 +71,30 @@ My office specializes in Cranial Adjusting to align the cranial bones in additio
 - Begin by taking steps to not only get rid of your TMJ but get your life back!
 
 Yours in Health! Dr Foss
+
+## San Antonio TMJ Provider Resources
+
+TMJ often requires a team approach. Here are the San Antonio providers Dr. Dan has personally worked with or refers patients to:
+
+**Chiropractic Care for TMJ**
+
+[Pura Vida Chiropractic — Cranial & SOT Adjusting](https://puravidasanantonio.com/tmj/) specializes in cranial bone alignment and upper cervical care for TMJ. For upper cervical chiropractic, I personally see [Dr. Dutson at Thrive Head & Spinal Care](https://thriveheadandspinalcare.com/) — he has done wonders for my jaw.
+
+**Dentists — TMJ Specialists**
+
+[Dr. Brian Hale, DDS](https://www.drbrianhale.com/tmj-tmd/) practices Gneuromuscular Dentistry and bite orthotics at 1100 NW Loop 410 Suite 511, San Antonio — call (210) 308-7008. For biological holistic dentistry, [Wholesome Dentistry — Dr. Gonzalez & Dr. Peña](https://wholesomedentistry.com/) at 8502 Blanco Rd, San Antonio, (210) 344-2384, are my personal dentists who made my bite appliance.
+
+**Physical Therapy — Dry Needling for TMJ**
+
+[Dr. Matt Randell at Physical Therapy TX](https://www.physicaltherapytx.com/) performs dry needling for jaw muscle spasm — this personally helped me achieve immediate relief when nothing else worked.
+
+**Functional & Holistic Resources**
+
+The [Weston A. Price Foundation — San Antonio Chapter](https://westonapricesa.org/) provides excellent nutrition and root cause dental health education. For finding an advanced SOT-certified chiropractor trained in TMJ, visit [SORSI — Sacro Occipital Research Society](https://sorsi.com/). [ICAK — Applied Kinesiology](https://www.icakusa.com/) practitioners use muscle testing to identify jaw and cranial imbalances.
+
+**The Aqualizer — At-Home Tool**
+
+Dr. Dan's recommended at-home water bite device for immediate relief is the [Aqualizer, available at Dental Depot](https://www.dentaldepot.com/category/AQUALIZER_TMJ_STOP_MIGRANE_HEADACHES) — it acts like a waterbed for your bite and can provide significant short-term relief while you pursue longer-term treatment.
 
 ## Related Articles
 
