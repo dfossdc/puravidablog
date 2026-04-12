@@ -533,6 +533,33 @@
     // Initialize
     updateProgress();
 
+    // Pre-fill fields from paso-1 URL params
+    (function() {
+      var params = new URLSearchParams(window.location.search);
+      var nombreParam = params.get('nombre');
+      var telefonoParam = params.get('telefono');
+      var emailParam = params.get('email');
+
+      if (nombreParam) {
+        // Split "First Last" into nombre/apellido
+        var parts = nombreParam.trim().split(/\s+/);
+        var firstName = parts[0] || '';
+        var lastName = parts.slice(1).join(' ') || '';
+        var nombreInput = document.querySelector('input[name="nombre"]');
+        var apellidoInput = document.querySelector('input[name="apellido"]');
+        if (nombreInput && firstName) nombreInput.value = firstName;
+        if (apellidoInput && lastName) apellidoInput.value = lastName;
+      }
+      if (telefonoParam) {
+        var telInput = document.querySelector('input[name="telefono"]');
+        if (telInput) telInput.value = telefonoParam;
+      }
+      if (emailParam) {
+        var emailInput = document.querySelector('input[name="email"]');
+        if (emailInput) emailInput.value = emailParam;
+      }
+    })();
+
     // Email notification on questionnaire submit
     document.getElementById('quizForm').addEventListener('submit', function(e) {
       e.preventDefault();
@@ -587,8 +614,19 @@
         body: JSON.stringify(data)
       }).catch(function() {});
 
-      // Redirect to paso 3 immediately
-      window.location.href = 'paso-3-reservar.html';
+      // Redirect to paso 3 with all data as URL params
+      var redirectParams = new URLSearchParams({
+        nivel_dolor: painLevel,
+        ubicacion_dolor: ubicacion + (ubicacionOtro ? ' - ' + ubicacionOtro : ''),
+        duracion_dolor: duracion + (duracionOtro ? ' - ' + duracionOtro : ''),
+        causa: causa + (causaOtro ? ' - ' + causaOtro : ''),
+        areas_afectadas: areasChecked.join(', ') + (areasOtro ? ', ' + areasOtro : ''),
+        compromiso: compromiso,
+        nombre: nombre + ' ' + apellido,
+        email: email,
+        telefono: telefono
+      });
+      window.location.href = 'paso-3-reservar.html?' + redirectParams.toString();
     });
   </script>
 
