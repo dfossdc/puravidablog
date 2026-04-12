@@ -3,175 +3,636 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Oferta Especial - Pura Vida Chiropractic</title>
-  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
+  <title>Oferta Especial $47 - Pura Vida Chiropractic San Antonio</title>
+  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Merriweather:wght@700&display=swap" rel="stylesheet">
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
-    body { font-family: 'Lato', 'Helvetica Neue', Arial, sans-serif; color: #212934; background: #ffffff; font-size: 15px; line-height: 1.6; }
+    body { font-family: 'Lato', 'Helvetica Neue', Arial, sans-serif; color: #212934; background: #ffffff; font-size: 16px; line-height: 1.7; }
 
-    /* Progress Bar */
-    .progress-bar { background: #146BA6; height: 6px; width: 100%; }
-    .progress-fill { background: #fb8e28; height: 100%; width: 25%; transition: width 0.3s; }
+    /* ── Utility ── */
+    .serif { font-family: 'Merriweather', 'Times New Roman', serif; }
+    .blue { color: #146BA6; }
+    .orange { color: #fb8e28; }
+    .center { text-align: center; }
 
-    /* Header */
-    .header { text-align: center; padding: 20px; background: #ffffff; border-bottom: 1px solid #dde6ec; }
-    .logo-text { font-family: 'Times New Roman', Times, serif; font-weight: 700; font-size: 28px; color: #146BA6; }
-    .logo-sub { font-family: 'Times New Roman', Times, serif; font-weight: 700; font-size: 14px; color: #146BA6; letter-spacing: 2px; }
+    /* ── Progress Bar ── */
+    .progress-bar { background: #146BA6; height: 6px; }
+    .progress-fill { background: #fb8e28; height: 100%; width: 25%; }
 
-    /* Hero Section */
-    .hero { max-width: 900px; margin: 0 auto; padding: 40px 20px; }
-    .hero-layout { display: flex; gap: 40px; align-items: flex-start; }
+    /* ── Header ── */
+    .site-header { text-align: center; padding: 18px 20px; background: #fff; border-bottom: 1px solid #dde6ec; }
+    .logo-text { font-family: 'Merriweather', serif; font-weight: 700; font-size: 26px; color: #146BA6; }
+    .logo-sub { font-family: 'Merriweather', serif; font-weight: 700; font-size: 13px; color: #146BA6; letter-spacing: 3px; }
+
+    /* ── Announcement Banner ── */
+    .ann-bar { background: #146BA6; color: #fff; text-align: center; padding: 10px 20px; font-size: 14px; font-weight: 700; letter-spacing: 0.5px; }
+
+    /* ── Hero ── */
+    .hero { max-width: 960px; margin: 0 auto; padding: 50px 24px 30px; }
+    .hero-eyebrow { font-size: 13px; font-weight: 700; color: #146BA6; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 14px; }
+    .hero h1 { font-family: 'Merriweather', serif; font-size: 38px; line-height: 1.2; color: #212934; margin-bottom: 18px; }
+    .hero h1 .highlight { color: #146BA6; }
+    .hero-sub { font-size: 18px; color: #444; margin-bottom: 30px; max-width: 680px; }
+    .hero-layout { display: flex; gap: 48px; align-items: flex-start; }
     .hero-content { flex: 1; }
-    .hero-image { flex: 0 0 320px; }
-    .hero-image img { width: 100%; border-radius: 6px; box-shadow: 0 0 20px rgba(1, 1, 1, 0.25); }
+    .hero-image { flex: 0 0 300px; }
+    .hero-image img { width: 100%; border-radius: 8px; box-shadow: 0 6px 24px rgba(0,0,0,0.18); }
 
-    .step-label { font-family: 'Times New Roman', Times, serif; font-weight: 700; font-size: 14px; color: #146BA6; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 8px; }
+    .offer-badge {
+      display: inline-block; background: #fb8e28; color: #fff;
+      font-family: 'Merriweather', serif; font-weight: 700; font-size: 22px;
+      padding: 12px 28px; border-radius: 6px; margin-bottom: 20px;
+    }
 
-    h1 { font-family: 'Times New Roman', Times, serif; font-weight: 700; font-size: 36px; line-height: 1.25; color: #212934; margin-bottom: 20px; }
-    h1 .price { color: #146BA6; }
+    .check-list { list-style: none; margin-bottom: 20px; }
+    .check-list li { padding: 7px 0; font-size: 16px; display: flex; align-items: flex-start; gap: 10px; }
+    .ck { color: #146BA6; font-size: 18px; font-weight: 900; flex-shrink: 0; margin-top: 2px; }
 
-    .benefits-title { font-family: 'Times New Roman', Times, serif; font-weight: 700; font-size: 18px; margin-bottom: 12px; }
-    .benefits-list { list-style: none; margin-bottom: 10px; }
-    .benefits-list li { padding: 6px 0; font-size: 16px; display: flex; align-items: center; gap: 10px; }
-    .benefits-list li::before { content: ""; display: none; }
-    .check { color: #146BA6; font-size: 18px; font-weight: bold; }
+    .visit-box { background: #f0f7ff; border-left: 4px solid #146BA6; border-radius: 0 6px 6px 0; padding: 20px 24px; margin-top: 24px; }
+    .visit-box h3 { font-family: 'Merriweather', serif; font-size: 15px; color: #146BA6; margin-bottom: 12px; }
 
-    .visit-info { margin-top: 20px; background: #f4f4f4; border-radius: 6px; padding: 20px; }
-    .visit-info h3 { font-family: 'Times New Roman', Times, serif; font-weight: 700; font-size: 16px; color: #146BA6; margin-bottom: 10px; }
-    .visit-info .benefits-list li { font-size: 14px; padding: 3px 0; }
+    /* ── CTA Button ── */
+    .cta-btn {
+      display: block; width: 100%; padding: 18px; background: #fb8e28; color: #fff; border: none;
+      border-radius: 6px; font-size: 20px; font-weight: 700; font-family: 'Lato', sans-serif;
+      cursor: pointer; text-align: center; text-decoration: none; transition: background 0.2s;
+      letter-spacing: 0.5px; margin-top: 10px;
+    }
+    .cta-btn:hover { background: #e07a18; }
+    .cta-btn-inline {
+      display: inline-block; padding: 16px 40px; background: #fb8e28; color: #fff; border: none;
+      border-radius: 6px; font-size: 18px; font-weight: 700; font-family: 'Lato', sans-serif;
+      cursor: pointer; text-decoration: none; transition: background 0.2s;
+    }
+    .cta-btn-inline:hover { background: #e07a18; }
+    .cta-note { font-size: 13px; color: #888; margin-top: 8px; text-align: center; }
 
-    /* Form Section */
-    .form-section { max-width: 500px; margin: 0 auto; padding: 40px 20px; }
-    .form-section h2 { font-family: 'Times New Roman', Times, serif; font-weight: 700; font-size: 24px; text-align: center; margin-bottom: 8px; color: #212934; }
-    .form-section .subtitle { text-align: center; color: #212934; margin-bottom: 30px; font-size: 15px; }
+    /* ── Section Wrappers ── */
+    .section { max-width: 860px; margin: 0 auto; padding: 60px 24px; }
+    .section-alt { background: #f7fafc; }
+    .section-dark { background: #212934; color: #fff; }
+    .section-blue { background: #146BA6; color: #fff; }
+    .section-inner { max-width: 860px; margin: 0 auto; padding: 60px 24px; }
 
+    .section-label { font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: 3px; color: #fb8e28; margin-bottom: 10px; }
+    .section-title { font-family: 'Merriweather', serif; font-size: 30px; line-height: 1.3; margin-bottom: 18px; }
+    .section-sub { font-size: 17px; color: #555; margin-bottom: 30px; max-width: 680px; }
+    .section-dark .section-sub { color: #ccc; }
+    .section-blue .section-title { color: #fff; }
+
+    /* ── 3-Column Grid ── */
+    .grid-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; margin-top: 30px; }
+    .grid-2 { display: grid; grid-template-columns: repeat(2, 1fr); gap: 24px; margin-top: 30px; }
+
+    /* ── Cards ── */
+    .card { background: #fff; border-radius: 8px; padding: 28px; box-shadow: 0 2px 12px rgba(0,0,0,0.08); }
+    .card-dark { background: #2e3740; border-radius: 8px; padding: 28px; }
+    .card-icon { font-size: 32px; margin-bottom: 14px; }
+    .card h3 { font-family: 'Merriweather', serif; font-size: 17px; margin-bottom: 10px; color: #212934; }
+    .card-dark h3 { color: #fff; }
+    .card p { font-size: 15px; color: #555; line-height: 1.6; }
+    .card-dark p { color: #bbb; }
+
+    /* ── Pain List ── */
+    .pain-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; margin-top: 20px; }
+    .pain-item { display: flex; align-items: center; gap: 10px; background: #fff; border-radius: 6px; padding: 12px 16px; font-size: 15px; box-shadow: 0 1px 6px rgba(0,0,0,0.07); }
+
+    /* ── Testimonial ── */
+    .testimonials { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin-top: 30px; }
+    .tcard { background: #fff; border-radius: 8px; padding: 24px; box-shadow: 0 2px 12px rgba(0,0,0,0.08); }
+    .tcard .stars { color: #fb8e28; font-size: 18px; margin-bottom: 10px; }
+    .tcard p { font-size: 14px; color: #555; font-style: italic; line-height: 1.6; margin-bottom: 14px; }
+    .tcard .name { font-weight: 700; font-size: 14px; color: #212934; }
+
+    /* ── Dr. Foss Bio ── */
+    .bio-layout { display: flex; gap: 48px; align-items: center; }
+    .bio-photo { flex: 0 0 260px; }
+    .bio-photo img { width: 100%; border-radius: 8px; box-shadow: 0 6px 24px rgba(0,0,0,0.15); }
+    .bio-content { flex: 1; }
+    .bio-content h2 { font-family: 'Merriweather', serif; font-size: 28px; margin-bottom: 16px; }
+    .credential-list { list-style: none; margin: 16px 0; }
+    .credential-list li { padding: 5px 0; font-size: 15px; display: flex; gap: 10px; }
+
+    /* ── Stats Bar ── */
+    .stats-bar { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0; text-align: center; }
+    .stat-item { padding: 36px 20px; border-right: 1px solid rgba(255,255,255,0.15); }
+    .stat-item:last-child { border-right: none; }
+    .stat-num { font-family: 'Merriweather', serif; font-size: 42px; color: #fb8e28; line-height: 1; margin-bottom: 8px; }
+    .stat-label { font-size: 14px; color: #ccc; }
+
+    /* ── What Is SOT ── */
+    .sot-layout { display: flex; gap: 48px; align-items: flex-start; }
+    .sot-text { flex: 1; }
+    .sot-pillars { flex: 0 0 320px; }
+    .pillar { background: #fff; border-radius: 8px; padding: 20px; margin-bottom: 16px; box-shadow: 0 2px 10px rgba(0,0,0,0.08); display: flex; gap: 16px; align-items: flex-start; }
+    .pillar-icon { font-size: 28px; flex-shrink: 0; }
+    .pillar h4 { font-family: 'Merriweather', serif; font-size: 15px; color: #146BA6; margin-bottom: 6px; }
+    .pillar p { font-size: 14px; color: #555; }
+
+    /* ── Process Steps ── */
+    .steps { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; margin-top: 30px; }
+    .step-item { text-align: center; }
+    .step-num { width: 54px; height: 54px; border-radius: 50%; background: #146BA6; color: #fff; font-family: 'Merriweather', serif; font-size: 22px; font-weight: 700; display: flex; align-items: center; justify-content: center; margin: 0 auto 14px; }
+    .step-item h4 { font-family: 'Merriweather', serif; font-size: 15px; margin-bottom: 8px; color: #212934; }
+    .step-item p { font-size: 14px; color: #555; }
+
+    /* ── FAQ ── */
+    .faq-list { margin-top: 24px; }
+    .faq-item { border-bottom: 1px solid #dde6ec; padding: 20px 0; }
+    .faq-q { font-family: 'Merriweather', serif; font-size: 17px; color: #212934; margin-bottom: 10px; }
+    .faq-a { font-size: 15px; color: #555; line-height: 1.7; }
+
+    /* ── Offer Box ── */
+    .offer-box {
+      background: #fff; border: 3px solid #fb8e28; border-radius: 12px;
+      padding: 40px; max-width: 560px; margin: 0 auto; text-align: center;
+      box-shadow: 0 8px 32px rgba(0,0,0,0.12);
+    }
+    .offer-box h2 { font-family: 'Merriweather', serif; font-size: 26px; margin-bottom: 10px; }
+    .price-display { font-family: 'Merriweather', serif; font-size: 64px; color: #fb8e28; line-height: 1; margin: 16px 0 6px; }
+    .price-was { font-size: 16px; color: #999; text-decoration: line-through; margin-bottom: 20px; }
+    .offer-items { list-style: none; text-align: left; margin: 20px 0; }
+    .offer-items li { padding: 8px 0; font-size: 16px; display: flex; align-items: center; gap: 12px; border-bottom: 1px solid #f0f0f0; }
+    .offer-items li:last-child { border-bottom: none; }
+
+    /* ── Form Section ── */
+    .form-wrap { max-width: 500px; margin: 0 auto; padding: 0 24px 60px; }
+    .form-wrap h2 { font-family: 'Merriweather', serif; font-size: 24px; text-align: center; margin-bottom: 8px; }
+    .form-wrap .subtitle { text-align: center; color: #555; margin-bottom: 28px; font-size: 15px; }
     .form-group { margin-bottom: 16px; }
     .form-group label { display: block; font-weight: 700; font-size: 14px; margin-bottom: 6px; color: #212934; }
     .form-group input, .form-group select, .form-group textarea {
       width: 100%; padding: 14px 16px; border: 2px solid #dde6ec; border-radius: 6px;
-      font-size: 16px; font-family: 'Lato', 'Helvetica Neue', Arial, sans-serif; transition: border-color 0.2s;
+      font-size: 16px; font-family: 'Lato', sans-serif; transition: border-color 0.2s; background: #fff;
     }
-    .form-group input:focus, .form-group select:focus, .form-group textarea:focus {
-      outline: none; border-color: #146BA6;
-    }
-
+    .form-group input:focus, .form-group select:focus, .form-group textarea:focus { outline: none; border-color: #146BA6; }
     .phone-row { display: flex; gap: 10px; }
     .phone-row .country-code { flex: 0 0 90px; }
     .phone-row .phone-input { flex: 1; }
-
     .submit-btn {
-      width: 100%; padding: 16px; background: #32373c; color: #ffffff; border: none;
-      border-radius: 6px; font-size: 18px; font-weight: 700; font-family: 'Lato', 'Helvetica Neue', Arial, sans-serif;
-      cursor: pointer; transition: background 0.2s; text-transform: uppercase; letter-spacing: 1px;
-      margin-top: 10px;
+      width: 100%; padding: 18px; background: #fb8e28; color: #fff; border: none;
+      border-radius: 6px; font-size: 20px; font-weight: 700; font-family: 'Lato', sans-serif;
+      cursor: pointer; transition: background 0.2s; text-transform: uppercase; letter-spacing: 1px; margin-top: 10px;
     }
-    .submit-btn:hover { background: #1e2226; }
+    .submit-btn:hover { background: #e07a18; }
+    .limited { text-align: center; margin-top: 14px; font-size: 14px; color: #c0392b; font-weight: 700; }
 
-    .limited { text-align: center; margin-top: 16px; font-size: 14px; color: #c0392b; font-weight: 700; }
-
-    /* Timer */
-    .timer-section { text-align: center; padding: 30px 20px; background: #f4f4f4; }
-    .timer-section h3 { font-family: 'Times New Roman', Times, serif; font-weight: 700; font-size: 18px; color: #212934; margin-bottom: 15px; }
+    /* ── Timer ── */
+    .timer-section { text-align: center; padding: 32px 20px; background: #212934; }
+    .timer-section h3 { font-family: 'Merriweather', serif; font-weight: 700; font-size: 16px; color: #fb8e28; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 16px; }
     .timer { display: flex; justify-content: center; gap: 20px; }
     .timer-unit { text-align: center; }
-    .timer-value {
-      font-family: 'Times New Roman', Times, serif; font-weight: 700; font-size: 40px; color: #146BA6;
-      background: #ffffff; border-radius: 6px; padding: 10px 20px; box-shadow: 0 0 20px rgba(1, 1, 1, 0.25);
-      min-width: 80px; display: inline-block;
-    }
-    .timer-label { font-size: 12px; color: #212934; margin-top: 6px; text-transform: uppercase; letter-spacing: 1px; }
+    .timer-value { font-family: 'Merriweather', serif; font-weight: 700; font-size: 42px; color: #fff; background: #32373c; border-radius: 6px; padding: 10px 20px; min-width: 80px; display: inline-block; }
+    .timer-label { font-size: 11px; color: #aaa; margin-top: 6px; text-transform: uppercase; letter-spacing: 1px; }
 
-    /* Footer */
-    .footer-section { max-width: 700px; margin: 0 auto; padding: 40px 20px; text-align: center; }
-    .footer-section h3 { font-family: 'Times New Roman', Times, serif; font-weight: 700; font-size: 18px; margin-bottom: 8px; }
-    .footer-section .address { color: #212934; font-size: 15px; margin-bottom: 20px; }
-    .map-container { border-radius: 6px; overflow: hidden; margin-bottom: 20px; }
-    .disclaimer { font-size: 12px; color: #212934; max-width: 500px; margin: 20px auto 0; }
-    .copyright { font-size: 12px; color: #212934; margin-top: 15px; }
+    /* ── Footer ── */
+    .page-footer { max-width: 700px; margin: 0 auto; padding: 50px 24px 30px; text-align: center; }
+    .page-footer h3 { font-family: 'Merriweather', serif; font-size: 18px; margin-bottom: 10px; }
+    .page-footer .address { color: #555; font-size: 15px; margin-bottom: 20px; }
+    .map-container { border-radius: 8px; overflow: hidden; margin-bottom: 20px; }
+    .disclaimer { font-size: 12px; color: #888; max-width: 500px; margin: 20px auto 0; }
+    .copyright { font-size: 12px; color: #aaa; margin-top: 12px; }
 
+    /* ── Divider ── */
+    .divider { max-width: 60px; height: 4px; background: #fb8e28; border-radius: 2px; margin: 14px auto 24px; }
+
+    /* ── Mobile ── */
     @media (max-width: 768px) {
+      .hero h1 { font-size: 26px; }
+      .hero-sub { font-size: 16px; }
       .hero-layout { flex-direction: column; }
-      .hero-image { flex: none; }
-      h1 { font-size: 28px; }
-      .visit-columns { flex-direction: column; gap: 15px; }
+      .hero-image { flex: none; width: 100%; }
+      .grid-3 { grid-template-columns: 1fr; }
+      .grid-2 { grid-template-columns: 1fr; }
+      .pain-grid { grid-template-columns: 1fr; }
+      .testimonials { grid-template-columns: 1fr; }
+      .bio-layout { flex-direction: column; }
+      .bio-photo { flex: none; width: 100%; max-width: 280px; margin: 0 auto; }
+      .stats-bar { grid-template-columns: repeat(2, 1fr); }
+      .stat-item { border-right: none; border-bottom: 1px solid rgba(255,255,255,0.15); }
+      .sot-layout { flex-direction: column; }
+      .sot-pillars { flex: none; width: 100%; }
+      .steps { grid-template-columns: repeat(2, 1fr); }
+      .section-title { font-size: 24px; }
       .timer-value { font-size: 30px; padding: 8px 14px; min-width: 60px; }
+      .price-display { font-size: 48px; }
     }
   </style>
 </head>
 <body>
 
-  <!-- Progress Bar -->
   <div class="progress-bar"><div class="progress-fill"></div></div>
 
   <!-- Header -->
-  <div class="header">
+  <div class="site-header">
     <div class="logo-text">PURA VIDA</div>
     <div class="logo-sub">CHIROPRACTIC</div>
   </div>
 
-  <!-- Hero -->
+  <!-- Announcement -->
+  <div class="ann-bar">&#9733; ¡Hablamos Español! &nbsp;|&nbsp; San Antonio, TX &nbsp;|&nbsp; (210) 685-1994 &#9733;</div>
+
+  <!-- ── HERO ── -->
   <div class="hero">
-    <div class="step-label">PASO 1</div>
+    <p class="hero-eyebrow">Oferta Especial para Nuevos Pacientes — San Antonio, TX</p>
     <div class="hero-layout">
       <div class="hero-content">
-        <h1><span class="price">$47</span> para un examen completo de salud quiropractica</h1>
+        <div class="offer-badge">Solo $47 — Valor de $280</div>
+        <h1>¿Tiene Dolor de Espalda, Cuello, Cabeza o Ciática?<br><span class="highlight">Nosotros Podemos Ayudarle.</span></h1>
+        <p class="hero-sub">En Pura Vida Chiropractic, el Dr. Dan Foss utiliza una técnica avanzada llamada SOT (Sacro-Occipital Technique) que trata la columna, los órganos y el cráneo como un sistema completo — no solo el área de dolor.</p>
 
-        <p class="benefits-title">Nos especializamos en:</p>
-        <ul class="benefits-list">
-          <li><span class="check">&#10003;</span> Dolor de espalda</li>
-          <li><span class="check">&#10003;</span> Dolor de cuello</li>
-          <li><span class="check">&#10003;</span> Dolores de cabeza</li>
-          <li><span class="check">&#10003;</span> Accidentes de auto</li>
-          <li><span class="check">&#10003;</span> Y mucho mas...</li>
+        <ul class="check-list">
+          <li><span class="ck">&#10003;</span> <strong>Quiropráctico certificado en SOT avanzado</strong> — uno de los pocos en San Antonio</li>
+          <li><span class="ck">&#10003;</span> <strong>Atención bilingüe</strong> — inglés y español para toda la familia</li>
+          <li><span class="ck">&#10003;</span> <strong>Sin compromisos</strong> — esta visita es solo para conocer su condición</li>
+          <li><span class="ck">&#10003;</span> <strong>Aceptamos la mayoría de seguros</strong> — BCBS, UnitedHealthcare, Humana, Aetna y más</li>
+          <li><span class="ck">&#10003;</span> <strong>Resultados reales</strong> — más de 20 años ayudando a familias en San Antonio</li>
         </ul>
 
-        <div class="visit-info">
-          <h3>En su visita obtendra lo siguiente:</h3>
-          <ul class="benefits-list">
-            <li><span class="check">&#10003;</span> Consulta</li>
-            <li><span class="check">&#10003;</span> Examen</li>
-            <li><span class="check">&#10003;</span> Radiografias</li>
-            <li><span class="check">&#10003;</span> Primer Ajuste</li>
-            <li><span class="check">&#10003;</span> Reporte de Hallazgos</li>
+        <div class="visit-box">
+          <h3>SU VISITA INCLUYE TODO ESTO:</h3>
+          <ul class="check-list" style="margin:0;">
+            <li><span class="ck">&#10003;</span> Consulta con el Doctor</li>
+            <li><span class="ck">&#10003;</span> Examen Quiropráctico Completo</li>
+            <li><span class="ck">&#10003;</span> Radiografías</li>
+            <li><span class="ck">&#10003;</span> Primer Ajuste</li>
+            <li><span class="ck">&#10003;</span> Reporte de Hallazgos</li>
           </ul>
+        </div>
+
+        <div style="margin-top:28px;">
+          <a href="#formulario" class="cta-btn">&#128073; QUIERO MI OFERTA DE $47 AHORA</a>
+          <p class="cta-note">&#128274; Solo 30 cupones disponibles por mes para nuevos pacientes</p>
         </div>
       </div>
       <div class="hero-image">
-        <img src="/images/hero-dr-foss.webp" alt="Dr. Dan Foss - Pura Vida Chiropractic">
+        <img src="/images/hero-dr-foss.webp" alt="Dr. Dan Foss - Pura Vida Chiropractic San Antonio">
       </div>
     </div>
   </div>
 
-  <!-- Form -->
-  <!-- Welcome Video -->
-  <div style="max-width: 640px; margin: 0 auto; padding: 0 20px 10px;">
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.15);">
-      <iframe
-        src="https://www.youtube.com/embed/XWHe6AukR0E"
-        title="Bienvenido a Pura Vida Chiropractic - Dr. Dan Foss"
-        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen
-        loading="lazy">
-      </iframe>
+  <!-- ── VIDEO ── -->
+  <div style="background:#f7fafc; padding: 50px 24px;">
+    <p class="center serif" style="font-size:13px; font-weight:700; color:#146BA6; text-transform:uppercase; letter-spacing:2px; margin-bottom:10px;">Conozca al Dr. Dan Foss</p>
+    <h2 class="serif center" style="font-size:28px; margin-bottom:6px;">Bienvenido a Pura Vida Chiropractic</h2>
+    <div class="divider"></div>
+    <p class="center" style="font-size:16px; color:#555; max-width:600px; margin:0 auto 28px;">Descubra cómo el Protocolo Pura Vida ha ayudado a miles de familias en San Antonio a vivir sin dolor.</p>
+    <div style="max-width: 680px; margin: 0 auto;">
+      <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 10px; box-shadow: 0 6px 28px rgba(0,0,0,0.18);">
+        <iframe
+          src="https://www.youtube.com/embed/XWHe6AukR0E"
+          title="Bienvenido a Pura Vida Chiropractic - Dr. Dan Foss"
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen loading="lazy">
+        </iframe>
+      </div>
+    </div>
+    <div class="center" style="margin-top:30px;">
+      <a href="#formulario" class="cta-btn-inline">&#128073; VER OFERTA DE $47</a>
     </div>
   </div>
 
-  <div class="form-section">
-    <h2>Obten tu oferta quiropractica</h2>
-    <p class="subtitle">Solo daremos 30 de estos cupones a nuevos pacientes</p>
+  <!-- ── PAIN CONDITIONS ── -->
+  <div class="section">
+    <p class="section-label center">¿Le Duele?</p>
+    <h2 class="section-title center">Condiciones que Tratamos con Éxito</h2>
+    <div class="divider"></div>
+    <p class="section-sub center" style="margin:0 auto 10px;">Si usted sufre de alguna de estas condiciones, la quiropráctica avanzada puede ser la solución que ha estado buscando.</p>
+    <div class="pain-grid">
+      <div class="pain-item"><span style="font-size:20px;">&#128267;</span> Dolor de espalda baja</div>
+      <div class="pain-item"><span style="font-size:20px;">&#128267;</span> Dolor de cuello</div>
+      <div class="pain-item"><span style="font-size:20px;">&#128267;</span> Ciática</div>
+      <div class="pain-item"><span style="font-size:20px;">&#128267;</span> Dolores de cabeza y migrañas</div>
+      <div class="pain-item"><span style="font-size:20px;">&#128267;</span> Lesiones de accidente de auto</div>
+      <div class="pain-item"><span style="font-size:20px;">&#128267;</span> Hernia de disco</div>
+      <div class="pain-item"><span style="font-size:20px;">&#128267;</span> Escoliosis</div>
+      <div class="pain-item"><span style="font-size:20px;">&#128267;</span> Dolor de hombros y brazos</div>
+      <div class="pain-item"><span style="font-size:20px;">&#128267;</span> Artritis y rigidez articular</div>
+      <div class="pain-item"><span style="font-size:20px;">&#128267;</span> Fibromialgia</div>
+      <div class="pain-item"><span style="font-size:20px;">&#128267;</span> Dolor de rodilla y cadera</div>
+      <div class="pain-item"><span style="font-size:20px;">&#128267;</span> Problemas de mandíbula (ATM)</div>
+      <div class="pain-item"><span style="font-size:20px;">&#128267;</span> Neuropatía y entumecimiento</div>
+      <div class="pain-item"><span style="font-size:20px;">&#128267;</span> Problemas digestivos</div>
+      <div class="pain-item"><span style="font-size:20px;">&#128267;</span> Cólico infantil y torticolis</div>
+      <div class="pain-item"><span style="font-size:20px;">&#128267;</span> Dolor durante el embarazo</div>
+    </div>
+    <div class="center" style="margin-top:36px;">
+      <a href="#formulario" class="cta-btn-inline">&#128073; QUIERO ALIVIO — OFERTA $47</a>
+    </div>
+  </div>
 
+  <!-- ── BENEFITS OF CHIRO ── -->
+  <div class="section-alt">
+    <div class="section-inner">
+      <p class="section-label center">¿Por Qué Quiropráctica?</p>
+      <h2 class="section-title center">Los Beneficios de la Quiropráctica van Mucho Más Allá del Dolor</h2>
+      <div class="divider"></div>
+      <p class="section-sub center" style="margin:0 auto 10px;">La quiropráctica no es solo para el dolor de espalda. Cuando la columna está alineada correctamente, todo el sistema nervioso funciona mejor — y eso significa mejor salud en todo el cuerpo.</p>
+      <div class="grid-3">
+        <div class="card">
+          <div class="card-icon">&#129504;</div>
+          <h3>Alivia el Dolor Naturalmente</h3>
+          <p>Sin medicamentos, sin cirugía. Los ajustes quiroprácticos reducen la inflamación y restauran la función nerviosa para aliviar el dolor desde la raíz, no solo los síntomas.</p>
+        </div>
+        <div class="card">
+          <div class="card-icon">&#9889;</div>
+          <h3>Más Energía y Vitalidad</h3>
+          <p>Cuando los nervios están libres de interferencia espinal, el cuerpo funciona con más eficiencia. Muchos pacientes reportan más energía, mejor sueño y mayor claridad mental.</p>
+        </div>
+        <div class="card">
+          <div class="card-icon">&#127945;</div>
+          <h3>Mayor Movilidad y Flexibilidad</h3>
+          <p>Los ajustes restauran el rango de movimiento natural en la columna y las articulaciones. Vuelva a hacer las actividades que más disfruta sin restricción ni dolor.</p>
+        </div>
+        <div class="card">
+          <div class="card-icon">&#129309;</div>
+          <h3>Ideal para Toda la Familia</h3>
+          <p>Desde bebés hasta adultos mayores, la quiropráctica es segura y efectiva para todas las edades. Tratamos niños con cólico, madres embarazadas y personas de la tercera edad.</p>
+        </div>
+        <div class="card">
+          <div class="card-icon">&#128170;</div>
+          <h3>Sistema Inmune Más Fuerte</h3>
+          <p>El sistema nervioso y el sistema inmune están directamente conectados. Al reducir la interferencia nerviosa, la quiropráctica puede mejorar la respuesta inmunológica del cuerpo.</p>
+        </div>
+        <div class="card">
+          <div class="card-icon">&#128203;</div>
+          <h3>Tratamiento de la Causa Raíz</h3>
+          <p>Los medicamentos enmascaran el dolor. La quiropráctica busca y corrige la causa real del problema — subluxaciones vertebrales que interfieren con la comunicación nerviosa.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── WHAT IS SOT ── -->
+  <div class="section">
+    <p class="section-label">Lo Que Nos Hace Diferentes</p>
+    <h2 class="section-title">La Técnica SOT — Quiropráctica Avanzada para Todo el Cuerpo</h2>
+    <div class="divider" style="margin-left:0;"></div>
+    <div class="sot-layout">
+      <div class="sot-text">
+        <p style="font-size:17px; margin-bottom:18px;">La mayoría de quiroprácticos solo ajustan la columna. El Dr. Dan Foss utiliza la <strong>Técnica Sacro-Occipital (SOT)</strong> — un sistema quiropráctico completo y avanzado que trata el cuerpo como un sistema integrado.</p>
+        <p style="margin-bottom:18px;">La SOT fue desarrollada en los años 1920s por el Dr. Major Bertrand DeJarnette, un médico y quiropráctico que descubrió que la pelvis y el hueso occipital (base del cráneo) funcionan juntos como los extremos de un sistema de bombeo del líquido cefalorraquídeo.</p>
+        <p style="margin-bottom:18px;">Cuando este sistema se desequilibra, el resultado puede ser dolor de espalda, dolores de cabeza, problemas digestivos, fatiga crónica y mucho más. La SOT utiliza técnicas suaves, categorizadas, para restaurar el equilibrio de todo el sistema nervioso.</p>
+        <p style="margin-bottom:24px;"><strong>El Dr. Foss tiene certificación avanzada en SOT</strong> — una de las pocas certificaciones de este nivel disponibles en San Antonio, TX.</p>
+        <a href="#formulario" class="cta-btn-inline">&#128073; PROBAR SOT POR $47</a>
+      </div>
+      <div class="sot-pillars">
+        <div class="pillar">
+          <div class="pillar-icon">&#129460;</div>
+          <div>
+            <h4>Pilar 1: La Columna &amp; Pelvis (SOT)</h4>
+            <p>Corrección de subluxaciones vertebrales y pelvianas usando un sistema de categorías para tratar la causa real del dolor estructural.</p>
+          </div>
+        </div>
+        <div class="pillar">
+          <div class="pillar-icon">&#129491;</div>
+          <div>
+            <h4>Pilar 2: Los Órganos (CMRT)</h4>
+            <p>La Terapia de Reflejo Músculo-Meningeo-Órgano (CMRT) trata la conexión entre los órganos internos y la columna — ideal para problemas digestivos, hormonales y más.</p>
+          </div>
+        </div>
+        <div class="pillar">
+          <div class="pillar-icon">&#129504;</div>
+          <div>
+            <h4>Pilar 3: El Cráneo (Craniopática)</h4>
+            <p>Los huesos del cráneo tienen un movimiento sutil. Los ajustes craneales tratan dolores de cabeza, ATM, problemas de senos nasales y desbalances neurológicos.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── STATS ── -->
+  <div class="section-dark">
+    <div class="stats-bar">
+      <div class="stat-item">
+        <div class="stat-num">20+</div>
+        <div class="stat-label">Años sirviendo a San Antonio</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-num">5,000+</div>
+        <div class="stat-label">Pacientes atendidos</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-num">Bilingüe</div>
+        <div class="stat-label">Inglés y Español</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-num">$47</div>
+        <div class="stat-label">Oferta especial (valor $280)</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── DR. FOSS BIO ── -->
+  <div class="section-alt">
+    <div class="section-inner">
+      <p class="section-label center">Su Doctor</p>
+      <h2 class="section-title center">Conozca al Dr. Dan Foss, DC</h2>
+      <div class="divider"></div>
+      <div class="bio-layout">
+        <div class="bio-photo">
+          <img src="/images/hero-dr-foss.webp" alt="Dr. Dan Foss - Pura Vida Chiropractic">
+        </div>
+        <div class="bio-content">
+          <p style="font-size:17px; margin-bottom:16px;">El Dr. Dan Foss es el fundador de Pura Vida Chiropractic y lleva más de 20 años ayudando a familias de San Antonio a recuperar su salud de forma natural.</p>
+          <p style="margin-bottom:16px;">Su camino a la quiropráctica comenzó con algo muy personal. Su propio hijo nació con torticolis — una condición que gira el cuello del bebé hacia un lado. Los médicos convencionales no tenían solución permanente. La quiropráctica lo curó. Ese momento cambió todo.</p>
+          <p style="margin-bottom:20px;">El Dr. Foss buscó la mejor formación disponible y encontró la <strong>Técnica Sacro-Occipital (SOT)</strong>, una forma de quiropráctica que trata el cuerpo como un sistema completo. Hoy tiene certificación avanzada en SOT, CMRT y craniopática — una combinación raramente disponible en Texas.</p>
+          <ul class="credential-list">
+            <li><span class="ck">&#10003;</span> Doctor en Quiropráctica (DC)</li>
+            <li><span class="ck">&#10003;</span> Certificación Avanzada en SOT (SOTO Americas)</li>
+            <li><span class="ck">&#10003;</span> Certificación en CMRT (Terapia Refleja de Órganos)</li>
+            <li><span class="ck">&#10003;</span> Certificación en Ajuste Craneal</li>
+            <li><span class="ck">&#10003;</span> Quiropráctico Pediátrico y Prenatal</li>
+            <li><span class="ck">&#10003;</span> Más de 20 años en práctica privada en San Antonio</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── WHAT HAPPENS AT VISIT ── -->
+  <div class="section">
+    <p class="section-label center">Su Primera Visita</p>
+    <h2 class="section-title center">¿Qué Pasa en su Cita de $47?</h2>
+    <div class="divider"></div>
+    <p style="text-align:center; color:#555; max-width:620px; margin: 0 auto 10px;">No hay sorpresas. Aquí está exactamente lo que ocurre en su primera visita con el Dr. Foss:</p>
+    <div class="steps">
+      <div class="step-item">
+        <div class="step-num">1</div>
+        <h4>Consulta</h4>
+        <p>El doctor escucha su historia completa — dónde duele, cuándo empezó, qué lo empeora. Sin prisas.</p>
+      </div>
+      <div class="step-item">
+        <div class="step-num">2</div>
+        <h4>Examen Completo</h4>
+        <p>Evaluación postural, neurológica y ortopédica para identificar la causa raíz de su dolor.</p>
+      </div>
+      <div class="step-item">
+        <div class="step-num">3</div>
+        <h4>Radiografías</h4>
+        <p>Tomamos rayos X para ver exactamente el estado de su columna — algo que muchos quiroprácticos no hacen.</p>
+      </div>
+      <div class="step-item">
+        <div class="step-num">4</div>
+        <h4>Primer Ajuste + Reporte</h4>
+        <p>Su primer ajuste quiropráctico ese mismo día, más un reporte detallado de hallazgos en su segunda visita.</p>
+      </div>
+    </div>
+    <div class="center" style="margin-top:40px;">
+      <a href="#formulario" class="cta-btn-inline">&#128073; RESERVAR MI VISITA POR $47</a>
+      <p style="font-size:13px; color:#888; margin-top:10px;">Lunes, Martes y Jueves · 7:00am – 4:00pm</p>
+    </div>
+  </div>
+
+  <!-- ── TESTIMONIALS ── -->
+  <div class="section-alt">
+    <div class="section-inner">
+      <p class="section-label center">Lo Que Dicen Nuestros Pacientes</p>
+      <h2 class="section-title center">Historias Reales de Alivio Real</h2>
+      <div class="divider"></div>
+      <div class="testimonials">
+        <div class="tcard">
+          <div class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+          <p>"Llevaba 3 años con dolor de espalda. Fui a varios médicos y ninguno me ayudó. El Dr. Foss encontró el problema en la primera visita. En 6 semanas ya no tenía dolor. ¡Lo recomiendo a todos!"</p>
+          <div class="name">— María G., San Antonio TX</div>
+        </div>
+        <div class="tcard">
+          <div class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+          <p>"Mi hijo tenía cólico y no dormía. Un amigo nos recomendó al Dr. Foss. Después de 3 visitas, mi bebé cambió completamente. Duerme bien, come bien. No puedo creerlo todavía."</p>
+          <div class="name">— Roberto M., San Antonio TX</div>
+        </div>
+        <div class="tcard">
+          <div class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+          <p>"Tuve un accidente de auto y quedé con dolor de cuello horrible. El Dr. Foss me trató con la técnica SOT y fue algo diferente a todo lo que había probado. Muy recomendado."</p>
+          <div class="name">— Ana L., San Antonio TX</div>
+        </div>
+        <div class="tcard">
+          <div class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+          <p>"Sufría de migrañas desde los 20 años. Probé todo. El Dr. Foss me explicó que venían del cráneo y la columna. Con los ajustes craneales, mis migrañas bajaron 90%. ¡Increíble!"</p>
+          <div class="name">— Carmen R., San Antonio TX</div>
+        </div>
+        <div class="tcard">
+          <div class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+          <p>"El ambiente es muy familiar. Hablan español, explican todo, nunca te apuran. El Dr. Foss es muy profesional y genuinamente se preocupa por sus pacientes. Toda mi familia viene aquí."</p>
+          <div class="name">— Jorge H., San Antonio TX</div>
+        </div>
+        <div class="tcard">
+          <div class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+          <p>"Estaba embarazada con dolor de cadera terrible. Me dijeron que era normal. El Dr. Foss me ajustó con técnicas especiales para el embarazo. En 2 semanas el dolor desapareció. Gracias."</p>
+          <div class="name">— Laura V., San Antonio TX</div>
+        </div>
+      </div>
+      <div class="center" style="margin-top:36px;">
+        <a href="#formulario" class="cta-btn-inline">&#128073; QUIERO RESULTADOS ASÍ — $47</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── WHO IS IT FOR ── -->
+  <div class="section">
+    <p class="section-label center">¿Para Quién Es Esta Oferta?</p>
+    <h2 class="section-title center">Pura Vida Chiropractic es Para Usted Si...</h2>
+    <div class="divider"></div>
+    <div class="grid-2">
+      <ul class="check-list">
+        <li><span class="ck">&#10003;</span> Ha tenido dolor por semanas, meses o años y nada lo ha aliviado permanentemente</li>
+        <li><span class="ck">&#10003;</span> Toma pastillas para el dolor constantemente y quiere una solución natural</li>
+        <li><span class="ck">&#10003;</span> Tuvo un accidente de auto y tiene dolor de cuello, espalda o cabeza</li>
+        <li><span class="ck">&#10003;</span> Sufre de dolores de cabeza frecuentes o migrañas</li>
+        <li><span class="ck">&#10003;</span> Siente entumecimiento u hormigueo en brazos o piernas</li>
+        <li><span class="ck">&#10003;</span> Tiene escoliosis, hernia de disco o problemas posturales</li>
+      </ul>
+      <ul class="check-list">
+        <li><span class="ck">&#10003;</span> Quiere llevar a su hijo(a) con un quiropráctico pediátrico de confianza</li>
+        <li><span class="ck">&#10003;</span> Está embarazada y quiere alivio del dolor de espalda o cadera</li>
+        <li><span class="ck">&#10003;</span> Le dijeron que necesita cirugía y quiere explorar opciones naturales primero</li>
+        <li><span class="ck">&#10003;</span> Quiere un doctor que hable español y entienda su cultura</li>
+        <li><span class="ck">&#10003;</span> Busca bienestar a largo plazo, no solo un alivio temporal</li>
+        <li><span class="ck">&#10003;</span> Quiere saber exactamente qué está pasando con su columna</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- ── FAQ ── -->
+  <div class="section-alt">
+    <div class="section-inner">
+      <p class="section-label center">Preguntas Frecuentes</p>
+      <h2 class="section-title center">Respondemos Sus Dudas</h2>
+      <div class="divider"></div>
+      <div class="faq-list">
+        <div class="faq-item">
+          <p class="faq-q">&#10067; ¿La quiropráctica duele?</p>
+          <p class="faq-a">La mayoría de los pacientes sienten alivio inmediato después del ajuste. Algunos sienten un poco de rigidez el primer día, similar a después de ejercitarse. La técnica SOT que utiliza el Dr. Foss es especialmente suave — no hay crujidos forzados ni movimientos bruscos.</p>
+        </div>
+        <div class="faq-item">
+          <p class="faq-q">&#10067; ¿Cuántas visitas voy a necesitar?</p>
+          <p class="faq-a">Depende completamente de su condición. En la primera visita, el Dr. Foss evaluará su columna con examen y radiografías y le dará un plan de tratamiento honesto y personalizado. Esta oferta de $47 no es un compromiso para comprar un paquete — es solo para que el doctor pueda ver su condición.</p>
+        </div>
+        <div class="faq-item">
+          <p class="faq-q">&#10067; ¿Aceptan mi seguro médico?</p>
+          <p class="faq-a">Sí. Pura Vida Chiropractic acepta la mayoría de los planes de seguro médico, incluyendo Blue Cross Blue Shield de Texas, UnitedHealthcare, Humana, Aetna, Ambetter, Oscar Health, Community First y Molina Healthcare. Si tiene preguntas sobre su seguro específico, llámenos al (210) 685-1994.</p>
+        </div>
+        <div class="faq-item">
+          <p class="faq-q">&#10067; ¿Qué hace el Dr. Foss diferente a otros quiroprácticos?</p>
+          <p class="faq-a">El Dr. Foss tiene certificación avanzada en SOT, CMRT y craniopática — una combinación muy rara. Esto le permite tratar no solo la columna, sino también los órganos internos y el cráneo. Muchos pacientes que no respondieron a quiropráctica convencional encuentran alivio con el Protocolo Pura Vida.</p>
+        </div>
+        <div class="faq-item">
+          <p class="faq-q">&#10067; ¿Es seguro llevar a mi bebé o niño?</p>
+          <p class="faq-a">Absolutamente. El Dr. Foss tiene entrenamiento especializado en quiropráctica pediátrica. Los ajustes para bebés y niños son extremadamente suaves — similares a la presión que usaría para revisar la madurez de un tomate. Ha tratado exitosamente cólico, torticolis, infecciones de oído y problemas de desarrollo.</p>
+        </div>
+        <div class="faq-item">
+          <p class="faq-q">&#10067; ¿Puedo ir si estoy embarazada?</p>
+          <p class="faq-a">Sí, y es muy recomendable. El Dr. Foss está certificado en quiropráctica prenatal y utiliza técnicas especiales seguras durante el embarazo. Muchas mujeres reportan alivio del dolor de espalda, ciática y dolores de cadera durante el embarazo con ajustes regulares.</p>
+        </div>
+        <div class="faq-item">
+          <p class="faq-q">&#10067; ¿Dónde están ubicados?</p>
+          <p class="faq-a">Estamos ubicados en 2318 NW Military Hwy, Suite 103, San Antonio, TX 78231. Atendemos Lunes, Martes y Jueves de 7:00am a 4:00pm. Llámenos al (210) 685-1994 para cualquier pregunta.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── OFFER SUMMARY ── -->
+  <div style="background: #212934; padding: 60px 24px;">
+    <div class="offer-box">
+      <p style="font-size:13px; font-weight:700; color:#fb8e28; text-transform:uppercase; letter-spacing:2px; margin-bottom:8px;">Oferta Especial para Nuevos Pacientes</p>
+      <h2 class="serif">Todo Esto por Solo:</h2>
+      <div class="price-display">$47</div>
+      <div class="price-was">Valor regular: $280</div>
+      <ul class="offer-items">
+        <li><span class="ck">&#10003;</span> Consulta con el Dr. Dan Foss</li>
+        <li><span class="ck">&#10003;</span> Examen Quiropráctico Completo</li>
+        <li><span class="ck">&#10003;</span> Radiografías</li>
+        <li><span class="ck">&#10003;</span> Primer Ajuste</li>
+        <li><span class="ck">&#10003;</span> Reporte de Hallazgos</li>
+      </ul>
+      <p style="font-size:14px; color:#555; margin-bottom:20px;">&#128274; Sin compromisos. Sin presiones. Solo descubra la causa raíz de su dolor.</p>
+      <a href="#formulario" class="cta-btn" style="max-width:400px; margin:0 auto;">&#128073; QUIERO ESTA OFERTA AHORA</a>
+      <p class="cta-note">Solo 30 cupones disponibles por mes · Lun · Mar · Jue 7am–4pm</p>
+    </div>
+  </div>
+
+  <!-- ── FORM ── -->
+  <div id="formulario" style="background: #f7fafc; padding: 60px 24px 10px;">
+    <p class="center serif" style="font-size:13px; font-weight:700; color:#146BA6; text-transform:uppercase; letter-spacing:2px; margin-bottom:10px;">Paso 1 de 3</p>
+    <h2 class="serif center" style="font-size:28px; margin-bottom:6px;">Reclame su Oferta de $47</h2>
+    <div class="divider"></div>
+    <p class="center" style="color:#555; font-size:15px; margin-bottom:30px;">Complete el formulario y le contactaremos para confirmar su cita.</p>
+  </div>
+  <div class="form-wrap">
     <form id="leadForm" action="paso-2-cuestionario.html" method="GET">
       <div class="form-group">
         <label for="firstName">Nombre</label>
-        <input type="text" id="firstName" name="firstName" placeholder="Tu Nombre" required>
+        <input type="text" id="firstName" name="firstName" placeholder="Su Nombre" required>
       </div>
       <div class="form-group">
         <label for="lastName">Apellido</label>
-        <input type="text" id="lastName" name="lastName" placeholder="Tu Apellido" required>
+        <input type="text" id="lastName" name="lastName" placeholder="Su Apellido" required>
       </div>
       <div class="form-group">
-        <label for="phone">Telefono</label>
+        <label for="phone">Teléfono</label>
         <div class="phone-row">
           <div class="country-code">
             <select name="countryCode">
@@ -180,26 +641,26 @@
             </select>
           </div>
           <div class="phone-input">
-            <input type="tel" id="phone" name="phone" placeholder="Tu Numero Movil" required>
+            <input type="tel" id="phone" name="phone" placeholder="(000) 000-0000" required>
           </div>
         </div>
       </div>
       <div class="form-group">
-        <label for="email">Email</label>
-        <input type="email" id="email" name="email" placeholder="Tu Email" required>
+        <label for="email">Correo Electrónico</label>
+        <input type="email" id="email" name="email" placeholder="su@email.com" required>
       </div>
       <div class="form-group">
-        <label for="reason">Cual es la razon de tu visita?</label>
-        <textarea id="reason" name="reason" rows="3" placeholder="Describe brevemente tu dolor o condicion..."></textarea>
+        <label for="reason">¿Cuál es la razón de su visita?</label>
+        <textarea id="reason" name="reason" rows="3" placeholder="Describa brevemente su dolor o condición..."></textarea>
       </div>
-      <button type="submit" class="submit-btn">ENVIAR &#8594;</button>
-      <p class="limited">&#9200; Solo quedan pocos cupones disponibles</p>
+      <button type="submit" class="submit-btn">ENVIAR Y VER SIGUIENTE PASO &#8594;</button>
+      <p class="limited">&#9200; Solo quedan pocos cupones disponibles este mes</p>
     </form>
   </div>
 
-  <!-- Timer -->
+  <!-- ── TIMER ── -->
   <div class="timer-section">
-    <h3>OFERTA EXPIRA EN</h3>
+    <h3>Esta Oferta Expira En:</h3>
     <div class="timer">
       <div class="timer-unit">
         <div class="timer-value" id="hours">0</div>
@@ -216,15 +677,15 @@
     </div>
   </div>
 
-  <!-- Footer -->
-  <div class="footer-section">
-    <h3>Nos encontramos en:</h3>
-    <p class="address"><strong>Pura Vida Chiropractic</strong><br>2318 NW Military Hwy, Suite 103, San Antonio, TX 78231</p>
+  <!-- ── FOOTER ── -->
+  <div class="page-footer">
+    <h3>Visítenos en San Antonio</h3>
+    <p class="address"><strong>Pura Vida Chiropractic</strong><br>2318 NW Military Hwy, Suite 103, San Antonio, TX 78231<br><strong>Tel:</strong> (210) 685-1994 &nbsp;|&nbsp; <strong>Horario:</strong> Lun · Mar · Jue · 7:00am – 4:00pm</p>
     <div class="map-container">
       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8255.63947616465!2d-98.53401487399606!3d29.54349005031803!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x865c60228a927bef%3A0x1c1e96c3d09ddb87!2sPura%20Vida%20Chiropractic!5e0!3m2!1ses!2sus" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
     </div>
     <p class="disclaimer">Debido a las pautas federales, los participantes en los planes de reemplazo de Medicare y Medicaid no son elegibles para ofertas gratuitas o con descuento.</p>
-    <p class="copyright">Copyright 2025 - Pura Vida Chiropractic</p>
+    <p class="copyright">Copyright 2025 - Pura Vida Chiropractic · San Antonio, TX</p>
   </div>
 
   <script>
@@ -235,12 +696,9 @@
       const m = Math.floor((totalSeconds % 3600) / 60);
       const s = totalSeconds % 60;
       document.getElementById('hours').textContent = h;
-      document.getElementById('minutes').textContent = m;
-      document.getElementById('seconds').textContent = s;
-      if (totalSeconds > 0) {
-        totalSeconds--;
-        setTimeout(updateTimer, 1000);
-      }
+      document.getElementById('minutes').textContent = String(m).padStart(2,'0');
+      document.getElementById('seconds').textContent = String(s).padStart(2,'0');
+      if (totalSeconds > 0) { totalSeconds--; setTimeout(updateTimer, 1000); }
     }
     updateTimer();
 
@@ -257,15 +715,11 @@
         Razon_de_visita: form.reason.value,
         _template: 'table'
       };
-
-      // Send email in background via Formsubmit.co
       fetch('https://formsubmit.co/ajax/dfossdc@gmail.com', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
         body: JSON.stringify(data)
-      }).catch(function() {}); // silently fail if email service is down
-
-      // Redirect to paso 2 immediately (don't wait for email)
+      }).catch(function() {});
       window.location.href = 'paso-2-cuestionario.html?firstName=' + encodeURIComponent(form.firstName.value) +
         '&lastName=' + encodeURIComponent(form.lastName.value) +
         '&phone=' + encodeURIComponent(form.countryCode.value + ' ' + form.phone.value) +
