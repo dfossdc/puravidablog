@@ -229,6 +229,34 @@
       }
     }
     updateTimer();
+
+    // Email notification on form submit
+    document.getElementById('leadForm').addEventListener('submit', function(e) {
+      e.preventDefault();
+      const form = e.target;
+      const data = {
+        _subject: 'Nuevo Lead - Funnel Pura Vida (Paso 1)',
+        Nombre: form.firstName.value,
+        Apellido: form.lastName.value,
+        Telefono: form.countryCode.value + ' ' + form.phone.value,
+        Email: form.email.value,
+        Razon_de_visita: form.reason.value,
+        _template: 'table'
+      };
+
+      // Send email in background via Formsubmit.co
+      fetch('https://formsubmit.co/ajax/dfossdc@gmail.com', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+        body: JSON.stringify(data)
+      }).catch(function() {}); // silently fail if email service is down
+
+      // Redirect to paso 2 immediately (don't wait for email)
+      window.location.href = 'paso-2-cuestionario.html?firstName=' + encodeURIComponent(form.firstName.value) +
+        '&lastName=' + encodeURIComponent(form.lastName.value) +
+        '&phone=' + encodeURIComponent(form.countryCode.value + ' ' + form.phone.value) +
+        '&email=' + encodeURIComponent(form.email.value);
+    });
   </script>
 
 </body>

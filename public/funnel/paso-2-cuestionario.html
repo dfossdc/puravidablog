@@ -532,6 +532,64 @@
 
     // Initialize
     updateProgress();
+
+    // Email notification on questionnaire submit
+    document.getElementById('quizForm').addEventListener('submit', function(e) {
+      e.preventDefault();
+      const form = e.target;
+
+      // Gather all answers
+      const painLevel = form.nivel_dolor.value || 'N/A';
+      const ubicacion = form.ubicacion_dolor?.value || 'N/A';
+      const ubicacionOtro = form.ubicacion_dolor_otro?.value || '';
+      const duracion = form.duracion_dolor?.value || 'N/A';
+      const duracionOtro = form.duracion_dolor_otro?.value || '';
+      const causa = form.causa?.value || 'N/A';
+      const causaOtro = form.causa_otro?.value || '';
+
+      // Checkboxes for areas affected
+      const areasChecked = [];
+      form.querySelectorAll('input[name="areas_afectadas"]:checked').forEach(function(cb) {
+        areasChecked.push(cb.value);
+      });
+      const areasOtro = form.areas_afectadas_otro?.value || '';
+
+      const compromiso = form.compromiso?.value || 'N/A';
+      const nombre = form.nombre?.value || 'N/A';
+      const apellido = form.apellido?.value || 'N/A';
+      const email = form.email?.value || 'N/A';
+      const telefono = form.telefono?.value || 'N/A';
+      const reconoceDireccion = form.reconoce_direccion?.value || 'N/A';
+      const reconoceOferta = form.reconoce_oferta?.value || 'N/A';
+      const reconoceCita = form.reconoce_cita?.value || 'N/A';
+
+      const data = {
+        _subject: 'Cuestionario Completado - Funnel Pura Vida (Paso 2)',
+        Nombre: nombre + ' ' + apellido,
+        Email: email,
+        Telefono: telefono,
+        Nivel_de_dolor: painLevel + '/10',
+        Ubicacion_del_dolor: ubicacion + (ubicacionOtro ? ' - ' + ubicacionOtro : ''),
+        Duracion_del_dolor: duracion + (duracionOtro ? ' - ' + duracionOtro : ''),
+        Como_comenzo: causa + (causaOtro ? ' - ' + causaOtro : ''),
+        Areas_afectadas: areasChecked.join(', ') + (areasOtro ? ', ' + areasOtro : ''),
+        Compromiso: compromiso,
+        Reconoce_direccion: reconoceDireccion,
+        Reconoce_oferta: reconoceOferta,
+        Reconoce_cita: reconoceCita,
+        _template: 'table'
+      };
+
+      // Send email in background via Formsubmit.co
+      fetch('https://formsubmit.co/ajax/dfossdc@gmail.com', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+        body: JSON.stringify(data)
+      }).catch(function() {});
+
+      // Redirect to paso 3 immediately
+      window.location.href = 'paso-3-reservar.html';
+    });
   </script>
 
 </body>
