@@ -21,55 +21,93 @@
     h1 { font-family: 'Times New Roman', Times, serif; font-weight: 700; font-size: 32px; line-height: 1.25; color: #212934; margin-bottom: 10px; }
     .subtitle { color: #212934; font-size: 16px; margin-bottom: 30px; }
 
+    /* Thank You Banner */
+    .thank-you-banner {
+      background: #146BA6; color: #ffffff; border-radius: 6px; padding: 30px;
+      text-align: center; margin-bottom: 30px;
+      box-shadow: 0 0 20px rgba(1, 1, 1, 0.25);
+    }
+    .thank-you-banner h2 {
+      font-family: 'Times New Roman', Times, serif; font-weight: 700;
+      font-size: 26px; margin-bottom: 8px;
+    }
+    .thank-you-banner p { font-size: 16px; opacity: 0.95; }
+
+    /* Call Now Card */
+    .call-card {
+      background: #ffffff; border-radius: 6px; padding: 40px;
+      box-shadow: 0 0 20px rgba(1, 1, 1, 0.25); text-align: center;
+      position: relative;
+    }
+    .call-card::before {
+      content: ''; position: absolute; top: -6px; left: 20px; right: 20px;
+      height: 6px; background: #fb8e28; border-radius: 6px 6px 0 0;
+    }
+    .call-card h3 {
+      font-family: 'Times New Roman', Times, serif; font-weight: 700;
+      font-size: 22px; color: #212934; margin-bottom: 12px; line-height: 1.35;
+    }
+    .call-card .call-subtitle { color: #212934; font-size: 15px; margin-bottom: 25px; }
+
+    .call-btn {
+      display: inline-flex; align-items: center; gap: 12px; padding: 18px 50px;
+      background: #fb8e28; color: #ffffff; border-radius: 6px; font-size: 22px;
+      font-weight: 700; font-family: 'Lato', 'Helvetica Neue', Arial, sans-serif;
+      text-decoration: none; transition: background 0.2s; margin-bottom: 20px;
+    }
+    .call-btn:hover { background: #e07a18; }
+    .call-btn .phone-icon { font-size: 26px; }
+
+    .hours-info {
+      background: #f4f4f4; border-radius: 6px; padding: 16px 20px;
+      margin: 20px auto 0; max-width: 500px;
+    }
+    .hours-info h4 {
+      font-family: 'Times New Roman', Times, serif; font-weight: 700;
+      font-size: 14px; color: #146BA6; margin-bottom: 6px;
+    }
+    .hours-info p { font-size: 14px; color: #212934; }
+
+    .voicemail-note {
+      font-size: 13px; color: #212934; margin-top: 15px; font-style: italic;
+    }
+
+    /* Urgency Message */
+    .urgency-box {
+      background: #fff8f0; border: 2px solid #fb8e28; border-radius: 6px;
+      padding: 25px; margin: 30px 0; text-align: center;
+    }
+    .urgency-box p { font-size: 15px; color: #212934; margin-bottom: 8px; }
+    .urgency-box .value-line {
+      font-size: 17px; font-weight: 700; color: #212934;
+    }
+    .urgency-box .value-line .original { text-decoration: line-through; color: #c0392b; }
+    .urgency-box .value-line .offer { color: #146BA6; font-size: 24px; }
+    .urgency-box .urgency-cta {
+      font-size: 16px; font-weight: 700; color: #fb8e28; margin-top: 10px;
+    }
+
+    /* OR Divider */
+    .or-divider { text-align: center; margin: 35px 0; position: relative; }
+    .or-divider::before { content: ''; position: absolute; top: 50%; left: 0; right: 0; height: 1px; background: #dde6ec; }
+    .or-divider span {
+      background: #ffffff; padding: 0 20px; position: relative;
+      color: #212934; font-weight: 700; font-size: 16px;
+    }
+
     /* Booking Card */
     .booking-card {
       background: #ffffff; border-radius: 6px; padding: 0;
-      box-shadow: 0 0 20px rgba(1, 1, 1, 0.25);
-      overflow: hidden;
+      box-shadow: 0 0 20px rgba(1, 1, 1, 0.25); overflow: hidden;
     }
     .booking-header {
       background: #146BA6; color: #ffffff; padding: 20px 30px;
       display: flex; align-items: center; gap: 15px;
     }
     .booking-header .icon { font-size: 28px; }
-    .booking-header h2 { font-family: 'Times New Roman', Times, serif; font-weight: 700; font-size: 20px; }
+    .booking-header h2 { font-family: 'Times New Roman', Times, serif; font-weight: 700; font-size: 20px; color: #ffffff; }
     .booking-header p { font-size: 14px; opacity: 0.9; }
-
     .booking-body { padding: 30px; }
-
-    /* Schedulista embed placeholder */
-    .schedulista-embed {
-      min-height: 500px; border: 2px dashed #dde6ec; border-radius: 6px;
-      display: flex; align-items: center; justify-content: center;
-      flex-direction: column; gap: 15px; padding: 40px; text-align: center;
-      background: #f4f4f4;
-    }
-    .schedulista-embed .embed-icon { font-size: 48px; color: #146BA6; }
-    .schedulista-embed h3 { font-family: 'Times New Roman', Times, serif; font-weight: 700; font-size: 18px; color: #212934; }
-    .schedulista-embed p { color: #212934; font-size: 14px; max-width: 400px; }
-    .schedulista-embed code {
-      background: #f4f4f4; color: #146BA6; padding: 8px 16px;
-      border-radius: 6px; font-size: 13px; word-break: break-all;
-    }
-
-    /* OR Call Section */
-    .or-divider { text-align: center; margin: 30px 0; position: relative; }
-    .or-divider::before { content: ''; position: absolute; top: 50%; left: 0; right: 0; height: 1px; background: #dde6ec; }
-    .or-divider span { background: #ffffff; padding: 0 20px; position: relative; color: #212934; font-weight: 700; }
-
-    .call-section {
-      background: #ffffff; border-radius: 6px; padding: 30px;
-      box-shadow: 0 0 20px rgba(1, 1, 1, 0.25); text-align: center;
-    }
-    .call-section h3 { font-family: 'Times New Roman', Times, serif; font-weight: 700; font-size: 20px; color: #212934; margin-bottom: 10px; }
-    .call-section p { color: #212934; margin-bottom: 15px; }
-    .call-btn {
-      display: inline-flex; align-items: center; gap: 10px; padding: 16px 40px;
-      background: #32373c; color: #ffffff; border-radius: 6px; font-size: 20px;
-      font-weight: 700; font-family: 'Lato', 'Helvetica Neue', Arial, sans-serif; text-decoration: none;
-      transition: background 0.2s;
-    }
-    .call-btn:hover { background: #1e2226; }
 
     /* Info Cards */
     .info-row { display: flex; gap: 20px; margin-top: 30px; }
@@ -87,8 +125,10 @@
 
     @media (max-width: 768px) {
       h1 { font-size: 26px; }
+      .call-btn { padding: 16px 30px; font-size: 18px; }
       .info-row { flex-direction: column; }
       .booking-body { padding: 20px; }
+      .call-card { padding: 30px 20px; }
     }
   </style>
 </head>
@@ -103,8 +143,46 @@
 
   <div class="main">
     <div class="step-label">PASO 3</div>
-    <h1>Haz una cita</h1>
-    <p class="subtitle">Seleccione el dia y hora que mejor le convenga para su cita.</p>
+    <h1>Agende su cita y active su oferta</h1>
+
+    <!-- Thank You Banner -->
+    <div class="thank-you-banner">
+      <h2>&#10003; Gracias por completar su cuestionario!</h2>
+      <p>Solo falta un paso mas para activar su oferta de descuento.</p>
+    </div>
+
+    <!-- Call Now Card -->
+    <div class="call-card">
+      <h3>Llame a nuestra oficina durante nuestros horarios de atencion para agendar su cita y activar la oferta</h3>
+      <p class="call-subtitle">Nuestro equipo le ayudara a encontrar la mejor hora para su cita.</p>
+
+      <a href="tel:+12106851994" class="call-btn">
+        <span class="phone-icon">&#9742;</span>
+        (210) 685-1994
+      </a>
+      <br>
+      <span style="font-size: 15px; font-weight: 700; color: #146BA6;">&#9757; PRESIONE AQUI PARA LLAMAR AHORA</span>
+
+      <div class="hours-info">
+        <h4>Nuestros horarios de atencion:</h4>
+        <p>Lunes a Viernes: 9:00am - 12:00pm &amp; 2:00pm - 6:00pm</p>
+        <p>Sabado: Con cita previa</p>
+      </div>
+
+      <p class="voicemail-note">Si llama fuera de nuestros horarios de servicio, por favor deje un mensaje y le regresaremos la llamada lo mas pronto posible.</p>
+    </div>
+
+    <!-- Urgency Box -->
+    <div class="urgency-box">
+      <p>No se olvide de llamarnos para agendar su cita lo mas pronto posible y asegurar su oferta, de lo contrario otro paciente la podria tomar.</p>
+      <p class="value-line">
+        Esta cita de consulta, examenes y primer tratamiento tiene un valor de <span class="original">$280</span> pero usted pagara solo <span class="offer">$47!</span>
+      </p>
+      <p class="urgency-cta">&#9200; Llamenos lo mas pronto posible!</p>
+    </div>
+
+    <!-- OR Divider -->
+    <div class="or-divider"><span>O RESERVE EN LINEA</span></div>
 
     <!-- Booking Widget -->
     <div class="booking-card">
@@ -116,24 +194,13 @@
         </div>
       </div>
       <div class="booking-body">
-
         <iframe
           src="https://www.schedulista.com/schedule/puravidachiropractic/d25j2-6piid"
           style="width: 100%; min-height: 600px; border: none; border-radius: 6px;"
           title="Reservar Cita - Pura Vida Chiropractic"
           loading="lazy">
         </iframe>
-
       </div>
-    </div>
-
-    <!-- OR Call -->
-    <div class="or-divider"><span>O</span></div>
-
-    <div class="call-section">
-      <h3>Llame Ahora para Reservar</h3>
-      <p>Nuestro equipo le ayudara a encontrar la mejor hora para su cita.</p>
-      <a href="tel:+12106851994" class="call-btn">&#9742; (210) 685-1994</a>
     </div>
 
     <!-- Info Cards -->
