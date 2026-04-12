@@ -4,266 +4,421 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Paso 2 - Cuestionario | Pura Vida Chiropractic</title>
-  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
     body { font-family: 'Lato', 'Helvetica Neue', Arial, sans-serif; color: #212934; background: #ffffff; font-size: 15px; line-height: 1.6; }
 
     .progress-bar { background: #146BA6; height: 6px; width: 100%; }
-    .progress-fill { background: #fb8e28; height: 100%; width: 50%; transition: width 0.3s; }
+    .progress-fill { background: #fb8e28; height: 100%; transition: width 0.4s ease; }
 
     .header { text-align: center; padding: 20px; background: #ffffff; border-bottom: 1px solid #dde6ec; }
     .logo-text { font-family: 'Times New Roman', Times, serif; font-weight: 700; font-size: 28px; color: #146BA6; }
     .logo-sub { font-family: 'Times New Roman', Times, serif; font-weight: 700; font-size: 14px; color: #146BA6; letter-spacing: 2px; }
 
-    .step-section { max-width: 700px; margin: 0 auto; padding: 40px 20px; }
-    .step-label { font-family: 'Times New Roman', Times, serif; font-weight: 700; font-size: 14px; color: #146BA6; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 8px; }
-    h1 { font-family: 'Times New Roman', Times, serif; font-weight: 700; font-size: 32px; line-height: 1.25; color: #212934; margin-bottom: 10px; }
-    .subtitle { color: #212934; font-size: 16px; margin-bottom: 30px; }
+    .main { max-width: 700px; margin: 0 auto; padding: 40px 20px; }
 
-    /* Video Section */
-    .video-section {
-      max-width: 700px; margin: 0 auto 30px; border-radius: 6px; overflow: hidden;
-      box-shadow: 0 0 20px rgba(1, 1, 1, 0.25); aspect-ratio: 16/9;
+    .page-heading {
+      font-family: 'Montserrat', 'Lato', sans-serif; font-weight: 700;
+      font-size: 20px; line-height: 1.4; color: #212934; text-align: center;
+      margin-bottom: 30px;
     }
-    .video-section iframe { width: 100%; height: 100%; border: none; }
+    .page-heading u { text-decoration: underline; }
 
-    /* Form Card */
-    .form-card {
-      background: #ffffff; border-radius: 6px; padding: 40px;
-      box-shadow: 0 0 20px rgba(1, 1, 1, 0.25);
-      position: relative;
-    }
-    .form-card::before {
-      content: ''; position: absolute; top: -6px; left: 20px; right: 20px;
-      height: 6px; background: #146BA6; border-radius: 6px 6px 0 0;
+    /* Step Container */
+    .step { display: none; animation: fadeIn 0.3s ease; }
+    .step.active { display: block; }
+    @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+
+    .question-card {
+      background: #ffffff; border-radius: 6px; padding: 35px;
+      box-shadow: 0 0 20px rgba(1, 1, 1, 0.25); text-align: center;
     }
 
-    .form-card h2 { font-family: 'Times New Roman', Times, serif; font-weight: 700; font-size: 24px; color: #212934; margin-bottom: 8px; }
-    .form-card .form-intro { color: #212934; font-size: 14px; margin-bottom: 25px; padding-bottom: 20px; border-bottom: 1px solid #dde6ec; }
-
-    .question { margin-bottom: 28px; }
-    .question label { display: block; font-weight: 700; font-size: 15px; color: #212934; margin-bottom: 12px; }
-    .question label .required { color: #c0392b; }
-
-    .radio-group { display: flex; flex-direction: column; gap: 8px; }
-    .radio-option {
-      display: flex; align-items: center; gap: 10px; padding: 12px 16px;
-      border: 2px solid #dde6ec; border-radius: 6px; cursor: pointer; transition: all 0.2s;
+    .question-number {
+      font-family: 'Montserrat', sans-serif; font-size: 13px; font-weight: 700;
+      color: #146BA6; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 12px;
     }
-    .radio-option:hover { border-color: #146BA6; background: #f4f4f4; }
-    .radio-option input[type="radio"] { accent-color: #146BA6; width: 18px; height: 18px; }
-    .radio-option span { font-size: 15px; }
 
-    .text-input, .select-input {
-      width: 100%; padding: 14px 16px; border: 2px solid #dde6ec; border-radius: 6px;
-      font-size: 16px; font-family: 'Lato', 'Helvetica Neue', Arial, sans-serif; transition: border-color 0.2s;
+    .question-text {
+      font-family: 'Montserrat', sans-serif; font-weight: 700;
+      font-size: 20px; line-height: 1.4; color: #212934; margin-bottom: 8px;
     }
-    .text-input:focus, .select-input:focus { outline: none; border-color: #146BA6; }
 
-    .pain-scale { display: flex; gap: 6px; flex-wrap: wrap; }
+    .question-hint {
+      font-size: 14px; color: #888; margin-bottom: 20px;
+    }
+
+    /* Radio / Checkbox Options */
+    .options { display: flex; flex-direction: column; gap: 10px; text-align: left; max-width: 450px; margin: 0 auto; }
+    .option-label {
+      display: flex; align-items: center; gap: 12px; padding: 14px 18px;
+      border: 2px solid #dde6ec; border-radius: 6px; cursor: pointer;
+      transition: all 0.2s; font-size: 15px; font-family: 'Lato', sans-serif;
+    }
+    .option-label:hover { border-color: #146BA6; background: #f0f7ff; }
+    .option-label input[type="radio"],
+    .option-label input[type="checkbox"] { accent-color: #146BA6; width: 18px; height: 18px; cursor: pointer; }
+    .option-label.selected { border-color: #146BA6; background: #e8f2fc; }
+
+    /* Pain Scale */
+    .pain-scale { display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; margin-bottom: 10px; }
     .pain-btn {
-      width: 45px; height: 45px; border: 2px solid #dde6ec; border-radius: 6px;
-      background: #ffffff; cursor: pointer; font-size: 16px; font-weight: 700;
-      transition: all 0.2s; display: flex; align-items: center; justify-content: center;
+      width: 50px; height: 50px; border: 2px solid #dde6ec; border-radius: 6px;
+      background: #ffffff; font-size: 18px; font-weight: 700; cursor: pointer;
+      transition: all 0.2s; color: #212934; font-family: 'Montserrat', sans-serif;
     }
-    .pain-btn:hover, .pain-btn.selected { background: #146BA6; color: #ffffff; border-color: #146BA6; }
-    .pain-labels { display: flex; justify-content: space-between; margin-top: 6px; font-size: 12px; color: #212934; }
+    .pain-btn:hover { border-color: #146BA6; background: #f0f7ff; }
+    .pain-btn.selected { border-color: #146BA6; background: #146BA6; color: #ffffff; }
+    .pain-labels { display: flex; justify-content: space-between; max-width: 450px; margin: 0 auto; }
+    .pain-labels span { font-size: 12px; color: #888; }
 
-    .submit-btn {
-      width: 100%; padding: 16px; background: #32373c; color: #ffffff; border: none;
-      border-radius: 6px; font-size: 18px; font-weight: 700; font-family: 'Lato', 'Helvetica Neue', Arial, sans-serif;
-      cursor: pointer; transition: background 0.2s; text-transform: uppercase; letter-spacing: 1px;
-      margin-top: 20px;
+    /* Text Inputs */
+    .text-input {
+      width: 100%; max-width: 400px; padding: 14px 18px;
+      border: 2px solid #dde6ec; border-radius: 6px; font-size: 15px;
+      font-family: 'Lato', sans-serif; outline: none; transition: border-color 0.2s;
     }
-    .submit-btn:hover { background: #1e2226; }
+    .text-input:focus { border-color: #146BA6; }
+    .input-group { display: flex; gap: 12px; max-width: 400px; margin: 0 auto; }
+    .input-group .text-input { flex: 1; }
+    .input-label { font-size: 12px; color: #888; margin-top: 4px; }
 
-    .step-indicator { text-align: center; margin-top: 16px; font-size: 13px; color: #212934; }
+    /* Other input */
+    .other-input {
+      margin-top: 8px; width: 100%; max-width: 450px; padding: 10px 14px;
+      border: 2px solid #dde6ec; border-radius: 6px; font-size: 14px;
+      font-family: 'Lato', sans-serif; outline: none; display: none;
+    }
+    .other-input.visible { display: block; margin: 8px auto 0; }
 
-    /* CTA Section */
-    .cta-section { background: #f4f4f4; padding: 40px 20px; text-align: center; margin-top: 40px; }
-    .cta-section h2 { font-family: 'Times New Roman', Times, serif; font-weight: 700; font-size: 22px; color: #212934; margin-bottom: 10px; }
-    .cta-section p { color: #212934; font-size: 15px; margin-bottom: 5px; }
-    .cta-section .phone { font-size: 20px; font-weight: 700; color: #146BA6; }
+    /* Buttons */
+    .btn-row { display: flex; justify-content: center; gap: 12px; margin-top: 25px; }
+    .btn-next, .btn-prev, .btn-submit {
+      padding: 14px 40px; border-radius: 6px; font-size: 16px; font-weight: 700;
+      font-family: 'Montserrat', sans-serif; cursor: pointer; border: none; transition: all 0.2s;
+    }
+    .btn-next {
+      background: #fb8e28; color: #ffffff;
+    }
+    .btn-next:hover { background: #e07a18; }
+    .btn-next:disabled { background: #ccc; cursor: not-allowed; }
+    .btn-prev {
+      background: #ffffff; color: #146BA6; border: 2px solid #146BA6;
+    }
+    .btn-prev:hover { background: #f0f7ff; }
+    .btn-submit {
+      background: #146BA6; color: #ffffff; padding: 16px 50px; font-size: 18px;
+    }
+    .btn-submit:hover { background: #0f5a8e; }
 
-    .footer { text-align: center; padding: 20px; }
+    /* Step counter */
+    .step-counter { text-align: center; margin-top: 15px; font-size: 13px; color: #888; }
+
+    /* Acknowledgment box */
+    .ack-text {
+      background: #f4f4f4; border-radius: 6px; padding: 20px;
+      text-align: left; font-size: 14px; line-height: 1.6;
+      max-width: 450px; margin: 0 auto 20px;
+    }
+    .ack-text strong { color: #212934; }
+
+    .footer { text-align: center; padding: 30px 20px; }
     .disclaimer { font-size: 12px; color: #212934; max-width: 500px; margin: 0 auto; }
     .copyright { font-size: 12px; color: #212934; margin-top: 10px; }
 
     @media (max-width: 768px) {
-      .form-card { padding: 25px 20px; }
-      h1 { font-size: 26px; }
-      .pain-btn { width: 38px; height: 38px; font-size: 14px; }
+      .page-heading { font-size: 17px; }
+      .question-text { font-size: 18px; }
+      .question-card { padding: 25px 20px; }
+      .pain-btn { width: 42px; height: 42px; font-size: 16px; }
+      .input-group { flex-direction: column; }
     }
   </style>
 </head>
 <body>
 
-  <div class="progress-bar"><div class="progress-fill"></div></div>
+  <div class="progress-bar"><div class="progress-fill" id="progressFill" style="width: 25%;"></div></div>
 
   <div class="header">
     <div class="logo-text">PURA VIDA</div>
     <div class="logo-sub">CHIROPRACTIC</div>
   </div>
 
-  <div class="step-section">
-    <div class="step-label">PASO 2</div>
-    <h1>Completa nuestro cuestionario</h1>
-    <p class="subtitle">Esto es para saber mas sobre su dolor y ayudarlo mejor.</p>
+  <div class="main">
+    <p class="page-heading">
+      <u>PASO 2</u>: &#161;COMPLETE NUESTRO CUESTIONARIO DE 60 SEGUNDOS A CONTINUACION PARA SABER MAS INFORMACION SOBRE SU DOLOR Y AYUDARLO MEJOR!
+    </p>
 
-    <!-- Welcome Video -->
-    <div class="video-section">
-      <iframe
-        src="https://www.youtube.com/embed/aQgkzlxAof0?rel=0"
-        title="Bienvenido a Pura Vida Quiropractica"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen>
-      </iframe>
-    </div>
+    <form id="quizForm" action="paso-3-reservar.html" method="GET">
 
-    <div class="form-card">
-      <h2>Formulario del paciente</h2>
-      <p class="form-intro">El siguiente formulario toma alrededor de 3 minutos y nos ayuda a prepararnos para su visita.</p>
-
-      <form id="patientForm" action="paso-3-reservar.html" method="GET">
-
-        <div class="question">
-          <label>Como inicio su dolencia? <span class="required">*</span></label>
-          <div class="radio-group">
-            <label class="radio-option">
-              <input type="radio" name="cause" value="accidente_casual" required>
-              <span>Accidente casual</span>
-            </label>
-            <label class="radio-option">
-              <input type="radio" name="cause" value="accidente_laboral">
-              <span>Accidente laboral</span>
-            </label>
-            <label class="radio-option">
-              <input type="radio" name="cause" value="accidente_auto">
-              <span>Accidente de auto</span>
-            </label>
-            <label class="radio-option">
-              <input type="radio" name="cause" value="gradual">
-              <span>Aparecio gradualmente</span>
-            </label>
-            <label class="radio-option">
-              <input type="radio" name="cause" value="otro">
-              <span>Otro</span>
-            </label>
+      <!-- Q1: Pain Level -->
+      <div class="step active" data-step="1">
+        <div class="question-card">
+          <div class="question-number">Pregunta 1 de 12</div>
+          <p class="question-text">Esta oferta quiropractica es para personas que sufren de dolores severos o cronicos. &#191;Cual es el nivel de dolor que tiene en este momento?</p>
+          <p class="question-hint">Seleccione un numero</p>
+          <div class="pain-scale" id="painScale">
+            <button type="button" class="pain-btn" data-val="1">1</button>
+            <button type="button" class="pain-btn" data-val="2">2</button>
+            <button type="button" class="pain-btn" data-val="3">3</button>
+            <button type="button" class="pain-btn" data-val="4">4</button>
+            <button type="button" class="pain-btn" data-val="5">5</button>
+            <button type="button" class="pain-btn" data-val="6">6</button>
+            <button type="button" class="pain-btn" data-val="7">7</button>
+            <button type="button" class="pain-btn" data-val="8">8</button>
+            <button type="button" class="pain-btn" data-val="9">9</button>
+            <button type="button" class="pain-btn" data-val="10">10</button>
           </div>
-        </div>
-
-        <div class="question">
-          <label>Donde siente el dolor? <span class="required">*</span></label>
-          <div class="radio-group">
-            <label class="radio-option">
-              <input type="radio" name="painArea" value="espalda_baja" required>
-              <span>Espalda baja</span>
-            </label>
-            <label class="radio-option">
-              <input type="radio" name="painArea" value="espalda_alta">
-              <span>Espalda alta</span>
-            </label>
-            <label class="radio-option">
-              <input type="radio" name="painArea" value="cuello">
-              <span>Cuello</span>
-            </label>
-            <label class="radio-option">
-              <input type="radio" name="painArea" value="cabeza">
-              <span>Cabeza / Migranas</span>
-            </label>
-            <label class="radio-option">
-              <input type="radio" name="painArea" value="hombros">
-              <span>Hombros</span>
-            </label>
-            <label class="radio-option">
-              <input type="radio" name="painArea" value="piernas">
-              <span>Piernas / Ciatica</span>
-            </label>
-            <label class="radio-option">
-              <input type="radio" name="painArea" value="multiple">
-              <span>Varias areas</span>
-            </label>
+          <div class="pain-labels"><span>Sin dolor</span><span>Dolor severo</span></div>
+          <input type="hidden" name="nivel_dolor" id="painLevel">
+          <div class="btn-row">
+            <button type="button" class="btn-next" onclick="nextStep()" id="btn1" disabled>Siguiente &rarr;</button>
           </div>
+          <p class="step-counter">Paso 1 de 12</p>
         </div>
+      </div>
 
-        <div class="question">
-          <label>Nivel de dolor (1-10) <span class="required">*</span></label>
-          <div class="pain-scale">
-            <button type="button" class="pain-btn" onclick="selectPain(this, 1)">1</button>
-            <button type="button" class="pain-btn" onclick="selectPain(this, 2)">2</button>
-            <button type="button" class="pain-btn" onclick="selectPain(this, 3)">3</button>
-            <button type="button" class="pain-btn" onclick="selectPain(this, 4)">4</button>
-            <button type="button" class="pain-btn" onclick="selectPain(this, 5)">5</button>
-            <button type="button" class="pain-btn" onclick="selectPain(this, 6)">6</button>
-            <button type="button" class="pain-btn" onclick="selectPain(this, 7)">7</button>
-            <button type="button" class="pain-btn" onclick="selectPain(this, 8)">8</button>
-            <button type="button" class="pain-btn" onclick="selectPain(this, 9)">9</button>
-            <button type="button" class="pain-btn" onclick="selectPain(this, 10)">10</button>
+      <!-- Q2: Pain Location -->
+      <div class="step" data-step="2">
+        <div class="question-card">
+          <div class="question-number">Pregunta 2 de 12</div>
+          <p class="question-text">&#191;Donde esta la mayor fuente de tu dolor?</p>
+          <p class="question-hint">Elige 1</p>
+          <div class="options">
+            <label class="option-label"><input type="radio" name="ubicacion_dolor" value="Cuello"> Cuello</label>
+            <label class="option-label"><input type="radio" name="ubicacion_dolor" value="Espalda"> Espalda</label>
+            <label class="option-label"><input type="radio" name="ubicacion_dolor" value="Rodillas"> Rodillas</label>
+            <label class="option-label"><input type="radio" name="ubicacion_dolor" value="Hombros"> Hombros</label>
+            <label class="option-label"><input type="radio" name="ubicacion_dolor" value="Brazos"> Brazos</label>
+            <label class="option-label"><input type="radio" name="ubicacion_dolor" value="Piernas"> Piernas</label>
+            <label class="option-label"><input type="radio" name="ubicacion_dolor" value="Cabeza"> Cabeza</label>
+            <label class="option-label"><input type="radio" name="ubicacion_dolor" value="Migranas"> Migranas</label>
+            <label class="option-label"><input type="radio" name="ubicacion_dolor" value="Otro"> Otro</label>
           </div>
-          <div class="pain-labels">
-            <span>Sin dolor</span>
-            <span>Dolor severo</span>
+          <input type="text" class="other-input" id="other_ubicacion" name="ubicacion_dolor_otro" placeholder="Especifique...">
+          <div class="btn-row">
+            <button type="button" class="btn-prev" onclick="prevStep()">&larr; Anterior</button>
+            <button type="button" class="btn-next" onclick="nextStep()" disabled>Siguiente &rarr;</button>
           </div>
-          <input type="hidden" name="painLevel" id="painLevel" required>
+          <p class="step-counter">Paso 2 de 12</p>
         </div>
+      </div>
 
-        <div class="question">
-          <label>Hace cuanto tiempo tiene este dolor? <span class="required">*</span></label>
-          <div class="radio-group">
-            <label class="radio-option">
-              <input type="radio" name="duration" value="menos_1_semana" required>
-              <span>Menos de 1 semana</span>
-            </label>
-            <label class="radio-option">
-              <input type="radio" name="duration" value="1_4_semanas">
-              <span>1 - 4 semanas</span>
-            </label>
-            <label class="radio-option">
-              <input type="radio" name="duration" value="1_6_meses">
-              <span>1 - 6 meses</span>
-            </label>
-            <label class="radio-option">
-              <input type="radio" name="duration" value="mas_6_meses">
-              <span>Mas de 6 meses</span>
-            </label>
-            <label class="radio-option">
-              <input type="radio" name="duration" value="mas_1_ano">
-              <span>Mas de 1 ano</span>
-            </label>
+      <!-- Q3: Duration -->
+      <div class="step" data-step="3">
+        <div class="question-card">
+          <div class="question-number">Pregunta 3 de 12</div>
+          <p class="question-text">&#191;Cuanto tiempo lleva con el dolor?</p>
+          <div class="options">
+            <label class="option-label"><input type="radio" name="duracion_dolor" value="1-3 semanas"> 1 - 3 semanas</label>
+            <label class="option-label"><input type="radio" name="duracion_dolor" value="1 mes"> 1 mes</label>
+            <label class="option-label"><input type="radio" name="duracion_dolor" value="2-3 meses"> 2 - 3 meses</label>
+            <label class="option-label"><input type="radio" name="duracion_dolor" value="4-6 meses"> 4 - 6 meses</label>
+            <label class="option-label"><input type="radio" name="duracion_dolor" value="7-9 meses"> 7 - 9 meses</label>
+            <label class="option-label"><input type="radio" name="duracion_dolor" value="1 ano"> 1 ano</label>
+            <label class="option-label"><input type="radio" name="duracion_dolor" value="Mas de un ano"> Mas de un ano</label>
+            <label class="option-label"><input type="radio" name="duracion_dolor" value="Otro"> Otro</label>
           </div>
-        </div>
-
-        <div class="question">
-          <label>Ha visitado un quiropractico antes?</label>
-          <div class="radio-group">
-            <label class="radio-option">
-              <input type="radio" name="previousChiro" value="si">
-              <span>Si</span>
-            </label>
-            <label class="radio-option">
-              <input type="radio" name="previousChiro" value="no">
-              <span>No</span>
-            </label>
+          <input type="text" class="other-input" id="other_duracion" name="duracion_dolor_otro" placeholder="Especifique...">
+          <div class="btn-row">
+            <button type="button" class="btn-prev" onclick="prevStep()">&larr; Anterior</button>
+            <button type="button" class="btn-next" onclick="nextStep()" disabled>Siguiente &rarr;</button>
           </div>
+          <p class="step-counter">Paso 3 de 12</p>
         </div>
+      </div>
 
-        <div class="question">
-          <label>Algo mas que debamos saber?</label>
-          <textarea class="text-input" name="notes" rows="3" placeholder="Informacion adicional sobre su condicion..."></textarea>
+      <!-- Q4: How it started -->
+      <div class="step" data-step="4">
+        <div class="question-card">
+          <div class="question-number">Pregunta 4 de 12</div>
+          <p class="question-text">&#191;Como comenzo el malestar?</p>
+          <p class="question-hint">Elige 1</p>
+          <div class="options">
+            <label class="option-label"><input type="radio" name="causa" value="Accidente en la casa"> Accidente en la casa</label>
+            <label class="option-label"><input type="radio" name="causa" value="Accidente de Auto"> Accidente de Auto</label>
+            <label class="option-label"><input type="radio" name="causa" value="Accidente en el trabajo"> Accidente en el trabajo</label>
+            <label class="option-label"><input type="radio" name="causa" value="Solamente comenzo"> &quot;Solamente comenzo&quot;</label>
+            <label class="option-label"><input type="radio" name="causa" value="Despues de una cirugia"> Despues de una cirugia</label>
+            <label class="option-label"><input type="radio" name="causa" value="Haciendo deporte"> Haciendo deporte</label>
+            <label class="option-label"><input type="radio" name="causa" value="Otro"> Otro</label>
+          </div>
+          <input type="text" class="other-input" id="other_causa" name="causa_otro" placeholder="Especifique...">
+          <div class="btn-row">
+            <button type="button" class="btn-prev" onclick="prevStep()">&larr; Anterior</button>
+            <button type="button" class="btn-next" onclick="nextStep()" disabled>Siguiente &rarr;</button>
+          </div>
+          <p class="step-counter">Paso 4 de 12</p>
         </div>
+      </div>
 
-        <button type="submit" class="submit-btn">SIGUIENTE: RESERVAR CITA &#8594;</button>
-        <p class="step-indicator">Paso 2 de 3</p>
-      </form>
-    </div>
-  </div>
+      <!-- Q5: Areas of life affected (checkboxes) -->
+      <div class="step" data-step="5">
+        <div class="question-card">
+          <div class="question-number">Pregunta 5 de 12</div>
+          <p class="question-text">&#191;El dolor que esta experimentando en que areas de su vida le esta afectando?</p>
+          <p class="question-hint">Seleccione todas las que apliquen</p>
+          <div class="options">
+            <label class="option-label"><input type="checkbox" name="areas_afectadas" value="Comunicarme"> Comunicarme</label>
+            <label class="option-label"><input type="checkbox" name="areas_afectadas" value="Respirar"> Respirar</label>
+            <label class="option-label"><input type="checkbox" name="areas_afectadas" value="Comer y beber"> Comer y beber</label>
+            <label class="option-label"><input type="checkbox" name="areas_afectadas" value="Banarme o cambiarme"> Banarme o cambiarme</label>
+            <label class="option-label"><input type="checkbox" name="areas_afectadas" value="Moverme"> Moverme</label>
+            <label class="option-label"><input type="checkbox" name="areas_afectadas" value="Trabajar o jugar"> Trabajar o jugar</label>
+            <label class="option-label"><input type="checkbox" name="areas_afectadas" value="Dormir"> Dormir</label>
+            <label class="option-label"><input type="checkbox" name="areas_afectadas" value="Mis deberes como padre o madre"> Mis deberes como padre o madre</label>
+            <label class="option-label"><input type="checkbox" name="areas_afectadas" value="Finanzas"> Finanzas</label>
+            <label class="option-label"><input type="checkbox" name="areas_afectadas" value="Los quehaceres del hogar"> Los quehaceres del hogar</label>
+            <label class="option-label"><input type="checkbox" name="areas_afectadas" value="Salud Emocional"> Salud Emocional</label>
+            <label class="option-label"><input type="checkbox" name="areas_afectadas" value="Otro"> Otro</label>
+          </div>
+          <input type="text" class="other-input" id="other_areas" name="areas_afectadas_otro" placeholder="Especifique...">
+          <div class="btn-row">
+            <button type="button" class="btn-prev" onclick="prevStep()">&larr; Anterior</button>
+            <button type="button" class="btn-next" onclick="nextStep()" disabled>Siguiente &rarr;</button>
+          </div>
+          <p class="step-counter">Paso 5 de 12</p>
+        </div>
+      </div>
 
-  <!-- CTA -->
-  <div class="cta-section">
-    <h2>Prefiere llamar directamente?</h2>
-    <p>Llamenos para mas detalles y mencione esta oferta.</p>
-    <p class="phone">&#9742; (210) 685-1994</p>
+      <!-- Q6: Commitment -->
+      <div class="step" data-step="6">
+        <div class="question-card">
+          <div class="question-number">Pregunta 6 de 12</div>
+          <p class="question-text">&#191;Que tan comprometido esta para comenzar a arreglar este dolor HOY?</p>
+          <p class="question-hint">Elige 1</p>
+          <div class="options">
+            <label class="option-label"><input type="radio" name="compromiso" value="Muy comprometido"> Muy comprometido</label>
+            <label class="option-label"><input type="radio" name="compromiso" value="Algo comprometido"> Algo comprometido</label>
+            <label class="option-label"><input type="radio" name="compromiso" value="Neutral"> Neutral</label>
+            <label class="option-label"><input type="radio" name="compromiso" value="No muy comprometido"> No muy comprometido</label>
+          </div>
+          <div class="btn-row">
+            <button type="button" class="btn-prev" onclick="prevStep()">&larr; Anterior</button>
+            <button type="button" class="btn-next" onclick="nextStep()" disabled>Siguiente &rarr;</button>
+          </div>
+          <p class="step-counter">Paso 6 de 12</p>
+        </div>
+      </div>
+
+      <!-- Q7: Full Name -->
+      <div class="step" data-step="7">
+        <div class="question-card">
+          <div class="question-number">Pregunta 7 de 12</div>
+          <p class="question-text">&#191;Cual es su nombre completo?</p>
+          <div class="input-group" style="margin-bottom: 5px;">
+            <div style="flex:1; text-align:left;">
+              <input type="text" class="text-input" name="nombre" placeholder="Nombre" required>
+              <p class="input-label">Nombre</p>
+            </div>
+            <div style="flex:1; text-align:left;">
+              <input type="text" class="text-input" name="apellido" placeholder="Apellido" required>
+              <p class="input-label">Apellido</p>
+            </div>
+          </div>
+          <div class="btn-row">
+            <button type="button" class="btn-prev" onclick="prevStep()">&larr; Anterior</button>
+            <button type="button" class="btn-next" onclick="nextStep()">Siguiente &rarr;</button>
+          </div>
+          <p class="step-counter">Paso 7 de 12</p>
+        </div>
+      </div>
+
+      <!-- Q8: Email -->
+      <div class="step" data-step="8">
+        <div class="question-card">
+          <div class="question-number">Pregunta 8 de 12</div>
+          <p class="question-text">&#191;Cual es su correo electronico?</p>
+          <div style="text-align: center;">
+            <input type="email" class="text-input" name="email" placeholder="ejemplo@ejemplo.com" required>
+            <p class="input-label">ejemplo@ejemplo.com</p>
+          </div>
+          <div class="btn-row">
+            <button type="button" class="btn-prev" onclick="prevStep()">&larr; Anterior</button>
+            <button type="button" class="btn-next" onclick="nextStep()">Siguiente &rarr;</button>
+          </div>
+          <p class="step-counter">Paso 8 de 12</p>
+        </div>
+      </div>
+
+      <!-- Q9: Phone -->
+      <div class="step" data-step="9">
+        <div class="question-card">
+          <div class="question-number">Pregunta 9 de 12</div>
+          <p class="question-text">&#191;Cual es su numero de telefono?</p>
+          <div style="text-align: center;">
+            <input type="tel" class="text-input" name="telefono" placeholder="(000) 000-0000">
+          </div>
+          <div class="btn-row">
+            <button type="button" class="btn-prev" onclick="prevStep()">&larr; Anterior</button>
+            <button type="button" class="btn-next" onclick="nextStep()">Siguiente &rarr;</button>
+          </div>
+          <p class="step-counter">Paso 9 de 12</p>
+        </div>
+      </div>
+
+      <!-- Q10: Acknowledge Address -->
+      <div class="step" data-step="10">
+        <div class="question-card">
+          <div class="question-number">Pregunta 10 de 12</div>
+          <p class="question-text">FAVOR DE RECONOCER LA SIGUIENTE DECLARACION:</p>
+          <div class="ack-text">
+            <strong>&quot;Entiendo que la oficina esta ubicada en 2318 NW Military Hwy, Suite 103, San Antonio, TX 78231&quot;.</strong>
+          </div>
+          <div class="options">
+            <label class="option-label"><input type="radio" name="reconoce_direccion" value="Si"> Si</label>
+            <label class="option-label"><input type="radio" name="reconoce_direccion" value="No"> No</label>
+          </div>
+          <div class="btn-row">
+            <button type="button" class="btn-prev" onclick="prevStep()">&larr; Anterior</button>
+            <button type="button" class="btn-next" onclick="nextStep()" disabled>Siguiente &rarr;</button>
+          </div>
+          <p class="step-counter">Paso 10 de 12</p>
+        </div>
+      </div>
+
+      <!-- Q11: Acknowledge Offer -->
+      <div class="step" data-step="11">
+        <div class="question-card">
+          <div class="question-number">Pregunta 11 de 12</div>
+          <p class="question-text">FAVOR DE RECONOCER LA SIGUIENTE DECLARACION:</p>
+          <div class="ack-text">
+            <strong>&quot;Entiendo que la oferta de quiropractica con el doctor incluye lo siguiente: Consulta, examen y primer tratamiento por solo $47. Luego, el doctor me recomendara una terapia y cuantas visitas necesito para aliviar el dolor. Entiendo que esto NO es un compromiso.&quot;</strong>
+          </div>
+          <div class="options">
+            <label class="option-label"><input type="radio" name="reconoce_oferta" value="Si"> Si</label>
+            <label class="option-label"><input type="radio" name="reconoce_oferta" value="No"> No</label>
+          </div>
+          <div class="btn-row">
+            <button type="button" class="btn-prev" onclick="prevStep()">&larr; Anterior</button>
+            <button type="button" class="btn-next" onclick="nextStep()" disabled>Siguiente &rarr;</button>
+          </div>
+          <p class="step-counter">Paso 11 de 12</p>
+        </div>
+      </div>
+
+      <!-- Q12: Acknowledge Appointment -->
+      <div class="step" data-step="12">
+        <div class="question-card">
+          <div class="question-number">Pregunta 12 de 12</div>
+          <p class="question-text">FAVOR DE RECONOCER LA SIGUIENTE DECLARACION:</p>
+          <div class="ack-text">
+            <strong>&quot;NO perdere mi cita una vez que este programada porque respeto el tiempo del doctor y entiendo que no sera posible recuperar esta oferta de descuento.&quot;</strong>
+          </div>
+          <div class="options">
+            <label class="option-label"><input type="radio" name="reconoce_cita" value="Si"> Si</label>
+            <label class="option-label"><input type="radio" name="reconoce_cita" value="No"> No</label>
+          </div>
+          <div class="btn-row">
+            <button type="button" class="btn-prev" onclick="prevStep()">&larr; Anterior</button>
+            <button type="submit" class="btn-submit">ENVIAR CUESTIONARIO &rarr;</button>
+          </div>
+          <p class="step-counter">Paso 12 de 12</p>
+        </div>
+      </div>
+
+    </form>
   </div>
 
   <div class="footer">
@@ -272,11 +427,111 @@
   </div>
 
   <script>
-    function selectPain(btn, level) {
-      document.querySelectorAll('.pain-btn').forEach(b => b.classList.remove('selected'));
-      btn.classList.add('selected');
-      document.getElementById('painLevel').value = level;
+    let currentStep = 1;
+    const totalSteps = 12;
+
+    function updateProgress() {
+      const pct = 25 + ((currentStep / totalSteps) * 25);
+      document.getElementById('progressFill').style.width = pct + '%';
     }
+
+    function showStep(n) {
+      document.querySelectorAll('.step').forEach(s => s.classList.remove('active'));
+      const target = document.querySelector('.step[data-step="' + n + '"]');
+      if (target) {
+        target.classList.add('active');
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      }
+      updateProgress();
+    }
+
+    function nextStep() {
+      if (currentStep < totalSteps) {
+        currentStep++;
+        showStep(currentStep);
+      }
+    }
+
+    function prevStep() {
+      if (currentStep > 1) {
+        currentStep--;
+        showStep(currentStep);
+      }
+    }
+
+    // Pain scale buttons
+    document.querySelectorAll('#painScale .pain-btn').forEach(btn => {
+      btn.addEventListener('click', function() {
+        document.querySelectorAll('#painScale .pain-btn').forEach(b => b.classList.remove('selected'));
+        this.classList.add('selected');
+        document.getElementById('painLevel').value = this.dataset.val;
+        document.getElementById('btn1').disabled = false;
+      });
+    });
+
+    // Radio option highlighting & enabling next
+    document.querySelectorAll('.options input[type="radio"]').forEach(radio => {
+      radio.addEventListener('change', function() {
+        const step = this.closest('.step');
+        const name = this.name;
+        // Clear selections for this radio group within step
+        step.querySelectorAll('input[name="' + name + '"]').forEach(r => {
+          r.closest('.option-label').classList.remove('selected');
+        });
+        this.closest('.option-label').classList.add('selected');
+
+        // Enable next button
+        const nextBtn = step.querySelector('.btn-next');
+        if (nextBtn) nextBtn.disabled = false;
+
+        // Show "other" input if needed
+        const val = this.value;
+        const stepNum = step.dataset.step;
+        const otherMap = { '2': 'other_ubicacion', '3': 'other_duracion', '4': 'other_causa' };
+        if (otherMap[stepNum]) {
+          const otherInput = document.getElementById(otherMap[stepNum]);
+          if (val === 'Otro') {
+            otherInput.classList.add('visible');
+            otherInput.focus();
+          } else {
+            otherInput.classList.remove('visible');
+            otherInput.value = '';
+          }
+        }
+      });
+    });
+
+    // Checkbox handling (Q5)
+    document.querySelectorAll('.step[data-step="5"] input[type="checkbox"]').forEach(cb => {
+      cb.addEventListener('change', function() {
+        const label = this.closest('.option-label');
+        if (this.checked) {
+          label.classList.add('selected');
+        } else {
+          label.classList.remove('selected');
+        }
+
+        // Enable next if at least 1 checked
+        const step = this.closest('.step');
+        const anyChecked = step.querySelectorAll('input[type="checkbox"]:checked').length > 0;
+        step.querySelector('.btn-next').disabled = !anyChecked;
+
+        // Show other input
+        if (this.value === 'Otro') {
+          const otherInput = document.getElementById('other_areas');
+          if (this.checked) {
+            otherInput.classList.add('visible');
+            otherInput.focus();
+          } else {
+            otherInput.classList.remove('visible');
+            otherInput.value = '';
+          }
+        }
+      });
+    });
+
+    // Initialize
+    updateProgress();
   </script>
 
 </body>
