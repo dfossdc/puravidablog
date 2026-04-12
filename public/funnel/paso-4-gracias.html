@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gracias por Agendar | Pura Vida Chiropractic</title>
+  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: 'Lato', 'Helvetica Neue', Arial, sans-serif; color: #212934; background: #ffffff; min-height: 100vh; font-size: 15px; line-height: 1.6; }
+
+    .progress-bar { background: #146BA6; height: 6px; width: 100%; }
+    .progress-fill { background: #146BA6; height: 100%; width: 100%; }
+
+    .header { text-align: center; padding: 20px; background: #ffffff; border-bottom: 1px solid #dde6ec; }
+    .logo-text { font-family: 'Times New Roman', Times, serif; font-weight: 700; font-size: 28px; color: #146BA6; }
+    .logo-sub { font-family: 'Times New Roman', Times, serif; font-weight: 700; font-size: 14px; color: #146BA6; letter-spacing: 2px; }
+
+    .main { max-width: 700px; margin: 0 auto; padding: 50px 20px; text-align: center; }
+
+    .success-icon {
+      width: 100px; height: 100px; background: #f4f4f4; border-radius: 50%;
+      display: flex; align-items: center; justify-content: center;
+      margin: 0 auto 25px; font-size: 50px; color: #146BA6;
+      animation: scaleIn 0.5s ease-out;
+    }
+    @keyframes scaleIn {
+      from { transform: scale(0); opacity: 0; }
+      to { transform: scale(1); opacity: 1; }
+    }
+
+    h1 { font-family: 'Times New Roman', Times, serif; font-weight: 700; font-size: 36px; line-height: 1.25; color: #146BA6; margin-bottom: 12px; }
+    .subtitle { font-size: 18px; color: #212934; margin-bottom: 35px; max-width: 500px; margin-left: auto; margin-right: auto; }
+
+    /* Confirmation Card */
+    .confirm-card {
+      background: #ffffff; border-radius: 6px; padding: 30px;
+      box-shadow: 0 0 20px rgba(1, 1, 1, 0.25); text-align: left;
+      margin-bottom: 30px;
+    }
+    .confirm-card h3 {
+      font-family: 'Times New Roman', Times, serif; font-weight: 700; font-size: 18px; color: #212934;
+      margin-bottom: 20px; padding-bottom: 15px; border-bottom: 2px solid #f4f4f4;
+    }
+    .confirm-item {
+      display: flex; align-items: flex-start; gap: 15px; padding: 12px 0;
+      border-bottom: 1px solid #f4f4f4;
+    }
+    .confirm-item:last-child { border-bottom: none; }
+    .confirm-item .item-icon { font-size: 22px; flex-shrink: 0; }
+    .confirm-item .item-label { font-size: 13px; color: #212934; text-transform: uppercase; letter-spacing: 0.5px; }
+    .confirm-item .item-value { font-weight: 700; font-size: 16px; color: #212934; }
+
+    /* What to Expect */
+    .expect-card {
+      background: #ffffff; border-radius: 6px; padding: 30px;
+      box-shadow: 0 0 20px rgba(1, 1, 1, 0.25); text-align: left;
+      margin-bottom: 30px;
+    }
+    .expect-card h3 {
+      font-family: 'Times New Roman', Times, serif; font-weight: 700; font-size: 18px; color: #212934;
+      margin-bottom: 20px;
+    }
+    .expect-list { list-style: none; }
+    .expect-list li {
+      display: flex; align-items: flex-start; gap: 12px; padding: 10px 0;
+      font-size: 15px;
+    }
+    .expect-list .step-num {
+      background: #146BA6; color: #ffffff; width: 28px; height: 28px;
+      border-radius: 50%; display: flex; align-items: center; justify-content: center;
+      font-size: 13px; font-weight: 700; flex-shrink: 0;
+    }
+
+    /* Contact Bar */
+    .contact-bar {
+      background: #146BA6; color: #ffffff; border-radius: 6px; padding: 25px;
+      display: flex; align-items: center; justify-content: space-between;
+      gap: 20px; flex-wrap: wrap;
+    }
+    .contact-bar .info { }
+    .contact-bar h4 { font-family: 'Times New Roman', Times, serif; font-weight: 700; font-size: 16px; margin-bottom: 4px; }
+    .contact-bar p { font-size: 14px; opacity: 0.9; }
+    .contact-bar a {
+      display: inline-flex; align-items: center; gap: 8px;
+      background: #ffffff; color: #146BA6; padding: 12px 24px; border-radius: 6px;
+      font-weight: 700; font-size: 16px; text-decoration: none;
+      font-family: 'Lato', 'Helvetica Neue', Arial, sans-serif;
+    }
+
+    /* Map */
+    .map-section { margin-top: 30px; border-radius: 6px; overflow: hidden; box-shadow: 0 0 20px rgba(1, 1, 1, 0.25); }
+
+    .footer { text-align: center; padding: 30px 20px; }
+    .disclaimer { font-size: 12px; color: #212934; max-width: 500px; margin: 0 auto; }
+    .copyright { font-size: 12px; color: #212934; margin-top: 10px; }
+
+    @media (max-width: 768px) {
+      h1 { font-size: 28px; }
+      .contact-bar { flex-direction: column; text-align: center; }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="progress-bar"><div class="progress-fill"></div></div>
+
+  <div class="header">
+    <div class="logo-text">PURA VIDA</div>
+    <div class="logo-sub">CHIROPRACTIC</div>
+  </div>
+
+  <div class="main">
+    <div class="success-icon">&#10003;</div>
+    <h1>Gracias por Agendar!</h1>
+    <p class="subtitle">Su cita ha sido reservada exitosamente. Le enviaremos una confirmacion por mensaje de texto y email.</p>
+
+    <!-- Confirmation Details -->
+    <div class="confirm-card">
+      <h3>Detalles de su Cita</h3>
+      <div class="confirm-item">
+        <span class="item-icon">&#128205;</span>
+        <div>
+          <div class="item-label">Ubicacion</div>
+          <div class="item-value">Pura Vida Chiropractic</div>
+          <div style="font-size: 14px; color: #212934;">2318 NW Military Hwy, Suite 103, San Antonio, TX 78231</div>
+        </div>
+      </div>
+      <div class="confirm-item">
+        <span class="item-icon">&#128176;</span>
+        <div>
+          <div class="item-label">Oferta Especial</div>
+          <div class="item-value">Examen Quiropractico Completo - $47</div>
+        </div>
+      </div>
+      <div class="confirm-item">
+        <span class="item-icon">&#9742;</span>
+        <div>
+          <div class="item-label">Telefono</div>
+          <div class="item-value">(210) 685-1994</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- What to Expect -->
+    <div class="expect-card">
+      <h3>Que esperar en su primera visita</h3>
+      <ul class="expect-list">
+        <li>
+          <span class="step-num">1</span>
+          <div><strong>Dia 1 - Consulta y Examen:</strong> Hablaremos sobre su dolor, le haremos un examen completo, un ajuste quiropractico y rayos X si es necesario.</div>
+        </li>
+        <li>
+          <span class="step-num">2</span>
+          <div><strong>Dia 2 - Informe de Hallazgos:</strong> Le explicaremos los resultados de los rayos X y le daremos un plan de tratamiento personalizado.</div>
+        </li>
+        <li>
+          <span class="step-num">3</span>
+          <div><strong>Traiga:</strong> Una identificacion valida y su tarjeta de seguro medico (si tiene). Llegue 10 minutos antes de su cita.</div>
+        </li>
+      </ul>
+    </div>
+
+    <!-- Contact Bar -->
+    <div class="contact-bar">
+      <div class="info">
+        <h4>Necesita cambiar su cita?</h4>
+        <p>Llamenos y con gusto le ayudaremos.</p>
+      </div>
+      <a href="tel:+12106851994">&#9742; (210) 685-1994</a>
+    </div>
+
+    <!-- Map -->
+    <div class="map-section">
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3472.0!2d-98.5467!3d29.5133!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x865c5f7f1e3a5555%3A0x1234567890!2s2318+NW+Military+Hwy+Suite+103%2C+San+Antonio%2C+TX+78231!5e0!3m2!1ses!2sus" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    </div>
+  </div>
+
+  <div class="footer">
+    <p class="disclaimer">Debido a las pautas federales, los participantes en los planes de reemplazo de Medicare y Medicaid no son elegibles para ofertas gratuitas o con descuento.</p>
+    <p class="copyright">Copyright 2025 - Pura Vida Chiropractic</p>
+  </div>
+
+</body>
+</html>

@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Oferta Especial - Pura Vida Chiropractic</title>
+  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: 'Lato', 'Helvetica Neue', Arial, sans-serif; color: #212934; background: #ffffff; font-size: 15px; line-height: 1.6; }
+
+    /* Progress Bar */
+    .progress-bar { background: #146BA6; height: 6px; width: 100%; }
+    .progress-fill { background: #fb8e28; height: 100%; width: 25%; transition: width 0.3s; }
+
+    /* Header */
+    .header { text-align: center; padding: 20px; background: #ffffff; border-bottom: 1px solid #dde6ec; }
+    .logo-text { font-family: 'Times New Roman', Times, serif; font-weight: 700; font-size: 28px; color: #146BA6; }
+    .logo-sub { font-family: 'Times New Roman', Times, serif; font-weight: 700; font-size: 14px; color: #146BA6; letter-spacing: 2px; }
+
+    /* Hero Section */
+    .hero { max-width: 900px; margin: 0 auto; padding: 40px 20px; }
+    .hero-layout { display: flex; gap: 40px; align-items: flex-start; }
+    .hero-content { flex: 1; }
+    .hero-image { flex: 0 0 320px; }
+    .hero-image img { width: 100%; border-radius: 6px; box-shadow: 0 0 20px rgba(1, 1, 1, 0.25); }
+
+    .step-label { font-family: 'Times New Roman', Times, serif; font-weight: 700; font-size: 14px; color: #146BA6; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 8px; }
+
+    h1 { font-family: 'Times New Roman', Times, serif; font-weight: 700; font-size: 36px; line-height: 1.25; color: #212934; margin-bottom: 20px; }
+    h1 .price { color: #146BA6; }
+
+    .benefits-title { font-family: 'Times New Roman', Times, serif; font-weight: 700; font-size: 18px; margin-bottom: 12px; }
+    .benefits-list { list-style: none; margin-bottom: 10px; }
+    .benefits-list li { padding: 6px 0; font-size: 16px; display: flex; align-items: center; gap: 10px; }
+    .benefits-list li::before { content: ""; display: none; }
+    .check { color: #146BA6; font-size: 18px; font-weight: bold; }
+
+    .visit-info { margin-top: 20px; background: #f4f4f4; border-radius: 6px; padding: 20px; }
+    .visit-info h3 { font-family: 'Times New Roman', Times, serif; font-weight: 700; font-size: 16px; color: #146BA6; margin-bottom: 10px; }
+    .visit-columns { display: flex; gap: 30px; }
+    .visit-col h4 { font-family: 'Times New Roman', Times, serif; font-weight: 700; font-size: 14px; margin-bottom: 8px; color: #212934; }
+    .visit-col li { font-size: 14px; padding: 3px 0; }
+
+    /* Form Section */
+    .form-section { max-width: 500px; margin: 0 auto; padding: 40px 20px; }
+    .form-section h2 { font-family: 'Times New Roman', Times, serif; font-weight: 700; font-size: 24px; text-align: center; margin-bottom: 8px; color: #212934; }
+    .form-section .subtitle { text-align: center; color: #212934; margin-bottom: 30px; font-size: 15px; }
+
+    .form-group { margin-bottom: 16px; }
+    .form-group label { display: block; font-weight: 700; font-size: 14px; margin-bottom: 6px; color: #212934; }
+    .form-group input, .form-group select, .form-group textarea {
+      width: 100%; padding: 14px 16px; border: 2px solid #dde6ec; border-radius: 6px;
+      font-size: 16px; font-family: 'Lato', 'Helvetica Neue', Arial, sans-serif; transition: border-color 0.2s;
+    }
+    .form-group input:focus, .form-group select:focus, .form-group textarea:focus {
+      outline: none; border-color: #146BA6;
+    }
+
+    .phone-row { display: flex; gap: 10px; }
+    .phone-row .country-code { flex: 0 0 90px; }
+    .phone-row .phone-input { flex: 1; }
+
+    .submit-btn {
+      width: 100%; padding: 16px; background: #32373c; color: #ffffff; border: none;
+      border-radius: 6px; font-size: 18px; font-weight: 700; font-family: 'Lato', 'Helvetica Neue', Arial, sans-serif;
+      cursor: pointer; transition: background 0.2s; text-transform: uppercase; letter-spacing: 1px;
+      margin-top: 10px;
+    }
+    .submit-btn:hover { background: #1e2226; }
+
+    .limited { text-align: center; margin-top: 16px; font-size: 14px; color: #c0392b; font-weight: 700; }
+
+    /* Timer */
+    .timer-section { text-align: center; padding: 30px 20px; background: #f4f4f4; }
+    .timer-section h3 { font-family: 'Times New Roman', Times, serif; font-weight: 700; font-size: 18px; color: #212934; margin-bottom: 15px; }
+    .timer { display: flex; justify-content: center; gap: 20px; }
+    .timer-unit { text-align: center; }
+    .timer-value {
+      font-family: 'Times New Roman', Times, serif; font-weight: 700; font-size: 40px; color: #146BA6;
+      background: #ffffff; border-radius: 6px; padding: 10px 20px; box-shadow: 0 0 20px rgba(1, 1, 1, 0.25);
+      min-width: 80px; display: inline-block;
+    }
+    .timer-label { font-size: 12px; color: #212934; margin-top: 6px; text-transform: uppercase; letter-spacing: 1px; }
+
+    /* Footer */
+    .footer-section { max-width: 700px; margin: 0 auto; padding: 40px 20px; text-align: center; }
+    .footer-section h3 { font-family: 'Times New Roman', Times, serif; font-weight: 700; font-size: 18px; margin-bottom: 8px; }
+    .footer-section .address { color: #212934; font-size: 15px; margin-bottom: 20px; }
+    .map-container { border-radius: 6px; overflow: hidden; margin-bottom: 20px; }
+    .disclaimer { font-size: 12px; color: #212934; max-width: 500px; margin: 20px auto 0; }
+    .copyright { font-size: 12px; color: #212934; margin-top: 15px; }
+
+    @media (max-width: 768px) {
+      .hero-layout { flex-direction: column; }
+      .hero-image { flex: none; }
+      h1 { font-size: 28px; }
+      .visit-columns { flex-direction: column; gap: 15px; }
+      .timer-value { font-size: 30px; padding: 8px 14px; min-width: 60px; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Progress Bar -->
+  <div class="progress-bar"><div class="progress-fill"></div></div>
+
+  <!-- Header -->
+  <div class="header">
+    <div class="logo-text">PURA VIDA</div>
+    <div class="logo-sub">CHIROPRACTIC</div>
+  </div>
+
+  <!-- Hero -->
+  <div class="hero">
+    <div class="step-label">PASO 1</div>
+    <div class="hero-layout">
+      <div class="hero-content">
+        <h1><span class="price">$47</span> para un examen completo de salud quiropractica</h1>
+
+        <p class="benefits-title">Nos especializamos en:</p>
+        <ul class="benefits-list">
+          <li><span class="check">&#10003;</span> Dolor de espalda</li>
+          <li><span class="check">&#10003;</span> Dolor de cuello</li>
+          <li><span class="check">&#10003;</span> Dolores de cabeza</li>
+          <li><span class="check">&#10003;</span> Accidentes de auto</li>
+          <li><span class="check">&#10003;</span> Y mucho mas...</li>
+        </ul>
+
+        <div class="visit-info">
+          <h3>En su visita obtendra lo siguiente:</h3>
+          <div class="visit-columns">
+            <div class="visit-col">
+              <h4>Dia 1:</h4>
+              <ul class="benefits-list">
+                <li><span class="check">&#10003;</span> Consulta</li>
+                <li><span class="check">&#10003;</span> Examen</li>
+                <li><span class="check">&#10003;</span> Ajuste</li>
+                <li><span class="check">&#10003;</span> Rayos X</li>
+              </ul>
+            </div>
+            <div class="visit-col">
+              <h4>Dia 2:</h4>
+              <ul class="benefits-list">
+                <li><span class="check">&#10003;</span> Informe de Hallazgos sobre los rayos X</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="hero-image">
+        <img src="/images/hero-dr-foss.webp" alt="Dr. Dan Foss - Pura Vida Chiropractic">
+      </div>
+    </div>
+  </div>
+
+  <!-- Form -->
+  <div class="form-section">
+    <h2>Obten tu oferta quiropractica</h2>
+    <p class="subtitle">Solo daremos 30 de estos cupones a nuevos pacientes</p>
+
+    <form id="leadForm" action="paso-2-cuestionario.html" method="GET">
+      <div class="form-group">
+        <label for="firstName">Nombre</label>
+        <input type="text" id="firstName" name="firstName" placeholder="Tu Nombre" required>
+      </div>
+      <div class="form-group">
+        <label for="lastName">Apellido</label>
+        <input type="text" id="lastName" name="lastName" placeholder="Tu Apellido" required>
+      </div>
+      <div class="form-group">
+        <label for="phone">Telefono</label>
+        <div class="phone-row">
+          <div class="country-code">
+            <select name="countryCode">
+              <option value="+1">+1</option>
+              <option value="+52">+52</option>
+            </select>
+          </div>
+          <div class="phone-input">
+            <input type="tel" id="phone" name="phone" placeholder="Tu Numero Movil" required>
+          </div>
+        </div>
+      </div>
+      <div class="form-group">
+        <label for="email">Email</label>
+        <input type="email" id="email" name="email" placeholder="Tu Email" required>
+      </div>
+      <div class="form-group">
+        <label for="reason">Cual es la razon de tu visita?</label>
+        <textarea id="reason" name="reason" rows="3" placeholder="Describe brevemente tu dolor o condicion..."></textarea>
+      </div>
+      <button type="submit" class="submit-btn">ENVIAR &#8594;</button>
+      <p class="limited">&#9200; Solo quedan pocos cupones disponibles</p>
+    </form>
+  </div>
+
+  <!-- Timer -->
+  <div class="timer-section">
+    <h3>OFERTA EXPIRA EN</h3>
+    <div class="timer">
+      <div class="timer-unit">
+        <div class="timer-value" id="hours">0</div>
+        <div class="timer-label">horas</div>
+      </div>
+      <div class="timer-unit">
+        <div class="timer-value" id="minutes">7</div>
+        <div class="timer-label">minutos</div>
+      </div>
+      <div class="timer-unit">
+        <div class="timer-value" id="seconds">0</div>
+        <div class="timer-label">segundos</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <div class="footer-section">
+    <h3>Nos encontramos en:</h3>
+    <p class="address">2318 NW Military Hwy, Suite 103, San Antonio, TX 78231</p>
+    <div class="map-container">
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3472.0!2d-98.5467!3d29.5133!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x865c5f7f1e3a5555%3A0x1234567890!2s2318+NW+Military+Hwy+Suite+103%2C+San+Antonio%2C+TX+78231!5e0!3m2!1ses!2sus" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    </div>
+    <p class="disclaimer">Debido a las pautas federales, los participantes en los planes de reemplazo de Medicare y Medicaid no son elegibles para ofertas gratuitas o con descuento.</p>
+    <p class="copyright">Copyright 2025 - Pura Vida Chiropractic</p>
+  </div>
+
+  <script>
+    // Countdown Timer (7 minutes)
+    let totalSeconds = 7 * 60;
+    function updateTimer() {
+      const h = Math.floor(totalSeconds / 3600);
+      const m = Math.floor((totalSeconds % 3600) / 60);
+      const s = totalSeconds % 60;
+      document.getElementById('hours').textContent = h;
+      document.getElementById('minutes').textContent = m;
+      document.getElementById('seconds').textContent = s;
+      if (totalSeconds > 0) {
+        totalSeconds--;
+        setTimeout(updateTimer, 1000);
+      }
+    }
+    updateTimer();
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Paso 2 - Cuestionario | Pura Vida Chiropractic</title>
+  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: 'Lato', 'Helvetica Neue', Arial, sans-serif; color: #212934; background: #ffffff; font-size: 15px; line-height: 1.6; }
+
+    .progress-bar { background: #146BA6; height: 6px; width: 100%; }
+    .progress-fill { background: #fb8e28; height: 100%; width: 50%; transition: width 0.3s; }
+
+    .header { text-align: center; padding: 20px; background: #ffffff; border-bottom: 1px solid #dde6ec; }
+    .logo-text { font-family: 'Times New Roman', Times, serif; font-weight: 700; font-size: 28px; color: #146BA6; }
+    .logo-sub { font-family: 'Times New Roman', Times, serif; font-weight: 700; font-size: 14px; color: #146BA6; letter-spacing: 2px; }
+
+    .step-section { max-width: 700px; margin: 0 auto; padding: 40px 20px; }
+    .step-label { font-family: 'Times New Roman', Times, serif; font-weight: 700; font-size: 14px; color: #146BA6; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 8px; }
+    h1 { font-family: 'Times New Roman', Times, serif; font-weight: 700; font-size: 32px; line-height: 1.25; color: #212934; margin-bottom: 10px; }
+    .subtitle { color: #212934; font-size: 16px; margin-bottom: 30px; }
+
+    /* Video Section */
+    .video-section {
+      max-width: 700px; margin: 0 auto 30px; border-radius: 6px; overflow: hidden;
+      box-shadow: 0 0 20px rgba(1, 1, 1, 0.25); aspect-ratio: 16/9;
+    }
+    .video-section iframe { width: 100%; height: 100%; border: none; }
+
+    /* Form Card */
+    .form-card {
+      background: #ffffff; border-radius: 6px; padding: 40px;
+      box-shadow: 0 0 20px rgba(1, 1, 1, 0.25);
+      position: relative;
+    }
+    .form-card::before {
+      content: ''; position: absolute; top: -6px; left: 20px; right: 20px;
+      height: 6px; background: #146BA6; border-radius: 6px 6px 0 0;
+    }
+
+    .form-card h2 { font-family: 'Times New Roman', Times, serif; font-weight: 700; font-size: 24px; color: #212934; margin-bottom: 8px; }
+    .form-card .form-intro { color: #212934; font-size: 14px; margin-bottom: 25px; padding-bottom: 20px; border-bottom: 1px solid #dde6ec; }
+
+    .question { margin-bottom: 28px; }
+    .question label { display: block; font-weight: 700; font-size: 15px; color: #212934; margin-bottom: 12px; }
+    .question label .required { color: #c0392b; }
+
+    .radio-group { display: flex; flex-direction: column; gap: 8px; }
+    .radio-option {
+      display: flex; align-items: center; gap: 10px; padding: 12px 16px;
+      border: 2px solid #dde6ec; border-radius: 6px; cursor: pointer; transition: all 0.2s;
+    }
+    .radio-option:hover { border-color: #146BA6; background: #f4f4f4; }
+    .radio-option input[type="radio"] { accent-color: #146BA6; width: 18px; height: 18px; }
+    .radio-option span { font-size: 15px; }
+
+    .text-input, .select-input {
+      width: 100%; padding: 14px 16px; border: 2px solid #dde6ec; border-radius: 6px;
+      font-size: 16px; font-family: 'Lato', 'Helvetica Neue', Arial, sans-serif; transition: border-color 0.2s;
+    }
+    .text-input:focus, .select-input:focus { outline: none; border-color: #146BA6; }
+
+    .pain-scale { display: flex; gap: 6px; flex-wrap: wrap; }
+    .pain-btn {
+      width: 45px; height: 45px; border: 2px solid #dde6ec; border-radius: 6px;
+      background: #ffffff; cursor: pointer; font-size: 16px; font-weight: 700;
+      transition: all 0.2s; display: flex; align-items: center; justify-content: center;
+    }
+    .pain-btn:hover, .pain-btn.selected { background: #146BA6; color: #ffffff; border-color: #146BA6; }
+    .pain-labels { display: flex; justify-content: space-between; margin-top: 6px; font-size: 12px; color: #212934; }
+
+    .submit-btn {
+      width: 100%; padding: 16px; background: #32373c; color: #ffffff; border: none;
+      border-radius: 6px; font-size: 18px; font-weight: 700; font-family: 'Lato', 'Helvetica Neue', Arial, sans-serif;
+      cursor: pointer; transition: background 0.2s; text-transform: uppercase; letter-spacing: 1px;
+      margin-top: 20px;
+    }
+    .submit-btn:hover { background: #1e2226; }
+
+    .step-indicator { text-align: center; margin-top: 16px; font-size: 13px; color: #212934; }
+
+    /* CTA Section */
+    .cta-section { background: #f4f4f4; padding: 40px 20px; text-align: center; margin-top: 40px; }
+    .cta-section h2 { font-family: 'Times New Roman', Times, serif; font-weight: 700; font-size: 22px; color: #212934; margin-bottom: 10px; }
+    .cta-section p { color: #212934; font-size: 15px; margin-bottom: 5px; }
+    .cta-section .phone { font-size: 20px; font-weight: 700; color: #146BA6; }
+
+    .footer { text-align: center; padding: 20px; }
+    .disclaimer { font-size: 12px; color: #212934; max-width: 500px; margin: 0 auto; }
+    .copyright { font-size: 12px; color: #212934; margin-top: 10px; }
+
+    @media (max-width: 768px) {
+      .form-card { padding: 25px 20px; }
+      h1 { font-size: 26px; }
+      .pain-btn { width: 38px; height: 38px; font-size: 14px; }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="progress-bar"><div class="progress-fill"></div></div>
+
+  <div class="header">
+    <div class="logo-text">PURA VIDA</div>
+    <div class="logo-sub">CHIROPRACTIC</div>
+  </div>
+
+  <div class="step-section">
+    <div class="step-label">PASO 2</div>
+    <h1>Completa nuestro cuestionario</h1>
+    <p class="subtitle">Esto es para saber mas sobre su dolor y ayudarlo mejor.</p>
+
+    <!-- Welcome Video -->
+    <div class="video-section">
+      <iframe
+        src="https://www.youtube.com/embed/aQgkzlxAof0?rel=0"
+        title="Bienvenido a Pura Vida Quiropractica"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen>
+      </iframe>
+    </div>
+
+    <div class="form-card">
+      <h2>Formulario del paciente</h2>
+      <p class="form-intro">El siguiente formulario toma alrededor de 3 minutos y nos ayuda a prepararnos para su visita.</p>
+
+      <form id="patientForm" action="paso-3-reservar.html" method="GET">
+
+        <div class="question">
+          <label>Como inicio su dolencia? <span class="required">*</span></label>
+          <div class="radio-group">
+            <label class="radio-option">
+              <input type="radio" name="cause" value="accidente_casual" required>
+              <span>Accidente casual</span>
+            </label>
+            <label class="radio-option">
+              <input type="radio" name="cause" value="accidente_laboral">
+              <span>Accidente laboral</span>
+            </label>
+            <label class="radio-option">
+              <input type="radio" name="cause" value="accidente_auto">
+              <span>Accidente de auto</span>
+            </label>
+            <label class="radio-option">
+              <input type="radio" name="cause" value="gradual">
+              <span>Aparecio gradualmente</span>
+            </label>
+            <label class="radio-option">
+              <input type="radio" name="cause" value="otro">
+              <span>Otro</span>
+            </label>
+          </div>
+        </div>
+
+        <div class="question">
+          <label>Donde siente el dolor? <span class="required">*</span></label>
+          <div class="radio-group">
+            <label class="radio-option">
+              <input type="radio" name="painArea" value="espalda_baja" required>
+              <span>Espalda baja</span>
+            </label>
+            <label class="radio-option">
+              <input type="radio" name="painArea" value="espalda_alta">
+              <span>Espalda alta</span>
+            </label>
+            <label class="radio-option">
+              <input type="radio" name="painArea" value="cuello">
+              <span>Cuello</span>
+            </label>
+            <label class="radio-option">
+              <input type="radio" name="painArea" value="cabeza">
+              <span>Cabeza / Migranas</span>
+            </label>
+            <label class="radio-option">
+              <input type="radio" name="painArea" value="hombros">
+              <span>Hombros</span>
+            </label>
+            <label class="radio-option">
+              <input type="radio" name="painArea" value="piernas">
+              <span>Piernas / Ciatica</span>
+            </label>
+            <label class="radio-option">
+              <input type="radio" name="painArea" value="multiple">
+              <span>Varias areas</span>
+            </label>
+          </div>
+        </div>
+
+        <div class="question">
+          <label>Nivel de dolor (1-10) <span class="required">*</span></label>
+          <div class="pain-scale">
+            <button type="button" class="pain-btn" onclick="selectPain(this, 1)">1</button>
+            <button type="button" class="pain-btn" onclick="selectPain(this, 2)">2</button>
+            <button type="button" class="pain-btn" onclick="selectPain(this, 3)">3</button>
+            <button type="button" class="pain-btn" onclick="selectPain(this, 4)">4</button>
+            <button type="button" class="pain-btn" onclick="selectPain(this, 5)">5</button>
+            <button type="button" class="pain-btn" onclick="selectPain(this, 6)">6</button>
+            <button type="button" class="pain-btn" onclick="selectPain(this, 7)">7</button>
+            <button type="button" class="pain-btn" onclick="selectPain(this, 8)">8</button>
+            <button type="button" class="pain-btn" onclick="selectPain(this, 9)">9</button>
+            <button type="button" class="pain-btn" onclick="selectPain(this, 10)">10</button>
+          </div>
+          <div class="pain-labels">
+            <span>Sin dolor</span>
+            <span>Dolor severo</span>
+          </div>
+          <input type="hidden" name="painLevel" id="painLevel" required>
+        </div>
+
+        <div class="question">
+          <label>Hace cuanto tiempo tiene este dolor? <span class="required">*</span></label>
+          <div class="radio-group">
+            <label class="radio-option">
+              <input type="radio" name="duration" value="menos_1_semana" required>
+              <span>Menos de 1 semana</span>
+            </label>
+            <label class="radio-option">
+              <input type="radio" name="duration" value="1_4_semanas">
+              <span>1 - 4 semanas</span>
+            </label>
+            <label class="radio-option">
+              <input type="radio" name="duration" value="1_6_meses">
+              <span>1 - 6 meses</span>
+            </label>
+            <label class="radio-option">
+              <input type="radio" name="duration" value="mas_6_meses">
+              <span>Mas de 6 meses</span>
+            </label>
+            <label class="radio-option">
+              <input type="radio" name="duration" value="mas_1_ano">
+              <span>Mas de 1 ano</span>
+            </label>
+          </div>
+        </div>
+
+        <div class="question">
+          <label>Ha visitado un quiropractico antes?</label>
+          <div class="radio-group">
+            <label class="radio-option">
+              <input type="radio" name="previousChiro" value="si">
+              <span>Si</span>
+            </label>
+            <label class="radio-option">
+              <input type="radio" name="previousChiro" value="no">
+              <span>No</span>
+            </label>
+          </div>
+        </div>
+
+        <div class="question">
+          <label>Algo mas que debamos saber?</label>
+          <textarea class="text-input" name="notes" rows="3" placeholder="Informacion adicional sobre su condicion..."></textarea>
+        </div>
+
+        <button type="submit" class="submit-btn">SIGUIENTE: RESERVAR CITA &#8594;</button>
+        <p class="step-indicator">Paso 2 de 3</p>
+      </form>
+    </div>
+  </div>
+
+  <!-- CTA -->
+  <div class="cta-section">
+    <h2>Prefiere llamar directamente?</h2>
+    <p>Llamenos para mas detalles y mencione esta oferta.</p>
+    <p class="phone">&#9742; (210) 685-1994</p>
+  </div>
+
+  <div class="footer">
+    <p class="disclaimer">Debido a las pautas federales, los participantes en los planes de reemplazo de Medicare y Medicaid no son elegibles para ofertas gratuitas o con descuento.</p>
+    <p class="copyright">Copyright 2025 - Pura Vida Chiropractic</p>
+  </div>
+
+  <script>
+    function selectPain(btn, level) {
+      document.querySelectorAll('.pain-btn').forEach(b => b.classList.remove('selected'));
+      btn.classList.add('selected');
+      document.getElementById('painLevel').value = level;
+    }
+  </script>
+
+</body>
+</html>

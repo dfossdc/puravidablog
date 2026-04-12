@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Paso 3 - Reservar Cita | Pura Vida Chiropractic</title>
+  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: 'Lato', 'Helvetica Neue', Arial, sans-serif; color: #212934; background: #ffffff; font-size: 15px; line-height: 1.6; }
+
+    .progress-bar { background: #146BA6; height: 6px; width: 100%; }
+    .progress-fill { background: #fb8e28; height: 100%; width: 75%; }
+
+    .header { text-align: center; padding: 20px; background: #ffffff; border-bottom: 1px solid #dde6ec; }
+    .logo-text { font-family: 'Times New Roman', Times, serif; font-weight: 700; font-size: 28px; color: #146BA6; }
+    .logo-sub { font-family: 'Times New Roman', Times, serif; font-weight: 700; font-size: 14px; color: #146BA6; letter-spacing: 2px; }
+
+    .main { max-width: 800px; margin: 0 auto; padding: 40px 20px; }
+    .step-label { font-family: 'Times New Roman', Times, serif; font-weight: 700; font-size: 14px; color: #146BA6; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 8px; }
+    h1 { font-family: 'Times New Roman', Times, serif; font-weight: 700; font-size: 32px; line-height: 1.25; color: #212934; margin-bottom: 10px; }
+    .subtitle { color: #212934; font-size: 16px; margin-bottom: 30px; }
+
+    /* Booking Card */
+    .booking-card {
+      background: #ffffff; border-radius: 6px; padding: 0;
+      box-shadow: 0 0 20px rgba(1, 1, 1, 0.25);
+      overflow: hidden;
+    }
+    .booking-header {
+      background: #146BA6; color: #ffffff; padding: 20px 30px;
+      display: flex; align-items: center; gap: 15px;
+    }
+    .booking-header .icon { font-size: 28px; }
+    .booking-header h2 { font-family: 'Times New Roman', Times, serif; font-weight: 700; font-size: 20px; }
+    .booking-header p { font-size: 14px; opacity: 0.9; }
+
+    .booking-body { padding: 30px; }
+
+    /* Schedulista embed placeholder */
+    .schedulista-embed {
+      min-height: 500px; border: 2px dashed #dde6ec; border-radius: 6px;
+      display: flex; align-items: center; justify-content: center;
+      flex-direction: column; gap: 15px; padding: 40px; text-align: center;
+      background: #f4f4f4;
+    }
+    .schedulista-embed .embed-icon { font-size: 48px; color: #146BA6; }
+    .schedulista-embed h3 { font-family: 'Times New Roman', Times, serif; font-weight: 700; font-size: 18px; color: #212934; }
+    .schedulista-embed p { color: #212934; font-size: 14px; max-width: 400px; }
+    .schedulista-embed code {
+      background: #f4f4f4; color: #146BA6; padding: 8px 16px;
+      border-radius: 6px; font-size: 13px; word-break: break-all;
+    }
+
+    /* OR Call Section */
+    .or-divider { text-align: center; margin: 30px 0; position: relative; }
+    .or-divider::before { content: ''; position: absolute; top: 50%; left: 0; right: 0; height: 1px; background: #dde6ec; }
+    .or-divider span { background: #ffffff; padding: 0 20px; position: relative; color: #212934; font-weight: 700; }
+
+    .call-section {
+      background: #ffffff; border-radius: 6px; padding: 30px;
+      box-shadow: 0 0 20px rgba(1, 1, 1, 0.25); text-align: center;
+    }
+    .call-section h3 { font-family: 'Times New Roman', Times, serif; font-weight: 700; font-size: 20px; color: #212934; margin-bottom: 10px; }
+    .call-section p { color: #212934; margin-bottom: 15px; }
+    .call-btn {
+      display: inline-flex; align-items: center; gap: 10px; padding: 16px 40px;
+      background: #32373c; color: #ffffff; border-radius: 6px; font-size: 20px;
+      font-weight: 700; font-family: 'Lato', 'Helvetica Neue', Arial, sans-serif; text-decoration: none;
+      transition: background 0.2s;
+    }
+    .call-btn:hover { background: #1e2226; }
+
+    /* Info Cards */
+    .info-row { display: flex; gap: 20px; margin-top: 30px; }
+    .info-card {
+      flex: 1; background: #ffffff; border-radius: 6px; padding: 20px;
+      box-shadow: 0 0 20px rgba(1, 1, 1, 0.25); text-align: center;
+    }
+    .info-card .card-icon { font-size: 30px; margin-bottom: 10px; }
+    .info-card h4 { font-family: 'Times New Roman', Times, serif; font-weight: 700; font-size: 14px; color: #212934; margin-bottom: 6px; }
+    .info-card p { font-size: 13px; color: #212934; }
+
+    .footer { text-align: center; padding: 30px 20px; }
+    .disclaimer { font-size: 12px; color: #212934; max-width: 500px; margin: 0 auto; }
+    .copyright { font-size: 12px; color: #212934; margin-top: 10px; }
+
+    @media (max-width: 768px) {
+      h1 { font-size: 26px; }
+      .info-row { flex-direction: column; }
+      .booking-body { padding: 20px; }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="progress-bar"><div class="progress-fill"></div></div>
+
+  <div class="header">
+    <div class="logo-text">PURA VIDA</div>
+    <div class="logo-sub">CHIROPRACTIC</div>
+  </div>
+
+  <div class="main">
+    <div class="step-label">PASO 3</div>
+    <h1>Haz una cita</h1>
+    <p class="subtitle">Seleccione el dia y hora que mejor le convenga para su cita.</p>
+
+    <!-- Booking Widget -->
+    <div class="booking-card">
+      <div class="booking-header">
+        <span class="icon">&#128197;</span>
+        <div>
+          <h2>Calendario de Citas</h2>
+          <p>Examen Quiropractico Completo - $47</p>
+        </div>
+      </div>
+      <div class="booking-body">
+
+        <iframe
+          src="https://www.schedulista.com/schedule/puravidachiropractic/d25j2-6piid"
+          style="width: 100%; min-height: 600px; border: none; border-radius: 6px;"
+          title="Reservar Cita - Pura Vida Chiropractic"
+          loading="lazy">
+        </iframe>
+
+      </div>
+    </div>
+
+    <!-- OR Call -->
+    <div class="or-divider"><span>O</span></div>
+
+    <div class="call-section">
+      <h3>Llame Ahora para Reservar</h3>
+      <p>Nuestro equipo le ayudara a encontrar la mejor hora para su cita.</p>
+      <a href="tel:+12106851994" class="call-btn">&#9742; (210) 685-1994</a>
+    </div>
+
+    <!-- Info Cards -->
+    <div class="info-row">
+      <div class="info-card">
+        <div class="card-icon">&#128205;</div>
+        <h4>Direccion</h4>
+        <p>2318 NW Military Hwy, Ste 103<br>San Antonio, TX 78231</p>
+      </div>
+      <div class="info-card">
+        <div class="card-icon">&#128337;</div>
+        <h4>Horario</h4>
+        <p>Lun - Vie: 9am - 6pm<br>Sab: Con cita previa</p>
+      </div>
+      <div class="info-card">
+        <div class="card-icon">&#128176;</div>
+        <h4>Oferta Especial</h4>
+        <p>Examen completo<br><strong>Solo $47</strong></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer">
+    <p class="disclaimer">Debido a las pautas federales, los participantes en los planes de reemplazo de Medicare y Medicaid no son elegibles para ofertas gratuitas o con descuento.</p>
+    <p class="copyright">Copyright 2025 - Pura Vida Chiropractic</p>
+  </div>
+
+</body>
+</html>
