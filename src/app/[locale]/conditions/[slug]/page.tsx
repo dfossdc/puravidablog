@@ -4,6 +4,8 @@ import Link from "next/link";
 import type { Metadata } from "next";
 import { conditionsContent } from "@/lib/conditionsContent";
 import { conditionsContentEs } from "@/lib/conditionsContentEs";
+import Header from "@/components/Header";
+import Footer from "@/components/Footer";
 import styles from "./condition.module.css";
 
 // Merge Spanish content into base conditions
@@ -43,6 +45,15 @@ export async function generateMetadata({
         en: `/en/conditions/${slug}`,
         es: `/es/conditions/${slug}`,
       },
+    },
+    openGraph: {
+      title: isEs
+        ? `${c.titleEs ?? c.title} en San Antonio | Pura Vida Chiropractic`
+        : `${c.title} Treatment San Antonio TX | Pura Vida Chiropractic`,
+      description: isEs ? (c.metaDescriptionEs ?? c.metaDescription) : c.metaDescription,
+      type: "website",
+      siteName: "Pura Vida Chiropractic",
+      locale: isEs ? "es_MX" : "en_US",
     },
   };
 }
@@ -100,7 +111,9 @@ export default async function ConditionPage({
     : c.chiropracticTreatment;
 
   return (
-    <div className={styles.page}>
+    <>
+      <Header locale={locale as "en" | "es"} currentPath={`/conditions/${slug}`} />
+      <div className={styles.page}>
       {/* Hero */}
       <div className={styles.hero}>
         <Image
@@ -241,5 +254,7 @@ export default async function ConditionPage({
         </div>
       </div>
     </div>
+      <Footer locale={locale as "en" | "es"} />
+    </>
   );
 }

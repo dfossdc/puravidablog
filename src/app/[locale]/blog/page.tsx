@@ -79,7 +79,7 @@ export default async function BlogIndex({ params }: Props) {
 
   return (
     <>
-      <Header locale={locale as "en" | "es"} />
+      <Header locale={locale as "en" | "es"} currentPath="/blog" />
       <main className={styles.main}>
         <script
           type="application/ld+json"

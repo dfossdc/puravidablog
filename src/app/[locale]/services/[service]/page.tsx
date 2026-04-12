@@ -591,7 +591,7 @@ export default async function ServicePage({ params }: Props) {
 
   return (
     <>
-      <Header locale={locale as "en" | "es"} />
+      <Header locale={locale as "en" | "es"} currentPath={`/services/${service}`} />
       <main className={styles.main}>
         <script
           type="application/ld+json"
