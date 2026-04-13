@@ -3,7 +3,7 @@ title: "Quiropráctico para Dolores de Cabeza y Migrañas en San Antonio, TX | D
 description: "¿Dolores de cabeza crónicos o migrañas en San Antonio? El Dr. Dan Foss en Pura Vida Quiropráctica usa terapia craneal y quiropráctica para abordar la causa raíz."
 date: "2026-04-01"
 author: "Dr. Dan Foss, DC"
-image: "https://www.puravidasanantonio.com/wp-content/uploads/bb-plugin/cache/Chiropractor-San-Antonio-TX-Dan-Foss-Adjusting-Patients-Neck-HP-circle.webp"
+image: "/images/conditions/migrane.jpg"
 keywords:
   - quiropráctico dolores de cabeza San Antonio
   - tratamiento migraña San Antonio TX

@@ -3,7 +3,7 @@ title: "Is It Safe to Take a Baby to the Chiropractor? What Parents Need to Know
 description: "Many San Antonio parents wonder whether pediatric chiropractic is safe for infants. Dr. Dan Foss explains when and why to bring your baby to the chiropractor, and what a gentle infant adjustment looks like."
 date: "2026-04-01"
 author: "Dr. Dan Foss, DC"
-image: "https://www.puravidasanantonio.com/wp-content/uploads/2026/03/Chiropractic-San-Antonio-TX-Dan-Foss-With-Pediatric-Patient.webp"
+image: "/images/conditions/infantcolic.jpg"
 keywords:
   - baby chiropractor San Antonio
   - infant chiropractic safe San Antonio

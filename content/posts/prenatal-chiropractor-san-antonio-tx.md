@@ -3,7 +3,7 @@ title: "Prenatal Chiropractor in San Antonio, TX | Dr. Dan Foss"
 description: "Safe, gentle prenatal chiropractic care in San Antonio. Dr. Dan Foss uses the Webster Technique to relieve back pain, sciatica, and pelvic discomfort during pregnancy."
 date: "2026-04-01"
 author: "Dr. Dan Foss, DC"
-image: "https://www.puravidasanantonio.com/wp-content/uploads/bb-plugin/cache/Chiropractic-San-Antonio-TX-Pregnant-Patient-HP-circle.webp"
+image: "/images/conditions/pregnancy.webp"
 keywords:
   - prenatal chiropractor San Antonio
   - pregnancy chiropractor San Antonio TX

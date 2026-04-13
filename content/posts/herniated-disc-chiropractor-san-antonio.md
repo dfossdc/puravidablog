@@ -3,7 +3,7 @@ title: "Herniated Disc Chiropractor in San Antonio, TX | Dr. Dan Foss"
 description: "Diagnosed with a herniated disc in San Antonio? Dr. Dan Foss at Pura Vida Chiropractic offers a non-surgical approach to disc herniation that restores function and relieves pain."
 date: "2026-04-01"
 author: "Dr. Dan Foss, DC"
-image: "https://www.puravidasanantonio.com/wp-content/uploads/2026/03/Chiropractor-San-Antonio-TX-Dan-Foss-Adjusting-A-Patient-HP.webp"
+image: "/images/conditions/discproblems.jpg"
 keywords:
   - herniated disc chiropractor San Antonio
   - disc herniation treatment San Antonio TX

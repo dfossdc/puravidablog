@@ -3,7 +3,7 @@ title: "Neck Pain Chiropractor in San Antonio, TX | Dr. Dan Foss"
 description: "Chronic neck pain, stiffness, or nerve pain in your arms? Dr. Dan Foss at Pura Vida Chiropractic in San Antonio treats neck pain at the root with advanced chiropractic and cranial therapy."
 date: "2026-04-01"
 author: "Dr. Dan Foss, DC"
-image: "https://www.puravidasanantonio.com/wp-content/uploads/2026/03/Chiropractor-San-Antonio-TX-Dan-Foss-Examining-Patients-Neck-HP.webp"
+image: "/images/conditions/neck.jpg"
 keywords:
   - neck pain chiropractor San Antonio
   - cervical pain San Antonio TX

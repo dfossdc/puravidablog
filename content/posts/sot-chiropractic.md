@@ -3,7 +3,7 @@ title: "SOT Chiropractic in San Antonio, TX | Dr. Dan Foss"
 description: "Learn how Sacro-Occipital Technique (SOT) chiropractic care at Pura Vida Chiropractic in San Antonio restores spinal balance and relieves chronic pain at the root."
 date: "2026-03-31"
 author: "Dr. Dan Foss, DC"
-image: "https://www.puravidasanantonio.com/wp-content/uploads/2026/03/Chiropractor-San-Antonio-TX-Dan-Foss-Examining-Patients-Neck-HP.webp"
+image: "/images/conditions/postural-correction.webp"
 keywords:
   - SOT chiropractor San Antonio
   - Sacro-Occipital Technique San Antonio

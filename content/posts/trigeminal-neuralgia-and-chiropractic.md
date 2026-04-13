@@ -3,7 +3,7 @@ title: "Trigeminal Neuralgia and Chiropractic"
 description: "Trigeminal Neuralgia (TN) is a very painful condition where the Trigeminal cranial nerve or cranial nerve #5 becomes entrapped or demyelinated. When the nerve becomes trapped it is usually due to infl"
 date: "2023-05-03"
 author: "Dr. Dan Foss, DC"
-image: "https://www.puravidasanantonio.com/wp-content/uploads/bb-plugin/cache/Chiropractor-San-Antonio-TX-Dan-Foss-Adjusting-Patients-Neck-HP-circle.webp"
+image: "/images/conditions/headache.jpg"
 keywords:
   - chiropractor San Antonio
   - trigeminal neuralgia and chiropractic

@@ -3,7 +3,7 @@ title: "Terapia Láser Clase IV en San Antonio, TX | Dr. Dan Foss"
 description: "La terapia láser Clase IV en Pura Vida Quiropráctica en San Antonio ofrece fotobiomodulación profunda para reducir la inflamación, aliviar el dolor y acelerar la curación."
 date: "2026-03-31"
 author: "Dr. Dan Foss, DC"
-image: "https://www.puravidasanantonio.com/wp-content/uploads/bb-plugin/cache/Chiropractic-San-Antonio-TX-Laser-Therapy-Being-Used-On-A-Knee-HP-circle.webp"
+image: "/images/conditions/sports-injury.webp"
 keywords:
   - terapia láser clase IV San Antonio
   - láser terapéutico San Antonio TX

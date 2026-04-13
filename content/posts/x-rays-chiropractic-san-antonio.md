@@ -3,7 +3,7 @@ title: "X-Rays in Chiropractic Care | Pura Vida Chiropractic San Antonio"
 description: "Learn why chiropractors take X-rays, what spinal X-rays reveal, and how Dr. Dan Foss uses imaging at Pura Vida Chiropractic in San Antonio, TX."
 date: "2023-05-24"
 author: "Dr. Dan Foss, DC"
-image: "https://puravidasanantonio.net/wp-content/uploads/2023/05/Radiografias-Before-and-After.jpg"
+image: "/images/conditions/rib-xray.jpg"
 keywords:
   - chiropractic x-rays San Antonio
   - spinal x-ray chiropractor

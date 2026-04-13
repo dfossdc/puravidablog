@@ -5,7 +5,7 @@ date: "2026-03-20"
 author: "Dr. Dan Foss"
 lang: "es"
 slug: "primera-visita-quiropractico-que-esperar"
-image: "https://www.puravidasanantonio.com/wp-content/uploads/bb-plugin/cache/Chiropractor-San-Antonio-TX-Dan-Foss-Examining-Patient-HP-circle.webp"
+image: "/images/conditions/latinofamily.jpg"
 keywords: "primera visita quiropráctico san antonio, qué esperar quiropráctico, cómo es el ajuste quiropráctico, quiropráctico español san antonio, evaluación quiropráctica gratuita"
 ---
 

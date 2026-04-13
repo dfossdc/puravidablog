@@ -3,7 +3,7 @@ title: "Enfermedad Articular Degenerativa en San Antonio, TX | Dr. Dan Foss"
 description: "¿Sufre de enfermedad articular degenerativa u osteoartritis en San Antonio? El Dr. Dan Foss combina quiropráctica SOT, SoftWave, ondas de choque y láser Clase IV para reducir el dolor y restaurar la función."
 date: "2026-04-01"
 author: "Dr. Dan Foss, DC"
-image: "https://www.puravidasanantonio.com/wp-content/uploads/2026/03/Chiropractor-San-Antonio-TX-Dan-Foss-Adjusting-A-Patient-HP.webp"
+image: "/images/conditions/arthritis.webp"
 keywords:
   - enfermedad articular degenerativa San Antonio
   - osteoartritis quiropráctico San Antonio TX

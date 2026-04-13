@@ -3,7 +3,7 @@ title: "Quiropráctico de Bienestar en San Antonio, TX | Dr. Dan Foss"
 description: "¿Busca un quiropráctico de bienestar en San Antonio? El Dr. Dan Foss en Pura Vida Quiropráctica ayuda a las familias a lograr una salud duradera con un enfoque holístico e integral."
 date: "2026-04-01"
 author: "Dr. Dan Foss, DC"
-image: "https://www.puravidasanantonio.com/wp-content/uploads/bb-plugin/cache/Chiropractor-San-Antonio-TX-Dan-Foss-Examining-Patient-HP-circle.webp"
+image: "/images/conditions/latinofamily.jpg"
 keywords:
   - quiropráctico bienestar San Antonio
   - quiropráctico familiar San Antonio TX

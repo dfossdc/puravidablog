@@ -3,7 +3,7 @@ title: "Hernia Hiatal y la Quiropráctica"
 description: "La hernia hiatal es una condición en la cual una porción del estómago se desliza hacia arriba a través del diafragma y se asienta en el tórax, causando síntomas como acidez estomacal y reflujo gastroe"
 date: "2023-05-24"
 author: "Dr. Dan Foss, DC"
-image: "https://www.puravidasanantonio.com/wp-content/uploads/2026/03/Chiropractor-San-Antonio-TX-Dan-Foss-Adjusting-A-Patient-HP.webp"
+image: "/images/conditions/ibs.jpg"
 keywords:
   - chiropractor San Antonio
   - hernia hiatal y la quiropráctica

@@ -3,7 +3,7 @@ title: "Neck Pain and Chiropractic Care"
 description: "A pilot study published in the December 2005 scientific journal, Clinical Chiropractic, from the European association, The College of Chiropractors, showed that chiropractic helped subjects in the stu"
 date: "2023-05-03"
 author: "Dr. Dan Foss, DC"
-image: "https://www.puravidasanantonio.com/wp-content/uploads/2026/03/Chiropractor-San-Antonio-TX-Dan-Foss-Examining-Patients-Neck-HP.webp"
+image: "/images/conditions/neck.jpg"
 keywords:
   - chiropractor San Antonio
   - neck pain and chiropractic care

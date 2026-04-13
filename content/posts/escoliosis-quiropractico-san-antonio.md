@@ -3,7 +3,7 @@ title: "Quiropráctico para Escoliosis en San Antonio, TX | Dr. Dan Foss"
 description: "¿Vive con escoliosis en San Antonio? El Dr. Dan Foss en Pura Vida Quiropráctica usa la técnica SOT para reducir el dolor, mejorar la postura y desacelerar la progresión sin cirugía."
 date: "2026-04-01"
 author: "Dr. Dan Foss, DC"
-image: "https://www.puravidasanantonio.com/wp-content/uploads/2026/03/Chiropractor-San-Antonio-TX-Dan-Foss-Adjusting-A-Patient-HP.webp"
+image: "/images/conditions/scoliosis.jpg"
 keywords:
   - quiropráctico escoliosis San Antonio
   - tratamiento escoliosis San Antonio TX

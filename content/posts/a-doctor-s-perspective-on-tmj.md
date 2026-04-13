@@ -3,7 +3,7 @@ title: "A Doctor’s perspective on TMJ"
 description: "Over the past year I have experienced a lot of dental issues and suffered from TMJ. As a result I would like to compile all of my experiences here so that you can have a definitive guide to treating y"
 date: "2023-05-03"
 author: "Dr. Dan Foss, DC"
-image: "https://www.puravidasanantonio.com/wp-content/uploads/bb-plugin/cache/Chiropractor-San-Antonio-TX-Dan-Foss-Adjusting-Patients-Neck-HP-circle.webp"
+image: "/images/conditions/tmj.webp"
 keywords:
   - chiropractor San Antonio
   - a doctor’s perspective on tmj

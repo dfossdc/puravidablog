@@ -3,7 +3,7 @@ title: "Alivio del Dolor en las Articulaciones en San Antonio, TX | Pura Vida Qu
 description: "¿Sufre de dolor en las articulaciones en San Antonio? El Dr. Dan Foss usa terapia SoftWave, ondas de choque, láser Clase IV y quiropráctica SOT para aliviar el dolor articular de forma natural."
 date: "2026-04-01"
 author: "Dr. Dan Foss, DC"
-image: "https://www.puravidasanantonio.com/wp-content/uploads/2026/03/Chiropractor-San-Antonio-TX-Dan-Foss-Adjusting-A-Patient-HP.webp"
+image: "/images/conditions/arthritic-hands.jpg"
 keywords:
   - dolor articular quiropráctico San Antonio
   - alivio dolor articulaciones San Antonio TX

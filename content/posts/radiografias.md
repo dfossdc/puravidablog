@@ -3,7 +3,7 @@ title: "Radiografías"
 description: "Los quiroprácticos toman radiografías para obtener información detallada sobre la estructura ósea y la alineación de la columna vertebral y otras articulaciones. Las radiografías son una herramienta i"
 date: "2023-05-24"
 author: "Dr. Dan Foss, DC"
-image: "https://www.puravidasanantonio.com/wp-content/uploads/bb-plugin/cache/Chiropractor-San-Antonio-TX-Dan-Foss-Examining-Patient-HP-circle.webp"
+image: "/images/conditions/rib-xray.jpg"
 keywords:
   - chiropractor San Antonio
   - radiografías

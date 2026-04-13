@@ -3,7 +3,7 @@ title: "Terapia de Ondas de Choque en San Antonio, TX | Dr. Dan Foss"
 description: "La terapia de ondas de choque en Pura Vida Quiropráctica en San Antonio descompone el tejido cicatricial, estimula la curación y resuelve el dolor crónico sin cirugía."
 date: "2026-03-31"
 author: "Dr. Dan Foss, DC"
-image: "https://www.puravidasanantonio.com/wp-content/uploads/2026/03/Chiropractic-San-Antonio-TX-Shockwave-Instrument-Being-Used-On-Patients-Shoulder.webp"
+image: "/images/shockwave.jpg"
 keywords:
   - terapia de ondas de choque San Antonio
   - ESWT San Antonio TX

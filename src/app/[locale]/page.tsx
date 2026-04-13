@@ -6,6 +6,7 @@ import Footer from "@/components/Footer";
 import LocalBusinessSchema from "@/components/LocalBusinessSchema";
 import ReviewCarousel from "@/components/ReviewCarousel";
 import InsuranceSection from "@/components/InsuranceSection";
+import YouTubeFacade from "@/components/YouTubeFacade";
 import styles from "./home.module.css";
 
 const BASE_URL = "https://puravidasanantonio.com";
@@ -29,6 +30,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     description: isEs
       ? "El Dr. Dan Foss — mejor quiropráctico en San Antonio TX. Ajuste quiropráctico San Antonio, terapia SoftWave, láser Clase IV. Quiropráctico cerca de mí en Stone Oak, Castle Hills, Alamo Heights y Helotes. Técnica SOT, quiropráctico que habla español, más de 23 años de experiencia. ¡Evaluación quiropráctica gratis San Antonio!"
       : "Dr. Dan Foss — best chiropractor in San Antonio TX. Chiropractic adjustment San Antonio, SoftWave therapy, Class IV laser. Chiropractor near me serving Stone Oak, Castle Hills, Alamo Heights, and Helotes. SOT chiropractic, Spanish-speaking chiropractor, 23+ years experience. Free chiropractic evaluation San Antonio!",
+    keywords: isEs
+      ? ["quiropráctico San Antonio", "mejor quiropráctico San Antonio TX", "quiropráctico cerca de mí", "ajuste quiropráctico San Antonio", "quiropráctica SOT San Antonio", "quiropráctico que habla español San Antonio", "terapia SoftWave San Antonio", "láser Clase IV San Antonio"]
+      : ["chiropractor San Antonio", "best chiropractor San Antonio TX", "chiropractor near me San Antonio", "chiropractic adjustment San Antonio", "SOT chiropractic San Antonio", "SoftWave therapy San Antonio", "Class IV laser San Antonio", "Spanish speaking chiropractor San Antonio"],
     alternates: {
       canonical,
       languages: {
@@ -74,7 +78,7 @@ const services = [
     slugEs: "terapia-softwave",
     nameEn: "SoftWave Therapy",
     nameEs: "Terapia SoftWave",
-    image: "https://www.puravidasanantonio.com/wp-content/uploads/2026/03/Chiropractic-San-Antonio-TX-Softwave-Instrument-Being-Used-On-Patients-Knee.webp",
+    image: "/images/softwave.jpg",
     alt: "SoftWave therapy treatment",
   },
   {
@@ -82,7 +86,7 @@ const services = [
     slugEs: "terapia-ondas-de-choque",
     nameEn: "Shockwave Therapy",
     nameEs: "Terapia de Ondas de Choque",
-    image: "https://www.puravidasanantonio.com/wp-content/uploads/bb-plugin/cache/Chiropractic-San-Antonio-TX-Shockwave-Instrument-Being-Used-On-Patients-Back-HP-circle.webp",
+    image: "/images/shockwave.jpg",
     alt: "Shockwave therapy treatment",
   },
   {
@@ -205,6 +209,44 @@ const conditions = [
   { label: "Restless Leg Syndrome",      labelEs: "Síndrome de Piernas Inquietas",   image: "/images/conditions/restlesslegsyndrome.jpg",  alt: "Lower leg anatomy showing restless leg syndrome nerve and muscle areas - chiropractor San Antonio TX", title: "Restless leg syndrome relief San Antonio chiropractor",         href: "/[locale]/conditions/restless-leg-syndrome" },
   { label: "Poor Circulation",           labelEs: "Mala Circulación",                image: "/images/conditions/poorcirculation.jpg",       alt: "Lower body circulation anatomy - poor circulation treatment San Antonio chiropractor",                title: "Poor circulation treatment San Antonio chiropractor",               href: "/[locale]/conditions/poor-circulation" },
   { label: "Stress & Anxiety Tension",   labelEs: "Tensión por Estrés y Ansiedad",   image: "/images/conditions/stressanxietytension.jpg", alt: "Woman with stress and anxiety tension holding aching head - chiropractor San Antonio TX",              title: "Stress anxiety tension relief San Antonio chiropractor",            href: "/[locale]/conditions/stress-anxiety" },
+
+  // NEW CONDITIONS — TIER 1: HIGH SEARCH VOLUME
+  { label: "Spinal Stenosis",             labelEs: "Estenosis Espinal",                   image: "/images/conditions/spinal-stenosis.jpg",       alt: "Spinal stenosis narrowing of spinal canal - chiropractor San Antonio TX",                            title: "Spinal stenosis treatment San Antonio chiropractor",                href: "/[locale]/conditions/spinal-stenosis" },
+  { label: "Whiplash",                    labelEs: "Latigazo Cervical",                   image: "/images/conditions/whiplash.jpg",              alt: "Whiplash neck injury from car accident - chiropractor San Antonio TX",                               title: "Whiplash injury treatment San Antonio chiropractor",                href: "/[locale]/conditions/whiplash" },
+  { label: "Pinched Nerve",               labelEs: "Nervio Comprimido",                   image: "/images/conditions/pinched-nerve.jpg",         alt: "Pinched nerve compression in spine - chiropractor San Antonio TX",                                   title: "Pinched nerve treatment San Antonio chiropractor",                  href: "/[locale]/conditions/pinched-nerve" },
+  { label: "Degenerative Disc Disease",   labelEs: "Enfermedad Degenerativa del Disco",   image: "/images/conditions/degenerative-disc.jpg",     alt: "Degenerative disc disease spinal degeneration - chiropractor San Antonio TX",                        title: "Degenerative disc disease treatment San Antonio chiropractor",      href: "/[locale]/conditions/degenerative-disc-disease" },
+  { label: "Bulging Disc",                labelEs: "Disco Abultado",                      image: "/images/conditions/bulging-disc.jpg",          alt: "Bulging disc pressing on spinal nerve - chiropractor San Antonio TX",                                title: "Bulging disc treatment San Antonio chiropractor",                   href: "/[locale]/conditions/bulging-disc" },
+  { label: "Chronic Pain",                labelEs: "Dolor Crónico",                       image: "/images/conditions/chronic-pain.jpg",          alt: "Chronic pain management with chiropractic care - chiropractor San Antonio TX",                       title: "Chronic pain management San Antonio chiropractor",                  href: "/[locale]/conditions/chronic-pain" },
+  { label: "Muscle Spasms",               labelEs: "Espasmos Musculares",                 image: "/images/conditions/muscle-spasms.jpg",         alt: "Muscle spasm tension in back and neck - chiropractor San Antonio TX",                                title: "Muscle spasm relief San Antonio chiropractor",                      href: "/[locale]/conditions/muscle-spasms" },
+
+  // NEW CONDITIONS — TIER 2: SOT/CMRT DIFFERENTIATORS
+  { label: "Postpartum Recovery",          labelEs: "Recuperación Posparto",               image: "/images/conditions/postpartum-recovery.jpg",   alt: "Postpartum recovery chiropractic care for new mothers - chiropractor San Antonio TX",                title: "Postpartum recovery chiropractic San Antonio",                      href: "/[locale]/conditions/postpartum-recovery" },
+  { label: "Round Ligament Pain",          labelEs: "Dolor del Ligamento Redondo",         image: "/images/conditions/round-ligament-pain.jpg",   alt: "Round ligament pain during pregnancy - chiropractor San Antonio TX",                                 title: "Round ligament pain pregnancy chiropractor San Antonio",            href: "/[locale]/conditions/round-ligament-pain" },
+  { label: "Post-Concussion Syndrome",     labelEs: "Síndrome Post-Conmoción",            image: "/images/conditions/post-concussion.jpg",       alt: "Post-concussion syndrome cranial adjusting - chiropractor San Antonio TX",                           title: "Post-concussion syndrome treatment San Antonio chiropractor",       href: "/[locale]/conditions/post-concussion-syndrome" },
+  { label: "BPPV (Positional Vertigo)",    labelEs: "VPPB (Vértigo Posicional)",          image: "/images/conditions/bppv.jpg",                  alt: "BPPV benign paroxysmal positional vertigo treatment - chiropractor San Antonio TX",                  title: "BPPV positional vertigo treatment San Antonio chiropractor",        href: "/[locale]/conditions/bppv" },
+  { label: "Immune System Support",        labelEs: "Apoyo al Sistema Inmunológico",      image: "/images/conditions/immune-support.jpg",        alt: "Immune system support through chiropractic care - chiropractor San Antonio TX",                      title: "Immune system support San Antonio chiropractor",                    href: "/[locale]/conditions/immune-system-support" },
+  { label: "Bed-Wetting (Enuresis)",       labelEs: "Enuresis (Mojar la Cama)",           image: "/images/conditions/bedwetting.jpg",            alt: "Pediatric bed-wetting enuresis chiropractic care - chiropractor San Antonio TX",                     title: "Bed-wetting enuresis pediatric chiropractor San Antonio",           href: "/[locale]/conditions/bed-wetting-enuresis" },
+  { label: "Constipation",                 labelEs: "Estreñimiento",                      image: "/images/conditions/constipation.jpg",          alt: "Constipation digestive relief chiropractic care - chiropractor San Antonio TX",                      title: "Constipation relief San Antonio chiropractor",                      href: "/[locale]/conditions/constipation" },
+  { label: "Bloating & Gas",               labelEs: "Hinchazón y Gases",                  image: "/images/conditions/bloating.jpg",              alt: "Bloating and gas digestive relief chiropractic care - chiropractor San Antonio TX",                  title: "Bloating gas relief San Antonio chiropractor",                      href: "/[locale]/conditions/bloating-gas" },
+
+  // NEW CONDITIONS — TIER 3: COMPLETENESS
+  { label: "Radiculopathy",               labelEs: "Radiculopatía",                       image: "/images/conditions/radiculopathy.jpg",         alt: "Radiculopathy nerve root compression treatment - chiropractor San Antonio TX",                       title: "Radiculopathy treatment San Antonio chiropractor",                  href: "/[locale]/conditions/radiculopathy" },
+  { label: "Cluster Headaches",            labelEs: "Cefaleas en Racimo",                  image: "/images/conditions/cluster-headaches.jpg",     alt: "Cluster headache severe pain relief - chiropractor San Antonio TX",                                  title: "Cluster headache relief San Antonio chiropractor",                  href: "/[locale]/conditions/cluster-headaches" },
+  { label: "Occipital Neuralgia",          labelEs: "Neuralgia Occipital",                 image: "/images/conditions/occipital-neuralgia.jpg",   alt: "Occipital neuralgia nerve pain back of head - chiropractor San Antonio TX",                          title: "Occipital neuralgia treatment San Antonio chiropractor",            href: "/[locale]/conditions/occipital-neuralgia" },
+  { label: "Shoulder Impingement",         labelEs: "Pinzamiento de Hombro",               image: "/images/conditions/shoulder-impingement.jpg",  alt: "Shoulder impingement syndrome treatment - chiropractor San Antonio TX",                              title: "Shoulder impingement treatment San Antonio chiropractor",           href: "/[locale]/conditions/shoulder-impingement" },
+  { label: "Bursitis",                     labelEs: "Bursitis",                            image: "/images/conditions/bursitis.jpg",              alt: "Bursitis joint inflammation treatment - chiropractor San Antonio TX",                                title: "Bursitis treatment San Antonio chiropractor",                       href: "/[locale]/conditions/bursitis" },
+  { label: "Tendonitis",                   labelEs: "Tendinitis",                          image: "/images/conditions/tendonitis.jpg",            alt: "Tendonitis inflammation treatment - chiropractor San Antonio TX",                                    title: "Tendonitis treatment San Antonio chiropractor",                     href: "/[locale]/conditions/tendonitis" },
+  { label: "Work Injuries",                labelEs: "Lesiones Laborales",                  image: "/images/conditions/work-injuries.jpg",         alt: "Work injury occupational injury treatment - chiropractor San Antonio TX",                            title: "Work injury treatment San Antonio chiropractor",                    href: "/[locale]/conditions/work-injuries" },
+  { label: "Repetitive Strain Injury",     labelEs: "Lesión por Esfuerzo Repetitivo",     image: "/images/conditions/rsi.jpg",                   alt: "Repetitive strain injury RSI treatment - chiropractor San Antonio TX",                               title: "Repetitive strain injury treatment San Antonio chiropractor",       href: "/[locale]/conditions/repetitive-strain-injury" },
+  { label: "Text Neck",                    labelEs: "Cuello de Texto",                     image: "/images/conditions/text-neck.jpg",             alt: "Text neck tech neck posture from phone use - chiropractor San Antonio TX",                           title: "Text neck tech neck treatment San Antonio chiropractor",            href: "/[locale]/conditions/text-neck" },
+  { label: "Cervicogenic Headaches",       labelEs: "Cefaleas Cervicogénicas",            image: "/images/conditions/cervicogenic-headaches.jpg",alt: "Cervicogenic headache from neck dysfunction - chiropractor San Antonio TX",                          title: "Cervicogenic headache treatment San Antonio chiropractor",          href: "/[locale]/conditions/cervicogenic-headaches" },
+  { label: "Osteoporosis Support",         labelEs: "Apoyo para Osteoporosis",             image: "/images/conditions/osteoporosis.jpg",          alt: "Osteoporosis bone density support chiropractic care - chiropractor San Antonio TX",                  title: "Osteoporosis support San Antonio chiropractor",                     href: "/[locale]/conditions/osteoporosis-support" },
+  { label: "Costochondritis",              labelEs: "Costocondritis",                      image: "/images/conditions/costochondritis.jpg",       alt: "Costochondritis chest wall rib pain treatment - chiropractor San Antonio TX",                        title: "Costochondritis treatment San Antonio chiropractor",                href: "/[locale]/conditions/costochondritis" },
+  { label: "Balance Disorders",            labelEs: "Trastornos del Equilibrio",           image: "/images/conditions/balance-disorders.jpg",     alt: "Balance disorders vestibular treatment - chiropractor San Antonio TX",                               title: "Balance disorder treatment San Antonio chiropractor",               href: "/[locale]/conditions/balance-disorders" },
+  { label: "Numbness & Tingling",          labelEs: "Entumecimiento y Hormigueo",         image: "/images/conditions/numbness-tingling.jpg",     alt: "Numbness tingling in hands and feet treatment - chiropractor San Antonio TX",                        title: "Numbness tingling treatment San Antonio chiropractor",              href: "/[locale]/conditions/numbness-tingling" },
+  { label: "Bruxism (Jaw Clenching)",      labelEs: "Bruxismo (Apretar la Mandíbula)",    image: "/images/conditions/bruxism.jpg",               alt: "Bruxism jaw clenching teeth grinding treatment - chiropractor San Antonio TX",                       title: "Bruxism jaw clenching treatment San Antonio chiropractor",          href: "/[locale]/conditions/bruxism" },
+  { label: "Allergies",                    labelEs: "Alergias",                            image: "/images/conditions/allergies.jpg",             alt: "Allergy relief immune nervous system chiropractic - chiropractor San Antonio TX",                    title: "Allergy relief San Antonio chiropractor",                           href: "/[locale]/conditions/allergies" },
+  { label: "Anxiety & Depression",         labelEs: "Ansiedad y Depresión",               image: "/images/conditions/anxiety-depression.jpg",    alt: "Anxiety depression nervous system regulation - chiropractor San Antonio TX",                         title: "Anxiety depression relief San Antonio chiropractor",                href: "/[locale]/conditions/anxiety-depression" },
 ];
 
 const videoTestimonials = [
@@ -284,12 +326,12 @@ export default async function HomePage({ params }: Props) {
                 {isEs ? "Cuidado Quiropráctico Bilingüe — San Antonio, TX" : "Bilingual Chiropractic Care — San Antonio, TX"}
               </p>
               <h1 className={styles.heroTitle}>
-                {isEs ? "Quiropráctico de San Antonio Mejor Calificado" : "Top Rated San Antonio Chiropractor"}
+                {isEs ? "No Solo Ajustamos su Espalda. Tratamos Todo su Sistema." : "We Don't Just Adjust Your Back. We Treat Your Whole System."}
               </h1>
               <p className={styles.heroSub}>
                 {isEs
-                  ? "El Dr. Dan Foss de Pura Vida Quiropráctica es un destacado quiropráctico bilingüe que sirve a San Antonio, Castle Hills, Stone Oak, Alamo Heights, Leon Valley, Helotes y Shavano Park — brindando cuidado personalizado para toda su familia."
-                  : "Dr. Dan Foss of Pura Vida Chiropractic is a leading bilingual chiropractor serving San Antonio, Castle Hills, Stone Oak, Alamo Heights, Leon Valley, Helotes, and Shavano Park — providing personalized care for your entire family."}
+                  ? "La única práctica con certificación SOT Avanzada en San Antonio — tratando la columna vertebral, los órganos y el cráneo como un sistema integrado."
+                  : "San Antonio's only Advanced SOT certified practice — treating the spine, organs, and cranium as one connected system."}
               </p>
               <div className={styles.heroTrust}>
                 <span className={styles.heroTrustItem}>⭐ {isEs ? "147+ Reseñas 5 Estrellas" : "147+ Five-Star Reviews"}</span>
@@ -307,12 +349,12 @@ export default async function HomePage({ params }: Props) {
             </div>
             <div className={styles.heroImageWrap}>
               <Image
-                src="https://www.puravidasanantonio.com/wp-content/uploads/2026/03/Chiropractor-San-Antonio-TX-Dan-Foss-About.webp"
+                src="/images/hero-dr-foss.webp"
                 alt={isEs ? "Dr. Dan Foss Quiropráctico San Antonio TX" : "Dr. Dan Foss Chiropractor San Antonio TX"}
                 fill
                 className={styles.heroImg}
                 priority
-                unoptimized
+                sizes="(max-width: 768px) 100vw, 50vw"
               />
             </div>
           </div>
@@ -347,14 +389,31 @@ export default async function HomePage({ params }: Props) {
                 ? "Conozca al Dr. Dan Foss y descubra cómo nuestro Protocolo Pura Vida puede ayudarle."
                 : "Meet Dr. Dan Foss and discover how our Pura Vida Protocol can help you achieve optimal health."}
             </p>
+            <div className={styles.missionVisionBox}>
+              <div className={styles.mvItem}>
+                <span className={styles.mvLabel}>{isEs ? "Nuestra Misión" : "Our Mission"}</span>
+                <p className={styles.mvText}>
+                  {isEs
+                    ? "Nuestra misión en Pura Vida Quiropráctica es restaurar la salud integral a la comunidad de San Antonio — tratando la columna vertebral, los órganos y el cráneo como un sistema integrado, encontrando y corrigiendo las causas raíz que otros profesionales pasan por alto, en inglés y español, para cada miembro de su familia."
+                    : "Our mission at Pura Vida Chiropractic is to restore whole-body health to the San Antonio community — treating the spine, organs, and cranium as one connected system, finding and correcting root causes that other practitioners miss, in English and Spanish, for every member of your family."}
+                </p>
+              </div>
+              <div className={styles.mvDivider} aria-hidden="true" />
+              <div className={styles.mvItem}>
+                <span className={styles.mvLabel}>{isEs ? "Nuestra Visión" : "Our Vision"}</span>
+                <p className={styles.mvText}>
+                  {isEs
+                    ? "Un mundo donde la salud sea la norma, no solo un privilegio."
+                    : "A world where health is the norm, not just a privilege."}
+                </p>
+              </div>
+            </div>
             <div className={styles.videoWrap}>
-              <iframe
-                src={`https://www.youtube.com/embed/${welcomeVideoId}`}
+              <YouTubeFacade
+                videoId={welcomeVideoId}
                 title={isEs ? "Bienvenido a Pura Vida Quiropráctica" : "Welcome To Pura Vida Chiropractic"}
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowFullScreen
                 className={styles.videoEmbed}
-                loading="lazy"
+                lazy
               />
             </div>
           </div>
@@ -369,8 +428,13 @@ export default async function HomePage({ params }: Props) {
               </h2>
               <p>
                 {isEs
-                  ? "En Pura Vida Quiropráctica, creemos que su cuerpo fue diseñado para sanar. El Dr. Dan Foss trae más de 23 años de experiencia quiropráctica internacional — estudiando en 3 continentes y 5 países — a las familias de San Antonio. Su exclusivo Protocolo Pura Vida integra quiropráctica, osteopatía, terapia manual y modalidades energéticas, tratando la causa raíz, no solo los síntomas."
-                  : "At Pura Vida Chiropractic, we believe your body was designed to heal. Dr. Dan Foss brings over 23 years of international chiropractic experience — studying across 3 continents and 5 countries — to San Antonio families. His unique Pura Vida Protocol integrates chiropractic, osteopathic, manual therapy, and energetic modalities, treating the root cause, not just the symptoms."}
+                  ? "El Dr. Dan Foss es el único quiropráctico certificado en SOT Avanzado en San Antonio, Texas — uno de los pocos profesionales en el mundo que ha completado el currículo completo de SOT Avanzado a través de SORSI, incluyendo el dominio del ajuste de órganos CMRT y la Craniopatía SOT. Su práctica trata la columna vertebral, los órganos y el cráneo como un sistema integrado. Esa diferencia es la razón por la que los pacientes acuden a Pura Vida desde toda San Antonio — y por la que finalmente obtienen resultados después de años de ser tratados con síntomas en lugar de causas."
+                  : "Dr. Dan Foss is the only Advanced SOT certified chiropractor in San Antonio, Texas — one of a small number of practitioners worldwide who have completed the full Advanced SOT curriculum through SORSI, including mastery of CMRT organ adjusting and SOT Craniopathy. His practice treats the spine, the organs, and the cranium as one integrated system. That difference is why patients come to Pura Vida from across San Antonio — and why they finally get results after years of being managed rather than healed."}
+              </p>
+              <p>
+                {isEs
+                  ? "Su camino hacia este nivel de especialización comenzó con una experiencia personal: de niño, Dan tuvo tortícolis — la cabeza bloqueada hacia un lado. Un médico recetó medicamentos. Sus padres lo llevaron a un quiropráctico. Un ajuste cambió todo. Veintitrés años después, esa experiencia es la razón por la que existe el Protocolo Pura Vida."
+                  : "His path to this level of specialization began with a personal experience: as a child, Dan had torticollis — his head locked to one side. A medical doctor prescribed pharmaceuticals. His parents took him to a chiropractor instead. One adjustment changed everything. Twenty-three years later, that experience is the reason the Pura Vida Protocol exists."}
               </p>
               <div className={styles.aboutBtns}>
                 <Link href={`/${locale}/about`} className={styles.learnMore}>
@@ -472,16 +536,16 @@ export default async function HomePage({ params }: Props) {
             <div className={styles.pillarsGrid}>
               {(isEs
                 ? [
-                    { img: "/images/sideposture.jpg", imgAlt: "Dr. Foss realizando ajuste quiropráctico", title: "Quiropráctica", desc: "Ajustes SOT® Certificado Avanzado de columna y pelvis que restauran la alineación correcta y la función del sistema nervioso." },
-                    { img: "/images/cranialadult.jpg", imgAlt: "Dr. Foss realizando ajuste craneal", title: "Ajuste Craneal", desc: "Técnicas precisas de huesos craneales que alivian la presión, mejoran la función cerebral y abordan dolores de cabeza, mandíbula y cuello." },
-                    { img: "/images/adrenals.jpg", imgAlt: "Dr. Foss realizando manipulación de órganos", title: "Manipulación de Órganos", desc: "Técnicas viscerales suaves para restaurar la posición, movilidad y función correcta de los órganos, mejorando la salud integral." },
-                    { img: "/images/shockwave-back.webp", imgAlt: "Dr. Foss realizando terapia de ondas de choque", title: "Modalidades Avanzadas", desc: "Terapias SoftWave, Ondas de Choque y Láser Clase IV para cicatrización acelerada y alivio del dolor." },
+                    { img: "/images/sideposture.jpg", imgAlt: "Dr. Foss realizando ajuste quiropráctico SOT", title: "Pilar 1 — La Columna y la Pelvis (SOT)", desc: "La Técnica Sacro Occipital utiliza bloques pélvicos y análisis neurológico preciso para corregir la base estructural de su salud. Los protocolos de Categoría I, II y III abordan la inestabilidad sacroilíaca, problemas de disco, ciática y disfunción pélvica en cascada." },
+                    { img: "/images/adrenals.jpg", imgAlt: "Dr. Foss realizando ajuste de órganos CMRT", title: "Pilar 2 — Los Órganos (CMRT)", desc: "La Técnica de Reflejo Manipulativo Quiropráctico es la rama de ajuste de órganos del SOT Avanzado. Cada vértebra torácica se conecta a un órgano a través del sistema nervioso autónomo. El Dr. Foss es el único quiropráctico certificado en CMRT en San Antonio." },
+                    { img: "/images/cranialadult.jpg", imgAlt: "Dr. Foss realizando ajuste craneal SOT Craniopatía", title: "Pilar 3 — El Cráneo (Craniopatía SOT)", desc: "Los 22 huesos del cráneo continúan moviéndose en la vida adulta, impulsando el flujo del líquido cefalorraquídeo. La Craniopatía SOT corrige dolores de cabeza, vértigo, ATM, infecciones de oído en niños y síndrome post-conmoción. El Dr. Foss es el único craniopático SOT Avanzado de San Antonio." },
+                    { img: "/images/shockwave.jpg", imgAlt: "Dr. Foss realizando terapia de ondas de choque", title: "Modalidades Avanzadas", desc: "Terapias SoftWave, Ondas de Choque y Láser Clase IV para cicatrización acelerada y alivio del dolor duradero." },
                   ]
                 : [
-                    { img: "/images/sideposture.jpg", imgAlt: "Dr. Foss performing chiropractic adjustment", title: "Chiropractic", desc: "Advanced SOT® Certified spinal and pelvic adjustments that restore proper alignment and full nervous system function." },
-                    { img: "/images/cranialadult.jpg", imgAlt: "Dr. Foss performing cranial adjusting", title: "Cranial Adjusting", desc: "Precise cranial bone techniques that relieve pressure, improve brain function, and address headaches, jaw pain, and more." },
-                    { img: "/images/adrenals.jpg", imgAlt: "Dr. Foss performing organ manipulation", title: "Organ Manipulation", desc: "Gentle visceral techniques to restore proper organ position, mobility, and function for improved whole-body health." },
-                    { img: "/images/shockwave-back.webp", imgAlt: "Dr. Foss performing shockwave therapy", title: "Advanced Modalities", desc: "SoftWave, Shockwave, and Class IV Laser therapies for accelerated healing and lasting pain relief." },
+                    { img: "/images/sideposture.jpg", imgAlt: "Dr. Foss performing SOT chiropractic adjustment", title: "Pillar 1 — The Spine & Pelvis (SOT)", desc: "Sacro Occipital Technique uses pelvic blocks and precise neurological analysis to correct the structural foundation of your health. Category I, II, and III protocols address sacroiliac instability, disc involvement, sciatica, and cascading pelvic dysfunction." },
+                    { img: "/images/adrenals.jpg", imgAlt: "Dr. Foss performing CMRT organ adjustment", title: "Pillar 2 — The Organs (CMRT)", desc: "Chiropractic Manipulative Reflex Technique is the organ-adjusting branch of Advanced SOT. Every thoracic vertebra connects to an organ through the autonomic nervous system. CMRT addresses GERD, adrenal fatigue, PMS, gallbladder dysfunction, allergies, and fertility challenges. Dr. Foss is the only CMRT-certified chiropractor in San Antonio." },
+                    { img: "/images/cranialadult.jpg", imgAlt: "Dr. Foss performing SOT Craniopathy cranial adjustment", title: "Pillar 3 — The Cranium (SOT Craniopathy)", desc: "The 22 bones of your skull continue to move in adulthood, driving cerebrospinal fluid flow that nourishes your brain and spinal cord. SOT Craniopathy corrects headaches, vertigo, TMJ, ear infections in children, post-concussion syndrome, and adjustments that won't hold. Dr. Foss is San Antonio's only Advanced SOT craniopath." },
+                    { img: "/images/shockwave.jpg", imgAlt: "Dr. Foss performing shockwave therapy", title: "Advanced Modalities", desc: "SoftWave, Shockwave, and Class IV Laser therapies for accelerated healing and lasting pain relief." },
                   ]
               ).map((p) => (
                 <div key={p.title} className={styles.pillar}>
@@ -596,13 +660,11 @@ export default async function HomePage({ params }: Props) {
               {videoTestimonials.map((v) => (
                 <div key={v.id} className={styles.videoCard}>
                   <div className={styles.videoCardEmbed}>
-                    <iframe
-                      src={`https://www.youtube.com/embed/${v.id}`}
+                    <YouTubeFacade
+                      videoId={v.id}
                       title={isEs ? v.titleEs : v.titleEn}
-                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                      allowFullScreen
                       className={styles.videoCardIframe}
-                      loading="lazy"
+                      lazy
                     />
                   </div>
                   <p className={styles.videoCardTitle}>{isEs ? v.titleEs : v.titleEn}</p>

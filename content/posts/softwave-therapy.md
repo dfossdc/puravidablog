@@ -3,7 +3,7 @@ title: "SoftWave Therapy in San Antonio, TX | Dr. Dan Foss"
 description: "SoftWave Therapy at Pura Vida Chiropractic in San Antonio uses advanced acoustic wave technology to regenerate tissue, reduce inflammation, and heal chronic pain without surgery."
 date: "2026-03-31"
 author: "Dr. Dan Foss, DC"
-image: "https://www.puravidasanantonio.com/wp-content/uploads/2026/03/Chiropractic-San-Antonio-TX-Softwave-Instrument-Being-Used-On-Patients-Knee.webp"
+image: "/images/softwave.jpg"
 keywords:
   - SoftWave therapy San Antonio
   - SoftWave San Antonio TX

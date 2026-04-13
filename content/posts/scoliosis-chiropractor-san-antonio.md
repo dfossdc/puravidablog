@@ -3,7 +3,7 @@ title: "Scoliosis Chiropractor in San Antonio, TX | Dr. Dan Foss"
 description: "Living with scoliosis in San Antonio? Dr. Dan Foss at Pura Vida Chiropractic uses gentle SOT chiropractic to reduce pain, improve posture, and slow progression without surgery."
 date: "2026-04-01"
 author: "Dr. Dan Foss, DC"
-image: "https://www.puravidasanantonio.com/wp-content/uploads/2026/03/Chiropractor-San-Antonio-TX-Dan-Foss-Adjusting-A-Patient-HP.webp"
+image: "/images/conditions/scoliosis.jpg"
 keywords:
   - scoliosis chiropractor San Antonio
   - scoliosis treatment San Antonio TX

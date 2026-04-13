@@ -3,7 +3,7 @@ title: "Mi Batalla En Esta Crisis Económica"
 description: "Mi nombre es Dr. Dan Foss y soy Doctor en Quiropráctica. Cuando tenía 7 años, estando en la escuela, sufrí un accidente leve en mi cuello y me diagnosticaron una tortícolis. La enfermera de la escuela"
 date: "2023-05-03"
 author: "Dr. Dan Foss, DC"
-image: "https://www.puravidasanantonio.com/wp-content/uploads/2026/03/Chiropractor-San-Antonio-TX-Dan-Foss-About-HP.webp"
+image: "/images/conditions/stressanxietytension.jpg"
 keywords:
   - chiropractor San Antonio
   - mi batalla en esta crisis económica
