@@ -71,6 +71,29 @@ const serviceLinks = {
   ],
 };
 
+const sotLinks = {
+  en: [
+    { label: "What is SOT?",              href: "/sot" },
+    { label: "SOT FAQ",                   href: "/sot/faq" },
+    { label: "SORSI Lineage",             href: "/sot/sorsi" },
+    { label: "SOT Indicators",            href: "/sot/indicators" },
+    { label: "Research & Evidence",       href: "/sot/research" },
+    { label: "Is Chiropractic Safe?",     href: "/sot/safety" },
+    { label: "Technic vs Technique",      href: "/sot/technic-vs-technique" },
+    { label: "Free SOT Guide",            href: "/sot/free-guide" },
+  ],
+  es: [
+    { label: "¿Qué es SOT?",              href: "/sot" },
+    { label: "Preguntas Frecuentes SOT",  href: "/sot/faq" },
+    { label: "Linaje SORSI",              href: "/sot/sorsi" },
+    { label: "Indicadores SOT",           href: "/sot/indicators" },
+    { label: "Investigación y Evidencia", href: "/sot/research" },
+    { label: "¿Es Segura la Quiropráctica?", href: "/sot/safety" },
+    { label: "Technic vs Technique",      href: "/sot/technic-vs-technique" },
+    { label: "Guía Gratuita SOT",         href: "/sot/free-guide" },
+  ],
+};
+
 const conditionLinks = {
   en: [
     { label: "Back Pain",              href: "/conditions/lower-back-pain" },
@@ -204,6 +227,23 @@ export default function Header({ locale, currentSlug, currentPath }: HeaderProps
                     <li key={s.href}>
                       <Link href={`/${locale}${s.href}`} className={styles.dropItem}>
                         {s.label}
+                      </Link>
+                    </li>
+                  ))}
+                </ul>
+              </li>
+
+              {/* SOT — dropdown */}
+              <li className={styles.dropdown}>
+                <button className={styles.dropbtn} type="button">
+                  SOT
+                  <span className={styles.dropArrow} aria-hidden="true">▾</span>
+                </button>
+                <ul className={styles.dropMenu}>
+                  {sotLinks[locale].map((item) => (
+                    <li key={item.href}>
+                      <Link href={`/${locale}${item.href}`} className={styles.dropItem}>
+                        {item.label}
                       </Link>
                     </li>
                   ))}

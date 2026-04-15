@@ -1,6 +1,7 @@
 import type { MetadataRoute } from "next";
 import { fetchAllSlugs } from "@/lib/posts";
 import { conditionsContent } from "@/lib/conditionsContent";
+import { fetchAllSotSlugs } from "@/lib/sot";
 
 const BASE_URL = "https://puravidablog.vercel.app";
 
@@ -82,6 +83,24 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       lastModified: new Date(),
       changeFrequency: "monthly",
       priority: 0.9,
+    });
+  }
+
+  // SOT pillar + sub-pages
+  for (const locale of ["en", "es"]) {
+    entries.push({
+      url: `${BASE_URL}/${locale}/sot`,
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.95,
+    });
+  }
+  for (const { slug, lang } of fetchAllSotSlugs()) {
+    entries.push({
+      url: `${BASE_URL}/${lang}/sot/${slug}`,
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.85,
     });
   }
 
