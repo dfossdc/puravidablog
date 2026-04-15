@@ -3,12 +3,13 @@ import { fetchAllSlugs } from "@/lib/posts";
 import { conditionsContent } from "@/lib/conditionsContent";
 import { fetchAllSotSlugs } from "@/lib/sot";
 
-const BASE_URL = "https://puravidablog.vercel.app";
+const BASE_URL = "https://puravidasanantonio.com";
 
 const enServices = [
   // Original services
   "sot-chiropractic", "softwave-therapy", "auto-injury",
-  "pediatric-prenatal", "shockwave-therapy", "class-iv-laser",
+  "pediatric-chiropractor", "prenatal-chiropractor", "pregnancy-chiropractor",
+  "infants-chiropractic", "pediatric-prenatal", "shockwave-therapy", "class-iv-laser",
   // New services
   "chiropractic-care", "cranial-chiropractic", "infant-chiropractic",
   "pediatric-chiropractic", "pregnancy-chiropractic", "auto-injury-chiropractic",
@@ -17,14 +18,21 @@ const enServices = [
 const esServices = [
   // Original services
   "quiropractica-sot", "terapia-softwave", "lesiones-de-auto",
-  "quiropractica-pediatrica", "terapia-ondas-de-choque", "laser-clase-iv",
+  "quiropractico-pediatrico", "quiropractico-prenatal", "quiropractico-embarazo",
+  "quiropractico-infantes", "quiropractica-pediatrica", "terapia-ondas-de-choque", "laser-clase-iv",
   // New services (same slugs as EN)
   "chiropractic-care", "cranial-chiropractic", "infant-chiropractic",
   "pediatric-chiropractic", "pregnancy-chiropractic", "auto-injury-chiropractic",
   "wellness-care", "latino-community",
 ];
 
-const staticPages = ["about", "contact", "new-patient", "faq", "mission", "sports-chiropractic", "testimonials", "services"];
+const staticPages = [
+  "about", "contact", "new-patient", "faq", "mission",
+  "sports-chiropractic", "testimonials", "services",
+  "meet-dr-foss", "office-hours", "thank-you", "videos",
+  "privacy-policy", "terms", "healthcare-disclaimer",
+  "el-mejor-quiropractico-san-antonio", "quiropratico-san-antonio", "san-antonio-quiropractico",
+];
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const entries: MetadataRoute.Sitemap = [];

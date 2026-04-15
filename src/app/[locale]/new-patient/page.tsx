@@ -140,22 +140,32 @@ export default async function NewPatientPage({ params }: Props) {
             </a>
           </div>
 
-          <div className={styles.formsBox}>
+          <div id="forms" className={styles.formsBox}>
             <span className={styles.formsIcon}>📋</span>
             <div>
               <p className={styles.formsText}>
                 {isEs
-                  ? "Por favor llegue 15 minutos antes para completar el papeleo, o descargue los formularios con anticipación."
-                  : "Please arrive 15 minutes early to complete paperwork, or download patient forms in advance."}
+                  ? "Descargue, imprima y complete los formularios antes de su visita para ahorrar tiempo."
+                  : "Download, print, and complete the forms before your visit to save time."}
               </p>
-              <a
-                href="https://puravidasanantonio.com/new-patient-paperwork/"
-                className={styles.formsLink}
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                {isEs ? "Descargar Formularios →" : "Download Patient Forms →"}
-              </a>
+              <div className={styles.formsList}>
+                <a href="/forms/new-patient-adult-en.pdf" download className={styles.formItem}>
+                  <span className={styles.formItemIcon}>⬇</span>
+                  <span>{isEs ? "Formulario de Adulto (Inglés)" : "Adult Intake Form (English)"}</span>
+                </a>
+                <a href="/forms/new-patient-child-en.pdf" download className={styles.formItem}>
+                  <span className={styles.formItemIcon}>⬇</span>
+                  <span>{isEs ? "Formulario de Niño/Infante (Inglés)" : "Child / Infant Intake Form (English)"}</span>
+                </a>
+                <a href="/forms/new-patient-adult-es.pdf" download className={styles.formItem}>
+                  <span className={styles.formItemIcon}>⬇</span>
+                  <span>{isEs ? "Formulario de Adulto (Español)" : "Adult Intake Form (Spanish)"}</span>
+                </a>
+                <a href="/forms/new-patient-child-es.pdf" download className={styles.formItem}>
+                  <span className={styles.formItemIcon}>⬇</span>
+                  <span>{isEs ? "Formulario de Niño/Infante (Español)" : "Child / Infant Intake Form (Spanish)"}</span>
+                </a>
+              </div>
             </div>
           </div>
         </div>

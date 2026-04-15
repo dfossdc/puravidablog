@@ -1,6 +1,14 @@
 import type { Metadata } from "next";
+import { Lato } from "next/font/google";
 import LocalBusinessSchema from "@/components/LocalBusinessSchema";
 import "./globals.css";
+
+const lato = Lato({
+  subsets: ["latin"],
+  weight: ["400", "700", "900"],
+  display: "swap",
+  variable: "--font-lato",
+});
 
 const BASE_URL = "https://puravidablog.vercel.app";
 
@@ -65,8 +73,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang="en">
       <head>
         <meta name="google-site-verification" content="uuAF9ryMJlcu9EY2M_uP4T-KC7Hdn_K5XVEeWAAy6E8" />
+        <link rel="preconnect" href="https://i.ytimg.com" />
       </head>
-      <body>
+      <body className={lato.variable}>
         <LocalBusinessSchema />
         {children}
       </body>

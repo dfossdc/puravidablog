@@ -178,7 +178,7 @@ export default function ReviewCarousel({ locale }: Props) {
                       className={styles.readMore}
                     >
                       {" "}
-                      {isEs ? "Leer más" : "Read more"}
+                      {isEs ? "Leer más reseñas de Pura Vida" : "Read more 5-star Pura Vida reviews"}
                     </a>
                   )}
                 </p>

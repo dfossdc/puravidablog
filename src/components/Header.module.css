@@ -1,6 +1,6 @@
 /* ── Announcement Bar ─────────────────────────────── */
 .announcementBar {
-  background: #2E7EA6;
+  background: #146BA6;
   color: #ffffff;
   font-size: 0.8rem;
   height: 40px;
@@ -62,7 +62,7 @@
 }
 
 .annLang {
-  color: rgba(255, 255, 255, 0.75);
+  color: #ffffff;
   font-weight: 600;
   font-size: 0.78rem;
   text-decoration: none;
@@ -79,7 +79,7 @@
 
 .annLangActive {
   color: #ffffff;
-  background: rgba(255, 255, 255, 0.2);
+  background: rgba(0, 0, 0, 0.2);
 }
 
 /* ── Header ───────────────────────────────────────── */
@@ -88,8 +88,8 @@
   position: sticky;
   top: 40px;
   z-index: 100;
-  border-bottom: 2px solid #e8f0eb;
-  box-shadow: 0 2px 8px rgba(46, 110, 142, 0.1);
+  border-bottom: 2px solid var(--color-border);
+  box-shadow: 0 2px 8px rgba(20, 107, 166, 0.1);
 }
 
 .inner {
@@ -144,8 +144,8 @@
 }
 
 .navLink:hover {
-  color: #2E7EA6;
-  background: rgba(46, 126, 166, 0.07);
+  color: #146BA6;
+  background: rgba(20, 107, 166, 0.07);
 }
 
 /* ── Dropdown ─────────────────────────────────────── */
@@ -173,8 +173,8 @@
 .dropbtn:hover,
 .dropdown:hover .dropbtn,
 .dropdown:focus-within .dropbtn {
-  color: #2E7EA6;
-  background: rgba(46, 126, 166, 0.07);
+  color: #146BA6;
+  background: rgba(20, 107, 166, 0.07);
 }
 
 .dropArrow {
@@ -228,8 +228,8 @@
 }
 
 .dropItem:hover {
-  background: rgba(46, 126, 166, 0.08);
-  color: #2E7EA6;
+  background: rgba(20, 107, 166, 0.08);
+  color: #146BA6;
 }
 
 /* ── Nav Actions ──────────────────────────────────── */
@@ -241,7 +241,7 @@
 }
 
 .headerPhone {
-  color: #1a5f82;
+  color: #146BA6;
   font-weight: 700;
   font-size: 0.9rem;
   white-space: nowrap;
@@ -252,33 +252,33 @@
 }
 
 .headerPhone:hover {
-  background: rgba(46, 126, 166, 0.08);
-  color: #2E7EA6;
+  background: rgba(20, 107, 166, 0.08);
+  color: #146BA6;
 }
 
 .langToggle {
-  color: #2E6E8E;
+  color: #146BA6;
   font-weight: 600;
   font-size: 0.85rem;
   letter-spacing: 0.05em;
   padding: 0.35rem 0.65rem;
-  border: 1.5px solid #2E6E8E;
+  border: 1.5px solid #146BA6;
   border-radius: 6px;
   transition: background 0.2s, color 0.2s;
 }
 
 .langToggle:hover {
-  background: #2E6E8E;
+  background: #146BA6;
   color: #ffffff;
 }
 
 .cta {
-  background: #F5A800;
-  color: #1a1a1a;
+  background: #fb8e28;
+  color: #ffffff;
   font-weight: 800;
   font-size: 0.875rem;
   padding: 0.5rem 1rem;
-  border-radius: 50px;
+  border-radius: 6px;
   transition: background 0.2s, transform 0.15s;
   white-space: nowrap;
   text-decoration: none;
@@ -286,8 +286,8 @@
 }
 
 .cta:hover {
-  background: #e09600;
-  color: #1a1a1a;
+  background: #e07a18;
+  color: #ffffff;
   transform: translateY(-2px);
 }
 

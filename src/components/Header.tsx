@@ -1,5 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
+import TopBar from "./TopBar";
 import styles from "./Header.module.css";
 
 interface HeaderProps {
@@ -26,11 +27,13 @@ const aboutLinks = {
 const patientLinks = {
   en: [
     { label: "New Patient / Initial Visit", href: "/new-patient" },
+    { label: "Patient Forms",               href: "/new-patient#forms" },
     { label: "Chiropractic FAQs",           href: "/faq" },
     { label: "Contact Us",                  href: "/contact" },
   ],
   es: [
     { label: "Nuevo Paciente / Primera Visita", href: "/new-patient" },
+    { label: "Formularios de Paciente",         href: "/new-patient#forms" },
     { label: "Preguntas Frecuentes",            href: "/faq" },
     { label: "Contáctenos",                     href: "/contact" },
   ],
@@ -40,7 +43,8 @@ const serviceLinks = {
   en: [
     { label: "Chiropractic Care",        href: "/services/chiropractic-care" },
     { label: "SOT Chiropractic",         href: "/services/sot-chiropractic" },
-    { label: "Cranial Chiropractic",     href: "/services/cranial-chiropractic" },
+    { label: "CMRT Organ Adjusting",     href: "/blog/cmrt-organ-adjusting" },
+    { label: "Cranial Adjusting (SOT)",  href: "/blog/cranial-adjusting-san-antonio" },
     { label: "Pediatric Chiropractor",   href: "/services/pediatric-chiropractor" },
     { label: "Prenatal Chiropractor",    href: "/services/prenatal-chiropractor" },
     { label: "Pregnancy Chiropractor",   href: "/services/pregnancy-chiropractor" },
@@ -56,7 +60,8 @@ const serviceLinks = {
   es: [
     { label: "Cuidado Quiropráctico",         href: "/services/chiropractic-care" },
     { label: "Quiropráctica SOT",             href: "/services/quiropractica-sot" },
-    { label: "Quiropráctica Craneal",         href: "/services/cranial-chiropractic" },
+    { label: "Ajuste de Órganos (CMRT)",      href: "/blog/cmrt-organ-adjusting" },
+    { label: "Ajuste Craneal (SOT)",          href: "/blog/cranial-adjusting-san-antonio" },
     { label: "Quiropráctico Pediátrico",      href: "/services/quiropractico-pediatrico" },
     { label: "Quiropráctico Prenatal",        href: "/services/quiropractico-prenatal" },
     { label: "Quiropráctica para Embarazo",   href: "/services/quiropractico-embarazo" },
@@ -131,7 +136,8 @@ const conditionLinks = {
   ],
 };
 
-export default function Header({ locale, currentSlug, currentPath }: HeaderProps) {
+export default function Header({ locale: rawLocale, currentSlug, currentPath }: HeaderProps) {
+  const locale: "en" | "es" = rawLocale === "es" ? "es" : "en";
   const otherLocale = locale === "en" ? "es" : "en";
 
   let langHref: string;
@@ -145,6 +151,9 @@ export default function Header({ locale, currentSlug, currentPath }: HeaderProps
 
   return (
     <>
+      {/* ── Top Utility Bar ── */}
+      <TopBar locale={locale} />
+
       {/* ── Announcement Bar ── */}
       <div className={styles.announcementBar}>
         <div className={styles.annInner}>
@@ -186,6 +195,7 @@ export default function Header({ locale, currentSlug, currentPath }: HeaderProps
               height={240}
               className={styles.logo}
               priority
+              sizes="(max-width: 768px) 280px, 500px"
             />
           </Link>
 

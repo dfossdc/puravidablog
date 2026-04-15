@@ -9,7 +9,7 @@ interface FooterProps {
 const socialLinks = [
   { name: "Facebook", href: "https://www.facebook.com/puravidasanantonio/" },
   { name: "Instagram", href: "https://www.instagram.com/puravidasatx/" },
-  { name: "YouTube", href: "https://www.youtube.com/@puravidasanantonio" },
+  { name: "YouTube", href: "https://www.youtube.com/@puravidadc/videos" },
   { name: "Yelp", href: "https://www.yelp.com/biz/pura-vida-chiropractic-san-antonio" },
 ];
 
@@ -95,12 +95,21 @@ export default function Footer({ locale }: FooterProps) {
       </div>
 
       {/* ── Verified Profiles ── */}
+      <div className={styles.verifiedWrap}>
       <div className={styles.verified}>
         <span className={styles.verifiedLabel}>{isEs ? "Perfiles verificados:" : "Verified profiles:"}</span>
+        <a href="https://www.google.com/maps/place/Pura+Vida+Chiropractic/@29.5275,-98.5647,17z" target="_blank" rel="noopener noreferrer" title="Pura Vida Chiropractic on Google Maps San Antonio TX">Google</a>
+        <a href="https://www.facebook.com/puravidasanantonio/" target="_blank" rel="noopener noreferrer" title="Pura Vida Chiropractic on Facebook">Facebook</a>
+        <a href="https://www.instagram.com/puravidasatx/" target="_blank" rel="noopener noreferrer" title="Pura Vida Chiropractic on Instagram">Instagram</a>
+        <a href="https://www.youtube.com/@puravidadc/videos" target="_blank" rel="noopener noreferrer" title="Pura Vida Chiropractic on YouTube">YouTube</a>
         <a href="https://www.yelp.com/biz/pura-vida-chiropractic-san-antonio" target="_blank" rel="noopener noreferrer" title="Pura Vida Chiropractic reviews on Yelp San Antonio">Yelp</a>
         <a href="https://www.healthgrades.com/providers/daniel-foss-2h2pq" target="_blank" rel="noopener noreferrer" title="Dr. Daniel Foss DC on Healthgrades San Antonio chiropractor">Healthgrades</a>
+        <a href="https://www.vitals.com/doctors/Dr_Daniel_Foss.html" target="_blank" rel="noopener noreferrer" title="Dr. Dan Foss DC on Vitals">Vitals</a>
+        <a href="https://www.zocdoc.com/practice/pura-vida-chiropractic-san-antonio-tx" target="_blank" rel="noopener noreferrer" title="Book Dr. Dan Foss on Zocdoc">Zocdoc</a>
         <a href="https://www.yellowpages.com/san-antonio-tx/mip/pura-vida-chiropractic-472722413" target="_blank" rel="noopener noreferrer" title="Pura Vida Chiropractic on YellowPages San Antonio TX">YellowPages</a>
-        <a href="https://www.google.com/maps/place/Pura+Vida+Chiropractic/@29.5275,-98.5647,17z" target="_blank" rel="noopener noreferrer" title="Pura Vida Chiropractic on Google Maps San Antonio TX">Google Maps</a>
+        <a href="https://www.mapquest.com/us/texas/pura-vida-chiropractic-452406523" target="_blank" rel="noopener noreferrer" title="Pura Vida Chiropractic on MapQuest">MapQuest</a>
+        <a href="https://nextdoor.com/pages/pura-vida-chiropractic-san-antonio-tx/" target="_blank" rel="noopener noreferrer" title="Pura Vida Chiropractic on Nextdoor San Antonio">Nextdoor</a>
+      </div>
       </div>
 
       {/* ── Bottom bar ── */}
@@ -110,17 +119,17 @@ export default function Footer({ locale }: FooterProps) {
           {isEs ? "Todos los derechos reservados." : "All rights reserved."}
         </p>
         <div className={styles.bottomLinks}>
-          <a href="https://puravidasanantonio.com/privacy-policy/" target="_blank" rel="noopener noreferrer">
+          <Link href={`/${locale}/privacy-policy`}>
             {isEs ? "Privacidad" : "Privacy Policy"}
-          </a>
+          </Link>
           <span className={styles.bottomSep}>|</span>
-          <a href="https://puravidasanantonio.com/terms-of-service/" target="_blank" rel="noopener noreferrer">
+          <Link href={`/${locale}/terms`}>
             {isEs ? "Términos" : "Terms"}
-          </a>
+          </Link>
           <span className={styles.bottomSep}>|</span>
-          <a href="https://puravidasanantonio.com/healthcare-disclaimer/" target="_blank" rel="noopener noreferrer">
+          <Link href={`/${locale}/healthcare-disclaimer`}>
             {isEs ? "Aviso Médico" : "Healthcare Disclaimer"}
-          </a>
+          </Link>
         </div>
       </div>
     </footer>

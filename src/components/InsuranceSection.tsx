@@ -62,7 +62,7 @@ export default function InsuranceSection({ locale }: { locale: string }) {
     >
       <div className={styles.inner}>
         <h2 className={styles.title}>
-          {isEs ? "Aceptamos Tu Seguro" : "We Are Insurance Friendly"}
+          {isEs ? "Para su Comodidad, Trabajamos con esos Seguros" : "We Are Insurance Friendly"}
         </h2>
         <div className={styles.grid}>
           {plans.map((plan) => (

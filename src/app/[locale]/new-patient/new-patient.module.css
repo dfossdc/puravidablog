@@ -31,7 +31,7 @@
 
 .h2 {
   font-size: 1.4rem;
-  color: #2E7EA6;
+  color: var(--color-primary);
   margin-bottom: 1.75rem;
 }
 
@@ -55,7 +55,7 @@
   width: 44px;
   height: 44px;
   border-radius: 50%;
-  background: #2E7EA6;
+  background: var(--color-primary);
   color: #ffffff;
   font-size: 1.1rem;
   font-weight: 700;
@@ -80,7 +80,7 @@
 }
 
 .specialBox {
-  background: #2E7EA6;
+  background: var(--color-primary);
   border-radius: 16px;
   padding: 2.5rem;
   text-align: center;
@@ -103,19 +103,19 @@
 
 .specialBtn {
   display: inline-block;
-  background: #F5A800;
-  color: #1a1a1a;
+  background: var(--color-accent);
+  color: #ffffff;
   font-weight: 800;
   font-size: 1rem;
   padding: 0.8rem 1.75rem;
-  border-radius: 50px;
+  border-radius: var(--radius);
   text-decoration: none;
   transition: background 0.2s, transform 0.15s;
 }
 
 .specialBtn:hover {
-  background: #e09600;
-  color: #1a1a1a;
+  background: var(--color-accent-dark);
+  color: #ffffff;
   transform: translateY(-2px);
 }
 
@@ -143,11 +143,40 @@
   margin-bottom: 0.35rem;
 }
 
-.formsLink {
-  color: #2E7EA6;
-  font-weight: 600;
-  font-size: 0.95rem;
-  transition: color 0.2s;
+.formsText {
+  font-size: 0.97rem;
+  line-height: 1.6;
+  color: var(--color-text);
+  margin-bottom: 1rem;
 }
 
-.formsLink:hover { color: #1a5f82; }
+.formsList {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+.formItem {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  background: #ffffff;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  padding: 0.65rem 1rem;
+  color: var(--color-primary);
+  font-weight: 600;
+  font-size: 0.95rem;
+  text-decoration: none;
+  transition: background 0.15s, border-color 0.15s;
+}
+
+.formItem:hover {
+  background: rgba(20, 107, 166, 0.05);
+  border-color: var(--color-primary);
+}
+
+.formItemIcon {
+  font-size: 1rem;
+  flex-shrink: 0;
+}

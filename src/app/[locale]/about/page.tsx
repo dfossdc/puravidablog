@@ -88,7 +88,7 @@ export default async function AboutPage({ params }: Props) {
 
   const philosophy = isEs
     ? "Mi misión es simple: Mejore su Salud. Mantenga su Salud. Creo que los síntomas son solo la punta del iceberg. El verdadero cuidado de la salud significa encontrar y corregir la causa subyacente — no enmascarar el dolor con medicamentos. A través del Protocolo Pura Vida, integro principios probados de quiropráctica, osteopatía, terapia manual, fisioterapia y modalidades energéticas para ayudar a cada paciente a lograr resultados reales y duraderos."
-    : "My mission is simple: Get Healthy. Stay Healthy. I believe symptoms are only the tip of the iceberg. True health care means finding and correcting the underlying cause — not masking pain with drugs. Through the Pura Vida Protocol, I integrate proven principles from chiropractic, osteopathic, manual therapy, physical therapy, and energetic modalities to help every patient achieve real, lasting results.";
+    : "Our mission: restore whole-body health by treating the spine, organs, and cranium as one system — finding root causes other practitioners miss. I believe symptoms are only the tip of the iceberg. True health care means finding and correcting the underlying cause — not masking pain with drugs. Through the Pura Vida Protocol, I integrate proven principles from chiropractic, osteopathic, manual therapy, physical therapy, and energetic modalities to help every patient achieve real, lasting results.";
 
   return (
     <>

@@ -37,11 +37,16 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     authors: [{ name: post.author }],
     alternates: {
       canonical,
-      languages: {
-        en: `${BASE_URL}/en/blog/${slug}`,
-        es: `${BASE_URL}/es/blog/${slug}`,
-        "x-default": `${BASE_URL}/en/blog/${slug}`,
-      },
+      languages: post.lang === "es"
+        ? {
+            es: `${BASE_URL}/es/blog/${slug}`,
+            "x-default": `${BASE_URL}/es/blog/${slug}`,
+          }
+        : {
+            en: `${BASE_URL}/en/blog/${slug}`,
+            es: `${BASE_URL}/es/blog/${slug}`,
+            "x-default": `${BASE_URL}/en/blog/${slug}`,
+          },
     },
     openGraph: {
       title: post.title,
@@ -118,7 +123,7 @@ export default async function BlogPost({ params }: Props) {
                 height={450}
                 className={styles.cover}
                 priority
-                unoptimized
+                unoptimized={post.image.startsWith("http")}
               />
             </div>
           )}
