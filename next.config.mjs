@@ -61,6 +61,7 @@ const nextConfig = {
       { source: "/shockwave-therapy", destination: "/en/services/shockwave-therapy", permanent: true },
       { source: "/softwave-therapy", destination: "/en/services/softwave-therapy", permanent: true },
       { source: "/pediatric-chiropractor", destination: "/en/services/pediatric-chiropractor", permanent: true },
+      { source: "/contact", destination: "/en/contact", permanent: true },
 
       // ---- Old Doctible blog URLs (41) ----
       { source: "/blog/finding-chiropractor", destination: "/en/blog/first-chiropractic-visit-what-to-expect", permanent: true },
