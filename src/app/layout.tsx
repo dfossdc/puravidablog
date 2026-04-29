@@ -10,7 +10,7 @@ const lato = Lato({
   variable: "--font-lato",
 });
 
-const BASE_URL = "https://puravidablog.vercel.app";
+const BASE_URL = "https://puravidasanantonio.com";
 
 export const metadata: Metadata = {
   metadataBase: new URL(BASE_URL),
@@ -47,7 +47,7 @@ export const metadata: Metadata = {
     locale: "en_US",
     images: [
       {
-        url: "https://www.puravidasanantonio.com/wp-content/uploads/2026/03/Chiropractor-San-Antonio-TX-Dan-Foss-Adjusting-A-Patient-HP.webp",
+        url: "/images/dr-foss-adjusting-patient.webp",
         width: 1200,
         height: 630,
         alt: "Pura Vida Chiropractic San Antonio TX",
