@@ -51,7 +51,7 @@ export default async function MissionPage({ params }: Props) {
   const isEs = locale === "es";
 
   const h1 = isEs ? "Misiones Médicas" : "Mission Trips";
-  const ctaText = isEs ? "Reservar Evaluación Gratis" : "Book Free Evaluation";
+  const ctaText = isEs ? "Reservar Consulta Gratis" : "Book Free Consultation";
 
   const body = isEs
     ? [
@@ -116,7 +116,7 @@ export default async function MissionPage({ params }: Props) {
               : "Ready to experience the same compassionate care Dr. Foss brings around the world?"
             }</p>
             <a
-              href="https://puravidasanantonio.com/special/"
+              href="/book-now"
               className={styles.ctaBtn}
               target="_blank"
               rel="noopener noreferrer"
