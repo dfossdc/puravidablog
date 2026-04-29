@@ -54,7 +54,7 @@ export const conditionsContent: ConditionData[] = [
     title: "Auto Accident Injuries | Car Accident Chiropractor San Antonio TX",
     image: "/images/conditions/autoaccident.jpg",
     metaDescription:
-      "Car accident chiropractor in San Antonio, TX. Pura Vida Chiropractic specializes in whiplash, neck pain, and soft-tissue injuries from auto accidents. Best chiropractor San Antonio for car accident injuries — SOT chiropractic and regenerative therapies. Free evaluation.",
+      "Car accident chiropractor in San Antonio, TX. Pura Vida Chiropractic specializes in whiplash, neck pain, and soft-tissue injuries from auto accidents. Best chiropractor San Antonio for car accident injuries — SOT chiropractic and regenerative therapies. Free consultation.",
     intro:
       "Car accidents — even at low speeds — can cause significant spinal trauma that doesn't always show up on X-rays right away. Pura Vida Chiropractic helps San Antonio accident victims recover fully by addressing the spine, joints, and soft tissues injured during the collision.",
     whatIs:
