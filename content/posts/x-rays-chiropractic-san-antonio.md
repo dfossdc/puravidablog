@@ -23,7 +23,6 @@ Additionally, X-rays can be useful for monitoring the progress of chiropractic t
 
 It is important to note that while X-rays are a valuable tool, not everyone seeking chiropractic care needs them. Dr. Foss evaluates the need for X-rays based on each patient's clinical history, symptoms, and physical examination.
 
-![Chiropractic X-ray before and after — Pura Vida Chiropractic San Antonio](https://puravidasanantonio.net/wp-content/uploads/2023/05/Radiografias-Before-and-After.jpg)
 
 ## When Does Dr. Foss Take X-Rays?
 
