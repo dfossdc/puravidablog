@@ -57,16 +57,16 @@ const labels = {
     more: "More in the SOT Section",
     ctaTitle: "Ready to experience SOT?",
     ctaBody:
-      "Dr. Dan Foss offers a free evaluation at Pura Vida Chiropractic in San Antonio.",
-    ctaBtn: "Book Free Evaluation",
+      "Dr. Dan Foss offers a free consultation at Pura Vida Chiropractic in San Antonio.",
+    ctaBtn: "Book Free Consultation",
   },
   es: {
     back: "← Volver a la página principal de SOT",
     more: "Más en la Sección SOT",
     ctaTitle: "¿Listo para experimentar SOT?",
     ctaBody:
-      "El Dr. Dan Foss ofrece una evaluación gratuita en Pura Vida Quiropráctica en San Antonio.",
-    ctaBtn: "Reservar Evaluación Gratis",
+      "El Dr. Dan Foss ofrece una consulta gratuita en Pura Vida Quiropráctica en San Antonio.",
+    ctaBtn: "Reservar Consulta Gratis",
   },
 } as const;
 
@@ -118,7 +118,7 @@ export default async function SotSubPage({ params }: Props) {
             <h3>{t.ctaTitle}</h3>
             <p>{t.ctaBody}</p>
             <a
-              href="https://www.puravidasanantonio.com/special/"
+              href="/book-now"
               target="_blank"
               rel="noopener noreferrer"
               className={styles.ctaBtn}
