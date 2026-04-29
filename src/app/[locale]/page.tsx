@@ -62,7 +62,7 @@ const services = [
     slugEs: "chiropractic-care",
     nameEn: "Chiropractic Care",
     nameEs: "Cuidado Quiropráctico",
-    image: "https://www.puravidasanantonio.com/wp-content/uploads/2026/03/Chiropractor-San-Antonio-TX-Dan-Foss-Adjusting-A-Patient-HP.webp",
+    image: "/images/dr-foss-adjusting-patient.webp",
     alt: "Chiropractic care adjustment",
   },
   {
@@ -70,7 +70,7 @@ const services = [
     slugEs: "cranial-chiropractic",
     nameEn: "Cranial Chiropractic",
     nameEs: "Quiropráctica Craneal",
-    image: "https://www.puravidasanantonio.com/wp-content/uploads/2026/03/Chiropractor-San-Antonio-TX-Dan-Foss-Performing-Cranial-Adjustment.webp",
+    image: "/images/dr-foss-adjusting-neck.webp",
     alt: "Cranial chiropractic therapy",
   },
   {
@@ -94,7 +94,7 @@ const services = [
     slugEs: "pediatric-chiropractic",
     nameEn: "Pediatric Chiropractic",
     nameEs: "Quiropráctica Pediátrica",
-    image: "https://www.puravidasanantonio.com/wp-content/uploads/bb-plugin/cache/Chiropractor-San-Antonio-TX-Dan-Foss-Adjusting-Child-Patient-HP-circle.webp",
+    image: "/images/dr-foss-adjusting-child.webp",
     alt: "Pediatric chiropractic care",
   },
   {
@@ -102,7 +102,7 @@ const services = [
     slugEs: "pregnancy-chiropractic",
     nameEn: "Pregnancy Chiropractic",
     nameEs: "Quiropráctica Prenatal",
-    image: "https://www.puravidasanantonio.com/wp-content/uploads/bb-plugin/cache/Chiropractic-San-Antonio-TX-Pregnant-Patient-HP-circle.webp",
+    image: "/images/pregnant-patient.webp",
     alt: "Pregnancy chiropractic care",
   },
   {
@@ -110,7 +110,7 @@ const services = [
     slugEs: "laser-clase-iv",
     nameEn: "Class IV Laser",
     nameEs: "Láser Clase IV",
-    image: "https://www.puravidasanantonio.com/wp-content/uploads/bb-plugin/cache/Chiropractic-San-Antonio-TX-Laser-Therapy-Being-Used-On-A-Knee-HP-circle.webp",
+    image: "/images/laser-therapy-knee.webp",
     alt: "Class IV laser therapy",
   },
   {
