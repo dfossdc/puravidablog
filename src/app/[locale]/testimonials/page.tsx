@@ -471,17 +471,17 @@ export default async function TestimonialsPage({ params }: Props) {
           </h2>
           <p>
             {isEs
-              ? "Únase a miles de pacientes satisfechos en San Antonio. Programe su evaluación gratuita con el Dr. Dan Foss hoy."
-              : "Join thousands of satisfied patients in San Antonio. Schedule your free evaluation with Dr. Dan Foss today."}
+              ? "Únase a miles de pacientes satisfechos en San Antonio. Programe su consulta gratuita con el Dr. Dan Foss hoy."
+              : "Join thousands of satisfied patients in San Antonio. Schedule your free consultation with Dr. Dan Foss today."}
           </p>
           <div className={styles.ctaLinks}>
             <a
-              href="https://puravidasanantonio.com/special/"
+              href="/book-now"
               target="_blank"
               rel="noopener noreferrer"
               className={styles.ctaBtn}
             >
-              {isEs ? "Obtenga su Evaluación Gratis" : "Get Your Free Evaluation"}
+              {isEs ? "Obtenga su Consulta Gratis" : "Get Your Free Consultation"}
             </a>
             <Link href={`/${locale}/services/chiropractic-care`} className={styles.ctaSecondary}>
               {isEs ? "Ver Servicios →" : "Explore Services →"}
