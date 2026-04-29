@@ -36,7 +36,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       title: isEs ? "Nuevos Pacientes | Pura Vida Chiropractic" : "New Patients | Pura Vida Chiropractic",
       description: isEs
         ? "Sepa qué esperar en su primera visita. Evaluación gratuita disponible."
-        : "Know what to expect on your first visit. Free evaluation available.",
+        : "Know what to expect on your first visit. Free consultation available.",
       url: canonical,
       siteName: "Pura Vida Chiropractic",
       locale: isEs ? "es_MX" : "en_US",
