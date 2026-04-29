@@ -119,7 +119,7 @@ export default function Footer({ locale }: FooterProps) {
           {isEs ? "Todos los derechos reservados." : "All rights reserved."}
         </p>
         <div className={styles.bottomLinks}>
-          <Link href={`/${locale}/privacy-policy`}>
+          <Link href={isEs ? '/privacy/es' : '/privacy'}>
             {isEs ? "Privacidad" : "Privacy Policy"}
           </Link>
           <span className={styles.bottomSep}>|</span>
