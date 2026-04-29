@@ -181,12 +181,12 @@ export default async function FaqPage({ params }: Props) {
                 {isEs ? "Llamar (210) 685-1994" : "Call (210) 685-1994"}
               </a>
               <a
-                href="https://puravidasanantonio.com/special/"
+                href="/book-now"
                 className={styles.bookBtn}
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                {isEs ? "Evaluación Gratis →" : "Free Evaluation →"}
+                {isEs ? "Consulta Gratis →" : "Free Consultation →"}
               </a>
             </div>
           </div>
