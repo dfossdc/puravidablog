@@ -576,8 +576,8 @@ export default async function ServicePage({ params }: Props) {
   if (!data) return <div>Service not found</div>;
 
   const isEs = locale === "es";
-  const ctaText = isEs ? "Reservar Evaluación Gratis" : "Book Free Evaluation";
-  const ctaHref = "https://puravidasanantonio.com/special/";
+  const ctaText = isEs ? "Reservar Consulta Gratis" : "Book Free Consultation";
+  const ctaHref = "/book-now";
 
   const schemaJson = {
     "@context": "https://schema.org",
