@@ -14,7 +14,7 @@ interface TopBarProps {
   locale: "en" | "es";
 }
 
-const BOOK_HREF = "https://puravidasanantonio.com/special/";
+const BOOK_HREF = "/book-now";
 const PHONE_TEL = "tel:+12106851994";
 const GOOGLE_HREF =
   "https://google.com/maps/place/Pura+Vida+Chiropractic/data=!4m2!3m1!1s0x0:0x1c1e96c3d09ddb87?sa=X&ved=1t:2428&ictx=111";
