@@ -22,8 +22,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       ? "Contacto | Pura Vida Chiropractic San Antonio TX"
       : "Contact | Pura Vida Chiropractic San Antonio TX",
     description: isEs
-      ? "Contáctenos en Pura Vida Chiropractic. 2318 NW Military Hwy #103, San Antonio TX 78231. Llame al (210) 685-1994 o reserve su evaluación gratuita hoy."
-      : "Contact Pura Vida Chiropractic. 2318 NW Military Hwy #103, San Antonio TX 78231. Call (210) 685-1994 or book your free evaluation today.",
+      ? "Contáctenos en Pura Vida Chiropractic. 2318 NW Military Hwy #103, San Antonio TX 78231. Llame al (210) 685-1994 o reserve su consulta gratuita hoy."
+      : "Contact Pura Vida Chiropractic. 2318 NW Military Hwy #103, San Antonio TX 78231. Call (210) 685-1994 or book your free consultation today.",
     alternates: {
       canonical,
       languages: {
@@ -35,8 +35,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     openGraph: {
       title: isEs ? "Contacto | Pura Vida Chiropractic" : "Contact | Pura Vida Chiropractic",
       description: isEs
-        ? "Llame al (210) 685-1994 o reserve su evaluación gratuita. San Antonio, TX."
-        : "Call (210) 685-1994 or book your free evaluation. San Antonio, TX.",
+        ? "Llame al (210) 685-1994 o reserve su consulta gratuita. San Antonio, TX."
+        : "Call (210) 685-1994 or book your free consultation. San Antonio, TX.",
       url: canonical,
       siteName: "Pura Vida Chiropractic",
       locale: isEs ? "es_MX" : "en_US",
