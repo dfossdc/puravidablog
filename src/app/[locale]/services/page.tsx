@@ -108,7 +108,7 @@ export default async function ServicesPage({ params }: Props) {
           </div>
           <div style={{ marginTop: "3rem", textAlign: "center" }}>
             <a
-              href="https://puravidasanantonio.com/special/"
+              href="/book-now"
               target="_blank"
               rel="noopener noreferrer"
               style={{
@@ -122,7 +122,7 @@ export default async function ServicesPage({ params }: Props) {
                 textDecoration: "none",
               }}
             >
-              {isEs ? "Obtenga su Evaluación Gratis →" : "Get Your Free Evaluation →"}
+              {isEs ? "Obtenga su Consulta Gratis →" : "Get Your Free Consultation →"}
             </a>
           </div>
         </div>
