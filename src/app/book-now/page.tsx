@@ -66,21 +66,23 @@ export default function BookNowPage() {
             <h2 className={styles.scheduleTitle}>Schedule Your Appointment</h2>
             <div className={styles.widgetWrap}>
               <iframe
-                src="https://www.schedulista.com/schedule/puravidachiropractic/widget"
+                src="https://www.schedulista.com/schedule/puravidachiropractic"
                 title="Schedule an appointment with Pura Vida Chiropractic"
                 className={styles.widget}
                 loading="lazy"
               />
             </div>
-            <noscript>
-              <p>
-                Please{" "}
-                <a href="https://www.schedulista.com/schedule/puravidachiropractic">
-                  visit our scheduler
-                </a>{" "}
-                or call <a href="tel:+12106851994">(210) 685-1994</a> to book your appointment.
-              </p>
-            </noscript>
+            <p className={styles.bookFallback}>
+              Trouble loading the scheduler?{" "}
+              <a
+                href="https://www.schedulista.com/schedule/puravidachiropractic"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Open it in a new tab
+              </a>{" "}
+              or call <a href="tel:+12106851994">(210) 685-1994</a>.
+            </p>
           </div>
         </section>
 
@@ -90,7 +92,12 @@ export default function BookNowPage() {
             <h3 className={styles.finalKicker}>Don&rsquo;t Wait Another Day</h3>
             <h2 className={styles.finalTitle}>Schedule Your Appointment Today!</h2>
             <div className={styles.ctaButtons}>
-              <a href="#schedule" className={styles.ctaBtn}>
+              <a
+                href="https://www.schedulista.com/schedule/puravidachiropractic"
+                target="_blank"
+                rel="noopener noreferrer"
+                className={styles.ctaBtn}
+              >
                 Book Now
               </a>
               <a href="tel:+12106851994" className={styles.callBtn}>
@@ -113,12 +120,6 @@ export default function BookNowPage() {
         </section>
       </main>
       <Footer locale="en" />
-
-      {/* Optional Schedulista embed script (kept for parity with WP page) */}
-      <Script
-        src="https://www.schedulista.com/schedule/puravidachiropractic/widget.js"
-        strategy="lazyOnload"
-      />
     </>
   );
 }
