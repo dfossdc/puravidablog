@@ -110,12 +110,12 @@ export default async function ContactPage({ params }: Props) {
               </div>
 
               <a
-                href="https://puravidasanantonio.com/special/"
+                href="/book-now"
                 className={styles.ctaBtn}
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                {isEs ? "Reservar Evaluación Gratis →" : "Book Free Evaluation →"}
+                {isEs ? "Reservar Consulta Gratis →" : "Book Free Consultation →"}
               </a>
 
               <div className={styles.socialBlock}>
