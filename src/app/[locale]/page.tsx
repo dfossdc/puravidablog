@@ -727,8 +727,8 @@ export default async function HomePage({ params }: Props) {
             </h2>
             <p className={styles.finalCtaSub}>
               {isEs
-                ? "No hay riesgo en ver lo que podemos hacer por usted. Llámenos hoy o reserve su evaluación gratuita en línea."
-                : "There is no risk to see what we can do for you. Call us today or book your free evaluation online."}
+                ? "No hay riesgo en ver lo que podemos hacer por usted. Llámenos hoy o reserve su consulta gratuita en línea."
+                : "There is no risk to see what we can do for you. Call us today or book your free consultation online."}
             </p>
             <div className={styles.finalCtaBtns}>
               <a href="/book-now" className={styles.finalCtaBtn} target="_blank" rel="noopener noreferrer">
