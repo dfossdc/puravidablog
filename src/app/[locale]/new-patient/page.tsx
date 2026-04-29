@@ -131,12 +131,12 @@ export default async function NewPatientPage({ params }: Props) {
                 : "There is no risk to see what we can do for you."}
             </p>
             <a
-              href="https://puravidasanantonio.com/special/"
+              href="/book-now"
               className={styles.specialBtn}
               target="_blank"
               rel="noopener noreferrer"
             >
-              {isEs ? "Reclamar Su Evaluación Gratis →" : "Claim Your Free Evaluation →"}
+              {isEs ? "Reclamar Su Consulta Gratis →" : "Claim Your Free Consultation →"}
             </a>
           </div>
 
