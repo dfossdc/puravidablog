@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     template: "%s | Pura Vida Chiropractic",
   },
   description:
-    "Bilingual chiropractic clinic in San Antonio, TX specializing in SOT, SoftWave, shockwave, Class IV laser, auto injury, and pediatric/prenatal care. Free evaluation.",
+    "Bilingual chiropractic clinic in San Antonio, TX specializing in SOT, SoftWave, shockwave, Class IV laser, auto injury, and pediatric/prenatal care. Free consultation.",
   keywords: [
     "chiropractor San Antonio",
     "quiropráctico San Antonio",
