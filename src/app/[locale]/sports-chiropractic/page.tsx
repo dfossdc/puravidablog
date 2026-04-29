@@ -24,7 +24,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       : "Sports Chiropractor in San Antonio, TX | Pura Vida Chiropractic",
     description: isEs
       ? "Quiropráctico deportivo en San Antonio TX. El Dr. Dan Foss trata lesiones deportivas, esguinces, dolor de hombro, rodilla y columna. Atendemos Stone Oak, Castle Hills y Alamo Heights. Evaluación gratuita."
-      : "Sports chiropractor San Antonio TX. Dr. Dan Foss treats sports injuries, sprains, shoulder pain, knee pain, and spinal conditions. Sports injury treatment San Antonio serving Stone Oak, Castle Hills, and Alamo Heights. Free evaluation.",
+      : "Sports chiropractor San Antonio TX. Dr. Dan Foss treats sports injuries, sprains, shoulder pain, knee pain, and spinal conditions. Sports injury treatment San Antonio serving Stone Oak, Castle Hills, and Alamo Heights. Free consultation.",
     alternates: {
       canonical,
       languages: {
@@ -55,7 +55,7 @@ export default async function SportsChiropracticPage({ params }: Props) {
   const h1 = isEs
     ? "Quiropráctico Deportivo en San Antonio, TX"
     : "Sports Chiropractor in San Antonio, TX";
-  const ctaText = isEs ? "Reservar Evaluación Gratis" : "Book Free Evaluation";
+  const ctaText = isEs ? "Reservar Consulta Gratis" : "Book Free Consultation";
 
   const body = isEs
     ? [
@@ -124,7 +124,7 @@ export default async function SportsChiropracticPage({ params }: Props) {
               : "Ready to recover faster and perform at your best? Dr. Dan Foss is here to help."
             }</p>
             <a
-              href="https://puravidasanantonio.com/special/"
+              href="/book-now"
               className={styles.ctaBtn}
               target="_blank"
               rel="noopener noreferrer"
