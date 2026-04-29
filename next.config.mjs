@@ -54,7 +54,7 @@ const nextConfig = {
       { source: "/contact-us", destination: "/en/contact", permanent: true },
       { source: "/testimonials", destination: "/en/testimonials", permanent: true },
       { source: "/office-tour", destination: "/en/about", permanent: true },
-      { source: "/special", destination: "/en/new-patient", permanent: true },
+      { source: "/special", destination: "/book-now", permanent: true },
       { source: "/us", destination: "/en/about", permanent: true },
       { source: "/describe-your-concern", destination: "/en/contact", permanent: true },
       { source: "/laser-therapy", destination: "/en/services/class-iv-laser", permanent: true },
