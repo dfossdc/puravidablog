@@ -231,8 +231,8 @@ export default async function ConditionPage({
           </p>
           <p className={styles.sectionText}>
             {isEs
-              ? "Aceptamos la mayoría de los planes de seguro médico principales, incluyendo Blue Cross Blue Shield de Texas, UnitedHealthcare, Humana, Aetna, Ambetter, Oscar Health, Community First y Molina Healthcare. Las citas para nuevos pacientes están disponibles con prontitud."
-              : "We accept most major insurance plans including Blue Cross Blue Shield of Texas, UnitedHealthcare, Humana, Aetna, Ambetter, Oscar Health, Community First, and Molina Healthcare. New patient appointments are available promptly."}
+              ? "Trabajamos con la mayoría de los planes de seguro, incluyendo Blue Cross Blue Shield de Texas, UnitedHealthcare, Humana, Aetna, Ambetter, Oscar Health, Community First y Molina Healthcare. Las citas para nuevos pacientes están disponibles con prontitud."
+              : "We are insurance friendly with most insurance plans including Blue Cross Blue Shield of Texas, UnitedHealthcare, Humana, Aetna, Ambetter, Oscar Health, Community First, and Molina Healthcare. New patient appointments are available promptly."}
           </p>
         </div>
 
