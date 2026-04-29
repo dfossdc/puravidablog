@@ -315,7 +315,7 @@ export default async function AboutPage({ params }: Props) {
                 ? "¿Listo para experimentar el cuidado del Dr. Foss de primera mano?"
                 : "Ready to experience Dr. Foss's care firsthand?"}
             </p>
-            <Link href={`/${locale}/new-patient`} className={styles.ctaBtn}>
+            <Link href="/book-now" className={styles.ctaBtn}>
               {isEs ? "Reserve Su Evaluación →" : "Book Your New Patient Evaluation →"}
             </Link>
           </div>
