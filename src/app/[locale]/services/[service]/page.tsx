@@ -26,7 +26,7 @@ const services: Record<"en" | "es", ServiceMap> = {
     "sot-chiropractic": {
       title: "SOT Chiropractor San Antonio | Pura Vida Chiropractic",
       description:
-        "Expert SOT chiropractic care in San Antonio, TX. Dr. Dan Foss uses the Sacro-Occipital Technique to relieve pain and restore balance. Free evaluation.",
+        "Expert SOT chiropractic care in San Antonio, TX. Dr. Dan Foss uses the Sacro-Occipital Technique to relieve pain and restore balance. Free consultation.",
       keywords: ["SOT chiropractor San Antonio", "Sacro-Occipital Technique San Antonio", "chiropractic San Antonio TX", "SOT chiropractic San Antonio TX", "best chiropractor San Antonio", "chiropractor near me San Antonio"],
       h1: "SOT Chiropractic in San Antonio",
       body: [
@@ -39,7 +39,7 @@ const services: Record<"en" | "es", ServiceMap> = {
     "softwave-therapy": {
       title: "SoftWave Therapy San Antonio | Pura Vida Chiropractic",
       description:
-        "SoftWave tissue regeneration therapy in San Antonio, TX. Stimulate your body's natural healing without surgery or injections. Book a free evaluation.",
+        "SoftWave tissue regeneration therapy in San Antonio, TX. Stimulate your body's natural healing without surgery or injections. Book a free consultation.",
       keywords: ["SoftWave therapy San Antonio", "tissue regeneration San Antonio", "non-surgical pain relief San Antonio", "SoftWave therapy San Antonio TX", "shockwave therapy San Antonio", "regenerative therapy San Antonio"],
       h1: "SoftWave Therapy in San Antonio",
       body: [
@@ -52,7 +52,7 @@ const services: Record<"en" | "es", ServiceMap> = {
     "auto-injury": {
       title: "Auto Injury Chiropractor San Antonio | Pura Vida Chiropractic",
       description:
-        "Injured in a car accident in San Antonio? Dr. Dan Foss specializes in whiplash and auto injury chiropractic care. Free evaluation. We work with auto insurance.",
+        "Injured in a car accident in San Antonio? Dr. Dan Foss specializes in whiplash and auto injury chiropractic care. Free consultation. We work with auto insurance.",
       keywords: ["auto injury chiropractor San Antonio", "car accident chiropractor San Antonio", "whiplash treatment San Antonio TX", "car accident chiropractor San Antonio TX", "auto accident injury San Antonio", "whiplash chiropractor San Antonio"],
       h1: "Auto Injury Chiropractic in San Antonio",
       body: [
@@ -65,7 +65,7 @@ const services: Record<"en" | "es", ServiceMap> = {
     },
     "pediatric-chiropractor": {
       title: "Pediatric Chiropractor San Antonio | Pura Vida Chiropractic",
-      description: "Dr. Dan Foss is a pediatric chiropractor in San Antonio, TX. Gentle SOT chiropractic care for kids from newborns to teenagers. Free evaluation.",
+      description: "Dr. Dan Foss is a pediatric chiropractor in San Antonio, TX. Gentle SOT chiropractic care for kids from newborns to teenagers. Free consultation.",
       keywords: ["pediatric chiropractor San Antonio", "child chiropractor San Antonio", "kids chiropractic San Antonio TX", "pediatric chiropractor San Antonio TX", "infant chiropractor San Antonio", "children chiropractor near me San Antonio"],
       h1: "Pediatric Chiropractor in San Antonio",
       image: "/images/dr-foss-adjusting-child.webp",
@@ -122,7 +122,7 @@ const services: Record<"en" | "es", ServiceMap> = {
     "pediatric-prenatal": {
       title: "Pediatric & Prenatal Chiropractor San Antonio | Pura Vida",
       description:
-        "Gentle pediatric and prenatal chiropractic care in San Antonio, TX. SOT technique safe for all ages. Free evaluation for mom and baby.",
+        "Gentle pediatric and prenatal chiropractic care in San Antonio, TX. SOT technique safe for all ages. Free consultation for mom and baby.",
       keywords: ["pediatric chiropractor San Antonio", "prenatal chiropractor San Antonio", "chiropractic pregnancy San Antonio TX", "pediatric prenatal chiropractor San Antonio TX", "infant chiropractor San Antonio", "pregnancy chiropractor San Antonio"],
       h1: "Pediatric & Prenatal Chiropractic in San Antonio",
       videos: ["https://www.youtube.com/embed/fipTPhQ8ARw", "https://www.youtube.com/embed/IeiU-Q-ljik", "https://www.youtube.com/embed/1fiRlACQjdk"],
@@ -136,7 +136,7 @@ const services: Record<"en" | "es", ServiceMap> = {
     "shockwave-therapy": {
       title: "Shockwave Therapy San Antonio | Pura Vida Chiropractic",
       description:
-        "Shockwave therapy for chronic pain in San Antonio, TX. Non-invasive treatment for tendons, plantar fasciitis, and more. Free evaluation at Pura Vida Chiropractic.",
+        "Shockwave therapy for chronic pain in San Antonio, TX. Non-invasive treatment for tendons, plantar fasciitis, and more. Free consultation at Pura Vida Chiropractic.",
       keywords: ["shockwave therapy San Antonio", "ESWT San Antonio", "chronic pain treatment San Antonio TX", "shockwave therapy San Antonio TX", "extracorporeal shockwave San Antonio", "plantar fasciitis shockwave San Antonio"],
       h1: "Shockwave Therapy in San Antonio",
       body: [
@@ -149,7 +149,7 @@ const services: Record<"en" | "es", ServiceMap> = {
     "class-iv-laser": {
       title: "Class IV Laser Therapy San Antonio | Pura Vida Chiropractic",
       description:
-        "Class IV laser therapy in San Antonio, TX. Deep tissue healing for arthritis, disc pain, sports injuries, and neuropathy. Book a free evaluation today.",
+        "Class IV laser therapy in San Antonio, TX. Deep tissue healing for arthritis, disc pain, sports injuries, and neuropathy. Book a free consultation today.",
       keywords: ["Class IV laser therapy San Antonio", "laser therapy San Antonio TX", "photobiomodulation San Antonio", "Class IV laser San Antonio TX", "laser pain treatment San Antonio", "deep tissue laser therapy San Antonio"],
       h1: "Class IV Laser Therapy in San Antonio",
       body: [
@@ -164,7 +164,7 @@ const services: Record<"en" | "es", ServiceMap> = {
     "chiropractic-care": {
       title: "Chiropractor in San Antonio, TX | Pura Vida Chiropractic",
       description:
-        "Expert chiropractic care in San Antonio, TX. Dr. Dan Foss uses 300+ techniques including SOT to treat the root cause of pain. Free evaluation.",
+        "Expert chiropractic care in San Antonio, TX. Dr. Dan Foss uses 300+ techniques including SOT to treat the root cause of pain. Free consultation.",
       keywords: ["chiropractor San Antonio TX", "chiropractic care San Antonio", "San Antonio chiropractor", "back pain San Antonio", "best chiropractor San Antonio", "chiropractor near me San Antonio", "chiropractic adjustment San Antonio TX", "back pain doctor San Antonio"],
       h1: "Chiropractic Care in San Antonio, TX",
       image: "/images/dr-foss-adjusting-patient.webp",
@@ -206,7 +206,7 @@ const services: Record<"en" | "es", ServiceMap> = {
     "pediatric-chiropractic": {
       title: "Pediatric Chiropractor San Antonio | Pura Vida Chiropractic",
       description:
-        "Specialized pediatric chiropractic care in San Antonio, TX. Dr. Dan Foss has cared for children from newborns to teens for 23+ years. Free evaluation.",
+        "Specialized pediatric chiropractic care in San Antonio, TX. Dr. Dan Foss has cared for children from newborns to teens for 23+ years. Free consultation.",
       keywords: ["pediatric chiropractor San Antonio", "children's chiropractor San Antonio", "kids chiropractic San Antonio TX", "pediatric chiropractor San Antonio TX", "child chiropractor near me San Antonio", "quiropráctico pediátrico San Antonio"],
       h1: "Pediatric Chiropractor in San Antonio, TX",
       image: "/images/dr-foss-adjusting-child.webp",
@@ -234,7 +234,7 @@ const services: Record<"en" | "es", ServiceMap> = {
     "auto-injury-chiropractic": {
       title: "Auto Injury Chiropractor San Antonio | Pura Vida Chiropractic",
       description:
-        "Injured in a car accident in San Antonio? Dr. Dan Foss evaluates, documents, and treats whiplash and auto injuries. Free evaluation. Work with PI attorneys.",
+        "Injured in a car accident in San Antonio? Dr. Dan Foss evaluates, documents, and treats whiplash and auto injuries. Free consultation. Work with PI attorneys.",
       keywords: ["auto injury chiropractor San Antonio", "car accident chiropractor San Antonio TX", "whiplash treatment San Antonio", "car accident chiropractor San Antonio", "auto accident injury chiropractor San Antonio TX", "whiplash chiropractor near me San Antonio"],
       h1: "Auto Injury Chiropractor in San Antonio, TX",
       image: "/images/dr-foss-adjusting-patient.webp",
@@ -262,7 +262,7 @@ const services: Record<"en" | "es", ServiceMap> = {
     "latino-community": {
       title: "Bilingual Chiropractor San Antonio | Pura Vida Chiropractic",
       description:
-        "Bilingual chiropractic care for San Antonio's Latino community. Dr. Dan Foss speaks Spanish and understands Latino culture. Free evaluation.",
+        "Bilingual chiropractic care for San Antonio's Latino community. Dr. Dan Foss speaks Spanish and understands Latino culture. Free consultation.",
       keywords: ["chiropractor San Antonio Latino", "bilingual chiropractor San Antonio", "quiropráctico San Antonio TX", "Spanish speaking chiropractor San Antonio", "quiropráctico que habla español San Antonio", "quiropráctico bilingüe San Antonio TX"],
       h1: "Serving San Antonio's Latino Community",
       image: "/images/dr-foss-about-hp.webp",
@@ -293,7 +293,7 @@ const services: Record<"en" | "es", ServiceMap> = {
     "terapia-softwave": {
       title: "Terapia SoftWave San Antonio | Pura Vida Chiropractic",
       description:
-        "Terapia SoftWave de regeneración tisular en San Antonio, TX. Estimule la curación natural sin cirugía ni inyecciones. Reserve su evaluación gratuita.",
+        "Terapia SoftWave de regeneración tisular en San Antonio, TX. Estimule la curación natural sin cirugía ni inyecciones. Reserve su consulta gratuita.",
       keywords: ["terapia SoftWave San Antonio", "regeneración tisular San Antonio", "alivio del dolor sin cirugía San Antonio", "terapia SoftWave San Antonio TX", "terapia de ondas de choque San Antonio", "terapia regenerativa San Antonio"],
       h1: "Terapia SoftWave en San Antonio",
       body: [
@@ -312,7 +312,7 @@ const services: Record<"en" | "es", ServiceMap> = {
       body: [
         "Los accidentes de automóvil, incluso los menores, pueden causar lesiones musculoesqueléticas significativas que pueden no manifestarse hasta días o semanas después de la colisión. El **latigazo cervical**, la desalineación espinal, las lesiones de disco y el daño a tejidos blandos son las consecuencias más frecuentes de los accidentes de auto en San Antonio.",
         "En Pura Vida Chiropractic, el Dr. Dan Foss, DC se especializa en diagnosticar y tratar pacientes con lesiones de auto utilizando la Técnica Sacro-Occipital y terapias complementarias. La atención quiropráctica temprana después de un accidente puede mejorar dramáticamente los resultados de recuperación y prevenir el dolor crónico.",
-        "Trabajamos con seguros de auto y casos de lesiones personales. No espere — cuanto antes busque atención, mejor será su recuperación. Contáctenos hoy para una evaluación gratuita posterior al accidente. [Más información sobre lesiones de auto →](/es/blog/lesiones-de-auto)",
+        "Trabajamos con seguros de auto y casos de lesiones personales. No espere — cuanto antes busque atención, mejor será su recuperación. Contáctenos hoy para una consulta gratuita posterior al accidente. [Más información sobre lesiones de auto →](/es/blog/lesiones-de-auto)",
       ],
       videos: ["https://www.youtube.com/embed/08Zh3oOtrag"],
       schema: { "@type": "MedicalProcedure", "name": "Atención Quiropráctica por Lesiones de Auto", "procedureType": "Chiropractic" },
@@ -401,7 +401,7 @@ const services: Record<"en" | "es", ServiceMap> = {
     "laser-clase-iv": {
       title: "Terapia Láser Clase IV San Antonio | Pura Vida Chiropractic",
       description:
-        "Terapia láser Clase IV en San Antonio, TX. Sanación profunda para artritis, dolor de disco, lesiones deportivas y neuropatía. Reserve su evaluación gratuita.",
+        "Terapia láser Clase IV en San Antonio, TX. Sanación profunda para artritis, dolor de disco, lesiones deportivas y neuropatía. Reserve su consulta gratuita.",
       keywords: ["láser clase IV San Antonio", "terapia láser San Antonio TX", "fotobiomodulación San Antonio", "láser clase IV San Antonio TX", "terapia láser profunda San Antonio", "láser terapéutico San Antonio"],
       h1: "Terapia Láser Clase IV en San Antonio",
       body: [
