@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import WhatsAppButton from "@/components/WhatsAppButton";
+import MobileStickyCall from "@/components/MobileStickyCall";
 
 const BASE_URL = "https://puravidasanantonio.com";
 
@@ -42,6 +43,7 @@ export default async function LocaleLayout({
     <>
       {children}
       <WhatsAppButton locale={locale as "en" | "es"} />
+      <MobileStickyCall locale={locale as "en" | "es"} />
     </>
   );
 }

@@ -1,6 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import TopBar from "./TopBar";
+import UrgencyBar from "./UrgencyBar";
 import styles from "./Header.module.css";
 
 interface HeaderProps {
@@ -29,12 +30,14 @@ const patientLinks = {
     { label: "New Patient / Initial Visit", href: "/new-patient" },
     { label: "Patient Forms",               href: "/new-patient#forms" },
     { label: "Chiropractic FAQs",           href: "/faq" },
+    { label: "For Providers (Referrals)",   href: "/provider-referral" },
     { label: "Contact Us",                  href: "/contact" },
   ],
   es: [
     { label: "Nuevo Paciente / Primera Visita", href: "/new-patient" },
     { label: "Formularios de Paciente",         href: "/new-patient#forms" },
     { label: "Preguntas Frecuentes",            href: "/faq" },
+    { label: "Para Profesionales (Referidos)",  href: "/provider-referral" },
     { label: "Contáctenos",                     href: "/contact" },
   ],
 };
@@ -151,6 +154,9 @@ export default function Header({ locale: rawLocale, currentSlug, currentPath }: 
 
   return (
     <>
+      {/* ── Urgency Phone Bar (red) ── */}
+      <UrgencyBar locale={locale} />
+
       {/* ── Top Utility Bar ── */}
       <TopBar locale={locale} />
 

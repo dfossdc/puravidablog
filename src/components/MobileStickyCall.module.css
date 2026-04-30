@@ -1,0 +1,44 @@
+.bar {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .bar {
+    display: block;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #dc2626;
+    color: #ffffff;
+    text-align: center;
+    padding: 0.95rem 0.75rem;
+    font-weight: 800;
+    font-size: 1.05rem;
+    text-decoration: none;
+    z-index: 50;
+    box-shadow: 0 -4px 16px rgba(0, 0, 0, 0.18);
+    letter-spacing: 0.01em;
+  }
+
+  .bar:active {
+    background: #b91c1c;
+  }
+
+  .bar:hover {
+    color: #ffffff;
+  }
+}
+
+/* Spacer that keeps page content from being hidden behind the fixed bar
+   on mobile. Rendered as a sibling so it pushes the bottom of the page. */
+.spacer {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .spacer {
+    display: block;
+    height: 60px;
+  }
+}
