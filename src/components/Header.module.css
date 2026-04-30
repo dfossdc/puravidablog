@@ -96,7 +96,7 @@
   max-width: 1200px;
   margin: 0 auto;
   padding: 0 1.25rem;
-  height: 200px;
+  height: 96px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -111,7 +111,7 @@
 }
 
 .logo {
-  height: 200px;
+  height: 80px;
   width: auto;
   object-fit: contain;
 }
