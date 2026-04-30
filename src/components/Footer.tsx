@@ -22,7 +22,7 @@ export default function Footer({ locale }: FooterProps) {
       <div className={styles.footerTop}>
         <div className={styles.footerTopInner}>
           <Image
-            src="/images/puravidalogo.jpg"
+            src="/images/puravidalogo.png"
             alt="Pura Vida Chiropractic"
             width={260}
             height={80}

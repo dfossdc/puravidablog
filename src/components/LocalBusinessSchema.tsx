@@ -6,7 +6,7 @@ export default function LocalBusinessSchema() {
     "name": "Pura Vida Chiropractic",
     "alternateName": "Pura Vida Quiropráctica",
     "url": "https://puravidasanantonio.com",
-    "logo": "/images/puravidalogo.jpg",
+    "logo": "/images/puravidalogo.png",
     "image": "/images/dr-foss-adjusting-patient.webp",
     "description": "Bilingual chiropractic clinic in San Antonio, TX specializing in SOT chiropractic, SoftWave therapy, shockwave therapy, Class IV laser, auto injury, and pediatric/prenatal care. Dr. Dan Foss, DC — 23+ years experience.",
     "telephone": "+12106851994",

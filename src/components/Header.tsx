@@ -189,7 +189,7 @@ export default function Header({ locale: rawLocale, currentSlug, currentPath }: 
         <div className={styles.inner}>
           <Link href={`/${locale}`} className={styles.brand}>
             <Image
-              src="/images/puravidalogo.jpg"
+              src="/images/puravidalogo.png"
               alt="Pura Vida Chiropractic"
               width={800}
               height={240}
