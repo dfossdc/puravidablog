@@ -139,6 +139,38 @@ const nextConfig = {
       { source: "/en/services/terapia-ondas-de-choque", destination: "/en/services/shockwave-therapy", permanent: true },
       { source: "/es/services/class-iv-laser", destination: "/es/services/laser-clase-iv", permanent: true },
       { source: "/en/services/laser-clase-iv", destination: "/en/services/class-iv-laser", permanent: true },
+
+      // ── quiropracticosanantonio.com → puravidasanantonio.com/es ──
+      // Spanish-keyword domain (Vercel-managed) routes everything to the
+      // Spanish version of the main site. Two rules per host so root goes
+      // to /es (no trailing slash) and paths go to /es/<path>, avoiding a
+      // double-hop through Next's trailing-slash normalizer.
+      // Requires the domain (apex + www) to be attached to this Vercel
+      // project — see Vercel → puravidablog → Settings → Domains.
+      {
+        source: "/",
+        destination: "https://puravidasanantonio.com/es",
+        permanent: true,
+        has: [{ type: "host", value: "quiropracticosanantonio.com" }],
+      },
+      {
+        source: "/:path+",
+        destination: "https://puravidasanantonio.com/es/:path+",
+        permanent: true,
+        has: [{ type: "host", value: "quiropracticosanantonio.com" }],
+      },
+      {
+        source: "/",
+        destination: "https://puravidasanantonio.com/es",
+        permanent: true,
+        has: [{ type: "host", value: "www.quiropracticosanantonio.com" }],
+      },
+      {
+        source: "/:path+",
+        destination: "https://puravidasanantonio.com/es/:path+",
+        permanent: true,
+        has: [{ type: "host", value: "www.quiropracticosanantonio.com" }],
+      },
     ];
   },
 };
