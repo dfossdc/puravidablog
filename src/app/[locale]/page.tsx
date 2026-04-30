@@ -123,6 +123,19 @@ const services = [
   },
 ];
 
+// Homepage condition cards — curated 8 highest-intent picks (handoff Change #5).
+// The full ~90-condition library still lives at /[locale]/conditions/[slug] for SEO.
+const homepageConditions = [
+  { label: "Lower Back Pain",        labelEs: "Dolor de Espalda Baja",      image: "/images/conditions/backpain.jpg",        alt: "Lower back pain chiropractor San Antonio",                  href: "/[locale]/conditions/lower-back-pain" },
+  { label: "Neck Pain",              labelEs: "Dolor de Cuello",            image: "/images/conditions/neck.jpg",            alt: "Neck pain chiropractor San Antonio",                        href: "/[locale]/conditions/neck-pain" },
+  { label: "Headaches & Migraines",  labelEs: "Dolores de Cabeza y Migrañas", image: "/images/conditions/headache.jpg",      alt: "Headache and migraine relief San Antonio chiropractor",     href: "/[locale]/conditions/headaches" },
+  { label: "Sciatica",               labelEs: "Ciática",                    image: "/images/conditions/sciatica.jpg",        alt: "Sciatica nerve pain relief San Antonio chiropractor",       href: "/[locale]/conditions/sciatica" },
+  { label: "Auto Accident Injuries", labelEs: "Lesiones de Auto",           image: "/images/conditions/autoaccident.jpg",    alt: "Auto accident injury chiropractor San Antonio",             href: "/[locale]/conditions/auto-accident-injuries" },
+  { label: "Pregnancy & Prenatal",   labelEs: "Embarazo y Prenatal",        image: "/images/conditions/pregnancy.webp",      alt: "Pregnancy chiropractic care San Antonio",                   href: "/[locale]/conditions/pregnancy-wellness" },
+  { label: "Pediatric & Infant Care",labelEs: "Cuidado Pediátrico y de Bebés", image: "/images/conditions/torticollis.jpg",  alt: "Pediatric and infant chiropractic San Antonio",             href: "/[locale]/services/pediatric-chiropractor" },
+  { label: "TMJ & Jaw Pain",         labelEs: "ATM y Dolor de Mandíbula",   image: "/images/conditions/tmj.webp",            alt: "TMJ and jaw pain chiropractor San Antonio",                 href: "/[locale]/conditions/tmj-jaw-pain" },
+];
+
 const conditions = [
   { label: "Headaches",                            labelEs: "Dolores de Cabeza",                    image: "/images/conditions/headache.jpg",        alt: "Headache and migraine relief San Antonio chiropractor",        href: "/[locale]/conditions/headaches" },
   { label: "Auto Accident Injuries",               labelEs: "Lesiones por Accidente de Auto",       image: "/images/conditions/autoaccident.jpg",    alt: "Auto accident injury chiropractor San Antonio",               href: "/[locale]/conditions/auto-accident-injuries" },
@@ -338,14 +351,21 @@ export default async function HomePage({ params }: Props) {
                 <span className={styles.heroTrustItem}>✓ {isEs ? "23+ Años de Experiencia" : "23+ Years Experience"}</span>
                 <span className={styles.heroTrustItem}>🗣 {isEs ? "Bilingüe EN/ES" : "Bilingual EN/ES"}</span>
               </div>
-              <a
-                href={`/${locale}/book-now`}
-                className={styles.heroCta}
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                {isEs ? "Reserve Ahora →" : "Book Now →"}
-              </a>
+              <div className={styles.heroCtaGroup}>
+                <a
+                  href="tel:+12106851994"
+                  className={styles.heroCtaPhone}
+                  aria-label={isEs ? "Llamar al (210) 685-1994" : "Call (210) 685-1994"}
+                >
+                  📞 {isEs ? "Llame: (210) 685-1994" : "Call (210) 685-1994"}
+                </a>
+                <a
+                  href={`/${locale}/book-now`}
+                  className={styles.heroCtaBook}
+                >
+                  {isEs ? "Reserve Ahora →" : "Book Now →"}
+                </a>
+              </div>
             </div>
             <div className={styles.heroImageWrap}>
               <Image
@@ -433,8 +453,8 @@ export default async function HomePage({ params }: Props) {
               </p>
               <p>
                 {isEs
-                  ? "Su camino hacia este nivel de especialización comenzó con una experiencia personal: de niño, Dan tuvo tortícolis — la cabeza bloqueada hacia un lado. Un médico recetó medicamentos. Sus padres lo llevaron a un quiropráctico. Un ajuste cambió todo. Veintitrés años después, esa experiencia es la razón por la que existe el Protocolo Pura Vida."
-                  : "His path to this level of specialization began with a personal experience: as a child, Dan had torticollis — his head locked to one side. A medical doctor prescribed pharmaceuticals. His parents took him to a chiropractor instead. One adjustment changed everything. Twenty-three years later, that experience is the reason the Pura Vida Protocol exists."}
+                  ? "Su camino hacia este nivel de especialización comenzó con una experiencia personal: en primer grado, a los 8 años, Dan tuvo tortícolis — la cabeza bloqueada hacia un lado. Un médico recetó medicamentos. Sus padres lo llevaron a un quiropráctico. Un ajuste cambió todo. Veintitrés años después, esa experiencia es la razón por la que existe el Protocolo Pura Vida."
+                  : "His path to this level of specialization began with a personal experience: in first grade, when he was 8 years old, Dan had torticollis — his head locked to one side. A medical doctor prescribed pharmaceuticals. His parents took him to a chiropractor instead. One adjustment changed everything. Twenty-three years later, that experience is the reason the Pura Vida Protocol exists."}
               </p>
               <div className={styles.aboutBtns}>
                 <Link href={`/${locale}/about`} className={styles.learnMore}>
@@ -607,37 +627,43 @@ export default async function HomePage({ params }: Props) {
         {/* Wave: Services (#F4F9FF) → Conditions (#ffffff) */}
         <WaveDown fill="#ffffff" />
 
-        {/* ── CONDITIONS PHOTO GRID ─────────────────── */}
+        {/* ── CONDITIONS PHOTO GRID — top 8 (full library at /conditions) ── */}
         <section className={styles.conditionsSection}>
           <div className={styles.sectionInner}>
             <p className={styles.conditionsSectionTitle}>
-              {isEs ? "TRATAMOS LAS SIGUIENTES CONDICIONES" : "WE HELP WITH THE FOLLOWING CONDITIONS"}
+              {isEs ? "LAS CONDICIONES QUE TRATAMOS CON MÁS FRECUENCIA" : "THE MOST COMMON CONDITIONS WE TREAT"}
             </p>
-            <div className={styles.conditionsGrid}>
-              {conditions.map((c) => (
+            <p className={styles.conditionsHomeIntro}>
+              {isEs
+                ? "¿No ve su condición? Tratamos más de 90 condiciones de la columna, los órganos y el cráneo."
+                : "Don't see your condition? We treat 90+ conditions across the spine, organs, and cranial systems."}
+            </p>
+            <div className={`${styles.conditionsGrid} ${styles.conditionsGridHome}`}>
+              {homepageConditions.map((c) => (
                 <a
                   key={c.label}
                   href={c.href.replace("[locale]", locale)}
                   className={styles.conditionCard}
                 >
-                  {c.image ? (
-                    <>
-                      <Image
-                        src={c.image}
-                        alt={c.alt}
-                        {...(c.title ? { title: c.title } : {})}
-                        fill
-                        className={styles.conditionImg}
-                        sizes="(max-width: 540px) 50vw, (max-width: 900px) 33vw, 20vw"
-                      />
-                      <div className={styles.conditionOverlay} aria-hidden="true" />
-                      <span className={styles.conditionName}>{isEs ? c.labelEs : c.label}</span>
-                    </>
-                  ) : (
-                    <span className={styles.conditionNameNoImg}>{isEs ? c.labelEs : c.label}</span>
-                  )}
+                  <Image
+                    src={c.image}
+                    alt={c.alt}
+                    fill
+                    className={styles.conditionImg}
+                    sizes="(max-width: 540px) 50vw, (max-width: 900px) 33vw, 25vw"
+                  />
+                  <div className={styles.conditionOverlay} aria-hidden="true" />
+                  <span className={styles.conditionName}>{isEs ? c.labelEs : c.label}</span>
                 </a>
               ))}
+            </div>
+            <div className={styles.conditionsViewAllWrap}>
+              <Link
+                href={`/${locale}/conditions/lower-back-pain`}
+                className={styles.conditionsViewAll}
+              >
+                {isEs ? "Ver Todas las 90+ Condiciones →" : "View All 90+ Conditions We Treat →"}
+              </Link>
             </div>
           </div>
         </section>
