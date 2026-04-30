@@ -181,6 +181,31 @@ const nextConfig = {
       { source: "/wp-content/uploads/:year*/:month*/New-Member-Paperwork-Oct-2015.pdf", destination: "/en/new-patient", permanent: true },
       { source: "/wp-content/uploads/:path*", destination: "/en", permanent: true },
 
+      // ── Spanish-slug landing pages: redirect /en variants to /es ──
+      // These pages have Spanish slugs ("el-mejor-quiropractico", "quiropratico",
+      // "san-antonio-quiropractico") and Spanish content. They should only live
+      // under /es. /en variants are wrong-locale and currently 404 / dead-end.
+      { source: "/en/el-mejor-quiropractico-san-antonio", destination: "/es/el-mejor-quiropractico-san-antonio", permanent: true },
+      { source: "/en/quiropratico-san-antonio",           destination: "/es/quiropratico-san-antonio",           permanent: true },
+      { source: "/en/san-antonio-quiropractico",          destination: "/es/san-antonio-quiropractico",          permanent: true },
+
+      // ── Canonical consolidation: collapse duplicate English service slugs ──
+      // The services route has multiple slugs that point to the same content
+      // (e.g. /services/pediatric-chiropractor + /services/pediatric-chiropractic).
+      // This splits SEO signal across variants. Pick one canonical slug per
+      // service and 301 the others. Spanish duplicates redirect to the Spanish
+      // canonical slug.
+      { source: "/en/services/pediatric-chiropractic",     destination: "/en/services/pediatric-chiropractor",   permanent: true },
+      { source: "/es/services/pediatric-chiropractic",     destination: "/es/services/quiropractico-pediatrico", permanent: true },
+      { source: "/en/services/infant-chiropractic",        destination: "/en/services/infants-chiropractic",     permanent: true },
+      { source: "/es/services/infant-chiropractic",        destination: "/es/services/quiropractico-infantes",   permanent: true },
+      { source: "/en/services/pregnancy-chiropractic",     destination: "/en/services/pregnancy-chiropractor",   permanent: true },
+      { source: "/es/services/pregnancy-chiropractic",     destination: "/es/services/quiropractico-embarazo",   permanent: true },
+      { source: "/en/services/auto-injury-chiropractic",   destination: "/en/services/auto-injury",              permanent: true },
+      { source: "/es/services/auto-injury-chiropractic",   destination: "/es/services/lesiones-de-auto",         permanent: true },
+      { source: "/en/services/cranial-chiropractic",       destination: "/en/services/sot-chiropractic",         permanent: true },
+      { source: "/es/services/cranial-chiropractic",       destination: "/es/services/quiropractica-sot",        permanent: true },
+
       // ── Cross-locale service slug redirects ──
       // 10 services use different slugs in EN vs ES; if a user lands on the
       // wrong-locale slug (e.g. /es/services/sot-chiropractic), redirect them
