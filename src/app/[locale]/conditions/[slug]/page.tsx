@@ -248,7 +248,7 @@ export default async function ConditionPage({
               ? "Reserve su cita de nuevo paciente con el Dr. Foss en Pura Vida Chiropractic en San Antonio, TX. Identificaremos la causa raíz y elaboraremos un plan de cuidado personalizado para usted."
               : "Schedule your new patient appointment with Dr. Foss at Pura Vida Chiropractic in San Antonio, TX. We'll identify the root cause and build a personalized care plan."}
           </p>
-          <Link href="/book-now" className={styles.ctaBtn}>
+          <Link href={`/${locale}/book-now`} className={styles.ctaBtn}>
             {isEs ? "Reserve Su Cita" : "Book Your Appointment"}
           </Link>
         </div>

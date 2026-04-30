@@ -577,7 +577,7 @@ export default async function ServicePage({ params }: Props) {
 
   const isEs = locale === "es";
   const ctaText = isEs ? "Reservar Consulta Gratis" : "Book Free Consultation";
-  const ctaHref = "/book-now";
+  const ctaHref = `/${locale}/book-now`;
 
   const schemaJson = {
     "@context": "https://schema.org",

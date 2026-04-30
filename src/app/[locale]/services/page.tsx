@@ -108,7 +108,7 @@ export default async function ServicesPage({ params }: Props) {
           </div>
           <div style={{ marginTop: "3rem", textAlign: "center" }}>
             <a
-              href="/book-now"
+              href={`/${locale}/book-now`}
               target="_blank"
               rel="noopener noreferrer"
               style={{

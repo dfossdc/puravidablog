@@ -476,7 +476,7 @@ export default async function TestimonialsPage({ params }: Props) {
           </p>
           <div className={styles.ctaLinks}>
             <a
-              href="/book-now"
+              href={`/${locale}/book-now`}
               target="_blank"
               rel="noopener noreferrer"
               className={styles.ctaBtn}

@@ -124,7 +124,7 @@ export default async function SportsChiropracticPage({ params }: Props) {
               : "Ready to recover faster and perform at your best? Dr. Dan Foss is here to help."
             }</p>
             <a
-              href="/book-now"
+              href={`/${locale}/book-now`}
               className={styles.ctaBtn}
               target="_blank"
               rel="noopener noreferrer"

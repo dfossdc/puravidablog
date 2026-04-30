@@ -118,7 +118,7 @@ export default async function SotSubPage({ params }: Props) {
             <h3>{t.ctaTitle}</h3>
             <p>{t.ctaBody}</p>
             <a
-              href="/book-now"
+              href={`/${locale}/book-now`}
               target="_blank"
               rel="noopener noreferrer"
               className={styles.ctaBtn}

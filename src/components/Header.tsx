@@ -160,12 +160,12 @@ export default function Header({ locale: rawLocale, currentSlug, currentPath }: 
           <p className={styles.annLeft}>
             {locale === "en"
               ? <>There is No Risk to see what we can do for you —{" "}
-                  <a href="/book-now" target="_blank" rel="noopener noreferrer" className={styles.annLink}>
+                  <a href={`/${locale}/book-now`} target="_blank" rel="noopener noreferrer" className={styles.annLink}>
                     New Patient Special Offer →
                   </a>
                 </>
               : <>No hay riesgo en ver lo que podemos hacer por usted —{" "}
-                  <a href="/book-now" target="_blank" rel="noopener noreferrer" className={styles.annLink}>
+                  <a href={`/${locale}/book-now`} target="_blank" rel="noopener noreferrer" className={styles.annLink}>
                     Oferta Especial →
                   </a>
                 </>
@@ -315,7 +315,7 @@ export default function Header({ locale: rawLocale, currentSlug, currentPath }: 
                 (210) 685-1994
               </a>
               <a
-                href="/book-now"
+                href={`/${locale}/book-now`}
                 className={styles.cta}
                 target="_blank"
                 rel="noopener noreferrer"

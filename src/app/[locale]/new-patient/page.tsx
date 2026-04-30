@@ -131,7 +131,7 @@ export default async function NewPatientPage({ params }: Props) {
                 : "There is no risk to see what we can do for you."}
             </p>
             <a
-              href="/book-now"
+              href={`/${locale}/book-now`}
               className={styles.specialBtn}
               target="_blank"
               rel="noopener noreferrer"

@@ -339,7 +339,7 @@ export default async function HomePage({ params }: Props) {
                 <span className={styles.heroTrustItem}>🗣 {isEs ? "Bilingüe EN/ES" : "Bilingual EN/ES"}</span>
               </div>
               <a
-                href="/book-now"
+                href={`/${locale}/book-now`}
                 className={styles.heroCta}
                 target="_blank"
                 rel="noopener noreferrer"
@@ -501,7 +501,7 @@ export default async function HomePage({ params }: Props) {
           <div className={styles.statsCtaWrap}>
             <div className={styles.statsCtaLine} aria-hidden="true" />
             <a
-              href="/book-now"
+              href={`/${locale}/book-now`}
               target="_blank"
               rel="noopener noreferrer"
               className={styles.statsCta}
@@ -697,7 +697,7 @@ export default async function HomePage({ params }: Props) {
                   ? "Su consulta gratuita incluye una cita individual con el Dr. Dan Foss, donde tomaremos el tiempo para hablar sobre sus preocupaciones de salud actuales y determinar si usted es un buen candidato para el cuidado quiropráctico. Recibirá recomendaciones expertas enfocadas en corregir la causa raíz de su problema, no solo los síntomas. Y si determinamos que no podemos ayudarle, haremos todo lo posible para guiarle al proveedor adecuado."
                   : "Your free consultation includes a one-on-one appointment with Dr. Dan Foss, where we will take the time to discuss your current health concerns and determine if you are a good candidate for chiropractic care. You'll receive expert recommendations focused on correcting the root cause of your problem — not just the symptoms. And if we determine that we cannot help you, we will do everything we can to guide you to the right provider who can."}
               </p>
-              <a href="/book-now" className={styles.newPatientBtn} target="_blank" rel="noopener noreferrer">
+              <a href={`/${locale}/book-now`} className={styles.newPatientBtn} target="_blank" rel="noopener noreferrer">
                 {isEs ? "Comenzar Hoy →" : "Get Started Today →"}
               </a>
             </div>
@@ -731,7 +731,7 @@ export default async function HomePage({ params }: Props) {
                 : "There is no risk to see what we can do for you. Call us today or book your free consultation online."}
             </p>
             <div className={styles.finalCtaBtns}>
-              <a href="/book-now" className={styles.finalCtaBtn} target="_blank" rel="noopener noreferrer">
+              <a href={`/${locale}/book-now`} className={styles.finalCtaBtn} target="_blank" rel="noopener noreferrer">
                 {isEs ? "Reservar Consulta Gratis" : "Book Free Consultation"}
               </a>
               <a href="tel:+12106851994" className={styles.finalCtaPhone}>(210) 685-1994</a>

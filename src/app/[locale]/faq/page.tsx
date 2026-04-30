@@ -181,7 +181,7 @@ export default async function FaqPage({ params }: Props) {
                 {isEs ? "Llamar (210) 685-1994" : "Call (210) 685-1994"}
               </a>
               <a
-                href="/book-now"
+                href={`/${locale}/book-now`}
                 className={styles.bookBtn}
                 target="_blank"
                 rel="noopener noreferrer"

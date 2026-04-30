@@ -116,7 +116,7 @@ export default async function MissionPage({ params }: Props) {
               : "Ready to experience the same compassionate care Dr. Foss brings around the world?"
             }</p>
             <a
-              href="/book-now"
+              href={`/${locale}/book-now`}
               className={styles.ctaBtn}
               target="_blank"
               rel="noopener noreferrer"

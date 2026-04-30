@@ -110,7 +110,7 @@ export default async function ContactPage({ params }: Props) {
               </div>
 
               <a
-                href="/book-now"
+                href={`/${locale}/book-now`}
                 className={styles.ctaBtn}
                 target="_blank"
                 rel="noopener noreferrer"
