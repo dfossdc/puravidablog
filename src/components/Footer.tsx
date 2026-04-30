@@ -94,6 +94,20 @@ export default function Footer({ locale }: FooterProps) {
         </div>
       </div>
 
+      {/* ── Areas served (sitewide internal linking for hyper-local SEO) ── */}
+      <div className={styles.areasServedWrap}>
+        <div className={styles.areasServed}>
+          <span className={styles.areasServedLabel}>
+            {isEs ? "Atendemos:" : "Areas served:"}
+          </span>
+          <Link href={`/${locale}/stone-oak-chiropractor`}>Stone Oak</Link>
+          <Link href={`/${locale}/castle-hills-chiropractor`}>Castle Hills</Link>
+          <Link href={`/${locale}/alamo-heights-chiropractor`}>Alamo Heights</Link>
+          <Link href={`/${locale}/helotes-chiropractor`}>Helotes</Link>
+          <Link href={`/${locale}/olmos-park-chiropractor`}>Olmos Park</Link>
+        </div>
+      </div>
+
       {/* ── Verified Profiles ── */}
       <div className={styles.verifiedWrap}>
       <div className={styles.verified}>

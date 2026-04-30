@@ -2,6 +2,7 @@ import type { MetadataRoute } from "next";
 import { fetchAllSlugs } from "@/lib/posts";
 import { conditionsContent } from "@/lib/conditionsContent";
 import { fetchAllSotSlugs } from "@/lib/sot";
+import { neighborhoodSlugs } from "@/lib/neighborhoods";
 
 const BASE_URL = "https://puravidasanantonio.com";
 
@@ -140,6 +141,18 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
         lastModified: new Date(),
         changeFrequency: "monthly",
         priority: 0.85,
+      });
+    }
+  }
+
+  // Neighborhood landing pages — high-priority for hyper-local SEO
+  for (const slug of neighborhoodSlugs) {
+    for (const locale of ["en", "es"]) {
+      entries.push({
+        url: `${BASE_URL}/${locale}/${slug}-chiropractor`,
+        lastModified: new Date(),
+        changeFrequency: "monthly",
+        priority: 0.9,
       });
     }
   }
