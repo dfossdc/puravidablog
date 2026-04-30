@@ -36,8 +36,10 @@ function tokenize(text: string): Set<string> {
 }
 
 function jaccard(a: Set<string>, b: Set<string>): number {
-  const intersection = [...a].filter((x) => b.has(x)).length;
-  const union = new Set([...a, ...b]).size;
+  const arrA = Array.from(a);
+  const arrB = Array.from(b);
+  const intersection = arrA.filter((x) => b.has(x)).length;
+  const union = new Set(arrA.concat(arrB)).size;
   return union === 0 ? 0 : intersection / union;
 }
 
