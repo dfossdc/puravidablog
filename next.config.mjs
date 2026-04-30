@@ -143,6 +143,44 @@ const nextConfig = {
       { source: "/blog/just-back-pain", destination: "/en/blog/back-pain-chiropractor-san-antonio", permanent: true },
       { source: "/blog/back-pain-tips-chiropractor", destination: "/en/blog/back-pain-chiropractor-san-antonio", permanent: true },
 
+      // ── Original WordPress URL redirects (high SEO authority) ──
+      // These were the top-ranking pages on the old WordPress site at
+      // puravidasanantonio.com before the Doctible takeover. Google still
+      // tries to send organic traffic to these URLs; without redirects they
+      // 404 and Google drops them from the index. 301s reclaim the SEO equity.
+      { source: "/cranial-chiropractor", destination: "/en/services/sot-chiropractic", permanent: true },
+      { source: "/pura-vida-quiropractica", destination: "/es", permanent: true },
+      { source: "/meet-dr-foss", destination: "/en/about", permanent: true },
+      { source: "/hernia-hiatal-y-la-quiropractica", destination: "/es/blog/hernia-hiatal-y-la-quiropractica", permanent: true },
+      { source: "/about-pura-vida", destination: "/en/about", permanent: true },
+      { source: "/prenatal-chiropractor", destination: "/en/services/prenatal-chiropractor", permanent: true },
+      { source: "/tongue-tie-and-chiropractic", destination: "/en/conditions/tongue-tie", permanent: true },
+      { source: "/videos", destination: "/en/videos", permanent: true },
+      { source: "/mission-trips", destination: "/en/mission", permanent: true },
+      { source: "/trigeminal-neuralgia-and-chiropractic", destination: "/en/conditions", permanent: true },
+      { source: "/radiografias", destination: "/es/blog/radiografias", permanent: true },
+      { source: "/initial-visit", destination: "/en/new-patient", permanent: true },
+      { source: "/san-antonio-chiropractor-car-accident", destination: "/en/services/auto-injury", permanent: true },
+      { source: "/chiropractic-blog", destination: "/en/blog", permanent: true },
+      { source: "/terms-conditions", destination: "/en/terms", permanent: true },
+      { source: "/quiropractica-en-ninos", destination: "/es/services/quiropractico-pediatrico", permanent: true },
+      { source: "/chiropractic-faq", destination: "/en/faq", permanent: true },
+      { source: "/new-patient-forms", destination: "/en/new-patient", permanent: true },
+      { source: "/asthma-and-chiropractic", destination: "/en", permanent: true },
+      { source: "/pura-vida-chiropractic-cuestionario-spanish", destination: "/es/contact", permanent: true },
+      { source: "/care-chiropractic", destination: "/en/services/chiropractic-care", permanent: true },
+      { source: "/mi-batalla-en-esta-crisis-economica", destination: "/es/blog/mi-batalla-en-esta-crisis-economica", permanent: true },
+      { source: "/neck-pain-and-chiropractic-care", destination: "/en/conditions/neck-pain", permanent: true },
+      { source: "/quiropratico-san-antonio", destination: "/es/quiropratico-san-antonio", permanent: true },
+      { source: "/sports-chiropractor-near-me", destination: "/en/sports-chiropractic", permanent: true },
+
+      // ── Old WordPress media (PDFs / images that Google still indexed) ──
+      // Send broken WP /wp-content/uploads paths to the most relevant page so
+      // Google can update its index instead of seeing 404s.
+      { source: "/wp-content/uploads/:year*/:month*/Pura_Infante_Espanol_Intake.pdf", destination: "/en/new-patient", permanent: true },
+      { source: "/wp-content/uploads/:year*/:month*/New-Member-Paperwork-Oct-2015.pdf", destination: "/en/new-patient", permanent: true },
+      { source: "/wp-content/uploads/:path*", destination: "/en", permanent: true },
+
       // ── Cross-locale service slug redirects ──
       // 10 services use different slugs in EN vs ES; if a user lands on the
       // wrong-locale slug (e.g. /es/services/sot-chiropractic), redirect them
