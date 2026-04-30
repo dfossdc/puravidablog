@@ -2,10 +2,12 @@
  * Related-content utilities for cross-linking conditions, services, and blog posts.
  *
  * Strategy:
- * - Posts: word-overlap on title/keywords/tags (case-insensitive, ignoring stop words)
- * - Conditions: shared `additionalTreatments` services + alphabetic neighbors
- * - Services: keyword overlap with other services + conditions whose
- *   `additionalTreatments` includes this service
+ * - Posts: word-overlap on title/description/keywords/tags (case-insensitive,
+ *   ignoring stop words and brand terms).
+ * - Conditions: shared `additionalTreatments` services + alphabetic neighbors.
+ * - Services: keyword overlap with conditions/posts. Includes a curated
+ *   SERVICE_INDEX so non-shockwave/softwave/laser services (SOT, pediatric,
+ *   prenatal, auto-injury, etc.) still pull up relevant conditions/posts.
  */
 import { conditionsContent } from "@/lib/conditionsContent";
 import { fetchPosts, type PostFrontmatter } from "@/lib/posts";
@@ -43,6 +45,16 @@ function jaccard(a: Set<string>, b: Set<string>): number {
   return union === 0 ? 0 : intersection / union;
 }
 
+/** Pull all the searchable text out of a blog post (handles posts that use `tags` instead of `keywords`). */
+function postCorpus(p: PostFrontmatter): string {
+  return [
+    p.title,
+    p.description,
+    (p.keywords || []).join(" "),
+    (p.tags || []).join(" "),
+  ].join(" ");
+}
+
 /* ── Blog post cross-linking ─────────────────────────────────────────────── */
 
 export function getRelatedPosts(
@@ -54,18 +66,11 @@ export function getRelatedPosts(
   const current = all.find((p) => p.slug === currentSlug);
   if (!current) return [];
 
-  const currentTokens = tokenize(
-    `${current.title} ${current.description} ${(current.keywords || []).join(" ")}`
-  );
+  const currentTokens = tokenize(postCorpus(current));
 
   const scored = all
     .filter((p) => p.slug !== currentSlug && p.lang === locale)
-    .map((p) => {
-      const tokens = tokenize(
-        `${p.title} ${p.description} ${(p.keywords || []).join(" ")}`
-      );
-      return { post: p, score: jaccard(currentTokens, tokens) };
-    })
+    .map((p) => ({ post: p, score: jaccard(currentTokens, tokenize(postCorpus(p))) }))
     .filter((x) => x.score > 0)
     .sort((a, b) => b.score - a.score)
     .slice(0, limit);
@@ -78,12 +83,82 @@ export function getRelatedPosts(
   }));
 }
 
+/* ── Service index ───────────────────────────────────────────────────────── */
+
+/**
+ * All site services with their EN/ES display labels and a list of "matcher"
+ * tokens. The matcher tokens are checked against condition titles/intros and
+ * blog post corpora to find content related to a given service (and vice
+ * versa) — used as a fallback when the structured `additionalTreatments` field
+ * doesn't apply (i.e., for services other than shockwave/softwave/laser).
+ */
+const SERVICE_INDEX: Record<
+  string,
+  { en: string; es: string; matchers: string[] }
+> = {
+  "sot-chiropractic": {
+    en: "SOT Chiropractic",
+    es: "Quiropráctica SOT",
+    matchers: ["sot", "sacro", "occipital", "blocking", "category", "wedge"],
+  },
+  "softwave-therapy": {
+    en: "SoftWave Therapy",
+    es: "Terapia SoftWave",
+    matchers: ["softwave", "shockwave", "regenerative", "regeneration", "tissue"],
+  },
+  "shockwave-therapy": {
+    en: "Shockwave Therapy",
+    es: "Terapia de Ondas de Choque",
+    matchers: ["shockwave", "ondas", "choque", "tendinopath", "fasciitis"],
+  },
+  "class-iv-laser": {
+    en: "Class IV Laser Therapy",
+    es: "Terapia Láser Clase IV",
+    matchers: ["laser", "class", "iv", "cold", "photobiomodulation", "láser"],
+  },
+  "auto-injury": {
+    en: "Auto Injury Chiropractic",
+    es: "Quiropráctica para Lesiones de Auto",
+    matchers: ["auto", "accident", "whiplash", "collision", "car", "lesion", "lesión"],
+  },
+  "pediatric-chiropractor": {
+    en: "Pediatric Chiropractor",
+    es: "Quiropráctico Pediátrico",
+    matchers: ["pediatric", "child", "kids", "infant", "newborn", "pediátric", "niño", "niños", "bebe", "bebé"],
+  },
+  "prenatal-chiropractor": {
+    en: "Prenatal Chiropractor",
+    es: "Quiropráctico Prenatal",
+    matchers: ["prenatal", "pregnancy", "pregnant", "embaraz", "matern", "gestation"],
+  },
+  "pregnancy-chiropractor": {
+    en: "Pregnancy Chiropractor",
+    es: "Quiropráctico de Embarazo",
+    matchers: ["pregnancy", "pregnant", "embaraz", "matern", "gestation", "trimester"],
+  },
+  "infants-chiropractic": {
+    en: "Infant Chiropractic",
+    es: "Quiropráctica para Infantes",
+    matchers: ["infant", "newborn", "baby", "colic", "reflux", "bebe", "bebé", "cólico"],
+  },
+  "cranial-chiropractic": {
+    en: "Cranial Chiropractic",
+    es: "Quiropráctica Craneal",
+    matchers: ["cranial", "skull", "concussion", "tbi", "tmj", "craneal", "cráneo"],
+  },
+  "wellness-care": {
+    en: "Wellness Care",
+    es: "Cuidado de Bienestar",
+    matchers: ["wellness", "preventive", "maintenance", "lifestyle", "bienestar"],
+  },
+};
+
 /* ── Condition cross-linking ─────────────────────────────────────────────── */
 
-const SERVICE_LABELS: Record<string, { en: string; es: string; slug: string }> = {
-  shockwave: { en: "Shockwave Therapy", es: "Terapia de Ondas de Choque", slug: "shockwave-therapy" },
-  softwave: { en: "SoftWave Therapy", es: "Terapia SoftWave", slug: "softwave-therapy" },
-  laser: { en: "Class IV Laser Therapy", es: "Terapia Láser Clase IV", slug: "class-iv-laser" },
+const TREATMENT_TO_SERVICE_SLUG: Record<string, string> = {
+  shockwave: "shockwave-therapy",
+  softwave: "softwave-therapy",
+  laser: "class-iv-laser",
 };
 
 export function getRelatedConditions(
@@ -98,7 +173,6 @@ export function getRelatedConditions(
   const scored = conditionsContent
     .filter((c) => c.slug !== currentSlug)
     .map((c) => {
-      // Score: shared additionalTreatments + token overlap on title/intro
       const sharedTreatments = current.additionalTreatments.filter((t) =>
         c.additionalTreatments.includes(t)
       ).length;
@@ -127,14 +201,35 @@ export function getRelatedServicesForCondition(
   const current = conditionsContent.find((c) => c.slug === currentSlug);
   if (!current) return [];
 
-  return current.additionalTreatments.map((t) => {
-    const svc = SERVICE_LABELS[t];
-    return {
-      title: isEs ? svc.es : svc.en,
-      href: `/${locale}/services/${svc.slug}`,
-      type: "service",
-    };
-  });
+  // Direct services from the structured `additionalTreatments` field
+  const directServices: RelatedItem[] = current.additionalTreatments
+    .map((t) => TREATMENT_TO_SERVICE_SLUG[t])
+    .filter((slug): slug is string => !!slug)
+    .map((slug) => {
+      const svc = SERVICE_INDEX[slug];
+      return svc
+        ? {
+            title: isEs ? svc.es : svc.en,
+            href: `/${locale}/services/${slug}`,
+            type: "service" as const,
+          }
+        : null;
+    })
+    .filter((x): x is RelatedItem => x !== null);
+
+  // Plus keyword-matched services (e.g. SOT, auto-injury, pediatric)
+  const conditionTokens = tokenize(
+    `${current.title} ${current.titleEs || ""} ${current.intro} ${current.introEs || ""} ${current.whatIs}`
+  );
+  const seen = new Set(directServices.map((s) => s.href));
+  const matched: RelatedItem[] = [];
+  for (const [slug, svc] of Object.entries(SERVICE_INDEX)) {
+    const href = `/${locale}/services/${slug}`;
+    if (seen.has(href)) continue;
+    const hits = svc.matchers.filter((m) => Array.from(conditionTokens).some((t) => t.includes(m))).length;
+    if (hits > 0) matched.push({ title: isEs ? svc.es : svc.en, href, type: "service" });
+  }
+  return [...directServices, ...matched.slice(0, 3)];
 }
 
 /* ── Service cross-linking ───────────────────────────────────────────────── */
@@ -145,16 +240,46 @@ export function getConditionsTreatedByService(
   limit = 4
 ): RelatedItem[] {
   const isEs = locale === "es";
-  const treatmentKey = Object.entries(SERVICE_LABELS).find(
-    ([, v]) => v.slug === serviceSlug
-  )?.[0] as "shockwave" | "softwave" | "laser" | undefined;
-  if (!treatmentKey) return [];
 
-  return conditionsContent
-    .filter((c) => c.additionalTreatments.includes(treatmentKey))
+  // Direct path: shockwave/softwave/laser have an `additionalTreatments` mapping
+  const treatmentKey = Object.entries(TREATMENT_TO_SERVICE_SLUG).find(
+    ([, v]) => v === serviceSlug
+  )?.[0] as "shockwave" | "softwave" | "laser" | undefined;
+
+  let direct: typeof conditionsContent = [];
+  if (treatmentKey) {
+    direct = conditionsContent.filter((c) =>
+      c.additionalTreatments.includes(treatmentKey)
+    );
+  }
+
+  // Fallback / supplement: keyword match against SERVICE_INDEX matchers
+  const svc = SERVICE_INDEX[serviceSlug];
+  let matched: typeof conditionsContent = [];
+  if (svc) {
+    matched = conditionsContent
+      .filter((c) => !direct.some((d) => d.slug === c.slug))
+      .map((c) => {
+        const tokens = tokenize(
+          `${c.title} ${c.titleEs || ""} ${c.intro} ${c.introEs || ""} ${c.whatIs}`
+        );
+        const hits = svc.matchers.filter((m) =>
+          Array.from(tokens).some((t) => t.includes(m))
+        ).length;
+        return { c, hits };
+      })
+      .filter((x) => x.hits > 0)
+      .sort((a, b) => b.hits - a.hits)
+      .map((x) => x.c);
+  }
+
+  return [...direct, ...matched]
     .slice(0, limit)
     .map((c) => ({
-      title: isEs && c.titleEs ? c.titleEs.split("|")[0].trim() : c.title.split("|")[0].trim(),
+      title:
+        isEs && c.titleEs
+          ? c.titleEs.split("|")[0].trim()
+          : c.title.split("|")[0].trim(),
       href: `/${locale}/conditions/${c.slug}`,
       image: c.image,
       type: "condition",
@@ -171,12 +296,7 @@ export function getRelatedPostsByKeywords(
 
   const scored = all
     .filter((p) => p.lang === locale)
-    .map((p) => {
-      const tokens = tokenize(
-        `${p.title} ${p.description} ${(p.keywords || []).join(" ")}`
-      );
-      return { post: p, score: jaccard(queryTokens, tokens) };
-    })
+    .map((p) => ({ post: p, score: jaccard(queryTokens, tokenize(postCorpus(p))) }))
     .filter((x) => x.score > 0)
     .sort((a, b) => b.score - a.score)
     .slice(0, limit);

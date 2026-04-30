@@ -19,6 +19,8 @@ export interface PostFrontmatter {
   author: string;
   image: string;
   keywords: string[];
+  /** Some posts use `tags` instead of `keywords`. We read both. */
+  tags: string[];
   slug: string;
   lang: string;
   mentions?: PostMention[];
@@ -46,6 +48,7 @@ export function fetchPosts(lang: string): PostFrontmatter[] {
         author: data.author || "Dr. Dan Foss, DC",
         image: data.image || "",
         keywords: Array.isArray(data.keywords) ? data.keywords : [],
+        tags: Array.isArray(data.tags) ? data.tags : [],
         slug,
         lang: data.lang || "en",
       } as PostFrontmatter;
@@ -71,6 +74,7 @@ export async function fetchPostBySlug(slug: string, lang: string): Promise<Post 
     author: data.author || "Dr. Dan Foss, DC",
     image: data.image || "",
     keywords: Array.isArray(data.keywords) ? data.keywords : [],
+    tags: Array.isArray(data.tags) ? data.tags : [],
     slug,
     lang: postLang,
     content: htmlContent,
