@@ -26,11 +26,22 @@ const esServices = [
   "wellness-care", "latino-community",
 ];
 
+// Pages that exist in BOTH /en and /es with bilingual content.
 const staticPages = [
   "about", "contact", "new-patient", "faq", "mission",
   "sports-chiropractic", "testimonials", "services",
   "videos",
   "terms", "healthcare-disclaimer", "book-now",
+  "provider-referral",
+];
+
+// Pages that only exist at /es/ (Spanish-language SEO landing pages).
+// /en variants exist as files but redirect to /es per next.config.mjs,
+// so we list them only under /es here.
+const spanishOnlyPages = [
+  "el-mejor-quiropractico-san-antonio",
+  "quiropratico-san-antonio",
+  "san-antonio-quiropractico",
 ];
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
@@ -53,7 +64,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       priority: 0.85,
     });
 
-    // Static pages
+    // Static pages (both locales)
     for (const page of staticPages) {
       entries.push({
         url: `${BASE_URL}/${locale}/${page}`,
@@ -62,6 +73,16 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
         priority: 0.8,
       });
     }
+  }
+
+  // Spanish-only SEO landing pages (high-value, target Spanish search queries)
+  for (const page of spanishOnlyPages) {
+    entries.push({
+      url: `${BASE_URL}/es/${page}`,
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.9,
+    });
   }
 
   // Blog posts
