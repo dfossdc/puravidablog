@@ -6,6 +6,8 @@ import { conditionsContent } from "@/lib/conditionsContent";
 import { conditionsContentEs } from "@/lib/conditionsContentEs";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import RelatedContent from "@/components/RelatedContent";
+import { getRelatedConditions, getRelatedServicesForCondition } from "@/lib/relatedContent";
 import styles from "./condition.module.css";
 
 // Merge Spanish content into base conditions
@@ -254,6 +256,18 @@ export default async function ConditionPage({
         </div>
       </div>
     </div>
+      <RelatedContent
+        items={[
+          ...getRelatedServicesForCondition(slug, locale),
+          ...getRelatedConditions(slug, locale, 3),
+        ]}
+        heading={isEs ? "Tratamientos y Condiciones Relacionadas" : "Related Treatments & Conditions"}
+        subheading={
+          isEs
+            ? "Explore las terapias que usamos y otras condiciones que tratamos."
+            : "Explore the therapies we use and other conditions we treat."
+        }
+      />
       <Footer locale={locale as "en" | "es"} />
     </>
   );

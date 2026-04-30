@@ -5,6 +5,8 @@ import Link from "next/link";
 import { fetchPostBySlug, fetchAllSlugs } from "@/lib/posts";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import RelatedContent from "@/components/RelatedContent";
+import { getRelatedPosts } from "@/lib/relatedContent";
 import styles from "./post.module.css";
 
 const BASE_URL = "https://puravidasanantonio.com";
@@ -92,6 +94,8 @@ export default async function BlogPost({ params }: Props) {
     ...(post.mentions ? { mentions: post.mentions } : {}),
   };
 
+  const relatedPosts = getRelatedPosts(slug, locale);
+
   return (
     <>
       <Header locale={locale as "en" | "es"} currentSlug={slug} />
@@ -132,6 +136,15 @@ export default async function BlogPost({ params }: Props) {
             dangerouslySetInnerHTML={{ __html: post.content }}
           />
         </article>
+        <RelatedContent
+          items={relatedPosts}
+          heading={isEs ? "Artículos Relacionados" : "Related Articles"}
+          subheading={
+            isEs
+              ? "Sigue explorando temas similares de Pura Vida Chiropractic."
+              : "Keep exploring similar topics from Pura Vida Chiropractic."
+          }
+        />
       </main>
       <Footer locale={locale as "en" | "es"} />
     </>

@@ -3,6 +3,8 @@ import Link from "next/link";
 import Image from "next/image";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import RelatedContent from "@/components/RelatedContent";
+import { getConditionsTreatedByService, getRelatedPostsByKeywords } from "@/lib/relatedContent";
 import styles from "./service.module.css";
 
 const BASE_URL = "https://puravidasanantonio.com";
@@ -589,6 +591,10 @@ export default async function ServicePage({ params }: Props) {
     },
   };
 
+  const relatedConditions = getConditionsTreatedByService(service, locale, 3);
+  const relatedPosts = getRelatedPostsByKeywords(data.keywords || [], locale, 3);
+  const relatedItems = [...relatedConditions, ...relatedPosts];
+
   return (
     <>
       <Header locale={locale as "en" | "es"} currentPath={`/services/${service}`} />
@@ -670,6 +676,15 @@ export default async function ServicePage({ params }: Props) {
           </div>
         </div>
       </main>
+      <RelatedContent
+        items={relatedItems}
+        heading={isEs ? "Condiciones que Tratamos y Lecturas Relacionadas" : "Conditions We Treat & Related Reading"}
+        subheading={
+          isEs
+            ? "Vea las condiciones que abordamos con esta terapia y artículos para profundizar."
+            : "See the conditions we address with this therapy and articles for a deeper dive."
+        }
+      />
       <Footer locale={locale as "en" | "es"} />
     </>
   );
