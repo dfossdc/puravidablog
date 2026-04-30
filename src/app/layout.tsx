@@ -70,18 +70,32 @@ export const metadata: Metadata = {
 };
 
 export default async function RootLayout({ children }: { children: React.ReactNode }) {
-  // Read the request pathname from the x-pathname header set by middleware.ts.
-  // This lets us declare the correct <html lang="..."> per locale, instead of
-  // hardcoding "en" on every page (which mislabels Spanish pages to Google).
+  // Try to read the pathname from the x-pathname header set by middleware.ts.
+  // This works for dynamically-rendered pages. For statically-pre-rendered
+  // pages (most of the site), the inline script below corrects the lang
+  // attribute at hydration time before any analytics/SEO scripts read it.
   const headersList = await headers();
   const pathname = headersList.get("x-pathname") ?? "";
-  const lang = pathname.startsWith("/es") ? "es" : "en";
+  const initialLang = pathname.startsWith("/es") ? "es" : "en";
 
   return (
-    <html lang={lang}>
+    <html lang={initialLang}>
       <head>
         <meta name="google-site-verification" content="uuAF9ryMJlcu9EY2M_uP4T-KC7Hdn_K5XVEeWAAy6E8" />
         <link rel="preconnect" href="https://i.ytimg.com" />
+        {/*
+          Set <html lang> based on the URL path. Runs before page hydration
+          so that crawlers and analytics see the correct lang attribute.
+          Necessary because static-pre-rendered pages don't re-execute the
+          root layout per request, so the headers() call above can fall
+          back to "en" even on /es URLs.
+        */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html:
+              "(function(){try{var p=window.location.pathname;var l=p.indexOf('/es')===0?'es':'en';if(document.documentElement.lang!==l){document.documentElement.lang=l;}}catch(e){}})();",
+          }}
+        />
       </head>
       <body className={lato.variable}>
         <LocalBusinessSchema />
