@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Lato } from "next/font/google";
+import { headers } from "next/headers";
 import LocalBusinessSchema from "@/components/LocalBusinessSchema";
 import "./globals.css";
 
@@ -68,9 +69,16 @@ export const metadata: Metadata = {
   },
 };
 
-export default function RootLayout({ children }: { children: React.ReactNode }) {
+export default async function RootLayout({ children }: { children: React.ReactNode }) {
+  // Read the request pathname from the x-pathname header set by middleware.ts.
+  // This lets us declare the correct <html lang="..."> per locale, instead of
+  // hardcoding "en" on every page (which mislabels Spanish pages to Google).
+  const headersList = await headers();
+  const pathname = headersList.get("x-pathname") ?? "";
+  const lang = pathname.startsWith("/es") ? "es" : "en";
+
   return (
-    <html lang="en">
+    <html lang={lang}>
       <head>
         <meta name="google-site-verification" content="uuAF9ryMJlcu9EY2M_uP4T-KC7Hdn_K5XVEeWAAy6E8" />
         <link rel="preconnect" href="https://i.ytimg.com" />
