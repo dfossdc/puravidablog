@@ -29,9 +29,8 @@ const esServices = [
 const staticPages = [
   "about", "contact", "new-patient", "faq", "mission",
   "sports-chiropractic", "testimonials", "services",
-  "meet-dr-foss", "office-hours", "thank-you", "videos",
-  "privacy-policy", "terms", "healthcare-disclaimer",
-  "el-mejor-quiropractico-san-antonio", "quiropratico-san-antonio", "san-antonio-quiropractico",
+  "videos",
+  "terms", "healthcare-disclaimer", "book-now",
 ];
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
