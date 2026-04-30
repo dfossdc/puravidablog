@@ -113,6 +113,32 @@ const nextConfig = {
       { source: "/blog/chiropractor-discusses-proper-child-backpacks", destination: "/en/blog/backpack-safety-kids-spine-san-antonio", permanent: true },
       { source: "/blog/just-back-pain", destination: "/en/blog/back-pain-chiropractor-san-antonio", permanent: true },
       { source: "/blog/back-pain-tips-chiropractor", destination: "/en/blog/back-pain-chiropractor-san-antonio", permanent: true },
+
+      // ── Cross-locale service slug redirects ──
+      // 10 services use different slugs in EN vs ES; if a user lands on the
+      // wrong-locale slug (e.g. /es/services/sot-chiropractic), redirect them
+      // to the correct slug in their current locale. Permanent so search
+      // engines consolidate signals on the canonical URL per locale.
+      { source: "/es/services/sot-chiropractic", destination: "/es/services/quiropractica-sot", permanent: true },
+      { source: "/en/services/quiropractica-sot", destination: "/en/services/sot-chiropractic", permanent: true },
+      { source: "/es/services/softwave-therapy", destination: "/es/services/terapia-softwave", permanent: true },
+      { source: "/en/services/terapia-softwave", destination: "/en/services/softwave-therapy", permanent: true },
+      { source: "/es/services/auto-injury", destination: "/es/services/lesiones-de-auto", permanent: true },
+      { source: "/en/services/lesiones-de-auto", destination: "/en/services/auto-injury", permanent: true },
+      { source: "/es/services/pediatric-chiropractor", destination: "/es/services/quiropractico-pediatrico", permanent: true },
+      { source: "/en/services/quiropractico-pediatrico", destination: "/en/services/pediatric-chiropractor", permanent: true },
+      { source: "/es/services/prenatal-chiropractor", destination: "/es/services/quiropractico-prenatal", permanent: true },
+      { source: "/en/services/quiropractico-prenatal", destination: "/en/services/prenatal-chiropractor", permanent: true },
+      { source: "/es/services/pregnancy-chiropractor", destination: "/es/services/quiropractico-embarazo", permanent: true },
+      { source: "/en/services/quiropractico-embarazo", destination: "/en/services/pregnancy-chiropractor", permanent: true },
+      { source: "/es/services/infants-chiropractic", destination: "/es/services/quiropractico-infantes", permanent: true },
+      { source: "/en/services/quiropractico-infantes", destination: "/en/services/infants-chiropractic", permanent: true },
+      { source: "/es/services/pediatric-prenatal", destination: "/es/services/quiropractica-pediatrica", permanent: true },
+      { source: "/en/services/quiropractica-pediatrica", destination: "/en/services/pediatric-prenatal", permanent: true },
+      { source: "/es/services/shockwave-therapy", destination: "/es/services/terapia-ondas-de-choque", permanent: true },
+      { source: "/en/services/terapia-ondas-de-choque", destination: "/en/services/shockwave-therapy", permanent: true },
+      { source: "/es/services/class-iv-laser", destination: "/es/services/laser-clase-iv", permanent: true },
+      { source: "/en/services/laser-clase-iv", destination: "/en/services/class-iv-laser", permanent: true },
     ];
   },
 };
