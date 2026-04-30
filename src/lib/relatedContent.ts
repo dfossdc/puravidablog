@@ -202,20 +202,18 @@ export function getRelatedServicesForCondition(
   if (!current) return [];
 
   // Direct services from the structured `additionalTreatments` field
-  const directServices: RelatedItem[] = current.additionalTreatments
-    .map((t) => TREATMENT_TO_SERVICE_SLUG[t])
-    .filter((slug): slug is string => !!slug)
-    .map((slug) => {
-      const svc = SERVICE_INDEX[slug];
-      return svc
-        ? {
-            title: isEs ? svc.es : svc.en,
-            href: `/${locale}/services/${slug}`,
-            type: "service" as const,
-          }
-        : null;
-    })
-    .filter((x): x is RelatedItem => x !== null);
+  const directServices: RelatedItem[] = [];
+  for (const t of current.additionalTreatments) {
+    const slug = TREATMENT_TO_SERVICE_SLUG[t];
+    if (!slug) continue;
+    const svc = SERVICE_INDEX[slug];
+    if (!svc) continue;
+    directServices.push({
+      title: isEs ? svc.es : svc.en,
+      href: `/${locale}/services/${slug}`,
+      type: "service",
+    });
+  }
 
   // Plus keyword-matched services (e.g. SOT, auto-injury, pediatric)
   const conditionTokens = tokenize(
