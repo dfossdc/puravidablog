@@ -336,41 +336,20 @@ export default async function HomePage({ params }: Props) {
           <div className={styles.heroInner}>
             <div className={styles.heroText}>
               <p className={styles.heroEyebrow}>
-                {isEs
-                  ? "Quiropráctica Bilingüe · San Antonio Desde 2010"
-                  : "Bilingual Chiropractic Care · San Antonio Since 2010"}
+                {isEs ? "Cuidado Quiropráctico Bilingüe — San Antonio, TX" : "Bilingual Chiropractic Care — San Antonio, TX"}
               </p>
               <h1 className={styles.heroTitle}>
-                {isEs ? (
-                  <>
-                    A los 6 meses, no podía girar la cabeza.
-                    <span className={styles.heroTitleAccent}>Un ajuste quiropráctico cambió mi vida.</span>
-                    Hoy hago eso por las familias de San Antonio.
-                  </>
-                ) : (
-                  <>
-                    At 6 Months Old, I Couldn&apos;t Turn My Head.
-                    <span className={styles.heroTitleAccent}>One Adjustment Changed My Life.</span>
-                    Now I Do That for San Antonio Families.
-                  </>
-                )}
+                {isEs ? "No Solo Ajustamos su Espalda. Tratamos Todo su Sistema." : "We Don't Just Adjust Your Back. We Treat Your Whole System."}
               </h1>
               <p className={styles.heroSub}>
                 {isEs
-                  ? "El Dr. Dan Foss es el único quiropráctico certificado en SOT Avanzado de San Antonio. Tratamos la columna, los órganos y el cráneo como un sistema conectado — encontrando las causas raíz que otros pasan por alto. Especialistas en bebés, embarazo y toda la familia. ¡Hablamos Español!"
-                  : "Dr. Dan Foss is San Antonio's only Advanced SOT-certified chiropractor. We treat the spine, organs, and cranium as one connected system — finding root causes other practitioners miss. Specialists in infants, pregnancy, and the whole family. ¡Hablamos Español!"}
+                  ? "La única práctica con certificación SOT Avanzada en San Antonio — tratando la columna vertebral, los órganos y el cráneo como un sistema integrado."
+                  : "San Antonio's only Advanced SOT certified practice — treating the spine, organs, and cranium as one connected system."}
               </p>
               <div className={styles.heroTrust}>
-                <span className={styles.heroTrustItem}>
-                  ⭐ {isEs ? "147+ Reseñas 5 Estrellas" : "147+ Five-Star Reviews"}
-                </span>
-                <span className={styles.heroTrustItem}>
-                  ✓ {isEs ? "23+ Años · 3 Continentes" : "23+ Years · 3 Continents"}
-                </span>
-                <span className={styles.heroTrustItem}>
-                  👶 {isEs ? "SOT Avanzado · Bebés y Embarazo" : "Advanced SOT · Infants & Prenatal"}
-                </span>
-                <span className={styles.heroTrustItem}>🇲🇽 ¡Hablamos Español!</span>
+                <span className={styles.heroTrustItem}>⭐ {isEs ? "147+ Reseñas 5 Estrellas" : "147+ Five-Star Reviews"}</span>
+                <span className={styles.heroTrustItem}>✓ {isEs ? "23+ Años de Experiencia" : "23+ Years Experience"}</span>
+                <span className={styles.heroTrustItem}>🗣 {isEs ? "Bilingüe EN/ES" : "Bilingual EN/ES"}</span>
               </div>
               <div className={styles.heroCtaGroup}>
                 <a
@@ -476,8 +455,8 @@ export default async function HomePage({ params }: Props) {
               </p>
               <p>
                 {isEs
-                  ? "Su camino hacia este nivel de especialización comenzó con una experiencia personal: de niño, Dan tuvo tortícolis — la cabeza bloqueada hacia un lado. Un médico recetó medicamentos. Sus padres lo llevaron a un quiropráctico. Un ajuste cambió todo. Veintitrés años después, esa experiencia es la razón por la que existe el Protocolo Pura Vida."
-                  : "His path to this level of specialization began with a personal experience: as a child, Dan had torticollis — his head locked to one side. A medical doctor prescribed pharmaceuticals. His parents took him to a chiropractor instead. One adjustment changed everything. Twenty-three years later, that experience is the reason the Pura Vida Protocol exists."}
+                  ? "Su camino hacia este nivel de especialización comenzó con una experiencia personal: en primer grado, a los 8 años, Dan tuvo tortícolis — la cabeza bloqueada hacia un lado. Un médico recetó medicamentos. Sus padres lo llevaron a un quiropráctico. Un ajuste cambió todo. Veintitrés años después, esa experiencia es la razón por la que existe el Protocolo Pura Vida."
+                  : "His path to this level of specialization began with a personal experience: in first grade, when he was 8 years old, Dan had torticollis — his head locked to one side. A medical doctor prescribed pharmaceuticals. His parents took him to a chiropractor instead. One adjustment changed everything. Twenty-three years later, that experience is the reason the Pura Vida Protocol exists."}
               </p>
               <div className={styles.aboutBtns}>
                 <Link href={`/${locale}/about`} className={styles.learnMore}>

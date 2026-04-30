@@ -208,8 +208,8 @@ export default async function ProviderReferralPage({ params }: Props) {
 
                 <p className={styles.italicNote}>
                   {isEs
-                    ? "El Dr. Foss tuvo tortícolis cuando era bebé — toda su carrera comenzó porque un quiropráctico la resolvió. El cuidado infantil no es un servicio adicional. Es el corazón de la práctica."
-                    : "Dr. Foss had torticollis as an infant himself — his entire career started because a chiropractor resolved it. Infant care is not an add-on service. It's the heart of the practice."}
+                    ? "El Dr. Foss tuvo tortícolis en primer grado, a los 8 años — toda su carrera comenzó porque un quiropráctico la resolvió. El cuidado pediátrico no es un servicio adicional. Es el corazón de la práctica."
+                    : "Dr. Foss had torticollis himself in first grade at age 8 — his entire career started because a chiropractor resolved it. Pediatric care is not an add-on service. It's the heart of the practice."}
                 </p>
               </div>
 
