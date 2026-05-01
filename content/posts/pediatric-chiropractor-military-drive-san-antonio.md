@@ -3,7 +3,7 @@ title: "Pediatric Chiropractor Military Drive | San Antonio TX"
 description: "Pediatric chiropractic right on Military Drive at Pura Vida. Dr. Dan Foss specializes in infant and child care from his exact location. Free consultation for your child."
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"
-image: "/images/dr-foss-adjusting-child.webp"
+image: "/images/dr-foss-adjusting-child-full.jpg"
 keywords:
   - pediatric chiropractor Military Drive San Antonio
   - chiropractor Military Drive kids

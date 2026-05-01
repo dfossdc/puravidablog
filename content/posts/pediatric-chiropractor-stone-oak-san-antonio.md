@@ -3,7 +3,7 @@ title: "Pediatric Chiropractor Stone Oak | San Antonio TX"
 description: "Gentle pediatric chiropractic care for Stone Oak children. Dr. Dan Foss treats ear infections, colic, and developmental issues. Just 15 minutes away. Free consultation."
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"
-image: "/images/dr-foss-adjusting-child.webp"
+image: "/images/dr-foss-adjusting-child-full.jpg"
 keywords:
   - pediatric chiropractor Stone Oak San Antonio
   - pediatric chiropractor near Stone Oak

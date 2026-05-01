@@ -48,7 +48,7 @@ One of the most compelling findings is that children with asthma who receive chi
 
 Why does this happen? Because when the spine is aligned and the nervous system is balanced, your body's natural ability to regulate bronchial tone is restored. You are not "treating" asthma. You are removing the neurological interference that was making the asthma worse.
 
-![Chiropractic adjustment for respiratory support at Pura Vida San Antonio](/images/dr-foss-adjusting-child.webp)
+![Chiropractic adjustment for respiratory support at Pura Vida San Antonio](/images/dr-foss-adjusting-child-full.jpg)
 
 ## SOT: Restoring Autonomic Balance
 

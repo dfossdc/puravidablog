@@ -3,7 +3,7 @@ title: "Infecciones de Oído Crónicas en Niños: Quiropráctica SOT + CMRT"
 description: "Infecciones de oído recurrentes tratadas sin antibióticos. Quiropráctica SOT + CMRT mejora drenaje y función inmune. Dr. Dan Foss, San Antonio."
 date: "2026-05-15"
 author: "Dr. Dan Foss, DC"
-image: "/images/dr-foss-adjusting-child.webp"
+image: "/images/dr-foss-adjusting-child-full.jpg"
 keywords:
   - infecciones oído niño San Antonio
   - otitis media recurrente quiropráctica

@@ -3,7 +3,7 @@ title: "Quiropractico Pediatrico Helotes | San Antonio TX"
 description: "Quiropractica pediátrica suave para niños de Helotes. El Dr. Dan Foss trata recién nacidos hasta adolescentes con técnicas especializadas. A solo 15 minutos."
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"
-image: "/images/dr-foss-adjusting-child.webp"
+image: "/images/dr-foss-adjusting-child-full.jpg"
 keywords:
   - quiropractico pediatrico Helotes San Antonio
   - quiropractico niños Helotes
