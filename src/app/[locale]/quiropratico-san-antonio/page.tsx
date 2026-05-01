@@ -59,7 +59,7 @@ const highlights = [
   {
     icon: "🤝",
     es: { title: "Planes de Pago Flexibles", desc: "Aceptamos la mayoría de los seguros médicos y ofrecemos planes de pago accesibles para que el costo nunca sea un obstáculo para obtener la atención quiropráctica que merece." },
-    en: { title: "Flexible Payment Plans", desc: "We accept most health insurance plans and offer accessible payment plans so cost is never an obstacle to getting the chiropractic care you deserve." },
+    en: { title: "Flexible Payment Plans", desc: "We are insurance friendly and offer accessible payment plans so cost is never an obstacle to getting the chiropractic care you deserve." },
   },
   {
     icon: "📍",

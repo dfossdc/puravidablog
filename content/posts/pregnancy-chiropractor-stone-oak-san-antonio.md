@@ -81,7 +81,7 @@ Yes. Many mothers begin care early to establish good spinal and pelvic balance b
 Absolutely. We work collaboratively with your birth team and will communicate whenever warranted. Chiropractic is complementary to obstetric care, not a replacement.
 
 **Do you take insurance?**
-We accept most major insurance plans. Ask about our new patient discount for uninsured or high-deductible plans.
+We are insurance friendly. Ask about our new patient discount for uninsured or high-deductible plans.
 
 ## Ready to Start Your Pregnancy Chiropractic Journey?
 

@@ -64,7 +64,7 @@ const faqs = [
   },
   {
     es: { q: "¿Aceptan seguros médicos en San Antonio?", a: "Sí, aceptamos la mayoría de los principales seguros médicos. También ofrecemos planes de pago para quienes no tienen seguro o cuya cobertura es limitada. Contáctenos para verificar su cobertura." },
-    en: { q: "Do you accept insurance in San Antonio?", a: "Yes, we accept most major health insurance plans. We also offer payment plans for those without insurance or with limited coverage. Contact us to verify your coverage." },
+    en: { q: "Do you accept insurance in San Antonio?", a: "Yes, we are insurance friendly. We also offer payment plans for those without insurance or with limited coverage. Contact us to verify your coverage." },
   },
   {
     es: { q: "¿Atienden niños pequeños y bebés?", a: "Absolutamente. El Dr. Foss tiene formación especializada en quiropráctica pediátrica y prenatal. Hemos atendido a bebés desde el primer día de nacidos. La quiropráctica pediátrica es segura y suave." },
@@ -179,7 +179,7 @@ export default async function SanAntonioQuiropracticoPage({ params }: Props) {
                   <li>{isEs ? "147+ reseñas de 5 estrellas en Google" : "147+ five-star Google reviews"}</li>
                   <li>{isEs ? "Tecnología SoftWave y Láser Clase IV" : "SoftWave and Class IV Laser technology"}</li>
                   <li>{isEs ? "Quiropráctica pediátrica y prenatal" : "Pediatric and prenatal chiropractic"}</li>
-                  <li>{isEs ? "Mayoría de seguros aceptados" : "Most insurance plans accepted"}</li>
+                  <li>{isEs ? "Amigables con tu seguro" : "Insurance friendly"}</li>
                   <li>{isEs ? "Planes de pago disponibles" : "Payment plans available"}</li>
                 </ul>
                 <a href="https://puravidasanantonio.com/special/" target="_blank" rel="noopener noreferrer" className={styles.introCardBtn}>

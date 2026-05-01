@@ -120,7 +120,7 @@ No. Los ajustes SOT pediátricos son completamente silenciosos. Los bebés a men
 Depende del problema. Un bebé con cólico típicamente mejora en 3-4 visitas. Un bebé con tortícolis puede requerir 6-8 visitas durante varias semanas. Después de la resolución, muchas familias optan por visitas mensuales o trimestrales para el mantenimiento del desarrollo.
 
 **¿Cuánto cuesta?**
-Ofrecemos una consulta gratuita para nuevos pacientes. Después de eso, los costos dependen de su seguro y del plan de cuidado recomendado. Trabajamos con la mayoría de los seguros, y nunca permitimos que el costo sea una barrera para la atención que su bebé necesita.
+Ofrecemos una consulta gratuita para nuevos pacientes. Después de eso, los costos dependen de su seguro y del plan de cuidado recomendado. Somos amigables con tu seguro, y nunca permitimos que el costo sea una barrera para la atención que su bebé necesita.
 
 **¿Qué pasa si veo resultados después de una o dos visitas?**
 Eso es completamente normal. Algunos bebés responden extremadamente rápido — especialmente a problemas digestivos. Otros requieren más tiempo. Seguimos revisando y ajustando el plan en cada visita.

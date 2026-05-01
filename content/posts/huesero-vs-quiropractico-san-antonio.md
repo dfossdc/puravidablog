@@ -65,7 +65,7 @@ En Pura Vida Chiropractic, cada visita queda documentada. Esto es importante par
 
 Entendemos las razones culturales y económicas. A veces el acceso a un profesional de salud se siente complicado: el idioma, el costo, el miedo a lo desconocido. En Pura Vida Chiropractic, el Dr. Foss habla español con fluidez y ofrece una consulta de evaluación inicial gratuita precisamente para eliminar esas barreras.
 
-También aceptamos la mayoría de los seguros médicos, incluyendo casos de accidentes de auto sin necesidad de seguro médico previo.
+También Somos amigables con tu seguro, incluyendo casos de accidentes de auto sin necesidad de seguro médico previo.
 
 ## Cuando el Huesero Puede Ser Suficiente — y Cuando No
 
