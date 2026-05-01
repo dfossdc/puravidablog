@@ -3,7 +3,7 @@ title: "Quiropráctico para Tortícolis en San Antonio, TX | Dr. Dan Foss"
 description: "¿Su bebé tiene tortícolis en San Antonio? El Dr. Dan Foss se especializa en ajustes pediátricos suaves para tortícolis infantil."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"
-image: "/images/conditions/infantcolic.jpg"
+image: "/images/conditions/torticollis.jpg"
 keywords:
   - tortícolis quiropráctico San Antonio
   - tratamiento tortícolis bebé San Antonio TX

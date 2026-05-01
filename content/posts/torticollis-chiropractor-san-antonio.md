@@ -3,7 +3,7 @@ title: "Torticollis Chiropractor in San Antonio, TX | Dr. Dan Foss"
 description: "Is your baby or child dealing with torticollis in San Antonio? Dr. Dan Foss at Pura Vida Chiropractic specializes in gentle pediatric adjustments for torticollis."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"
-image: "/images/conditions/infantcolic.jpg"
+image: "/images/conditions/torticollis.jpg"
 keywords:
   - torticollis chiropractor San Antonio
   - baby torticollis treatment San Antonio TX
