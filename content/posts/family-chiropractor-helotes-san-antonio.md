@@ -3,7 +3,7 @@ title: "Family Chiropractor Helotes | San Antonio TX"
 description: "Family chiropractic care for Helotes from newborn to grandparents. Dr. Dan Foss treats the whole family with personalized approaches. 15 minutes away. Free consultation."
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"
-image: "/images/conditions/family-wellness.webp"
+image: "/images/conditions/latinofamily.jpg"
 keywords:
   - family chiropractor Helotes San Antonio
   - family chiropractic care Helotes

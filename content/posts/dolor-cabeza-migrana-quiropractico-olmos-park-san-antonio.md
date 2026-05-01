@@ -3,7 +3,7 @@ title: "Dolor Cabeza & Migraña Quiropractico Olmos Park | San Antonio TX"
 description: "Alivio de migrañas y dolores de cabeza para residentes de Olmos Park. Dr. Dan Foss trata dolores de cabeza crónicos con SOT y ajuste craneal. A solo 8 minutos."
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"
-image: "/images/conditions/headaches.webp"
+image: "/images/conditions/headache.jpg"
 keywords:
   - dolor cabeza quiropractico Olmos Park San Antonio
   - alivio migrañas Olmos Park

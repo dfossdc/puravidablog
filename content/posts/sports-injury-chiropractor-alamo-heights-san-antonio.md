@@ -3,7 +3,7 @@ title: "Sports Injury Chiropractor Alamo Heights | San Antonio TX"
 description: "Sports injury treatment for Alamo Heights athletes. Dr. Dan Foss specializes in joint injuries, muscle strains, and performance optimization. Get back in the game faster."
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"
-image: "/images/conditions/sports.webp"
+image: "/images/sports-injury.webp"
 keywords:
   - sports injury chiropractor Alamo Heights San Antonio
   - sports chiropractor near Alamo Heights

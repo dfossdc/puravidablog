@@ -3,7 +3,7 @@ title: "Trastorno de Procesamiento Sensorial en Niños: Quiropráctica SOT"
 description: "Trastorno de procesamiento sensorial en niños mejora con quiropráctica SOT. Hipersensibilidad a sonidos, toques, luz. Dr. Dan Foss, San Antonio."
 date: "2026-05-16"
 author: "Dr. Dan Foss, DC"
-image: "/images/conditions/sensory-processing.jpg"
+image: "/images/conditions/sensoryprocessing.jpg"
 keywords:
   - trastorno procesamiento sensorial niños San Antonio
   - hipersensibilidad niño quiropráctica

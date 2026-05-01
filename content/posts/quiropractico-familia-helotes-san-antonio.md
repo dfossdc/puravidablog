@@ -3,7 +3,7 @@ title: "Quiropractico Familia Helotes | San Antonio TX"
 description: "Cuidado quiropractico familiar para Helotes desde recién nacido a abuelos. Dr. Dan Foss trata a toda la familia con enfoques personalizados. A 15 minutos."
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"
-image: "/images/conditions/family-wellness.webp"
+image: "/images/conditions/latinofamily.jpg"
 keywords:
   - quiropractico familia Helotes San Antonio
   - cuidado quiropractico familiar Helotes

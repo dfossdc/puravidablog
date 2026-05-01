@@ -3,7 +3,7 @@ title: "Headache & Migraine Chiropractor Olmos Park | San Antonio TX"
 description: "Migraine and headache relief for Olmos Park residents. Dr. Dan Foss treats chronic headaches with SOT and cranial adjusting. Just 8 minutes away. Free consultation."
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"
-image: "/images/conditions/headaches.webp"
+image: "/images/conditions/headache.jpg"
 keywords:
   - headache chiropractor Olmos Park San Antonio
   - migraine relief Olmos Park

@@ -3,7 +3,7 @@ title: "Family Chiropractor Live Oak | San Antonio TX"
 description: "Family chiropractic care for Live Oak from infants to seniors. Dr. Dan Foss treats the whole family with personalized approaches. Wellness focus. Free consultation."
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"
-image: "/images/conditions/family-wellness.webp"
+image: "/images/conditions/latinofamily.jpg"
 keywords:
   - family chiropractor Live Oak San Antonio
   - family chiropractic care Live Oak

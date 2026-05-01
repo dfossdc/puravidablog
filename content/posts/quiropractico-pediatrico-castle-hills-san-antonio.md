@@ -3,7 +3,7 @@ title: "Quiropractico Pediatrico Castle Hills | San Antonio TX"
 description: "Quiropractica pediátrica suave para niños de Castle Hills. El Dr. Dan Foss se especializa en cólicos, infecciones de oído y desarrollo infantil. A solo 5 minutos."
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"
-image: "/images/conditions/pediatric.webp"
+image: "/images/pediatric-chiropractor.png"
 keywords:
   - quiropractico pediatrico Castle Hills San Antonio
   - quiropractico niños Castle Hills

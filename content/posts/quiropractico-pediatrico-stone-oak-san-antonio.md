@@ -3,7 +3,7 @@ title: "Quiropractico Pediatrico Stone Oak | San Antonio TX"
 description: "Cuidado quiropractico pediátrico suave para niños de Stone Oak. El Dr. Dan Foss trata infecciones de oído, cólicos y preocupaciones de desarrollo. A 15 minutos."
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"
-image: "/images/conditions/pediatric.webp"
+image: "/images/pediatric-chiropractor.png"
 keywords:
   - quiropractico pediatrico Stone Oak San Antonio
   - quiropractico niños Stone Oak

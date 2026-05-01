@@ -3,7 +3,7 @@ title: "Ciática Quiropractico Alamo Heights | San Antonio TX"
 description: "Alivio de ciática para residentes de Alamo Heights. El Dr. Dan Foss se especializa en dolor del nervio ciático usando SOT y terapia dirigida. A solo 10 minutos."
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"
-image: "/images/conditions/sciatica.webp"
+image: "/images/conditions/sciatica.jpg"
 keywords:
   - ciática quiropractico Alamo Heights San Antonio
   - dolor nervio ciático Alamo Heights

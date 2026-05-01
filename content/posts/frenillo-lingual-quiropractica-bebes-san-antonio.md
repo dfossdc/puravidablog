@@ -3,7 +3,7 @@ title: "Frenillo Lingual Restringido: Quiropráctica + Revisión"
 description: "Frenillo lingual en bebés: cuándo la quiropráctica es suficiente, cuándo se necesita revisión. Dr. Dan Foss, San Antonio TX."
 date: "2026-05-10"
 author: "Dr. Dan Foss, DC"
-image: "/images/conditions/tongue-tie.jpg"
+image: "/images/conditions/tonguetie.jpg"
 keywords:
   - frenillo lingual bebé San Antonio
   - tongue tie quiropráctica

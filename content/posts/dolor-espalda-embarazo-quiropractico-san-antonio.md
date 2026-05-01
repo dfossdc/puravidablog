@@ -3,7 +3,7 @@ title: "Dolor de Espalda Durante el Embarazo: Quiropráctica Webster + SOT"
 description: "Alivio rápido del dolor lumbar durante el embarazo con técnica Webster y SOT. Dr. Dan Foss, San Antonio TX. Seguro en todos los trimestres."
 date: "2026-05-11"
 author: "Dr. Dan Foss, DC"
-image: "/images/conditions/pregnancy-back-pain.jpg"
+image: "/images/conditions/backpain.jpg"
 keywords:
   - dolor espalda embarazo San Antonio
   - dolor lumbar embarazo quiropráctica

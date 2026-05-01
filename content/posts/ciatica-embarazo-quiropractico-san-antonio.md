@@ -3,7 +3,7 @@ title: "Ciática Durante el Embarazo: Alivio Rápido con Técnica Webster"
 description: "Ciática durante el embarazo causa dolor en glúteos y piernas. Técnica Webster proporciona alivio rápido y seguro. Dr. Dan Foss, San Antonio TX."
 date: "2026-05-12"
 author: "Dr. Dan Foss, DC"
-image: "/images/conditions/pregnancy-sciatica.jpg"
+image: "/images/conditions/sciatica.jpg"
 keywords:
   - ciática embarazo San Antonio
   - dolor ciático embarazo quiropráctica

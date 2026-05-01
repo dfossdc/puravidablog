@@ -3,7 +3,7 @@ title: "Sciatica Chiropractor Northwest Hills | San Antonio TX"
 description: "Sciatica nerve pain relief for Northwest Hills residents. Dr. Foss treats sciatic pain, leg numbness, and radiating pain. Proven results. Free consultation."
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"
-image: "/images/conditions/sciatica.webp"
+image: "/images/conditions/sciatica.jpg"
 keywords:
   - sciatica chiropractor Northwest Hills San Antonio
   - sciatic nerve pain Northwest Hills

@@ -3,7 +3,7 @@ title: "Tortícolis Congénita en Bebés: Quiropráctica SOT vs Cirugía"
 description: "Tortícolis congénita tratada con quiropráctica SOT. Evite la cirugía en la mayoría de los casos. Dr. Dan Foss, San Antonio TX."
 date: "2026-05-08"
 author: "Dr. Dan Foss, DC"
-image: "/images/conditions/torticollis-baby.jpg"
+image: "/images/conditions/torticollis.jpg"
 keywords:
   - tortícolis congénita bebé San Antonio
   - tortícolis quiropráctica

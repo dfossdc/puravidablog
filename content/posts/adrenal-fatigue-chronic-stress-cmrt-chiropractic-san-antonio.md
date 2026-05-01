@@ -3,7 +3,7 @@ title: "Adrenal Fatigue and Chronic Stress: CMRT Relief | San Antonio TX"
 description: "Adrenal fatigue is rooted in T9-T11 subluxation and HPA axis dysregulation. CMRT restores adrenal nerve function and stress resilience naturally."
 date: "2026-05-05"
 author: "Dr. Dan Foss, DC"
-image: "/images/conditions/adrenals.jpg"
+image: "/images/adrenals.jpg"
 keywords:
   - adrenal fatigue chiropractor San Antonio
   - chronic stress CMRT

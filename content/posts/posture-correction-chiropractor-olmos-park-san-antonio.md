@@ -3,7 +3,7 @@ title: "Posture Correction Chiropractor Olmos Park | San Antonio TX"
 description: "Fix poor posture with chiropractic care in Olmos Park. Dr. Dan Foss corrects forward head posture and spine misalignment. Just 8 minutes away. Free consultation."
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"
-image: "/images/conditions/posture.webp"
+image: "/images/postural-correction.webp"
 keywords:
   - posture correction chiropractor Olmos Park San Antonio
   - poor posture treatment Olmos Park

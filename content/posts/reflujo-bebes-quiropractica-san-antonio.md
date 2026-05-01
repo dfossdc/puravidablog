@@ -3,7 +3,7 @@ title: "Reflujo en Bebés y Quiropráctica: Alternativa a Medicamentos"
 description: "Reflujo en bebés tratado con quiropráctica SOT y CMRT. Evite medicamentos de por vida. Dr. Dan Foss, San Antonio TX."
 date: "2026-05-07"
 author: "Dr. Dan Foss, DC"
-image: "/images/conditions/baby-reflux.jpg"
+image: "/images/conditions/infantreflux.jpg"
 keywords:
   - reflujo bebé quiropráctica San Antonio
   - GERD bebé tratamiento natural

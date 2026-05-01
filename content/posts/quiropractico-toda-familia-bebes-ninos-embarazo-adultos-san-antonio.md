@@ -3,7 +3,7 @@ title: "Quiropráctico para Toda la Familia: Bebés, Niños, Embarazo, Adultos e
 description: "Cuidado quiropráctico SOT para toda la familia — desde recién nacidos hasta abuelos. Dr. Dan Foss, San Antonio TX. Una práctica, una familia."
 date: "2026-05-05"
 author: "Dr. Dan Foss, DC"
-image: "/images/conditions/family-chiropractic.jpg"
+image: "/images/conditions/latinofamily.jpg"
 keywords:
   - quiropráctico familia completa San Antonio
   - quiropráctica bebés niños adultos

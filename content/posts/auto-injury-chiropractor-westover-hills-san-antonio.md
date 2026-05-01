@@ -3,7 +3,7 @@ title: "Auto Injury Chiropractor Westover Hills | San Antonio TX"
 description: "Car accident injury treatment for Westover Hills. Whiplash and accident injury recovery with Dr. Foss. Insurance accepted. Nearby and fast treatment available."
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"
-image: "/images/conditions/auto-injury.webp"
+image: "/images/conditions/autoaccident.jpg"
 keywords:
   - auto injury chiropractor Westover Hills San Antonio
   - car accident chiropractor Westover Hills

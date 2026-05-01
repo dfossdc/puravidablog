@@ -3,7 +3,7 @@ title: "Sciatica Chiropractor Alamo Heights | San Antonio TX"
 description: "Sciatica relief for Alamo Heights residents. Dr. Dan Foss specializes in sciatic nerve pain using SOT and targeted therapy. Just 10 minutes away. Free consultation."
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"
-image: "/images/conditions/sciatica.webp"
+image: "/images/conditions/sciatica.jpg"
 keywords:
   - sciatica chiropractor Alamo Heights San Antonio
   - sciatic nerve pain Alamo Heights

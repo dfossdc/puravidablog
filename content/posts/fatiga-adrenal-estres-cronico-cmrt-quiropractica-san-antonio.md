@@ -3,7 +3,7 @@ title: "Fatiga Adrenal y Estrés Crónico: Alivio CMRT | San Antonio TX"
 description: "La fatiga adrenal está enraizada en subluxación T9-T11 y disregulación del eje HPA. CMRT restaura la función del nervio adrenal y la resiliencia al estrés naturalmente."
 date: "2026-05-05"
 author: "Dr. Dan Foss, DC"
-image: "/images/conditions/adrenals.jpg"
+image: "/images/adrenals.jpg"
 keywords:
   - fatiga adrenal quiropráctico San Antonio
   - estrés crónico CMRT
