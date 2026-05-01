@@ -124,9 +124,57 @@ export default async function ConditionPage({
     ? (c.chiropracticTreatmentEs ?? c.chiropracticTreatment)
     : c.chiropracticTreatment;
 
+  // Strip the SEO suffix ("| Chiropractor San Antonio TX" / "| Quiropráctico
+  // San Antonio TX") from the schema name so it reads as a clean condition
+  // label for AI search and Google's MedicalCondition rich result.
+  const conditionName = title.replace(/\s*\|.*$/, "").trim();
+
+  const BASE_URL = "https://puravidasanantonio.com";
+  const medicalConditionSchema = {
+    "@context": "https://schema.org",
+    "@type": "MedicalCondition",
+    name: conditionName,
+    description: intro,
+    url: `${BASE_URL}/${locale}/conditions/${slug}`,
+    ...(symptoms?.length
+      ? {
+          signOrSymptom: symptoms.map((s) => ({
+            "@type": "MedicalSymptom",
+            name: s,
+          })),
+        }
+      : {}),
+    ...(causes?.length
+      ? {
+          cause: causes.map((c) => ({
+            "@type": "MedicalCause",
+            name: c,
+          })),
+        }
+      : {}),
+    possibleTreatment: {
+      "@type": "MedicalTherapy",
+      name: isEs ? "Cuidado Quiropráctico" : "Chiropractic Care",
+      description: chiropracticTreatment,
+      performedBy: {
+        "@type": "Person",
+        name: "Dr. Dan Foss, DC",
+        url: `${BASE_URL}/${locale}/meet-dr-foss`,
+      },
+    },
+    relevantSpecialty: {
+      "@type": "MedicalSpecialty",
+      name: "Chiropractic",
+    },
+  };
+
   return (
     <>
       <Header locale={locale as "en" | "es"} currentPath={`/conditions/${slug}`} />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(medicalConditionSchema) }}
+      />
       <div className={styles.page}>
       {/* Hero */}
       <div className={styles.hero}>
