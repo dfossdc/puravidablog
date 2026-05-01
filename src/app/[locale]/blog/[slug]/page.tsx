@@ -77,13 +77,25 @@ export default async function BlogPost({ params }: Props) {
     { year: "numeric", month: "long", day: "numeric" }
   );
 
+  // Google's Rich Results Test wants datePublished as full ISO 8601 with a
+  // timezone (date-only is flagged "non-critical"). post.date is "YYYY-MM-DD";
+  // we anchor it at 9am Central Time (-05:00 covers CDT, the dominant San
+  // Antonio offset; minor DST drift is irrelevant for SEO).
+  const datePublishedIso = /^\d{4}-\d{2}-\d{2}$/.test(post.date)
+    ? `${post.date}T09:00:00-05:00`
+    : post.date;
+
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
     headline: post.title,
     description: post.description,
-    datePublished: post.date,
-    author: { "@type": "Person", name: "Dr. Dan Foss, DC" },
+    datePublished: datePublishedIso,
+    author: {
+      "@type": "Person",
+      name: "Dr. Dan Foss, DC",
+      url: `${BASE_URL}/${locale}/meet-dr-foss`,
+    },
     publisher: {
       "@type": "Organization",
       name: "Pura Vida Chiropractic",
