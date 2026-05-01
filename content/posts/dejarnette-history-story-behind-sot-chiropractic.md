@@ -6,7 +6,7 @@ tags: ["DeJarnette", "SOT history", "sacro occipital technique", "chiropractic h
 author: "Dr. Dan Foss DC"
 lang: "en"
 slug: "dejarnette-history-story-behind-sot-chiropractic"
-image: "/images/conditions/postural-correction.webp"
+image: "/images/social-cards/dejarnette-history-story-behind-sot-chiropractic.jpg"
 ---
 
 There is a pattern I have noticed in the history of medicine: the most profound advances tend to come from people who were first patients themselves.

@@ -3,7 +3,7 @@ title: "Webster Technique for Breech Babies: A San Antonio Mom's Guide | Dr. Dan
 description: "Is your baby breech? The Webster Technique is a gentle chiropractic method to help your baby move into head-down position naturally. Learn how Dr. Foss helps San Antonio moms optimize baby positioning."
 date: "2026-05-01"
 author: "Dr. Dan Foss, DC"
-image: "/images/conditions/breechbaby.jpg"
+image: "/images/social-cards/webster-technique-breech-babies-san-antonio.jpg"
 keywords:
   - Webster Technique San Antonio
   - breech baby chiropractor San Antonio

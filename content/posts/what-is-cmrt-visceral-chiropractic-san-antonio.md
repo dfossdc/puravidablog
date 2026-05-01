@@ -3,7 +3,7 @@ title: "What is CMRT? The Chiropractic Visceral Adjusting Technique | San Antoni
 description: "CMRT (Chiropractic Manipulative Reflex Technique) is Dr. Dan Foss's specialized method for adjusting organ function through the spine. Zero chiropractors in San Antonio offer this."
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"
-image: "/images/dr-foss-adjusting-patient.webp"
+image: "/images/social-cards/what-is-cmrt-visceral-chiropractic-san-antonio.jpg"
 keywords:
   - CMRT San Antonio chiropractor
   - visceral chiropractic San Antonio
