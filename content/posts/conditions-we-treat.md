@@ -8,7 +8,7 @@ category: "Conditions"
 type: "page"
 language: "en"
 slug: "conditions-we-treat"
-image: "/images/conditions/latinofamily.jpg"
+image: "/images/dr-foss-adjusting-patient.jpg"
 lang: "en"
 ---
 

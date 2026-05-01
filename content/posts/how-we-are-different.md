@@ -8,7 +8,7 @@ category: "About"
 type: "page"
 language: "en"
 slug: "how-we-are-different"
-image: "/images/conditions/latinofamily.jpg"
+image: "/images/dr-foss-adjusting-patient.jpg"
 lang: "en"
 ---
 

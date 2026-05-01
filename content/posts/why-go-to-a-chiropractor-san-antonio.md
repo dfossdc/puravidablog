@@ -6,7 +6,7 @@ tags: ["why chiropractic", "chiropractic care", "San Antonio", "subluxation", "n
 author: "Dr. Dan Foss DC"
 lang: "en"
 slug: "why-go-to-a-chiropractor-san-antonio"
-image: "/images/conditions/latinofamily.jpg"
+image: "/images/dr-foss-adjusting-patient.jpg"
 ---
 
 I want to start with a story, because it is the reason I do this work.

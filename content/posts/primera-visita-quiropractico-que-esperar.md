@@ -5,7 +5,7 @@ date: "2026-03-20"
 author: "Dr. Dan Foss"
 lang: "es"
 slug: "primera-visita-quiropractico-que-esperar"
-image: "/images/conditions/latinofamily.jpg"
+image: "/images/dr-foss-adjusting-patient.jpg"
 keywords: "primera visita quiropráctico san antonio, qué esperar quiropráctico, cómo es el ajuste quiropráctico, quiropráctico español san antonio, evaluación quiropráctica gratuita"
 ---
 

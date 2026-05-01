@@ -1,6 +1,6 @@
 ---
 title: "Never Been to a Chiropractor? Here's Exactly What to Expect at Pura Vida"
-image: "/images/conditions/latinofamily.jpg"
+image: "/images/dr-foss-adjusting-patient.jpg"
 date: "2026-04-02"
 lang: "en"
 slug: "first-time-chiropractor-san-antonio"
