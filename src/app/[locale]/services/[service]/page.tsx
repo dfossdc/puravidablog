@@ -3,11 +3,31 @@ import Link from "next/link";
 import Image from "next/image";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import InlineVideo from "@/components/InlineVideo";
 import RelatedContent from "@/components/RelatedContent";
 import { getConditionsTreatedByService, getRelatedPostsByKeywords } from "@/lib/relatedContent";
 import styles from "./service.module.css";
 
 const BASE_URL = "https://puravidasanantonio.com";
+
+// Service slugs that should display the pregnancy intro video inline.
+// Covers EN variants ("pregnancy-chiropractor"), Spanish slugs ("quiropractico-embarazo"),
+// and SEO duplicates ("pregnancy-chiropractic", "pediatric-prenatal").
+const PREGNANCY_VIDEO_SLUGS = new Set([
+  "pregnancy-chiropractor",
+  "prenatal-chiropractor",
+  "pregnancy-chiropractic",
+  "pediatric-prenatal",
+  "quiropractico-embarazo",
+  "quiropractico-prenatal",
+  "infants-chiropractic",
+  "quiropractico-infantes",
+  "infant-chiropractic",
+]);
+
+// Slugs that should display the English-language Chiropractic intro guide video.
+// English-only — only shown on /en services. Skip Spanish-slug variants.
+const CHIRO_GUIDE_VIDEO_SLUGS_EN = new Set(["chiropractic-care"]);
 
 interface ServiceData {
   title: string;
@@ -630,6 +650,32 @@ export default async function ServicePage({ params }: Props) {
                 sizes="(max-width: 780px) 100vw, 780px"
               />
             </div>
+          )}
+
+          {/* Optional inline video (pregnancy intro or chiropractic intro) */}
+          {PREGNANCY_VIDEO_SLUGS.has(service) && (
+            <InlineVideo
+              src="/videos/pregnancy.mp4"
+              poster="/videos/pregnancy-poster.jpg"
+              caption={
+                isEs
+                  ? "Cuidado quiropráctico prenatal y posparto en Pura Vida Chiropractic, San Antonio TX"
+                  : "Prenatal & postpartum chiropractic care at Pura Vida Chiropractic, San Antonio TX"
+              }
+              ariaLabel={
+                isEs
+                  ? "Video sobre cuidado quiropráctico durante el embarazo"
+                  : "Video about chiropractic care during pregnancy"
+              }
+            />
+          )}
+          {locale === "en" && CHIRO_GUIDE_VIDEO_SLUGS_EN.has(service) && (
+            <InlineVideo
+              src="/videos/chiropractic-guide.mp4"
+              poster="/videos/chiropractic-guide-poster.jpg"
+              caption="An introduction to chiropractic care — what to expect at Pura Vida Chiropractic, San Antonio TX"
+              ariaLabel="Introduction to chiropractic care"
+            />
           )}
 
           <div className={styles.body}>

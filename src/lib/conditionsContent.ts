@@ -16,6 +16,13 @@ export interface ConditionData {
   chiropracticTreatment: string;
   chiropracticTreatmentEs?: string;
   additionalTreatments: Array<"shockwave" | "softwave" | "laser">;
+  /** Optional inline video to render after the intro paragraph. Path under /public. */
+  video?: string;
+  /** Optional poster image for the inline video. */
+  videoPoster?: string;
+  /** Optional caption shown below the video. Localized via videoCaptionEs. */
+  videoCaption?: string;
+  videoCaptionEs?: string;
 }
 
 export const conditionsContent: ConditionData[] = [

@@ -1,0 +1,23 @@
+.figure {
+  margin: 1.75rem 0;
+  text-align: center;
+}
+
+.video {
+  display: block;
+  width: 100%;
+  max-width: 720px;
+  height: auto;
+  margin: 0 auto;
+  border-radius: 12px;
+  background: #000;
+  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.18);
+}
+
+.caption {
+  margin-top: 0.6rem;
+  color: #555;
+  font-size: 0.9rem;
+  font-style: italic;
+  font-family: var(--font-lato), "Lato", sans-serif;
+}

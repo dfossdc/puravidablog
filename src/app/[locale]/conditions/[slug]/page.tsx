@@ -6,9 +6,21 @@ import { conditionsContent } from "@/lib/conditionsContent";
 import { conditionsContentEs } from "@/lib/conditionsContentEs";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import InlineVideo from "@/components/InlineVideo";
 import RelatedContent from "@/components/RelatedContent";
 import { getRelatedConditions, getRelatedServicesForCondition } from "@/lib/relatedContent";
 import styles from "./condition.module.css";
+
+// Slugs that should display the pregnancy intro video inline.
+// The same video plays on the English and Spanish pages.
+const PREGNANCY_VIDEO_SLUGS = new Set([
+  "pregnancy-wellness",
+  "breech-presentation",
+  "postpartum-recovery",
+  "round-ligament-pain",
+  "pelvic-girdle-pain",
+  "infertility",
+]);
 
 // Merge Spanish content into base conditions
 const conditionsWithEs = conditionsContent.map((c) => {
@@ -145,6 +157,26 @@ export default async function ConditionPage({
       <div className={styles.content}>
         {/* Intro */}
         <p className={styles.intro}>{intro}</p>
+
+        {/* Optional inline video — pregnancy intro for pregnancy-related conditions */}
+        {(c.video || PREGNANCY_VIDEO_SLUGS.has(c.slug)) && (
+          <InlineVideo
+            src={c.video ?? "/videos/pregnancy.mp4"}
+            poster={c.videoPoster ?? "/videos/pregnancy-poster.jpg"}
+            caption={
+              isEs
+                ? c.videoCaptionEs ??
+                  "Cuidado quiropráctico prenatal y posparto en Pura Vida Chiropractic, San Antonio TX"
+                : c.videoCaption ??
+                  "Prenatal & postpartum chiropractic care at Pura Vida Chiropractic, San Antonio TX"
+            }
+            ariaLabel={
+              isEs
+                ? "Video sobre cuidado quiropráctico durante el embarazo"
+                : "Video about chiropractic care during pregnancy"
+            }
+          />
+        )}
 
         {/* What Is */}
         <div className={styles.section}>
