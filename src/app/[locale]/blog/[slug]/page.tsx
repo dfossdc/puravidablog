@@ -6,6 +6,7 @@ import { fetchPostBySlug, fetchAllSlugs } from "@/lib/posts";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import RelatedContent from "@/components/RelatedContent";
+import TableOfContents from "@/components/TableOfContents";
 import { getRelatedPosts } from "@/lib/relatedContent";
 import styles from "./post.module.css";
 
@@ -103,6 +104,15 @@ export default async function BlogPost({ params }: Props) {
     },
     url: `${BASE_URL}/${locale}/blog/${slug}`,
     image: post.image || "",
+    // Speakable tells Google Assistant + AI engines which parts of the page
+    // are safe to read aloud / cite. We point at the article title and the
+    // dek (post.description) since both summarize the post in a self-
+    // contained way. data-speakable hooks are added to the JSX below so the
+    // selectors resolve regardless of CSS-module hashing.
+    speakable: {
+      "@type": "SpeakableSpecification",
+      cssSelector: ["[data-speakable='title']", "[data-speakable='summary']"],
+    },
     ...(post.mentions ? { mentions: post.mentions } : {}),
   };
 
@@ -146,8 +156,12 @@ export default async function BlogPost({ params }: Props) {
             <time className={styles.date} dateTime={post.date}>
               {formattedDate}
             </time>
-            <h1 className={styles.title}>{post.title}</h1>
-            <p className={styles.description}>{post.description}</p>
+            <h1 className={styles.title} data-speakable="title">
+              {post.title}
+            </h1>
+            <p className={styles.description} data-speakable="summary">
+              {post.description}
+            </p>
             <p className={styles.author}>
               {isEs ? "Por" : "By"} <strong>{post.author}</strong>
             </p>
@@ -165,6 +179,7 @@ export default async function BlogPost({ params }: Props) {
               />
             </div>
           )}
+          <TableOfContents headings={post.headings} locale={locale} />
           <div
             className={styles.body}
             dangerouslySetInnerHTML={{ __html: post.content }}

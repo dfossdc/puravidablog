@@ -31,9 +31,55 @@ export interface FaqItem {
   answer: string;
 }
 
+export interface Heading {
+  id: string;
+  text: string;
+  level: 2 | 3;
+}
+
 export interface Post extends PostFrontmatter {
   content: string;
   faqs: FaqItem[];
+  headings: Heading[];
+}
+
+/**
+ * Slugify a heading's text content for use as an HTML id.
+ * Strips inline HTML, lowercases, replaces non-alphanumerics with hyphens,
+ * collapses runs of hyphens, trims leading/trailing hyphens.
+ */
+function slugifyHeading(raw: string): string {
+  return raw
+    .replace(/<[^>]+>/g, "") // strip inline tags like <strong>
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "") // strip diacritics so "qué" → "que"
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "")
+    .slice(0, 80);
+}
+
+/**
+ * Post-process remark's rendered HTML to add id attributes to h2 and h3
+ * headings (so the TOC and any deep-link anchors work) and return the
+ * collected headings list.
+ */
+export function addHeadingAnchors(html: string): { html: string; headings: Heading[] } {
+  const headings: Heading[] = [];
+  const usedIds = new Set<string>();
+  const out = html.replace(/<(h[23])>(.*?)<\/\1>/g, (_m, tag: string, inner: string) => {
+    const baseId = slugifyHeading(inner) || "section";
+    let id = baseId;
+    let n = 2;
+    while (usedIds.has(id)) {
+      id = `${baseId}-${n++}`;
+    }
+    usedIds.add(id);
+    const level = tag === "h2" ? 2 : 3;
+    headings.push({ id, text: inner.replace(/<[^>]+>/g, "").trim(), level });
+    return `<${tag} id="${id}">${inner}</${tag}>`;
+  });
+  return { html: out, headings };
 }
 
 /**
@@ -130,7 +176,8 @@ export async function fetchPostBySlug(slug: string, lang: string): Promise<Post 
   if (postLang !== lang) return null;
 
   const processed = await remark().use(remarkHtml).process(content);
-  const htmlContent = processed.toString();
+  const rawHtml = processed.toString();
+  const { html: htmlContent, headings } = addHeadingAnchors(rawHtml);
   const faqs = extractFaqs(content);
 
   return {
@@ -145,6 +192,7 @@ export async function fetchPostBySlug(slug: string, lang: string): Promise<Post 
     lang: postLang,
     content: htmlContent,
     faqs,
+    headings,
     mentions: Array.isArray(data.mentions) ? data.mentions : undefined,
   };
 }

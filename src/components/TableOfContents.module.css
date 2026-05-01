@@ -1,0 +1,50 @@
+.toc {
+  margin: 1.5rem 0 2rem;
+  padding: 1.25rem 1.5rem;
+  border: 1px solid #e5e7eb;
+  border-left: 4px solid #2c5530; /* PVC brand green */
+  border-radius: 6px;
+  background: #f9fafb;
+}
+
+.heading {
+  margin: 0 0 0.75rem;
+  font-size: 0.95rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #374151;
+}
+
+.list {
+  margin: 0;
+  padding: 0 0 0 1.25rem;
+  list-style: decimal;
+}
+
+.item {
+  margin: 0.35rem 0;
+  font-size: 0.95rem;
+  line-height: 1.4;
+}
+
+.link {
+  color: #2c5530;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.15s ease;
+}
+
+.link:hover,
+.link:focus-visible {
+  border-bottom-color: #2c5530;
+}
+
+@media (max-width: 640px) {
+  .toc {
+    padding: 1rem 1.25rem;
+  }
+  .item {
+    font-size: 0.9rem;
+  }
+}
