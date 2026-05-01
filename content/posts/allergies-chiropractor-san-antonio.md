@@ -186,6 +186,26 @@ Dr. Foss has successfully supported hundreds of allergy patients since founding 
 
 He recognizes that allergies involve nervous system dysregulation and immune imbalance, not just isolated immunological reactions. His comprehensive approach addresses these underlying factors, helping patients experience improved function and reduced allergic burden.
 
+## Frequently Asked Questions
+
+**Can chiropractic care replace my allergy medications?**
+Chiropractic care optimizes your nervous system and immune function, which can reduce your allergic responses and potentially decrease medication dependence. However, I don't recommend stopping medications without medical guidance. Many patients gradually need less medication as their immune system becomes more balanced, but some allergies may still require pharmaceutical support. The best approach combines chiropractic care with medical allergy management, adjusting as your immune function improves.
+
+**How long before I notice improvement in my allergy symptoms?**
+Most patients notice some improvement within 2-4 weeks of consistent care as nervous system function begins to normalize. Seasonal reduction in allergy intensity typically develops over several months. Some patients experience dramatic improvement while others notice more gradual relief. Complete resolution varies widely, but nearly all patients benefit from improved resilience and reduced symptom severity with ongoing care.
+
+**Is chiropractic care safe for my allergies if I'm pregnant?**
+Yes, chiropractic care is safe and beneficial during pregnancy. In fact, optimizing nervous system function helps regulate immune responses, which is important when pregnant. I use gentle SOT techniques and avoid aggressive adjustments. Proper nerve function actually supports better immune regulation for you and your developing baby. Many pregnant patients experience fewer allergy symptoms after starting care.
+
+**Does insurance cover allergy treatment at Pura Vida?**
+Insurance coverage varies depending on your plan and whether it covers chiropractic care. I provide detailed receipts and superbills for every visit—you can submit these to your insurance for reimbursement. I don't bill insurance directly, but I make the process straightforward so you can get reimbursed if your plan covers chiropractic treatment. Call our office at (210) 685-1994 to discuss your specific coverage.
+
+**Will SOT and CMRT help with seasonal allergies specifically?**
+Absolutely. SOT protocols optimize the nervous system pathways controlling immune regulation, while CMRT addresses the reflex patterns affecting your immune organs directly. Many patients with seasonal allergies see dramatic improvement because we're enhancing your body's ability to handle allergen exposure naturally. You still may experience some symptoms, but they're typically much less severe and responsive to lower medication doses.
+
+**What should I expect during my first allergy evaluation?**
+Your first visit includes a detailed discussion of your allergy triggers, symptoms, and how allergies affect your daily life. I'll examine your nasal passages, lymph nodes, and spinal structure to identify misalignments affecting immune function. I'll assess your cranial structure and nervous system balance. Based on these findings, we'll create a personalized treatment plan and schedule your first care session. Most patients leave feeling hopeful about a new approach to their allergies.
+
 ## Improve Your Allergy Burden Without Living on Medications
 
 Allergies don't have to control your life or require you to take medications indefinitely. With proper nervous system optimization and immune support through chiropractic care, combined with medical management as needed, most patients experience significant improvement in their allergic responses and quality of life.

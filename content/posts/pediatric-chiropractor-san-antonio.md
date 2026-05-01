@@ -48,6 +48,26 @@ At Pura Vida Chiropractic, a pediatric visit begins with a thorough history — 
 
 Many children — especially young ones who have had previous bad experiences with medical offices — are anxious at first. Dr. Foss and his team take whatever time is needed to make children feel safe and at ease. The vast majority of pediatric patients leave happily and look forward to their next visit.
 
+## Frequently Asked Questions
+
+**Is pediatric chiropractic safe? Don't adjustments hurt children?**
+Pediatric chiropractic is extremely safe when performed by a qualified practitioner. Pediatric techniques are completely different from adult adjustments. For infants, pressure is equivalent to testing the ripeness of a peach—just a few grams of force. There's no cracking, twisting, or high-velocity manipulation. The safety record is excellent, with serious adverse events extremely rare—far rarer than side effects of medications routinely given to children.
+
+**At what age can chiropractic care start?**
+We recommend a gentle post-birth evaluation for all infants, particularly those born with complications or who show early signs of feeding difficulty, colic, or sleep disturbance. The ideal window is the first 1-2 weeks after birth, when cranial restrictions from delivery respond best to correction. However, pediatric care is beneficial at any age.
+
+**How can chiropractic help with colic?**
+Colic is often associated with cervical spine tension and cranial compression that interferes with the vagus nerve, which regulates digestion. Research has found that infants with colic who receive gentle adjustments show significant reduction in crying time compared to controls. Many parents report life-changing improvements for their sleep-deprived families.
+
+**Does my child's condition require a specialist like Dr. Foss, or can any chiropractor treat kids?**
+A general chiropractor occasionally treats children. A pediatric specialist like Dr. Foss has invested years in advanced training specifically in pediatric assessment and treatment. The expertise directly affects outcomes. We recommend seeking a practitioner with specialized certification and experience in pediatric care.
+
+**What about ear infections? Can chiropractic really prevent them?**
+Recurrent ear infections often involve Eustachian tube dysfunction related to spinal misalignment. Gentle upper cervical adjustments can improve Eustachian tube drainage, reducing infection frequency and severity. Many families with chronically infected children find chiropractic care dramatically reduces the cycle of infection.
+
+**How long does pediatric treatment take?**
+Timeline varies by condition. Some issues (like colic) may improve within a few weeks. Others require longer care. We design individualized care plans with realistic expectations. Many families continue monthly maintenance visits after reaching wellness goals to support ongoing healthy development.
+
 ## A Lifetime of Spinal Health Starts Early
 
 The spinal habits and structural patterns established in childhood become the baseline from which adult spinal health develops. A child with well-corrected spinal alignment, normal cervical and lumbar curves, and good postural habits enters adulthood with a significant structural advantage.

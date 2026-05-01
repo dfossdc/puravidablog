@@ -163,6 +163,26 @@ Una vez que se resuelve la costocondritis, es importante prevenir que vuelva. El
 - **Evitar actividades de riesgo:** Modificar actividades que ponen estrés en la pared torácica
 - **Ajustes de mantenimiento:** Ajustes quiroprácticos periódicos para mantener la alineación
 
+## Preguntas Frecuentes
+
+**¿Cómo sé si mi dolor es costocondritis o algo cardíaco?**
+Esa es la preocupación principal de muchos pacientes. La costocondritis causa dolor reproductivo — presionar la zona afectada aumenta el dolor. El dolor cardíaco no es reproductivo. Además, la costocondritis empeora con movimiento, respiración profunda y posición. El dolor cardíaco típicamente está asociado con ejercicio, falta de aliento, o palpitaciones. Si tiene duda, vea a su doctor primero para descartar problemas cardíacos, luego visite al quiropráctico.
+
+**¿Necesitaré radiografías para costocondritis?**
+A menudo sí. Las radiografías pueden descartar otras causas de dolor torácico (fracturas de costilla, hernia de disco, etc.) y ayudar al Dr. Foss a identificar desalineaciones articulares costales que están causando la inflamación. Sin embargo, algunos casos simples y recientes pueden mejorarse sin radiografías. El doctor evalúa si las necesita basado en su historia clínica.
+
+**¿Cuánto tiempo hasta que pueda respirar profundamente sin dolor?**
+La mayoría de los pacientes puede respirar con más comodidad en 1-2 semanas. Sin embargo, la respiración completamente sin dolor típicamente tarda 4-8 semanas. Mientras tanto, la terapia láser Clase IV accelera la curación inflamatoria significativamente, permitiendo respiración más fácil antes.
+
+**¿Puedo hacer ejercicio durante el tratamiento de costocondritis?**
+Solo ejercicio suave sin dolor. Los movimientos agresivos empeoran la condición. El Dr. Foss proporciona ejercicios específicos que fortalecen sin irritar las costillas. Actividades como caminar suave o nadar tranquila están bien. Levantamiento pesado, deportes de alto impacto, o ejercicios de pecho deben evitarse hasta que la inflamación se resuelva.
+
+**¿Es la costocondritis peligrosa?**
+No. La costocondritis es un inflamación articular común, dolorosa pero no peligrosa para la vida. Sin embargo, porque causa dolor en el pecho, es comprensible que los pacientes teman problemas cardíacos. Por eso es importante que un doctor descarte condiciones serias primero. Una vez descartadas, la costocondritis responde bien a la quiropráctica.
+
+**¿Volverá a ocurrir costocondritis después de sanarla?**
+Puede, pero no necesariamente. Si la alineación se restaura completamente y usted mantiene buena postura, la recurrencia es rara. Sin embargo, si vuelve a los patrones que causaron el problema originalmente (levantamiento pesado incorrecto, mala postura prolongada), puede regresar. Los ajustes de mantenimiento 1-2 veces al mes previenen recurrencia a largo plazo.
+
 ## Por Qué Elegir Pura Vida Chiropractic
 
 El Dr. Dan Foss ofrece:

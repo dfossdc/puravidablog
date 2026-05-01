@@ -172,6 +172,26 @@ Pura Vida Chiropractic está ubicada en **2318 NW Military Hwy Suite 103, San An
 - Martes: 7:00 am - 4:00 pm
 - Jueves: 7:00 am - 4:00 pm
 
+## Preguntas Frecuentes
+
+**¿Debo buscar atención médica inmediatamente después de un accidente automovilístico?**
+Sí. Incluso si no siente dolor inicialmente, busque evaluación médica. Algunas lesiones de latigazo no causan dolor inmediatamente pero pueden hacerlo días después. Obtenga un registro médico temprano por razones de seguro. Luego visite al Dr. Foss para evaluación quiropráctica.
+
+**¿Cuánto tiempo después del accidente puedo recibir quiropráctica?**
+Inmediatamente. De hecho, buscar cuidado quiropráctico temprano previene complicaciones a largo plazo. El Dr. Foss puede evaluar e iniciar tratamiento incluso mientras está en fase aguda. No espere semanas "a ver si mejora" — el tratamiento temprano produce mejores resultados.
+
+**¿Cuánto tiempo tarda en recuperarse del latigazo cervical?**
+Con tratamiento apropiado, muchos pacientes ven mejora significativa en 2-4 semanas. La recuperación sustancial típicamente toma 6-8 semanas. Los casos severos pueden requerir 3-6 meses. Lo importante es consistencia en el tratamiento desde el inicio.
+
+**¿El dolor de cabeza después del accidente es latigazo cervical?**
+Frecuentemente sí. El latigazo cervical afecta las vértebras cervicales superiores que controlan dolores de cabeza. Cefaleas post-accidente son comunes y responden bien a quiropráctica. Sin embargo, siempre descarte otras causas serias con un doctor primero.
+
+**¿Necesitaré radiografías o MRI para latigazo cervical?**
+Probablemente sí. Las radiografías revelan desalineaciones vertebrales, disminución del espacio discal, y otra patología. La MRI se ordena si hay signos de daño de tejidos blandos severo. El Dr. Foss evalúa qué estudios necesita basado en sus síntomas y examen.
+
+**¿Qué tan importante es la terapia física versus quiropráctica para latigazo?**
+Ambas son valiosas. La quiropráctica restaura la alineación permitiendo curación. La terapia física fortalece músculos debilitados. El Dr. Foss proporciona rehabilitación como parte del cuidado. Para resultados óptimos, muchos pacientes se benefician de ambas — quiropráctica más ejercicios de rehabilitación.
+
 ### Llame Hoy para su Consulta
 
 Si ha sufrido una lesión de latigazo cervical, es crucial buscar tratamiento inmediatamente. El Dr. Dan Foss, DC, con más de una década de experiencia desde la fundación de Pura Vida Chiropractic en 2010, está listo para ayudarlo a recuperarse completamente.

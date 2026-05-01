@@ -84,4 +84,24 @@ I never promise outcomes. But when both the spinal and visceral signs are presen
 - PPIs manage symptoms but don't restore neurological regulation of gastric function
 - Many patients see improved spinal holding and reduced digestive symptoms when both components are treated together
 
+## Frequently Asked Questions
+
+**If I take a PPI (proton pump inhibitor), do I still need chiropractic for GERD?**
+PPIs manage symptoms effectively by suppressing acid production, but they don't restore the underlying neurological regulation of gastric function. If T5 subluxation is driving the problem, chiropractic addresses that mechanism. Many patients taking PPIs long-term find that proper T5 correction allows them to reduce medication or manage symptoms with less medication. Combining medical and chiropractic approaches provides the best outcomes.
+
+**How do I know if my GERD is related to T5 subluxation?**
+Clinical patterns suggest a T5-stomach connection: chronic mid-back tightness between the shoulder blades that doesn't resolve with standard treatment, mid-back pain that correlates with meals, left shoulder blade pain paired with digestive symptoms, long-term PPI use alongside recurring T5 problems. These patterns together raise clinical suspicion. A comprehensive chiropractic evaluation can determine if T5-stomach connection is part of your picture.
+
+**Why does my T5 keep coming back if I keep getting adjusted?**
+If your T5 repeatedly subluxates without a clear mechanical cause, the stomach may be driving the pattern through the viscero-somatic feedback loop. The stressed stomach sends distress signals back up the nerve pathway, creating muscle tension and ligamentous strain that pulls T5 back into subluxation. Adjusting T5 without addressing the stomach component means it will keep returning.
+
+**How do CMRT techniques help with reflux if they don't directly treat the stomach?**
+CMRT releases reflex patterns and fascial restrictions affecting both T5 and the stomach. By addressing anterior and posterior stomach Chapman's reflex points simultaneously with T5 adjustment, CMRT helps normalize the viscero-somatic loop. Both the spinal component and the organ reflex component are treated together, producing better results than either alone.
+
+**Can chiropractic alone cure my GERD?**
+Chiropractic can address the spinal and neurological component—the T5-stomach connection. However, GERD is multifactorial: diet, obesity, hiatal hernia, H. pylori, medications all play roles. The most comprehensive approach combines dietary modifications, medical management when needed, and chiropractic care addressing the structural drivers. Work with your gastroenterologist and chiropractor together.
+
+**How long does it take to see improvement in reflux symptoms with T5 treatment?**
+Many patients notice improved reflux symptoms within 2-3 weeks as T5 alignment improves and the viscero-somatic loop begins to normalize. However, it may take 6-8 weeks for the T5 adjustment to hold reliably and for gastric function to fully normalize. Some patients see dramatic improvement; others see gradual improvement—individual responses vary.
+
 If you have chronic acid reflux or GERD alongside mid-back pain that keeps returning, the T5-stomach connection may be worth evaluating. Call Pura Vida Chiropractic at **(210) 685-1994**. We're at 2318 NW Military Hwy #103, San Antonio, TX 78231.

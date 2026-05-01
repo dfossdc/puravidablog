@@ -123,6 +123,21 @@ El Dr. Foss le dará una estimación honesta durante su evaluación inicial grat
 - [¿Huesero o Quiropráctico?](/es/blog/huesero-vs-quiropractico-san-antonio)
 - [Quiropráctica SOT](/es/services/quiropractica-sot)
 
----
+## Preguntas Frecuentes
+
+**¿Puedo saber si tengo una subluxación sin una radiografía?**
+Sí. Un quiropráctico capacitado puede evaluar la alineación y movimiento de su columna clínicamente. Las radiografías pueden ser útiles para confirmar o para ver cambios degenerativos, pero no siempre son necesarias para diagnosticar y tratar una subluxación.
+
+**Si me duele, significa que tengo una subluxación?**
+No necesariamente. Puede haber dolor sin subluxación. Pero si tiene dolor recurrente o crónico, lo más probable es que haya una subluxación conduciendo el problema. Eso es lo que investigamos en la evaluación.
+
+**¿Mi médico de cabecera puede diagnosticar subluxaciones?**
+Los médicos no son entrenados en buscar subluxaciones — ese es el dominio de los quiroprácticos. Su médico está buscando patología — infección, fractura, tumor. Una subluxación es una disfunción mecánica/neurológica que los médicos típicamente no evalúan.
+
+**Si tomo medicamentos para el dolor, ¿puedo dejar de tomarlos cuando empiezo la quiropráctica?**
+Eso debe ser una conversación con su doctor. Pero muchos pacientes encuentran que pueden reducir sus dosis bajo supervisión médica una vez que la subluxación se corrige y el dolor mejora genuinamente.
+
+**¿Cuánto tiempo toma corregir una subluxación?**
+Depende de cuánto tiempo la haya tenido. Una subluxación reciente puede corregirse en pocas visitas. Subluxaciones crónicas de años pueden requerir 8-12 semanas. El Dr. Foss le dará una estimación honesta en su evaluación.
 
 **¿Cree que puede tener una subluxación vertebral?** Permita que el Dr. Dan Foss lo evalúe. Llame al [(210) 685-1994](tel:2106851994) o visite [puravidasanantonio.com/special/](https://puravidasanantonio.com/special/) para su **evaluación gratuita** en San Antonio, TX. Descubra la causa raíz de su dolor —en español, con un quiropráctico que realmente escucha.

@@ -80,4 +80,24 @@ Patients who have been stuck in a cycle of temporary relief often find that addr
 - CSF flow depends on normal dural mechanics. Restriction impairs brain nourishment and the nervous system's waste-removal function.
 - SOT addresses the dural tube directly through sacral block positioning and integrated cranial correction.
 
+## Frequently Asked Questions
+
+**How do you actually treat dural tension if the dura is inside the spine?**
+I address it through the two ends of the system—the occiput (skull base) and the sacrum. Using SOT blocking techniques and specific cranial adjustments, I decompress and reposition both attachment points simultaneously. When dural tension is released at both ends, the entire tube can relax and restore proper length. It's elegant biomechanics.
+
+**Can adjustments alone fix dural tension or do I need other treatments?**
+Adjustments are the foundation. SOT combined with cranial work directly addresses dural tension from both ends. Sometimes adding Class IV Laser Therapy accelerates relief because laser reduces neurological inflammation associated with dural restriction. Most people improve significantly with adjustments alone, but some benefit from adding regenerative support.
+
+**If my adjustments aren't holding, am I definitely dealing with dural tension?**
+Dural tension is one of the most common reasons adjustments don't hold, but not the only one. Poor rehabilitation, biomechanical habits, or incomplete diagnosis of structural patterns can also cause fade. We assess for dural tension specifically, but we also look at your overall pattern. Usually it's a combination of factors that need addressing.
+
+**How long before I notice that dural tension has improved?**
+Many patients notice change within 1-2 sessions—reduced stiffness, better sleep, clearer thinking. Complete normalization of dural tension typically requires 4-8 weeks of consistent care. The interesting part is that patients often report benefits beyond back pain—better focus, improved mood, less anxiety—as the dural system normalizes.
+
+**Does dural tension explain all my chronic pain or just some of it?**
+Dural tension often explains more than patients expect. Because the dura runs the entire length of the spine and influences both spinal structure and CSF flow, it affects pain perception throughout the system. Addressing dural tension sometimes resolves multiple pain sites that seemed unrelated. But concurrent structural problems usually need separate attention too.
+
+**Is dural tension the reason I can only get 2-3 days relief from adjustments?**
+Often, yes. The dural tube is pulling your corrected bones back out of position. Until the dural tension is released, those bones will keep being pulled back. This is why SOT's integrated approach—treating both ends at once—is so effective. You can't hold a spinal correction if the dural system is fighting you.
+
 If you've been caught in the cycle of temporary relief followed by return of symptoms, it's time to look at the whole system. Call Pura Vida Chiropractic at **(210) 685-1994** and let's find out what's really driving your pain. Dr. Dan Foss serves the San Antonio community in English and Spanish.

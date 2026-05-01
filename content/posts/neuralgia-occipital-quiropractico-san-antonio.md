@@ -192,6 +192,23 @@ San Antonio, TX 78231
 **Horarios:**
 - Lunes, Martes, Jueves: 7:00 AM - 4:00 PM
 
+## Preguntas Frecuentes
+
+**¿Qué causa la neuralgia occipital exactamente?**
+La neuralgia occipital ocurre cuando el nervio occipital (que baja del cráneo hacia el cuello) se irrita o se comprime. Esto puede ser causado por desalineación cervical, músculos tensos en la base del cráneo, o traumatismo previo. Nuestros ajustes quiroprácticos y técnicas craneales alivian esta compresión directamente.
+
+**¿Es la neuralgia occipital lo mismo que migrañas?**
+No. Las migrañas son vasculares (involucran vasos sanguíneos), mientras que la neuralgia occipital es nerviosa. Aunque ambas causan dolor de cabeza severo, el tratamiento es diferente. Los ajustes quiroprácticos son particularmente efectivos para neuralgia occipital pero pueden no resolver migrañas vasculares primarias.
+
+**¿Cuánto tiempo tarda en desaparecer el dolor de neuralgia occipital?**
+Algunos pacientes sienten alivio significativo después de 2-3 ajustes. Otros requieren 6-8 semanas de tratamiento consistente. La duración depende de cuánto tiempo ha tenido los síntomas y cuán severa es la compresión del nervio.
+
+**¿Puedo prevenir futuros episodios de neuralgia occipital?**
+Sí. Mantener una buena postura (especialmente en el escritorio), fortalecer el cuello, hacer ajustes quiroprácticos preventivos, y manejar el estrés son clave. Una vez que tiene neuralgia occipital, es propensa a recurrencias, así que el cuidado preventivo es esencial.
+
+**¿Afecta la posición de dormir mi neuralgia occipital?**
+Absolutamente. Dormir con demasiadas almohadas o con el cuello torcido agrava la neuralgia occipital. Recomendamos una sola almohada que mantenga su cuello neutral. Discutiremos posición de dormir óptima durante su consulta.
+
 ## Próximos Pasos: Elimina el Dolor de Neuralgia Occipital
 
 Si sufres de neuralgia occipital, hay una solución probada. La quiropráctica especializada puede eliminar el dolor de forma permanente sin cirugía.

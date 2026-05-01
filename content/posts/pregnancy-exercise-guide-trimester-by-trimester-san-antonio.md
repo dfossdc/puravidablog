@@ -144,6 +144,23 @@ Labor and delivery fundamentally change your body. Your pelvis has shifted. Your
 
 The bottom line: **Do not rush postpartum recovery.** The strength you built during pregnancy is still there. Give your body time, chiropractic support, and structured progression, and you will return to your full capacity — often stronger than before.
 
+## Frequently Asked Questions
+
+**Is it safe to exercise during pregnancy, or should I rest?**
+Moderate exercise during pregnancy is not just safe — it's beneficial. It reduces pain, improves labor outcomes, and speeds recovery. But "exercise" during pregnancy means staying active within your capacity, not training hard or trying to set records. Walking, prenatal yoga, swimming, and modified strength training are all safe. Always get clearance from your OB or midwife first.
+
+**Will chiropractic care during pregnancy hurt my baby?**
+No. The techniques are gentle and designed specifically for pregnant women. Adjustments don't involve any trauma to the abdomen. Your baby is protected by the uterus and amniotic fluid. Chiropractic actually improves pelvic alignment, which gives your baby more room and can improve their position for birth.
+
+**What exercise can I do if I've never exercised before pregnancy?**
+Start with walking — 30 minutes most days is excellent. Then add gentle prenatal yoga or modified water aerobics. Avoid high-impact activity and heavy weightlifting. Build from there based on how you feel and with your provider's approval. It's never too late to start moving during pregnancy.
+
+**My pelvis is already sore. Can I still exercise?**
+If your pelvis is sore, you need spinal and pelvic assessment first — don't just push through pain. Pelvic pain usually indicates misalignment or muscle imbalance, which chiropractic addresses. Once corrected, exercise becomes comfortable and productive. Pain with movement means something is wrong; don't ignore it.
+
+**After I give birth, how long before I can go back to running or CrossFit?**
+Wait at least 6 weeks minimum, and get medical clearance. Then start with walking. By 12 weeks, you can begin introducing higher-impact activity if your pelvic floor is recovered. Full return to intense training usually takes 4-6 months postpartum, especially if you're nursing. Work with a pelvic floor specialist and get postpartum chiropractic care to restore pelvic alignment.
+
 ## Ready to Move with Confidence?
 
 Exercise during pregnancy is one of the most powerful tools you have to influence your experience of labor, your recovery, and your baby's position. But it works best when your pelvis is aligned, your spine is supported, and you have professional guidance every step of the way.

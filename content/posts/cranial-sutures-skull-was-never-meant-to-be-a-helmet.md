@@ -71,6 +71,23 @@ Over my career, including my work teaching at SORSI conferences, I've found that
 - CSF circulation depends in part on normal cranial motion. Restriction impairs the brain's own detox system.
 - Specific sutural spreading techniques can restore motion and produce meaningful clinical results.
 
+## Frequently Asked Questions
+
+**Are cranial sutures actually moveable or is that unproven?**
+Cranial sutures are absolutely moveable—this is proven anatomical and biomechanical reality. Modern imaging shows subtle mobility between cranial bones. Cranial osteopaths and chiropractors have documented these movements for decades. Immobility develops from trauma, stress, and poor posture. One of my goals is restoring healthy cranial suture mobility, which supports cerebrospinal fluid flow and optimal brain function.
+
+**What happens if cranial sutures become restricted or fused?**
+Restricted sutures limit cerebrospinal fluid flow, which can contribute to headaches, brain fog, poor sleep, and various neurological symptoms. Some babies are born with fused sutures (craniosynostosis), requiring medical attention. More commonly, sutures become restricted from stress, trauma, or poor posture. Restoring mobility improves cerebrospinal fluid dynamics and often resolves associated symptoms.
+
+**Can adults benefit from cranial suture work or is it just for babies?**
+Adults benefit tremendously from cranial work, even though suture fusion is more complete in adults. The residual mobility at sutures still influences cerebrospinal fluid flow and neurological function. Additionally, the membranes and soft tissues around sutures remain dynamic throughout life. Many adult patients experience profound improvements in brain function, sleep, focus, and mood from proper cranial adjusting.
+
+**Does cranial adjusting hurt or is it uncomfortable?**
+Cranial adjusting is gentle and relaxing—most patients describe it as peaceful and restorative. You'll lie comfortably while I apply gentle pressure to various cranial structures. No cracking or aggressive movement is involved. Most patients actually fall asleep during treatment because it's so relaxing. The gentleness is precisely what makes it effective.
+
+**Why would I want my cranial sutures to be moveable if they're fused together for a reason?**
+Evolution designed cranial sutures with specific mobility to support healthy brain function and cerebrospinal fluid flow. Complete fusion isn't ideal—it's a consequence of aging and stress. Maintaining healthy suture mobility throughout life supports optimal nervous system function, better sleep, improved mental clarity, and overall resilience. Movement doesn't mean instability; it means health.
+
 If you've been managing headaches, sinus congestion, cognitive fog, or symptoms that seem neurological but have no clear diagnosis — your cranial bones may be part of the story that's been missing. I'd love the opportunity to assess you.
 
 Call Pura Vida Chiropractic at **(210) 685-1994** to schedule a cranial evaluation with Dr. Dan Foss. We serve San Antonio and the surrounding community in both English and Spanish.

@@ -84,4 +84,24 @@ A full cranial evaluation takes about 20–30 minutes and is often combined with
 - Dr. Dan Foss holds Advanced SOT certification through SORSI and has 20+ years of cranial adjusting experience
 - San Antonio patients with chronic conditions unresponsive to standard care should know this option exists
 
+## Frequently Asked Questions
+
+**Isn't the skull completely fused? How can you adjust something that doesn't move?**
+The skull has 22 bones held together by sutures that retain measurable mobility throughout life. They're not frozen—they're joints with ligamentous connections and a subtle but critical range of motion. The cranial rhythmic impulse (the palpable rhythm of cerebrospinal fluid circulation) is tied directly to this suture mobility. When sutures are restricted, CSF flow suffers and symptoms follow.
+
+**Does a cranial adjustment feel different than a spinal adjustment?**
+Completely different. Spinal adjustments can be more forceful; cranial work is extremely gentle—often just a few grams of pressure held while the practitioner monitors and waits for tissue release. Most patients find it deeply relaxing, even meditative. Some notice subtle motion or warmth in the skull during the session.
+
+**How quickly will I notice a difference from cranial work?**
+Some patients feel change immediately—reduced head pressure, clearer vision, or ear ringing that improves during the session. Others notice effects over 2-3 days as the nervous system integrates the change. For chronic conditions, you'll typically see meaningful improvement within 4-6 weeks of regular cranial work.
+
+**Can cranial adjustments help my migraines or just tension headaches?**
+Both. Migraines often have a cranial component—abnormal CSF pressure, temporal bone restriction, or dural tension can trigger migraines. Tension headaches almost always have a cervical-cranial link. We treat both conditions, though migraine relief may require more visits initially because the neurological pattern is more entrenched.
+
+**Will cranial adjusting help my child's ear infections?**
+Yes, in many cases. The eustachian tube's drainage depends on proper temporal bone positioning. Children with recurrent ear infections often have temporal bone restrictions. Gentle cranial correction can normalize drainage and reduce infection frequency. It's something I recommend for parents of kids stuck in ear-infection cycles.
+
+**Is there any risk to cranial adjusting?**
+None when done by a trained practitioner. Cranial work is one of the safest techniques in chiropractic—the forces are minimal, the movement is precise. The only "risk" is that if a serious pathology exists (like intracranial mass), we'll catch it during evaluation and refer appropriately. Otherwise, it's safe and even beneficial for most people.
+
 If you've been dealing with persistent headaches, dizziness, TMJ pain, or symptoms after a head injury that haven't resolved with standard treatment, cranial adjusting may be the missing piece. Give us a call at Pura Vida Chiropractic: **(210) 685-1994**. We'd love to take a look at the whole picture.

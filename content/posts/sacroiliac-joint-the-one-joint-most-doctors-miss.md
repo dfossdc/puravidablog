@@ -72,6 +72,26 @@ Active adults, athletes, and anyone who spends long hours on their feet — our 
 
 If you've been told you have "sciatica," "piriformis syndrome," "hip bursitis," or a "low back strain" that keeps coming back despite treatment, it's worth having your SI joint evaluated specifically — and evaluated for whether the problem is too much motion or too little.
 
+## Frequently Asked Questions
+
+**Can SI joint problems cause pain outside the low back and buttocks?**
+Yes, absolutely. SI joint dysfunction creates compensation patterns up and down the kinetic chain. An unstable or asymmetric pelvis causes the lumbar spine to torque, the thoracic spine to follow, and one shoulder to sit higher than the other. This can contribute to chronic tension headaches and TMJ dysfunction. Downward, it causes femurs to rotate differently, leading to knee pain, ankle problems, and even plantar fasciitis.
+
+**Is my "sciatica" actually an SI joint problem?**
+It might be. Many cases labeled as sciatica are actually SI joint dysfunction with referral pain patterns. True sciatica involves nerve root compression from a herniated disc. SI joint problems create referred pain that mimics sciatica. Proper assessment determines which is present—and that changes treatment entirely.
+
+**Why would mobilizing my SI joint make things worse?**
+If your SI joint is hypermobile (too loose from stretched ligaments), standard chiropractic or physical therapy that mobilizes the joint worsens the instability. The body compensates by tensing muscles around the joint, which provides temporary relief—but the underlying looseness deepens. This is why SI joint treatment often fails. You need stabilization, not mobilization.
+
+**How do I know if my SI joint is hypermobile or hypomobile?**
+Proper SOT assessment determines this. Hypomobility (locked joint) requires mobilization. Hypermobility (loose joint) requires stabilization with block placements. Standard practitioners don't make this distinction—they mobilize everything. That's why SOT assessment is essential for correct SI joint treatment.
+
+**How long does SI joint recovery take?**
+Ligament healing takes 4-6 weeks. During this window, a trochanteric belt (hip support belt) helps stabilize the pelvis artificially while ligaments heal. You may notice improvement in pain within a few weeks, but complete ligament healing requires patience. Athletes and active people need to be especially careful during this recovery window.
+
+**Can pregnancy cause SI joint problems that last years after birth?**
+Yes. Pregnancy hormones relax ligaments to allow pelvic expansion. After birth, those ligaments may remain stretched, creating long-term instability. Many women have SI joint issues months or even years after childbirth. Proper chiropractic care can address this, but requires understanding that stabilization—not mobilization—is needed.
+
 ## Key Takeaways
 
 - The sacroiliac joint connects the sacrum to the ilium and is held together by strong ligaments

@@ -96,6 +96,26 @@ More specifically, consider making an appointment if you:
 
 That last one matters. People maintain their teeth, their vision, their cardiovascular health. The spine — which houses the central nervous system — deserves the same preventive attention.
 
+## Frequently Asked Questions
+
+**Is chiropractic the same as traditional bone-setting or huesería?**
+No. Traditional bone-setting recognizes that structural alignment matters, but modern chiropractic is grounded in anatomy, neurology, and decades of clinical research. Both share an appreciation for structural integrity, but chiropractic uses specific evidence-based techniques and assessment methods that traditional practices don't.
+
+**Can chiropractic care replace my regular doctor?**
+No. Chiropractic is complementary healthcare. If you need medication management, diagnosis of systemic disease, or surgical intervention, your regular doctor is essential. Chiropractic addresses spinal and neurological dysfunction that complements your medical care.
+
+**Why would chiropractic help with conditions that seem unrelated to the spine (like ear infections or digestive issues)?**
+Because the nervous system—housed and protected by the spine—controls virtually every function in the body. When vertebrae are misaligned, nerve signals are disrupted throughout the body. Restoring spinal alignment allows the nervous system to function optimally, improving digestion, immune function, ear health, and more.
+
+**How often do I need to come to the chiropractor?**
+Initially, you might come 2-3 times per week to address acute problems. As improvement occurs, frequency decreases. Some patients transition to monthly maintenance visits for preventive care. The goal is correcting the problem so your spine maintains itself, not creating lifetime dependency.
+
+**Is chiropractic care expensive?**
+That depends on your insurance coverage and the extent of care needed. Most plans cover chiropractic. Dr. Foss offers transparent pricing and works with patients on financial options. Think of it as an investment in your long-term health—similar to dental care.
+
+**Can chiropractic help if I'm already experiencing chronic symptoms?**
+Yes. Even long-standing problems often respond to proper care. The longer a problem has existed, the longer correction may take, but significant improvement is still usually possible. Many patients with chronic issues they've accepted as permanent find relief through chiropractic.
+
 ## The Root Cause Philosophy
 
 There are two philosophies of healthcare, and they are genuinely different.

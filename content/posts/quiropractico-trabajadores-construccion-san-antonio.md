@@ -88,6 +88,26 @@ Muchos de nuestros pacientes trabajadores de construcción vienen una o dos vece
 
 Entendemos que los trabajadores de construcción trabajan duro y tienen horarios complicados. Ofrecemos citas temprano por la mañana y opciones de horario que se adaptan a quienes empiezan temprano.
 
+## Preguntas Frecuentes
+
+**¿Puedo ir al quiropráctico sin tener seguro médico o compensación de trabajadores?**
+Sí, absolutamente. Aunque ofrecemos opciones para quienes tienen seguro de compensación del trabajador en Texas, muchos de nuestros pacientes de construcción pagan de su bolsillo o con planes de pago. Ofrecemos precios transparentes y opciones de financiamiento para todos los presupuestos.
+
+**¿Cuánto tiempo tardan en aliviar el dolor de espalda del trabajo?**
+Eso depende de cuánto tiempo ha existido el problema y qué tan grave es. Las lesiones agudas (recientes) a menudo mejoran en semanas. El dolor crónico que ha durado años puede requerir más tiempo, pero la mayoría de nuestros pacientes trabajadores notan mejora significativa en el primer mes de tratamiento y recuperan su productividad laboral.
+
+**¿Puedo seguir trabajando mientras recibo tratamiento quiropráctico?**
+Sí. De hecho, la mayoría de nuestros pacientes trabajan mientras reciben tratamiento. Ofrecemos citas temprano por la mañana para adaptarnos a sus horarios. El objetivo es reducir su dolor para que pueda trabajar más cómodamente.
+
+**¿La quiropráctica puede prevenir lesiones futuras?**
+Sí. El cuidado preventivo es especialmente importante para trabajadores de construcción. Muchos de nuestros pacientes vienen una o dos veces al mes como mantenimiento preventivo. Es una inversión pequeña comparada con el costo de una lesión grave o una cirugía. El cuidado regular mantiene su cuerpo alineado y fuerte.
+
+**¿Qué es la terapia SoftWave y cómo ayuda con las lesiones laborales?**
+SoftWave (terapia de ondas de choque) estimula la regeneración de tejidos sin cirugía. Es especialmente útil para tendinitis crónica, espolón calcáneo, dolor de hombro, y otras condiciones por uso repetitivo. Una serie de sesiones puede producir mejora dramática en condiciones que de otro modo requieren cirugía.
+
+**¿Necesito radiografías o resonancia magnética antes del tratamiento?**
+No siempre. Nuestro examen físico completo a menudo proporciona suficiente información. Sin embargo, pueden ordenarse si nuestro examen sugiere un tipo específico de lesión. Usamos tecnología de diagnóstico de manera inteligente para evitar costos innecesarios.
+
 ## Artículos Relacionados
 
 - [Quiropráctico para Dolor de Espalda en San Antonio](/es/blog/dolor-de-espalda-quiropractico-san-antonio)

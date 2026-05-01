@@ -120,6 +120,23 @@ Si se acerca a la inducción o se pregunta si está en su futuro, ofrecemos cons
 
 Somos bilingües — inglés y español — y atendemos a mujeres embarazadas de Stone Oak, Castle Hills, Alamo Heights, Helotes y todo San Antonio. El Dr. Dan Foss tiene 23 años de experiencia con embarazo y parto, y trabaja colaborativamente con OBs, parteras y doulas en toda la región.
 
+## Preguntas Frecuentes
+
+**¿Es la inducción del parto realmente necesaria?**
+La inducción puede ser medicamente necesaria en algunas situaciones—presión arterial alta materna severa, diabetes gestacional descontrolada, o embarazo severamente prolongado. Sin embargo, muchas inducciones ocurren por conveniencia médica o por pacientes no preparados para parto espontáneo. Una pelvis bien alineada quiroprácticamente frecuentemente evita la necesidad de inducción.
+
+**¿Qué pasa si rechazo la inducción?**
+Si usted y su bebé están saludables, rechazar la inducción es su derecho. Sin embargo, después de la semana 42, el riesgo placentario aumenta. El punto es estar informada. Hablo con mis pacientes sobre esto frecuentemente—la educación es poder durante el parto.
+
+**¿La pitocina afecta mi capacidad para el parto vaginal?**
+La pitocina sintética causa contracciones más fuertes y frecuentes que las naturales, aumentando la intensidad del dolor e interrumpiendo potencialmente el ritmo natural del parto. Esto frecuentemente resulta en analgesia epidural y complicaciones. Una pelvis alineada quiroprácticamente apoya el parto más fácil sin inducción.
+
+**¿Puede la quiropráctica prepararme para evitar inducción?**
+Absolutamente. Optimizando su alineación pélvica, asegurando posición fetal correcta, y maximizando la función nerviosa, su cuerpo está mejor preparado para labores espontáneas, eficientes. Muchas de mis pacientes en semana 40-42 comienzan trabajo de parto espontáneamente después de ajustes intensivos.
+
+**¿Qué debería saber antes de ser inducida?**
+Entienda por qué es médicamente necesaria. Entienda los riesgos—tasas más altas de epidural, cesárea, y distocia fetal. Entienda que una pelvis bien alineada soporta mejor el parto inducido. Si posible, comience quiropráctica antes de la inducción.
+
 ## ¿Listo para Prepararse?
 
 El consentimiento informado no se trata de luchar contra su proveedor. Se trata de entender sus opciones, hacer buenas preguntas y tomar decisiones que se sientan correctas para usted y su bebé. Ya sea que la inducción esté planeada o sea posible, dese el mejor apoyo físico y del sistema nervioso que pueda.

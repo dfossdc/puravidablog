@@ -70,6 +70,26 @@ If you've been in pain for years, if you've tried treatments that helped tempora
 
 ---
 
+## Frequently Asked Questions
+
+**How is corrective chiropractic different from the chiropractic I've tried before?**
+Most chiropractic focuses on pain relief—you hurt, you get adjusted, you feel better temporarily. Corrective chiropractic identifies the structural cause of your pain and systematically corrects it. We use X-rays to measure structural change, follow a specific treatment progression based on SOT protocol, and document improvement on follow-up imaging. Results that actually hold are the difference.
+
+**How long does corrective care take?**
+Depending on complexity, corrective care typically spans 8-16 weeks of 2-3 visits per week, followed by a maintenance schedule. Simple cases may resolve faster; complex cases with multiple layers of compensation may require longer. We'll give you a realistic timeline after your initial evaluation and X-rays.
+
+**Will my insurance cover corrective chiropractic?**
+Most insurance covers chiropractic care, including corrective protocols. We bill your insurance directly and work with you on your out-of-pocket costs. Some insurance plans have visit limits—corrective care may use them faster than pain-relief care because we're doing more than symptom management. We'll explain your coverage upfront.
+
+**What if I've tried corrective care with another chiropractor and it didn't work?**
+Several things might have happened: the diagnosis was incomplete, the protocol wasn't systematic enough, or the underlying structural problem was missed. Dr. Foss's SOT Advanced certification and 23 years of practice mean we often identify patterns other chiropractors miss—particularly dural tension and pelvic foundation issues that drive everything else.
+
+**Can regenerative therapies like SoftWave speed up my results?**
+Absolutely. SoftWave Therapy, Class IV Laser, and Shockwave Therapy accelerate tissue healing at a cellular level. For someone with disc degeneration, arthritis, or chronic tendon damage, adding regenerative therapies can cut recovery time by 30-50%. They work synergistically with structural correction.
+
+**What happens after corrective care is done? Do I need to keep coming back forever?**
+Corrective care has an end point—when the structural problem is fixed and stable. After that, maintenance care prevents regression. Most corrected patients transition to 1-2 visits per month. Some need less. The goal is to get you to a point where you're stable and then keep you there with minimal frequency.
+
 ## Ready to experience the difference?
 
 Dr. Dan Foss and the Pura Vida team are accepting new patients. Call us at **(210) 685-1994** or visit [puravidasanantonio.com](https://puravidasanantonio.com) to schedule your first visit. We're open Monday, Tuesday, and Thursday 7am–4pm at 2318 NW Military Hwy #103, San Antonio, TX 78231.

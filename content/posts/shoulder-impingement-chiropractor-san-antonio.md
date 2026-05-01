@@ -201,6 +201,23 @@ Dr. Dan Foss is bilingual (English/Spanish), advanced SOT certified, and highly 
 
 Our office at 2318 NW Military Hwy Suite 103, San Antonio TX 78231 provides a welcoming environment for shoulder pain patients. We offer convenient hours (Monday, Tuesday, Thursday 7:00am-4:00pm) to fit your treatment schedule.
 
+## Frequently Asked Questions
+
+**Does shoulder impingement always require surgery?**
+No. The vast majority of cases respond to conservative chiropractic care. Surgery is a last resort when conservative care hasn't worked after 12+ weeks. Most people improve significantly within 4-8 weeks with proper treatment.
+
+**My shoulder hurts when I raise my arm. How do I know if it's impingement?**
+The specific pattern — pain with forward or internal rotation but not necessarily global stiffness — suggests impingement. But a proper evaluation is the only way to know for sure. That's what I do in my initial assessment.
+
+**Can my cervical spine really cause shoulder impingement?**
+Absolutely. Cervical misalignments affect the nerves supplying the shoulder and rotator cuff muscles. C5-C6 problems are especially common in shoulder impingement. I address the spine as part of treating your shoulder.
+
+**What if I've had cortisone injections that only lasted a few weeks?**
+That tells me the mechanical problem — the actual compression — hasn't been fixed. Cortisone reduces inflammation temporarily but doesn't correct the postural dysfunction or spinal misalignment causing the impingement. Chiropractic addresses the root cause.
+
+**I've had this shoulder pain for a year. Is it too late to treat?**
+Not too late, but it will take longer. Chronic impingement means structural changes have happened and rotator cuff muscles have weakened. Recovery takes 12+ weeks instead of 4-8. But restoration is absolutely possible, even at a year duration.
+
 ## Reclaim Full Shoulder Function
 
 Shoulder impingement doesn't have to limit your life or prevent you from doing the activities you enjoy. Dr. Dan Foss at Pura Vida Chiropractic has the expertise and advanced techniques to help you overcome impingement and restore full shoulder function.

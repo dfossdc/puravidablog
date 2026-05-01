@@ -68,6 +68,23 @@ Pura Vida Quiropráctica atiende a pacientes de **Stone Oak, Alamo Heights, Leon
 
 ---
 
+## Preguntas Frecuentes
+
+**¿Cómo puede la quiropráctica ayudarme a manejar el estrés financiero?**
+El estrés financiero crónico causa tensión muscular crónica, especialmente en el cuello y los hombros. Esto interfiere con la función nerviosa y agrava el bienestar general. Nuestros ajustes restauran la función nerviosa, permitiendo que su cuerpo maneje mejor el estrés—literalmente reduciendo la respuesta del sistema nervioso a la ansiedad.
+
+**¿Ofrece planes de pago flexible para el tratamiento?**
+Sí. Entiendo que los tiempos son desafiantes. Ofrecemos planes de pago flexibles y superbills para que pueda trabajar con su asegurador. Ningún paciente debe sufrir sin tratamiento por razones financieras.
+
+**¿Cuál es el costo típico de una consulta inicial?**
+Su consulta inicial es completamente gratuita. Durante esa consulta evaluamos su condición y le proporcionamos un plan de tratamiento con costos claros. Después, trabajamos con usted para desarrollar un plan que se ajuste a su presupuesto.
+
+**¿La salud es realmente un lujo durante una crisis económica?**
+No. De hecho, es lo opuesto. Durante épocas difíciles, mantener su salud es crítico para poder trabajar y ganar ingresos. Posponer el cuidado de la salud generalmente resulta en problemas más caros más adelante. La quiropráctica preventiva es una inversión inteligente en su futuro financiero.
+
+**¿Puedo hacer algo en casa para mantenerme bien mientras ahorro para tratamiento?**
+Sí. Mantenga buena postura, duerma bien, manténgase hidratado, y haga estiramientos suaves diarios. Estoy disponible para recomendaciones específicas durante su consulta gratuita.
+
 ## ¿Listo para Sentirse Mejor? Reserve Su Consulta Gratis Hoy
 
 **[Pura Vida Quiropráctica](https://puravidasanantonio.com)**

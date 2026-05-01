@@ -202,4 +202,24 @@ If you're a new mother struggling with pain or dysfunction postpartum, you deser
 
 **Bilingual Services**: English and Spanish
 
+## Frequently Asked Questions
+
+**When is it safe to start chiropractic after delivery?**
+Usually immediately. Within the first few days if you had a straightforward vaginal delivery, or within the first 1-2 weeks if you had a cesarean. We assess your specific recovery stage and adjust technique accordingly. Early postpartum care can prevent many chronic problems, so there's no reason to wait.
+
+**Will chiropractic help my diastasis recti?**
+Chiropractic alone won't close the ab separation, but proper spinal and pelvic alignment supports the core muscles' ability to heal and function better. Many women find their diastasis improves faster when their pelvis is aligned and their core is supported properly. We can guide you on abdominal-strengthening work too.
+
+**Is it safe to get adjusted while breastfeeding?**
+Absolutely. No medications are used, techniques are gentle, and nothing passes into breast milk. Nursing while healing is actually ideal—proper spinal alignment can reduce shoulder and neck tension from nursing, which many new mothers experience.
+
+**How long until I can exercise again?**
+That depends on your delivery type and how your recovery is progressing. Generally, light walking can start immediately after vaginal delivery. More intense activity usually waits 6-12 weeks. We give you personalized guidance based on your assessment. Many mothers resume exercise much sooner when their pelvis is properly aligned and supported.
+
+**Will pelvic floor therapy help too?**
+Pelvic floor work and chiropractic are complementary. Proper pelvic bone alignment supports pelvic floor function. We work alongside pelvic floor therapists when needed. Some postpartum pain is structural (pelvis alignment), some is muscular (pelvic floor tension)—addressing both gives the best results.
+
+**I'm experiencing postpartum depression or anxiety. Can chiropractic help?**
+Chiropractic isn't a treatment for postpartum mood disorders, but spinal alignment, nervous system balance, and resolution of pain all support better mood and mental health. Normalizing nervous system function through cranial work can help. Combine chiropractic with mental health support—both matter.
+
 Call today to schedule your postpartum evaluation. Many new mothers are amazed at how quickly they feel better with proper chiropractic care. You've just accomplished something incredible—bringing a new life into the world. Now let us help you recover fully so you can enjoy this precious time with your baby without pain or limitation.

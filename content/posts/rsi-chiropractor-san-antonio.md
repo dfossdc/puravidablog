@@ -104,6 +104,23 @@ An essential component of RSI treatment involves modifying how you work and move
 
 Pura Vida Chiropractic maintains a **bilingual office** (English and Spanish), ensuring all patients can communicate comfortably with Dr. Foss and his team. We're conveniently located at **2318 NW Military Hwy Suite 103, San Antonio TX 78231** and offer office hours Monday, Tuesday, and Thursday from 7:00am-4:00pm.
 
+## Frequently Asked Questions
+
+**My doctor says I have carpal tunnel. Does that mean surgery is inevitable?**
+No. Surgery is the last resort when conservative care has failed. Most carpal tunnel responds well to chiropractic care that addresses cervical subluxations, thoracic outlet compression, and forearm muscle restrictions. I've helped many patients avoid surgery by addressing the actual cause. Try conservative care first.
+
+**How long does RSI take to recover?**
+Mild RSI — caught early — can improve in 2-4 weeks. Moderate RSI typically takes 6-12 weeks. Severe RSI or conditions that have gone untreated for years can take 3-6 months. The timeline depends on severity, how early you seek care, and how well you follow ergonomic recommendations. Consistency is key.
+
+**Can I keep working while being treated for RSI?**
+Yes, but strategically. I'll recommend ergonomic modifications, frequent breaks, and specific exercises. Sometimes reducing work hours temporarily accelerates healing. The goal is to modify your work so that you can continue working while healing occurs, not to stop working entirely.
+
+**If I change my ergonomics, will that alone fix my RSI?**
+Not if there's underlying structural dysfunction. Good ergonomics prevents future RSI and supports healing, but they don't correct the cervical or thoracic misalignments driving your current pain. You need structural correction alongside ergonomic improvements.
+
+**What's the difference between treating RSI at home versus seeing a chiropractor?**
+Home care — ice, stretching, ergonomic changes — can slow progress or prevent worsening, but it rarely resolves RSI completely. You need clinical assessment to identify the specific nerve pathway being compressed, plus manual intervention to release that compression. Home care supports treatment; it doesn't replace it.
+
 ## Don't Let RSI Control Your Life
 
 Repetitive strain injury significantly impacts your quality of life, ability to work, and overall wellbeing. The good news is that with proper chiropractic care addressing the root causes, most people recover fully and return to normal activities.

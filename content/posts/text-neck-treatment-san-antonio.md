@@ -52,6 +52,26 @@ Dr. Foss uses **SOT chiropractic** to address the full structural pattern create
 
 Lifestyle modification is part of the equation too. Dr. Foss advises patients on ergonomic phone and computer positioning, exercises to strengthen the deep cervical flexors, and movement breaks that interrupt the sustained loading on the cervical spine.
 
+## Frequently Asked Questions
+
+**Can the damage from text neck be reversed?**
+Yes, it depends on how long it's been present. Early-stage text neck—in teenagers and young adults—can be completely reversed with proper care. Patients in their 40s and 50s can achieve significant improvement and prevent further deterioration. The longer the structural changes have existed, the more correction requires, but improvement is still possible at any age.
+
+**Why can't I just fix my posture by sitting up straighter?**
+If your cervical spine has lost its natural curve from years of forward head posture, simply "sitting up" doesn't restore that curve. Your body has adapted to the new posture. Spinal correction requires active treatment—SOT adjustments addressing the full postural pattern from pelvis through cervical spine, not just conscious posture awareness.
+
+**Is text neck just a postural problem, or is it a real spinal condition?**
+It's a real structural condition. At 45 degrees of forward head tilt (the phone-looking angle), your cervical spine supports 49 pounds of force—5 times the normal load. Over time, this creates disc degeneration, loss of cervical curve (cervical kyphosis), chronic muscle tension, and nerve irritation. This is not just poor posture; it's a progressive spinal condition.
+
+**How long does text neck correction take?**
+Timeline depends on the severity and duration. Text neck caught early might improve significantly within 4-6 weeks. Long-standing text neck with loss of cervical curve requires longer—8-16 weeks or more for substantial correction. Consistency with treatment and lifestyle modifications is crucial.
+
+**Will my cervical curve come back if I stop treatment?**
+The spinal curve itself may not fully "bounce back" if it's been lost for years, but continued improvement and stabilization requires ongoing care or at minimum periodic maintenance. More importantly, the pain, tension, and functional limitations improve significantly and stay improved with proper care. Complete structural restoration depends on how advanced the degeneration is.
+
+**My teen has text neck. Should I be concerned?**
+Yes, this is actually good news because teenagers have the best prognosis for complete correction. Early intervention prevents the permanent structural changes that develop in adults. If caught young, text neck can be completely reversed with chiropractic care and lifestyle modification.
+
 ## The Earlier the Better
 
 Text neck-driven degeneration is progressive. The damage to discs and the loss of cervical curve don't reverse without active intervention — and the longer the structural changes have been present, the more correction requires. Teenagers and young adults who are caught early have the best opportunity for complete correction. Patients in their 40s and 50s can still achieve significant improvement and prevent further deterioration.

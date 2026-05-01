@@ -79,4 +79,24 @@ In San Antonio's Latina community, I see a particularly high number of women who
 - This approach complements — and does not replace — standard gynecological care
 - Women who have struggled with hormonal symptoms without adequate relief should know this neurological angle exists
 
+## Frequently Asked Questions
+
+**Can chiropractic really affect my menstrual cycle?**
+Yes. The autonomic nerve supply to your uterus and ovaries originates at L1-S4. When those segments are subluxated, the nerve signals governing your cycle become dysregulated. We've seen patients whose cycles normalize within 2-3 cycles of care, whose cramping diminishes dramatically, and whose PMS symptoms improve substantially. It takes time, but the changes are real.
+
+**How long before I notice improvement in my PMS or period pain?**
+Most women notice changes within 1-3 menstrual cycles. Cramping often improves first—many report reduced pain within the first 4-6 weeks. Hormonal symptoms like mood changes and bloating take slightly longer, usually 8-12 weeks, because they reflect deeper hormonal pattern shifts. Patience matters here.
+
+**Will chiropractic help my hot flashes?**
+Not directly—I can't control your estrogen levels. But chiropractic helps by restoring autonomic nervous system balance, which significantly affects the *severity* and *frequency* of hot flashes. Many menopausal patients report their flashes become less intense and less frequent as their nervous system shifts toward parasympathetic dominance. Some report a 50-75% reduction in flashes.
+
+**Do I need to keep seeing my OB-GYN while doing chiropractic?**
+Absolutely. Chiropractic is complementary, not a replacement. Your OB-GYN monitors your overall gynecological health, screens for serious pathology, and manages hormonal therapy if needed. I address the neurological piece that most gynecologists don't have training in. Both perspectives matter.
+
+**Is it safe to get chiropractic during my period?**
+Yes, completely safe. In fact, many women prefer to get adjusted during their period because they're more aware of their pelvic tension and can feel the release more clearly. There are no restrictions based on cycle timing. I will adjust my technique if you're experiencing severe cramping that day, but adjustment itself doesn't interfere with menstruation.
+
+**What about CMRT—does it help fertility?**
+It can support fertility indirectly. By normalizing the nerve supply to your reproductive organs, reducing pelvic tension, and lowering your baseline stress response, CMRT creates a better neurological environment for conception. It's not a fertility treatment in the medical sense, but it removes some of the structural barriers that interfere with normal reproductive function.
+
 If you've been managing PMS, menstrual pain, hormonal fatigue, or menopausal symptoms without lasting results, we'd love to have a conversation about whether the spinal component of your care has been addressed. Call Pura Vida Chiropractic at **(210) 685-1994**. We're at 2318 NW Military Hwy #103, San Antonio, TX 78231, and we see patients in both English and Spanish.

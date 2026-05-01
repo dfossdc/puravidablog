@@ -104,4 +104,26 @@ Whether your infant needs a post-birth assessment, your school-aged athlete is p
 
 **Call (210) 685-1994** or [book your free consultation online](https://puravidasanantonio.com/special/). Pura Vida Chiropractic is at 2318 NW Military Hwy. We serve Helotes, Shavano Park, Bandera area families, and all of San Antonio. English and Spanish spoken.
 
+## Frequently Asked Questions
+
+**Is chiropractic safe for infants and newborns?**
+Yes, absolutely. Pediatric chiropractic techniques are specifically designed to be safe for babies. We use very gentle touch—no high-velocity thrusts. Birth is traumatic for a baby's body, and gentle correction of cranial and spinal restrictions in the first weeks of life prevents many problems later. Many Helotes parents bring newborns in specifically for this reason.
+
+**At what age can kids start seeing a chiropractor?**
+From birth onwards. Newborns benefit from post-birth assessment to check for cranial restrictions and birth trauma. Toddlers, kids, teenagers—all can benefit. There's no minimum age, only appropriate techniques for each stage of development.
+
+**Will it hurt my child?**
+No. Pediatric adjustments are gentle and precise. Most kids find it relaxing. Younger children often sleep through adjustments. Older kids report feeling "better" and moving more smoothly. There's no pain involved.
+
+**How often does my Helotes kid need to come in?**
+That depends on their needs. For wellness and prevention, many families do monthly visits. For acute issues like recurrent ear infections, we recommend more frequent care initially—2-3 times per week for 6-8 weeks. Once problems resolve, most families maintain monthly or bi-monthly visits.
+
+**Will insurance cover pediatric chiropractic?**
+Most plans do, though coverage varies. We work with insurance when applicable and offer transparent pricing for families with high deductibles or without coverage. Call us to verify your specific plan.
+
+**Why do so many Helotes athletes see Dr. Foss?**
+Because they perform better and stay healthy. Better spinal alignment improves coordination, reaction time, and proprioception. Kids recover faster from minor injuries. They spend less time on the sidelines. For young athletes in soccer, equestrian, dance—the difference is measurable and worth the investment.
+
+**Call (210) 685-1994** or [book your free consultation online](https://puravidasanantonio.com/special/). Pura Vida Chiropractic is at 2318 NW Military Hwy. We serve Helotes, Shavano Park, Bandera area families, and all of San Antonio. English and Spanish spoken.
+
 See also: [Pediatric Chiropractor San Antonio](/en/posts/pediatric-chiropractor-san-antonio), [Sports Performance and Chiropractic: A Parent's Guide](/en/posts/), [Chronic Ear Infections in Children: Why Chiropractic Works](/en/posts/how-does-chiropractic-help-with-kids-with-chronic-ear-infections)

@@ -103,6 +103,26 @@ Lo que no haremos es exagerar la cantidad de visitas necesarias. Nuestra meta es
 
 *"No sabía que existía un quiropráctico que hablara español tan bien. Me hizo sentir como en casa."* — Esmeralda D.
 
+## Preguntas Frecuentes
+
+**¿Tengo que traer radiografías de otras clínicas a mi primera cita?**
+No es obligatorio, pero sí es muy útil. Si tiene radiografías recientes o resultados de MRI de otros proveedores, tráigalos. Nos ayuda a entender su caso más completamente. Si no tiene, no hay problema — el Dr. Foss puede solicitar radiografías durante su evaluación inicial si las considera necesarias.
+
+**¿Cuánto cuesta la primera visita?**
+La evaluación inicial es completamente gratuita. No hay cargo por el examen, la explicación del diagnóstico, o la consulta sobre opciones de tratamiento. Si procede con el tratamiento, discutiremos los costos y opciones de pago en ese momento. Aceptamos seguros médicos y ofrecemos planes de pago flexible para pacientes sin seguro.
+
+**¿Debo ir durante mi hora de almuerzo o necesito un tiempo de recuperación?**
+La mayoría de los pacientes pueden regresar inmediatamente a sus actividades normales. No es necesario un tiempo de recuperación. Algunos pacientes sienten un poco de sensibilidad temporal, pero nada que los detenga de volver al trabajo o sus actividades. Puede venir en su hora de almuerzo sin problema.
+
+**¿Qué pasa si tengo miedo de los "chasquidos" o "clics"?**
+Entiendo el miedo. Si es extremadamente sensible a estos sonidos, el Dr. Foss puede usar técnicas alternativas que no producen chasquidos, como la técnica de presión suave o el ajuste activador. Cuéntele al Dr. Foss en la cita y él adaptará su enfoque. Lo más importante es que usted se sienta cómodo.
+
+**¿Necesito llevar información de seguros médicos a mi primera cita?**
+No es estrictamente necesario para la evaluación inicial. Pero sí es útil traer su información de seguros si tiene uno. Nos ayuda a verificar su cobertura y a procesar la facturación correctamente. Si no tiene seguro, eso no es un problema — ofrecemos atención a todos.
+
+**¿Puede asistir mi pareja o familiar a la cita?**
+Absolutamente. Si se siente más cómodo teniendo a alguien con usted, bienvenido. De hecho, para pacientes pediátricos, es necesario que un padre o tutor esté presente. Para adultos, su pareja o familiar puede acompañarlo y estar presente durante toda la evaluación.
+
 ## Artículos Relacionados
 
 - [¿Qué es una Subluxación Vertebral?](/es/blog/subluxacion-vertebral-que-es-quiropractico)

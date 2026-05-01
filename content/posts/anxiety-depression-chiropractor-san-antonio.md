@@ -226,6 +226,23 @@ He approaches anxiety and depression as problems involving the physical nervous 
 
 Anxiety and depression are complex conditions benefiting from comprehensive, integrated treatment. With proper psychiatric care combined with nervous system optimization through chiropractic care, most patients experience significant improvement in emotional wellbeing and quality of life.
 
+## Frequently Asked Questions
+
+**Can chiropractic care replace my antidepressants or anti-anxiety medication?**
+No—chiropractic care is complementary, not a replacement for psychiatric treatment. If you're on medication, keep taking it and discuss chiropractic care with your prescribing doctor. Many patients find that as their nervous system optimizes through chiropractic care, their doctor can gradually adjust medication dosages, but that decision is always made by your psychiatrist, not your chiropractor.
+
+**How does chiropractic actually help anxiety if anxiety is a mental health problem?**
+Anxiety isn't just psychological—it's also a nervous system dysfunction. Cervical misalignments restrict vagus nerve function, keeping you locked in sympathetic (fight-or-flight) activation. I use SOT and cranial adjustments to restore parasympathetic tone, allowing your body to calm down. Combined with therapy and medication, this creates real nervous system change.
+
+**How many visits will I need before I feel less anxious?**
+Most patients notice changes within 2-4 weeks of consistent care, typically starting with better sleep and reduced physical tension. Meaningful mood improvement usually takes 8-12 weeks as the nervous system reorganizes. I always recommend at least a 12-week trial with proper SOT and cranial protocols before deciding if it's working for you.
+
+**Is chiropractic care safe if I'm also in therapy and taking medication?**
+Absolutely. Chiropractic care complements both therapy and medication. In fact, I encourage you to keep working with your therapist and psychiatrist while you're getting adjusted. The combination of cognitive work, medication optimization, and nervous system restoration through chiropractic care creates synergy—each modality supports the others.
+
+**Do you take insurance, or is this cash-only?**
+We accept most insurance through superbills, meaning you pay at the visit and submit for reimbursement. If you'd rather verify benefits first or discuss cost, call **(210) 685-1994** for a free consultation. I believe mental health support shouldn't be a financial barrier.
+
 If you're suffering from anxiety or depression in San Antonio and interested in comprehensive care addressing the nervous system foundation of mental health, contact **Dr. Dan Foss, DC at Pura Vida Chiropractic** today. Call **(210) 685-1994** to discuss how chiropractic care might support your mental health treatment plan.
 
 Our bilingual office is conveniently located at **2318 NW Military Hwy Suite 103, San Antonio TX 78231** with office hours Monday, Tuesday, and Thursday from 7:00am-4:00pm. Let Dr. Foss help you optimize your nervous system and support your journey toward greater emotional health and resilience.

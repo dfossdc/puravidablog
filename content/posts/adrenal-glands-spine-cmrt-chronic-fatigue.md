@@ -79,4 +79,21 @@ You don't have to accept that exhaustion is just who you are now. There's often 
 - Lifestyle support — sleep, blood sugar stability, stress reduction — amplifies and sustains the structural work
 - Adrenal fatigue is not a life sentence; addressing the neurological piece often produces meaningful improvements in energy and resilience
 
+## Frequently Asked Questions
+
+**How do I know if my fatigue is related to my adrenals rather than something else?**
+Classic adrenal fatigue shows a specific pattern: difficulty waking despite 8+ hours of sleep, a crash in the afternoon around 2-3 PM, a second wind too late at night, and difficulty tolerating even minor stressors. You might also crave salt or have trouble recovering from illness. While labs can show hormonal dysregulation, the spine is what most doctors miss — that's where I start.
+
+**Can chiropractic care fix adrenal fatigue, or do I need other treatments too?**
+Chiropractic addresses the neurological piece — removing the nerve interference at T9-T11 that's blocking proper adrenal signaling. But your adrenals also need the lifestyle conditions to recover: real sleep, stable blood sugar, and genuinely protected rest time. CMRT opens the door; you have to walk through it with good sleep and stress management. Most of my patients see their best results when we work together on both.
+
+**How long does it take to feel better?**
+Many patients notice improved energy within 2-4 weeks, especially with consistent visits and good lifestyle practices. But full adrenal recovery from months or years of depletion takes 8-12 weeks. I've also seen patients who felt a shift within days — everyone's timeline is different. What matters is that the trajectory changes: you wake less exhausted, afternoons are less brutal, and you tolerate stress without being flattened by it.
+
+**Is this safe during pregnancy, and will it affect my ability to nurse?**
+Yes, the CMRT adrenal protocol is safe during pregnancy and after. In fact, addressing adrenal stress before or early in pregnancy reduces postpartum exhaustion significantly. The work is gentle — just soft tissue contact on your abdomen and spinal adjustments. Zero risk to the baby or your milk supply.
+
+**Do I still need to see my doctor, and will chiropractic interfere with my medications?**
+Absolutely keep seeing your doctor. If you're on thyroid medication, cortisol replacement, or other hormonal support, that's important and I won't interfere with it. Chiropractic and medical care work in parallel. Many of my patients eventually reduce their supplement dose as their adrenal function improves, but that's a conversation with your physician based on follow-up labs.
+
 If chronic fatigue, morning exhaustion, or poor stress tolerance has been limiting your life, let's take a look at the structural piece of the puzzle. Call Pura Vida Chiropractic at **(210) 685-1994**. We're at 2318 NW Military Hwy #103, San Antonio, TX 78231, and we offer care in both English and Spanish.

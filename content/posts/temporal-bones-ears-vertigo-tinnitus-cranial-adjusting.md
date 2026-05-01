@@ -92,4 +92,24 @@ I've had patients tell me after cranial adjusting that the tinnitus dropped in v
 - Temporal bone adjusting uses extremely gentle, direction-of-ease contacts to release cranial dural restrictions and restore normal CN VIII function.
 - BPPV (crystal-related vertigo) responds best to vestibular repositioning; mechanical temporal bone vertigo responds to cranial adjusting.
 
+## Frequently Asked Questions
+
+**Can temporal bone adjusting really stop tinnitus?**
+It depends on the cause. If tinnitus is from mechanical CN VIII compression due to temporal bone restriction, yes—restoring temporal bone motion often reduces or resolves ringing. If tinnitus is from inner ear disease or other causes, chiropractic may not help. A thorough evaluation can determine whether the mechanical component is likely involved in your case.
+
+**Is cranial adjusting safe for children with ear infections?**
+Absolutely. It's extremely gentle—no forceful manipulation whatsoever. In fact, many Helotes parents bring children specifically for this because restoring normal Eustachian tube drainage prevents the infection cycles that plague so many kids. It's one of the most rewarding treatments I perform.
+
+**How many visits does it take to see improvement in vertigo or tinnitus?**
+For mechanical temporal bone restriction, many patients notice change within 1-3 visits. But complete stabilization typically requires 4-6 weeks of regular care. Tinnitus that has been present for years takes longer to resolve than recent-onset problems. Patience is important, but improvement usually comes relatively quickly.
+
+**What if I've had my tinnitus or balance problems for years?**
+Chronic conditions take longer to resolve, but they're absolutely worth addressing. Nerves have remarkable healing capacity even after years of compression. It may take 8-12 weeks instead of 4-6, but meaningful improvement is realistic. The longer something has been wrong, the more relief feels worth the investment.
+
+**Do I need imaging (MRI or CT) before cranial adjusting?**
+Not necessarily. A thorough clinical assessment can identify temporal bone restriction and warrant treatment. Imaging can be valuable to rule out serious pathology, but it's not required to begin safe, effective cranial work. If unusual findings appear during evaluation, I'll recommend imaging.
+
+**Can temporal bone issues be related to my TMJ problems?**
+Absolutely. The temporal bone forms the TMJ socket. Temporal bone misalignment directly affects jaw function and can contribute to TMJ pain and dysfunction. Conversely, chronic TMJ problems can stress the temporal bone. Addressing both often produces better results than treating the jaw alone.
+
 If you or your child has been dealing with recurrent ear infections, unexplained vertigo, tinnitus, or balance disturbances, a temporal bone cranial evaluation may be the answer nobody has offered yet. Call Pura Vida Chiropractic at **(210) 685-1994**. We're at 2318 NW Military Hwy #103, San Antonio, TX. Se habla español.

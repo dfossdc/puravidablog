@@ -102,6 +102,23 @@ Durante 23 años, el Dr. Foss ha cuidado a miles de niños del corredor de Milit
 
 Es bilingüe (inglés y español), experimentado con comunidades militares diversas, y flexible con horarios y planes de cuidado que se ajusten a la vida militar. No es solo un quiropractico que atiende niños — es un especialista pediátrico con capacitación avanzada en ajuste craneal, SOT, y cuidado del desarrollo, combinado con comprensión de consideraciones de cuidado de salud militar.
 
+## Preguntas Frecuentes
+
+**¿Por qué la quiropráctica pediátrica es importante temprano en la vida?**
+El primer año de vida es cuando el desarrollo neurológico es más rápido y el cuerpo es más adaptable. Las interferencias nerviosas (subluxaciones) durante este período pueden afectar el desarrollo del cerebro, sistema inmunológico, y función gastrointestinal. Abordar esto temprano tiene beneficios de por vida.
+
+**¿Qué diferencia hay entre mis ajustes de adulto y los de mi hijo?**
+Profundidad, fuerza, y presión son completamente diferentes. Los ajustes pediátricos usan presión ligera—a menudo apenas visible. La columna infantil es más maleable, así que requiere mucho menos fuerza. El cuidado pediátrico es una especialidad—no es simplemente un ajuste de adulto más suave.
+
+**¿Cuál es la conexión entre quiropráctica pediátrica e infecciones de oído?**
+Las infecciones de oído frecuentemente son causadas por drenaje Eustaquiano pobre, que es controlado por el nervio vago. Cuando la columna cervical superior (especialmente Atlas) está desalineada, irrita el nervio vago. Los ajustes restauran el drenaje, eliminando infecciones recurrentes sin antibióticos.
+
+**¿Ofrece servicios especializados para niños con TDAH o necesidades especiales?**
+Sí. He trabajado extensamente con niños TDAH y trastornos del desarrollo. La quiropráctica especializada puede mejorar la función ejecutiva, la regulación sensorial, y el comportamiento. Cada niño es único, así que desarrollo planes personalizados basados en su diagnóstico específico.
+
+**¿Cuál es la edad máxima para cuidado pediátrico quiropráctica?**
+No hay edad máxima, pero técnicamente es "pediátrico" hasta aproximadamente 18 años cuando las epífisis cierran y la columna alcanza madurez estructural. Sin embargo, ofrezco "Junior Care" hasta los 21 años con técnicas especialistas apropiadas para adultos jóvenes.
+
 ## ¿Listo para Experimentar Cuidado Pediátrico Especializado?
 
 Ya sea que su recién nacido necesite evaluación de restricciones relacionadas con el parto, su hijo está luchando con infecciones de oído o problemas digestivos, su familia se está preparando para despliegue, o simplemente quiere asegurar que el sistema nervioso de su hijo está óptimamente alineado, estamos justo aquí en Military Drive — sin commute, sin molestia.

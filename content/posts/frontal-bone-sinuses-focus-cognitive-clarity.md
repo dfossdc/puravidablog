@@ -71,4 +71,21 @@ For children, the technique is modified to be even gentler, using finger pad con
 - In children, frontal restriction from birth trauma may underlie learning difficulties and ADHD-like symptoms that are otherwise unexplained.
 - The frontal lift technique is a gentle, specific cranial adjustment that restores frontal bone mobility and often produces rapid improvement in sinus and cognitive symptoms.
 
+## Frequently Asked Questions
+
+**Can a cranial problem actually affect my ability to focus and concentrate?**
+Yes. Your prefrontal cortex — the center of focus and decision-making — sits directly behind your frontal bone. When the frontal bone is restricted, it changes the mechanical tension on that brain tissue and can reduce blood flow and cerebrospinal fluid circulation to that area. Most people describe their thinking as clearer immediately after the frontal bone is released. It's one of the most dramatic changes in my practice.
+
+**My child has been evaluated for ADHD. Should I try cranial work before medication?**
+ADHD may have multiple causes, and I'm not suggesting a cranial problem is the only explanation. But frontal bone restriction is a correctable physical finding that may be contributing to your child's difficulty with focus, impulse control, or emotional regulation. Since a cranial evaluation is non-threatening and takes only a few minutes, it's worth ruling in or out before pursuing other interventions. Your child's neurologist or pediatrician can do their evaluation; I can do mine.
+
+**My sinuses are chronically congested despite antibiotics and nasal sprays. Can the frontal bone cause that?**
+Absolutely. If the frontal bone is restricted and compressing the frontonasal duct — the drainage channel for the frontal sinuses — mechanical pressure is partially blocking drainage. No antibiotic or spray addresses mechanical obstruction. Once the frontal bone mobility is restored, drainage often improves dramatically, sometimes within days.
+
+**Is the frontal lift safe for children?**
+Completely safe. The technique is extremely gentle — I use fingertip contact with minimal pressure. It's actually calming for children, and many fall asleep during the treatment. There's no popping, no thrusting, no discomfort. If your child has been struggling at school or has chronic sinus problems, this evaluation is worth having.
+
+**How quickly does my thinking improve after a frontal lift?**
+Most patients describe improved mental clarity within days. Some notice it immediately following the treatment. For children struggling with focus, parents often see behavioral and attention improvements within 1-2 weeks of treatment. Chronic sinus congestion typically improves within several days to a week.
+
 If you or your child struggles with chronic sinus problems, difficulty concentrating, or unexplained cognitive fog, the frontal bone may be involved. Call Pura Vida Chiropractic at **(210) 685-1994** to schedule an evaluation with Dr. Dan Foss. Serving San Antonio in English and Spanish — *hablamos español*.

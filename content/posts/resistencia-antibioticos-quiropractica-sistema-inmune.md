@@ -100,6 +100,23 @@ Muchos pacientes ven mejora en la frecuencia con que se enferman dentro de las p
 
 Somos bilingües — inglés y español — y atendemos a pacientes de Stone Oak, Castle Hills, Alamo Heights, Helotes y todo San Antonio.
 
+## Preguntas Frecuentes
+
+**¿Cómo está conectado el sistema inmunológico a la alineación espinal?**
+El sistema inmunológico es controlado por el nervio vago y el sistema nervioso simpático—ambos salen de la columna. Cuando la columna está desalineada, interfiere con la función inmunológica. Una columna alineada = un sistema inmune más fuerte. Es tan simple como eso.
+
+**¿Puede la quiropráctica realmente prevenir necesidad de antibióticos?**
+Frecuentemente sí. Muchas infecciones ocurren porque el sistema inmune es débil—resultado de interferencia nerviosa. Optimizar la función inmunológica quiroprácticamente previene infecciones en primer lugar. Cuando la infección ocurre en alguien con inmunidad fuerte, típicamente se resuelve más rápido.
+
+**¿Cuál es el rol de la resistencia antibiótica exactamente?**
+Cuando se prescribe excesivamente, los antibióticos matan bacterias sensibles pero permiten que las resistentes sobrevivan y se multipliquen. Finalmente, las bacterias resistentes dominan. El resultado: infecciones que no responden a ningún antibiótico. Prevención mediante inmunidad fuerte es la solución.
+
+**¿Cómo la quiropráctica fortalece específicamente el sistema inmune?**
+SOT y CMRT comunican con el sistema inmunológico a través del sistema nervioso parasimpático (el nervio vago). Esto aumenta producción de células B y T, mejora respuesta inflamatoria, y optimiza la presentación de antígenos. La medicina convencional no tiene herramientas para hacer esto—es único a la quiropráctica.
+
+**¿Cuánto tiempo tarda la optimización del sistema inmune quiropráctico?**
+Mejoras inmunológicas comienzan dentro de 2-3 semanas. Sin embargo, la optimización completa requiere 8-12 semanas de ajustes consistentes. Después, los ajustes mensuales preventivos mantienen la inmunidad óptima de por vida.
+
 ## ¿Listo para Construir Verdadera Inmunidad?
 
 Los antibióticos tienen su lugar. Pero no son su primera línea de defensa, y ciertamente no son una estrategia a largo plazo.

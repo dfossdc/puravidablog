@@ -68,7 +68,22 @@ The Pura Vida Protocol works because it treats people, not diagnoses. Every pati
 
 Dr. Foss spent over two decades refining this system — not from a textbook, but from 23 years of clinical experience and thousands of patient outcomes. The result is a methodology that consistently produces the results patients are looking for: less pain, better function, and lasting health.
 
----
+## Frequently Asked Questions
+
+**Is the Pura Vida Protocol just another name for regular chiropractic?**
+No. Regular chiropractic focuses on the area that hurts. The Pura Vida Protocol uses SOT to identify the underlying pattern creating your symptoms — which is usually somewhere else. If your neck hurts, the problem might be your pelvis. We fix the pattern, not just the squeaky joint. That's the difference.
+
+**How long does the Pura Vida Protocol take to work?**
+Most patients notice pain relief within 2-3 visits. Structural correction — restoring alignment so the problem doesn't return — takes longer, typically 8-12 weeks. The timeline depends on how long you've had the problem and how well you follow the plan. But the pain relief comes fast; lasting change takes patience.
+
+**Do I need imaging or special tests before starting the protocol?**
+Not necessarily. I do a thorough clinical evaluation that tells me what I need to know. If imaging would be helpful — an X-ray, MRI, etc. — I'll recommend it. But many patients get excellent results without imaging because my examination is that specific about what's wrong.
+
+**Is the Pura Vida Protocol expensive?**
+The initial evaluation is your biggest investment. After that, corrective care involves regular visits that your insurance may cover partially. Regenerative therapies like laser or shockwave are additional, but only when clinically appropriate. I'm transparent about costs and discuss options with you.
+
+**What if I've already tried chiropractic elsewhere and it didn't work?**
+That tells me they likely missed the pattern. Maybe they adjusted the painful spot but didn't address what caused that spot to go out. SOT looks at the whole system. Many patients who haven't improved elsewhere see significant progress once the actual pattern is identified and corrected.
 
 ## Ready to experience the difference?
 

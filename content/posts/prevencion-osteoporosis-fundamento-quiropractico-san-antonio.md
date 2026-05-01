@@ -123,6 +123,23 @@ Si está preocupado por la osteoporosis o desea tomar un enfoque proactivo de la
 
 Somos bilingües — inglés y español — y servimos a pacientes de **Stone Oak, Castle Hills, Alamo Heights, Helotes** y en toda el área de San Antonio.
 
+## Preguntas Frecuentes
+
+**¿A qué edad debo comenzar a pensar en prevención de osteoporosis?**
+Comience en sus 20s y 30s. La densidad ósea pico se alcanza alrededor de los 30, luego comienza a disminuir naturalmente. Las mujeres pierden densidad ósea acelerada durante la menopausia. Comenzar temprano con nutrición, ejercicio, y quiropráctica preventiva es mucho más efectivo que esperar hasta tener osteoporosis diagnosticada.
+
+**¿Cuál es el rol de la quiropráctica específicamente en prevención?**
+La quiropráctica mantiene la alineación espinal óptima, permitiendo que sus huesos se sometan a estrés mecánico saludable que estimula la remodelación ósea. Además, una columna alineada optimiza la absorción de nutrientes y la función hormonal—ambas críticas para salud ósea.
+
+**¿El calcio es realmente suficiente para prevenir osteoporosis?**
+No. Aunque el calcio es importante, magnesio, vitamina D, vitamina K, fósforo, y hasta boron son igualmente críticos. Además, demasiado calcio sin suficiente magnesio puede crear problemas. Abordar la salud ósea holísticamente es más efectivo que enfocarse en un nutriente.
+
+**¿El ejercicio de carga necesariamente significa correr?**
+No. Caminar, tai chi, entrenamiento de resistencia con pesas, incluso saltar cuerda—todo cuenta como ejercicio de carga que estimula el hueso. La clave es consistencia, no intensidad. Personalizaré recomendaciones de ejercicio basadas en su edad y capacidad actual.
+
+**¿Necesito un scan DEXA para conocer mi riesgo de osteoporosis?**
+Un scan DEXA (absorciometría de rayos X de energía dual) es útil si tiene factores de riesgo—menopausia, antecedentes familiares, sedentarismo. Sin embargo, incluso sin escaneo, mantener buena nutrición, ejercicio consistente, y ajustes quiroprácticos preventivos es beneficioso.
+
 ## ¿Listo Para Construir Huesos Más Fuertes?
 
 La osteoporosis es prevenible, e la intervención temprana importa. Ya sea que esté preocupado por la densidad ósea, recuperándose de una fractura, o simplemente quiera envejecer con confianza y fuerza, la atención quiropráctica enfocada en alineación y salud del sistema nervioso es una de las inversiones más valiosas que puede hacer.

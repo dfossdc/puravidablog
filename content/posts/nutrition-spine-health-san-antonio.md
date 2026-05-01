@@ -56,6 +56,23 @@ These changes, sustained consistently, create a measurably different inflammator
 
 Nutrition isn't the whole picture. But it's a piece of the picture that most patients with chronic pain have never addressed. That's a significant missed opportunity.
 
+## Frequently Asked Questions
+
+**How quickly will nutrition changes actually improve my back pain?**
+Most patients notice changes within 2-3 weeks as systemic inflammation decreases. The more inflammatory your current diet is, the more dramatic the change. Some patients see meaningful pain reduction just from switching to better oils and adding omega-3s. Complete healing requires consistent dietary support for weeks to months, but you'll feel the difference much sooner—better sleep, less morning stiffness, less muscle tightness.
+
+**Do I really have to cut out all the foods I like, or can I just fix the big things?**
+You don't have to overhaul overnight. Start with the highest-impact changes: replace industrial cooking oils, add fatty fish twice a week, add magnesium at bedtime, and reduce refined carbohydrates where you can. Consistency matters more than perfection. Most of my patients see meaningful improvement without feeling deprived because the foods that truly support healing—quality proteins, vegetables, olive oil—actually taste better and feel more nourishing.
+
+**Can nutrition actually fix a bulging disc or arthritis, or is it just for inflammation?**
+Nutrition can't magically reverse structural damage, but it creates an environment where damaged tissues heal much more effectively. Combined with chiropractic treatment to restore alignment, nutrition dramatically speeds recovery and prevents progression. I see patients with disc degeneration and arthritis experience significant improvement when they combine spinal care with anti-inflammatory nutrition.
+
+**What if I have a limited budget—should I prioritize expensive supplements or dietary changes?**
+Dietary changes are more impactful than supplements and cost less. Switching from seed oils to olive oil and eating cheaper fish like sardines and canned salmon are the highest-impact, most affordable moves. Magnesium and vitamin D supplements are inexpensive and worth it. Skip expensive proprietary blends and focus on the fundamentals: whole foods, good oils, omega-3s, and basic nutrients.
+
+**Will my insurance cover nutritional counseling from a chiropractor?**
+Some plans do; many don't. I provide basic nutritional guidance for spinal health as part of comprehensive care without an additional charge. If you want detailed meal planning or advanced nutritional counseling, I can refer you to a qualified nutritionist. Either way, the dietary principles I recommend are straightforward enough that most patients implement them immediately without extensive counseling.
+
 ---
 
 ## Ready to experience the difference?

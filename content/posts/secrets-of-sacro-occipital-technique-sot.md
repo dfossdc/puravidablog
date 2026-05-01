@@ -91,6 +91,20 @@ I am the only Advanced SOT-certified chiropractor in San Antonio.
 
 That is not a marketing claim — it is a verifiable fact. I pursued this level of training because the system warranted it. After discovering SOT at Western States Chiropractic College, after watching what CMRT and cranial work could do for patients who had exhausted their other options, I was not interested in knowing half of it. Twenty-three years later, I am still learning — because a system this comprehensive, developed over 60 years by one of the most rigorous researcher-clinicians chiropractic has ever produced, reveals new layers the longer you work with it.
 
+## Frequently Asked Questions
+
+**What's the difference between SOT and what my regular chiropractor does?**
+Most chiropractic is spine-focused. SOT is whole-system medicine that addresses organs, the entire dural tube from skull to sacrum, and hidden reflex patterns that keep problems recurring. If you've been adjusted for years with temporary relief, SOT probably addresses the piece that's been missing—the organ-spinal connection or cranial component driving the problem.
+
+**Does SOT work for chronic problems that haven't responded to other chiropractic?**
+Absolutely. SOT specializes in complex, chronic, recurring problems. If standard chiropractic hasn't held or your problem involves multiple systems, SOT is designed for exactly that. The organ-spinal and cranial-spinal connections are usually what's been overlooked.
+
+**Is SOT safe for pregnant women, kids, or elderly patients?**
+Extremely safe. SOT uses gravity and body weight for correction, not force or impulse. It's the gentlest technique available, which is precisely why it works so well for fragile populations—pregnant women, infants, elderly, osteoporosis patients, disc herniations. Safety is built into the method.
+
+**Why is Advanced SOT so rare, and does it really matter?**
+Advanced certification requires years of post-doctoral study in a system that took DeJarnette 60 years to develop. It's not quick or easy, so most chiropractors don't pursue it. But it matters tremendously because Advanced SOT includes organ therapy (CMRT) and advanced cranial work that standard SOT doesn't. I'm the only Advanced SOT chiropractor in San Antonio.
+
 ## Key Takeaways
 
 - SOT includes a complete organ therapy system (CMRT) that addresses viscero-somatic reflexes — the hidden reason why some vertebrae keep going out in the same spot.

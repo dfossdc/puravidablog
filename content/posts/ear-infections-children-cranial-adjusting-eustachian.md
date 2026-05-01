@@ -71,6 +71,23 @@ Recurrent ear infections are common across all demographics, but access to infor
 
 I want those families to know that this option exists, that it is gentle and safe, and that it is available at Pura Vida Chiropractic in both English and Spanish. Your child does not have to stay on this cycle.
 
+## Frequently Asked Questions
+
+**Why does my child keep getting ear infections when other kids don't, and will they outgrow it?**
+Many children do outgrow recurrent ear infections as their skull develops and the Eustachian tube angles downward—usually by age 5-7. But some children have persistent temporal bone torque from birth trauma that prevents normal drainage even as they grow. These children can get infections for years without intervention. The good news is that correcting the temporal bone position often resolves the whole cycle rather than waiting years for nature to take its course.
+
+**Is cranial adjusting safe for young children and infants with ear infections?**
+Absolutely. Pediatric cranial adjusting uses only light finger pressure—no force, no manipulation. Infants and toddlers find it deeply relaxing; many fall asleep during treatment. The technique is gentle enough for newborns and specific enough to address temporal bone torque effectively. I see infants as young as a few weeks old if birth trauma is suspected.
+
+**Will cranial adjusting prevent ear infections, or will my child still get some?**
+Most children see significant improvement within 3-6 sessions—infections become less frequent and less severe. Some children have no further infections after a course of care. Results vary based on how long the pattern has persisted and the severity of the temporal bone torque. I'm honest about what chiropractic can accomplish: I address the structural problem, but whether your child remains completely infection-free depends on multiple factors including immune function and environmental exposures.
+
+**Should I still see my pediatrician while pursuing cranial adjusting, or are they separate?**
+Continue working with your pediatrician. If your child has an active ear infection, your doctor should evaluate it. Cranial adjusting prevents infections and improves drainage, but it's not an antibiotic alternative for an infection in progress. I communicate openly with pediatricians in San Antonio; we're working toward the same goal—your child's health.
+
+**How many visits will my child need, and how much does it cost?**
+Most children with chronic ear infections benefit from 3-6 sessions over 3-6 weeks. We accept insurance through superbills, and you can call **(210) 685-1994** for a free consultation to discuss costs and what to expect. If your child's insurance might cover it, I'll help you understand your benefits before we start.
+
 ## Key Takeaways
 
 - Children get more ear infections than adults because their Eustachian tubes are nearly horizontal, making drainage harder.

@@ -84,6 +84,26 @@ Para obtener los mejores resultados, combine el cuidado quiropráxico con los fu
 
 Cuando estas piezas trabajan juntas, el cambio metabólico real sucede.
 
+## Preguntas Frecuentes
+
+**¿Puede la quiropráctica curar la diabetes?**
+No, la quiropráctica no puede curar la diabetes. Sin embargo, por optimizar la función del páncreas, mejorar la regulación del azúcar en sangre, y reducir el estrés que afecta los niveles de azúcar, muchos pacientes notan mejora en control. Algunos pueden reducir medicamentos bajo supervisión médica, pero esto requiere coordinación con su endocrinólogo.
+
+**¿Debería dejar la insulina si recibo tratamiento quiropráctica?**
+Nunca deje medicamentos prescritos sin consultar a su médico. La quiropráctica es complementaria, no un reemplazo para insulina u otros medicamentos diabéticos. El Dr. Foss coordina directamente con su endocrinólogo para asegurar atención integrada.
+
+**¿Cómo afecta exactamente el páncreas a la columna?**
+El páncreas está inervado por nervios que salen de la columna torácica inferior. Cuando los huesos vertebrales en esta área están desalineados, pueden interferir con los nervios que controlan la función pancreática y la producción de insulina. Restaurar la alineación ayuda a restaurar la función.
+
+**¿Cuánto tiempo toma ver mejora en control de azúcar?**
+Algunos pacientes notan cambios en 2-4 semanas, mientras que otros pueden tomar 2-3 meses. Es importante que mantenga registro de sus niveles de azúcar en sangre y comparta datos con su médico. Los cambios pueden ser graduales, pero son acumulativos.
+
+**¿Funcionará si tengo diabetes tipo 1 o tipo 2?**
+La quiropráctica puede beneficiar ambos tipos, aunque de formas diferentes. Tipo 2 (donde hay resistencia a la insulina) frecuentemente mejora con optimización pancreática. Tipo 1 (donde el páncreas no produce insulina) también puede beneficiarse de optimización nerviosa, aunque los resultados pueden ser más modestos.
+
+**¿Qué es CMRT exactamente y cómo ayuda con diabetes?**
+CMRT (Chiropractic Manipulative Reflex Technique) es una técnica que optimiza la función de órganos específicos a través de manipulación quiropráctica de puntos reflejos relacionados. Para diabetes, el Dr. Foss usa CMRT para optimizar directamente la función pancreática, mejorando la producción y utilización de insulina.
+
 ## ¿Listo para Abordar el Lado Espinal-Sistema Nervioso de la Diabetes?
 
 Si está viviendo con pre-diabetes, diabetes tipo 2, o síndrome metabólico en San Antonio, su columna puede ser una pieza del rompecabezas que nunca ha explorado. Sirvo a pacientes de Stone Oak, Castle Hills, Alamo Heights, y Helotes.

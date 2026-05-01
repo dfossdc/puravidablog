@@ -135,6 +135,23 @@ Muchos pacientes en San Antonio que llegaron a Pura Vida Quiropráctica con disf
 
 Más importante aún, el alivio es duradero porque la causa raíz ha sido tratada.
 
+## Preguntas Frecuentes
+
+**¿Cómo está conectada la mandíbula a mi cuello y espalda?**
+La mandíbula, el cuello, y la espalda están conectados a través del sistema nervioso trigémino (nervio craneal V) y cervical (C1-C3). Disfunción de mandíbula causada problemas cervicales. Inversamente, problemas cervicales agravan TMJ. Tenemos que abordar todo el sistema—no solo la mandíbula.
+
+**¿Puedo resolver TMJ solo con fisioterapia mandibular?**
+Frecuentemente no. Si el problema es primariamente cervical, fisioterapia mandibular fracasará. Necesita alineación cervical óptima primero. Muchos pacientes vienen a mí después de meses de terapia mandibular infructuosa, y resolvemos TMJ abordando el cuello.
+
+**¿Cuánto tiempo tarda el tratamiento de TMJ?**
+Algunos pacientes mejoran en 3-4 semanas. Otros requieren 8-12 semanas. Los casos crónicos pueden requerir tiempo más largo. La clave es abordar la causa—si es cervical, la quiropráctica cervical lo resuelve rápidamente. Si es mandibular primaria, requiere más tiempo.
+
+**¿Es la cirugía TMJ la solución final?**
+No. La cirugía TMJ frecuentemente fracasa porque no abordó la causa cervical subyacente. Después de cirugía, los problemas a menudo regresan. Comience con quiropráctica primero. Solo en casos raros con daño estructural severo se considera cirugía, y eso después de fallar opciones conservadoras.
+
+**¿Puede apretamiento dental nocturno mejorar con tratamiento quiropráctica?**
+Frecuentemente sí. El apretamiento es a menudo resultado de estrés neurológico—interferencia del sistema nervioso del apriete muscular reflejo. Reducir interferencia nerviosa quiroprácticament reduce apretamiento. Los protectores de noche ayudan, pero no abordan la causa.
+
 ## Dé el Primer Paso Hoy
 
 Si ha estado viviendo con dolor de mandíbula o disfunción de ATM en San Antonio, el Dr. Dan Foss en Pura Vida Quiropráctica está listo para evaluar completamente su condición y crear un plan de tratamiento personalizado.

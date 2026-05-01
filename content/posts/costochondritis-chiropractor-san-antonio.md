@@ -191,6 +191,23 @@ Dr. Foss has successfully treated numerous costochondritis patients since foundi
 
 He recognizes that your rib pain is a symptom of spinal and rib cage misalignment requiring structural correction. His goal is not just to reduce your pain but to actually fix the problem so it doesn't return.
 
+## Frequently Asked Questions
+
+**Is costochondritis dangerous, or will it just go away on its own?**
+Costochondritis won't resolve without treatment and can become chronic if ignored. The longer the misaligned ribs stay out of place, the worse the inflammation becomes. I've seen cases that lasted years because the underlying rib subluxation was never corrected. Address it early and you'll resolve it quickly; wait and it becomes a chronic pain problem that's much harder to fix.
+
+**How many visits will I need for costochondritis relief?**
+Most patients notice significant pain reduction within 2-4 visits as the thoracic misalignments and rib subluxations are corrected. Complete resolution typically takes 6-10 weeks of consistent care. The timeline depends on how long you've had the pain and how severe the inflammation is. I usually see the most dramatic improvements in the first 2-3 weeks.
+
+**Will adjusting my ribs hurt, or will it make the pain worse?**
+Rib adjustments don't hurt—I use gentle SOT techniques, not force. You might feel slight pressure or a releasing sensation as the rib pops back into place, but it's not painful. In fact, most patients feel immediate relief after the adjustment because the pressure and irritation at the costochondral junction decreases. Class IV laser therapy afterward adds warmth and additional pain relief.
+
+**Can I still exercise with costochondritis, or do I need to rest completely?**
+Complete rest can actually slow healing because some gentle movement supports structural recovery. I'll guide you on which activities to avoid and which to continue. Most patients can return to normal exercise, including cardio and strength training, within 6-10 weeks as pain resolves. I give specific activity modifications throughout treatment.
+
+**Is this the same as a heart attack or another cardiac problem?**
+Costochondritis pain can mimic cardiac symptoms, which is why if you haven't ruled out a heart issue with your doctor, you should. Once cardiac causes are excluded, costochondritis is purely structural—rib subluxations and thoracic misalignment causing inflammation. I treat the mechanical problem; your doctor handles the cardiac screening.
+
 ## Return to Normal Life
 
 Costochondritis is a highly treatable condition when addressed at the structural level. With proper chiropractic care, most patients achieve complete pain relief and return to normal activities including deep breathing, exercise, and sleeping in any position.

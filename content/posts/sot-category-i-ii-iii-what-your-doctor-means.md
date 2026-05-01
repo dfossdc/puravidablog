@@ -79,4 +79,24 @@ Monitoring the category at each visit allows me to adjust the treatment in real 
 - Categories are not fixed. Healing progresses from III to II to I as the structural and ligamentous problems resolve.
 - The category system allows treatment to be precisely matched to the patient's current state, not a one-size-fits-all protocol.
 
+## Frequently Asked Questions
+
+**Can my category change?**
+Yes, absolutely. Categories typically improve as you heal—moving from III to II to I as structures repair and stabilize. I reassess your category at each visit to track progress and adjust treatment accordingly. Watching your category improve is often encouraging—it shows the healing process is working.
+
+**Does being Category III mean I need surgery?**
+No. Category III means there's disc involvement, but most Category III patients improve dramatically with proper SOT care, sometimes combined with Class IV laser. Surgery should only be considered after conservative care has failed or if there's severe neurological deficit. Many people avoid surgery entirely by getting appropriate Category III care early.
+
+**What if I'm a mix of categories?**
+That's common. You might present as mostly Category II with some Category III findings. I address whatever is present in your specific case. The system is flexible enough to handle combination presentations and treat exactly what your body shows me.
+
+**How often do I need blocks if I'm Category II?**
+Frequency depends on how symptomatic you are. Initially, 2-3 times per week. As you stabilize, we reduce to 1-2 times weekly, then maintenance. Many Category II patients continue occasional block work for months because the ligaments take time to heal. This is normal and appropriate.
+
+**Can I predict my category from my symptoms?**
+Not really. Two people with the same symptoms can have different categories. That's why physical examination and specific orthopedic tests are essential. A good SOT chiropractor can determine your category within the first visit through proper assessment.
+
+**If I was Category III and healed to Category I, do I stay Category I forever?**
+Usually, yes, if you maintain good posture, move well, and avoid re-injury. But life happens—new trauma, new stress patterns, sedentary habits—and categories can regress. Maintenance care prevents regression. Many patients benefit from periodic check-ins to catch category shift early.
+
 If you've been in pain without a clear diagnosis, or if you've had a disc problem that hasn't responded to standard care, understanding your category may be the key. Call Pura Vida Chiropractic at **(210) 685-1994** to schedule a comprehensive SOT evaluation with Dr. Dan Foss. We serve San Antonio in English and Spanish.

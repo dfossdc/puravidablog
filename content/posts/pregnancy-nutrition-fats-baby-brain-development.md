@@ -110,6 +110,26 @@ All three matter. Nutrition alone is incomplete if your body cannot absorb it. S
 
 At Pura Vida, we address all three. We do not prescribe what you eat — that is between you and your healthcare team. But we do ensure that when you make those good nutritional choices, your body is in the best possible position to benefit from them.
 
+## Frequently Asked Questions
+
+**How much DHA does my baby actually need during pregnancy?**
+The American Academy of Pediatrics recommends 200-300mg of DHA daily during pregnancy. A 3-ounce serving of wild salmon provides 1.5-2 grams of combined DHA and EPA. If you're getting adequate fish or algae supplementation, you're meeting your baby's needs. Work with your OB, midwife, or dietitian to personalize recommendations for your specific pregnancy.
+
+**Can my baby get enough DHA from plant-based sources like flaxseed and walnuts?**
+Plant-based sources contain ALA (alpha-linolenic acid), which your body can convert to DHA. However, conversion rates are low—typically only 5-10%. If fish is not part of your diet, supplementation becomes important. Algae-based DHA supplements provide a vegetarian or vegan option that's reliable and doesn't rely on conversion rates.
+
+**Is fish safe during pregnancy because of mercury?**
+Some fish are safer than others. Cold-water fatty fish like wild salmon, mackerel, sardines, and anchovies are excellent sources of DHA and EPA. Sardines and anchovies are particularly good because they're small fish with short lifespans, so they accumulate less mercury. Avoid larger predatory fish like shark and swordfish, which accumulate more mercury.
+
+**Does chiropractic care during pregnancy actually help nutrient absorption?**
+Yes. Spinal alignment affects nerve function and autonomic balance, which directly govern digestion and absorption. Additionally, during pregnancy, many women experience reflux, sluggish digestion, and constipation—signs of compromised absorption. Restoring proper spinal alignment and pelvic balance improves gastric motility and digestive efficiency, meaning nutrients are absorbed and utilized better.
+
+**Should I take a prenatal supplement with DHA, or can I get enough from food?**
+This is a personalized decision for you and your healthcare provider. If you're eating cold-water fish 2-3 times weekly, you may get adequate DHA from food. Many women prefer supplementing to ensure consistent intake. Algae-based supplements provide a reliable alternative if fish consumption is limited or your diet is plant-based.
+
+**Can too much omega-3 fat be harmful during pregnancy?**
+No. Omega-3 fats are essential—they're not something you can "overdose" on. However, very high doses of fish oil supplements can have mild blood-thinning effects. Aim for 200-300mg DHA daily from food or supplements, which is well within safe ranges and backed by research for fetal brain development.
+
 ## Ready to Optimize Your Pregnancy?
 
 If you are pregnant or planning to become pregnant, now is the time to think intentionally about nutrition and to ensure your body is prepared to utilize it optimally.

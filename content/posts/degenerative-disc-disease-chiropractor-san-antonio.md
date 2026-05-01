@@ -168,6 +168,26 @@ Dr. Dan Foss brings specialized expertise in degenerative disc disease managemen
 - Fluent in English and Spanish
 - Commitment to helping patients avoid unnecessary surgery
 
+## Frequently Asked Questions
+
+**Can degenerative discs ever heal?**
+While severely degenerated discs won't fully return to normal, the pain and dysfunction associated with them can resolve or significantly improve. With proper care, most patients maintain or restore function and prevent further progression—allowing them to stay active.
+
+**Is surgery the only option for degenerative disc disease?**
+No. The majority of people with DDD never need surgery. Research shows mixed results for spinal fusion, and many patients experience poor long-term outcomes. Conservative chiropractic care should always be tried first and is successful for most cases.
+
+**How long does treatment take to show results?**
+Most patients notice improvement within 3-4 weeks, with significant functional improvement occurring over 8-12 weeks. Degenerative disc disease is typically a long-term management condition, so ongoing maintenance care (1-2 visits monthly) helps prevent flare-ups and progression.
+
+**Can the SOT approach prevent progression of disc degeneration?**
+Yes. SOT stabilizes and protects degenerated discs while reducing abnormal movement that accelerates degeneration. By addressing the pelvic foundation and reducing stress on compromised discs, we slow or stop progression rather than aggressively mobilizing them.
+
+**What's the difference between standard chiropractic and what you do for DDD?**
+Standard care treats the spine at the location of pain. Our approach also addresses organ-spinal reflexes (CMRT) and cranial restrictions (SOT Craniopathy) that often drive vertebral subluxation. When these drivers are treated, adjustments hold better and results compound instead of resetting.
+
+**Do I need to stop all activities with degenerative disc disease?**
+No. Treatment includes guidance on proper ergonomics, sleeping positions, and safe exercise progression. The goal is to help you maintain or restore activity tolerance so you can do the activities you enjoy while protecting your spine.
+
 ## Contact Us Today
 
 If you've been diagnosed with degenerative disc disease in San Antonio, don't assume surgery is inevitable. Many people find significant relief and maintain excellent function with proper chiropractic care.

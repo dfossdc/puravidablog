@@ -117,6 +117,26 @@ Lo que le diré es esto: con el cuidado SOT apropiado, muchos de mis pacientes c
 
 Y viene de abordar el problema real en lugar de simplemente medicar alrededor de él.
 
+## Preguntas Frecuentes
+
+**¿Es la fibromialgia una condición mental o verdaderamente física?**
+Es verdaderamente física. El dolor es neurológico, no psicológico. Sin embargo, el estrés emocional y la ansiedad pueden empeorar la fibromialgia porque agravan la disfunción autónoma. El Dr. Foss trata la causa física: la disfunción del tallo cerebral y la tensión dural. Cuando se corrige esto, muchos pacientes también notan menos ansiedad y depresión.
+
+**¿Necesitaré medicamentos mientras recibo quiropráctica para fibromialgia?**
+Probablemente inicialmente. Los medicamentos proporcionan alivio mientras se restaura el equilibrio neurológico. A menudo, conforme la quiropráctica funciona, los pacientes necesitan menos medicación. El Dr. Foss colabora con reumatólogos y especialistas en manejo del dolor. Nunca descontinúe medicamentos sin consultar a su doctor.
+
+**¿Cuánto tiempo antes de sentir mejora significativa?**
+Muchos pacientes notan cambios en 2-4 semanas. Sin embargo, la mejora real del 40-60% que cambia vidas toma 8-12 semanas con tratamiento consistente. La fibromialgia es una condición crónica compleja, así que la paciencia y consistencia son esenciales.
+
+**¿Los ajustes de SOT son seguros para fibromialgia?**
+Completamente seguros. De hecho, SOT es ideal para fibromialgia porque es de baja fuerza y muy suave. No usamos manipulación de alta velocidad que podría desencadenar brotes. Usamos bloques de cuña, correcciones gravitacionales, y técnicas de baja fuerza. Muchos pacientes con fibromialgia que evitaban otros quiroprácticos porque ajustes agresivos empeoraban su condición encuentran que SOT es perfectamente tolerable.
+
+**¿Qué tan importante es el sueño en la recuperación de fibromialgia?**
+Extremadamente. Sin sueño profundo, su sistema nervioso no puede regular. El sueño de mala calidad perpetúa la fibromialgia. El Dr. Foss aborda ambos: ajustes mejoran el sueño, educación proporciona higiene del sueño, y a veces trabaja con su doctor sobre soporte temporal del sueño. Dormir mejor es fundamental para mejora.
+
+**¿Puedo hacer ejercicio con fibromialgia?**
+Sí, pero movimiento suave, no ejercicio agresivo. Caminar, nadar, yoga, tai chi son excelentes. Ejercicio de alto impacto o entrenamiento de fuerza pueden desencadenar brotes. El movimiento gentil regular ayuda a regular el sistema nervioso. El Dr. Foss proporciona recomendaciones de ejercicio específicas basadas en su tolerancia actual.
+
 ## ¿Listo para Explorar un Enfoque Diferente?
 
 Si ha estado luchando con fibromialgia, descarado por doctores, ciclado a través de medicamentos, y se ha sentido desesperado, quiero que sepa: hay otro camino. Uno que funciona con su sistema nervioso en lugar de contra él.

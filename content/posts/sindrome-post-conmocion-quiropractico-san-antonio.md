@@ -242,6 +242,23 @@ Para prevenir el desarrollo de síndrome post-conmoción después de una conmoci
 - Evitar retorno a actividades demasiado pronto
 - Tratamiento quiropráxico especializado para restaurar la alineación
 
+## Preguntas Frecuentes
+
+**¿Cuál es la diferencia entre conmoción cerebral y síndrome post-conmoción?**
+Una conmoción cerebral es la lesión inicial. El síndrome post-conmoción es cuando los síntomas persisten después de semanas o meses. Esto indica que el daño neurológico no ha sanado completamente—parcialmente función del nervio vago comprimido o disfunción del tronco cerebral resultado de traumatismo de cuello/base del cráneo.
+
+**¿Cuándo debo buscar ayuda quiropráctica después de conmoción cerebral?**
+Inmediatamente. Incluso si los síntomas iniciales parecen resolverse, daño microscópico a la columna cervical y base del cráneo puede causar síndrome post-conmoción semanas después. Comience quiropráctica dentro de días si es posible.
+
+**¿Puede la quiropráctica resolver el síndrome post-conmoción después de meses o años?**
+Sí. Aunque antes es mejor, he tenido éxito con pacientes años después de su conmoción inicial. El sistema nervioso es notablemente adaptable. Los ajustes quiroprácticos y ajustes craneales pueden restaurar función incluso después de tiempo prolongado.
+
+**¿Qué ajustes craneales son particularmente efectivos para post-conmoción?**
+Los ajustes de base del cráneo (occipital-atlas) son críticos. La SOT también es especialmente valiosa para post-conmoción porque aborda la integración del sistema nervioso central. Algunos pacientes también benefician de técnicas suturales craneales especializadas que restauran la movilidad del cráneo.
+
+**¿Cuánto tiempo tarda en resolver el síndrome post-conmoción?**
+Esto varía ampliamente. Algunos pacientes mejoran significativamente en 4-8 semanas. Otros requieren 12-16 semanas. Los casos más crónicos pueden requerir varios meses. El factor clave es comenzar temprano y ser consistente.
+
 ### Ubicación y Horario
 
 Pura Vida Chiropractic está ubicada en **2318 NW Military Hwy Suite 103, San Antonio TX 78231**. Servicios completamente bilingües en inglés y español.

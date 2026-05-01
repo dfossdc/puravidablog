@@ -99,6 +99,23 @@ Mientras que la Técnica Webster es más famosa por ayudar a bebés en posición
 
 Ya sea que su bebé ya esté cabeza abajo o quiera prevenir la presentación podálica, la atención Webster es una inversión en el bienestar de su embarazo.
 
+## Preguntas Frecuentes
+
+**¿Exactamente qué hace la técnica Webster con un bebé en posición podalica?**
+Webster libera la tensión del ligamento redondo (que sostiene el útero) y optimiza la alineación sacroilíaca pelviana. Un útero con menos tensión permite que el bebé tenga más espacio y menos restricción para voltear. No es una manipulación agresiva—es estimulación refleja suave.
+
+**¿Cuál es la tasa de éxito de la técnica Webster para bebés en posición podalica?**
+Aproximadamente 60-80% de bebés en posición podalica se voltean con tratamiento Webster regular. La tasa es más alta si comienza en semana 30-32 en lugar de semana 36-38. Cuanto antes comience, mejor será el resultado.
+
+**¿Es la técnica Webster mejor que versión cefálica externa?**
+Son complementarios. VCE (intento manual de voltear el bebé) tiene aproximadamente 40-50% de éxito pero conlleva riesgos. Webster tiene mayor éxito, sin riesgos, y mejora la pelvis para mejor parto incluso si el bebé no se voltea. Recomiendo Webster primero.
+
+**¿Si mi bebé no se voltea con Webster, qué hace entonces?**
+Si Webster no vira al bebé en posición podalica por la semana 36, podemos intentar VCE con OB. O puede elegir parto vaginal en posición podalica si su obstetra lo permite, o cesárea programada. Aunque no voltee al bebé, Webster mejora su pelvis para mejor recuperación.
+
+**¿Cuántas sesiones de Webster necesita mi bebé en posición podalica?**
+Tipicamente 2 sesiones por semana durante 4-6 semanas da mejor resultado. Algunos bebés se voltean después de 1-2 sesiones. Otros requieren las 8-12 sesiones completas. Evaluaré su respuesta en las primeras sesiones y ajustaré el plan.
+
 ## ¿Listo para Explorar la Técnica Webster?
 
 Si su bebé está en posición pélvica o quiere optimizar la función de su pelvis durante el embarazo, llámenos hoy. Ofrecemos una consulta gratuita — sin examen, sin presión, solo una conversación sobre si la Técnica Webster es adecuada para usted.

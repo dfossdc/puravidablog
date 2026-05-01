@@ -176,6 +176,26 @@ San Antonio, TX 78231
 - Lunes, Martes, Jueves: 7:00 AM - 4:00 PM
 - Flexible para necesidades pediátricas
 
+## Preguntas Frecuentes
+
+**¿A qué edad debería preocuparme por la enuresis nocturna de mi hijo?**
+La enuresis nocturna es normal hasta los 5-6 años. Después de eso, si continúa, es tiempo de evaluar. Algunos niños se desarrollan más lentamente en este aspecto, pero enuresis persistente después de los 7-8 años merece atención profesional. El Dr. Foss evalúa si hay una causa subyacente neurológica o espinal.
+
+**¿Es seguro llevar a mi hijo a un quiropráctico por enuresis?**
+Completamente seguro. Los ajustes pediátricos son muy suaves, completamente diferente a los ajustes de adultos. El Dr. Foss es un especialista en quiropráctica pediátrica con años de experiencia. Muchas familias en San Antonio confían en él para cuidado infantil, incluyendo bebés recién nacidos. Las técnicas son seguras y efectivas.
+
+**¿Qué tan rápido mejora la enuresis con quiropráctica?**
+Muchas familias ven reducción de 50% en episodios en 2-4 semanas. La resolución completa típicamente toma 4-12 semanas. Algunos niños se secan en semanas, otros tardan meses. El factor clave es consistencia en el tratamiento; saltarse citas ralentiza el progreso.
+
+**¿Puedo detener los medicamentos para enuresis una vez que la quiropráctica funciona?**
+Depende del doctor que prescribió el medicamento. El Dr. Foss colabora con pediatras. Cuando la quiropráctica funciona, el pediatra típicamente reduce o discontinúa medicamentos bajo su supervisión. Nunca detenga medicamentos sin consultar al doctor de su hijo.
+
+**¿Qué causa la enuresis verdaderamente?**
+A menudo una subluxación (desalineación vertebral) en la región lumbosacra interfiere con la comunicación nerviosa que controla la vejiga. Sin esta comunicación nerviosa normal, los músculos de la vejiga no se contraen apropiadamente para retener orina durante el sueño. Cuando se corrige la subluxación, la comunicación nerviosa se restaura.
+
+**¿Hay algo que deba hacer en casa para ayudar?**
+Sí. Limitar fluidos 2-3 horas antes de dormir ayuda. Asegurarse de que su hijo vacíe completamente la vejiga antes de dormir es importante. Evitar bebidas cafeinadas. Algunos niños se benefician de almohadillas protectoras inicialmente para reducir estrés/vergüenza. Sin embargo, el tratamiento quiroprárico es la causa subyacente.
+
 ## Próximos Pasos: Ayuda Natural para la Enuresis
 
 Si tu hijo lucha contra la enuresis, hay esperanza. La quiropráctica ofrece un enfoque natural, seguro y efectivo que aborda la causa raíz en lugar de simplemente enmascarar el síntoma.

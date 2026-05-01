@@ -60,6 +60,23 @@ Some patients see significant improvement. Some see modest improvement. A small 
 
 What I won't do is tell you chiropractic can cure your asthma. What I will tell you is that if your thoracic spine is compromised — and in most adult asthma patients, it is — there's a good chance that addressing it will help you breathe better.
 
+## Frequently Asked Questions
+
+**Can chiropractic care replace my asthma inhaler?**
+Chiropractic care optimizes nervous system and respiratory function, potentially reducing asthma severity and medication needs. However, never stop asthma medications without medical guidance. Many patients notice they need their rescue inhaler less frequently or experience fewer asthma episodes with regular care. The goal is working with your medical doctor to gradually reduce medication dependence as your respiratory function improves. Some patients still need medications, which is completely appropriate.
+
+**How does SOT help with asthma specifically?**
+SOT protocols optimize the nervous system pathways controlling breathing and respiratory muscle function. The vagus nerve, which SOT influences, plays a crucial role in bronchial regulation. By normalizing nervous system balance, we reduce the neural patterns that trigger bronchospasm. Many asthma patients experience significantly fewer episodes within weeks of starting SOT care.
+
+**Is chiropractic asthma treatment safe for children?**
+Yes, absolutely. Pediatric chiropractic care is gentle and safe. Children respond particularly well to chiropractic treatment for asthma because their spines and nervous systems are still developing. Early intervention can prevent lifelong asthma medication dependence. Many children see dramatic improvement in asthma severity within weeks of starting care. I use age-appropriate techniques specifically designed for pediatric patients.
+
+**What environmental factors make asthma worse and should I address them?**
+Yes, environmental triggers—dust, mold, pet dander, pollution—are important to address. But even with perfect air quality, some asthma persists because the nervous system is dysregulated. My approach combines environmental control (which you manage at home) with nervous system optimization (which I address through care). Together, these approaches are far more effective than either alone.
+
+**How long does asthma improvement take with chiropractic care?**
+Most patients notice reduced asthma episodes within 2-4 weeks of consistent care. Significant improvement typically develops over 2-3 months. The timeline depends on how long you've had asthma, how severe it is, and how well your nervous system responds to care. Some patients see dramatic improvement quickly while others improve more gradually. I'll discuss expected timeline based on your specific case during your evaluation.
+
 ---
 
 ## Ready to experience the difference?

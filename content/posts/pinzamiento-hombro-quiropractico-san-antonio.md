@@ -191,6 +191,23 @@ San Antonio, TX 78231
 **Horarios:**
 - Lunes, Martes, Jueves: 7:00 AM - 4:00 PM
 
+## Preguntas Frecuentes
+
+**¿Qué causa el pinzamiento de hombro?**
+El pinzamiento ocurre cuando los tendones o bursa del hombro se comprimen dentro del espacio subacromial—el área bajo la punta del hombro. Esto es frecuentemente causado por desalineación cervical que afecta la mecánica del hombro, músculos tensos, o traumatismo previo. Nuestros ajustes restauran la alineación, eliminando la compresión.
+
+**¿Necesitaré cirugía para pinzamiento de hombro?**
+La mayoría de los casos—aproximadamente 90%—responden bien al tratamiento conservador quiropráctico, especialmente si se abordan temprano. Solo en casos donde hay daño de manguito rotador severo se considera cirugía. Comience con quiropráctica primero.
+
+**¿Cuánto tiempo tarda el pinzamiento en mejorar?**
+Típicamente 4-8 semanas de tratamiento consistente. Sin embargo, si ha tenido síntomas durante meses, puede requerir más tiempo. La clave es consistencia—los ajustes erráticos no aceleran la sanación.
+
+**¿Puedo continuar ejercitando mi hombro mientras se recupera?**
+Sí, pero debe ser ejercicio modificado. Evite levantar cosas pesadas sobre su cabeza o natación agresiva. Enfócate en ejercicios suaves de rango de movimiento y fortalecimiento excéntrico. Recomendaré ejercicios específicos después de evaluar su hombro.
+
+**¿Afecta mi postura de trabajo al pinzamiento de hombro?**
+Absolutamente. Encorvarse en el escritorio agrava el pinzamiento cambiando cómo los músculos del hombro funcionan. La postura erguida es crítica. Junto con ajustes quiroprácticos, corregir su ergonomia de trabajo es esencial para la recuperación completa.
+
 ## Próximos Pasos: Recupera la Movilidad de Tu Hombro
 
 Si tienes pinzamiento de hombro que limita tu vida, hay esperanza. La quiropráctica especializada puede restituir completa movilidad sin cirugía.

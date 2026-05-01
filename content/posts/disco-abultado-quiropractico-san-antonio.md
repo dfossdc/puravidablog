@@ -188,6 +188,26 @@ Algunos casos requieren tratamiento más prolongado. El Dr. Foss monitoreará co
 
 La buena noticia es que la mayoría de los discos abultados responden bien al tratamiento conservador. Con el enfoque integral del Dr. Dan Foss, muchos pacientes evitan la cirugía completamente.
 
+## Preguntas Frecuentes
+
+**¿Puede un disco abultado sanar o es permanente?**
+Un disco abultado puede mejorar significativamente con tratamiento apropiado. La terapia láser Clase IV estimula la reabsorción del material discal protruido y la cicatrización del anillo fibroso. Con ajustes quiropráticos correctos que restauran la alineación, muchos pacientes experimentan reabsorción del disco durante 3-6 meses de tratamiento. Sin embargo, el disco puede no regresar completamente a su estado original pre-abultamiento.
+
+**¿Cuándo es necesaria la cirugía para disco abultado?**
+La cirugía es raramente necesaria. Solo cuando el disco presiona severamente el nervio causando debilidad progresiva, entumecimiento persistente, o problemas de vejiga/intestino, se considera la cirugía. La mayoría de los discos abultados responden a tratamiento conservador si se interviene lo suficientemente pronto y se sigue el plan de tratamiento consistentemente.
+
+**¿Cuánto tiempo debo tratar antes de saber si mejora?**
+Muchos pacientes notan mejora en 2-4 semanas. Sin embargo, la verdadera recuperación del disco toma 6-12 semanas. Usted debe dar al tratamiento al menos 4 semanas de consistencia (2-3 visitas por semana) antes de evaluar si está funcionando. Algunos casos necesitan más tiempo, pero la mejoría clínica debería ser visible en ese marco.
+
+**¿Puedo seguir trabajando con disco abultado mientras recibo tratamiento?**
+Depende del trabajo y la severidad. Si su trabajo es sedentario, puede continuar con modificaciones (postura correcta, descansos frecuentes). Si implica levantamiento pesado o movimiento repetitivo, debe modificar actividades para evitar empeoramiento. El Dr. Foss proporciona restricciones de actividad específicas. Algunas personas necesitan tiempo fuera del trabajo durante la fase aguda.
+
+**¿Los ejercicios pueden empeorar un disco abultado?**
+Ejercicios incorrectos pueden. Sin embargo, ejercicios específicos prescritos por el Dr. Foss después de la alineación inicial ayudan mucho. Los ejercicios estabilizan la columna, fortalecen músculos de apoyo, y previenen recurrencia. El Dr. Foss no prescribe ejercicios hasta que la inflamación aguda disminuye, y solo enseña técnicas seguras.
+
+**¿Necesitaré ajustes de mantenimiento después de recuperarme del disco abultado?**
+Generalmente sí. Los ajustes de mantenimiento 1-2 veces al mes previenen que el disco se abulteLa recurrencia es posible si vuelve a patrones de postura incorrecta o levantamiento incorrecto. El mantenimiento mantiene la alineación óptima y previene futuras herniaciones.
+
 ### Ubicación y Horario
 
 Pura Vida Chiropractic está ubicada en **2318 NW Military Hwy Suite 103, San Antonio TX 78231**. Servicios completamente bilingües en inglés y español.

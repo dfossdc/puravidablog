@@ -155,6 +155,23 @@ After your first visit, we will discuss findings and give you a clear picture of
 - Dr. Dan Foss is the only Advanced SOT-certified chiropractor in San Antonio, certified through SORSI with full training in both Craniopathy and CMRT.
 - Pura Vida Chiropractic is a bilingual English/Spanish clinic at 2318 NW Military Hwy #103, San Antonio, TX 78231.
 
+## Frequently Asked Questions
+
+**How is SOT different from traditional chiropractic I've experienced?**
+Traditional chiropractic focuses on spinal alignment. SOT treats your entire system—spine, pelvis, skull, organs, and the nervous system connecting them. If you've received temporary relief from adjustments that don't hold, the organ-spinal reflex is likely missing. SOT finds and addresses what's driving the problem so corrections actually stick.
+
+**Will SOT work for my problem, or should I try something else first?**
+SOT is especially effective for chronic, recurring, and complex problems—particularly those that haven't responded to standard treatment. The best way to know is a consultation. I can usually tell after evaluating you whether SOT is right for your situation. Call **(210) 685-1994** for a free consultation.
+
+**How many visits until I feel better, and how long does treatment take?**
+Most patients notice improvement within 2-4 visits. Complete resolution of chronic problems typically takes 8-12 weeks depending on severity. I'll give you realistic expectations based on your first evaluation. There's no long-term commitment; you evaluate progress as you go.
+
+**Is SOT covered by insurance?**
+We accept most insurance through superbills. You pay at the visit and submit for reimbursement. Call us to verify coverage before your first appointment. Without insurance, we discuss payment options directly.
+
+**Is SOT safe for everyone, including kids and pregnant women?**
+Absolutely. SOT uses gravity and body weight for correction, not force. It's the gentlest approach available, which is why it's perfect for fragile populations—pregnant women, infants, elderly, osteoporosis patients. Safety is built into the method.
+
 ## Ready to Experience SOT in San Antonio?
 
 If you have been living with pain that hasn't fully resolved, or health issues that your doctors have managed but not solved, SOT may offer something different — an analysis of the whole system, not just the part that hurts.

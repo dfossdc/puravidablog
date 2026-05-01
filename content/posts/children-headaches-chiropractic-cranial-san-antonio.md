@@ -124,6 +124,23 @@ If your child is coming in for headache evaluation, here is what happens:
 
 We are bilingual — English and Spanish — and serve families from Stone Oak, Castle Hills, Alamo Heights, Helotes, and all of San Antonio.
 
+## Frequently Asked Questions
+
+**How do you know if a child's headache needs chiropractic care versus just rest?**
+Occasional headaches from stress or sleep deprivation may improve with rest, but recurring or chronic headaches in children suggest structural or neurological dysfunction. I've treated hundreds of children since 2010, and those with regular headaches typically have cervical misalignments, dural tension, or cranial pressure affecting nerve function. A free consultation helps determine whether chiropractic care is right for your child.
+
+**Is it safe to adjust a child's neck for headaches?**
+Absolutely. Children's cervical adjustments are much gentler than adult adjustments, using minimal force and appropriate techniques for developing spines. Cranial adjustments are even gentler—sometimes just light finger contact. I've worked with pediatricians across San Antonio for 23 years; safety is my foundation.
+
+**How many visits will my child need before headaches improve?**
+Most children with recurring headaches show meaningful improvement within 4-8 visits over 4-8 weeks. Some see results faster; others need a bit longer. After resolution, preventive care—once monthly or every other month—keeps headaches from returning. I always give realistic timelines based on what I find in the first evaluation.
+
+**Will my child's headaches come back after treatment stops?**
+This depends on whether you address underlying causes. If the misalignment or dural tension isn't corrected, headaches often return. That's why maintenance care is valuable. Children who continue preventive adjustments and follow lifestyle recommendations—sleep, screen-time limits, stress management—rarely have headache recurrence.
+
+**What if my pediatrician doesn't support chiropractic care?**
+I work alongside pediatricians, not against them. I'm happy to communicate with your child's doctor about what I find and my treatment plan. Most San Antonio pediatricians appreciate chiropractic care when it's done safely and communicated clearly. I never interfere with medical care; we complement each other.
+
 ## Ready to Help Your Child?
 
 If your child is dealing with recurring headaches, do not accept the "it's stress, here is ibuprofen" response. There is a structural, neurological reason — and we can address it.

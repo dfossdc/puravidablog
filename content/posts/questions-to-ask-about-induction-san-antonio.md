@@ -120,6 +120,26 @@ If you are approaching induction or wondering whether it is in your future, we o
 
 We are bilingual — English and Spanish — and serve pregnant women from Stone Oak, Castle Hills, Alamo Heights, Helotes, and across San Antonio. Dr. Dan Foss has 23 years of experience with pregnancy and birth, and works collaboratively with OBs, midwives, and doulas throughout the region.
 
+## Frequently Asked Questions
+
+**Does induction really increase the risk of cesarean section?**
+Yes, slightly. Cesarean risk is higher with induction than with spontaneous labor, especially if the cervix is "unripe" (Bishop score below 8). However, this doesn't mean induction always leads to cesarean. Many women have successful vaginal births after induction. The key is understanding your Bishop score and cervical readiness before induction begins.
+
+**Can chiropractic care actually help with labor induction?**
+Chiropractic does not induce labor, but SOT and Webster Technique optimize pelvic alignment, remove restrictions, and support optimal fetal positioning. When your pelvis is balanced and your baby is well-positioned, labor—whether spontaneous or induced—tends to progress more smoothly, efficiently, and with less intervention. This can make a real difference in induction outcomes.
+
+**What is a Bishop score, and why does it matter?**
+The Bishop score assesses cervical readiness: cervical consistency, dilation, effacement, station, and position. A score of 8 or higher suggests the cervix is "ripe" and more likely to respond to induction. Below 8, you'll usually need cervical ripening first. Understanding your Bishop score helps you understand why induction sometimes takes longer and why cesarean risk is higher with an unripe cervix.
+
+**Is elective induction really safe at 39 weeks?**
+Elective induction at 39 weeks has slightly increased neonatal risks compared to waiting for spontaneous labor, but the risk is small. Many women choose elective induction for valid reasons: work schedules, family support, anxiety about labor, previous trauma. The key is making this decision informed about actual risks, not just convenience.
+
+**What's the difference between medically necessary induction and elective induction?**
+Medically necessary induction addresses a health condition: preeclampsia, rupture of membranes, fetal compromise, or significantly post-dates pregnancy. Elective induction is for scheduling or convenience. Both are real choices, but they're made in different contexts. Understanding which category applies to you changes how you should approach the decision.
+
+**How can I prepare my body for induction if it's likely?**
+Regular chiropractic care in the weeks leading up to induction optimizes pelvic mechanics, reduces muscular tension that might slow labor progress, ensures optimal baby positioning, and balances your nervous system so you're less in "fight-or-flight" mode. All of these factors make induction more likely to progress smoothly without additional interventions.
+
 ## Ready to Prepare?
 
 Informed consent is not about fighting your provider. It is about understanding your options, asking good questions, and making decisions that feel right for you and your baby. Whether induction is planned or possible, give yourself the best physical and nervous system support you can.

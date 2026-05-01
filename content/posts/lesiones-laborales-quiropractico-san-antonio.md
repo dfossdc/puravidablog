@@ -247,6 +247,23 @@ San Antonio, TX 78231
 - Lunes, Martes, Jueves: 7:00 AM - 4:00 PM
 - Flexible para lesionados que necesitan citas rápidamente
 
+## Preguntas Frecuentes
+
+**¿Mi seguro de compensación de trabajadores cubre tratamiento quiropráctico?**
+Sí, la mayoría de las pólizas de compensación de trabajadores cubren servicios quiroprácticos, especialmente si su lesión fue causada por trabajo. Nuestro consultorio puede verificar su cobertura. Si hay limitaciones, ofrecemos superbills que puede enviar a su asegurador.
+
+**¿Cuándo debo reportar mi lesión laboral?**
+Reporte su lesión a su supervisor o departamento de recursos humanos inmediatamente, incluso si el dolor parece menor. Muchas lesiones laborales se vuelven crónicas si no se tratan rápidamente. Cuanto antes comience el tratamiento, mejor será su resultado.
+
+**¿Cuántas visitas generalmente se necesitan para una lesión laboral?**
+Esto depende de la severidad, pero lesiones laborales típicas requieren 12-24 sesiones durante 6-12 semanas. Lesiones más severas pueden requerir más tiempo. Proporcionamos un plan de tratamiento claro después de la evaluación inicial.
+
+**¿Puedo regresar a trabajar mientras me recupero?**
+Frecuentemente sí. Una vez que hemos estabilizado su lesión, podemos recomendarle modificaciones de trabajo que le permitan continuar trabajando mientras se recupera. Esto generalmente acelera el proceso de recuperación psicológicamente.
+
+**¿Qué pasa si el tratamiento quiropráctico no mejora mi condición?**
+Si no hay progreso después de 4 semanas de tratamiento consistente, reevaluaremos su condición y consideraremos derivar a especialistas como fisioterapistas o especialistas en medicina del dolor. Nuestra prioridad es su recuperación completa.
+
 ## Próximos Pasos: Recuperación Rápida de Tu Lesión Laboral
 
 Si fuiste lesionado en el trabajo, es crítico buscar tratamiento inmediatamente. Cuanto más rápido se inicia el tratamiento, más rápida la recuperación.

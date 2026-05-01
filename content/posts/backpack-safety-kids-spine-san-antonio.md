@@ -67,6 +67,23 @@ If your child complains of back, neck, or shoulder pain during the school year �
 
 Early intervention is far more effective than waiting. Structural changes that take years to develop take proportionally longer to correct. Getting in front of the problem while your child's spine is still developing gives them the best possible outcome.
 
+## Frequently Asked Questions
+
+**How much weight should my child's backpack be?**
+A safe backpack weight is no more than 10-15% of your child's body weight. For example, a 50-pound child should carry no more than 5-7 pounds. Most school backpacks loaded with books exceed this weight significantly. Oversized backpacks can contribute to spinal misalignment even when not overloaded, so a properly-sized pack is essential. I recommend weighing your child's backpack and discussing with teachers if it exceeds safe limits.
+
+**What are signs my child's backpack is damaging their spine?**
+Watch for forward-head posture, rounded shoulders, or visible leaning when wearing the backpack. You might notice complaints of neck or back pain, headaches, or fatigue. Some children develop poor posture habits that persist even without the backpack. If your child's shoulders are rounded forward or they're leaning excessively, it's time to address the backpack and consider a spinal evaluation. Many spine problems in teenagers start with years of improper backpack use.
+
+**Should my child use a rolling backpack instead of wearing one?**
+Rolling backpacks aren't ideal because they create asymmetrical pulling, which can stress the spine. Wearing a backpack correctly is generally better than rolling one. If your child must use a rolling pack, make sure they're alternating which arm they use to pull it. The best solution is reducing backpack weight and using a properly-fitted backpack worn correctly with both shoulder straps.
+
+**At what age should I start worrying about backpack spine damage?**
+As soon as your child starts carrying a backpack to school—typically around age 5-6. Early spine development is crucial, and poor postural habits formed in elementary school often persist into adulthood. Kids who develop rounded-shoulder posture from backpacks often maintain that posture throughout their lives. Starting healthy backpack habits early prevents years of potential spine problems.
+
+**Does chiropractic care fix backpack-related spine problems?**
+Yes, SOT and other adjustments correct the misalignments caused by backpack strain, and CMRT helps normalize the muscle patterns that develop from prolonged poor posture. However, the most important step is fixing the backpack habit itself—reducing weight and using proper wearing techniques. Chiropractic care addresses the damage while you're preventing future damage through better backpack practices.
+
 ---
 
 ## Ready to experience the difference?

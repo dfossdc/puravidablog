@@ -169,4 +169,24 @@ If you're suffering from a pinched nerve in San Antonio, don't wait for your sym
 
 **Bilingual Services**: English and Spanish
 
+## Frequently Asked Questions
+
+**Will surgery be necessary if chiropractic doesn't work immediately?**
+Not necessarily. Most pinched nerves respond to chiropractic care given adequate time. However, if you've had symptoms for years or if neurological deficit is severe (significant weakness, loss of function), surgery may be an option to discuss with your doctor. But the research is clear: start with conservative care. 90% of pinched nerves resolve without surgery.
+
+**How long should I try chiropractic before considering other options?**
+Give it 4-6 weeks of consistent care (2-3 visits per week). If you're not seeing meaningful improvement by then, we reassess your case or refer you for further medical evaluation. Most people see significant improvement much faster—within 2-3 weeks—so lack of progress by week 4 is usually telling.
+
+**Can a pinched nerve come back after treatment?**
+Absolutely, if the underlying structural problem isn't corrected. That's why SOT is so important—it addresses the pattern causing the compression, not just the acute compression. With proper structural correction and maintenance care, recurrence is much less likely. But if you return to old postural or biomechanical habits, recompression is possible.
+
+**Is it safe to keep working if I have a pinched nerve?**
+That depends on your job and symptom severity. Desk work with numbness is usually manageable. Physical labor with weakness or pain creates risk. I assess your symptoms and give honest guidance about activity restrictions. Many patients continue modified work during care.
+
+**What's the difference between a herniated disc and a pinched nerve?**
+A herniated disc is the structural problem. A pinched nerve is what happens when that disc (or bone spur, or muscle) compresses a nerve. One can exist without the other. We treat the pinched nerve syndrome—restoring nerve decompression and healing. Sometimes the disc heals too; sometimes it remains slightly damaged but no longer compresses the nerve, so it causes no symptoms.
+
+**Do I need to stay on pain medication while doing chiropractic?**
+That's between you and your prescribing doctor. Many patients find they can reduce medication as symptoms improve. Some need it initially for pain management so they can participate in care. The goal is to address the root problem so you don't need medication long-term, but that timeline varies.
+
 Dr. Foss and the Pura Vida Chiropractic team are ready to help you find relief from pinched nerve pain and prevent recurrence. Call today to schedule your comprehensive evaluation and begin your journey toward pain-free function.

@@ -190,6 +190,26 @@ San Antonio, TX 78231
 **Horarios:**
 - Lunes, Martes, Jueves: 7:00 AM - 4:00 PM
 
+## Preguntas Frecuentes
+
+**¿Cuál es la diferencia entre estreñimiento ocasional y crónico?**
+Ocasional es normal — ocasiones donde no evacuado por 1-2 días. Crónico significa menos de 3 evacuaciones por semana durante más de 3 meses. El estreñimiento crónico frecuentemente tiene una causa neurológica (subluxación). El Dr. Foss evalúa si es simple deshidratación/bajo en fibra versus una desalineación vertebral que interfiere con la función digestiva.
+
+**¿Cuánto tiempo tarda la quiropráctica en resolver el estreñimiento?**
+Muchos pacientes notan mejora en 1-2 semanas. La regularidad completa típicamente ocurre en 3-8 semanas con tratamiento consistente. Algunos casos necesitan más tiempo, pero cambios significativos deberían ser visibles en 2-3 semanas. Si no hay mejora en ese tiempo, el Dr. Foss reevalúa y ajusta el plan.
+
+**¿Qué tan importante es la fibra y el agua para resolver estreñimiento?**
+Extremadamente importante. Sin embargo, fibra y agua solas no resuelven el estreñimiento causado por disfunción nerviosa. El Dr. Foss proporciona recomendaciones dietéticas completas como parte del tratamiento, pero la quiropráctica aborda la causa neurológica subyacente. Ambas juntas proporcionan resultados óptimos.
+
+**¿Puedo discontinuar medicamentos para el estreñimiento con quiropráctica?**
+Generalmente sí. Una vez que la función digestiva se restaura, muchos pacientes pueden dejar medicamentos bajo supervisión de su doctor. Nunca deje medicamentos sin consultar a su médico. El Dr. Foss colabora con doctores para transición segura.
+
+**¿Qué es CMRT y cómo ayuda con la digestión?**
+CMRT (Técnica Refleja Manipulativa Quiropráctica) utiliza reflejos neuromusculares para mejorar la función intestinal. Puntos específicos en la columna vertebral tienen conexiones refleja al intestino. Estimulando estos puntos, el Dr. Foss mejora la función peristáltica (movimiento intestinal) y la absorción de agua. Es una herramienta poderosa para estreñimiento.
+
+**¿Puedo tener otras condiciones causadas por mi estreñimiento crónico?**
+Sí. El estreñimiento crónico causa reabsorción de toxinas, malabsorción de nutrientes, desequilibrio de microbioma, que contribuye a fatiga, problemas de piel, sistema inmunológico débil, depresión y ansiedad. Cuando se resuelve el estreñimiento, estos síntomas con frecuencia mejoran también.
+
 ## Próximos Pasos para Lograr Regularidad Digestiva
 
 Si has lidiado con el estreñimiento por años, sabiendo que no es simplemente un problema de "comer más fibra", la quiropráctica puede ser tu solución definitiva.

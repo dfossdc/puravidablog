@@ -279,6 +279,26 @@ Las respuestas te dan indicación de honestidad del doctor.
 - "Indefinido" (la mayoría necesita fin)
 - "Vuelve indefinidamente para mantenimiento" (presión de venta)
 
+## Preguntas Frecuentes
+
+**¿Cuántas visitas realmente necesitaré?**
+Esto varía ampliamente dependiendo de su problema específico, severidad, salud general, y cumplimiento. Las estimaciones típicas oscilan entre 8-20 visitas para problemas agudos, y 15-40 para problemas crónicos. El Dr. Foss proporciona una estimación después de evaluarlo completamente en la primera cita.
+
+**¿Cómo sé si estoy progresando suficientemente rápido?**
+Los signos de buen progreso incluyen menos dolor cada semana, mayor rango de movimiento, mejor sueño, menos necesidad de medicamento para el dolor, y poder hacer actividades que antes no podía. Si después de 4-6 visitas no ve estos cambios, el Dr. Foss reevalúa e ajusta el plan.
+
+**¿Qué sucede si no mejoro después de algunos meses?**
+El Dr. Foss no simplemente continúa tratándolo indefinidamente. Si no ve progreso después de un período establecido, reevaluará completamente, ordenará nuevas pruebas si es necesario, quizás intente un enfoque diferente, o lo referiría a un especialista. Un buen doctor cambia enfoque cuando algo no funciona.
+
+**¿Por qué algunos pacientes mejoran más rápido que otros?**
+Varios factores afectan la velocidad de recuperación: severidad del problema, cuánto tiempo ha estado presente, edad y salud general, estrés, sueño, nutrición, y cuánto sigue las recomendaciones del doctor. Pacientes que siguen instrucciones, hacen ejercicios en casa, y mejoran su estilo de vida mejoran 50% más rápido.
+
+**¿Necesitaré visitarlo para siempre después de mejorar?**
+No. Aunque algunos pacientes eligen visitas ocasionales de mantenimiento preventivo (una vez por mes o cada 6 semanas), no es obligatorio. Muchos pacientes se tratan hasta recuperarse y luego solo regresan si tienen un nuevo problema. El mantenimiento es una opción, no una necesidad.
+
+**¿Cuál es la diferencia entre tratamiento activo y mantenimiento?**
+Tratamiento activo es para mejorar y resolver su problema—típicamente 2-3 visitas por semana inicialmente, disminuyendo a medida que mejora. Mantenimiento es después de que recupera—una sola visita ocasional para prevenir que el problema regrese. Son muy diferentes en frecuencia y costo.
+
 ## Nuestro Compromiso
 
 En Pura Vida Chiropractic:

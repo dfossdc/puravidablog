@@ -86,6 +86,26 @@ En Pura Vida Chiropractic valoramos profundamente la cultura latina y entendemos
 
 Nuestro objetivo es que usted y su familia reciban el mejor cuidado posible —en su idioma, con respeto por su cultura, y con la seguridad que merece.
 
+## Preguntas Frecuentes
+
+**¿Es ilegal la práctica de un huesero en Texas?**
+No es ilegal. Un huesero puede trabajar siempre que no se presente como médico licenciado ni como quiropráctico. Sin embargo, si ocurre una lesión durante el tratamiento, el huesero no tiene cobertura de seguro de responsabilidad como lo tiene un quiropráctico licenciado. Usted estaría asumiendo el riesgo sin protección.
+
+**¿Es más caro un quiropráctico que un huesero?**
+El costo inicial puede variar, pero le recomendamos considerar el valor a largo plazo. Nuestras evaluaciones diagnósticas y registros médicos previenen tratamientos innecesarios. Además, ofrecemos facturación con seguro, planes de pago flexible, y atiendemos casos de accidente de auto sin requerir seguro médico previo. La calidad y seguridad tienen un costo real.
+
+**¿Puede un quiropráctico hacer lo mismo que un huesero pero mejor?**
+En muchos aspectos, sí. Un quiropráctico licenciado tiene formación en diagnóstico, anatomía avanzada, y condiciones de contraindicación. Pero un huesero experimentado también puede proporcionar alivio para ciertos dolores musculares leves. La diferencia es que nosotros podemos identificar cuándo un problema requiere más que manipulación —y cuándo remitirle a otro especialista.
+
+**¿Puedo combinar tratamiento con un huesero y un quiropráctico?**
+No lo recomendamos sin coordinación médica. Si está siendo tratado en Pura Vida Chiropractic, es importante que nos informe si también está viendo a otro proveedor. Dos tratamientos simultáneos sin comunicación pueden causar confusión en el cuerpo sobre qué debe sanar. Confíe en un plan de tratamiento coordinado.
+
+**¿Habla español el Dr. Foss?**
+Sí, con fluidez. Toda la comunicación puede ocurrir en español durante sus citas. No hay barrera de idioma en Pura Vida Chiropractic. Valoramos que usted se sienta completamente cómodo explicando sus síntomas y entendiendo nuestras recomendaciones de tratamiento.
+
+**¿Cuánto tiempo lleva ver resultados con un quiropráctico?**
+Muchos pacientes sienten alivio después de una o dos visitas. Pero el cambio estructural significativo toma típicamente 4-6 semanas de cuidado consistente. Los problemas crónicos que han estado presentes por años necesitan más tiempo. En su evaluación inicial, le daremos un cronograma realista específico para su condición.
+
 ## Artículos Relacionados
 
 - [Su Primera Visita al Quiropráctico: Qué Esperar](/es/blog/primera-visita-quiropractico-que-esperar)

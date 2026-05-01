@@ -204,6 +204,26 @@ Dr. Foss has successfully treated hundreds of bruxism patients since founding Pu
 
 He recognizes that bruxism is more than a stress response—it's a structural and neurological problem requiring comprehensive correction. His patients experience lasting improvement because the actual causes are being identified and treated.
 
+## Frequently Asked Questions
+
+**Will chiropractic care stop my teeth grinding completely?**
+Most patients see a dramatic reduction in grinding frequency and intensity—often 80-90% improvement within 8-10 weeks. Complete elimination depends on whether stress remains a significant trigger. If you resolve the structural dysfunction but continue high-stress habits, some grinding may persist. Addressing both the spine and the stress is key.
+
+**Can I throw away my night guard?**
+Not immediately, but many patients can once their grinding has significantly decreased. We recommend continuing the guard for a few weeks after structural improvement stabilizes, then gradually reducing use as you feel confident the grinding isn't returning. Your dentist can monitor your teeth for wear patterns to guide this.
+
+**How does a misaligned cervical spine cause jaw clenching?**
+Cervical misalignments create neurological dysfunction that disrupts the reflex patterns controlling jaw muscle tone. Your jaw muscles receive their nerve supply from cervical segments and cranial nerves. When those segments are subluxated, the muscles stay in a state of chronic contraction—clenching and grinding. Correcting the cervical spine normalizes these reflex patterns.
+
+**Is TMJ dysfunction the same as bruxism?**
+They're related but distinct. TMJ dysfunction is a mechanical problem with the jaw joint itself—clicking, pain, restricted opening. Bruxism is the habit of grinding or clenching. Many people have both. Our care addresses the cervical and cranial causes that contribute to both conditions simultaneously.
+
+**Will stress management alone fix my grinding?**
+Stress management helps, but it's usually not sufficient on its own. Yes, stress triggers bruxism—but if your cervical spine and temporomandibular joint are misaligned, you'll grind even when you're relatively relaxed. Addressing the structural cause is what creates lasting change.
+
+**How do I know if my bruxism is getting better?**
+Clear signs include: your partner reports less grinding noise, your jaw feels less sore when you wake up, your morning stiffness decreases, headaches improve, and your dentist notes less tooth wear at follow-up visits. Most of these changes become obvious within 4-6 weeks of consistent care.
+
 ## Eliminate Bruxism Without Just Managing Symptoms
 
 Bruxism is highly treatable when the underlying structural and neurological dysfunction is addressed. While night guards have a place in protecting your teeth, true healing requires correcting the spinal misalignments and TMJ dysfunction triggering the grinding.

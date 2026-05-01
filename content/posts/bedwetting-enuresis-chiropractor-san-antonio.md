@@ -106,19 +106,19 @@ Beyond the physical effects of chiropractic care, Dr. Foss understands the emoti
 
 The psychological benefits of overcoming bedwetting are just as important as the physical improvements.
 
-## Common Questions About Chiropractic Care for Bedwetting
+## Frequently Asked Questions
 
-**Isn't bedwetting just a developmental stage?**
-While bedwetting is normal up to a certain age, persistent enuresis past age 5-6 suggests underlying neurological dysfunction requiring intervention. Waiting longer only prolongs your child's emotional distress.
+**Isn't bedwetting just a developmental stage that children outgrow?**
+While bedwetting is normal up to a certain age, persistent enuresis past age 5-6 suggests underlying neurological dysfunction requiring intervention. Waiting longer only prolongs your child's emotional distress, and the spinal misalignments causing bedwetting won't self-correct. I've seen dramatic improvements in children who start care early rather than waiting.
 
-**Why haven't medications worked?**
-Medications address symptoms by chemically suppressing bladder function, but they don't correct the neurological problem. When the medication is discontinued, bedwetting returns. Chiropractic care addresses the cause, resulting in lasting improvement.
+**Why haven't medications worked for my child's bedwetting?**
+Medications address symptoms by chemically suppressing bladder function, but they don't correct the neurological problem. When the medication is discontinued, bedwetting returns. Chiropractic care addresses the actual cause—spinal misalignments affecting sacral nerve roots—resulting in lasting improvement and true continence.
 
-**Is chiropractic care safe for children?**
-Absolutely. Dr. Dan Foss uses gentle, age-appropriate techniques specifically designed for pediatric patients. Chiropractic adjustments are extremely safe and have no harmful side effects.
+**Is chiropractic care safe for children, and will adjustments hurt?**
+Absolutely. I use gentle, age-appropriate techniques specifically designed for pediatric patients. Pediatric adjustments are much gentler than adult corrections and use minimal force. Children actually enjoy coming to my office because the care is gentle and they notice results quickly—nothing to fear.
 
-**How long will my child need care?**
-Most children require 6-12 weeks of care to achieve complete resolution of bedwetting. Some cases resolve more quickly; others require extended care. Dr. Foss will provide realistic timelines based on your child's specific condition.
+**How many visits will my child need, and how long before they're dry at night?**
+Most children require 6-12 weeks of consistent care to achieve complete bedwetting resolution. Some show results within 2-4 weeks; others take longer depending on how long the problem persisted and the severity of spinal misalignment. I'll give you a realistic timeline during your child's first evaluation.
 
 ## Why San Antonio Families Choose Pura Vida Chiropractic
 

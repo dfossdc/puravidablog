@@ -93,4 +93,21 @@ I coordinate care with primary care physicians and urologists when needed. The g
 - Lifestyle factors — hydration, anti-inflammatory diet, movement breaks, and stress management — are essential complements to structural care.
 - Urological evaluation and PSA monitoring remain important and should not be deferred.
 
+## Frequently Asked Questions
+
+**Can chiropractic care actually improve prostate symptoms?**
+CMRT addresses the L1-L2 spinal-organ reflex that directly influences prostate function. When I correct subluxations and release pelvic reflex restrictions, most men notice improvement in urinary symptoms, pain, and sexual function within 3-4 weeks. It works because we're addressing the neurological cause, not just symptoms.
+
+**Is this safe with prostate medications?**
+Absolutely safe. Chiropractic complements medication. Keep taking what you're prescribed; as symptoms improve, your doctor might adjust dosages. Mention CMRT care to your urologist—most are supportive of complementary structural approaches.
+
+**How many visits before I improve?**
+Most men notice changes within 2-4 visits, with significant improvement over 4-8 weeks. Timeline depends on severity and how long you've had symptoms. I'll assess you at your first visit and give realistic expectations.
+
+**Will CMRT help my lower back pain and prostate issues together?**
+Yes. The same L1-L2 subluxations and pelvic dysfunction often drive both. Addressing them together is more effective than treating them separately. Many men are surprised how much their back pain improves alongside prostate symptom relief.
+
+**Is treatment invasive, or will I be uncomfortable?**
+CMRT reflex work is fully clothed, gentle, and professional. I treat the medial thigh and sacral areas with light sustained pressure. Most men find it relaxing, not uncomfortable.
+
 You don't have to just live with pelvic discomfort, urinary symptoms, or unexplained lower back pain. Call Pura Vida Chiropractic at **(210) 685-1994** to discuss whether CMRT is right for your situation. We're at 2318 NW Military Hwy #103, San Antonio, TX. Hablamos español.

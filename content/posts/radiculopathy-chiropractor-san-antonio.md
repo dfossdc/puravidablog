@@ -177,6 +177,26 @@ Dr. Dan Foss is bilingual (English/Spanish), advanced SOT certified, and highly 
 
 Our office at 2318 NW Military Hwy Suite 103, San Antonio TX 78231 provides a welcoming environment for patients with nerve pain. We offer convenient hours (Monday, Tuesday, Thursday 7:00am-4:00pm) to accommodate your needs during recovery.
 
+## Frequently Asked Questions
+
+**How quickly will I notice improvement in radiculopathy pain?**
+Many patients experience initial relief within 1-2 weeks—reduced radiating pain, better numbness. Significant functional improvement typically takes 4-6 weeks as the nerve root decompresses and inflammation resolves. Complete resolution usually requires 8-12 weeks depending on how long you've had symptoms and the severity of compression. Acute radiculopathy improves faster than chronic cases.
+
+**Can radiculopathy go away permanently, or will it keep coming back?**
+Radiculopathy can resolve completely when the underlying nerve root compression is corrected and spinal stability is restored. Whether it recurs depends on your compliance with maintenance care, posture, ergonomics, and lifestyle modifications. Many patients prevent recurrence through monthly or quarterly maintenance adjustments. Without that support, old patterns can return.
+
+**Will I need surgery if chiropractic doesn't work?**
+Surgery should only be considered after 12+ weeks of appropriate conservative care has failed. Most radiculopathy improves with proper chiropractic treatment. Surgery is reserved for cases with severe neurological deficit, intractable pain, or rapidly progressive weakness. I have 23 years of experience determining when conservative care is appropriate and when surgery warrants consideration.
+
+**Can you tell the difference between a herniated disc and vertebral subluxation causing my radiculopathy?**
+Both can cause nerve root compression and radiculopathy. A herniated disc is a structural bulge of disc material; a subluxation is misalignment of the vertebrae themselves. Both respond to SOT correction. My examination and imaging review determine the underlying cause, but the treatment principle is the same: decompress the nerve root through alignment correction and inflammation control.
+
+**Can I keep working while being treated for radiculopathy?**
+Yes, with modifications. I provide detailed recommendations about positions and activities that reduce nerve pressure while the spine heals. Most patients can continue working during active care, though some positions or activities may need modification. The goal is to allow functional recovery without reinjury.
+
+**Will laser therapy or other adjunct treatments speed up my radiculopathy recovery?**
+Class IV laser therapy reduces inflammation and promotes nerve cell regeneration, often accelerating recovery by 2-4 weeks. Shockwave therapy helps with disc degeneration and bone spur formation. For chronic radiculopathy or cases with significant nerve damage, these adjuncts can make a meaningful difference. I incorporate them when appropriate for your specific case.
+
 ## Stop Suffering with Radiculopathy
 
 If radiculopathy is limiting your life, preventing you from working, or disrupting your sleep, Dr. Dan Foss at Pura Vida Chiropractic can help. Call us today at (210) 685-1994 to schedule your comprehensive radiculopathy evaluation.

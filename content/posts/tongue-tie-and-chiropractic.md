@@ -105,7 +105,22 @@ For families seeking holistic prenatal and postpartum care, [Birth Center of San
 
 At Pura Vida Chiropractic, we frequently co-manage tongue tie babies alongside IBCLCs and pediatric dentists to ensure the best outcomes. If you have questions about how chiropractic care fits into your baby's feeding journey, call us at [(210) 685-1994](tel:+12106851994).
 
----
+## Frequently Asked Questions
+
+**Does chiropractic care replace tongue tie division?**
+No. If your baby has a true structural tongue tie limiting movement, that may need to be divided by a pediatric dentist or ENT. Chiropractic addresses the muscular restriction and dysfunction in the mouth and neck that accompanies tongue tie. Many babies benefit from both approaches working together.
+
+**When should I bring my baby to the chiropractor for tongue tie concerns?**
+As soon as you notice feeding difficulty or suspect tongue tie. Even before diagnosis. Early intervention with cranial and intraoral work can sometimes resolve feeding issues without needing division. If division is needed, post-division chiropractic care prevents re-tightening.
+
+**Can chiropractic care fix tongue tie without division?**
+Sometimes. If the restriction is muscular rather than structural, yes. If it's a true structural division, probably not — though post-division chiropractic keeps the tissue mobile so it doesn't re-tighten. Your pediatric dentist can assess whether division is needed.
+
+**Will tongue tie come back after division if we do chiropractic care?**
+Much less likely. The real problem isn't just the tight frenulum — it's the muscular restriction in the whole tongue, floor of mouth, and neck. Chiropractic addresses that, so even if the frenulum re-tightens slightly, the tongue can still move and function.
+
+**My baby is already feeding better after chiropractic, but my lactation consultant says there's still a tongue tie. Should we get it divided?**
+Feeding improvement is wonderful, but if the tongue tie is still limiting movement, it may eventually cause problems as your baby grows — speech, orthodontic issues, sleep. Have your pediatric dentist assess whether division is still needed, even if feeding is currently okay.
 
 ## Ready to Feel Better? Book Your Free Consultation Today
 

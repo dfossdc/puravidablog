@@ -95,4 +95,24 @@ Many modern wearables can track HRV. I encourage patients who are interested in 
 - SOT cranial adjusting restores occiput-temporal mobility, decompresses the jugular foramen, and helps normalize vagal tone.
 - Heart rate variability is a measurable, trackable marker of vagal tone that often improves with consistent cranial and CMRT care.
 
+## Frequently Asked Questions
+
+**Can chiropractic really improve my heart rate or digestion?**
+Not directly—chiropractic doesn't "treat" the heart or gut. But by restoring vagal function through cranial adjusting and CMRT, we restore the nervous system's ability to regulate both. When vagal tone improves, heart rate often normalizes and digestion often improves. The changes come from restoring your body's own regulatory systems.
+
+**How quickly will I notice improvement in my digestion or anxiety?**
+Many patients notice improvement within 1-2 weeks—better digestion, reduced bloating, less anxiety. Others take longer—4-6 weeks. The vagus nerve has been dysfunctional for months or years, so nervous system changes take time. But meaningful improvement usually comes faster than you expect once you start care.
+
+**Is it true that the vagus nerve controls anxiety?**
+Significantly influences it. Poor vagal tone means poor parasympathetic tone—so your nervous system defaults to fight-or-flight. You feel anxious even when there's nothing to be anxious about. Restoring vagal function helps your nervous system access the calm parasympathetic state naturally. It's not a cure for anxiety disorders, but it's foundational support.
+
+**Can I measure my vagal tone improvement?**
+Yes. Heart rate variability (HRV) is a measurable marker of vagal function. Many wearables track it. Patients who monitor HRV often see meaningful improvements over weeks and months of cranial and CMRT care. It's encouraging to watch the numbers improve as your nervous system rebalances.
+
+**If my vagus nerve is compressed, will that eventually cause a heart problem?**
+Chronic low vagal tone contributes to cardiovascular disease over time through mechanisms like poor autonomic regulation and elevated inflammation. Restoring vagal function doesn't prevent all cardiac problems, but it supports healthy autonomic regulation—which is part of cardiac health. If you have existing heart disease, work with your cardiologist alongside chiropractic care.
+
+**Is cranial adjusting safe if I have cardiac issues?**
+Yes. Cranial adjusting is extremely gentle and actually tends to parasympathetic activation—which is beneficial for the heart. If you have serious cardiac issues, mention them at your consultation so I can tailor approach appropriately. But in general, gentle vagal restoration supports cardiac health rather than challenging it.
+
 If you've been living in a chronic state of stress, digestive dysfunction, or fatigue and nothing has gotten to the root of it, the vagus nerve may be a key piece of your puzzle. Call Pura Vida Chiropractic at **(210) 685-1994**. We're located at 2318 NW Military Hwy #103 in San Antonio, and we offer care in English and Spanish.

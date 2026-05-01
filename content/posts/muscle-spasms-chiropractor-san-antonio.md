@@ -202,6 +202,23 @@ Dr. Dan Foss brings specialized expertise in muscle spasm treatment with credent
 - Fluent in English and Spanish
 - Commitment to addressing root causes rather than just treating symptoms
 
+## Frequently Asked Questions
+
+**Why do my muscles keep spasming in the same spot, and what does that tell me?**
+Repetitive spasms in one location usually indicate an underlying spinal subluxation or trigger point in that area—your muscle is protecting something. That "something" could be a misaligned vertebra, a reflex dysfunction, or a muscle imbalance. Your body is smart; it spasms for a reason. Finding that reason is how we stop the pattern instead of just treating symptoms with medications.
+
+**Can chiropractic care really prevent spasms from coming back?**
+Yes, but only if we address the root cause. If spasms are from a spinal subluxation, correction prevents recurrence. If they're from trigger points, we release them and teach you prevention. If they're from reflex dysfunction, CMRT normalizes the pattern. Many patients are amazed how quickly spasm frequency drops once the underlying cause is corrected—often within 1-2 weeks.
+
+**How many visits will I need for muscle spasms to stop?**
+Most patients see meaningful improvement within 1-2 weeks. Complete resolution of the spasm tendency typically requires 4-8 weeks depending on severity, how long you've had spasms, and your commitment to treatment. Typical frequency is 1-3 visits per week initially, tapering as spasms improve. I'll give you a realistic timeline after evaluating you.
+
+**Is chiropractic care safer than muscle relaxant medications for spasms?**
+Absolutely. Muscle relaxants provide temporary relief but don't address the cause—they often lose effectiveness, can cause drowsiness and dependency, and sometimes mask spasms while the underlying problem worsens. Chiropractic actually resolves the cause, providing lasting relief without side effects or dependency risk.
+
+**What should I do when a spasm hits—stretch it out, ice it, or rest?**
+The answer depends on what's causing it, which is why I teach patients specific strategies during treatment. Generally: gentle stretching relieves some spasms while heat helps others. I'll teach you which works for your specific pattern, so you can manage spasms between visits while we address the root cause.
+
 ## Contact Us Today
 
 If muscle spasms are interfering with your daily life, don't settle for medications and temporary relief. Dr. Foss can help you identify and resolve the underlying causes.

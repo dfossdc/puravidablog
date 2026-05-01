@@ -175,6 +175,23 @@ Dr. Dan Foss is bilingual (English/Spanish), advanced SOT certified, and highly 
 
 Our office at 2318 NW Military Hwy Suite 103, San Antonio TX 78231 provides a welcoming environment for cluster headache sufferers. We offer convenient hours (Monday, Tuesday, Thursday 7:00am-4:00pm) to accommodate treatment needs.
 
+## Frequently Asked Questions
+
+**Are cluster headaches the same as migraines?**
+No, cluster headaches are distinctly different from migraines. Cluster headaches are excruciating, one-sided pain concentrated around the eye, occurring in clusters of episodes lasting weeks or months. Migraines involve throbbing head pain throughout the head. Cluster headaches are rare but severely debilitating. Many patients struggle for years before proper diagnosis. If you have severe one-sided eye pain in cycles, proper evaluation is essential.
+
+**Can anything really help with cluster headaches?**
+Conventional medicine offers limited options—some medications help but aren't universally effective. Chiropractic care addresses the underlying neurological and structural factors that can perpetuate cluster headaches. While cluster headaches are challenging, SOT and cranial work targeting the trigeminal nerve pathways have helped many patients achieve significant relief or complete resolution.
+
+**Is there a cure for cluster headaches?**
+Complete resolution is possible, though cluster headaches are notoriously difficult to treat. My approach targets the neural pathways and structural factors involved in cluster generation. Many patients experience complete elimination of episodes, others achieve significant reduction in frequency and severity. The key is comprehensive treatment addressing all contributing factors, not just symptom management.
+
+**How quickly can I expect relief from cluster headaches?**
+Relief timeline varies significantly. Some patients experience improvement within a few visits, while others need several weeks of consistent care to see changes. Cluster headaches are complex, so patience is important. Once improvement begins, most patients notice progressive resolution. I'll establish a treatment plan and monitor progress carefully, adjusting as needed.
+
+**Should I continue conventional cluster headache medications while starting chiropractic care?**
+Yes, absolutely. Continue any medications prescribed by your medical doctor. Chiropractic care complements medical treatment rather than replacing it. As your nervous system function improves, you can discuss with your doctor potentially reducing medications. This collaborative approach gives you the best chance of recovery—medical support while we address underlying structural and neurological factors.
+
 ## Stop Accepting Cluster Headaches as Your Fate
 
 Cluster headaches are severe, but they're not untreatable. Dr. Dan Foss at Pura Vida Chiropractic has the specialized expertise to help you reduce or eliminate these debilitating attacks.

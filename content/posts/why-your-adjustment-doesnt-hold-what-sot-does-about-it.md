@@ -93,4 +93,21 @@ One session without full correction doesn't tell you much. But three sessions in
 - CMRT addresses the visceral component. Blocks address the ligamentous and dural component. Cranial work addresses the superior dural attachment and cervical stability.
 - The Pura Vida Protocol integrates SOT, CMRT, cranial adjusting, and adjunctive therapies to address every layer of why problems persist.
 
+## Frequently Asked Questions
+
+**Why does my adjustment feel great for a day or two and then come back?**
+Most often it's one of three things: a visceral reflex driving the segment back into dysfunction, dural tension pulling the bones toward an attachment point, or a primary lesion below the symptom site that was never addressed. After 23 years of practice, those are the three drivers I see over and over in patients who've been adjusted by other chiropractors without lasting results.
+
+**How is SOT different from regular chiropractic?**
+Standard chiropractic adjusts where it hurts. SOT works foundation-up — pelvis first, spine second, cranium third — and uses categorized diagnosis to find the primary lesion before any manipulation happens. It's also low-force, using sacral blocks and the patient's own body weight rather than high-velocity thrusts.
+
+**What's the difference between CMRT and standard cranial work?**
+CMRT (Chiropractic Manipulative Reflex Technique) addresses viscero-somatic reflexes — the connection between organs and the spine. Cranial work addresses the bones of the skull and the dural tube. They solve different problems, and they often need to be done together.
+
+**How long until I know if SOT is going to work for me?**
+Most patients can tell within three to four visits whether the corrections are starting to hold. Category II ligamentous cases take longer to fully stabilize — often three to six months — but functional improvement usually shows up well before that.
+
+**Do I need to switch chiropractors, or can I add SOT to my current care?**
+That depends on your situation. Some patients benefit from a focused SOT evaluation while continuing other care. Others need a complete reset because the previous approach was reinforcing the wrong patterns. We figure that out together at your free consultation. Call **(210) 685-1994** and we'll talk through your history before you commit to anything.
+
 If you've been stuck in the temporary-relief cycle, I'd love to do a thorough evaluation and find out what's really driving your problem. Call Pura Vida Chiropractic at **(210) 685-1994** and schedule with Dr. Dan Foss. Serving San Antonio in English and Spanish — because everyone deserves care that actually holds.

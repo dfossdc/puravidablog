@@ -90,4 +90,24 @@ We are bilingual — English and Spanish — and serve moms from Stone Oak, Cast
 
 Call **(210) 685-1994** or [book your free consultation online](https://puravidasanantonio.com/special/). If you are pregnant or trying to conceive, this is the visit that may matter most. There is no pressure, no commitment to treatment — just a conversation about whether what we do is right for you.
 
+## Frequently Asked Questions
+
+**Is it safe to get adjusted in the first trimester?**
+Yes, absolutely. In fact, first trimester care can prevent many problems that develop later. We use gentle techniques specifically designed for pregnancy at every stage. There's no reason to wait until the third trimester—earlier care prevents pain and complications that are much harder to treat later.
+
+**What's the difference between what you do and what a regular chiropractor does?**
+Prenatal-specific chiropractic uses specialized positioning, tables, and pillows designed for your changing body. Webster Technique is specifically developed to address pelvic balance during pregnancy. Most general chiropractors aren't trained in these approaches. You want someone who specializes in pregnancy care.
+
+**Will chiropractic help my baby turn if breech?**
+Webster Technique combined with Spinning Babies movements gives you the best chance—around 60-80% success rate when started by 34-36 weeks. It's not a baby-turning technique; it's a pelvis-balancing technique that removes constraint so your baby can turn himself. Combined care works better than either alone.
+
+**Can I get adjusted right up to delivery?**
+Yes. In fact, care right up to labor often helps. Pelvic balance supports easier labor and can reduce pain. Many moms come in the week before their due date for final alignment optimization. Some even come during early labor. It's never too late to support your body's preparation for birth.
+
+**Will chiropractic help me avoid an epidural or increase my chances of vaginal birth?**
+We can't promise that, but better pelvic alignment and spinal stability support easier labor. When your pelvis is open and your spine is balanced, labor often progresses more smoothly and pain is often more manageable. Many patients tell us they recovered better or had shorter labors. But every pregnancy is different.
+
+**What if I'm already past 36 weeks?**
+Never too late. Even if you start at 38 or 39 weeks, care can help. It's more intensive and results are more variable than starting earlier, but positioning support and pelvic alignment still matter. Some babies reposition even in the final weeks when given the opportunity.
+
 You are not just pregnant. You are building a person. Let us help you do it as easily as your body was designed to.

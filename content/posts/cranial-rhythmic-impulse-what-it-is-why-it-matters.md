@@ -81,4 +81,21 @@ Patients often experience profound relaxation during this process. Many describe
 - A normal CRI is symmetric, smooth, and full. A restricted CRI is asymmetric, diminished, or irregular — and reflects impaired brain nourishment.
 - Cranial treatment aims to restore normal CRI rhythm by releasing cranial bone restrictions and normalizing the dural membrane environment.
 
+## Frequently Asked Questions
+
+**Can you really feel the cranial rhythmic impulse, or is it imaginary?**
+Yes, you can feel it. It's a measurable rhythm driven by cerebrospinal fluid production and reabsorption. Any trained cranial practitioner — osteopath or chiropractic — can palpate it. If you doubt it, place your fingers gently at the base of someone's skull and wait for about a minute. You'll feel a slow rhythm separate from their heartbeat and breathing. That's the CRI. It's as real as any other rhythm in the body.
+
+**If my cranial rhythm is restricted, what does that mean for my health?**
+It means cerebrospinal fluid isn't circulating efficiently, which affects your brain's nourishment and waste removal. Patients with restricted CRI typically experience brain fog, unexplained fatigue, sensitivity to stimulation, or low-grade headaches that don't respond to standard treatment. Once the CRI normalizes, many of those symptoms improve significantly.
+
+**How do you fix a restricted cranial rhythm?**
+I apply a gentle, specific contact to the restricted area and then wait. The body does the work — I'm just removing the restriction. You'll feel a subtle release or shift, and then the rhythm resumes more smoothly. It's completely different from spinal adjustment — much gentler, no force involved. Many patients experience deep relaxation during the treatment.
+
+**Is cranial work safe? Are you actually moving my skull bones?**
+Yes, skull bones do move slightly — it's documented anatomy. The movements are extremely subtle and guided by your own cerebrospinal fluid pressure, not forced. Cranial work is safe at any age, even for newborns. It's especially beneficial for children with birth trauma patterns that have never been released.
+
+**Will cranial treatment help if my imaging is normal?**
+Likely yes. Imaging shows structural damage — fractures, tumors, degeneration. It doesn't show functional problems or restricted cerebrospinal fluid circulation. If you have symptoms but normal imaging, cranial work often identifies and corrects the problem imaging can't see.
+
 If you've been told your tests are normal but you still don't feel well, your CRI might be telling a different story. Call Pura Vida Chiropractic at **(210) 685-1994** and schedule a cranial evaluation with Dr. Dan Foss. We serve San Antonio in English and Spanish.

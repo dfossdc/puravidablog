@@ -238,6 +238,26 @@ Desconfía si:
 - **Reseñas consistentemente pobres** — patrón de insatisfacción
 - **Requiere pagos por adelantado grandes** — riesgoso
 
+## Preguntas Frecuentes
+
+**¿Cuál es la diferencia entre un quiropráctico regular y uno certificado en SOT?**
+SOT (Técnica Sacro-Occipital) es una especialidad avanzada que requiere entrenamiento y certificación adicionales. Los doctores regulares aprenden ajustes básicos en la escuela quiropráctica. Los certificados en SOT han estudiado técnicas más complejas y precisas enfocadas en equilibrio neurológico profundo, no solo alineación espinal. Es como la diferencia entre un doctor general y un especialista.
+
+**¿Debo conseguir radiografías en la primera visita?**
+Depende de su condición. Las radiografías son valiosas para identificar desalineaciones específicas y descartar problemas más serios. Sin embargo, si su condición es simple y reciente, el doctor podría recomendarcuidado sin radiografías inicialmente. Un buen doctor explica por qué las recomienda o no. No es una "venta automática" — es clínico.
+
+**¿Cuánto debo pagar en la primera cita?**
+Las primeras citas cuestan típicamente más porque incluyen examen completo, análisis y a veces radiografías. Espere pagar entre 150-250 dólares. Las citas de seguimiento son generalmente 60-100 dólares. Un buen doctor es transparente sobre los costos por adelantado, sin sorpresas después. Si el doctor no explica el costo antes del servicio, ese es una bandera roja.
+
+**¿Necesitaré paquetes de 20-30 sesiones?**
+No necesariamente. Un buen doctor comienza con una estimación basada en su evaluación. Para lesiones agudas simples, quizá 6-8 sesiones. Para problemas crónicos complejos, podría ser 12-20 o más. El doctor responsable reevalúa después de 4 semanas y ajusta el plan. Si alguien presiona a comprar 30 sesiones sin evaluar primero, sea escéptico.
+
+**¿Cómo sé si un quiropráctico tiene buena reputación?**
+Busque reseñas en Google, Yelp y su sitio web. Lea críticas negativas — son más reveladoras que elogios. Pregúntele referencias a pacientes que ha tratado. Llame al Texas Chiropractic Board para verificar si ha habido quejas. Un doctor con 23 años de práctica y referencias verificables es más confiable que alguien nuevo sin historial.
+
+**¿Debería elegir un quiropráctico cerca de mi casa o aceptar uno más lejano con mejores credenciales?**
+Las credenciales son más importantes que la proximidad cuando se trata de resultados. Si un doctor certificado en SOT es 20 minutos más lejos pero tiene expertise especializada para su condición, generalmente vale la pena. Sin embargo, si hay dos doctores igualmente calificados, la proximidad ayuda con consistencia de citas.
+
 ## El Dr. Dan Foss — Un Ejemplo de Lo Que Buscar
 
 Si buscas un ejemplo de lo que debería buscar:

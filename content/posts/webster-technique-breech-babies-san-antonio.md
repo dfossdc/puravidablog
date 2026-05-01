@@ -99,6 +99,26 @@ While the Webster Technique is most famous for helping breech babies, its benefi
 
 Whether your baby is already head-down or you want to prevent breech presentation, Webster care is an investment in your pregnancy wellness.
 
+## Frequently Asked Questions
+
+**Does the Webster Technique force my baby to turn, or does it just remove barriers?**
+It removes barriers. The Webster Technique does not involve external pressure or forceful manipulation. Instead, it releases pelvic restrictions so your baby has more room and can naturally reposition themselves. Your baby's innate drive to find the optimal position takes over once the constraint is removed.
+
+**When is it too late to try Webster Technique?**
+Effectiveness is highest when care begins before 35 weeks. However, Webster can still help after 35 weeks—it may just require more visits and coordination with your medical team. We never turn away a mom, no matter how late in pregnancy she arrives.
+
+**What if my baby is already head-down? Should I still get Webster care?**
+Yes, if you want to maintain optimal pelvic balance through the third trimester. Preventive Webster care ensures that any developing pelvic restrictions are corrected before they become barriers to optimal positioning. Many moms maintain Webster care even when babies are already vertex.
+
+**How does Webster Technique compare to external cephalic version (ECV)?**
+ECV is forceful—the OB applies external pressure directly on your baby to try to turn them. Webster is completely different: it's gentle, removes structural barriers, and allows your baby to turn themselves. Webster works with your baby's innate drive; ECV works against your baby. No external pressure is involved in Webster.
+
+**How many visits do I typically need?**
+This varies based on severity and how long the restriction has been present. Some cases resolve in 3-4 visits. Others require weekly visits until breech presentation converts to vertex. Dr. Foss will outline what to expect based on your specific situation.
+
+**Can I continue my normal prenatal care while doing Webster Technique?**
+Absolutely. Webster is complementary to your OB or midwife care. Continue all your regular prenatal visits, ultrasounds, and medical monitoring. Let both your birth provider and chiropractor know you're doing Webster care so they can coordinate.
+
 ## Ready to Explore Webster Technique?
 
 If your baby is breech or you want to optimize your pelvic function during pregnancy, call us today. We offer a free consultation — no exam, no pressure, just a conversation about whether Webster Technique is right for you.

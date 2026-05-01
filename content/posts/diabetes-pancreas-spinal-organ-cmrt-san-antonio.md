@@ -84,6 +84,23 @@ To get the best results, combine chiropractic care with the fundamentals:
 
 When these pieces work together, real metabolic change happens.
 
+## Frequently Asked Questions
+
+**Can chiropractic care cure diabetes or let me stop my medications?**
+No, and I would never recommend that. Diabetes is a metabolic condition that requires medical management. What I'm addressing is the nervous-system dysfunction that's either contributing to the problem or making it harder to control. Many patients are able to reduce medication doses under their doctor's supervision once insulin sensitivity improves, but that decision is between you and your endocrinologist, not me.
+
+**How does fixing my thoracic spine help my blood sugar?**
+Your thoracic spine houses the autonomic nerves that control your pancreas. When T6-T9 are misaligned, they irritate the sympathetic pathways and suppress insulin secretion. Correcting that alignment allows your parasympathetic (rest-and-digest) tone to come back, which tells your pancreas "make insulin." Better insulin secretion means better blood-sugar control.
+
+**I've had good blood-sugar control with diet and medication. Would chiropractic care help me?**
+Yes, it could. Even if your current regimen is working, chiropractic care that restores autonomic balance reduces the load on your pancreas and helps your insulin sensitivity improve. Many patients find they need less medication over time, or their A1C improves beyond what diet and exercise alone achieve. It's a complementary piece.
+
+**What about diabetic neuropathy? Can chiropractic reverse the nerve damage?**
+Chiropractic cannot reverse nerve damage that's already been done. But it can significantly reduce the pain associated with neuropathy by improving nervous system function. Many diabetic patients with neuropathy report major pain reduction after weeks and months of consistent care — even though the underlying nerve damage is permanent.
+
+**How long does it take to see improvement in my blood sugar?**
+Some patients notice improved glucose readings within 2-4 weeks. Significant improvements in insulin sensitivity and overall metabolic function usually take 8-12 weeks of consistent care. The timeline depends on how long you've had diabetes and how strictly you follow the lifestyle fundamentals alongside your chiropractic care.
+
 ## Ready to Address the Spinal-Nervous-System Side of Diabetes?
 
 If you are living with pre-diabetes, type 2 diabetes, or metabolic syndrome in San Antonio, your spine may be a piece of the puzzle you have never explored. I serve patients from Stone Oak, Castle Hills, Alamo Heights, and Helotes.

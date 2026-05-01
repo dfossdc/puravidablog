@@ -268,6 +268,23 @@ Dr. Dan Foss is bilingual (English/Spanish), making him accessible to San Antoni
 
 Our office at 2318 NW Military Hwy Suite 103, San Antonio TX 78231 provides a welcoming environment for injured workers. We work directly with employers, workers' compensation insurers, and physicians to coordinate comprehensive care. We offer convenient hours (Monday, Tuesday, Thursday 7:00am-4:00pm) to accommodate work schedules.
 
+## Frequently Asked Questions
+
+**Will getting treatment affect my workers' compensation claim?**
+No. Chiropractic is a covered treatment under workers' compensation. Treatment actually supports your claim by documenting your injury and progress. The key is getting proper medical documentation, which we provide.
+
+**Can I work while being treated for a work injury?**
+Usually yes. Most work injuries allow modified duty work while healing. I design treatment plans and activity modifications that let you continue working without re-injuring yourself. We'll discuss what's safe based on your specific job.
+
+**How long before I can return to full duty?**
+That depends on the severity of your injury and how demanding your job is. Most people return to modified duties within 1-2 weeks and full duty within 4-8 weeks. I'll give you a realistic timeline based on your specific injury and job.
+
+**What if the injury isn't getting better?**
+Most work injuries improve substantially with chiropractic care. If progress plateaus, I'll coordinate with medical specialists to rule out things requiring medical intervention. But this is rare — most work injuries respond well.
+
+**Will the injury happen again?**
+If we address the structural cause (spinal misalignment, poor ergonomics) rather than just treating symptoms, recurrence risk drops significantly. Good ergonomic habits and periodic maintenance visits prevent most recurrences.
+
 ## Return to Full Work Function
 
 Work injuries don't have to mean prolonged disability and lost productivity. Dr. Dan Foss at Pura Vida Chiropractic has the expertise and specialized techniques to help you recover from your work injury and return to full functional capacity.

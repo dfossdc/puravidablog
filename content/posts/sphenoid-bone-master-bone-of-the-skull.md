@@ -77,6 +77,26 @@ Treatment involves extremely light, sustained contact — the pressure is measur
 
 My SOT craniopathy certification through SORSI represents advanced training in exactly this type of work. It is a distinct clinical skill set — different from standard cervical manipulation — and not every chiropractor performs it.
 
+## Frequently Asked Questions
+
+**Can sphenoid bone restriction actually affect my hormones?**
+Yes. The pituitary gland sits directly in a saddle-shaped depression (the sella turcica) carved into the sphenoid bone. When the sphenoid is under mechanical stress or restricted in its motion, dural tension is transmitted through the sella turcica, affecting the pituitary's mechanical environment. While the sphenoid isn't the cause of endocrine disease in isolation, it is a structural variable that can compound hormonal dysregulation.
+
+**How can a restricted sphenoid cause vision problems if my eyes are healthy?**
+The optic nerves travel from your eyes through the optic canals—bony tunnels drilled through the sphenoid's lesser wings. When the sphenoid is restricted or torqued, these canals can be slightly narrowed or misaligned. This creates functional vision discomfort—headaches behind the eyes, visual fatigue, light sensitivity, pressure around the eye sockets—despite normal eye health.
+
+**What's the connection between sphenoid restriction and sinus problems?**
+The sphenoidal sinuses (the deepest and most centrally located sinuses in the skull) are located within the sphenoid bone and drain through small openings into the nasal passages. When the sphenoid is restricted, its motion is impaired and sinus drainage becomes compromised, leading to deep pressure behind the eyes and generalized cranial fullness that doesn't respond well to standard sinus medications.
+
+**Can sphenoid adjustments help with chronic headaches?**
+Yes. When sphenoid restriction is the contributing cause, gentle cranial adjusting using SOT techniques can help. These adjustments restore sphenoid mobility and normalize cranial dural tension. Many patients with chronic headaches that haven't responded to standard care find relief through cranial adjusting addressing the sphenoid.
+
+**How is sphenoid assessment and adjustment different from standard chiropractic?**
+Standard chiropractic focuses on the spine. Sphenoid assessment and adjustment requires SOT craniopathy certification—advanced training in cranial bone anatomy, motion, and the techniques needed to gently restore normal cranial function. This training is not part of most chiropractic programs and requires years of post-doctoral education through SORSI.
+
+**Is sphenoid adjusting safe?**
+Yes. Cranial adjustments use extremely light contact—often no more than a few ounces of pressure. There's no forceful manipulation. The techniques are designed to restore the sphenoid's natural motion and position using the body's own healing mechanisms. SOT craniopathy is a safe, effective approach when performed by a properly trained practitioner.
+
 ## Key Takeaways
 
 - The sphenoid is the central cranial bone, articulating with all eight other cranial bones. Its position and motion affect the entire cranial mechanism.

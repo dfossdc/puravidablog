@@ -148,6 +148,26 @@ Una parte importante del tratamiento es educar a los pacientes sobre cómo preve
 
 **Estiramientos regulares:** Realice estiramientos suaves del cuello varias veces al día.
 
+## Preguntas Frecuentes
+
+**¿Cuánto tiempo tarda en desaparecer el cuello de texto?**
+Con tratamiento quiropráctic activo, muchos pacientes notan mejora en 2-3 semanas. Sin embargo, la recuperación completa típicamente toma 4-8 semanas porque los músculos y ligamentos del cuello se han adaptado a una posición incorrecta durante meses. El tiempo total depende de qué tan severo es su cuello de texto y cuánto tiempo ha estado en esa posición.
+
+**¿Puedo tratar el cuello de texto solo con ejercicios en casa?**
+Los ejercicios ayudan, pero no son suficientes solos. El cuello de texto es principalmente un problema de alineación vertebral y desalineación cervical. Los ejercicios pueden fortalecer los músculos débilitados, pero no corrigen la desalineación subyacente. La quiropráctica restaura la alineación, luego los ejercicios mantienen esa alineación.
+
+**¿Qué tan importante es la postura para cuello de texto?**
+Extremadamente importante. Si continúa mirando hacia abajo a su teléfono después del tratamiento, el cuello de texto regresa. El Dr. Foss proporciona educación específica: mantener el teléfono a la altura de los ojos, tomar descansos cada 20-30 minutos, y practicar consciencia postural durante todo el día. La postura correcta es tanto parte del tratamiento como los ajustes quiroprácticos.
+
+**¿Es seguro la terapia láser para el cuello?**
+Completamente segura. La terapia láser Clase IV penetra profundamente en los tejidos del cuello estimulando la curación celular. No hay radiación ionizante, sin dolor, sin efectos secundarios. De hecho, muchos pacientes encuentran que la terapia láser acelera dramáticamente la recuperación del cuello de texto, especialmente cuando hay inflamación significativa.
+
+**¿El cuello de texto puede causar dolores de cabeza o mareos?**
+Sí. La desalineación cervical afecta el sistema nervioso central y la función del tallo cerebral, causando dolores de cabeza, vértigos, y confusión mental. Cuando se corrige la alineación cervical, estos síntomas frecuentemente desaparecen. Muchos pacientes reportan no solo mejor cuello sino también menos dolores de cabeza y más claridad mental después del tratamiento.
+
+**¿Necesitaré radiografías para el cuello de texto?**
+Generalmente sí. Las radiografías revelan cuánta desalineación cervical existe, si hay disminución del espacio discal, y otros cambios degenerativos. Esta información ayuda al Dr. Foss a crear un plan de tratamiento más preciso. Las radiografías también descartan otras condiciones como fracturas o problemas más serios.
+
 ## Por Qué Elegir Pura Vida Chiropractic
 
 Pura Vida Chiropractic ha sido la opción confiable para quiropráctica en San Antonio desde 2010. El Dr. Dan Foss ofrece:

@@ -67,4 +67,21 @@ My role in the process is the structural one: restoring normal cranial bone mech
 - Treatment is gentle, specific, and typically produces noticeable improvement within four to eight sessions for uncomplicated post-concussion cases.
 - Multiple cumulative concussions create layered patterns of cranial restriction that require more extended care.
 
+## Frequently Asked Questions
+
+**How soon after a concussion can I receive cranial adjusting?**
+Immediate cranial adjusting isn't appropriate if you have acute concussion symptoms or altered consciousness. However, once acute symptoms stabilize, cranial work becomes valuable. I typically wait 1-2 weeks for mild concussions before beginning gentle cranial adjusting. For more severe TBI, the timeline is longer. During your consultation, I'll assess your specific situation and recommend an appropriate timeline for beginning care.
+
+**Can cranial adjusting fix post-concussion symptoms like brain fog and dizziness?**
+Yes, many post-concussion symptoms—brain fog, dizziness, headaches, balance problems—improve significantly with cranial adjusting. These symptoms often result from cranial misalignment and cerebrospinal fluid restriction created by the impact. Gentle cranial work restores proper skull structure and cerebrospinal fluid flow, allowing these symptoms to resolve. Most patients experience meaningful improvement over weeks to months of care.
+
+**Is cranial adjusting appropriate for concussions in children?**
+Absolutely, and pediatric concussion recovery is where cranial adjusting shines. Children's healing capacity is remarkable, and gentle cranial corrections support that healing. Pediatric patients typically recover faster than adults. Many children who would otherwise have prolonged post-concussion syndrome experience rapid improvement with proper cranial care. If your child has had a concussion, evaluation is important.
+
+**Should I continue seeing my neurologist while receiving cranial adjusting for concussion?**
+Yes, collaborative care is best. Your neurologist monitors for serious complications while cranial adjusting addresses the structural and neurological factors supporting recovery. Some neurologists are unfamiliar with chiropractic care, but many recognize that comprehensive treatment yields better outcomes. I'm happy to communicate with your medical doctors about your care.
+
+**How long do post-concussion symptoms typically last with chiropractic care?**
+Most patients notice significant improvement within 4-6 weeks of consistent cranial care. Many achieve complete resolution of symptoms within 2-3 months. Some patients with severe or repeated concussions require longer treatment. Post-concussion recovery depends on concussion severity, your overall health, and how quickly you begin appropriate care. Early intervention typically speeds recovery dramatically.
+
 If you or someone you care about has been suffering from post-concussion symptoms with no end in sight, cranial assessment may provide answers that imaging hasn't. Call Pura Vida Chiropractic at **(210) 685-1994** to schedule an evaluation with Dr. Dan Foss. We are here for the San Antonio community in English and Spanish.

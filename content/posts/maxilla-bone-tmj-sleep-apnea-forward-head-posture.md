@@ -59,6 +59,26 @@ The adjustment involves a very specific contact, typically using the thumb place
 
 This kind of work is best done in collaboration with a dentist or orthodontist who understands functional airway and palate development. I maintain those relationships in San Antonio because some findings — particularly a severely compressed palate in an adult — may benefit from both cranial adjusting and dental intervention working together.
 
+## Frequently Asked Questions
+
+**How does the maxilla affect my TMJ pain if my dentist says everything looks normal?**
+The maxilla's functional position—not just its appearance—determines where your upper teeth sit and where your jaw closes. A maxilla that is compressed or asymmetrically rotated creates an unstable occlusal foundation. Your TMJ then works from an incorrect condylar position every time you move your jaw, causing chronic strain even if the dentist sees no structural "problem."
+
+**Can fixing my palate really help my sleep apnea?**
+Yes. A narrow palate directly narrows your nasal passages, which compromises nasal breathing. When nasal breathing is restricted, your body compensates by mouth breathing and dropping your jaw forward—exactly the position that reduces your airway diameter during sleep. Gentle maxillary correction can improve palate width, restore nasal airway, and reduce or eliminate sleep apnea in many patients.
+
+**Why does my C1 adjustment never hold?**
+The maxilla has a direct mechanical relationship with the C1 through the sphenoid bone. When the maxilla is displaced, it torques the sphenoid, which transmits to the occiput, which then pulls C1 back into subluxation. Your C1 adjustment can't hold because the driving force is coming from above. Concurrent maxillary correction is usually necessary for lasting cervical stability.
+
+**Is maxillary correction safe for infants?**
+Yes, absolutely. Infant cranial adjustments involve the gentlest touch—pressure equivalent to testing the firmness of a tomato. There is no popping, no force. When an infant struggles with nursing and tongue tie has been ruled out, a compressed maxilla from birth trauma often responds beautifully to gentle cranial adjusting—results can be profound even though the treatment looks like barely anything is happening.
+
+**Does the maxilla need to be adjusted by a dentist, or can a chiropractor do it?**
+A chiropractor with SOT Craniopathy certification, like Dr. Dan Foss, can assess and adjust the maxilla. Some findings—particularly a severely compressed palate in an adult where functional airway is compromised—benefit from both cranial adjusting and dental intervention working together. I maintain relationships with local dentists and orthodontists for collaborative cases.
+
+**Can poor posture alone cause forward head posture, or is the maxilla involved?**
+If the maxilla is narrow and nasal breathing is compromised, forward head posture is not a postural habit—it's a structural adaptation. The head follows the airway to an open position. Simply telling someone to "stand up straight" asks them to override a survival reflex. Until the underlying airway restriction is addressed, the head will return to forward position when the patient isn't actively correcting it.
+
 ## Key Takeaways
 
 - The maxilla is a cranial bone that directly influences the TMJ, airway, atlas (C1), and head posture.

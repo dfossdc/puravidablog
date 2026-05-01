@@ -94,4 +94,24 @@ I always take a careful history and refer when the clinical picture warrants it.
 - Kidney stress has a documented connection to blood pressure regulation through the renin-angiotensin system.
 - Red-flag symptoms warrant immediate medical referral.
 
+## Frequently Asked Questions
+
+**How can I tell if my back pain is kidney-related vs. just a muscle or disc problem?**
+Kidney pain is typically a dull, persistent ache in the flank and costovertebral angle (where your lower ribs meet your spine) that doesn't change much with movement or position—disc pain worsens with flexion or extension. Kidney pain is often bilateral or alternates sides. It may be accompanied by fatigue, puffiness, or urinary changes. During examination, I assess Chapman's points and your pain pattern to distinguish the two.
+
+**Does this mean I have kidney disease?**
+Not necessarily. Functional kidney stress from dehydration, NSAIDs, or lifestyle factors is different from kidney disease. My work addresses the functional stress and the neurological reflex pattern it creates—the back pain component. If your kidney labs are normal and no pathology is present, we're treating the reflex, not a disease.
+
+**Will chiropractic lower my blood pressure if it's elevated?**
+I can't claim that chiropractic "treats" hypertension as a primary intervention. But since the kidneys regulate blood pressure through the renin-angiotensin system, addressing kidney stress may help normalize blood pressure if that stress was contributing. I've seen patients' BP improve alongside resolution of kidney-related back pain, but this is a secondary benefit, not a promise.
+
+**How much water should I drink to support my kidneys?**
+General guidance is half your body weight in ounces per day, plus extra for heat and exercise. In San Antonio, that often means 80-100 ounces daily for most people. If you're working outdoors or exercising heavily, add more. Pale yellow urine is a good sign; dark urine means you need more water. I always discuss hydration with patients showing kidney reflex activity.
+
+**I take NSAIDs regularly for my back pain. Should I stop?**
+This is important to discuss with your prescribing doctor. Long-term NSAID use is documented as a kidney stressor and can contribute to chronic kidney disease. If NSAIDs are driving both your back pain AND creating kidney stress, addressing the root structural cause through chiropractic might allow you to reduce NSAID dependence. Work with your doctor on this decision.
+
+**Can the kidney protocol work if I've been dealing with this pain for years?**
+Yes. Chronic patterns take longer to shift than acute ones, but viscero-somatic reflex patterns can absolutely normalize even after years. I've treated patients with 10+ years of stubborn lower back pain who finally got lasting relief once the kidney component was addressed. Patience and consistency matter, but improvement is realistic.
+
 If your lower back pain has been stubborn, recurrent, or accompanied by fatigue and fluid retention, it may be time to look at the kidney connection. Call Pura Vida Chiropractic at **(210) 685-1994** to schedule a full CMRT evaluation. We're at 2318 NW Military Hwy #103, San Antonio, and we'd be glad to work with you in English or Spanish.

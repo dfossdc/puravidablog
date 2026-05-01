@@ -105,6 +105,23 @@ Durante 23 años, el Dr. Foss ha cuidado a miles de niños — desde recién nac
 
 Es bilingüe (inglés y español), cómodo con familias multigeneracionales, y disponible para cuidado urgente si su hijo se lesiona antes de un evento.
 
+## Preguntas Frecuentes
+
+**¿Qué hace que la quiropráctica pediátrica sea diferente en Helotes?**
+No es diferente—es el mismo protocolo avanzado que ofrezco en todas mis ubicaciones. Sin embargo, estableci esta ubicación específicamente para servir a familias en el área de Helotes. Recibir cuidado local, cerca de casa, es más conveniente y promueve consistencia en el tratamiento.
+
+**¿Necesita mi hijo citas regulares o solo cuando está enfermo?**
+Idealmente, ambas. Los ajustes preventivos mensuales mantienen a los niños sanos y apoyando su desarrollo. Cuando están enfermos, vienen inmediatamente para acelerar la recuperación. La prevención es siempre más fácil que el tratamiento de problemas avanzados.
+
+**¿Cómo sé si mi hijo tiene una subluxación?**
+Los signos incluyen problemas dormir, cólicos, reflujo, irritabilidad, retrasos del desarrollo, infecciones recurrentes, o dificultades académicas. Sin embargo, muchos niños tienen subluxaciones sin síntomas obvios. Yo evalúo rutinariamente porque la detección temprana es más efectiva que esperar problemas.
+
+**¿Mi hijo va a estar asustado?**
+Raramente. Los ajustes pediátricos son muy suaves y no duelen. La mayoría de los niños los encuentran relajantes—muchos se duermen durante. Los bebés frecuentemente sonríen o ríen. La clave es un ambiente acogedor y técnica suave, que es nuestra especialidad.
+
+**¿Ofrece paquetes de cuidado pediátrico mensual?**
+Sí. Ofrecemos planes mensuales asequibles que hacen que la quiropráctica preventiva pediátrica sea accesible. Durante su consulta gratuita, discutiremos opciones que se ajusten a su presupuesto.
+
 ## ¿Listo para Optimizar la Salud de Su Hijo?
 
 Ya sea que su infante necesite una evaluación post-parto, su atleta en edad escolar está preparándose para competencia, o su familia de Helotes quiere cuidado preventivo de bienestar para todos los niños, estamos a solo 15 minutos vía Bandera Rd o 1604.

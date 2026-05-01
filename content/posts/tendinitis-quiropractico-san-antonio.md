@@ -203,6 +203,26 @@ San Antonio, TX 78231
 **Horarios:**
 - Lunes, Martes, Jueves: 7:00 AM - 4:00 PM
 
+## Preguntas Frecuentes
+
+**¿Cuál es la diferencia entre tendinitis y ruptura de tendón?**
+Tendinitis es inflamación del tendón. Ruptura es daño completo del tendón. Con tendinitis, el tendón está intacto pero inflamado y duele. Con ruptura, el tendón está dañado y débil. La quiropráctica trata tendinitis restaurando alineación. Las rupturas requieren atención médica/quirúrgica. El Dr. Foss puede descartar ruptura durante su evaluación.
+
+**¿Cuánto tiempo tarda la quiropráctica en curar tendinitis?**
+Muchos pacientes notan mejora en 2-3 semanas. La curación completa típicamente toma 4-12 semanas dependiendo de la severidad y duración. Casos que han existido meses o años pueden tardar más. Lo importante es consistencia en el tratamiento.
+
+**¿Es la terapia láser realmente necesaria o son suficientes los ajustes?**
+Los ajustes restauran alineación. Sin embargo, la terapia láser acelera dramáticamente la curación del tendón inflamado. Para tendinitis persistente, láser proporciona alivio significativo adicional que los ajustes solos pueden no proporcionar. Muchos pacientes se benefician de ambos.
+
+**¿Debo descansar completamente o hacer ejercicio ligero con tendinitis?**
+Movimiento suave sin dolor es beneficioso. Descanso completo inicialmente para los primeros 2-3 días. Después, movimiento suave mejora la circulación y previene rigidez. El Dr. Foss proporciona ejercicios específicos. Evite movimientos que causen dolor.
+
+**¿Puedo continuar mi deporte/actividad mientras trato tendinitis?**
+Depende de la severidad. En la fase aguda, debe evitar la actividad que causa dolor. Una vez que la inflamación disminuye (2-3 semanas), puede volver gradualmente con modificaciones. El Dr. Foss proporciona restricciones específicas de actividad.
+
+**¿Volverá la tendinitis después de mejora?**
+Si la biomecánica se restaura completamente, la recurrencia es rara. Sin embargo, si vuelve a patrones de movimiento disfuncionales, la tendinitis puede regresar. El mantenimiento quiropráctic regular (1-2 veces al mes) previene recurrencia.
+
 ## Próximos Pasos: Resuelve Tu Tendinitis Permanentemente
 
 Si tienes tendinitis que no ha respondido al resto o a tratamientos anteriores, hay una solución. La quiropráctica especializada aborda la causa biomecánica, proporcionando curación verdadera.

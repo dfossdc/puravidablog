@@ -94,6 +94,23 @@ Las familias de Castle Hills son reflexivas. Investigan proveedores, hacen pregu
 
 Es bilingüe, conversante en inglés y español, y cómodo con las familias multigeneracionales que son comunes en Castle Hills — a menudo vemos a padres, abuelos, e hijos viniendo juntos.
 
+## Preguntas Frecuentes
+
+**¿Es seguro llevar a los bebés al quiropráctico?**
+Totalmente seguro. Los ajustes pediátricos son increíblemente suaves—usamos presión similar a la que usaría para probar la madurez de un aguacate. Los bebés responden maravillosamente. Nuestros pacientes pediátricos típicamente duermen mejor y lloran menos después de ajustes.
+
+**¿A qué edad puedo llevar a mi hijo al quiropráctico?**
+Desde el nacimiento. El proceso de parto es traumático para la columna del bebé, creando subluxaciones que pueden afectar dormir, alimentarse, y desarrollo temprano. Muchos pediatras quiroprácticos recomiendan una evaluación dentro de días de nacimiento.
+
+**¿Qué problemas en niños trata la quiropráctica pediátrica?**
+Cólicos, reflujo, infecciones de oído recurrentes, asma, TDAH, retrasos del desarrollo, y problemas de comportamiento todos responden bien. La causa frecuentemente es interferencia nerviosa del parto—la quiropráctica la restaura.
+
+**¿Mi pediatra recomendará quiropráctica pediátrica?**
+Muchos pediatras tradicionales no lo harán, pero algunos reconocen sus beneficios. Si está interesado, pregúntele directamente. Si es escéptico, le ofrezco una consulta gratuita para que vea exactamente qué hacemos—es muy diferente de lo que imaginan.
+
+**¿Con qué frecuencia necesita mi hijo ajustes quiroprácticos?**
+Para niños sanos, típicamente recomendamos ajustes mensuales para apoyar el desarrollo óptimo. Para problemas específicos, frecuencias más altas temporalmente. Personalizaré un plan basado en la salud y edad específica de su hijo.
+
 ## ¿Listo para Experimentar la Diferencia?
 
 Ya sea que su recién nacido necesite una evaluación post-parto, su niño pequeño está luchando con infecciones de oído, o su hijo en edad escolar merece cuidado preventivo del sistema nervioso, estamos a solo 5 minutos de distancia.

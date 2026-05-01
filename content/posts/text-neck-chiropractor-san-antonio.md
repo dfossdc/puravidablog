@@ -164,6 +164,23 @@ You should consider professional text neck treatment if you experience:
 
 Since founding Pura Vida Chiropractic in 2010, Dr. Foss has successfully treated thousands of text neck patients. His **SOT Advanced certification** and comprehensive understanding of the Pura Vida Protocol make him uniquely qualified to address both the acute symptoms and underlying structural causes of text neck.
 
+## Frequently Asked Questions
+
+**Can I fix text neck just by holding my phone higher?**
+Not completely. Yes, phone positioning matters for prevention, but if your cervical curve is already straightened or your neck muscles are chronically tightened from months or years of forward head posture, postural awareness alone won't fix it. You need clinical intervention to restore the curve and reset muscle tone.
+
+**How long does text neck take to heal?**
+Most patients notice improvement within 2-4 visits. Complete recovery with proper posture restoration usually takes 6-10 weeks. The timeline depends on how long you've had the forward head posture and how strictly you follow ergonomic modifications.
+
+**Will my text neck come back after treatment?**
+Only if you return to the same patterns. Once your cervical curve is restored and your neck muscles are strong, good ergonomics and frequent movement breaks will maintain that improvement. Many patients maintain their relief for years with minimal maintenance care and smart device use.
+
+**My headaches might be from text neck. How do I know?**
+If your headaches worsen with device use and improve with neck care, they're likely cervicogenic from text neck. The pattern of pain (back of head, behind the eyes) triggered by forward head posture suggests the cervical spine is the source.
+
+**Is text neck permanent?**
+No. Even if you've had forward head posture for years, the cervical curve can be restored and symptoms can resolve. The longer it's gone untreated, the longer recovery takes, but restoration is absolutely possible.
+
 ## Your Path to Text Neck Relief
 
 Text neck is a preventable and treatable condition. The key is addressing both the structural spinal misalignments and the postural habits that created the problem. With proper chiropractic care combined with ergonomic modifications and postural retraining, you can achieve lasting relief and prevent long-term damage to your cervical spine.

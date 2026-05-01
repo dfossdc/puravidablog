@@ -84,6 +84,26 @@ Dr. Foss's philosophy is different. We believe that lasting pain relief comes fr
 
 This approach has helped countless San Antonio residents move beyond their shoulder pain and return to the activities they love.
 
+## Frequently Asked Questions
+
+**Why does my shoulder pain keep coming back after treatment?**
+Recurring shoulder pain usually means the structural cause hasn't been fully addressed. Typically, it's not the shoulder joint itself but cervical or thoracic spine misalignment creating nerve interference and muscle imbalances. When those spinal drivers are corrected, shoulder pain doesn't return. Standard shoulder-focused treatment fails because it's treating the symptom location, not the cause.
+
+**Can shoulder pain be caused by my neck?**
+Yes, absolutely. The nerves supplying your shoulder originate in your cervical spine. Neck misalignment and nerve compression there create dysfunction throughout the entire shoulder complex. Many shoulder pain cases that haven't responded to shoulder-focused treatment resolve quickly once cervical alignment is corrected.
+
+**Is frozen shoulder permanent?**
+No. Frozen shoulder (adhesive capsulitis) is painful and restrictive, but it's treatable. Recovery requires addressing both the joint restriction and the underlying spinal and postural factors that contributed to it. With proper chiropractic care, most patients regain significant range of motion and function.
+
+**How does posture cause shoulder pain?**
+Forward-rounded shoulders from desk work and device use create a muscular imbalance: tight, shortened muscles in the front of the chest; weak, lengthened muscles in the back. This position pulls the shoulder joint out of alignment, creating compensatory pain patterns. Correcting spinal alignment and addressing postural habits resolves this.
+
+**Should I have surgery for shoulder pain?**
+Surgery should be the last resort after conservative treatment has been thoroughly tried. Most shoulder pain resolves with proper chiropractic care addressing spinal and structural causes. Many patients who've been told they need surgery find complete relief without it when the underlying mechanics are corrected.
+
+**How long does shoulder pain treatment take?**
+Timeline depends on the severity and duration of the problem. Acute shoulder problems may improve within a few weeks. Chronic problems requiring postural re-education and structural correction typically show significant improvement within 6-8 weeks of consistent care.
+
 ## Taking the First Step
 
 If you've been struggling with shoulder pain in San Antonio, Dr. Dan Foss at Pura Vida Chiropractic is ready to help. Our bilingual office welcomes patients from all backgrounds, and we're committed to providing comprehensive, evidence-based care.

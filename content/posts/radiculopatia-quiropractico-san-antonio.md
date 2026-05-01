@@ -204,6 +204,23 @@ San Antonio, TX 78231
 **Horarios:**
 - Lunes, Martes, Jueves: 7:00 AM - 4:00 PM
 
+## Preguntas Frecuentes
+
+**¿Cuál es la diferencia entre radiculopatía y neuropatía periférica?**
+La radiculopatía es compresión/irritación de una raíz nerviosa específica donde sale de la columna. La neuropatía periférica es daño a nervios más alejados. La radiculopatía causa dolor/entumecimiento en un patrón específico (dermatoma). La quiropráctica es particularmente efectiva en radiculopatía porque abordamos la compresión espinal.
+
+**¿Puede la radiculopatía mejorar sin cirugía?**
+Sí, la mayoría de los casos—aproximadamente 80-90%—responden bien al tratamiento conservador quiropráctico. Solo en casos donde hay debilidad muscular severa o progresiva se considera cirugía. Comience con quiropráctica primero.
+
+**¿Cuánto tiempo tarda la radiculopatía en mejorar con quiropráctica?**
+Típicamente 4-8 semanas de tratamiento consistente para mejora significativa. Sin embargo, la resolución completa puede requerir 12 semanas. La radiculopatía crónica toma más tiempo. La clave es no demorarse—comience temprano.
+
+**¿Afecta el tamaño de la hernia de disco mis posibilidades de mejora sin cirugía?**
+Sí, pero no de la forma que piensa. Incluso hernias grandes pueden mejorar. Incluso hernias pequeñas pueden causar síntomas severos. El tamaño importa menos que la ubicación, la causa (mecánica vs degenerativa), y cuán rápido comenzamos el tratamiento.
+
+**¿Qué puedo hacer en casa para aliviar radiculopatía mientras recibo tratamiento?**
+Evite movimientos que la empeoren. Use hielo para inflamación aguda. Estiramientos suaves prescritos son útiles. Manténgase móvil—completamente inmóvil agrava la mayoría de las radiculopatías. Yo prescribo un programa específico basado en su nivel de severidad.
+
 ## Próximos Pasos: Recupera Tu Vida
 
 Si sufres de radiculopatía, has sido considerado quirúrgicamente, o simplemente quieres una segunda opinión, el Dr. Dan Foss puede ayudarte.

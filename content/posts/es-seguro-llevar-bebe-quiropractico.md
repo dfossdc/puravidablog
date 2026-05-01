@@ -92,4 +92,21 @@ No es necesaria una referencia médica para traer a su bebé. Sin embargo, si su
 
 ---
 
+## Preguntas Frecuentes
+
+**¿A qué edad puedo llevar a mi bebé al quiropráctico?**
+Desde el nacimiento. Los recién nacidos se benefician especialmente porque sus sistemas nerviosos aún son muy adaptables. El trauma del parto — fórceps, ventosa, cordón umbilical ajustado — a menudo deja al bebé en un patrón de dominancia simpática desde el primer día. La quiropráctica temprana libera esas restricciones y previene problemas inmunológicos crónicos. Dicho esto, niños de cualquier edad se benefician. He ayudado a niños de 4 años con infecciones recurrentes del oído y adolescentes con alergias.
+
+**¿Duele el ajuste quiropráctico para un bebé?**
+No. Los ajustes no se parecen a los de un adulto. Uso presión tan suave como la que usaría para verificar la madurez de un tomate — literalmente, el equivalente de unos pocos gramos. La técnica es muy delicada y los bebés generalmente la toleran muy bien. Muchos incluso se duermen durante el tratamiento.
+
+**Mi pediatra no menciona la quiropráctica. ¿Debería confiar en ella?**
+Su pediatra se enfoca en tratar infecciones cuando ocurren, lo cual es importante. La conexión entre el sistema nervioso y la inmunidad es investigación sólida, pero no forma parte de la capacitación estándar pediátrica. La mayoría de los pediatras están abiertos a la atención complementaria una vez que ven al paciente mejorando. He trabajado junto a pediatras en San Antonio durante 23 años.
+
+**¿Mi hijo necesita referencias médicas o autorizaciones para ver a un quiropráctico?**
+No, no necesita una referencia médica. Sin embargo, si su pediatra ya ha evaluado a su bebé y hay condiciones médicas que debemos conocer, esa información es valiosa. La comunicación entre su pediatra y yo es lo mejor para su hijo.
+
+**¿Con qué frecuencia debe venir mi hijo, y por cuánto tiempo?**
+Niños con problemas inmunológicos crónicos suelen mejorar en 4-6 semanas con visitas quincenales. Una vez que vemos mejora clara, pasamos a atención preventiva mensual o bimensual. Algunas familias hacen una visita al mes durante todo el año como soporte inmunológico. Depende de la gravedad y de sus objetivos.
+
 **¿Tiene preguntas sobre quiropráctica pediátrica para su bebé o niño?** Llame al [(210) 685-1994](tel:2106851994) o visite [puravidasanantonio.com/special/](https://puravidasanantonio.com/special/) para programar una **evaluación gratuita** con el Dr. Dan Foss en San Antonio, TX. El Dr. Foss habla español y tiene años de experiencia atendiendo bebés y niños con gentileza y cuidado.

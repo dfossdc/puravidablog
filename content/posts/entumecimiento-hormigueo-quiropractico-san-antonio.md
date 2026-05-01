@@ -198,6 +198,26 @@ Pura Vida Chiropractic está convenientemente ubicada en San Antonio:
 
 Nuestro equipo bilingüe está listo para ayudarle a identificar la causa de su entumecimiento y hormigueo.
 
+## Preguntas Frecuentes
+
+**¿El entumecimiento y hormigueo siempre significa daño nervioso?**
+No necesariamente. El entumecimiento y hormigueo son más frecuentemente causados por compresión nerviosa—presión sobre un nervio—que es completamente reversible. Si se aborda tempranamente, antes de que ocurra daño permanente, la mayoría de los casos se resuelven completamente con quiropráctica.
+
+**¿Cuánto tiempo espero antes de que comience a mejorar?**
+Algunos pacientes notan cambios dentro de días a una semana. Otros pueden tomar 2-4 semanas. Si la compresión ha sido crónica, la recuperación puede tomar más tiempo. El Dr. Foss le proporcionará un estimado realista después de identificar la causa exacta en su primer examen.
+
+**¿Debo ser derivado a un neurólogo o hacerme una resonancia magnética antes de ver a un quiropráctico?**
+No necesariamente. El Dr. Foss puede diagnosticar muchos tipos de compresión nerviosa a través de examen físico cuidadoso y pruebas neurológicas. Si considera necesario investigar más, puede ordenar una EMG (electromiografía) o una MRI. Sin embargo, muchos pacientes comienzan el tratamiento basados en el examen del Dr. Foss.
+
+**¿Funcionará si tengo diabetes y esta es la causa de mi entumecimiento?**
+Sí. Si su diabetes está causando daño nervioso diabético, el tratamiento quiropráctico que mejora la circulación, reduce la inflamación, y optimiza la función nerviosa puede ayudar mucho. También coordinaremos con su médico para optimizar el control glucémico, que es crítico.
+
+**¿Debería dejar de trabajar mientras recibo tratamiento?**
+No necesariamente, pero modificaciones son importantes. Si realiza tareas que causaron la compresión (como escribir todo el día, si tiene síndrome del túnel carpiano), necesitará modificar esas actividades. El Dr. Foss proporciona recomendaciones ergonómicas específicas para su situación.
+
+**¿Qué sucede si no mejoro después de varias visitas?**
+El Dr. Foss reevalúa y podría ordenar pruebas adicionales como EMG o MRI para asegurar que ha identificado correctamente la causa. Si la compresión neurológica no es la causa, trabajará con usted para investigar otras posibilidades, incluyendo derivación a un especialista si es apropiado.
+
 ## Conclusión
 
 El entumecimiento y el hormigueo son síntomas que no deben ignorarse. Cuando se abordan tempranamente, la mayoría de los casos pueden resolverse completamente. Si se ignoran, pueden conducir a daño nervioso permanente.

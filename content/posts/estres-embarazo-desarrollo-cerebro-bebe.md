@@ -143,6 +143,26 @@ Si está embarazada y manejando estrés crónico, una consulta gratuita en Pura 
 
 Somos bilingües — inglés y español — y atendemos a mujeres embarazadas en todo San Antonio, incluyendo Stone Oak, Castle Hills, Alamo Heights y Helotes.
 
+## Preguntas Frecuentes
+
+**¿Realmente puede el estrés de mi embarazo afectar el cerebro de mi bebé?**
+Sí, es científicamente bien establecido. El estrés crónico durante el embarazo eleva el cortisol, que cruza la barrera placentaria y afecta el desarrollo del cerebro del bebé, especialmente el hipocampo y la amígdala. Sin embargo, esta no es una sentencia de por vida—es información para que pueda tomar medidas ahora para apoyar su regulación nerviosa y la de su bebé.
+
+**¿Qué significa "regulación del sistema nervioso"?**
+Significa que su sistema nervioso puede cambiar entre el estado de alerta (lucha-huida) y descanso-digestión de manera flexible, según sea apropiado. Regulación = flexibilidad. Disregulación = atrapado en estrés crónico. La quiropráctica, la respiración, el movimiento, la conexión social, y el sueño apoyan la regulación.
+
+**¿Es segura la atención quiropráctica mientras estoy embarazada?**
+Completamente segura. El Dr. Foss tiene amplia experiencia tratando mujeres embarazadas. Utiliza técnicas suaves, tiene mesas de tratamiento especiales para el embarazo, y jamás usa medicamentos. La SOT enfatiza técnicas muy suaves que optimizan el sistema nervioso sin fuerza.
+
+**¿Si tengo depresión o ansiedad clínica, debería ver a un terapeuta en lugar del quiropráctico?**
+Ambos. La quiropráctica optimiza la función del sistema nervioso, pero no es un reemplazo para terapia o medicación cuando la depresión o ansiedad clínica están presentes. El Dr. Foss coordina completamente con su terapeuta, psiquiatra, o médico de atención primaria.
+
+**¿Cuándo debería comenzar el cuidado prenatal si estoy estresada?**
+Tan pronto como lo sepa—idealmente antes del embarazo, pero ciertamente durante. Antes es mejor. Los cambios neurológicos ocurren temprano en el embarazo, así que abordar el estrés desde el principio maximiza el beneficio. Sin embargo, incluso comenzar más tarde en el embarazo aún proporciona beneficio.
+
+**¿Qué tipo de ejercicio o movimiento es seguro durante el embarazo?**
+El Dr. Foss recomienda movimiento que se siente regulador para su sistema nervioso—no necesariamente ejercicio intenso. Para algunos es caminar, otros nadar, algunos yoga prenatal. Lo importante es que se sienta calmante, no estresante. El Dr. Foss puede proporcionar recomendaciones basadas en su condición específica.
+
 ## Su Sistema Nervioso Importa
 
 Usted no solo está llevando a un bebé. Literalmente está moldeando la arquitectura neurológica de su bebé a través del estado de su propio sistema nervioso. Esto no es presión para ser perfecta. Es permiso para priorizar su propia regulación y calma.

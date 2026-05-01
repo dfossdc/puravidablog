@@ -69,6 +69,23 @@ If you live in San Antonio, you know that December through February is cedar sea
 
 I see a significant uptick in allergy and respiratory complaints every year starting in November. For patients who get regular upper thoracic and immune-focused chiropractic care year-round, cedar season tends to be significantly more manageable. For patients who only come in when they're suffering, we work through the acute phase and then talk about building the kind of structural and immunological resilience that makes next season less devastating.
 
+## Frequently Asked Questions
+
+**Can chiropractic care prevent me from catching colds and the flu?**
+Chiropractic care won't make you immune to every virus, but it can meaningfully improve your immune resilience. By correcting T2-T5 subluxations and supporting splenic function through CMRT, I optimize the nervous system's ability to coordinate your immune response. Patients who get regular upper thoracic care catch fewer colds and recover faster when they do get sick. The 1918 pandemic data speaks to this—chiropractic patients had a fraction of the mortality rate.
+
+**How many visits will I need for immune and respiratory health?**
+This depends on how depleted your immune system is. For seasonal allergies or mild immune challenges, monthly maintenance after an initial 6-8 week protocol often works well. For recurrent infections or chronic conditions, I recommend 2-3 visits per week for 8-12 weeks, then transitioning to maintenance. Cedar season patients typically benefit from preventive care starting in October to build resilience before December.
+
+**Does CMRT actually improve immune function, or is it just for pain relief?**
+CMRT is organ-focused reflex work, not primarily for pain. When I activate Chapman's reflex points for the spleen, lungs, or thymus, I'm signaling the nervous system to reorganize function in those organs. Combined with upper thoracic adjustments, this actually improves nervous system control over immune organs. It's not magic—it's neurology and anatomy working together.
+
+**Can chiropractic care replace my asthma or allergy medications?**
+No. If you're on medications for asthma or severe allergies, keep taking them and work with your prescribing doctor. Chiropractic care is a valuable complement—many patients find their symptoms improve enough that their doctor adjusts medications—but that's always the doctor's decision, not mine. I work alongside medical care, never against it.
+
+**Is immune care safe during pregnancy?**
+Absolutely. Upper thoracic adjustments and gentle CMRT are very safe during pregnancy and actually beneficial for maternal immune function and respiratory health. I adjust pregnant patients throughout their pregnancy using techniques appropriate for pregnancy. If you're pregnant and interested in immune support, call **(210) 685-1994** for a consultation.
+
 ## Key Takeaways
 
 - Historical data from the 1918 flu pandemic showed dramatically lower mortality rates in chiropractic patients compared to medical patients, pointing to a nervous system-immune connection.

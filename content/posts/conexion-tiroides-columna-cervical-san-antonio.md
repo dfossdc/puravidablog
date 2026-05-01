@@ -117,6 +117,26 @@ Si tiene síntomas tiroideos o un historial de problemas de columna cervical, aq
 
 Somos bilingües — inglés y español — y servimos a pacientes de **Stone Oak, Castle Hills, Alamo Heights, Helotes** y en toda San Antonio.
 
+## Preguntas Frecuentes
+
+**¿Puede la quiropráctica curar la enfermedad tiroidea?**
+No, la quiropráctica no cura la enfermedad tiroidea establecida. Sin embargo, al restaurar la alineación cervical correcta y optimizar el sistema nervioso, podemos ayudar a mejorar cómo su cuerpo regula la función tiroidea y cómo su medicación tiroidea funciona. Muchos pacientes notan que sus síntomas mejoran significativamente cuando su cuello está correctamente alineado.
+
+**¿Debería dejar de tomar mi medicación tiroidea si recibo tratamiento quiropráctica?**
+Nunca deje de tomar medicación tiroidea prescrita sin consultar a su endocrinólogo. La quiropráctica es complementaria al cuidado médico, no un reemplazo. El Dr. Foss trabaja coordinadamente con su endocrinólogo para asegurar la mejor atención integrada.
+
+**¿Cuánto tiempo tarda la quiropráctica en mejorar los síntomas tiroideos?**
+Los cambios pueden comenzar a notar en 2-4 semanas de tratamiento consistente, aunque algunos pacientes sienten mejora más lentamente. Es importante mantener el tratamiento regular para mantener la alineación y los beneficios. El Dr. Foss recomendará una frecuencia de visitas basada en su condición.
+
+**¿Existe una conexión real entre el cuello y la tiroides?**
+Sí, absolutamente. El nervio vago, que regula la función tiroidea, corre a través del cuello. También, la postura y la alineación cervical afectan la función paratiroidea. Cuando el cuello está desalineado, la función tiroidea puede verse comprometida. Esta no es una conexión hipotética—está basada en sólida neuroanatomía.
+
+**¿Ayudará la quiropráctica si mis análisis de sangre tiroideos están dentro del rango normal?**
+Sí, muchas personas tienen valores "normales" pero aún tienen síntomas tiroideos. Esto se llama hipotiroidismo subcl­ínico o disfunción tiroidea. La optimización de la función del sistema nervioso puede ayudar a su cuerpo a producir y procesar hormonas tiroideas más eficientemente, mejorando sus síntomas incluso con valores "normales".
+
+**¿Qué ocurre si tengo hashimoto o graves en lugar de hipotiroidismo simple?**
+Ambas condiciones pueden beneficiarse de la optimización cervical. Al mejorar la salud neurológica y reducir la inflamación del sistema nervioso, su cuerpo está mejor posicionado para manejar la respuesta autoinmune. El Dr. Foss trabaja activamente con sus otros proveedores de atención para un cuidado coordinado.
+
 ## ¿Listo Para Restaurar la Salud Tiroidea Desde la Base?
 
 Si está luchando con síntomas tiroideos a pesar de estar en medicación, o si tiene un historial de problemas de cuello y está preocupado por la salud tiroidea, la atención quiropráctica enfocada en la alineación de la columna cervical y la optimización del sistema nervioso puede hacer una diferencia real.

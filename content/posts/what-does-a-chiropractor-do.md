@@ -54,6 +54,26 @@ At Pura Vida Chiropractic, your first visit isn't an assembly line. Dr. Foss tak
 
 Many patients notice significant improvement after just one or two visits. Lasting structural correction typically takes longer — but the relief you feel along the way makes the process worthwhile.
 
+## Frequently Asked Questions
+
+**Is the cracking sound necessary for an effective adjustment?**
+No. The "cracking" sound (called cavitation) is caused by gas bubbles releasing from joint fluid as the joint space opens up. It's harmless, but it's not required for an effective adjustment. Many gentle techniques, like SOT, produce no cracking at all and are equally effective.
+
+**How long does it take to feel better after a chiropractic adjustment?**
+Many patients notice significant improvement after just one or two visits. However, lasting structural correction—where adjustments hold longer and your body maintains proper alignment—typically takes longer. The relief you feel along the way makes the process worthwhile.
+
+**Can chiropractic care replace physical therapy?**
+They are complementary approaches. Chiropractic corrects structural misalignments that allow the nervous system to function. Physical therapy strengthens and conditions muscles. Both together produce better outcomes. Many patients benefit from doing both, and Dr. Foss coordinates with physical therapists when appropriate.
+
+**Is chiropractic safe for elderly patients or those with osteoporosis?**
+Yes. Advanced techniques like SOT use gentle, gravity-based corrections with no high-velocity thrusts. These methods are particularly safe for elderly patients and those with bone density concerns. Dr. Foss modifies all techniques based on individual health status.
+
+**Will I need chiropractic care forever?**
+Not necessarily. Some patients come in with an acute problem, get corrected, and maintain results with occasional maintenance visits. Others benefit from more frequent ongoing care as part of their health maintenance routine. Dr. Foss will recommend a plan based on your specific needs and goals.
+
+**What makes Dr. Foss different from other chiropractors?**
+Dr. Foss holds Advanced SOT Certification through SORSI—the highest level of specialized chiropractic training, available only to practitioners who complete years of comprehensive post-doctoral education. He also has specialized training in cranial therapy, prenatal and pediatric care, and regenerative modalities. This breadth of expertise allows him to address complex cases that standard chiropractors cannot.
+
 ## The Pura Vida Difference
 
 Dr. Dan Foss has been practicing chiropractic in San Antonio for over 23 years. He holds Advanced SOT Certification through SORSI — one of the highest levels of specialized chiropractic training available. He also has additional training in cranial chiropractic therapy, prenatal and pediatric care, and regenerative therapies including SoftWave and Class IV laser.

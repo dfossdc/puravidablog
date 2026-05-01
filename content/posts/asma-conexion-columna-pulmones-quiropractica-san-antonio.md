@@ -100,6 +100,26 @@ Más allá de los ajustes quiroprácticos, recomiendo varias estrategias a todos
 
 **Atención quiropráctica regular:** La alineación espinal no es una solución única. Requiere mantenimiento, especialmente para niños con asma activo.
 
+## Preguntas Frecuentes
+
+**¿Mi hijo puede dejar de usar su inhalador de rescate con quiropráctica?**
+Esa decisión la toma su doctor pediatra o neumólogo. El objetivo de la quiropráctica es reducir la necesidad del inhalador mejorando la función bronquial y el equilibrio autónomo. Muchos padres reportan que sus hijos usan el inhalador con menos frecuencia después del tratamiento, pero siempre bajo supervisión médica. Nunca descontinúe el inhalador sin consultar con su doctor.
+
+**¿La quiropráctica reemplaza los medicamentos para el asma?**
+No. La quiropráctica complementa su plan médico. Su inhalador controla la constricción bronquial aguda; la quiropráctica aborda la disfunción neurológica que impulsa esa constricción. Los mejores resultados vienen cuando trabaja con su doctor y el Dr. Foss en paralelo, no en lugar uno del otro.
+
+**¿Es seguro hacer ajustes quiroprácticos durante una exacerbación de asma?**
+Depende de la gravedad. Durante una crisis aguda de asma, la atención médica es prioridad. Sin embargo, una vez que la crisis se estabiliza, los ajustes suaves de SOT pueden ayudar a prevenir futuras exacerbaciones. El Dr. Foss evalúa cada caso individualmente.
+
+**¿Cuánto tiempo antes de ver mejora en los síntomas de asma?**
+Los pacientes típicamente notan mejora en 2-4 semanas con tratamiento regular (2-3 veces por semana). Esto incluye menos sibilancia, mejor sueño, uso reducido del inhalador de rescate. Los beneficios óptimos se ven a menudo en 8-12 semanas cuando el sistema nervioso autónomo se equilibra completamente.
+
+**¿Cómo exactamente SOT mejora la respiración diafragmática?**
+SOT restaura el movimiento adecuado en la columna cervical (específicamente C3, C4, C5 donde se origina el nervio frénico). También equilibra todo el sistema nervioso autónomo. Cuando el diafragma recibe el mensaje neural correcto de estos nervios, puede contraerse completamente y participar plenamente en la respiración, no solo los músculos del pecho.
+
+**¿Necesito modificar la postura de mi hijo en la escuela para mejorar el asma?**
+Sí. La mala postura comprime los pulmones y restringe el movimiento diafragmático, empeorando el asma. El Dr. Foss proporciona educación postural a todos los pacientes pediátricos. Sentarse erguido, no encorvarse sobre dispositivos, y mantener la cabeza alineada mejora directamente la mecánica respiratoria y reduce síntomas de asma.
+
 ## Qué Esperar en su Primera Visita
 
 Si trae a su hijo (o a usted mismo) para atención quiropráctica relacionada con el asma, aquí está lo que sucede:

@@ -255,6 +255,26 @@ Pura Vida Chiropractic está ubicada en **2318 NW Military Hwy Suite 103, San An
 - Martes: 7:00 am - 4:00 pm
 - Jueves: 7:00 am - 4:00 pm
 
+## Preguntas Frecuentes
+
+**¿Es normal el dolor del ligamento redondo durante el embarazo?**
+Sí, es muy común y normal. Aproximadamente 40-50% de las mujeres embarazadas experimentan dolor del ligamento redondo. Sin embargo, solo porque sea común no significa que deba soportarlo sin tratamiento. La quiropráctica pediátrica especializada puede proporcionar alivio significativo.
+
+**¿Es seguro recibir tratamiento quiropráctica mientras estoy embarazada?**
+Completamente seguro. El Dr. Foss tiene amplia experiencia en el tratamiento de mujeres embarazadas y utiliza técnicas suaves especializadas adaptadas a las necesidades del embarazo. Tiene mesas de tratamiento especiales que acomodan su abdomen, y nunca usa técnicas o medicamentos que no sean seguros en el embarazo.
+
+**¿Cuándo debería comenzar el tratamiento?**
+Tan pronto como comience el dolor. No necesita esperar hasta que empeore. De hecho, el tratamiento temprano es más efectivo y puede prevenir que el problema empeore. Algunas mujeres incluso buscan atención preventiva durante el embarazo para evitar problemas.
+
+**¿Cuántas visitas necesitaré?**
+Esto varía, pero muchas mujeres notan mejora significativa dentro de 3-5 visitas. Algunas pueden necesitar tratamiento más regular a lo largo del embarazo para mantener la alineación pélvica a medida que cambia el cuerpo. El Dr. Foss creará un plan personalizado basado en su necesidad.
+
+**¿El dolor del ligamento redondo volverá después del parto?**
+No si la alineación pélvica es corregida. Sin embargo, si los problemas pélvicos subyacentes no se tratan durante el embarazo, el dolor puede persistir o regresar. Por eso es importante no solo aliviar el síntoma, sino corregir el problema mecánico subyacente.
+
+**¿Puedo hacer ejercicio si tengo dolor del ligamento redondo?**
+Sí, pero con modificaciones. El Dr. Foss enseñará ejercicios seguros que puede continuar durante el embarazo. El movimiento suave es en realidad beneficioso. Lo importante es evitar movimientos que empeoran el dolor mientras su pelvis se realinea.
+
 ### Contacto
 
 Si está embarazada en San Antonio y sufre de dolor del ligamento redondo, el Dr. Dan Foss puede ayudarlo.

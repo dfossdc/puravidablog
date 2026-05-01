@@ -106,6 +106,26 @@ Dr. Dan's recommended at-home water bite device for immediate relief is the [Aqu
 - [Cranial Chiropractic Service](/en/services/cranial-chiropractic)
 - [SOT Chiropractic Service](/en/services/sot-chiropractic)
 
+## Frequently Asked Questions
+
+**What exactly is TMJ, and how do I know if I have it?**
+TMJ (temporomandibular joint disorder) is a condition affecting the joints that connect your jaw to your skull. Signs include jaw pain, clicking or popping sounds when you open your mouth, difficulty chewing, or pain radiating to your ear, neck, or temple. I've treated hundreds of cases over 23 years, and the key is identifying the root cause early—whether it's a muscular imbalance, bite misalignment, or cranial imbalance.
+
+**Is TMJ dangerous, or will it go away on its own?**
+TMJ won't resolve itself without proper intervention, and ignoring it can worsen joint damage and create chronic pain cycles. The longer the misalignment persists, the more muscle spasm and joint wear you'll develop. I don't recommend waiting—early intervention prevents permanent dysfunction and speeds recovery significantly.
+
+**How many chiropractic visits will I need to fix my TMJ?**
+This depends entirely on your specific cause and how long the problem has existed. In my experience, straightforward muscular cases often improve within 4-6 weeks of consistent care, while bite-related or cranial issues may require 8-12 weeks. I always recommend starting with a consultation to assess whether you need chiropractic care alone or a team approach with your dentist and physical therapist.
+
+**What's the difference between an occlusal splint and a night guard, and do I really need one?**
+A night guard prevents damage from teeth grinding but doesn't correct your bite. An occlusal splint actually repositions your teeth and jaw, addressing the root cause. I personally worked with my dentist to create a bite appliance because my misalignment required active correction, not just protection. Your specific needs should guide that decision.
+
+**Why did my TMJ pain start after a dental procedure if the dentist didn't cause it?**
+Dental work—crowns, extractions, implants—can trigger TMJ if even slight pressure changes your bite or creates jaw muscle spasm during the procedure. In my case, the dental work didn't cause TMJ, but the trauma and compensation my jaw made afterward did. This is why discussing TMJ risk with your dentist before major work is critical.
+
+**Do I need a referral to see you for TMJ care?**
+No referral needed. I see patients directly, and we accept most insurance through superbills—meaning you pay out of pocket and submit to your insurer for reimbursement. Call **(210) 685-1994** for a free consultation to discuss whether cranial adjusting, SOT, or a team approach makes sense for your specific TMJ situation.
+
 ---
 
 ## Ready to Feel Better? Book Your Free Consultation Today

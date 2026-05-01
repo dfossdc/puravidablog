@@ -230,6 +230,23 @@ Si BPPV ha sido resistente a tratamiento previo, el enfoque integral del Dr. Fos
 - Ajustes craneales especializados
 - Combinación de técnicas que son más efectivas juntas
 
+## Preguntas Frecuentes
+
+**¿Qué están exactamente los cristales del oído que causan VPPB?**
+Los cristales (otoconia) son depósitos de calcio en el oído interno que normalmente están en un área (utrículo). Cuando se desplazan, caen en los conductos semicirculares, donde estimulan las células sensoriales anormalmente. El resultado: vértigo severo cuando cambia la posición de cabeza. Es completamente tratable.
+
+**¿Puedo resolver VPPB solo con la maniobra de Epley?**
+Frecuentemente sí. Epley reposiciona los cristales—eficaz en aproximadamente 80-90% de casos en una a tres sesiones. Sin embargo, si hay disfunción cervical concurrente que causó la desalineación otolítica originalmente, necesita quiropráctica para prevenir recurrencia.
+
+**¿Cuánto tiempo dura típicamente VPPB sin tratamiento?**
+Algunos casos se resuelven espontáneamente en semanas o meses—los cristales eventualmente se resuelven. Otros se vuelven crónicos. No debería esperar—la maniobra de Epley lo resuelve en días. Esperar significan semanas de incapacidad innecesaria.
+
+**¿Por qué VPPB recurrentemente regresa después de tratamiento?**
+Porque hemos reposicionado los cristales pero no hemos abordado por qué se desplazaron originalmente—frecuentemente disfunción cervical o traumatismo previo. La quiropráctica aborda esto, reduciendo significativamente recurrencia.
+
+**¿Pueden los problemas del oído interno afectar más que balance?**
+Absolutamente. El sistema vestibular afecta no solo balance sino también visión, coordinación, y hasta cognición. VPPB no tratado causa ansiedad crónica por miedo a caer. Tratar agresivamente es importante no solo para vértigo sino para calidad de vida completa.
+
 ### Ubicación y Horario
 
 Pura Vida Chiropractic está ubicada en **2318 NW Military Hwy Suite 103, San Antonio TX 78231**. Servicios completamente bilingües en inglés y español.

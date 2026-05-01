@@ -113,6 +113,23 @@ Lo importante es que está tratando la causa, no solo los síntomas.
 
 *"He tenido IBS durante años. Nada ayudaba. El Dr. Foss fue el primero en tratar la causa real. Ahora puedo disfrutar de la comida sin miedo."* — Sandra R., paciente de Pura Vida
 
+## Preguntas Frecuentes
+
+**¿Cómo la columna vertebral afecta la digestión?**
+La columna alberga y protege los nervios que controlan todo—producción de ácido, enzimas, motilidad. Cuando las vértebras se desalinean (T5-L5 especialmente), interfieren con estos nervios. El resultado es mala digestión, reflujo, estreñimiento, o diarrea. La quiropráctica restaura la comunicación nerviosa.
+
+**¿Cuánto tiempo tarda la quiropráctica en aliviar problemas digestivos?**
+Muchos pacientes notan mejora en 2-3 semanas. Sin embargo, la restauración completa de la función digestiva requiere típicamente 8-12 semanas de tratamiento consistente. La digestión ha funcionado mal durante tiempo, y toma tiempo para restaurar completamente.
+
+**¿El CMRT es solo para problemas digestivos?**
+No. CMRT (Chiropractic Manipulative Reflex Technique) puede abordar problemas inmunológicos, hormonales, y emocionales además de digestivos. Es una técnica de sistema nervioso completo que ocurre trabajar excelentemente en el tracto digestivo.
+
+**¿Puedo combinar tratamiento quiropráctico con dieta especial?**
+Absolutamente, e idealmente sí. Una buena digestión combinada con una buena dieta es más poderosa que cualquiera sola. Recomendaré cambios dietéticos básicos durante su consulta, pero la quiropráctica restaura la capacidad de su cuerpo de digerir lo que come.
+
+**¿Mi gastroenterólogo conoce sobre quiropráctica para digestión?**
+Probablemente no. La mayoría de doctores no entienden la conexión nervio-espina-digestión. Sin embargo, si su gastroenterólogo ha descartado problemas estructurales serios, la quiropráctica es absolutamente apropiada—y frecuentemente más efectiva que medicamentos.
+
 ## ¿Está Considerando la Quiropráctica Para Problemas Digestivos?
 
 Si está cansado de depender de medicamentos para problemas digestivos que nunca se resuelven completamente, es hora de considerar un enfoque diferente. La quiropráctica no es solo para el dolor de espalda. Es medicina del nervio y de la estructura, diseñada para restaurar la función de todo su cuerpo.

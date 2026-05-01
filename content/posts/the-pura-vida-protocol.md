@@ -94,6 +94,26 @@ The Pura Vida Protocol is especially powerful for patients with recurring proble
 
 If you have been told that chiropractic did not work for you, there is a meaningful probability that what you experienced was excellent spinal care that addressed the symptom but missed the driver. The driver may be in Pillar 2. It may be in Pillar 3. Finding it changes everything.
 
+## Frequently Asked Questions
+
+**Is the Pura Vida Protocol just standard chiropractic with extra services?**
+No. It's a fundamentally different system. Standard chiropractic excels at addressing spinal misalignment. The Pura Vida Protocol addresses the three systems—spine, organs, and cranium—as an integrated whole. When organ stress or cranial restriction is driving your spinal problem, standard chiropractic alone will never fully resolve it. That's where the three-pillar approach changes everything.
+
+**Do I need all three pillars or can I start with just the spine?**
+Most patients benefit from starting with spinal work. But the assessment reveals which pillars are most involved. If your examination shows significant organ-driven reflex patterns or cranial restriction, addressing those early accelerates spinal resolution. Some patients respond quickly to Pillar 1 alone. Others are stuck until Pillar 2 or 3 is addressed.
+
+**How do you know which pillar to address first?**
+The SOT indicator assessment reveals this. Specific physical findings—leg length differential, arm fossa test, occipital fiber changes, Chapman's reflex patterns—show which systems are most dysfunctional. Treatment priority follows the findings, not a preset formula. The body tells us where to work.
+
+**Is this approach scientifically supported?**
+The three pillars are rooted in documented neuroanatomy. SOT is based on spinal mechanics and dural tube relationships. CMRT is based on autonomic nervous system pathways between vertebrae and organs. Cranial adjusting is based on cerebrospinal fluid mechanics. These aren't theoretical—they're anatomical relationships that have been clinically observed and documented for decades.
+
+**How long does the full protocol take?**
+It depends on your condition, how long you've been symptomatic, and how well you respond. Acute cases might resolve in 4-8 weeks. Chronic cases often require 12-16 weeks of consistent care. The complexity of your pattern determines the timeline. I provide realistic expectations after the initial assessment.
+
+**Will I need all three pillars forever?**
+No. Active care addresses the underlying problems. Once your structure stabilizes and your organs regulate better, you need less intensive care. Most patients transition to monthly or quarterly maintenance—not because they're dependent, but because periodic alignment checks prevent problems from returning.
+
 ## Key Takeaways
 
 - The Pura Vida Protocol is a three-pillar whole-body system: SOT for the spine and pelvis, CMRT for the organs, and SOT Craniopathy for the cranium.

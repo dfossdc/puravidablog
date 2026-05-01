@@ -98,4 +98,21 @@ If you have been managing low back pain and jaw problems separately, and neither
 - SOT addresses both the pelvic and cranial ends of this relationship in the same session, producing lasting results that treating either end alone cannot achieve.
 - Dr. Dan Foss is the only Advanced SOT-certified chiropractor in San Antonio — trained in both the Category system and SOT Craniopathy.
 
+## Frequently Asked Questions
+
+**I have both low back pain and jaw pain. Are they really connected?**
+Often yes. Your dural tube is a continuous membrane running from your sacrum to your skull. When your sacroiliac joint is unstable, it creates dural tension that travels all the way up to your cranial base and temporal bone — the foundation of your jaw joint. Fix one without fixing the other, and you get partial relief at best. Addressing both together produces lasting results.
+
+**Why would my dentist never mention the SI joint connection?**
+Because they're trained in teeth and jaws. A good dentist will make you a splint that provides temporary relief. But if the real problem is dural tension from pelvic instability, the splint is managing a symptom, not the cause. That's not the dentist's fault — it's just the limit of their framework. SOT crosses those lines and sees the whole system.
+
+**If I've had orthodontics or dental work that shifted my bite, could that have caused my back pain?**
+Yes. The temporal bone is the foundation of the jaw joint. If dental work shifts your temporal bone position, it creates tension in your dural tube that travels down the spine and destabilizes your sacroiliac joint. This is especially important information if your back pain started after major dental work.
+
+**How long does it take to resolve if I'm treating both the SI joint and the jaw together?**
+Most patients see improvement in 4-6 weeks once both areas are being addressed properly. But it depends on how long you've been managing each problem separately. If you've had SI pain for 10 years and jaw pain for 5, resolution takes longer than a year of pain. The timeline is realistic based on your history.
+
+**Can I just fix my jaw with a splint and not deal with the back?**
+You can get partial relief that way, but without addressing the pelvic dural tension, you're not fixing the root. Your jaw joint will keep shifting back toward dysfunction. Treating both simultaneously produces better, more lasting results.
+
 If this sounds like your situation — chronic low back or SI pain, jaw symptoms, or both — let's take a look at the full picture. Call Pura Vida Chiropractic at **(210) 685-1994**. We are at **2318 NW Military Hwy #103, San Antonio, TX 78231**, and we are happy to talk through what you have been experiencing before you even make an appointment.

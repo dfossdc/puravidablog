@@ -86,6 +86,29 @@ Many insurance plans do. We verify coverage and bill your plan directly.
 **The Martinez Family**
 Brought their colicky newborn in at 3 weeks of age. After just 4 visits, the colic resolved completely. Now the whole family comes in monthly for wellness care.
 
+## Frequently Asked Questions
+
+**Is chiropractic safe for newborns and infants?**
+Yes. Pediatric chiropractic uses extremely gentle techniques—no force, no popping. Pressure is equivalent to testing the firmness of a tomato. Specialized cranial methods are adapted specifically for developing spines. Many parents report that babies sleep better immediately after treatment and appreciate the relief their child receives.
+
+**When should I first bring my child to the chiropractor?**
+The ideal time is within the first 1-2 weeks after birth. This is when cranial restrictions from delivery respond best to correction. However, it's never too late to start. If your child is older and struggling with ear infections, developmental delays, or postural issues, we can help at any age.
+
+**Can pediatric chiropractic help with my child's ear infections?**
+Yes. Chronic ear infections are often related to Eustachian tube dysfunction and spinal misalignment that restricts proper nerve function and fluid drainage. Gentle spinal and cranial adjusting improves drainage, reduces infection frequency and severity, and supports the child's healing ability. Many parents report remarkable improvement within weeks.
+
+**How does chiropractic address colic beyond just "waiting it out"?**
+Colic often results from spinal misalignment and cranial compression affecting the vagus nerve, which regulates digestion. Gentle adjustments that remove nerve interference and release spinal and cranial restrictions allow normal digestive function to resume. Many colicky babies show dramatic improvement within 1-2 weeks of care—parents finally get sleep, and babies get relief.
+
+**Will insurance cover pediatric chiropractic?**
+Many insurance plans do. We verify coverage upfront and bill your plan directly. We also work transparently with families who have high deductibles or limited coverage, and we offer clear pricing for uninsured patients. Call us to discuss your specific plan.
+
+**How long does my child need to stay in care?**
+Initial treatment duration depends on the condition. Some issues (like uncomplicated colic) may resolve within a few weeks. Others require longer care. Once we reach your child's wellness goals, many families continue monthly maintenance visits to support ongoing healthy development, immunity, and nervous system function.
+
+**What's the difference between a general chiropractor and a pediatric specialist?**
+A general chiropractor occasionally treats children. A pediatric specialist like Dr. Foss has invested years in advanced training specifically in how to assess and treat developing spines, cranial birth trauma, and pediatric nervous system dysfunction. The level of expertise and specialization directly affects your child's outcomes.
+
 ## Why Leon Valley Families Trust Pura Vida
 
 Leon Valley families are invested in their children's health and development. They want a healthcare provider who takes time with their kids, explains findings clearly, and genuinely cares about supporting each child's health journey.

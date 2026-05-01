@@ -148,6 +148,26 @@ Nuestro consultorio bilingüe le da la bienvenida a pacientes de toda la comunid
 
 **Programe su evaluación completa hoy:**
 
+## Preguntas Frecuentes
+
+**¿Qué causa la mayoría del dolor de cadera y rodilla?**
+La mayoría viene de desalineación pélvica. Cuando el pelvis está desalineado, afecta cómo las caderas y rodillas cargan el peso. Incluso desalineaciones pequeñas se amplifican con movimiento, resultando en dolor crónico. El Dr. Foss evalúa toda la cadena biomecánica: pelvis, cadera, rodilla, tobillo. Corregir el pelvis frecuentemente elimina el dolor de cadera y rodilla sin tratar esas articulaciones directamente.
+
+**¿Necesitaré inyecciones de cortisona para mi dolor de cadera o rodilla?**
+Algunas veces las inyecciones proporcionan alivio temporal (semanas a meses). Sin embargo, no abordan la causa biomecánica. La quiropráctica restaura la alineación, permitiendo curación duradera sin inyecciones repetidas. Algunos pacientes combinan ambos: inyección para alivio agudo inicial, quiropráctica para recuperación a largo plazo.
+
+**¿Qué tan pronto veré mejora en mi dolor de cadera o rodilla?**
+Muchos pacientes notan mejora en 2-3 semanas. Sin embargo, la recuperación completa de dolor crónico toma generalmente 4-12 semanas dependiendo de cuánto tiempo el problema ha estado presente. Casos que duraron años pueden requerir más tiempo que lesiones recientes.
+
+**¿Puedo hacer ejercicio mientras trato dolor de cadera y rodilla?**
+Movimiento suave sin dolor es beneficioso. Sin embargo, ejercicio agresivo o de alto impacto puede empeorar la condición. El Dr. Foss proporciona modificaciones específicas: caminar está bien, correr debe esperar; nadar es excelente, deportes de contacto necesitan esperar. Volvemos a actividades completas gradualmente.
+
+**¿La terapia láser ayuda con dolor de cadera y rodilla?**
+Sí, especialmente si hay inflamación significativa de tejidos blandos (tendones, bursa, ligamentos). La terapia láser Clase IV reduce inflamación y estimula curación, acelerando la recuperación. Combinada con ajustes quiropráticos que restauran la alineación, proporciona resultados óptimos.
+
+**¿Necesitaré ajustes de mantenimiento después de recuperarme?**
+Generalmente sí. Una o dos visitas al mes previenen recurrencia manteniendo la alineación pélvica óptima. Sin mantenimiento, los patrones biomecánicos incorrectos pueden regresar gradualmente, trayendo el dolor con ellos.
+
 📍 2318 NW Military Hwy Suite 103, San Antonio, TX 78231
 📞 (210) 685-1994
 🌐 https://puravidasanantonio.com/

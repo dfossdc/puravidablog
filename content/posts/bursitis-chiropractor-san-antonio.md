@@ -225,6 +225,23 @@ Dr. Dan Foss is bilingual (English/Spanish), advanced SOT certified, and highly 
 
 Our office at 2318 NW Military Hwy Suite 103, San Antonio TX 78231 provides a welcoming environment for bursitis patients. We offer convenient hours (Monday, Tuesday, Thursday 7:00am-4:00pm) to fit your treatment schedule.
 
+## Frequently Asked Questions
+
+**Can chiropractic care treat bursitis, or do I need a cortisone injection?**
+Chiropractic successfully treats most bursitis by correcting the biomechanical stress causing it. But if you have severe acute inflammation making movement impossible, a corticosteroid injection combined with chiropractic care can help rapidly — the injection reduces inflammation while I address the structural cause. Most patients avoid injections entirely with early chiropractic intervention.
+
+**How long does bursitis take to heal?**
+Acute bursitis typically responds within days to weeks. Most patients see significant improvement within 2-4 weeks and complete resolution within 4-8 weeks. Chronic bursitis that's been present for months takes longer but still usually resolves within 8-12 weeks with consistent treatment. How quickly you improve depends on severity and how strictly you follow activity modifications.
+
+**Will my bursitis come back after treatment?**
+Only if the underlying biomechanical problem returns. If we correct your spinal alignment and you maintain the exercises I prescribe, recurrence is preventable. Many of my patients maintain their relief for years with periodic maintenance visits. Without addressing the root cause, yes, bursitis will return.
+
+**Is it safe to exercise while treating bursitis?**
+Yes, but strategically. Certain exercises that strengthen the muscles supporting the affected joint actually speed recovery. Other movements aggravate the bursa and should be avoided. During your visit, I'll show you exactly what movements to avoid and which therapeutic exercises to perform.
+
+**My bursitis is in my shoulder and my neck hurts too. Are they connected?**
+Often yes. Shoulder bursitis from impingement is usually caused by cervical spine misalignment or thoracic spine dysfunction. Your neck creates the abnormal shoulder mechanics that stress the bursa. So treating your cervical and thoracic spine often resolves shoulder bursitis faster than treating just the shoulder locally.
+
 ## Overcome Bursitis Permanently
 
 Bursitis doesn't have to be a recurring problem. Dr. Dan Foss at Pura Vida Chiropractic has the expertise to identify and correct the biomechanical dysfunction causing your bursitis, allowing permanent resolution.

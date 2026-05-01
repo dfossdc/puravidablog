@@ -262,6 +262,23 @@ La respuesta es: **Depende de tu problema.**
 
 No es "quiropráctico vs. fisioterapeuta". Es "quiropráctico Y fisioterapeuta" cuando es apropiado.
 
+## Preguntas Frecuentes
+
+**¿Cuál es la diferencia fundamental entre quiroprácticos y fisioterapeutas?**
+Los quiroprácticos se enfocan en restaurar la alineación y función del sistema nervioso/espinal. Los fisioterapeutas se enfocan en ejercicio, fortalecimiento, y recuperación de rango de movimiento. Ambos tienen valor, pero abordan problemas desde ángulos diferentes. Idealmente, puede trabajar con ambos.
+
+**¿Cuándo debería ver un quiropráctico vs un fisioterapeuta?**
+Vea un quiropráctico primero para diagnóstico e identificar subluxaciones. Una vez que hemos restaurado la alineación, el fisioterapeuta puede ser valioso para fortalecer y mantener. Para algunas condiciones, ambos juntos es óptimo. Recomendaré fisioterapia cuando sea apropiada.
+
+**¿Los fisioterapeutas pueden hacer ajustes como los quiroprácticos?**
+No. Los ajustes específicos requieren entrenamiento quiropráctico especializado. Los fisioterapeutas pueden hacer "mobilizaciones" que son más suaves, pero no son ajustes quiroprácticos. Algunos pacientes responden mejor a un enfoque, otros al otro.
+
+**¿Por qué algunos seguros cubren fisioterapia pero no quiropráctica?**
+Históricamente, la medicina convencional ha sido más familiarizada con fisioterapia. Sin embargo, el seguro cada vez más cubre quiropráctica. Muchos seguros ahora cubren ambas. Verifique su cobertura específica—ofrecemos superbills si necesita verificación de cobertura.
+
+**¿Puedo hacer ambos al mismo tiempo de forma segura?**
+Sí, si coordinamos. Avíseme que está con fisioterapia para que pueda ajustar mis técnicas apropiadamente. Comunicación entre proveedores es clave. Una vez que está coordinado, la combinación es a menudo más efectiva que cualquiera sola.
+
 ## Situación en San Antonio
 
 En San Antonio:

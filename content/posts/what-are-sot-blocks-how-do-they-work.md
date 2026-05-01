@@ -81,4 +81,21 @@ When indicated, cranial work is added at the end to address the other end of the
 - Blocks work through tissue creep — allowing connective tissue to remodel under sustained low load, which holds better than brief forceful manipulation.
 - Category II in particular benefits from the gentleness of blocks; forceful manipulation in a ligament-sprained SI joint tends to aggravate rather than correct.
 
+## Frequently Asked Questions
+
+**If I just lie on blocks, how can that fix my back pain?**
+Because the correction isn't coming from force — it's coming from your own body weight and gravity creating sustained gentle load over the ligaments that support the sacroiliac joint. Forceful manipulation sometimes makes SI problems worse. Blocks allow the ligaments to relax and remodel, which is what actually heals.
+
+**How is SOT different from regular chiropractic?**
+Regular chiropractic typically uses high-velocity adjustments to move bones quickly. SOT uses gentle, sustained positioning with blocks and gravity to allow the body's own tissue remodeling. Both can work, but for ligament-sprained joints, SOT is often more effective.
+
+**Do SOT blocks hurt?**
+Most people find them comfortable and even pleasant. You may feel a slight stretch or sensation of the pelvis positioning, but not pain. Some people feel mild achiness for a day or two after as the pelvis adjusts to a new position, which is normal.
+
+**How long do I need to stay on the blocks?**
+Typically 5-10 minutes per session. The practitioner monitors the correction and may adjust block position to follow the changes happening. It's not passive — your tissues are actively responding and remodeling.
+
+**If my other chiropractors didn't help my SI joint pain, will SOT work?**
+Often yes. That tells me they likely missed identifying the specific category (whether it's simple imbalance, ligament sprain, or disc involvement) or treated it incorrectly. SOT's categorical system ensures the right problem gets the right treatment.
+
 Curious whether SOT block treatment is right for your back or hip pain? Call Pura Vida Chiropractic at **(210) 685-1994** to schedule an evaluation with Dr. Dan Foss. We serve San Antonio in English and Spanish — *hablamos español*.

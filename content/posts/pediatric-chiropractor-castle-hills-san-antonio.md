@@ -88,6 +88,26 @@ Most plans do. We also work with families who have high deductibles or limited c
 
 Yes. In fact, the first 1-2 weeks after birth is the ideal window to assess and correct birth-related cranial and spinal restrictions. We use extremely gentle techniques — no forceful manipulation. Many parents report they wish they'd brought their baby in sooner.
 
+## Frequently Asked Questions
+
+**Is pediatric chiropractic adjustment too forceful for delicate babies?**
+Absolutely not. Pediatric techniques are completely different from adult adjustments. Pressure is equivalent to testing the firmness of a tomato—no twisting, popping, or forceful movements. Dr. Foss uses specialized Webster Technique and gentle cranial methods adapted specifically for developing spines. Many parents report that their babies sleep better immediately after treatment.
+
+**How early can I bring my newborn in for care?**
+The ideal window is the first 1-2 weeks after birth. This is when cranial restrictions from delivery are most responsive to correction. Yes, we see newborns as early as one week old using extremely gentle techniques. Many parents wish they'd brought their babies in sooner when they see the results.
+
+**Will my pediatrician think I'm crazy for bringing my child to a chiropractor?**
+Many Castle Hills pediatricians respect pediatric chiropractors, especially for structural issues. Your pediatrician is trained to recognize disease and prescribe medication—that's valuable. Chiropractors are trained to assess spinal alignment, cranial bone position, and nervous system interference. These are complementary approaches. Many families use both: pediatrician for illness management, Dr. Foss for structural and nervous system optimization.
+
+**Does insurance cover pediatric chiropractic care?**
+Most plans do. We verify coverage before you come in. We also work with families who have high deductibles or limited coverage, provide detailed receipts for insurance submission, and offer transparent pricing for uninsured patients. Call us to discuss your specific plan.
+
+**My child's ear infections haven't resolved with antibiotics. Can chiropractic really help?**
+Chronic ear infections are often related to Eustachian tube dysfunction and spinal misalignment restricting nerve and fluid drainage. Cranial adjusting improves drainage and reduces infection frequency and severity. Many Castle Hills families report that after starting chiropractic care, their children's ear infection patterns resolve or improve dramatically.
+
+**How long is treatment, and how often does my child need to come in?**
+Initial treatment varies based on your child's condition. We design personalized care plans with realistic timelines. Many conditions (like colic) improve within 1-2 weeks. Others require ongoing care. After you reach your child's wellness goals, many families continue monthly maintenance visits to support ongoing healthy development.
+
 ## Why Castle Hills Trusts Dr. Dan Foss
 
 Castle Hills families are thoughtful. They research providers, ask detailed questions, and expect expertise. Over 23 years, Dr. Foss has earned a reputation as one of San Antonio's most experienced pediatric chiropractors — not because he does everything for everyone, but because he does pediatric care exceptionally well. Parents describe him as patient, thorough, and genuinely interested in understanding each child's unique story.

@@ -114,6 +114,23 @@ We are bilingual — English and Spanish — and we serve families from Stone Oa
 
 Asthma does not have to dominate your life or your child's life. When you address not just the bronchial inflammation but also the neurological patterns driving reactivity, something shifts. Your body remembers how to breathe freely.
 
+## Frequently Asked Questions
+
+**Is chiropractic care a replacement for my child's asthma medications?**
+No. Medications manage bronchial constriction and save lives — keep them. What chiropractic does is address the neurological dysfunction driving that constriction. Think of it as removing the root while medications manage the branch. Most kids benefit from both working together, and some eventually need less medication under medical supervision as their nervous system rebalances.
+
+**How soon will my child's breathing improve?**
+Many families notice reduced wheezing or fewer nighttime coughing episodes within 2-3 weeks. Some kids show improvement within days. But real respiratory improvement — fewer asthma exacerbations overall — typically takes 6-8 weeks of consistent care as the thoracic spine and diaphragm regain mobility.
+
+**Is SOT safe for young children?**
+Completely safe. SOT is low-force and works with the body's own physiology. I use the same gentle pressure you'd use to test a tomato for ripeness — literally a few grams. Children tolerate it beautifully, and many actually enjoy their visits because they breathe easier afterward.
+
+**My child has severe asthma and uses a rescue inhaler multiple times a day. Can chiropractic help at that level?**
+Yes. Severe asthma means the neurological pattern is deeply entrenched, so treatment takes longer and may require more frequent visits initially. But I've seen kids with frequent exacerbations shift significantly within 8-12 weeks as we restore spinal mobility and autonomic balance. Work closely with your pediatrician on medication decisions while we address the structural piece.
+
+**Are there foods or lifestyle changes that help asthma alongside chiropractic?**
+Yes. Posture matters tremendously — poor posture compresses the lungs. Sleep quality matters because asthma often worsens at night. Avoiding cold air exposure and managing allergen triggers help. I'll discuss specific strategies tailored to your child's age and situation during your visit.
+
 If you are ready to explore how spinal and autonomic nervous system balance might improve your asthma, call **(210) 685-1994** or [book your free consultation online](https://puravidasanantonio.com/special/).
 
 Your lungs want to work. Let us help remove what is getting in their way.

@@ -69,4 +69,21 @@ The treatment itself is gentle. We're not doing forceful manipulation of organs.
 - CMRT addresses both the vertebral subluxation and the organ reflex together
 - Signs of a visceral driver include chronic digestive or hormonal symptoms, short-lived adjustment relief, and correlated flare patterns
 
+## Frequently Asked Questions
+
+**How do I know if an organ is causing my recurring back problem?**
+Look for patterns: if you have known organ issues (reflux, digestive problems, hormonal issues) and your spinal pain flares when those problems flare, there's likely a connection. Also, if your adjustment relief lasts less than two weeks consistently, an organ reflex is probably involved.
+
+**If I have chronic reflux and mid-back pain, does that mean my stomach is definitely causing the back pain?**
+Not definitely, but it's likely. The stomach connects neurologically to T5-T6. If you have both reflux and recurring mid-back tightness at that level, addressing the stomach reflex alongside the spinal adjustment usually produces better, longer-lasting results.
+
+**Can CMRT fix my organ problem, or just the back pain?**
+CMRT doesn't treat the organ directly — that's your doctor's role if it's a medical condition. What CMRT does is reduce the nervous system stress driving the spinal problem and improve organ function through reflex stimulation. You may notice your digestive symptoms or other organ issues improve, but the primary goal is breaking the viscero-somatic loop keeping your spine stuck.
+
+**If I address the organ (diet, medication, stress management), will my back finally hold?**
+Often yes. If you address the organ's underlying stress while also getting structural chiropractic care, your results are much better. The combination — treating both the structural and the organ drivers — produces lasting relief.
+
+**How long has a vertebra been recurring before I should suspect an organ is involved?**
+If the same spot has been problematic for more than a year despite care, that's a red flag for a visceral driver. But even earlier patterns are worth investigating if they correlate with other health issues.
+
 If your back keeps going out in the same spot and you haven't found lasting relief, there's a good chance we can help you understand why — and do something about it. Give Pura Vida Chiropractic a call at **(210) 685-1994**. Let's look at the whole picture, not just the spine.

@@ -72,4 +72,21 @@ This is especially common in our San Antonio community, where many patients have
 - CMRT addresses both the vertebral subluxation and the organ reflex simultaneously
 - Dr. Dan Foss holds Advanced SOT Certification through SORSI and offers CMRT at Pura Vida Chiropractic
 
+## Frequently Asked Questions
+
+**How do I know if my digestive problem has a spinal component versus just being food sensitivity?**
+Ask yourself: does your stomach problem get better with diet changes, or does it keep happening regardless? If you get relief from dietary changes, it's likely food-related. If you've tried everything diet-wise and still have symptoms, or if your symptoms flare at the same time your back tightens, there's probably a spinal component. That's what I assess in my evaluation.
+
+**If my doctor's GI workup came back normal, does that mean nothing is wrong?**
+It means no structural damage, no ulcer, no infection — which is good news. But normal imaging doesn't rule out functional problems. Your stomach acid production could be low, your gastric motility could be poor, your vagus nerve could be irritated. Those are functional problems that show up as symptoms but not on a scope or scan. That's where CMRT comes in.
+
+**I've been on omeprazole for years. Can chiropractic care help me reduce my dose?**
+Possibly. If your reflux has a spinal-nerve component, addressing that can reduce the stimulus driving excess acid production. But this is a conversation with your gastroenterologist. I address the structural piece; your doctor manages the medication. Many patients are able to reduce their dose under medical supervision as their nervous system function improves.
+
+**How is CMRT different from regular chiropractic for digestive problems?**
+Regular chiropractic adjusts the vertebra. CMRT adjusts the vertebra AND works the organ reflex at the same time, breaking the viscero-somatic loop. It's the difference between raking leaves off the lawn versus pulling out the tree dropping them. Both are valuable, but CMRT is more complete for problems that keep recurring.
+
+**How many visits does it take to feel better with CMRT?**
+Many patients notice improvement within 2-3 weeks. But since these are usually chronic problems, full resolution often takes 6-12 weeks of consistent care. The frequency depends on how long you've had the problem and how quickly your nervous system resets.
+
 If you've been managing digestive symptoms without finding the root cause, or if you keep returning for the same spinal adjustments without lasting results, I'd love to talk with you. Give us a call at **(210) 685-1994** — we're here to help you find answers that actually stick.

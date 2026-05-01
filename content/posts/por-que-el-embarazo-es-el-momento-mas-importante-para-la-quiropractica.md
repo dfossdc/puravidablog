@@ -86,6 +86,23 @@ Si nunca ha visto a un quiropráctico durante el embarazo, esto es exactamente l
 
 Somos bilingües — inglés y español — y atendemos a mamás de Stone Oak, Castle Hills, Alamo Heights, Helotes y todo San Antonio.
 
+## Preguntas Frecuentes
+
+**¿Por qué es el embarazo un momento crítico para la quiropráctica?**
+Durante el embarazo, su cuerpo experimenta cambios profundos—desplazamiento del centro de gravedad, aumento hormonal de 100x, aumento de presión pélvica. La alineación espinal y pélvica determina literalmente si su cuerpo puede acomodar estos cambios sin dolor. La quiropráctica optimiza esto todo.
+
+**¿Cuándo debo comenzar tratamiento quiropráctico durante mi embarazo?**
+Idealmente, comience antes de quedar embarazada. Si ya está embarazada, comience tan pronto como se da cuenta. Cada trimestre tiene beneficios específicos, pero comenzar temprano permite que su cuerpo se adapte más fácilmente a los cambios del embarazo.
+
+**¿Pueden los ajustes quiroprácticos afectar mi capacidad de quedar embarazada?**
+No. De hecho, muchas de mis pacientes que enfrentaban dificultad para concebir quedaron embarazadas después de comenzar quiropráctica. Una columna alineada mejora la función nerviosa y hormonal—ambas críticas para la fertilidad.
+
+**¿Cuál es la diferencia entre quiropráctica prenatal regular y Webster?**
+La técnica Webster es una técnica especializada enfocada específicamente en la pelvis y el ligamento redondo. Es excelente para bebés en posición podalica. La quiropráctica prenatal más general aborda la alineación espinal completa y el bienestar durante el embarazo.
+
+**¿Seguiré necesitando quiropráctica después del parto?**
+Sí, pero cambiaremos el enfoque. Después del parto, trabajaremos en recuperación posparto, restablecimiento de la alineación pélvica, y preparación de su cuerpo para futuros embarazos. El cuidado posparto es tan importante como el prenatal.
+
 ## ¿Lista para Comenzar?
 
 Llame al **(210) 685-1994** o [reserve su consulta gratuita en línea](https://puravidasanantonio.com/special/). Si está embarazada o tratando de concebir, esta puede ser la visita que más importe. Sin presión, sin compromiso de tratamiento — solo una conversación sobre si lo que hacemos es adecuado para usted.

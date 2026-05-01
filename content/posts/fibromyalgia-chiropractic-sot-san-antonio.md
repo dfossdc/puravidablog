@@ -117,6 +117,23 @@ What I will tell you is this: with proper SOT care, many of my fibromyalgia pati
 
 And it comes from addressing the actual problem instead of just medicating around it.
 
+## Frequently Asked Questions
+
+**Can chiropractic actually help with fibromyalgia or is it just pain management?**
+SOT and other chiropractic approaches address the underlying nervous system dysregulation perpetuating fibromyalgia. This isn't just pain management—it's addressing root causes. Many fibromyalgia patients experience significant improvement in pain, sleep, fatigue, and overall function. Some achieve complete resolution. The question isn't whether chiropractic helps fibromyalgia, but whether you'll get proper evaluation to determine your specific treatment plan.
+
+**Why do fibromyalgia patients often see limited improvement with conventional medicine?**
+Conventional medicine largely addresses fibromyalgia through pain medications and antidepressants, which help some symptoms but don't address underlying nervous system dysregulation. Fibromyalgia involves spinal dysfunction, autonomic dysregulation, and emotional trauma patterns—areas where chiropractic excels. Adding proper chiropractic care to medical treatment often produces dramatic improvement.
+
+**Is fibromyalgia related to past trauma or stress?**
+Yes, fibromyalgia frequently develops after physical trauma, emotional trauma, or chronic stress. These experiences dysregulate your nervous system and can trigger spinal misalignments that perpetuate the problem. Addressing both the emotional/stress component and the spinal/nervous system component is crucial. SOT and other techniques specifically address the nervous system patterns related to trauma.
+
+**Will chiropractic care help my fatigue and sleep problems?**
+Often yes. Sleep problems and fatigue in fibromyalgia relate to nervous system dysregulation and pain. As pain decreases and nervous system function normalizes, sleep quality typically improves significantly. Many patients report sleeping better than they have in years after a few weeks of care. Better sleep provides energy, reduces pain perception, and accelerates overall improvement.
+
+**How long before fibromyalgia improves with chiropractic care?**
+Initial improvement typically occurs within 2-4 weeks. Significant improvement usually develops over 2-3 months of consistent care. Some patients improve faster while others progress more gradually. Fibromyalgia is complex and recovery takes time, but most patients experience meaningful improvement relatively quickly compared to years of struggle with medications alone. Patience and consistency are essential.
+
 ## Ready to Explore a Different Approach?
 
 If you have been struggling with fibromyalgia, dismissed by doctors, cycled through medications, and felt hopeless, I want you to know: there is another path. One that works with your nervous system instead of against it.

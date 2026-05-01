@@ -182,6 +182,26 @@ Aunque la degeneración discal no puede ser completamente revertida, la mayoría
 
 El objetivo es manejar la condición de manera efectiva, prevenir la progresión y mantener una función óptima.
 
+## Preguntas Frecuentes
+
+**¿Puede un disco degenerativo sanar o es permanente?**
+La degeneración es permanente, pero puede estabilizarse y el dolor puede resolverse significativamente. La quiropráctica no reviierte la degeneración, pero restaura la alineación permitiendo que el cuerpo se adapte eficientemente al disco degenerado. Muchos pacientes con degeneración severa viven sin dolor con manejo quiropráctico apropiado.
+
+**¿Es la enfermedad degenerativa del disco lo mismo que hernia de disco?**
+No. Degeneración significa el disco ha perdido fluido y altura. Hernia significa el núcleo del disco se ha protruido hacia afuera. Ambos pueden ocurrir en la misma persona. La quiropráctica maneja ambas, pero requiere evaluaciones diferentes y planes de tratamiento adaptados.
+
+**¿Cuánto tiempo debo tratar la enfermedad degenerativa del disco?**
+Muchos pacientes ven mejora en 4-6 semanas. Sin embargo, la estabilización a largo plazo requiere ajustes de mantenimiento continuos (1-2 veces al mes). La degeneración es una condición crónica, pero el dolor asociado puede resolverse y mantenerse controlado con cuidado quiropráctico regular.
+
+**¿Empeorará mi degeneración discal con ejercicio?**
+No necesariamente. Ejercicio suave fortalece los músculos que soportan el disco degradado, mejorando la estabilidad. Sin embargo, ejercicio agresivo, levantamiento pesado, o movimientos de torsión pueden exacerbarse. El Dr. Foss proporciona modificaciones específicas de ejercicio.
+
+**¿Necesitaré cirugía para enfermedad degenerativa del disco?**
+La mayoría no. La quiropráctica conservadora maneja la mayoría de los casos. La cirugía se considera solo cuando hay compresión nerviosa severa, debilidad progresiva, o problemas de vejiga/intestino. Incluso con degeneración severa, muchos pacientes evitan cirugía completamente con tratamiento quiropráctico apropiado.
+
+**¿La nutrición ayuda con la salud del disco?**
+Sí. Los discos necesitan hidratación y nutrientes. El Dr. Foss proporciona recomendaciones nutricionales específicas: hidratación adecuada, nutrientes antiinflamatorios, alimentos que apoyan la salud del colágeno. Nutrición correcta complementa el tratamiento quiropráxico.
+
 ### Ubicación y Horario
 
 Pura Vida Chiropractic está ubicada en **2318 NW Military Hwy Suite 103, San Antonio TX 78231**. Servicios completamente bilingües en inglés y español.

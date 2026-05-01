@@ -211,7 +211,7 @@ export default async function BlogPost({ params }: Props) {
               />
             </div>
           )}
-          <TableOfContents headings={post.headings} locale={locale} />
+          <TableOfContents headings={post.headings} locale={locale as "en" | "es"} />
           <div
             className={styles.body}
             dangerouslySetInnerHTML={{ __html: post.content }}

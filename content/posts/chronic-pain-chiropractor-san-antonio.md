@@ -175,6 +175,23 @@ Dr. Dan Foss brings specialized expertise in chronic pain management with creden
 - Compassionate, patient-centered approach
 - Commitment to identifying root causes rather than just treating symptoms
 
+## Frequently Asked Questions
+
+**How is chronic pain different from regular pain, and why does it need a different approach?**
+Regular pain tells you something's wrong — break your arm, feel pain, treat the break, pain goes away. Chronic pain is different: even after tissue heals, the nervous system stays stuck in a pain response. Your brain amplifies signals from that area, creating a feedback loop. Treating only the tissue doesn't break that loop. I address both the structural source and the nervous system's pain sensitization.
+
+**Will pain medications still work if I get chiropractic care?**
+Yes, and they should. I'm not asking you to stop medications prescribed by your doctor. What I'm doing is addressing the root cause so that over time, as your nervous system resets and function improves, you might need less medication. Many patients are able to reduce their dosage under medical supervision once their pain cycle breaks.
+
+**How long does it take to recover from chronic pain?**
+Most patients notice improvement within 2-4 weeks. Significant functional improvement usually takes 8-12 weeks. Some chronic pain conditions require ongoing management rather than complete resolution. I'll give you realistic expectations during your evaluation based on your specific condition and how long you've had pain.
+
+**If I've had this pain for years, is it too late to treat?**
+No. The nervous system is more plastic than we used to think — it can rewire. I've helped patients with decades of chronic pain finally break the cycle. It takes longer than acute pain treatment, but recovery is absolutely possible. The key is addressing both the structural cause and the nervous system's sensitization.
+
+**What if other treatments haven't worked for my chronic pain?**
+That actually suggests a structural or neurological cause that previous treatments didn't address. I do a thorough evaluation to identify what's being missed. Sometimes it's spinal alignment, sometimes it's visceral reflex patterns, sometimes it's how your nervous system is processing pain. The fact that other approaches failed doesn't mean you're untreatable — it means we need to look deeper.
+
 ## Contact Us Today
 
 If you've been suffering with chronic pain in San Antonio, you deserve care from someone who understands the complexity of your condition. Dr. Foss and the Pura Vida Chiropractic team are ready to help you break free from the chronic pain cycle.

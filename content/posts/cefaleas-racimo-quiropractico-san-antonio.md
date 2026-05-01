@@ -163,6 +163,26 @@ Algunos pacientes experimentan resolución completa; otros logran períodos de r
 - Sin efectos secundarios
 - Mejora la salud general
 
+## Preguntas Frecuentes
+
+**¿Cuánto tiempo tarda la quiropráctica en reducir las cefaleas en racimo?**
+Muchos pacientes notan alivio en 2-4 semanas con tratamiento consistente (2-3 veces por semana). Sin embargo, como las cefaleas en racimo son cíclicas y complejas, los resultados óptimos generalmente se ven en 8-12 semanas. Algunos pacientes experimentan remisión completa de los "racimos," mientras que otros experimentan menos ataques y dolor menos intenso.
+
+**¿Los medicamentos para cefaleas pueden usarse junto con quiropráctica?**
+Sí, absolutamente. La quiropráctica complementa la medicación. Su médico puede continuar prescribiendo oxígeno, ergotaminas u otros tratamientos mientras recibe cuidado quiropráxico. Muchos pacientes encuentran que necesitan menos medicación con el tiempo conforme la función del tallo cerebral se restaura. Nunca descontinúe medicamentos sin consultar a su doctor.
+
+**¿Qué es exactamente la disfunción del tallo cerebral y cómo causa cefaleas en racimo?**
+El tallo cerebral controla funciones vitales incluyendo regulación vascular (contracción y dilatación de vasos), ritmos biológicos y neurotransmisores. Cuando las vértebras cervicales superiores, especialmente el atlas (C1), se desalinean, interfieren con la información sensorial que el tallo cerebral recibe. Esto puede resultar en vasodilatación anormal y activación inapropiada de circuitos de dolor que disparan ataques.
+
+**¿El ajuste craneal es seguro para cefaleas en racimo?**
+Sí, es muy seguro. De hecho, es especialmente efectivo para cefaleas en racimo porque el cráneo alberga el hipotálamo (regulador del ritmo de "racimo") y otros centros neurológicos críticos. Los ajustes craneales SOT son de baja fuerza, muy gentiles, sin crujir ni manipulación agresiva. Los pacientes a menudo se sorprenden de lo calmante que es.
+
+**¿Puedo estar en un "racimo" mientras recibo tratamiento quiropráxico?**
+Sí. De hecho, el tratamiento durante un racimo puede ser beneficioso. Los ajustes ayudan a normalizar la función del tallo cerebral y reducir la intensidad y frecuencia de los ataques incluso mientras estén ocurriendo. Sin embargo, si un ataque es severo e incapacitante, es razonable esperar 24 horas para permitir estabilización antes de venir a la clínica.
+
+**¿Hay algo más que pueda hacer en casa para prevenir cefaleas en racimo?**
+Sí. Identificar y evitar desencadenantes es importante (alcohol, histaminas, ciertos alimentos). Mantener una postura erguida reduce la tensión cervical. El sueño consistente es crítico porque los ataques frecuentemente ocurren durante patrones de sueño específicos. El estrés también es un desencadenante, así que técnicas de manejo del estrés ayudan. El Dr. Foss proporciona recomendaciones específicas para su situación.
+
 ## Por Qué Elegir al Dr. Dan Foss
 
 El Dr. Foss es un especialista certificado avanzado en SOT con más de una década de experiencia tratando cefaleas complejas. Su combinación de:

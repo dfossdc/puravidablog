@@ -101,6 +101,26 @@ Most patients find it deeply relaxing. Some notice immediate changes in the area
 - Conditions that may respond include GERD, PMS, menstrual cramps, menopausal symptoms, adrenal fatigue, constipation, gallbladder issues, allergies, asthma, and more
 - CMRT is gentle, non-forceful, and suitable for a wide range of patients
 
+## Frequently Asked Questions
+
+**Can CMRT really improve my digestion or reflux?**
+CMRT doesn't "treat" the digestive system directly—it restores the nervous system signals that control it. When the vagus nerve and the autonomic fibers to your stomach are working properly, digestion normalizes. I've seen acid reflux, constipation, and sluggish motility improve dramatically once the reflex patterns release. The results come from restoring your body's own regulatory capacity.
+
+**How quickly will I notice improvement in my symptoms?**
+Many patients notice changes within 1-3 visits—better digestion, reduced bloating, improved energy. But meaningful, lasting improvement typically takes 4-8 weeks as the nervous system recalibrates and the organ reflex fully stabilizes. The longer a condition has been present, the longer the timeline. But change usually comes faster than patients expect once care begins.
+
+**Is CMRT safe if I have a serious medical condition like gallstones or liver disease?**
+CMRT works alongside medical care, not against it. If you have diagnosed gallstones or liver disease, mention it at your consultation so I can tailor the approach. CMRT's gentle reflex work supports your body's healing capacity—it doesn't interfere with medical management. We coordinate with your primary care doctor whenever needed.
+
+**Can I get CMRT help for PMS or menstrual symptoms?**
+Absolutely. The autonomic nerve supply to the uterus and ovaries follows the lower thoracic and lumbar spine. When these areas are aligned and the reproductive organ reflexes are normalized, hormonal symptoms often improve significantly. CMRT combined with structural correction helps many women reduce PMS, menstrual cramps, and hormonal irregularities.
+
+**Will I be dependent on CMRT visits forever?**
+Not necessarily. The goal is to correct the underlying spinal and reflex pattern so your body maintains its own regulation. Many patients transition from regular visits to maintenance care—once monthly or quarterly—and some eventually need minimal support. It depends on your lifestyle, stress, diet, and whether the original drivers of dysfunction resolve.
+
+**What's different about CMRT compared to just a regular spinal adjustment?**
+Regular adjustments address the spine and joints—important foundational work. But they don't address the organ reflexes driving the vertebra back out of alignment. CMRT works both directions: it fixes the spine AND resets the organ reflex pattern that was pulling it misaligned. This breaks the cycle, so results hold longer and symptoms stay improved.
+
 If you're dealing with chronic health conditions that seem to have both a spinal and a visceral component — or if you've been told your symptoms are "just something you have to manage" — CMRT may offer a different perspective. I'd be glad to talk through whether this approach makes sense for you.
 
 Call us at Pura Vida Chiropractic: **(210) 685-1994**. We're located at 2318 NW Military Hwy #103, San Antonio, TX 78231, and we offer bilingual care in English and Spanish.

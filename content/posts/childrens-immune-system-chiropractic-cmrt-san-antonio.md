@@ -138,6 +138,23 @@ I do not work in isolation. If your child comes to Pura Vida, I will assess and 
 
 Most pediatricians recognize that a child's nervous system and immune system are connected. We have worked alongside pediatricians, family-medicine doctors, and nurse practitioners across San Antonio for 23 years, and collaboration matters.
 
+## Frequently Asked Questions
+
+**At what age can I bring my child for immune-support chiropractic care?**
+From birth onward. Newborns especially benefit because their nervous systems are still plastic and responsive. Birth trauma — forceps, vacuum extraction, tight umbilical cords — locks many babies into sympathetic dominance from day one. Early care releases those restrictions and prevents chronic immune problems. That said, children of any age benefit. I've helped 4-year-olds with recurrent ear infections and teenagers with allergies.
+
+**If my pediatrician hasn't mentioned the nervous system connection to immunity, does that mean it's not real?**
+Most pediatricians focus on treating infections when they happen. The nervous-system-immune connection (psychoneuroimmunology) is solid research, but it's not part of standard pediatric training. Most pediatricians are open to complementary care once they see their patient improving. We've worked alongside pediatricians across San Antonio for 23 years.
+
+**My child is on antibiotics for an ear infection. Can I start chiropractic care now, or should I wait?**
+Start now. While your child finishes the antibiotic course under your doctor's supervision, chiropractic care helps restore the nervous-system balance that prevents future infections. If your child avoids future infections, the microbiome stays healthier and future antibiotics become less necessary.
+
+**How often does my child need to come in, and for how long?**
+Most children with chronic immune issues see improvement in 4-6 weeks with bi-weekly visits. Once improvement is clear, we move to monthly or every-other-month preventive care. Some families do one visit per month year-round as immune support. It depends on the severity of the problem and your family's goals.
+
+**Can I do this alongside supplements, probiotics, and diet changes?**
+Absolutely. In fact, the combination works better than any single approach. Supplements help, but they're more effective once the nervous system is functioning properly. A good anti-inflammatory diet + probiotics + chiropractic care that restores autonomic balance = best outcome.
+
 ## Ready to Build Your Child's Immune Resilience?
 
 If your child is stuck in a cycle of infections, allergies, or chronic immune sensitivity, do not accept the reactive model — "treat each infection as it comes." There is a deeper pattern, and we can address it.

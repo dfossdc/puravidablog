@@ -152,6 +152,23 @@ El Dr. Dan Foss tiene más de una década de experiencia específica en cuidado 
 
 Pura Vida Chiropractic es una oficina completamente bilingüe, sirviendo con orgullo a la comunidad hispanohablante de San Antonio. Creemos que todas las mujeres merecen cuidado de calidad que respete su idioma, su cultura, y sus necesidades durante este momento tan importante en sus vidas.
 
+## Preguntas Frecuentes
+
+**¿Es segura la quiropráctica durante el embarazo?**
+Absolutamente. Utilizo técnicas especialmente diseñadas para embarazadas que son sumamente seguras para la mamá y el bebé. En 23 años he tratado a cientos de mujeres embarazadas sin problemas. Las técnicas SOT y la Técnica Webster son específicamente validadas para embarazo. El ajuste craneal y el trabajo CMRT son muy suaves y completamente seguros. Una mujer embarazada puede recibir cuidado quiropráctico desde el primer trimestre hasta el parto.
+
+**¿Cuántas visitas necesitaré, y cuándo debo empezar el cuidado prenatal?**
+Lo ideal es comenzar en el primer trimestre si es posible, aunque puedo ayudar a las mujeres en cualquier momento del embarazo. Muchas vienen 2-3 veces por semana durante el embarazo para alivio de síntomas, ciática y preparación pélvica para el parto. El cuidado es flexible—algunas necesitan solo apoyo ocasional, otras más intensivo. Te daré recomendaciones realistas después de evaluarte en tu primera cita.
+
+**¿La Técnica Webster realmente ayuda con los bebés de nalgas, o es un mito?**
+Tengo éxito consistente con la Técnica Webster para bebés de nalgas. No es cirugía—realinea la pelvis y libera las restricciones uterinas que pueden estar impidiendo que el bebé se voltee naturalmente. Muchas de mis pacientes con bebés de nalgas se han volteado a posición cefálica después de la Técnica Webster. No funciona en el 100% de los casos, pero tiene mejores resultados que esperar o someterse a cesárea automática.
+
+**¿Debería mi médico saber que estoy viendo a un quiropráctico durante el embarazo?**
+Sí, es una buena idea. Trabajaré con tu ginecólogo o matrona sin problema. Algunos doctores apoyan completamente el cuidado quiropráctico prenatal; otros solo necesitan comunicación clara sobre lo que hago. He trabajado con la comunidad médica de San Antonio durante 23 años—la coordinación de cuidados es importante.
+
+**¿Cuánto cuesta, y toma mi seguro?**
+Aceptamos la mayoría de seguros a través de superbills—pagas en el consultorio y presentas a tu aseguradora. Si no tienes seguro, hablamos de opciones de pago. Llama **(210) 685-1994** para discutir costos y cobertura antes de tu primera cita. El cuidado prenatal no debe ser una barrera económica.
+
 ---
 
 **¿Está embarazada y vive con dolor?** Usted no tiene que aguantar. Merece tener un embarazo cómodo y una recuperación rápida después del parto.

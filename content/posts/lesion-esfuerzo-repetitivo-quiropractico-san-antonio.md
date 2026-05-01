@@ -160,6 +160,23 @@ Pura Vida Chiropractic está convenientemente ubicada en:
 
 Para programar su cita, simplemente llame al **(210) 685-1994**. Nuestro equipo bilingüe está listo para ayudarle.
 
+## Preguntas Frecuentes
+
+**¿Cuál es la diferencia entre tendinitis y lesión por esfuerzo repetitivo?**
+La tendinitis es inflamación de un tendón específico, mientras que la lesión por esfuerzo repetitivo (RSI) involucra múltiples estructuras—tendones, nervios y músculos—dañadas por movimiento repetitivo prolongado. El RSI es más complejo y requiere un enfoque integral como el que ofrecemos en Pura Vida Chiropractic.
+
+**¿Cuánto tiempo necesito dejar de trabajar para recuperarme?**
+No necesariamente necesita dejar de trabajar, pero sí necesita modificar. Nuestros ajustes quiroprácticos y terapia láser Clase IV aceleran la cicatrización significativamente. La mayoría de nuestros pacientes continúan trabajando mientras se recuperan—solo necesitan optimizar su ergonomía y recibir ajustes regulares.
+
+**¿Funcionará el tratamiento si continúo haciendo el mismo movimiento?**
+El tratamiento es más efectivo si modificamos el movimiento. Sin embargo, una vez que hemos restaurado la alineación espinal y mejorado la biomecánica, muchos pacientes pueden regresar a sus actividades normales sin recaída. La clave es hacer los ajustes preventivos correctamente.
+
+**¿Qué puedo hacer en casa para acelerar la recuperación?**
+Mantenga la ergonomía correcta, tome descansos frecuentes cada hora, haga estiramientos prescritos, manténgase hidratado y duerma bien. Estos hábitos combinados con los ajustes quiroprácticos crean un ambiente óptimo para la cicatrización.
+
+**¿Es la cirugía necesaria para RSI severo?**
+La mayoría de los casos de RSI responden bien al tratamiento conservador quiropráctico combinado con terapia láser y terapia de ondas de choque. Solo en casos muy raros donde hay daño estructural severo se considera cirugía, y eso generalmente ocurre después de años sin tratamiento.
+
 ## Conclusión
 
 Las lesiones por esfuerzo repetitivo no tienen que ser crónicas ni debilitantes. Con el tratamiento correcto, puede recuperar su funcionalidad completa y su calidad de vida. El Dr. Dan Foss y el equipo de Pura Vida Chiropractic están dedicados a proporcionar la atención quiropráctica más avanzada y personalizada en San Antonio.

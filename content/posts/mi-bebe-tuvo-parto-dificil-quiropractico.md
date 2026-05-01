@@ -76,4 +76,24 @@ En Pura Vida Chiropractic, atendemos a bebés desde los primeros días de vida. 
 - Intervenir temprano maximiza los resultados porque los huesos craneales del bebé son muy maleables
 - El Dr. Dan Foss tiene experiencia y certificación avanzada en técnica SOT craneal a través de SORSI
 
+## Preguntas Frecuentes
+
+**¿Es seguro ajustar a un bebé recién nacido?**
+Completamente seguro. El ajuste craneal pediátrico utiliza presiones extremadamente suaves — típicamente no más que unos pocos gramos de fuerza. No hay ningún chasquido ni movimiento brusco. De hecho, muchos bebés se duermen durante el tratamiento porque es tan relajante. He realizado ajustes craneales en bebés desde el primer día de vida con excelentes resultados.
+
+**¿A qué edad es demasiado tarde para tratar las restricciones craneales?**
+Nunca es completamente demasiado tarde, pero cuanto más temprano intervengamos, mejor. Los huesos craneales de un bebé recién nacido son muy blandos y plásticos, lo que permite correcciones rápidas. A los 6 meses, el cráneo ya está más rígido. A los dos años, mucho más. Si su hijo tiene años de edad y todavía tiene cólicos, plagiocefalia, o dificultad para lactar, aún pueden beneficiarse del trabajo craneal, pero requiere más sesiones.
+
+**¿Cuántas sesiones necesita un bebé después de un parto difícil?**
+Varía según la severidad de la restricción y qué síntomas está experimentando el bebé. Muchos bebés con parto por fórceps mejoran significativamente en 2-4 sesiones. Otros con restricciones más complejas necesitan 6-8 sesiones. En la evaluación inicial, le daré una recomendación específica después de examinar a su bebé.
+
+**¿Cómo sé si mi bebé realmente tiene una restricción craneal?**
+Los signos comunes incluyen plagiocefalia, dificultad para lactar, cólicos intensos, tortícolis, infecciones de oído recurrentes, o reflujo excesivo. Si su bebé tuvo un parto con fórceps o vacuum, una cesárea de emergencia después de trabajo de parto largo, o un parto muy rápido, es altamente probable que tenga al menos algo de restricción craneal. Una evaluación clínica rápida lo confirma.
+
+**¿Mejorará el cólico de mi bebé solo con el tiempo?**
+Algunos bebés superan el cólico solos. Otros no. Si el cólico está relacionado con una restricción craneal o cervical, el ajuste craneal puede aliviarle en días. Si espera y simplemente observa, su bebé podría estar sufriendo innecesariamente durante meses. Es mejor saber si existe una causa estructural que se pueda corregir.
+
+**¿Interfiere el ajuste craneal con el vínculo emocional entre mamá y bebé?**
+Al contrario. El ajuste craneal ayuda al bebé a estar más cómodo, menos irritable, y capaz de dormir mejor. Muchas mamás nos dicen que después del ajuste, sus bebés son más felices y pueden disfrutar más del tiempo con ellas. Nada interfiere con el vínculo — una mamá menos estresada y un bebé menos irritable es lo mejor para la conexión.
+
 Si su bebé tuvo un parto difícil, o si está notando alguna de las señales descritas en este artículo, nos encantaría evaluarlo. Llámenos a Pura Vida Chiropractic al **(210) 685-1994**. Hablamos español y atendemos con mucho gusto a toda la familia. Estamos ubicados en 2318 NW Military Hwy #103, San Antonio, TX 78231.

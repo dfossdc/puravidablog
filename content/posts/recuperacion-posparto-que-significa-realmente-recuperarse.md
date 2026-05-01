@@ -113,6 +113,23 @@ De 12 a 18 meses es el cronograma realista. Eso no significa que esté en dolor 
 
 Sea paciente consigo misma. Confíe en su cuerpo. Busque apoyo cuando lo necesite.
 
+## Preguntas Frecuentes
+
+**¿Cuál es la diferencia entre "recuperación" posparto médica y funcional?**
+La medicina dice "recuperación" a las 6 semanas cuando ha sanado el sangrado—pero eso es solo hemostasis. La recuperación funcional real toma 6-12 meses. Su pelvis está aún desalineada. Sus ligamentos están aún laxos. Su fuerza del núcleo es casi cero. La verdadera recuperación requiere trabajo.
+
+**¿Cuándo puedo comenzar ejercicio posparto?**
+Caminar puede comenzar inmediatamente si el parto fue vaginal sin trauma. Fortalecer núcleo específico puede comenzar 2-3 semanas después de un parto vaginal, más tiempo después de cesárea. Evite ejercicio de alto impacto y cargas pesadas por al menos 12 semanas. Yo prescribo un programa de regresión específica.
+
+**¿Afectará la debilidad pelviana posparto futuros embarazos?**
+Sí. Una pelvis débil en un embarazo significa mayor disfunción pélvica en el siguiente. La incontinencia urinaria que frecuentemente resulta de debilidad pelviana posparto es "normal" pero completamente prevenible con rehabilitación pélvica quiropráctica apropiada.
+
+**¿Cuándo debo buscar quiropráctica posparto?**
+Idealmente, dentro de 2-3 semanas después de dar a luz. Esperar 6 meses significa hábitos disfuncionales se han enraizado. Cuanto antes restauremos la alineación pélvica y comencemos la rehabilitación, mejor será su recuperación y futuro.
+
+**¿Qué tan diferente es la recuperación después de una cesárea vs parto vaginal?**
+La cesárea requiere más tiempo—el daño quirúrgico toma más tiempo de sanar. Sin embargo, ambas requieren recuperación pelviana. El tiempo de restricción es más largo (8-12 semanas vs 4-6), pero el principio es el mismo: alineación, fortalecimiento, rehabilitación.
+
 ## ¿Lista Para Comenzar Su Recuperación Posparto?
 
 Si ha dado a luz recientemente y está experimentando dolor de espalda, dolor pélvico, dolores de cabeza posparto, o simplemente quiere el apoyo estructural de la atención quiropráctica temprana, llame al **(210) 685-1994** o [reserve su consulta en línea](https://puravidasanantonio.com/special/). Servimos a madres posparto de todo San Antonio—incluyendo Stone Oak, Castle Hills, Alamo Heights y Helotes.

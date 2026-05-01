@@ -62,7 +62,22 @@ Most desk-work neck pain patients notice meaningful improvement within the first
 
 The alternative is what happens without treatment: continued degeneration, more frequent and severe headaches, eventual disc involvement, and a progressive loss of quality of life that sneaks up so gradually you barely notice until it's significantly limiting what you can do.
 
----
+## Frequently Asked Questions
+
+**If I just improve my desk posture, won't that fix my neck pain?**
+Posture awareness helps prevent future damage, but it doesn't undo structural changes that have already occurred. If your cervical curve is already straightened, your joints are restricted, and your muscles are chronically shortened, posture alone won't fix those things. You need clinical intervention to restore the curve and joint mobility — then good posture can maintain it.
+
+**My headaches are probably from stress. Why do you think they're from my neck?**
+Stress can contribute to headaches, but if your headaches consistently worsen with desk work and improve with neck care, that's a strong sign they're cervicogenic — originating in your cervical spine rather than stress. The suboccipital muscles, upper cervical joints, and scalene muscles all refer pain into the head when they're restricted. A proper evaluation can distinguish between stress and structural causes.
+
+**How long does it take to fix desk-job neck pain?**
+Most patients notice meaningful improvement within 2-4 visits. But lasting correction — restoring your cervical curve and stabilizing the joints — takes longer. The timeline depends on how many years the damage has been accumulating. Six months of consistent treatment is realistic for significant, lasting improvement.
+
+**Do I need to quit my desk job to get better?**
+No, but you'll need to modify how you work. Workstation setup matters — screen height, monitor distance, chair support. Movement breaks are essential — standing, walking, stretching every 30-45 minutes. And specific exercises that rebuild deep cervical flexor strength are important. I'll give you a complete game plan tailored to your situation.
+
+**Will the pain come back if I go back to my desk job?**
+Only if you return to the same patterns without the preventive work. Once your cervical curve is restored and your joints are stable, good workstation ergonomics and regular movement breaks will maintain that improvement. Many patients maintain their relief for years with minimal maintenance care.
 
 ## Ready to experience the difference?
 

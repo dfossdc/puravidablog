@@ -112,6 +112,26 @@ There are patients for whom Pura Vida may not be the primary fit: someone seekin
 - Dr. Foss is personally fluent in Spanish, with lived experience in Costa Rica and Spain.
 - If chiropractic has not worked for you before, the organ and cranial dimensions of the Pura Vida Protocol are likely what was missing.
 
+## Frequently Asked Questions
+
+**What if I've already tried chiropractic without results?**
+If your previous care didn't hold or didn't solve the underlying problem, the missing piece is likely the organ and cranial dimensions. Standard practitioners assess and treat the spine alone. We treat the spine, organs (CMRT), and cranium (SOT Craniopathy) as one integrated system—finding what other practitioners missed.
+
+**How is Advanced SOT certification different from a weekend seminar?**
+Advanced SOT through SORSI is a comprehensive post-doctoral curriculum, not a short course. It covers all three systems: pelvic/spinal analysis (Category I, II, III), organ-spinal reflexes (CMRT), and cranial bone techniques (22 cranial bones, five synchondrosis patterns). This integration is what allows practitioners to find the root cause, not just the symptom location.
+
+**Is Pura Vida right for simple maintenance care?**
+If you need quick, affordable adjustments for a straightforward mechanical problem, other high-volume clinics serve that well. We're designed for complex and chronic cases—patients with recurring problems, poor adjustment hold, or multiple complaints that standard care hasn't resolved. Dr. Foss is direct about whether we're the right fit for your situation.
+
+**How long does assessment take, and what does it include?**
+Comprehensive assessment—SOT indicators, leg length differential testing, arm fossa test, Chapman's point screening (anterior and posterior), occipital fiber palpation, and cranial motion palpation—takes time. This is not a five-minute visit; it's a clinical conversation that reveals patterns location-based care misses and directs treatment with specificity that symptom-based approaches cannot achieve.
+
+**What does it mean that "the mechanism" is different from the location?**
+A restricted T6 that's also an active adrenal Chapman's point is one problem with two dimensions, not two separate problems. A patient with back pain, fatigue, and cognitive fog may have a single structural and autonomic pattern expressing through three different complaints. Our assessment framework sees the whole pattern, not just the pain location.
+
+**Does Dr. Foss really have Advanced SOT certification in San Antonio?**
+Yes. Dr. Dan Foss is the only practitioner in San Antonio with Advanced SOT certification through SORSI. The organ and cranial dimensions of care—CMRT and SOT Craniopathy—are available only from practitioners who have completed this extensive post-doctoral training.
+
 ## Come Experience the Difference
 
 One initial visit will tell you more about what is actually driving your health problem than most patients have ever been told. The assessment alone — the SOT indicators, the Chapman's point screening, the cranial evaluation — is a clinical conversation that most people have never had.

@@ -124,6 +124,26 @@ Si su hijo viene a Pura Vida para la evaluación del dolor de cabeza, aquí es l
 
 Somos bilingües — inglés y español — y atendemos a familias de Stone Oak, Castle Hills, Alamo Heights, Helotes y todo San Antonio.
 
+## Preguntas Frecuentes
+
+**¿Es normal que los niños tengan dolores de cabeza?**
+Aunque los dolores de cabeza en niños son relativamente comunes, no son "normales" en el sentido de que no indican que todo está funcionando correctamente. Los dolores de cabeza en niños son típicamente causados por algo que puede ser identificado y tratado—desalineación espinal, estrés, problemas de postura, o problemas de visión. El Dr. Foss puede evaluar la causa.
+
+**¿Es seguro tratar a los niños con ajustes quiroprácticos?**
+Completamente seguro. Los ajustes pediátricos son muy suaves, utilizando presión mínima—frecuentemente solo la presión de un dedo. Los niños responden rápidamente a la atención quiropráctica, frecuentemente mejor que los adultos. Muchos niños se duermen durante el tratamiento.
+
+**¿Qué causa exactamente los dolores de cabeza en los niños?**
+Las causas comunes incluyen desalineación cervical (del cuello), estrés, mala postura (especialmente por computadoras o teléfonos), tensión muscular, deshidratación, o raramente problemas más serios. El Dr. Foss evalúa cuidadosamente para identificar la causa específica en su hijo.
+
+**¿Cuánto tiempo tarda la quiropráctica en mejorar los dolores de cabeza de mi hijo?**
+Muchos niños notan mejora dentro de 2-3 semanas de tratamiento consistente. Los niños típicamente responden más rápido que los adultos porque sus cuerpos aún están creciendo y se adaptan fácilmente. Algunos verán beneficio incluso después de solo 1-2 visitas.
+
+**¿Necesitará mi hijo medicamentos para sus dolores de cabeza?**
+Con el tratamiento quiropráctica, muchos niños pueden evitar medicamentos completamente. Los medicamentos para dolores de cabeza simplemente enmascarán el síntoma sin tratar la causa. La quiropráctica aborda la causa, permitiendo que el cuerpo de su hijo se cure naturalmente.
+
+**¿Cuán a menudo necesitará visitar al Dr. Foss?**
+Inicialmente, típicamente de 1-2 veces por semana durante 4-6 semanas. Una vez que mejora, la frecuencia disminuye. Muchos niños pueden ser vistos una vez cada 2-4 semanas para mantenimiento preventivo. El Dr. Foss creará un plan específico para su hijo.
+
 ## ¿Listo para Ayudar a su Hijo?
 
 Si su hijo está lidiando con dolores de cabeza recurrentes, no acepte la respuesta "es estrés, aquí hay ibuprofeno". Hay una razón estructural y neurológica — y podemos abordarla.

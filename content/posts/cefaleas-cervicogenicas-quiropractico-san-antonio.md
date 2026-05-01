@@ -155,6 +155,26 @@ Desde su fundación en 2010, Pura Vida Chiropractic ha sido la opción confiable
 - **Oficina Bilingüe:** Completa comunicación en español e inglés
 - **Experiencia Probada:** Decenas de miles de pacientes satisfechos
 
+## Preguntas Frecuentes
+
+**¿Qué son exactamente las cefaleas cervicogénicas?**
+Las cefaleas cervicogénicas son dolores de cabeza causados por un problema en su cuello, no en su cabeza. Los nervios del cuello se unen a los nervios de la cabeza, y cuando los huesos cervicales están desalineados o los músculos están tensos, pueden provocar dolor de cabeza. A diferencia de las migrañas, estas cefaleas comienzan típicamente en la base del cráneo y se sienten más como una presión constante.
+
+**¿Cuál es la diferencia entre cefaleas cervicogénicas y migrañas?**
+Las cefaleas cervicogénicas vienen del cuello, mientras que las migrañas se originan dentro del cráneo. Las cervicogénicas son típicamente un dolor sordo y constante en un lado de la cabeza o la base del cráneo. Las migrañas son típicamente pulsos, acompañadas de sensibilidad a la luz, y pueden ir precedidas de aura. Podemos tener ambas, pero requieren tratamientos diferentes.
+
+**¿Desaparecerán mis dolores de cabeza cervicogénicos con quiropráctica?**
+Sí, muchos pacientes experimentan alivio significativo o resolución completa de las cefaleas cervicogénicas con tratamiento quiropráctica consistente. Porque podemos abordar la causa raíz—la desalineación y la tensión del cuello—el tratamiento es muy efectivo. La mayoría de los pacientes notan mejora dramática dentro de 4-6 semanas.
+
+**¿Necesitaré tomar medicamentos para las cefaleas cervicogénicas?**
+No necesariamente. Si bien los medicamentos pueden proporcionar alivio temporal, no abordan la causa. Los ajustes quiropráticos restauran la alineación, reducen la tensión muscular, y liberan la presión nerviosa. Sin la causa tratada, simplemente estará enmascarando síntomas con medicamentos mientras el problema empeora subyacentemente.
+
+**¿Cómo sé si mis dolores de cabeza son cervicogénicos?**
+Los signos incluyen dolor que comienza en el cuello o base del cráneo, movimiento del cuello que empeora el dolor, tensión muscular visible en el cuello, y dolor típicamente en un lado de la cabeza. Un quiropráctico experimentado como el Dr. Foss puede diagnosticar esto a través de examen físico, pruebas de movimiento, e imagenología si es necesaria.
+
+**¿Qué tipo de ajuste ayuda más con las cefaleas cervicogénicas?**
+Los ajustes cervicales precisos que restauran la alineación normal de los huesos del cuello son fundamentales. Frecuentemente combinamos estos con ajustes craneales para optimizar la función del sistema nervioso y liberar tensión en toda la región cabeza-cuello. Algunos pacientes también se benefician de técnicas de liberación miofascial para los músculos tensos del cuello.
+
 ## Testimonios de Pacientes
 
 Muchos pacientes han encontrado alivio de sus cefaleas cervicogénicas en Pura Vida Chiropractic. Aunque cada caso es único, los resultados consistentemente excepcionales hablan por sí solos.

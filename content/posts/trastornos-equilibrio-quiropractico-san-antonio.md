@@ -203,6 +203,23 @@ Pura Vida Chiropractic está convenientemente ubicada en San Antonio:
 
 Nuestro equipo bilingüe está listo para ayudarle a recuperar su equilibrio.
 
+## Preguntas Frecuentes
+
+**¿Cómo la columna afecta el equilibrio?**
+El sistema vestibular del oído interno mantiene balance—pero el tronco cerebral que procesa las señales vestibulares está conectado a la columna cervical superior a través del sistema nervioso. Desalineación cervical interfiere con procesamiento vestibular, causando mareos. Optimizar alineación restaura balance.
+
+**¿Cuál es la diferencia entre vértigo y mareo?**
+El vértigo es ilusión de movimiento—la habitación giración cuando nada está girando. Es específicamente disfunción vestibular. El mareo es sensación general de inestabilidad o aturdimiento. El vértigo requiere evaluación quiropráctica y física específica. El mareo puede tener múltiples causas.
+
+**¿Puede VPPB (vértigo posicional paroxístico benigno) ser tratado sin cirugía?**
+Sí, excelentemente. VPPB es causado por partículas otolíticas desplazadas en el conducto semicircular. Las maniobras específicas (Dix-Hallpike, Epley) las reposicionan. Yo ejecuto estas maniobras cuando es apropiado, y también abordo la disfunción cervical subyacente que contribuye.
+
+**¿Cuánto tiempo tarda en resolverse un trastorno de equilibrio?**
+VPPB puede resolverse en 1-2 sesiones. Mareos resultado de disfunción cervical requieren típicamente 4-8 semanas. Los trastornos de equilibrio crónicos pueden requerir más tiempo. El factor clave es diagnóstico preciso—trato diferente trastornos diferentemente.
+
+**¿Son los medicamentos para mareos efectivos o simplemente enmascaradores?**
+Frecuentemente simplemente enmascaradores. Medicamentos no abordan la causa—usualmente alineación cervical deficiente o desorden vestibular real. La quiropráctica abordar la causa. Una vez restaurada función nerviosa normal, la mayoría de pacientes deja medicamentos de forma segura.
+
 ## Conclusión
 
 Los trastornos del equilibrio son tratables, especialmente cuando se identifica y se corrige la causa raíz. No tiene que vivir con mareos, vértigo e inestabilidad.

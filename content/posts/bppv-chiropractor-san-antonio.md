@@ -220,6 +220,23 @@ Dr. Dan Foss brings specialized expertise in BPPV with credentials including:
 - Fluent in English and Spanish
 - Compassionate approach to patients struggling with vertigo
 
+## Frequently Asked Questions
+
+**Can chiropractic care cure my BPPV permanently?**
+Chiropractic care addresses the underlying structural and functional factors that perpetuate BPPV, providing relief in most patients. Many experience complete resolution of symptoms. However, BPPV can recur if the underlying causes aren't maintained—similar to how a bad back can flare up again. Regular maintenance care helps prevent recurrence. Some patients need periodic adjustments to maintain stability, while others achieve lasting relief after their initial course of care.
+
+**What's the difference between chiropractic BPPV treatment and the Epley maneuver I saw online?**
+The Epley maneuver addresses crystal repositioning but doesn't address the underlying structural and functional problems that often cause BPPV. SOT cranial protocols work with the nervous system and cranial function, addressing why your vestibular system became dysregulated in the first place. While the Epley can help some patients, chiropractic care provides more comprehensive treatment by fixing the root cause, not just moving crystals around.
+
+**Is BPPV treatment safe for someone with neck arthritis or previous injuries?**
+Absolutely. In fact, people with cervical arthritis often have underlying vestibular dysfunction that contributes to BPPV. I use gentle SOT techniques specifically designed to work safely with degenerative changes. My evaluation includes assessing your previous injuries to ensure treatment is appropriate. Many patients with arthritis or injury history actually benefit significantly from treatment because we're addressing factors others missed.
+
+**How many visits will I need for BPPV treatment?**
+Most patients notice significant improvement within 4-6 visits. Complete resolution typically takes 8-12 weeks of consistent care. Some patients experience relief faster, while others with chronic BPPV may need longer. After your initial course, periodic maintenance visits help prevent recurrence. During your consultation, I'll estimate how many visits your specific situation likely requires based on your history and findings.
+
+**Can BPPV come back after successful treatment?**
+BPPV can recur, which is why maintenance care is valuable. The likelihood of recurrence decreases when we address underlying factors like cervical misalignment and cranial tension. Some patients maintain their improvement indefinitely, while others benefit from periodic check-ups every few months or annually. I'll discuss a personalized maintenance plan based on your specific case during treatment.
+
 ## Contact Us Today
 
 If you've been struggling with BPPV in San Antonio, you don't have to continue suffering through vertigo episodes. Dr. Foss offers specialized care specifically designed to address your BPPV.

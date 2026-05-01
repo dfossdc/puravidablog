@@ -143,6 +143,23 @@ If you are pregnant and managing chronic stress, a free consultation at Pura Vid
 
 We are bilingual — English and Spanish — and serve pregnant women throughout San Antonio, including Stone Oak, Castle Hills, Alamo Heights, and Helotes.
 
+## Frequently Asked Questions
+
+**Can chiropractic care actually reduce stress during pregnancy?**
+Yes. Chiropractic restores nervous system balance, activating the parasympathetic "calm" system. SOT and cranial adjustments directly reduce stress hormones and improve your body's stress resilience. Most pregnant women notice calmer sleep, reduced anxiety, and better stress management within 1-2 weeks.
+
+**Will reducing my stress during pregnancy actually affect my baby's brain?**
+Absolutely. Chronic prenatal stress elevates cortisol, which crosses the placenta and affects fetal brain development. Reducing maternal stress measurably improves fetal brain development, birth outcomes, and infant behavior. Your stress management directly benefits your baby's neurology.
+
+**How many visits do I need to feel calmer?**
+Most pregnant women notice meaningful stress reduction within 1-2 visits. Continued care maintains calm and helps manage pregnancy stressors. I typically recommend 1-2 visits per week during pregnancy for consistent nervous system support.
+
+**Can I combine chiropractic with therapy and meditation?**
+Yes, absolutely! Chiropractic addresses physical nervous system structure, therapy addresses thought patterns, and meditation addresses mindfulness. They work synergistically. I encourage all my pregnant patients to use all three approaches together.
+
+**Is chiropractic safe when I'm feeling anxious or emotional?**
+Very safe. Your emotional state is actually an indication for care. Chiropractic soothes your nervous system and helps you feel more grounded emotionally. Many anxious pregnant women notice the calming effect immediately and become committed patients.
+
 ## Your Nervous System Matters
 
 You are not just carrying a baby. You are literally shaping your baby's neurological architecture through the state of your own nervous system. This is not pressure to be perfect. It is permission to prioritize your own regulation and calm.

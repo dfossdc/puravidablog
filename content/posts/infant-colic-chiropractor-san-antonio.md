@@ -118,6 +118,26 @@ If you're reading this while your baby is crying in the background, know this: y
 
 Thousands of parents in San Antonio have found relief for their colicky infants through pediatric chiropractic care. Your baby deserves to be comfortable, and you deserve to sleep peacefully knowing you've done everything possible to help.
 
+## Frequently Asked Questions
+
+**Isn't chiropractic adjustment too rough for a newborn?**
+Absolutely not. Pediatric chiropractic involves techniques completely different from adult adjustments. We use gentle touch equivalent to testing the firmness of a tomato—no twisting, popping, or forceful movements. Everything is adapted specifically for developing spines and is extremely gentle.
+
+**How is birth trauma related to infant colic?**
+Childbirth, though natural, exerts significant forces on an infant's tiny body. Forceps, vacuum extraction, or prolonged labor can create subtle misalignments in the spine and cranial bones. These misalignments irritate nerves, restrict spinal motion, and interfere with digestive function—all contributing factors to colic.
+
+**How does the vagus nerve connect to digestion and colic relief?**
+The vagus nerve controls parasympathetic nervous system function, which directly regulates digestion. When vertebrae or cranial bones restrict this nerve's function, digestive processes become dysregulated, causing gas, cramping, and the inconsolable crying of colic. Gentle chiropractic care restores proper alignment and relieves nerve interference.
+
+**When will I see improvement in my baby's colic?**
+Most parents notice improvements within the first few visits. Many babies show dramatic improvement within 1-2 weeks of care. Some conditions resolve completely, while others improve significantly, giving both baby and parents relief from the relentless cycle.
+
+**What's included in a first pediatric chiropractic visit?**
+Dr. Foss takes a complete history of your baby's birth, current symptoms, and health history. Then he performs a gentle, thorough examination including spinal and cranial assessment, explains findings in clear language, and develops a customized care plan with realistic expectations—all with compassion for your family's experience.
+
+**Does your office have experience with birth trauma from different delivery types?**
+Yes. Dr. Foss's specialized pediatric training covers colic and birth trauma from vaginal delivery, forceps extraction, vacuum extraction, cesarean section, and prolonged labor. He understands that different delivery experiences create different spinal and cranial patterns, and adjusts assessment and treatment accordingly.
+
 ## Take the Next Step
 
 Your baby doesn't have to suffer through months of colic. Dr. Dan Foss and the team at Pura Vida Chiropractic are ready to help.

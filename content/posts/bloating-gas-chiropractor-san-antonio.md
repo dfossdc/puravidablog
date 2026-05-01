@@ -160,4 +160,21 @@ Our office at 2318 NW Military Hwy Suite 103, San Antonio TX 78231 provides a we
 
 Bloating and gas don't have to be part of your life. They signal that your digestive system needs help—help that chiropractic care can provide. Dr. Dan Foss at Pura Vida Chiropractic has the expertise and advanced techniques to restore your digestive health.
 
+## Frequently Asked Questions
+
+**How is bloating from a spine problem different from bloating from food sensitivity?**
+Good question. If your bloating is specifically triggered by certain foods, that's a sensitivity issue. But if you're bloated all the time, or your bloating got worse even though your diet hasn't changed, that's usually neurological — your digestive system isn't responding properly to food in general. I assess your vagal nerve function and spinal alignment to determine the root.
+
+**Can I use probiotics and supplements while getting chiropractic care for bloating?**
+Yes, absolutely. Probiotics and digestive enzymes can help, but they work much better once your parasympathetic nervous system is functioning properly — once your spine supports good vagal tone. Think of it this way: good supplements help, but they're working against gravity if your nervous system is still in fight-or-flight mode. We address the nervous system; supplements support the recovery.
+
+**How many visits does it take to see improvement in bloating?**
+Most patients notice measurable improvement in 2-4 weeks with consistent visits. Significant improvement usually takes 4-6 weeks. Complete resolution depends on how long you've had the problem and how strictly you follow the dietary guidance. Someone with bloating for 6 months might recover in 8 weeks; someone with 5 years of bloating might take 12 weeks. I monitor your progress and adjust the plan accordingly.
+
+**Will my food sensitivities disappear once my digestion improves?**
+Often yes. Many patients discover that foods that previously caused bloating stop triggering symptoms once their stomach acid, enzyme production, and intestinal motility improve. That said, true allergies (IgE-mediated immune reactions) are different from functional sensitivities, and I can explain the distinction during your visit.
+
+**Is it safe to get chiropractic care if I have IBS or Crohn's disease?**
+Gentle, neurologically-focused care is safe and often helpful. I do a careful evaluation first to understand your specific condition. If you're in an acute flare or have active inflammation, we might adjust the approach. But addressing nervous-system function supports your body's ability to regulate inflammation and intestinal motility — so chiropractic can complement your medical care.
+
 Call us today at (210) 685-1994 to schedule your comprehensive digestive evaluation. Our bilingual team is ready to help you achieve the comfortable, bloating-free digestion you deserve. Begin your journey toward digestive wellness at Pura Vida Chiropractic in San Antonio today.

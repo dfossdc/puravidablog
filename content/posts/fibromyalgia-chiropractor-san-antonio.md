@@ -97,4 +97,24 @@ Living with fibromyalgia doesn't mean accepting chronic pain as your destiny. Ch
 
 The key is finding a chiropractor who understands fibromyalgia's neurological complexity and has the advanced skills to address it comprehensively. Dr. Dan Foss has dedicated his practice to becoming exactly that kind of doctor.
 
+## Frequently Asked Questions
+
+**Is fibromyalgia really a neurological disorder or just in people's heads?**
+Fibromyalgia is absolutely a real, documented neurological disorder. Brain imaging shows that people with fibromyalgia process pain signals differently than those without it—their nervous systems amplify pain signals, and their stress neurotransmitters are dysregulated. It's not psychological, though stress can worsen it. It's a genuine nervous system dysfunction that chiropractic can often help.
+
+**Will chiropractic care cure my fibromyalgia?**
+"Cure" isn't the right word, but significant improvement is realistic for most patients. Many experience 50-80% reduction in pain and fatigue. Some achieve nearly complete symptom resolution. The goal is to reduce your nervous system's hypersensitivity and restore more normal pain processing. Consistent care and lifestyle support create lasting change.
+
+**How long does it take to feel better with chiropractic treatment?**
+Many patients notice improvement within 2-4 weeks—better sleep quality first, then reduced morning stiffness, then pain reduction. Significant improvement typically takes 8-12 weeks of consistent care. Fibromyalgia affects many body systems, so patience is important. But most see measurable progress within the first month.
+
+**Can CMRT help with the brain fog and cognitive issues (fibro fog)?**
+Yes. Fibro fog often improves significantly when autonomic balance is restored. When your nervous system shifts from sympathetic dominance toward parasympathetic tone, your brain function often clears. Many patients report improved focus, better memory, and reduced brain fog within 4-6 weeks of regular care. It's one of the most rewarding improvements to see.
+
+**Do I need to stop my medications to do chiropractic?**
+No. Chiropractic complements medication, it doesn't replace it. Many patients eventually reduce medications as their symptoms improve, but that's a decision to make with your prescribing doctor. We work alongside your medical care, not instead of it.
+
+**Is there anything I can do at home to support my fibromyalgia treatment?**
+Absolutely. Sleep hygiene is critical—aim for 7-9 hours in a cool, dark room. Stress management (meditation, yoga, gentle movement) helps. Stay hydrated. Avoid inflammatory foods if you notice they worsen symptoms. Movement should be gentle—swimming, walking, or tai chi work better than intense exercise. These factors make chiropractic treatment much more effective.
+
 If you're ready to take control of your fibromyalgia and explore how chiropractic care can help, contact Pura Vida Chiropractic today. Call us at **(210) 685-1994** or visit us online at [puravidasanantonio.com](https://puravidasanantonio.com/) to schedule your consultation. Your journey toward better health and less pain can start today.

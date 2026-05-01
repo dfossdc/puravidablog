@@ -92,4 +92,21 @@ Si usted ha evitado buscar ayuda por ese miedo, o si tiene a un familiar que nec
 - Los ajustes de alta velocidad no son apropiados para todos: personas con hiperlaxitud, osteoporosis, hernias discales agudas, o ansiedad ante procedimientos
 - En Pura Vida, nunca se forzará ningún movimiento — y atendemos a toda la familia con calma, en español e inglés
 
+## Preguntas Frecuentes
+
+**¿Si no escucho el crac, significa que el ajuste no funcionó?**
+No. De hecho, puede significar lo opuesto. Un ajuste SOT sin chasquido a menudo es más profundo y durable porque su cuerpo participó activamente en la corrección — no fue forzado desde afuera. El chasquido es solo un subproducto de la física articular, no evidencia de éxito.
+
+**Me da miedo que me tronew la espalda. ¿Hay otro enfoque?**
+Sí. La técnica SOT que usamos en Pura Vida no involucra manipulación de alta velocidad. Usamos bloques cuneiformes que trabajan con la gravedad de su propio cuerpo — sin fuerza repentina, sin ruidos asustadores. Muchos pacientes la describen como profundamente relajante.
+
+**¿Funciona igual un ajuste sin chasquido que uno con chasquido?**
+Sí, y a menudo mejor. Un ajuste sin chasquido respeta la inteligencia de su propio sistema nervioso para dirigir la corrección. Las correcciones sin chasquido tienden a durar más porque su cuerpo participó en el proceso, no fue forzado.
+
+**¿Por qué algunos quiroprácticos insisten en hacer que suene si no es necesario?**
+Algunos pacientes esperan escuchar el chasquido — les hace sentir como si algo "se corrigió." Otros quiroprácticos fueron entrenados solo en técnicas de alta velocidad. En Pura Vida, ofrecemos lo que su cuerpo necesita, no lo que el ruido sugiere.
+
+**¿Si tuve ajustes de alta velocidad en el pasado, puedo cambiar a SOT ahora?**
+Absolutamente. Si tuviste experiencias asustadoras con ajustes de alta velocidad, SOT es el enfoque ideal. Tu cuerpo puede aprender a responder a técnicas suaves. Hablamos español, y tómamos el tiempo para explicar exactamente lo que haremos antes de hacerlo.
+
 Si tiene preguntas sobre nuestro enfoque, o si quiere una consulta sin compromiso antes de decidir si el cuidado quiropráctico es para usted, llámenos al **(210) 685-1994**. Estamos en 2318 NW Military Hwy #103, San Antonio, TX 78231. Hablamos español y estamos aquí para ayudar.

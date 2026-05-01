@@ -198,6 +198,26 @@ Dr. Foss has successfully treated hundreds of balance disorder patients since fo
 
 He recognizes that balance disorders often involve multiple contributing factors and require comprehensive treatment addressing all components. His patients experience lasting improvement because the actual causes are being identified and treated.
 
+## Frequently Asked Questions
+
+**How does chiropractic care fix an inner ear problem?**
+I'm not directly fixing the inner ear—I'm optimizing the neurological environment it operates in. By correcting cervical misalignments and restoring proper vestibular nerve function through cranial adjustments, your inner ear can work better. SOT also improves proprioceptive input from your entire spine, which helps your brain integrate balance information more clearly.
+
+**Can cranial adjustments really affect my vertigo?**
+Yes, particularly if your vertigo is related to inner ear dysfunction or cervical spine issues. The temporal bones that house your inner ear are directly addressed through cranial work. Many patients notice improvement in dizziness within 3-5 visits once cervical alignment improves and cranial restrictions are released.
+
+**What's the difference between BPPV and the balance problems you treat?**
+BPPV is one specific type of balance disorder caused by displaced calcium crystals. We can help many BPPV cases through positional correction and cranial work. But balance disorders have multiple causes—cervical dysfunction, proprioceptive loss, vestibular inflammation, poor postural stability. A comprehensive evaluation identifies what's driving your dizziness specifically.
+
+**How long until I notice improvement?**
+Most patients feel a difference within 1-2 weeks. That said, confidence in balance typically improves over 6-8 weeks as we build the neurological foundation and reinforce it with proper exercises. Some dramatic improvements happen in single sessions; others are more gradual.
+
+**Is it safe to drive while I have balance problems?**
+That's a judgment call only you and your healthcare team can make. If your dizziness is severe or unpredictable, driving isn't safe. If it's mild or controlled, you may be fine. We assess your safety during the first evaluation and give you honest feedback about activity restrictions.
+
+**Do I need physical therapy in addition to chiropractic?**
+Not necessarily, though specific balance exercises are part of comprehensive care. Many patients improve with chiropractic correction alone. Others benefit from targeted proprioceptive retraining exercises we teach you. We'll recommend what matches your individual case.
+
 ## Reclaim Your Safety and Independence
 
 Balance disorders don't have to control your life. With proper chiropractic care addressing the structural, neurological, and proprioceptive components of your dizziness, most patients achieve significant improvement and many eliminate their balance problems entirely.

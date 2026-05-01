@@ -161,6 +161,26 @@ Pura Vida Chiropractic serves San Antonio's diverse community with culturally se
 **Real Results:**
 Dr. Foss doesn't just manage symptoms; he helps resolve the underlying condition causing them.
 
+## Frequently Asked Questions
+
+**Is torticollis something my baby will outgrow, or does it require treatment?**
+Some mild cases resolve on their own, but many benefit dramatically from specialized pediatric chiropractic care. Waiting without treatment risks permanent plagiocephaly (flat head), developmental asymmetries, and chronic cervical dysfunction. Early chiropractic intervention prevents these complications and often resolves torticollis completely within 6-12 weeks.
+
+**How is chiropractic different from stretching exercises that my pediatrician recommended?**
+Stretching forces a tight muscle to lengthen externally. Chiropractic addresses the root cause—the spinal or cranial misalignment creating nerve irritation that drives the muscle tightness. When you remove the neurological interference, the tight muscle relaxes naturally. This is why chiropractic produces permanent resolution rather than temporary management.
+
+**Is it ever too late to treat torticollis with chiropractic?**
+It's never too late, but earlier is better. Early intervention (first weeks to months) produces faster, more complete results. If torticollis has been present for longer, the timeline for resolution extends, but improvement is still possible at any age. Dr. Foss will give you honest expectations based on your child's specific situation.
+
+**Will my baby experience other improvements beyond just torticollis relief?**
+Yes. Many parents report that babies treated for torticollis also show better sleep quality, improved feeding and digestion, reduced fussiness or colic-like symptoms, and better overall development and motor control. This makes sense: removing structural interference affecting the nervous system benefits all systems.
+
+**How often does my baby need to be treated?**
+Initial treatment typically involves 2-4 visits per week, depending on severity. As improvement occurs, frequency decreases. Most cases show noticeable improvement within 2-4 weeks and complete resolution within 6-12 weeks. Your chiropractor adjusts frequency based on your child's progress.
+
+**What if I've already done stretching exercises and my baby hasn't improved?**
+If stretching hasn't resolved torticollis, that's actually evidence that the root cause is structural/neurological, not just muscle tightness. Chiropractic addressing the spinal and cranial misalignments is the appropriate next step. Many babies who didn't respond to stretching alone show rapid improvement with chiropractic care.
+
 ## Take Action for Your Child
 
 If your baby has been diagnosed with torticollis—or if you've noticed your baby's neck appears twisted or consistently tilted—you deserve to know about all your options. Gentle, specialized pediatric chiropractic care has helped countless babies escape the constraints of torticollis and develop normally.

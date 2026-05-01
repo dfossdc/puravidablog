@@ -81,6 +81,23 @@ Our food culture here in San Antonio is one I love — the chile, the tamales, t
 
 I've also noticed that patients under high psychological stress tend to present with ICV dysfunction more frequently. The gut-brain axis is real — chronic sympathetic dominance suppresses proper digestive motility, and the ileocecal valve sits right at the center of that disruption.
 
+## Frequently Asked Questions
+
+**How do you know if it's my ileocecal valve and not just IBS or appendicitis?**
+ICV dysfunction creates a very specific symptom pattern and tender reflex point. I palpate the right iliac fossa—the tender point is unmistakable when the valve is stressed. For appendicitis, the pain is usually acute and accompanied by fever; ICV issues are chronic and often misdiagnosed. If you've had an ER visit that ruled out appendicitis but you still have right lower abdominal pain, constipation, or unexplained fatigue, the ICV is very likely the culprit.
+
+**Can CMRT really fix an ileocecal valve problem, or is this just temporary relief?**
+CMRT addresses the valve dysfunction directly through gentle manipulation of the valve tissue itself combined with nervous system correction. Most patients see lasting improvement, especially when combined with dietary changes. It's not like taking a medication that masks symptoms—I'm actually restoring the valve's mechanical function. Results are usually noticeable within 1-3 sessions.
+
+**What should I avoid eating if my ileocecal valve is stuck open versus closed?**
+These require opposite approaches. Stuck-open: avoid spicy foods, chocolate, popcorn, raw vegetables, and caffeine—anything that speeds transit or irritates the lining. Stuck-closed: eat softer foods, increase fiber gradually, stay hydrated, and minimize NSAIDs. I'll give you specific dietary guidance based on which pattern you have during your evaluation.
+
+**How often will I need CMRT treatment for my ileocecal valve?**
+Most patients benefit from 2-4 initial sessions spaced weekly. After that, monthly maintenance often prevents regression. The timeline depends on how long the dysfunction has been present and how well you implement dietary changes. Some patients need just 2-3 visits and maintain improvement for months; others need ongoing support depending on stress and diet compliance.
+
+**Do you take insurance for CMRT treatment, or is this cash-only?**
+We accept insurance through superbills for CMRT care. You pay at the visit and submit to your insurer for reimbursement. Call **(210) 685-1994** for a free consultation to discuss costs, insurance coverage, and what to expect. I believe digestive health shouldn't be a financial barrier.
+
 ## Key Takeaways
 
 - The ileocecal valve is a one-way gate between your small and large intestines. When it fails, symptoms can be wide-ranging and confusing.

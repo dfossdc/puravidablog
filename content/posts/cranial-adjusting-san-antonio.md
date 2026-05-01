@@ -129,6 +129,23 @@ That precision is what separates a genuinely effective cranial correction from a
 - Treatment is extraordinarily gentle — no cracking, no force, and widely described as the most relaxing part of care.
 - Dr. Dan Foss is the only Advanced SOT craniopath in San Antonio.
 
+## Frequently Asked Questions
+
+**Are my skull bones actually moveable, or is that just a myth?**
+Your skull bones absolutely move—they're connected by flexible joint systems (sutures), not fused rigidly as many people think. The cranial rhythm is measurable; cerebrospinal fluid flows through the skull and spine in a gentle pump-like motion. If those bones lose their mobility through birth trauma, head injuries, or accumulated stress, that pump fails and problems develop. I've been feeling and restoring cranial motion for 23 years, and the improvement patients see confirms the skull's dynamic nature.
+
+**How does adjusting the skull help my overall health or specific symptoms like headaches?**
+Your skull houses your brain, protects your pituitary gland (which controls hormones), and connects to your spinal cord. When skull bones lose their mobility, cerebrospinal fluid flow decreases, brainstem function suffers, and nervous system regulation breaks down. Restoring cranial motion often resolves seemingly unrelated problems—sleep improves, focus sharpens, mood lifts, even digestion improves—because you've restored the foundation of nervous system health. For headaches specifically, most patients see relief within 1-2 visits.
+
+**What does a cranial adjustment feel like?**
+A cranial adjustment is extremely gentle—never forceful. I use light finger pressure on specific skull points, sometimes just a few ounces. Many patients feel nothing during the adjustment, then notice profound changes afterward—they feel calmer, sleep better, or their headache disappears. Some describe a subtle sensation of movement or release inside their head. It's the opposite of a spinal crack.
+
+**Is cranial adjusting safe for babies, or only for adults?**
+Cranial adjusting is actually particularly valuable for babies and children because birth trauma—forceps delivery, vacuum extraction, long labor, cesarean section—creates immediate cranial compression. Pediatric cranial work is extraordinarily gentle, extremely safe, and can prevent developmental problems, nursing difficulty, and chronic ear infections. I specialize in newborn and pediatric cranial care; babies routinely sleep through their corrections.
+
+**Why does my spinal adjustment never seem to hold if my back keeps going out in the same place?**
+The dural tube connects your cranium to your sacrum—if your skull bones are restricted, they're pulling your entire spine out of alignment constantly. You can adjust the spine all day, but if you don't restore cranial mobility, the spine will keep subluxating back to the same spot. This is one of the most overlooked reasons people get stuck in endless adjustment cycles without lasting relief.
+
 ## Experience Cranial Adjusting in San Antonio
 
 If you suffer from headaches that won't resolve, vertigo, TMJ dysfunction, or adjustments that simply don't hold — there is a strong likelihood that the cranial component of your problem has never been assessed. If you are a parent of an infant with plagiocephaly, colic, or nursing difficulty, the window for the most effective intervention is now. If you are navigating post-concussion symptoms that linger months after the injury, the skull bones displaced at impact may still be displaced.

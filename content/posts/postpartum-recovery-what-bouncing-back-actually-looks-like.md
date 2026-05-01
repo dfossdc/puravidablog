@@ -114,6 +114,23 @@ Twelve to 18 months is the realistic timeline. That does not mean you are in pai
 
 Be patient with yourself. Trust your body. Seek support when you need it.
 
+## Frequently Asked Questions
+
+**When can I start chiropractic care after giving birth?**
+If you had a vaginal delivery, you can often start immediately or within a few days if you feel comfortable. After cesarean, wait 2-3 weeks until the incision has healed sufficiently. I'll ask about your delivery details on your first visit and use careful techniques appropriate for postpartum healing. Early care supports recovery rather than interfering with it.
+
+**Will chiropractic care interfere with breastfeeding or nursing?**
+No. In fact, chiropractic often improves nursing because proper pelvic and thoracic alignment improves posture and reduces tension that can inhibit milk letdown. I treat breastfeeding mothers regularly; your baby is welcome at visits, and treatment may actually make nursing easier.
+
+**How much pain is normal postpartum, and when should I seek help?**
+Some soreness and heaviness are normal. Severe pain, persistent pain beyond 6-8 weeks, sharp pelvic pain, or pain that worsens with activity—these warrant evaluation. Don't just assume pain is "normal" for postpartum. Many women carry postpartum pain for years because they never addressed the underlying structural problem.
+
+**Can chiropractic help with postpartum depression or anxiety?**
+Chiropractic supports mental health by optimizing nervous system function—especially through cranial work and SOT that enhance parasympathetic tone. While not a psychiatric treatment, many postpartum mothers notice mood improvement alongside physical recovery. Always coordinate with your OB/GYN or mental health provider if you're experiencing postpartum mood changes.
+
+**How long until I can return to normal activities—exercise, heavy lifting, etc.?**
+This depends on your delivery, healing, and what "normal" means for you. I typically recommend 6 weeks before resuming impact activities, 8-12 weeks before heavy lifting, and 12-18 months for full functional recovery. Chiropractic care accelerates this timeline by addressing structural issues early. I'll give personalized guidelines based on your specific situation.
+
 ## Ready to Begin Your Postpartum Recovery?
 
 If you have recently given birth and you are experiencing back pain, pelvic pain, postpartum headaches, or just want the structural support of early chiropractic care, call **(210) 685-1994** or [book your consultation online](https://puravidasanantonio.com/special/). We serve postpartum mothers from across San Antonio—including Stone Oak, Castle Hills, Alamo Heights, and Helotes.

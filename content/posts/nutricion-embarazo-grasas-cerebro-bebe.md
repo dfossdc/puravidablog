@@ -109,6 +109,23 @@ Los tres importan. La nutrición sola es incompleta si su cuerpo no puede absorb
 
 En Pura Vida, abordamos los tres. No prescribimos lo que come — eso está entre usted y su equipo de cuidado de la salud. Pero aseguramos que cuando hace esas buenas opciones nutricionales, su cuerpo está en la mejor posición posible para beneficiarse de ellas.
 
+## Preguntas Frecuentes
+
+**¿Qué grasas son más importantes para el desarrollo del cerebro del bebé?**
+Los ácidos grasos omega-3, especialmente DHA (ácido docosahexaenoico), son críticos. El cerebro del bebé es casi 60% grasa, y DHA construye las membranas cerebrales. Las fuentes incluyen pescados grasos seguros, suplementos de pescado de calidad, y algas. Las grasas saturadas de fuentes enteras como huevos y coco también son vitales.
+
+**¿Es seguro tomar suplementos de pescado durante el embarazo?**
+Sí, pero debe ser aceite de pescado de alta calidad, purificado y probado para metales pesados. Tomar un suplemento es más seguro que comer pescado frecuente, que puede contener mercurio. Verifique con su médico qué dosis es apropiada para usted.
+
+**¿Cuánta grasa total necesito durante el embarazo?**
+Aproximadamente 25-35% de sus calorías deben venir de grasas saludables. Para una dieta de 2,500 calorías, eso es aproximadamente 70-100 gramos de grasa diaria. No tenga miedo de las grasas durante el embarazo—su bebé las necesita desesperadamente.
+
+**¿Cuál es el mejor momento durante el embarazo para optimizar la nutrición de grasas?**
+Todo el embarazo importa, pero el segundo y tercer trimestres son críticos porque el cerebro del bebé está en su período de crecimiento más rápido. Sin embargo, comience en el primer trimestre si es posible—la nutrición temprana establece la base.
+
+**¿Puede la mala nutrición de grasas afectar el parto además del cerebro?**
+Sí. Las grasas adecuadas apoyan el desarrollo esquelético, la flexibilidad articular, y la resiliencia de los ligamentos—todos críticos para un parto más fácil. Además, DHA afecta la plasticidad neurológica, mejorando potencialmente la capacidad del bebé de adaptarse al proceso del nacimiento.
+
 ## ¿Listo para Optimizar su Embarazo?
 
 Si está embarazada o planea quedar embarazada, ahora es el momento de pensar intencionalmente sobre la nutrición y de asegurar que su cuerpo esté preparado para utilizarla óptimamente.

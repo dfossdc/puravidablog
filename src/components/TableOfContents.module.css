@@ -1,19 +1,67 @@
-.toc {
+/* Enable smooth scrolling for anchor jumps */
+html {
+  scroll-behavior: smooth;
+}
+
+.details {
   margin: 1.5rem 0 2rem;
-  padding: 1.25rem 1.5rem;
+}
+
+.summary {
+  cursor: pointer;
+  padding: 1rem 1.5rem;
   border: 1px solid #e5e7eb;
   border-left: 4px solid #2c5530; /* PVC brand green */
   border-radius: 6px;
   background: #f9fafb;
-}
-
-.heading {
-  margin: 0 0 0.75rem;
   font-size: 0.95rem;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.05em;
   color: #374151;
+  list-style: none;
+  user-select: none;
+  transition: background-color 0.2s ease, border-color 0.2s ease;
+}
+
+.summary:hover {
+  background: #f0f1f3;
+  border-left-color: #1a3a1d;
+}
+
+.summary::-webkit-details-marker {
+  display: none;
+}
+
+.summary::before {
+  content: "+ ";
+  margin-right: 0.5rem;
+  font-weight: bold;
+}
+
+.details[open] .summary::before {
+  content: "− ";
+}
+
+.toc {
+  padding: 1.25rem 1.5rem 1rem;
+  border: 1px solid #e5e7eb;
+  border-top: none;
+  border-left: 4px solid #2c5530;
+  border-radius: 0 0 6px 6px;
+  background: #f9fafb;
+  animation: slideDown 0.2s ease-out;
+}
+
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-0.5rem);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
 .list {
@@ -32,19 +80,40 @@
   color: #2c5530;
   text-decoration: none;
   border-bottom: 1px solid transparent;
-  transition: border-color 0.15s ease;
+  transition: border-color 0.15s ease, color 0.15s ease;
 }
 
 .link:hover,
 .link:focus-visible {
   border-bottom-color: #2c5530;
+  color: #1a3a1d;
 }
 
 @media (max-width: 640px) {
+  .summary {
+    padding: 0.875rem 1.25rem;
+    font-size: 0.9rem;
+  }
   .toc {
-    padding: 1rem 1.25rem;
+    padding: 1rem 1.25rem 1rem;
   }
   .item {
     font-size: 0.9rem;
+  }
+}
+
+/* Desktop: keep details open by default (open attribute) */
+@media (min-width: 641px) {
+  .details {
+    margin: 1.5rem 0 2rem;
+  }
+  .summary {
+    display: none;
+  }
+  .toc {
+    margin: 0;
+    padding: 1.25rem 1.5rem;
+    border-radius: 6px;
+    animation: none;
   }
 }

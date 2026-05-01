@@ -210,6 +210,26 @@ El Dr. Foss proporciona orientación sobre:
 
 Muchos pacientes con dolor crónico que han sido tratados por otros médicos sin éxito encuentran alivio significativo con el enfoque integral del Dr. Dan Foss. El objetivo es no solo aliviar el dolor presente, sino interrumpir el ciclo que lo perpetúa.
 
+## Preguntas Frecuentes
+
+**¿Por qué el dolor crónico es tan difícil de tratar?**
+El dolor crónico se perpetúa a sí mismo. No es solo un síntoma—es un cambio en cómo su sistema nervioso procesa y amplifica las señales de dolor. Los medicamentos pueden enmascarar el síntoma, pero no interrumpen el ciclo. La quiropráctica enfocada en restaurar la alineación espinal y optimizar la función nerviosa puede realmente romper este ciclo.
+
+**¿Cuánto tiempo ha tenido mi dolor crónico antes de que la quiropráctica pueda ayudar?**
+Incluso el dolor crónico de larga duración responde a la quiropráctica. Aunque el dolor que ha existido por años típicamente toma más tiempo para resolver, es completamente tratable. El promedio es 8-16 semanas de tratamiento consistente para mejoría significativa, aunque algunos pacientes ven cambios antes.
+
+**¿Es seguro recibir tratamiento quiropráctica si mi dolor es muy severo?**
+Sí. El Dr. Foss ajusta su enfoque a su nivel de dolor. Para dolor severo, puede usar técnicas muy suaves inicialmente, incluyendo ajustes craneales suaves y técnicas de energía baja que aún proporcionan cambios neurológicos significativos. A medida que el dolor disminuye, intensifica el tratamiento.
+
+**¿Necesitaré tomar opioides si recibo tratamiento quiropráctica?**
+Muchos pacientes son capaces de reducir significativamente o discontinuar opioides bajo supervisión médica cuando reciben tratamiento quiropráctica integral. Sin embargo, nunca deje medicamentos prescritos sin hablar primero con su médico. El Dr. Foss trabaja directamente con su médico para coordinar la transición segura.
+
+**¿Qué hace que el Protocolo Pura Vida sea diferente?**
+El Protocolo Pura Vida no solo trata síntomas—utiliza SOT avanzada, ajustes craneales, CMRT, terapia láser, y más para abordar TODAS las causas del dolor crónico. Es un enfoque verdaderamente integral que la mayoría de quiroprácticos no ofrecen.
+
+**¿Cuándo sabré si la quiropráctica está funcionando?**
+Muchos pacientes notan cambios dentro de 2-4 semanas: duele un poco menos, duerme mejor, o tiene más movilidad. Si después de 6-8 visitas no ve cambio notable, el Dr. Foss reevalúa e ajusta el plan. Un buen tratamiento muestra resultados mensurables relativamente rápido.
+
 ### Ubicación y Horario
 
 Pura Vida Chiropractic está ubicada en **2318 NW Military Hwy Suite 103, San Antonio TX 78231**. Servicios completamente bilingües en inglés y español.

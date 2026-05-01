@@ -117,6 +117,26 @@ If you have thyroid symptoms or a history of cervical spine problems, here is wh
 
 We are bilingual — English and Spanish — and serve patients from **Stone Oak, Castle Hills, Alamo Heights, Helotes**, and across San Antonio.
 
+## Frequently Asked Questions
+
+**If my thyroid blood work is normal, can cervical spine problems still be causing my symptoms?**
+Yes. Subclinical hypothyroidism is common—TSH falls within normal range but symptoms persist. Additionally, cervical spine dysfunction can cause fatigue, brain fog, weight gain, and cold intolerance independent of thyroid blood work. A comprehensive evaluation addresses both thyroid function and spinal-neurological factors.
+
+**Can chiropractic care replace thyroid medication?**
+No. If you have been diagnosed with hypothyroidism, you need thyroid medication. Chiropractic is complementary—it optimizes the nervous system so your medication works better, your body's own thyroid function improves, and symptoms resolve more completely. Continue your thyroid medication as prescribed while incorporating chiropractic care.
+
+**How does whiplash cause thyroid problems years later?**
+Whiplash traumatizes cervical spinal structures—ligaments, disc joints, nerve roots. The trauma disrupts the nerve pathways that regulate the thyroid. Patients often develop thyroid symptoms months or years after whiplash, even if thyroid function was normal before the injury. This connection is worth investigating if you have post-whiplash thyroid symptoms.
+
+**Why do I need chiropractic if my thyroid medication is controlling my symptoms?**
+Thyroid medication manages symptoms, but may not fully restore optimal thyroid function if cervical dysfunction is contributing. Chiropractic restoration of nerve function allows your thyroid to function better, potentially requiring less medication, improving mood and energy, and optimizing overall metabolic function beyond what medication alone achieves.
+
+**How do I know if my thyroid symptoms are from cervical spine problems or from my thyroid itself?**
+That's why comprehensive evaluation matters. Your chiropractic doctor will assess your cervical spine thoroughly and discuss your symptoms in context. Some patients have both—genuine hypothyroidism plus cervical-neurological dysfunction. Addressing both components produces the best outcomes.
+
+**Do I need to stop thyroid medication before starting chiropractic?**
+No. Continue your thyroid medication exactly as prescribed. Bring your lab results and dosage information to your first visit. Your chiropractor will discuss how care fits into your overall thyroid management and may coordinate with your endocrinologist if needed.
+
 ## Ready to Restore Thyroid Health From the Ground Up?
 
 If you are struggling with thyroid symptoms despite being on medication, or if you have a history of neck problems and are concerned about thyroid health, chiropractic care focused on cervical spine alignment and nervous system optimization can make a real difference.

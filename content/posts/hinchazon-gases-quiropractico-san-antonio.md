@@ -212,6 +212,23 @@ San Antonio, TX 78231
 **Horarios:**
 - Lunes, Martes, Jueves: 7:00 AM - 4:00 PM
 
+## Preguntas Frecuentes
+
+**¿Cómo puede la quiropráctica afectar mi digestión?**
+El nervio vago (décimo par craneal) controla la digestión completa—ácido estomacal, enzimas, motilidad intestinal. Cuando la columna cervical está desalineada, irrita el nervio vago. Nuestros ajustes restauran la función nerviosa normal, permitiendo que su digestión funcione como fue diseñada.
+
+**¿Cuánto tiempo tarda la quiropráctica en aliviar hinchazón y gases?**
+Muchos pacientes notan mejora en 2-3 semanas de ajustes regulares. Sin embargo, la digestión completa puede optimizarse en 8-12 semanas de tratamiento consistente. Esto es mucho más rápido que esperar cambios dietéticos exclusivamente.
+
+**¿El CMRT es diferente del masaje abdominal regular?**
+Sí, completamente. El CMRT (Chiropractic Manipulative Reflex Technique) se enfoca en los reflejos viscerales relacionados con puntos específicos de la columna vertebral. No es masaje—es una técnica altamente refinada que comunica directamente con los órganos digestivos a través del sistema nervioso.
+
+**¿Debo cambiar mi dieta además de recibir quiropráctica?**
+La quiropráctica mejora cómo su cuerpo procesa la comida, no qué comida procesa. Dicho esto, una dieta más limpia acelera los resultados. Durante su consulta gratuita, podemos discutir recomendaciones nutricionales básicas que se adapten a sus síntomas específicos.
+
+**¿Puedo confiar en las enzimas digestivas en lugar de la quiropráctica?**
+Las enzimas son útiles, pero no abordan la causa raíz—la disfunción del nervio vago. Sin restaurar la función nerviosa, estará enmascarando síntomas indefinidamente. La quiropráctica elimina el problema en la fuente.
+
 ## Próximos Pasos: Adiós a la Hinchazón
 
 Si has vivido incómodo con hinchazón y gases durante años, sabiendo que no es solo un problema de alimentos, la quiropráctica integral puede transformar tu vida.

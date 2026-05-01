@@ -90,6 +90,21 @@ Nuestra clínica está ubicada convenientemente en San Antonio, TX, con horarios
 - [Quiropráctica Para Trabajadores de Construcción](/es/blog/quiropractico-trabajadores-construccion-san-antonio)
 - [¿Huesero o Quiropráctico?](/es/blog/huesero-vs-quiropractico-san-antonio)
 
----
+## Preguntas Frecuentes
+
+**¿Qué tan caros son los servicios quiroprácticos sin seguro?**
+Ofrezco planes de pago flexibles y precios de pago directo que son mucho más bajos que lo que pagaría con copagos de seguro. Una consulta inicial cuesta menos que una visita al médico sin seguro. Ofrezco paquetes de descuento para múltiples visitas y plan de pagos mensuales. Hablamos sobre el costo en su primer visit — sin sorpresas.
+
+**¿Puedo obtener una factura para reclamar ante mi seguro después?**
+Sí. Proporciono facturas detalladas (superbills) que puedo enviar a su compañía de seguros para reembolso. Algunos pacientes presentan reclamos bajo "fuera de red" y reciben reembolsos parciales. No facturo directamente a seguros — eso es entre usted y su aseguradora.
+
+**¿Ofrece planes de pago para los que no tienen efectivo hoy?**
+Sí. Ofrezco planes de pago mensuales que hacen la atención asequible. También ofrezco descuentos por pagos en efectivo. Discutimos las opciones que funcionan para su presupuesto.
+
+**¿Si tengo un ingreso muy bajo, qué opciones tengo?**
+Llame y hablemos. Ofrezco consultas gratuitas a personas en necesidad demostrada. No quiero que el costo sea una barrera para obtener la atención que necesita. Hay formas de hacer que esto funcione.
+
+**¿La quiropráctica sin seguro es de menor calidad?**
+No. Recibe la misma atención, las mismas técnicas avanzadas (SOT, CMRT), el mismo cuidado que alguien con seguro. La única diferencia es que paga directamente en lugar de a través de un asegurador. La calidad es idéntica.
 
 **¿Vive con dolor y no tiene seguro médico?** No espere más. Llame al [(210) 685-1994](tel:2106851994) o visite [puravidasanantonio.com/special/](https://puravidasanantonio.com/special/) para su **evaluación gratuita** hoy. El Dr. Dan Foss habla español y está listo para ayudarle, con o sin seguro médico.

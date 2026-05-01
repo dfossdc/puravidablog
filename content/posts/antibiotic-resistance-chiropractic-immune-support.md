@@ -100,6 +100,26 @@ Many patients see improvement in how often they get sick within the first 4 to 6
 
 We are bilingual — English and Spanish — and we serve patients from Stone Oak, Castle Hills, Alamo Heights, Helotes, and throughout San Antonio.
 
+## Frequently Asked Questions
+
+**Can chiropractic care actually prevent me from getting sick?**
+Not completely—but it can shift your odds significantly. By restoring nervous system balance and supporting your immune-regulating organs through SOT and CMRT, we help your body mount better defenses. Patients often report catching fewer illnesses and recovering faster. The goal is resilience, not immunity.
+
+**Will I have to stop taking antibiotics?**
+No. The point is to use them wisely, not eliminate them. When you have a serious bacterial infection, antibiotics are the right choice. What changes is how often you need them, because your immune system is doing its job most of the time.
+
+**How often should I get adjusted for immune support?**
+It depends on your baseline health and stress load. Many patients benefit from 2-4 visits per month to maintain nervous system balance and support gut health through CMRT. We'll assess where you are and recommend a maintenance schedule that works for your life.
+
+**What's the difference between SOT and CMRT for immunity?**
+SOT corrects the structural foundation—aligning your spine and pelvis to optimize nervous system function. CMRT goes deeper, working with organ-specific reflex points to directly support your gut, liver, and adrenal function. Both matter; together they're more powerful than either alone.
+
+**I've been on multiple rounds of antibiotics. Can chiropractic help restore my microbiome?**
+Yes, along with nutrition and lifestyle support. CMRT work on the gut and ileocecal valve reflex points, combined with dietary fiber and potentially probiotics, helps rebuild beneficial bacteria. This takes time—usually 8-12 weeks of consistent care—but the results are real.
+
+**Are there specific times of year when I should prioritize immune-focused care?**
+Absolutely. Starting chiropractic care in late summer (before fall cold season) or early winter gives your immune system time to strengthen before peak illness months. Even 4-6 weeks of regular care can shift your resilience for the entire season.
+
 ## Ready to Build Real Immunity?
 
 Antibiotics have their place. But they are not your first line of defense, and they are certainly not a long-term strategy.

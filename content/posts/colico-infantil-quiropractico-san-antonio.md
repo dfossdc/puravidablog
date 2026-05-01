@@ -117,6 +117,26 @@ Si está leyendo esto mientras su bebé está llorando en el fondo, sepa esto: n
 
 Miles de padres en San Antonio han encontrado alivio para sus bebés con cólico mediante atención quiropráctica pediátrica. Su bebé merece estar cómodo, y usted merece dormir pacíficamente sabiendo que ha hecho todo lo posible para ayudar.
 
+## Preguntas Frecuentes
+
+**¿Es seguro tratar a un bebé pequeño con quiropráctica?**
+Absolutamente. La quiropráctica pediátrica es muy suave, especialmente cuando se trata del cólico. El Dr. Foss utiliza presión mínima, técnicas específicas diseñadas para bebés pequeños. Muchos bebés se duermen durante el tratamiento. No hay riesgo de daño cuando está realizado por un quiropráctico con entrenamiento pediátrico especializado.
+
+**¿Cuántas visitas necesitará mi bebé?**
+Esto varía dependiendo de la severidad del cólico y cómo responda su bebé. Algunos bebés mejoran significativamente después de 3-5 visitas, mientras que otros pueden beneficiarse de 8-12 sesiones. El Dr. Foss evaluará el progreso en cada visita y ajustará el plan según sea necesario.
+
+**¿Cuándo comenzaré a ver mejora en mi bebé?**
+Muchos padres notan cambios positivos dentro de las primeras 1-2 semanas de tratamiento regular. Algunos bebés mejoran más rápidamente, especialmente si el cólico es debido a una subluxación clara. La consistencia en el tratamiento es importante para mejores resultados.
+
+**¿Qué causa exactamente el cólico?**
+El cólico es multifactorial, pero a menudo está relacionado con una alineación espinal o craneal que interfiere con la función del nervio vago o nervios digestivos. Las tensiones del parto, incluso un parto normal, pueden causar desalineaciones que llevan a problemas digestivos. El Dr. Foss identifica la causa específica en su bebé.
+
+**¿Mi bebé necesitará tomar medicamentos para el cólico?**
+No con el tratamiento quiropráctica. Aunque algunos pediatras prescriben medicamentos para el cólico, la mayoría no son muy efectivos y pueden tener efectos secundarios. La quiropráctica aborda la causa mecánica, proporcionando alivio natural sin medicamentos.
+
+**¿Cuál es la edad correcta para traer a mi bebé al quiropráctico?**
+El Dr. Foss puede evaluar y tratar a bebés desde el primer día de nacimiento. De hecho, muchos bebés son evaluados poco después del parto para asegurar que no hay desalineaciones del nacimiento. Nunca es demasiado temprano para comenzar.
+
 ## Dé el Próximo Paso
 
 Su bebé no tiene que sufrir a través de meses de cólico. El Dr. Dan Foss y el equipo en Pura Vida Chiropractic están listos para ayudar.

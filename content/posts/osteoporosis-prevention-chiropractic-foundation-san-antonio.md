@@ -123,6 +123,23 @@ If you are concerned about osteoporosis or want to take a proactive approach to 
 
 We are bilingual — English and Spanish — and serve patients from **Stone Oak, Castle Hills, Alamo Heights, Helotes**, and across the San Antonio area.
 
+## Frequently Asked Questions
+
+**If I'm taking Fosamax or other osteoporosis medications, do I still need chiropractic care?**
+Yes. Medications help preserve bone density, which is important. But they don't improve balance, proprioception, or prevent falls — and most fractures in older adults happen from falls, not from bone fragility alone. Chiropractic care complements your medication by improving nervous system function, balance, and coordination — the factors that actually prevent catastrophic fractures.
+
+**Can chiropractic care prevent osteoporosis, or does it only help after diagnosis?**
+Both. For people with a family history or early signs of bone loss, chiropractic care and weight-bearing exercise can slow or prevent osteoporosis development. For people already diagnosed, chiropractic improves balance and proprioception, reducing fall risk — which is the bigger fracture risk in older age.
+
+**I'm concerned I have low bone density. Should I get imaging before starting chiropractic care?**
+Not necessarily. I can assess your alignment and balance clinically. If your doctor recommends a DEXA scan (bone density scan), that's valuable information to have — bring those results with you. But clinical assessment gives me enough information to start structural care. Imaging is more about medical management of the density itself.
+
+**At what age should I start thinking about bone health?**
+The earlier the better. Bone density peaks in your thirties. If you have a family history of osteoporosis, start preventive work — proper alignment, weight-bearing exercise, and nutrient support — in your forties and fifties. If you're already dealing with low bone density or post-menopausal, starting care now matters for preventing falls and maintaining strength through older age.
+
+**Will improving my alignment actually improve my balance?**
+Yes. Your proprioceptive system — your body's sense of where it is in space — depends on proper spinal alignment and joint mechanoreceptor function. When your spine is aligned and moving well, your proprioceptive feedback improves, your balance improves, and your confidence in movement increases. Most patients notice they feel "steadier" within a few weeks of care.
+
 ## Ready to Build Stronger Bones?
 
 Osteoporosis is preventable, and early intervention matters. Whether you are concerned about bone density, recovering from a fracture, or simply want to age with confidence and strength, chiropractic care focused on alignment and nervous system health is one of the most valuable investments you can make.

@@ -138,6 +138,23 @@ No trabajo en aislamiento. Si su hijo viene a Pura Vida, evaluaré y trataré lo
 
 La mayoría de los pediatras reconocen que el sistema nervioso y el sistema inmunológico de un niño están conectados. Hemos trabajado junto a pediatras, doctores de medicina familiar y enfermeras practicantes en todo San Antonio durante 23 años, y la colaboración importa.
 
+## Preguntas Frecuentes
+
+**¿Por qué el sistema inmunológico de los niños es tan susceptible a infecciones?**
+Sus sistemas inmunes aún están desarrollándose—especialmente en primeros años. Además, cada infección es nueva para ellos—sin "memoria inmunológica" de cómo combatirla. Si hay interferencia nerviosa de subluxaciones, su respuesta inmune es aún más débil. La quiropráctica pediátrica previene esto.
+
+**¿Cómo el CMRT específicamente ayuda al sistema inmune infantil?**
+CMRT comunica con los órganos linfoides (bazo, timo, nódulos linfáticos) a través del sistema nervioso. Estimula la maduración de células T, mejora la función de células B, y optimiza la respuesta inflamatoria. Es medicina energética inmunológica—única a la quiropráctica.
+
+**¿Cuántas infecciones de oído es "normal" para un niño?**
+Cero a una por año es normal. Si su hijo tiene más de dos infecciones de oído por año, hay un problema—frecuentemente drenaje Eustaquiano deficiente resultado de disfunción del nervio vago de subluxación cervical. Esto responde excelentemente a quiropráctica pediátrica.
+
+**¿Puedo prevenir completamente resfriados y gripe con quiropráctica pediátrica?**
+No completamente—la exposición siempre es un factor. Sin embargo, un sistema inmune fuerte minimiza frecuencia, severidad, y duración. Mis pacientes pediátricos regularmente aceptados tienen significativamente menos días de enfermedad por año que sus pares.
+
+**¿A qué edad debo comenzar a optimizar el sistema inmune de mi hijo quiroprácticament?**
+Ahora mismo. Los ajustes pediátricos desde recién nacido no solo previenen problemas de desarrollo, sino que establecen una inmunidad robusta de por vida. Un niño optimizado quiroprácticament desde nacimiento crecerá ser un adolescente y adulto notablemente más saludable.
+
 ## ¿Listo para Construir la Resistencia Inmunológica de su Hijo?
 
 Si su hijo está atrapado en un ciclo de infecciones, alergias o sensibilidad inmunológica crónica, no acepte el modelo reactivo — "tratar cada infección conforme viene." Hay un patrón más profundo, y podemos abordarla.

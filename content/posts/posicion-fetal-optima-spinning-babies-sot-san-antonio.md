@@ -159,6 +159,23 @@ Si está viendo a una doula, dígales también. Las doulas a menudo tienen conoc
 
 Trabajamos junto a, no en lugar de, su equipo médico. Si su bebé no se reposiciona a pesar de 8 semanas de atención combinada, lo referiremos de vuelta a su OB con documentación completa. Si la versión cefálica externa (VCE) está sobre la mesa, podemos proporcionar atención de apoyo. Si la entrega por cesárea se convierte en su plan de parto, lo apoyamos plenamente y ofrecemos atención posparto para ayudarla a recuperarse.
 
+## Preguntas Frecuentes
+
+**¿Cómo afecta la posición fetal al parto?**
+La posición fetal determina literalmente cuán difícil será el parto. Un bebé en posición occipital anterior (cara hacia abajo) tiene una circunferencia de cabeza más pequeña pasando por la pelvis, resultando en parto más fácil. Bebés en posición podalica o posterior hacen el parto más difícil. La quiropráctica optimiza la posición.
+
+**¿Puede la técnica Webster realmente voltear un bebé en posición podalica?**
+Sí, es muy efectiva. Webster se enfoca en liberar tensión en el ligamento redondo y la pelvis, permitiendo que el bebé se voltee naturalmente. No es una manipulación agresiva—es estimulación refleja específica. Muchos de mis pacientes pasaron de posición podalica a cefálica con Webster.
+
+**¿Cuándo es demasiado tarde para posicionar al bebé correctamente?**
+Nunca es demasiado tarde, pero más temprano es mejor. Comience ajustes de posición alrededor de semana 30. Algunos bebés todavía se posicionan correctamente en semana 36-38. Sin embargo, cuanto antes optimicemos su pelvis y ligamentos, más probable es que el bebé se posicione bien.
+
+**¿Puedo hacer algo en casa además de Spinning Babies para mejorar la posición fetal?**
+Sí. Actividades como gatear, estar en cuatro puntos, agacharse, y evitar estar sentada prolongadamente ayudan. Spinning Babies tiene ejercicios específicos. Yo prescribo actividades personalizadas basadas en la posición de su bebé durante la consulta.
+
+**¿Si mi bebé está en posición podalica, estoy destinada a una cesárea?**
+No necesariamente. Con quiropráctica y ejercicios correctos, muchos bebés en posición podalica se voltean. Incluso si no se voltean, algunos médicos ofrecen versión cefálica externa (VCE), que tiene mejores tasas de éxito después de que hemos optimizado la pelvis quiroprácticamente.
+
 ## ¿Lista para Optimizar la Posición de su Bebé?
 
 Si está embarazada y preocupada por la posición de su bebé — ya sea presentación pélvica, posterior, transversa, o simplemente quiere maximizar sus posibilidades de posicionamiento ideal — el momento para comenzar es ahora.

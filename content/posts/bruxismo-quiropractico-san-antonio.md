@@ -162,6 +162,26 @@ Para mejorar el bruxismo nocturno:
 
 La mayoría de los pacientes nota mejora significativa en 2-6 semanas con el tratamiento quiropráctica regular. Sin embargo, el tiempo de recuperación completa depende de la severidad y la duración del bruxismo, así como de la capacidad del paciente de manejar el estrés.
 
+## Preguntas Frecuentes
+
+**¿Puede el bruxismo causar daño permanente a mis dientes?**
+Sí, el bruxismo prolongado puede causar desgaste significativo de los dientes, fracturas, erosión del esmalte, y daño a la mandíbula. Es importante abordar la causa subyacente lo antes posible. La mayoría del bruxismo está causado por tensión muscular, desalineación de la mandíbula, o disfunción del sistema nervioso—todos los cuales pueden ser tratados mediante quiropráctica.
+
+**¿Cuál es la diferencia entre bruxismo y apretamiento de dientes?**
+El bruxismo es apretar y rechinar los dientes involuntariamente, típicamente durante el sueño. El apretamiento es simplemente mantener los dientes apretados sin el movimiento de rechinamiento. El bruxismo causa más daño porque el movimiento de lado a lado desgasta activamente los dientes. Ambos son causados por tensión del sistema nervioso que puede ser aliviada mediante ajustes craneales.
+
+**¿Un protector bucal cura el bruxismo?**
+Un protector bucal protege sus dientes del daño, pero no trata la causa raíz del bruxismo. Es una medida de protección, no una cura. La quiropráctica aborda por qué sus músculos están tan tensos en primer lugar—típicamente desalineación de los huesos del cráneo o irritación del sistema nervioso.
+
+**¿Cuánto tiempo tarda la quiropráctica en detener el bruxismo?**
+Muchos pacientes notan menos apretamiento y rechinamiento dentro de 2-3 semanas de ajustes craneales regulares. La resolución completa típicamente toma 6-8 semanas dependiendo de la severidad. Los ajustes relajan los músculos masticadores, optimizan la función nerviosa, y restauran la alineación correcta de la mandíbula.
+
+**¿Es el bruxismo un síntoma de otro problema?**
+Absolutamente. El bruxismo es usualmente un síntoma de estrés, ansiedad, mala alineación mandibular, o disfunción del sistema nervioso. A menudo acompaña al dolor de cuello o problemas de ATM. En Pura Vida Quiropráctica, evaluamos la causa subyacente y diseñamos un tratamiento para resolver el problema completo, no solo el síntoma.
+
+**¿Puede el estrés causar bruxismo?**
+Sí, el estrés es una de las causas más comunes de bruxismo. Cuando está bajo estrés, su sistema nervioso está en modo "lucha o huida", causando que sus músculos se tensen, incluyendo los músculos de masticación. Los ajustes craneales ayudan a desactivar esta respuesta de estrés y permiten que su cuerpo se relaje, reduciendo el bruxismo.
+
 ## Por Qué Elegir Pura Vida Chiropractic
 
 El Dr. Dan Foss ofrece:

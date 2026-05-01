@@ -198,6 +198,23 @@ The Pura Vida Protocol is that framework.
 
 ## Ready to Find What's Actually Driving Your Problem?
 
+## Frequently Asked Questions
+
+**What does the "three-pillar assessment" include?**
+First, I assess your spine for misalignments (subluxations) that create nerve interference. Second, I check visceral reflex patterns — specific organs and systems that may have spinal components. Third, I evaluate your cranial structure and cerebrospinal fluid circulation. Most doctors only address one pillar. This comprehensive approach often finds what was missed.
+
+**If other doctors haven't found anything, how will you?**
+Most doctors are looking for obvious pathology — infections, fractures, tumor. I'm looking for functional loss and nerve interference, which are different. A spine can be "normal" on an X-ray but still create problems through nervous system dysfunction. I have 23 years of experience identifying subtle structural and neurological patterns that standard medicine misses.
+
+**Do I need X-rays or MRIs before my first visit?**
+Not necessarily. I do a thorough clinical evaluation first. If I suspect structural problems that require imaging to confirm, I'll recommend it then. In many cases, my clinical assessment is sufficient to begin treatment and see if you respond — and response to care tells us a lot about what was actually wrong.
+
+**What if I've already seen many specialists with no answers?**
+That actually narrows down the possibilities. If orthopedic specialists, neurologists, and gastroenterologists haven't found obvious pathology, we're usually dealing with a functional or structural problem that doesn't show up on standard testing. That's exactly where chiropractic specializes.
+
+**Can you help if my condition is autoimmune or genetic?**
+I can support your nervous system function, which supports your immune regulation. Even with autoimmune conditions or genetic predisposition, nervous system dysregulation makes symptoms worse. Balancing your spinal and cranial structure often reduces symptom severity, even if it doesn't change the underlying diagnosis.
+
 If your condition is on this list — or if you have been told that nothing structural is driving your symptoms — the Pura Vida three-pillar assessment can tell you definitively whether a spinal, organ, or cranial component has been missed. The first visit is often the most informative clinical conversation patients have had about their health.
 
 **¿Tiene una condición que no ha mejorado con otros tratamientos? Le invitamos a descubrir si hay una causa estructural, visceral o craneal que aún no ha sido evaluada.**

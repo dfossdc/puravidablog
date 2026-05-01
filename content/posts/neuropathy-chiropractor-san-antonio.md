@@ -61,6 +61,26 @@ Class IV laser therapy uses specific wavelengths of light to stimulate cellular 
 
 Extracorporeal shockwave therapy uses acoustic waves to stimulate healing and reduce chronic pain. This therapy has shown promising results for neuropathic pain conditions by promoting new blood vessel formation and reducing inflammation in nerve tissues. Combined with other treatments in the Pura Vida Protocol, shockwave therapy can accelerate your recovery and improve functional outcomes.
 
+## Frequently Asked Questions
+
+**Is neuropathy always permanent, or can chiropractic care actually reverse it?**
+Nerve damage itself may not fully reverse, but neuropathic symptoms—the numbness, tingling, and pain—are often highly treatable. When nerve compression is relieved through proper spinal correction, most patients experience significant improvement and many eliminate their symptoms entirely. The key is addressing the root cause promptly before permanent nerve damage develops.
+
+**How long does neuropathy treatment take to show results?**
+Most patients notice reduction in symptoms within 3-5 visits as nerve compression is released. Complete resolution typically requires 8-12 weeks of consistent care, depending on severity and duration. Early intervention provides better outcomes—waiting years significantly increases the risk of permanent sensory loss and weakness.
+
+**Why haven't other chiropractors helped my neuropathy?**
+Standard chiropractic treats the spine at the location of pain. Neuropathy often involves organ-nerve reflex patterns (CMRT) and cranial restrictions (SOT Craniopathy) that maintain the subluxation. When these systemic drivers aren't addressed, spinal adjustments alone provide incomplete relief. The Pura Vida Protocol treats all three dimensions—spine, organs, and cranium—as one integrated system.
+
+**Can Class IV laser therapy actually help with nerve damage?**
+Yes. Class IV laser reduces inflammation around compressed nerves, stimulates cellular energy production in damaged nerve tissue, promotes healing of irritated nerves, and reduces pain signals through neurological pathways. For neuropathy patients, laser is particularly valuable in combination with spinal correction to accelerate healing.
+
+**What's the difference between peripheral neuropathy and nerve compression, and which can chiropractic help?**
+Nerve compression (radiculopathy) is when vertebrae or discs compress the nerve. Peripheral neuropathy often involves systemic nerve damage from conditions like diabetes. While chiropractic cannot reverse diabetes, it can relieve any concurrent nerve compression that's worsening symptoms. Comprehensive evaluation determines what portion of your symptoms is compression-related and treatable.
+
+**Is it too late to treat my neuropathy after years of symptoms?**
+It's never too late, but time matters. The longer nerve compression continues, the greater the risk of permanent damage. If you've had symptoms for years without treatment, prompt care prevents further deterioration and often still provides substantial improvement. The goal is preventing permanent changes, not just managing existing damage.
+
 ## Why Choose Pura Vida Chiropractic for Your Neuropathy Care?
 
 Located at 2318 NW Military Hwy Suite 103 in San Antonio, Pura Vida Chiropractic is uniquely positioned to serve the San Antonio community with specialized neuropathy care. Dr. Dan Foss brings years of experience and advanced training in SOT, CMRT, and cranial techniques—expertise that sets his practice apart.

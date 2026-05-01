@@ -92,4 +92,21 @@ Treatment uses the same extremely gentle, sustained contact that characterizes a
 - Birth trauma is the most common and most commonly overlooked cause of SBS strain patterns.
 - SOT-trained craniopaths assess SBS position and motion through vault hold palpation and treat using extremely gentle sustained contact.
 
+## Frequently Asked Questions
+
+**How can a joint in the skull affect my whole body?**
+The sphenobasilar synchondrosis is the fulcrum of the entire cranial mechanism — it controls cerebrospinal fluid circulation, dural membrane tension, and brainstem function. Restriction at the SBS affects everything downstream because the dura connects the skull to the sacrum. It's literally a central pivot point for your entire nervous system.
+
+**My headaches have been lifelong. Could they be from my birth?**
+Possibly. Birth trauma — forceps, vacuum extraction, prolonged labor — commonly leaves SBS strain patterns that persist into adulthood. If your headaches have always been there, a cranial evaluation is worth doing. Many people are shocked to discover that their lifelong headaches resolve once an SBS pattern is corrected.
+
+**What does "vault hold" mean, and how does it help?**
+Vault hold is a gentle hand position on specific cranial bones that allows me to feel the subtle motion of the cranial rhythmic impulse and detect SBS strain patterns. Through palpation, I can identify flexion/extension, torsion, lateral strain, or compression patterns — then use extremely gentle sustained contact to guide the SBS back toward balance.
+
+**I have scoliosis that developed as a child. Could that be related to my skull?**
+Yes. Lateral strain patterns in the SBS transmit down the dural tube and can contribute to scoliotic tendencies. Addressing the SBS pattern may not reverse established scoliosis, but it can improve the neurological dysfunction driving progression and causing symptoms.
+
+**Is cranial work different from regular chiropractic?**
+Very different. It's extraordinarily gentle — no high-velocity adjustments, no force. You're working with the body's own cerebrospinal fluid pulsation and letting the system self-correct. Many patients describe it as one of the deepest healing experiences they've had.
+
 If you've had chronic, unexplained headaches, facial asymmetry, or a scoliosis that developed in childhood, it may be worth having your cranial mechanism evaluated. Call Pura Vida Chiropractic at **(210) 685-1994**. We're located at 2318 NW Military Hwy #103, San Antonio, TX, and we're happy to discuss craniopathy evaluation in English or Spanish.

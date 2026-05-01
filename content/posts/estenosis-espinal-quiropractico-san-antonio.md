@@ -104,6 +104,23 @@ Muchos pacientes con estenosis espinal experimentan mejora significativa con el 
 
 El objetivo del Dr. Dan Foss es no solo aliviar el dolor presente, sino también prevenir el deterioro futuro y restaurar la función óptima de la columna vertebral.
 
+## Preguntas Frecuentes
+
+**¿Cuál es la diferencia entre estenosis espinal y una hernia de disco?**
+La estenosis espinal es un estrechamiento del canal espinal que puede afectar múltiples nervios, mientras que una hernia de disco ocurre cuando el material discal se desplaza y presiona un nervio específico. Ambas pueden causar dolor similar, pero requieren enfoques de diagnóstico distintos. En Pura Vida Chiropractic, utilizamos SOT para abordar ambas condiciones de manera integral.
+
+**¿Es la estenosis espinal una condición permanente?**
+Aunque los cambios degenerativos en la columna son permanentes, los síntomas causados por la estenosis espinal pueden mejorar significativamente con tratamiento quiropráctico integral. Muchos de nuestros pacientes reportan alivio duradero mediante el Protocolo Pura Vida y ajustes regulares que optimizan la función nerviosa.
+
+**¿A qué edad típicamente se desarrolla la estenosis espinal?**
+Aunque la estenosis espinal es más común después de los 50 años, puede ocurrir a cualquier edad dependiendo de la genética, traumatismos previos o degeneración discal acelerada. He tratado a pacientes tan jóvenes como 30 años con síntomas significativos causados por estenosis espinal.
+
+**¿Cuánto tiempo tarda en sentir mejoría con tratamiento quiropráctico?**
+La mayoría de nuestros pacientes comienza a notar mejora en el rango de movimiento y reducción del dolor dentro de 2-4 semanas de tratamiento consistente. Sin embargo, la recuperación completa y la estabilización típicamente requieren 8-12 semanas dependiendo de la gravedad de la estenosis.
+
+**¿Puedo prevenir que la estenosis espinal empeore?**
+Sí. Los ajustes quiroprácticos regulares, ejercicios prescritos, buena postura y ergonomía adecuada son fundamentales para prevenir el deterioro progresivo. El tratamiento preventivo es mucho más efectivo que esperar a que los síntomas se vuelvan severos.
+
 ### Ubicación y Horario de Atención
 
 Pura Vida Chiropractic está ubicada en **2318 NW Military Hwy Suite 103, San Antonio TX 78231**. El consultorio es completamente bilingüe, con servicios en inglés y español.

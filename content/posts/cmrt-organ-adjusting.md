@@ -115,6 +115,23 @@ In practical terms, this means the vast majority of chiropractors — even excel
 
 Dr. Dan Foss is the only practitioner in San Antonio with Advanced SOT certification and the CMRT skill set that comes with it. "If you've been adjusted for the same problem for months or years without lasting results," he says, "there is a good chance the organ piece has never been addressed. That is usually where the answer lives."
 
+## Frequently Asked Questions
+
+**What's the difference between CMRT and a regular chiropractic adjustment?**
+A regular adjustment focuses on spinal alignment. CMRT goes deeper—it addresses which organs are driving the spinal misalignment through the viscero-somatic reflex. If your liver is congested or your pancreas is stressed, that organ is sending signals down to the spine, pulling it back out of alignment. CMRT treats the organ-spinal circuit, not just the spine. This is why patients with recurring problems finally get lasting results.
+
+**How do Chapman's points help you diagnose organ problems?**
+Chapman's points become tender when an organ is stressed—they're a physical map of where your body is struggling. I systematically test them at the beginning of care and throughout treatment to see which organs need attention. When I find an active point on your right shoulder blade, for instance, I know to look at your liver and gallbladder. The points guide the diagnosis and confirm treatment progress.
+
+**Can CMRT help my chronic stomach issues, or is this just for pain?**
+CMRT is specifically designed for conditions like acid reflux, irritable bowel symptoms, constipation, and bloating that stem from spinal-organ reflex dysfunction. I see this constantly in my practice—patients get nowhere with antacids until the T5 spinal segment and stomach-spinal circuit are corrected. If you've had digestive issues for months or years without resolution, the organ-spinal connection might be your answer.
+
+**Is CMRT safe, and what does it feel like?**
+CMRT is extremely gentle—no cracking or force at all. I apply light, sustained pressure to specific points on your abdomen and chest, sometimes just a few ounces. Most patients find it deeply relaxing and often feel warmth or subtle movement in the organ area being treated. Many patients actually fall asleep during CMRT because it activates the parasympathetic nervous system.
+
+**Why haven't other chiropractors offered me CMRT?**
+CMRT is only taught at the Advanced SOT certification level through SORSI—the vast majority of chiropractors, even very good ones, don't have this training. It requires mastery of the entire organ-spinal map, Chapman's reflex system, and advanced SOT technique. I'm the only Advanced SOT and CMRT-certified chiropractor in San Antonio, which is why patients often come here after being stuck elsewhere.
+
 ## Key Takeaways
 
 - CMRT (Chiropractic Manipulative Reflex Technique) is the organ-adjusting branch of Advanced SOT, developed by Dr. M.B. DeJarnette.

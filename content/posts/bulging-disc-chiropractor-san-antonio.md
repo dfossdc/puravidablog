@@ -186,6 +186,26 @@ Dr. Dan Foss brings specialized expertise in disc-related conditions with creden
 - Fluent in English and Spanish
 - Commitment to non-surgical, evidence-based treatment
 
+## Frequently Asked Questions
+
+**Is a bulging disc dangerous, or will it resolve on its own?**
+A bulging disc won't resolve on its own and can worsen over time, potentially progressing to a herniation. The key is catching it early and providing the right treatment. I've used SOT protocols for over 23 years to successfully stabilize bulging discs without surgery. Early intervention prevents progression and chronic pain.
+
+**How many chiropractic visits will I need for a bulging disc?**
+Most patients require 2-3 visits per week initially, tapering as improvement occurs. Complete recovery typically takes 4-6 weeks for mild cases and up to 12 weeks for severe bulges. The timeline depends on how long you've had symptoms and how well your body responds to treatment. I'll give you a realistic estimate after your first evaluation.
+
+**Is chiropractic care safe for a bulging disc, or will adjustments make it worse?**
+This is the top question I hear, and the answer is yes—when done correctly. Aggressive manipulation can worsen a bulge, which is why I use SOT protocols specifically designed to decompress rather than mobilize affected discs. I treat bulging discs gently and carefully; my goal is stabilization and decompression, not force.
+
+**Do I need imaging like an MRI to confirm the bulge before starting treatment?**
+Not necessarily. If you have clear neurological signs (pain, numbness, weakness), I can often diagnose a bulge through clinical testing. That said, some patients prefer imaging confirmation first, and I respect that. An MRI helps me understand the exact location and severity, allowing me to refine my treatment approach.
+
+**Will my disc bulge come back after I'm treated?**
+Recurrence is possible if underlying factors—poor posture, weak supporting muscles, certain movement patterns—aren't corrected. This is why my treatment includes postural training, home exercises, and movement education. Patients who follow through with prevention strategies rarely have recurrence.
+
+**Do you take insurance for bulging disc treatment, and should I see a neurologist first?**
+We accept insurance through superbills—you pay at the visit and submit for reimbursement. You don't need a neurologist referral to start care with me, though some people do see one first. If you want to verify benefits or discuss your specific situation, call **(210) 685-1994** for a free consultation.
+
 ## Contact Us Today
 
 If you've been diagnosed with a bulging disc in San Antonio, don't assume surgery is inevitable. Most bulging discs respond well to conservative chiropractic care when treated properly.

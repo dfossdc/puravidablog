@@ -185,6 +185,26 @@ Pura Vida Chiropractic está ubicada en **2318 NW Military Hwy Suite 103, San An
 - Martes: 7:00 am - 4:00 pm
 - Jueves: 7:00 am - 4:00 pm
 
+## Preguntas Frecuentes
+
+**¿Cómo sé si tengo un nervio comprimido versus solo dolor muscular?**
+El dolor de un nervio comprimido típicamente irradia (va hacia extremidades), causa entumecimiento u hormigueo. El dolor muscular es localizado. El Dr. Foss diferencia entre ambos mediante examen neurológico. Pruebas especializadas pueden confirmar compresión nerviosa.
+
+**¿Puede un nervio comprimido "curarse a sí mismo"?**
+Algunos casos leves mejoran con descanso. Sin embargo, la compresión nerviosa persistente requiere tratamiento para evitar daño nervioso a largo plazo. Si los síntomas duran más de 2 semanas, busque evaluación. La quiropráctica acelera curación significativamente.
+
+**¿Cuánto tiempo tarda la quiropráctica en aliviar un nervio comprimido?**
+Muchos pacientes notan mejora en 1-2 semanas. Sin embargo, la resolución completa tipicamente toma 6-12 semanas dependiendo de la severidad y duración. Los casos crónicos requieren más tiempo. Lo importante es que el Dr. Foss reevalúa regularmente.
+
+**¿Necesitaré cirugía para un nervio comprimido?**
+La mayoría no. La quiropráctica conservadora resuelve la mayoría de los casos. La cirugía se considera solo cuando hay compresión severa con debilidad progresiva, pérdida de función, o problemas de control de vejiga/intestino. Muchos pacientes evitan cirugía completamente.
+
+**¿La terapia láser ayuda con nervios comprimidos?**
+Sí. Reduce la inflamación alrededor del nervio comprimido, aliviando presión. Estimula la curación de tejidos dañados. Combinada con ajustes quiropráticos que restauran la alineación, proporciona alivio rápido y duradero.
+
+**¿Qué tan importante es la postura para prevenir nervios comprimidos?**
+Extremadamente importante. Postura pobre causa desalineación que resulta en compresión nerviosa. Mantener postura erguida, no encorvarse, usar ergonomía correcta en el trabajo — todo previene nervios comprimidos. El Dr. Foss proporciona educación postura específica.
+
 ### Contacto
 
 Si sufre de un nervio comprimido en San Antonio, no espere más. El Dr. Dan Foss, DC, con más de una década de experiencia desde 2010, está listo para ayudarlo.

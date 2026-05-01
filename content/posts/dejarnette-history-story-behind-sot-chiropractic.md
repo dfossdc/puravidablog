@@ -97,6 +97,25 @@ That is the philosophy I practice every day at Pura Vida Chiropractic. I am grat
 
 ## Key Takeaways
 
+## Frequently Asked Questions
+
+**What makes SOT different from other chiropractic techniques?**
+Most chiropractic is spine-focused—adjust the vertebra, treat the pain. DeJarnette's innovation was recognizing that the spine, pelvis, and cranium function as an integrated system, and that organ dysfunction drives spinal misalignment. SOT uses pelvic blocks, cranial adjustments, and organ reflex work (CMRT) to address the whole system, not just symptoms. This is why SOT patients often see resolution of problems that seemed unrelated to their spine.
+
+**Is SOT more effective than standard chiropractic, and how do I know if I need it?**
+SOT addresses deeper dysfunction patterns. If you've been adjusted for years with temporary relief, or if your problem involves multiple systems (pain plus digestive issues, or neck pain plus hormonal problems), SOT is likely needed. Standard chiropractic is excellent for acute injuries; SOT specializes in chronic, complex, recurring problems that don't stay fixed.
+
+**Did DeJarnette's pelvic blocks really work, or is that outdated science?**
+DeJarnette's techniques have been validated by modern research, including studies showing measurable neurological changes (increased alpha brain waves) from SOT pelvic blocking. The science is 70+ years old now, but it's solid. I use these same techniques daily with consistent, measurable results in my patients' function, pain levels, and symptom resolution.
+
+**Does SOT require special certification, and how do I know if my chiropractor is properly trained?**
+Yes. SOT Advanced certification through SORSI requires years of post-doctoral study and clinical mastery. Most chiropractors have no SOT training at all. If you're looking for SOT care, ask: Are you SORSI-certified at the Advanced level? Do you teach organ-spinal relationships and CMRT? I'm the only Advanced SOT chiropractor in San Antonio with full CMRT capability.
+
+**What does a SOT treatment actually involve, and is it painful?**
+SOT combines pelvic blocking (you lie on specific contoured blocks while gentle adjustments realign your pelvis), cranial adjusting (light finger pressure to skull bones), and often CMRT (gentle abdominal pressure on organ reflex points). Nothing is painful; most patients find it deeply relaxing and often fall asleep. The goal is restoring function, not forcing alignment.
+
+## Key Takeaways
+
 - Dr. M.B. DeJarnette (1899–1992) was both a chiropractor and an osteopath who spent 60 years developing Sacro Occipital Technique, beginning after a near-fatal industrial accident that chiropractic helped heal.
 - SOT's Category system emerged from decades of systematic clinical observation — an empirical framework for classifying pelvic and spinal dysfunction patterns.
 - DeJarnette incorporated Sutherland's cranial work into SOT (Craniopathy) and developed CMRT to address organ-vertebral reflex relationships — two branches that extended SOT far beyond conventional chiropractic scope.

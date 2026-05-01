@@ -227,6 +227,26 @@ Para prevenir la recurrencia de espasmos, el Dr. Foss recomienda:
 - Mantenerse hidratado
 - Manejar el estrés
 - Evitar sobrecarga muscular
+
+## Preguntas Frecuentes
+
+**¿Cuál es la diferencia entre un espasmo muscular y un calambre?**
+Técnicamente son lo mismo: contracción muscular involuntaria. Los espasmos típicamente duran más, mientras que los calambres son breves. Los espasmos crónicos sugieren una causa subyacente (desalineación vertebral, irritación nerviosa). Los calambres ocasionales son típicamente deshidratación o deficiencia de electrolitos. El Dr. Foss diferencia entre ambos durante su evaluación.
+
+**¿Pueden los espasmos musculares ser peligrosos?**
+Los espasmos musculares simples no son peligrosos. Sin embargo, espasmos severos repetidos pueden indicar una causa subyacente más seria (desalineación vertebral, compresión nerviosa, enfermedad neurológica). Si sus espasmos son severos, frecuentes, o empeoran, busque evaluación profesional. El Dr. Foss puede descartar causas serias.
+
+**¿Cuánto tiempo tarda la quiropráctica en eliminar los espasmos?**
+Muchos pacientes notan alivio en 2-3 sesiones. Sin embargo, la eliminación completa de espasmos crónicos toma típicamente 4-8 semanas con tratamiento consistente. Los espasmos agudos pueden mejorar en 1-2 semanas. Lo importante es consistencia; saltarse citas ralentiza el progreso.
+
+**¿Debo estirar o descansar cuando tengo un espasmo agudo?**
+Ambos. En los primeros días, descanse la zona y evite movimientos que causen más espasmo. Después de 2-3 días, estiramiento suave ayuda. El Dr. Foss proporciona protocolos específicos de estiramiento. Estiramiento agresivo en la fase aguda empeora el espasmo.
+
+**¿Los minerales como magnesio ayudan con los espasmos?**
+Sí. El magnesio y otros electrolitos (calcio, potasio) son cruciales para función muscular. Deficiencias pueden causar espasmos. Sin embargo, suplementación sola no cura los espasmos causados por desalineación vertebral. El Dr. Foss recomienda nutrición apropiada como parte del tratamiento, pero la quiropráctica aborda la causa raíz.
+
+**¿Necesitaré relajantes musculares para los espasmos?**
+A veces, para alivio a corto plazo. Sin embargo, los relajantes musculares no abordan la causa subyacente. La quiropráctica restaura la alineación, eliminando la causa. Muchos pacientes pueden discontinuar relajantes musculares una vez que la quiropráctica funciona.
 - Evitar mala ergonomía
 
 ### Recuperación Esperada

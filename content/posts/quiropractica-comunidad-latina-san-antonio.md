@@ -86,6 +86,26 @@ Puede contactarnos por:
 
 Aceptamos pacientes nuevos sin referencia médica y la consulta inicial es completamente gratuita.
 
+## Preguntas Frecuentes
+
+**¿El Dr. Foss realmente habla español o solo algunas palabras?**
+El Dr. Foss habla español con fluidez completa. Puede conversar en español durante toda su cita, explicar diagnósticos complejos en español, y comunicarse con su familia sin necesidad de traductor. Se tomó el tiempo de aprender español correctamente porque atiende a cientos de familias latinas cada año en San Antonio.
+
+**¿Qué pasa si soy indocumentado?**
+Su estatus de inmigración no es asunto nuestro ni lo pregunteremos. Nuestro enfoque es la salud y el bienestar de usted. Aceptamos pacientes sin importar su situación de inmigración. La consulta inicial es gratuita y sus registros médicos son privados y confidenciales.
+
+**¿Puedo traer a mi familia a la cita?**
+Por supuesto. Si su esposa, mamá, o hermano quieren estar presentes durante su evaluación para apoyarle o para escuchar las recomendaciones de tratamiento, bienvenidos. Muchas familias latinas valoran tomar decisiones de salud en familia, y lo respetamos completamente.
+
+**¿Atiende bebés y niños pequeños?**
+Absolutamente. El Dr. Foss atiende a bebés desde el primer día de vida. Tiene certificación avanzada en ajustes craneales pediátricos. Si su bebé tiene cólicos, dificultad para lactar, o problemas de dormir, podemos ayudar. Los niños también se benefician enormemente de la quiropráctica.
+
+**¿Qué idiomas hablan en el consultorio además del español e inglés?**
+Principalmente español e inglés. Si habla otro idioma y necesita acomodaciones especiales, llame con anticipación y haremos lo posible por ayudar. Pero la mayoría de la comunicación será en español con el Dr. Foss.
+
+**¿Ofrecen tratamiento para accidentes de auto aunque no tenga seguro médico?**
+Sí. Para accidentes de auto, trabajan directamente con seguros de auto (los suyos o los del otro conductor). No necesita seguro médico previo para atender un caso de accidente de auto. Manejamos toda la facturación y coordinación con el seguro.
+
 ## Artículos Relacionados
 
 - [¿Huesero o Quiropráctico?](/es/blog/huesero-vs-quiropractico-san-antonio)

@@ -74,6 +74,23 @@ CMRT for liver and gallbladder dysfunction is appropriate for chronic, functiona
 
 In these cases, I refer to the appropriate medical provider and may coordinate care once the acute issue is resolved.
 
+## Frequently Asked Questions
+
+**How can my right shoulder pain possibly be coming from my liver or gallbladder?**
+Through referred pain—a well-documented mechanism where organ distress signals travel along shared nerve pathways and get misinterpreted by the brain as shoulder pain. The liver and gallbladder both irritate the right diaphragm and create spinal dysfunction at T6-T9, which directly affects shoulder mechanics. This isn't fringe science; it's in standard medical anatomy textbooks and affects thousands of people who don't realize their shoulder pain has an organ origin.
+
+**How do you know if my shoulder pain is coming from an organ versus a musculoskeletal problem?**
+I palpate Chapman's reflex points for the liver and gallbladder. When these organs are stressed, specific points become exquisitely tender with a distinctive "sick" sensation—very different from ordinary muscle tenderness. Combined with your symptom pattern, postural findings, and right thoracic spine assessment, I can usually determine within the first visit whether an organ-spinal reflex is driving your problem.
+
+**Will CMRT treatment resolve my shoulder pain, or is it just pain relief?**
+CMRT addresses the actual cause—the organ-spinal reflex loop—not just symptoms. I clear the Chapman's reflex points and correct the T6-T9 thoracic subluxations that are maintaining the problem. Most patients notice significant shoulder tension relief during the first session. Complete resolution typically takes 3-6 visits depending on how long the dysfunction persisted.
+
+**If it's my liver or gallbladder, shouldn't I see a medical doctor first?**
+If you have acute symptoms—intense right upper abdominal pain, fever, jaundice, dark urine—yes, see your doctor first. But most chronic liver/gallbladder dysfunction doesn't show up on standard testing. It's functional—your organ is stressed but not acutely diseased. CMRT is perfect for this pattern. If I find signs of acute disease, I'll refer to a medical doctor.
+
+**Does dietary change matter if I get CMRT treatment?**
+Yes. The liver and gallbladder are overwhelmed by modern diets—fried foods, refined fats, alcohol, processed foods. CMRT clears the reflex and restores function, but if you keep eating the same way, the organs stay stressed and the reflex returns. I typically recommend dietary support: reducing inflammatory foods, adding choleretic foods (beets, artichoke, dandelion), and staying hydrated. Chiropractic plus dietary support gives lasting results.
+
 ## Key Takeaways
 
 - The liver and gallbladder refer pain to the right shoulder through two mechanisms: T6-T9 viscero-somatic referral and right phrenic nerve diaphragm irritation

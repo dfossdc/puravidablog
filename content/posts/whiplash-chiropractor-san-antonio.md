@@ -105,6 +105,26 @@ Your personalized treatment plan will include:
 - Home exercises to support healing
 - Regular progress assessments
 
+## Frequently Asked Questions
+
+**How long should I wait after a whiplash injury before seeking chiropractic care?**
+Don't wait. Begin care within the first two weeks after injury for best outcomes. Studies show whiplash patients who start chiropractic treatment early have significantly better long-term outcomes than those who delay. Early treatment prevents chronic whiplash syndrome from developing.
+
+**Will whiplash symptoms eventually go away on their own?**
+Some mild cases improve with time and rest, but many develop into chronic whiplash syndrome—persistent symptoms lasting more than 6 months despite attempted treatment. With proper early intervention, most whiplash injuries resolve within weeks to months. Without treatment, chronic symptoms are common.
+
+**What's the difference between whiplash pain and other neck pain?**
+Whiplash involves rapid acceleration-deceleration trauma that damages muscles, ligaments, tendons, discs, nerves, and facet joints. The injury is often more extensive than straightforward mechanical neck strain, involving neurological and cranial components that standard care often misses. SOT addresses these multi-dimensional injuries.
+
+**Can whiplash cause symptoms months or years after the accident?**
+Yes. Whiplash trauma can create dural tension, cranial restrictions, and neurological patterns that aren't immediately obvious but cause progressive symptoms. Some patients develop thyroid dysfunction, vestibular problems, or cognitive symptoms months or years after whiplash from the residual structural injury.
+
+**Will insurance cover whiplash treatment?**
+Most insurance plans cover whiplash chiropractic care when the injury results from a covered incident (vehicle accident, work injury). Dr. Foss provides thorough documentation that strengthens insurance claims. We also work with personal injury cases and can coordinate with attorneys.
+
+**What should I do immediately after a whiplash injury?**
+Seek medical attention first to rule out severe injury. Then contact Dr. Foss within the first two weeks. Ice (first 48 hours), gentle range of motion, and avoiding aggressive manipulation are important. Prompt, proper chiropractic care prevents chronic complications.
+
 ## Preventing Chronic Whiplash Syndrome
 
 The most important factor in preventing chronic whiplash complications is receiving proper treatment early. Studies show that whiplash patients who begin chiropractic care within the first two weeks after injury have significantly better long-term outcomes than those who delay treatment.

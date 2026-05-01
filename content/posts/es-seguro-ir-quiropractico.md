@@ -230,6 +230,26 @@ Un doctor bueno responde claramente.
 - Cirugía (riesgo quirúrgico)
 - AINE crónico (daño GI, cardíaco)
 
+## Preguntas Frecuentes
+
+**¿Es la quiropráctica más segura que cirugía para el dolor de espalda?**
+Sí. La quiropráctica tiene una tasa de complicaciones serias extremadamente baja, típicamente menos de 1 en 100,000 pacientes. La cirugía de espalda tiene tasas de complicación del 5-15%, incluyendo infección, sangrado, y daño nervioso. Para muchas condiciones, la quiropráctica debería intentarse primero antes de considerar cirugía.
+
+**¿Causan accidente cerebrovascular los ajustes cervicales?**
+Esto es extremadamente raro. Aproximadamente 1 accidente cerebrovascular por 5.85 millones de visitas al quiropráctico. Para comparación, el riesgo de accidente cerebrovascular de un ajuste cervical es similar al de simplemente girar su cabeza en un día normal. El riesgo es especialmente bajo cuando el doctor realiza un cuidadoso examen vascular primero.
+
+**¿Debería hacer radiografías antes del tratamiento quiropráctica?**
+No siempre. Las radiografías solo son necesarias si el examen clínico lo indica. La exposición innecesaria a radiación tiene sus propios riesgos. El Dr. Foss obtiene radiografías solo cuando clínicamente justificado.
+
+**¿Es seguro recibir atención quiropráctica si tomo anticoagulantes?**
+Generalmente sí, con modificación de técnica. Informe al Dr. Foss si está en warfarina o anticoagulantes más nuevos. Pueden evitar ciertos ajustes fuertes en favor de técnicas más suaves. Esto no es una contraindicación absoluta, solo requiere adaptación.
+
+**¿Cuál es el riesgo de "empeoramiento" temporal después del tratamiento?**
+Algunos pacientes experimentan molestia leve o dolor aumentado durante 1-2 días después del tratamiento inicial. Esto es típicamente normal mientras el cuerpo se adapta a la realineación, no un signo de problema. Sin embargo, el dolor severo o que persiste no es normal—comunique esto al Dr. Foss.
+
+**¿Cómo sé si mi quiropráctico está usando técnicas seguras?**
+El Dr. Foss es certificado en Técnica Sacro Occipital avanzada, que enfatiza técnicas seguras, específicas, y basadas en el funcionamiento corporal natural. Hace preguntas sobre su historial médico, realiza exámenes completos, y explica claamente lo que hace y por qué.
+
 ## Si Todavía Tienes Dudas
 
 Si tienes preocupaciones sobre si la quiropráctica es apropiada para TI:

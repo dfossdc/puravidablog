@@ -143,6 +143,23 @@ El trabajo de parto y la entrega cambian fundamentalmente su cuerpo. Su pelvis s
 
 La conclusión: **No apresure la recuperación posparto.** La fuerza que construyó durante el embarazo aún está allí. Dé a su cuerpo tiempo, apoyo quiropráctico y progresión estructurada, y volverá a su capacidad completa — a menudo más fuerte que antes.
 
+## Preguntas Frecuentes
+
+**¿Es seguro hacer ejercicio durante el primer trimestre?**
+El primer trimestre es cuando el embrión es más vulnerable, así que sí, es seguro, pero con moderación. Si hacía ejercicio antes del embarazo, puede continuar. Si es nueva al ejercicio, comience con actividades suaves como caminar o yoga prenatal modificado, siempre con supervisión de su médico.
+
+**¿Qué ejercicios debo evitar después del primer trimestre?**
+Evite cualquier ejercicio que requiera estar acostada boca arriba, ejercicios de contacto, actividades de alto impacto extremo, o movimientos que estiren excesivamente el abdomen. El yoga prenatal modificado, caminar, natación y entrenamiento de resistencia suave son seguros y altamente recomendados.
+
+**¿La quiropráctica mejora mi desempeño durante el parto?**
+Sí. Los ajustes quiroprácticos durante el embarazo mantienen la pelvis alineada y optimizan el espacio para que el bebé se posicione correctamente. Muchas de mis pacientes embarazadas reportan partos más cortos, menos dolor y menos necesidad de intervención médica.
+
+**¿Cuándo debo dejar de hacer ejercicio antes de mi fecha de parto?**
+No necesita dejar de hacer ejercicio—los ejercicios seguros pueden continuarse hasta la semana 40. De hecho, mantenerse activa hasta el parto generalmente acelera el trabajo del parto y mejora los resultados del nacimiento.
+
+**¿Puedo comenzar un nuevo programa de ejercicio durante el embarazo?**
+Técnicamente sí, pero es mejor mantener lo que hacía antes. Si es completamente nuevo al ejercicio, comience muy lentamente bajo supervisión profesional. La quiropráctica prenatal complementa cualquier programa de ejercicio al asegurar que su columna y pelvis puedan soportar la actividad.
+
 ## ¿Lista para Moverse con Confianza?
 
 El ejercicio durante el embarazo es una de las herramientas más poderosas que tiene para influir en su experiencia del parto, su recuperación y la posición de su bebé. Pero funciona mejor cuando su pelvis está alineada, su columna está apoyada y tiene orientación profesional en cada paso del camino.

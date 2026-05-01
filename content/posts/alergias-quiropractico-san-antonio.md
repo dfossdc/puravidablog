@@ -182,6 +182,26 @@ La mayoría de los pacientes nota mejora significativa en 4-8 semanas con el tra
 
 Es importante entender que la quiropráctica no "cura" las alergias en el sentido de que la exposición a un alérgeno nunca más causará una respuesta. En cambio, optimiza la función del sistema inmunológico para que sea menos propenso a reaccionar de manera inapropiada.
 
+## Preguntas Frecuentes
+
+**¿Cuánto tiempo tarda la quiropráctica en reducir mis síntomas de alergias?**
+La mayoría de los pacientes comienza a notar mejora en 4-8 semanas con tratamiento regular. Sin embargo, como el sistema inmunológico tarda en recalibrarse, los resultados óptimos generalmente se ven en 3-6 meses. Algunos pacientes experimentan alivio más rápido, mientras que otros necesitan un tratamiento más prolongado.
+
+**¿Es seguro combinar la quiropráctica con mis medicamentos para alergias?**
+Sí, la quiropráctica complementa su tratamiento médico. El Dr. Foss colabora regularmente con médicos y alergólogos. No descontinúe sus medicamentos sin consultar a su doctor. El objetivo es optimizar su sistema inmunológico mientras gestiona sus síntomas bajo cuidado médico.
+
+**¿Qué es exactamente CMRT y por qué ayuda con las alergias?**
+CMRT (Técnica Refleja Manipulativa Quiropráctica) utiliza reflejos neuroviadores en la columna para mejorar la función de órganos inmunológicos clave como el intestino, el hígado y las glándulas suprarrenales. El 70-80% de su sistema inmunológico reside en su intestino, así que optimizar la función digestiva reduce directamente la respuesta alérgica.
+
+**¿Necesitaré radiografías en mi primera visita?**
+A menudo sí. Las radiografías especializadas ayudan al Dr. Foss a identificar subluxaciones vertebrales que pueden interferir con su función inmunológica. Esto permite un plan de tratamiento más preciso y personalizado a sus desalineaciones específicas.
+
+**¿Qué debo esperar durante un ajuste quiropráxico para alergias?**
+Los ajustes para alergias utilizan la Técnica Sacro Occipital (SOT), que es de baja fuerza y muy suave. Usamos bloques especiales y correcciones gravitacionales sin el "crack" tradicional. El trabajo se enfoca en restaurar el movimiento vertebral y el equilibrio del sistema nervioso autónomo, no en manipulación agresiva.
+
+**¿Puedo traer a mis hijos para tratamiento de alergias?**
+Absolutamente. Los niños responden excelentemente a la quiropráctica para alergias. Los ajustes pediátricos son aún más suaves que los de adultos, adaptados a su tamaño. Muchos padres en San Antonio traen a sus hijos cuando experimentan alergias estacionales o ambientales crónicas.
+
 ## Por Qué Elegir Pura Vida Chiropractic
 
 El Dr. Dan Foss ofrece:

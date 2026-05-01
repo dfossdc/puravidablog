@@ -86,4 +86,24 @@ I want to be explicit about this: CMRT and chiropractic care for reproductive he
 - Chiropractic care for menopause supports autonomic balance and adrenal function, helping manage vasomotor and musculoskeletal symptoms.
 - CMRT complements gynecological care — it does not replace it.
 
+## Frequently Asked Questions
+
+**How does sacral alignment affect my uterus and ovaries when they're not even attached to the spine?**
+They're not directly attached, but they receive their entire autonomic nerve supply through sacral nerve roots S2-S4. When the sacrum is subluxated, those nerve roots become compressed or irritated, and the nerve signals to your reproductive organs become distorted. It's like having static on a phone line—the message gets garbled, and the organ responds dysregulated.
+
+**Can CMRT really help me get pregnant?**
+CMRT alone isn't a fertility treatment. But when pelvic floor tension, sacral dysfunction, and chronic sympathetic dominance are interfering with normal reproductive function, addressing those factors creates a better neurological environment for conception. If those structural barriers were the primary issue preventing pregnancy, yes, CMRT can help. If there's an anatomical obstruction or severe hormonal disease, it won't.
+
+**How long before my irregular periods become regular again?**
+That depends on how long they've been irregular and what's causing the irregularity. Most women see cycle stabilization within 2-3 months of consistent CMRT and sacral correction. Some shift within weeks. Patience is required because this involves resetting autonomic patterns that may have been dysregulated for years.
+
+**Do I still need to see my OB-GYN while doing CMRT?**
+Absolutely. Your OB-GYN provides essential gynecological care—screening for serious pathology, hormonal evaluation, and management of medical issues. CMRT addresses the neurological foundation that gynecological care doesn't typically cover. You need both.
+
+**What exactly are the uterus and ovary Chapman's points, and how will you find them?**
+The uterine anterior point is around the pubic symphysis area; the ovarian points are in the inguinal region just lateral to that. Posteriorly, they correspond to sacral levels. During an assessment, I palpate these areas systematically. When they're active (stressed), they're tender and sometimes boggy. That tenderness tells me your reproductive organs are under neurological stress.
+
+**Is it safe to get CMRT done while I'm pregnant?**
+Yes, with modifications. During pregnancy, we focus on sacral work that supports pelvic floor function and uterine support, rather than visceral manipulation. CMRT during pregnancy—done properly—can reduce labor complications and support optimal fetal positioning. This is something we specialize in through our pregnancy chiropractic care.
+
 If you're dealing with painful periods, irregular cycles, pelvic tension, or menopausal symptoms, I'd welcome the conversation. Call Pura Vida Chiropractic at **(210) 685-1994**. We're at 2318 NW Military Hwy #103, San Antonio, TX. Hablamos español y atendemos a toda la familia.

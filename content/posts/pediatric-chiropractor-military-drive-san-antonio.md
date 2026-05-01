@@ -98,6 +98,23 @@ Over 23 years, Dr. Foss has cared for thousands of children from the Military Dr
 
 He is bilingual (English and Spanish), experienced with diverse military communities, and flexible with scheduling and care plans that fit military life. He is not just a chiropractor who sees kids — he is a pediatric specialist with advanced training in cranial adjusting, SOT, and developmental care, combined with understanding of military healthcare considerations.
 
+## Frequently Asked Questions
+
+**My pediatrician has never mentioned chiropractic care. Should I trust it?**
+Most pediatricians focus on treating illnesses when they happen — antibiotics for infections, medications for symptoms. They're not trained in how spinal function affects nervous system development and immune regulation. The nervous-system-immune connection is solid research, but it's outside standard pediatric training. Most pediatricians are open to complementary care once they see their patient improving.
+
+**How is pediatric chiropractic different from adult chiropractic?**
+Everything is gentler and more specific. A baby's spine is smaller, more mobile, and still developing. I use techniques appropriate to their size and stage. For infants under 6 months, techniques might involve just gentle cranial work. For toddlers, sacral and cranial focus. For school-age children, more comprehensive spinal work. All techniques are low-force and appropriate to the child's developmental stage.
+
+**My child seems fine. Should I still bring them for a visit?**
+If your child had a difficult birth — forceps, vacuum extraction, tight umbilical cord — they may have restrictions that aren't obvious. Many children who seem fine at birth later develop recurrent ear infections, allergies, or immune sensitivity because birth trauma was never addressed. Early assessment can prevent those problems from developing. Some families bring newborns just for prevention.
+
+**What age should my child start coming in?**
+Birth onward. Some families bring newborns right away, especially if there were labor complications. Others wait until they notice a problem. There's no wrong age — even a 10-year-old with chronic ear infections will benefit. Earlier is better because the nervous system is more plastic and responsive, but any age can improve.
+
+**How often do children need to come in?**
+That depends on the condition. A child with chronic ear infections might come twice a week for 4-6 weeks, then monthly. A child getting preventive care might come monthly or every other month. Once you reach your health goal, maintenance visits keep things stable. I'll give you a realistic timeline during your first visit.
+
 ## Ready to Experience Specialized Pediatric Care?
 
 Whether your newborn needs assessment for birth-related restrictions, your child is struggling with ear infections or digestive issues, your family is preparing for deployment, or you simply want to ensure your child's nervous system is optimally aligned, we are right here on Military Drive — no commute, no hassle.

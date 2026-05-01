@@ -166,4 +166,24 @@ If you are pregnant and concerned about your baby's position — whether breech,
 
 Call **(210) 685-1994** or [book your free consultation online](https://puravidasanantonio.com/special/). We will assess your situation, explain what is possible with combined Spinning Babies and SOT care, and help you create a plan. We serve moms from Stone Oak, Castle Hills, Alamo Heights, Helotes, and across San Antonio.
 
+## Frequently Asked Questions
+
+**Is it too late to try positioning if I'm already 36+ weeks?**
+Not at all. While earlier is easier because there's more room, babies can still turn even in the final weeks. I've seen babies reposition at 37, 38, even 39 weeks. It's more challenging and may require more intensive work, but combining chiropractic and Spinning Babies at any point gives you better odds than doing nothing.
+
+**Will external cephalic version (ECV) be more likely to work if I do chiropractic first?**
+Yes. A properly aligned pelvis gives your baby more room and makes ECV technically easier and safer for your healthcare provider. Many OBs note that mothers who've had pre-ECV chiropractic care have higher success rates. We often see patients considering ECV and optimize them beforehand.
+
+**Can Spinning Babies hurt my baby?**
+No. Spinning Babies is movement and positioning—the same movements many active pregnant mothers do naturally. Your baby isn't being forced or manipulated. The movements optimize your environment so your baby can move on his own terms. It's safe throughout pregnancy.
+
+**If I do SOT and Spinning Babies and the baby still doesn't turn, what happens?**
+Then you have peace of mind knowing you did everything possible. If your baby remains breech despite 8 weeks of combined care, your OB can discuss other options—ECV if you want to attempt it, or planned cesarean delivery. Chiropractic isn't guaranteed in every case, but combined care statistically gives the best non-surgical odds.
+
+**Do I need a special type of chiropractor to do Webster, or can any chiropractor do it?**
+Webster is best performed by a chiropractor trained specifically in the technique and experienced with pregnant patients. Not all chiropractors offer it. Dr. Foss has 23 years of pregnancy experience and specializes in positioning work. Experience matters here—you want someone who understands prenatal anatomy and has helped many pregnant patients.
+
+**How much does this cost and does insurance cover it?**
+Each office varies. At Pura Vida, we work with insurance when applicable. Positioning work is typically 2-3 visits per week for 4-8 weeks. We discuss costs upfront and offer payment plans. Many patients find the investment worthwhile compared to potential cesarean surgery, which carries much higher costs and recovery demands.
+
 We are bilingual — English and Spanish — and we have been helping mothers optimize fetal positioning for 23 years. Your baby wants to be in the best position. Your pelvis has the capacity to support that. Let us help you both get there.

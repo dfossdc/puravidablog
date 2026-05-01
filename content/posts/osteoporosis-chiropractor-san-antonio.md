@@ -172,6 +172,23 @@ Dr. Foss understands the unique needs of osteoporosis patients. His **SOT Advanc
 
 He recognizes that osteoporosis requires a multi-disciplinary approach including medical care, appropriate medication, proper nutrition, weight-bearing exercise, and specialized chiropractic support. His goal is to optimize your structural integrity, movement capacity, and neurological function within the constraints of your bone health status.
 
+## Frequently Asked Questions
+
+**Is it safe to get chiropractic adjustments when you have osteoporosis?**
+Yes, but it requires specialized techniques and care. Standard manipulation can be risky with osteoporosis, but I use gentle SOT protocols, mobilization rather than manipulation, and careful technique selection designed specifically for brittle bones. The key is working with a chiropractor experienced in osteoporosis—I assess your DEXA scores and bone density before creating your treatment plan to ensure every technique is safe.
+
+**Can chiropractic care actually improve bone density, or is it just for pain?**
+Chiropractic doesn't directly increase bone density—medication, nutrition, weight-bearing exercise, and supplementation are the primary treatments. But chiropractic supports bone health indirectly by reducing pain (so you can exercise more), improving balance (reducing fracture risk), and optimizing nervous system function (which regulates bone metabolism). Combined with medical care, chiropractic helps you maintain independence and prevent falls.
+
+**How many visits will I need, and what should I expect?**
+Most osteoporosis patients notice pain reduction within 3-5 visits and improved posture and mobility within 4-8 weeks. Continued maintenance care prevents progression. Initial frequency is typically 1-2 times per week, tapering as you improve. The timeline depends on pain severity and how long you've had the condition. I'll give you realistic expectations after evaluating your DEXA results and examining you.
+
+**Will my osteoporosis medications interfere with chiropractic care?**
+Not at all. Bisphosphonates, hormone therapy, and other osteoporosis medications work well alongside chiropractic care. I actually want to know what medications you're taking so I can coordinate care properly and ensure nothing contradicts your medical treatment. Open communication with your primary care physician is part of my approach.
+
+**What if I've had a fracture—can I still get chiropractic care?**
+Depending on where the fracture is and how healed it is, yes. I'll review your imaging and medical documentation, avoid the fractured area during acute healing, and use even gentler techniques than usual. Many osteoporosis patients have had compression fractures; I address the pain and dysfunction around them while protecting the fracture site.
+
 ## Reclaim Your Quality of Life
 
 Osteoporosis doesn't have to mean giving up your independence, mobility, and pain-free function. With proper medical care combined with specialized chiropractic treatment, you can maintain strength, reduce pain, prevent falls, and continue enjoying an active life.

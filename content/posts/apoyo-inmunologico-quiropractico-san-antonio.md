@@ -98,6 +98,26 @@ Muchos pacientes reportan mejoras dentro de 2-4 semanas:
 - Cicatrización más rápida
 - Mejor digestión (conectada directamente a la inmunidad intestinal)
 
+## Preguntas Frecuentes
+
+**¿Cuál es la diferencia entre ajustes quiropráticos regulares e SOT para la inmunidad?**
+SOT es una técnica especializada que trabaja con tres centros clave del sistema nervioso: el cráneo, la región cervical-torácica y el sacro. Estos centros controlan directamente la función inmunológica. Los ajustes regulares restauran la alineación, pero SOT específicamente modula el sistema nervioso autónomo para optimizar la función inmunológica a un nivel más profundo.
+
+**¿Cuántas veces a la semana debo venir para fortalecer mi sistema inmunológico?**
+Inicialmente, recomendamos 2-3 veces por semana para activar el sistema inmunológico. Una vez que experimenta mejora (generalmente en 4-8 semanas), muchos pacientes transicionan a una o dos visitas por semana para mantenimiento. El plan es personalizado según su respuesta individual.
+
+**¿La terapia láser Clase IV realmente ayuda con la inmunidad?**
+Sí. La terapia láser Clase IV penetra profundamente en los tejidos y estimula la mitocondria celular, mejorando la producción de ATP (energía celular). Las células con mayor energía generan respuestas inmunológicas más fuertes. Además, reduce la inflamación sistémica que debilita la inmunidad.
+
+**¿Qué es CMRT y cómo optimiza mi sistema inmunológico?**
+CMRT (Técnica Refleja Manipulativa Quiropráctica) utiliza reflejos neuromusculares específicos en la columna para mejorar la función de órganos inmunológicos: bazo, timo, ganglios linfáticos e intestino. Estimulando estos puntos, mejoramos directamente la producción de glóbulos blancos y la respuesta defensiva de su cuerpo.
+
+**¿Es seguro recibir tratamiento quiropráctico si tengo una enfermedad autoinmune?**
+Sí, pero requiere atención especial. El Dr. Foss tiene experiencia trabajando con pacientes que tienen condiciones autoinmunes. Los ajustes se adaptan para evitar sobreestimular un sistema inmunológico ya desregulado. Colaboramos con su reumatólogo o especialista para asegurar que el tratamiento sea seguro y efectivo.
+
+**¿Cuánto tarda en ver mejora en energía e infecciones recurrentes?**
+Muchos pacientes reportan mayor energía en 2-4 semanas. Las mejoras en infecciones recurrentes y cicatrización más rápida generalmente se ven en 4-8 semanas cuando el sistema inmunológico comienza a funcionar óptimamente. La consistencia en el tratamiento es clave para resultados duraderos.
+
 ## Por Qué Elegir Pura Vida Chiropractic
 
 El Dr. Dan Foss, DC, ha servido a la comunidad de San Antonio desde 2010. Su certificación avanzada en SOT, combinada con su dominio de CMRT y acceso a tecnologías como terapia láser Clase IV y ondas de choque, lo posiciona como un líder en cuidado quiropráctico integral.

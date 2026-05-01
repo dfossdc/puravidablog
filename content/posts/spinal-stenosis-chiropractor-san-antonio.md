@@ -117,4 +117,24 @@ If you're struggling with spinal stenosis in San Antonio, don't wait for your sy
 
 Dr. Foss will thoroughly evaluate your condition, explain what's causing your stenosis symptoms, and develop a personalized treatment plan designed to provide relief and restore your quality of life. Many of our patients are amazed at how quickly they start feeling better once they begin targeted chiropractic care.
 
+## Frequently Asked Questions
+
+**Will chiropractic work if my stenosis was caused by bone spurs?**
+Bone spurs are degenerative changes that don't completely disappear. But they often don't cause pain by themselves—pain develops when the surrounding structures are misaligned and inflamed. By improving spinal alignment and reducing nerve inflammation, many patients experience significant stenosis pain relief even with bone spurs present. The goal is functional improvement, not removing spurs.
+
+**How quickly will I feel better?**
+Initial relief often comes within 2-4 weeks as inflammation decreases and alignment improves. Significant improvement typically requires 8-12 weeks of consistent care. Stenosis usually develops over years, so healing takes time. But most patients notice meaningful changes early, which gives hope and encourages compliance with care.
+
+**Is surgery really my only option if chiropractic doesn't work?**
+No. Surgery should only be considered after months of appropriate conservative care have failed. Many people avoid surgery entirely through proper chiropractic treatment. If surgery eventually becomes necessary, you will have given your body the best chance to heal itself first—which is always worth trying.
+
+**Will I be dependent on chiropractic visits forever?**
+Not necessarily. The goal is to improve your structural integrity so you need care less frequently over time. Many patients transition from active care to maintenance visits—1-2 times monthly—and some eventually need minimal care. It depends on your adherence to postural habits and activity modifications.
+
+**Can regenerative therapies like Shockwave help my stenosis?**
+Yes. Shockwave therapy can be particularly helpful for stenosis involving bone spur formation or calcification. Class IV Laser supports nerve healing and reduces inflammation. These modalities accelerate recovery when combined with structural correction. They're especially valuable for chronic cases.
+
+**What's the difference between lumbar and cervical stenosis treatment?**
+Both respond to SOT protocols, but cervical stenosis requires careful attention to cranial function since the upper cervical spine intimately connects to the cranium. Lumbar stenosis typically focuses on pelvic and lumbar decompression. The underlying principle is the same—removing mechanical pressure on nerves—but the specific techniques differ.
+
 Whether you're experiencing mild discomfort or significant pain that's affecting your daily activities, there's hope. The team at Pura Vida Chiropractic is ready to help you find relief and get back to doing what you love. Contact us today to take the first step toward a pain-free life.

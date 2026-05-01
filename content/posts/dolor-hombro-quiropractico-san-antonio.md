@@ -91,6 +91,26 @@ En Pura Vida Quiropráctica, el Dr. Dan Foss y su equipo están comprometidos co
 
 Entendemos que el dolor de hombro puede ser frustrante y limitante. Queremos que sepa que existe esperanza y que la verdadera recuperación es posible.
 
+## Preguntas Frecuentes
+
+**¿Cuál es la diferencia entre dolor de hombro causado por mala postura versus una lesión?**
+Ambos se tratan similarmente. La mala postura causa dolor gradualmente (semanas a meses) creando desequilibrios musculares y desalineación. Una lesión causa dolor acutamente (inmediatamente). Sin embargo, la causa subyacente es similar: desalineación articular y disfunción nerviosa. El Dr. Foss aborda ambos restaurando la alineación y equilibrio de los músculos del hombro.
+
+**¿Puedo seguir ejercitándome con dolor de hombro durante el tratamiento?**
+Depende de la severidad. En las primeras 1-2 semanas de fase aguda, debe evitar movimientos que causen dolor. Sin embargo, después de eso, movimiento suave sin dolor es beneficioso. El Dr. Foss proporciona modificaciones específicas para actividades. Por ejemplo, nadadores pueden nadar con brazadas modificadas, atletas pueden entrenar con restricciones específicas. Volvemos gradualmente a actividad completa conforme el hombro se fortalece.
+
+**¿Cuánto tiempo tarda en desaparecer el dolor de hombro?**
+Muchos pacientes notan mejora en 2-3 semanas con tratamiento consistente. Sin embargo, la recuperación completa típicamente toma 6-8 semanas. Los casos crónicos que han existido durante meses o años pueden requerir 12 semanas. Lo importante es que el Dr. Foss reevalúa después de 4 semanas y ajusta el plan si no hay progreso.
+
+**¿Debo hacer radiografías para el dolor de hombro?**
+A veces. Si el dolor es severo, crónico, o hay signos de compresión nerviosa, las radiografías ayudan a identificar artritis, calcificaciones, o desalineaciones específicas. Sin embargo, para casos simples y recientes, el Dr. Foss puede iniciar tratamiento basado en el examen clínico. Las radiografías se ordenan si es necesario después de la evaluación inicial.
+
+**¿La terapia láser realmente ayuda con dolor de hombro?**
+Sí, especialmente para inflamación de tendón (tendinitis). La terapia láser Clase IV penetra profundamente en los tejidos del hombro, estimulando la curación celular y reduciendo inflamación. Muchos pacientes con dolor crónico de hombro sienten mejora dramática después de 4-6 sesiones de láser, combinadas con ajustes quiropráticos.
+
+**¿Qué tan importante es la postura para la recuperación del hombro?**
+Extremadamente. Si continúa con hombros redondeados hacia adelante, el hombro no se curará completamente. El Dr. Foss proporciona educación postural específica: sentarse erguido, no encorvarse sobre dispositivos, mantener los hombros atrás, fortalecer la espalda. Postura correcta es tanto parte del tratamiento como los ajustes y terapia láser.
+
 ## Dé el Primer Paso Hoy
 
 Si ha estado lidiando con dolor de hombro en San Antonio, el Dr. Dan Foss en Pura Vida Quiropráctica está listo para ayudarle. Su consulta inicial incluye un examen minucioso y una explicación clara de lo que está causando su dolor. El Dr. Foss discutirá sus opciones de tratamiento y le ayudará a entender el camino hacia la recuperación.

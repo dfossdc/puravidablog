@@ -77,6 +77,26 @@ As I've discussed in other posts, the vagus nerve exits the skull through the ju
 
 The clinical consequences of impaired vagal tone are widespread: reduced digestive motility, elevated resting heart rate, impaired immune regulation, heightened anxiety, and disrupted sleep. Correcting the occiput and restoring normal jugular foramen dimensions is one of the primary mechanisms by which cranial adjusting improves systemic vagal function.
 
+## Frequently Asked Questions
+
+**Why does my C1 adjustment never hold, even though I get adjusted regularly?**
+The atlas sits between the occiput (above) and the axis (below). If the occiput is locked in a restricted position, it constantly pulls the atlas back into subluxation regardless of how precisely the C1 is adjusted. The solution is addressing the occipital foundation first through cranial adjusting, allowing the atlas to self-correct or hold much longer when adjusted.
+
+**How can the occiput and sacrum be connected if they're so far apart?**
+The dura mater (the tough outer membrane surrounding the brain and spinal cord) attaches firmly at the occiput and runs as a continuous tube all the way to the sacrum. This creates a direct mechanical communication chain. Occiput restriction pulls on the entire dural tube, creating tension all the way to the sacrum. This is why SOT practitioners address both cranial and sacral function together.
+
+**Can atlanto-occipital restriction cause dizziness?**
+Yes. The vertebral arteries (which supply the posterior brain and cerebellum) pass through the foramen magnum at this level. Occiput and atlas restrictions can compromise blood flow and proprioceptive input, causing cervicogenic dizziness, vertigo, or balance problems. Proper cranial and cervical correction often resolves this completely.
+
+**Does the vagus nerve exit near the atlanto-occipital joint?**
+Yes. The vagus nerve exits through the jugular foramen, formed by the occiput and temporal bone just lateral to the atlanto-occipital joint. Occipital restriction narrows the jugular foramen, compromising vagal output, which affects digestion, immune function, and autonomic balance. Occipital correction restores jugular foramen dimensions and improves vagal function.
+
+**Does whiplash always involve the atlanto-occipital joint?**
+Virtually always. Whiplash injuries create both cervical and cranial trauma. The occipital-atlas-axis complex is directly impacted. This is why whiplash and post-concussion patients require cranial as well as cervical care for full resolution. Standard cervical-only treatment often produces incomplete results.
+
+**Can cerebrospinal fluid flow be compromised at the atlanto-occipital joint?**
+Yes. CSF flows between the brain and spinal cord through the foramen magnum at this level. Any restriction in occipital or atlas motion creates obstruction to CSF flow, affecting nervous system function, cerebrospinal pressure, and neurological health. Proper cranial correction restores optimal CSF dynamics.
+
 ## Key Takeaways
 
 - The atlanto-occipital joint is the most neurologically significant transition zone in the body — it is traversed by the brainstem, vagus nerve, vertebral arteries, CSF, and the dural tube.

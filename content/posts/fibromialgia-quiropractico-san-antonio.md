@@ -90,6 +90,23 @@ El Dr. Foss enfatiza la educación del paciente, enseñándole técnicas y modif
 
 Ubicado en **2318 NW Military Hwy Suite 103, San Antonio TX 78231**, Pura Vida Quiropráctica está profundamente comprometido a servir la comunidad diversa de San Antonio. El Dr. Foss y su equipo son **bilingües en inglés y español**, asegurando que el idioma nunca sea una barrera para recibir atención excepcional. Ya sea que se sienta más cómodo discutiendo sus síntomas en inglés o español, estamos aquí para escuchar y ayudar.
 
+## Preguntas Frecuentes
+
+**¿La quiropráctica puede curar la fibromialgia?**
+La fibromialgia es un trastorno crónico del sistema nervioso, no una enfermedad que pueda "curarse" como una infección. Sin embargo, nuestro protocolo SOT y CMRT está diseñado para reducir la hipersensibilidad nerviosa y restaurar la función normal, permitiendo que muchos pacientes vivan prácticamente sin síntomas.
+
+**¿Cuántas sesiones de quiropráctica necesitaré?**
+Cada paciente es diferente, pero típicamente recomendamos un plan inicial de 12-16 sesiones para establecer una base sólida. Después, la mayoría de los pacientes se mantienen con visitas mensuales o cada dos semanas para prevenir flare-ups de dolor.
+
+**¿El Protocolo Pura Vida es diferente del tratamiento quiropráctico regular?**
+Sí. El Protocolo Pura Vida combina SOT, ajustes craneales y CMRT en una secuencia específica diseñada para la fibromialgia. Esta combinación abordar la interfencia nerviosa a nivel espinal, craneal y visceral simultáneamente, lo que es mucho más efectivo que ajustes aislados.
+
+**¿Puedo dejar de tomar medicamentos con tratamiento quiropráctico?**
+Nunca recomendamos dejar medicamentos sin consultar a su médico prescriptor. Sin embargo, muchos pacientes encuentran que a medida que su función nerviosa mejora con el tratamiento quiropráctico, pueden trabajar con su médico para reducir gradualmente las dosis bajo supervisión médica.
+
+**¿Afecta el estrés emocional a la fibromialgia?**
+Absolutamente. El estrés amplifica la respuesta del sistema nervioso, agravando los síntomas. Aunque la quiropráctica no trata directamente la ansiedad, reducir la interfencia nerviosa frecuentemente mejora la resiliencia emocional del paciente.
+
 ## Su Camino Hacia Mejor Salud Comienza Aquí
 
 Vivir con fibromialgia no significa aceptar el dolor crónico como su destino. La atención quiropráctica—especialmente el enfoque integral y avanzado que ofrece el Dr. Foss—puede mejorar significativamente sus síntomas y calidad de vida. Muchos de nuestros pacientes de San Antonio con fibromialgia reportan dolor reducido, mejor sueño, energía mejorada, y mayor función general después de completar su programa de tratamiento.

@@ -189,6 +189,23 @@ El Dr. Dan Foss enfatiza la importancia de trabajar como un equipo:
 - Reporte de progreso a todos los miembros del equipo de cuidado
 - Coordinación de tratamientos para el mejor resultado
 
+## Preguntas Frecuentes
+
+**¿Puede la quiropráctica realmente ayudar con la ansiedad y la depresión?**
+Sí, absolutamente. Aunque muchas personas piensan que la ansiedad y la depresión son puramente psicológicas, tienen componentes físicos significativos. Cuando su columna vertebral está desalineada, su sistema nervioso está en constante estrés. Al restaurar la alineación correcta, especialmente en el área cervical y craneal, podemos ayudar a reducir la activación del sistema nervioso simpático y permitir que su cuerpo entre en un estado más calmado y parasimpático.
+
+**¿Cuánto tiempo tarda la quiropráctica en mejorar mi ansiedad?**
+La mayoría de nuestros pacientes notan cambios positivos dentro de las primeras 2-4 semanas de tratamiento consistente. Sin embargo, la ansiedad y depresión crónicas pueden requerir 3-6 meses para una mejora significativa. El tratamiento quiropráctica es complementario a la terapia mental y medicamentos prescritos, no un reemplazo.
+
+**¿Qué es el nervio vago y por qué es importante para la ansiedad?**
+El nervio vago es el nervio craneal más largo del cuerpo y es responsable de activar su sistema nervioso parasimpático—la respuesta de "descanso y digestión". Cuando funciona correctamente, el nervio vago lo ayuda a calmarse y relajarse. Los ajustes craneales especializados que realizamos pueden optimizar la función del nervio vago, proporcionando alivio natural de la ansiedad sin medicamentos adicionales.
+
+**¿Puedo dejar mis medicamentos para la ansiedad si recibo tratamiento quiropráctica?**
+Nunca debe descontinuar medicamentos prescritos sin consultar a su psiquiatra o médico. La quiropráctica funciona mejor en coordinación con su cuidado mental profesional. Muchos pacientes encuentran que pueden reducir gradualmente sus medicamentos bajo supervisión médica cuando se combina con nuestro tratamiento, pero esto debe ser determinado por su equipo de cuidado.
+
+**¿Qué tipo de ajustes son más efectivos para la ansiedad?**
+Los ajustes craneales son particularmente poderosos para la ansiedad porque optimizan directamente el sistema nervioso autónomo. También utilizamos la Técnica Sacro Occipital, que restaura el equilibrio entre su cráneo y su pelvis, afectando toda su respuesta al estrés. Estos ajustes trabajan con la respuesta natural de su cuerpo en lugar de imponer cambios forzados.
+
 ## Por Qué Elegir Pura Vida Chiropractic
 
 El Dr. Dan Foss ofrece:

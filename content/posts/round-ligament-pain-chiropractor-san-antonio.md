@@ -206,6 +206,23 @@ Dr. Dan Foss brings specialized expertise in prenatal chiropractic care with cre
 - Fluent in English and Spanish
 - Compassionate, supportive approach to pregnant women
 
+## Frequently Asked Questions
+
+**Is round ligament pain normal during pregnancy, or should I be worried?**
+Round ligament pain is very common and usually not dangerous—it's just painful! Your round ligaments are stretching to accommodate the growing uterus, and sometimes that stretching becomes irritating. The good news is it's highly treatable with chiropractic care. Rather than just tolerating it for nine months, we can usually provide significant relief within 1-2 weeks.
+
+**Will stretching and rest actually help round ligament pain, or do I need chiropractic care?**
+Rest can help temporarily, but it usually doesn't resolve the underlying problem—pelvic misalignment and fascial restrictions. Stretching sometimes helps, sometimes makes it worse depending on which direction you're stretching. Chiropractic care addresses the mechanical cause—realigning your pelvis, releasing the restricted fascia around the ligaments, and optimizing your overall prenatal structure. Most pregnant women get much faster, more complete relief with chiropractic care than rest alone.
+
+**Is it safe to get adjusted while pregnant, especially early in pregnancy?**
+Yes, absolutely safe. I use gentle, pregnancy-specific techniques that are safe from the first trimester through delivery. Proper prenatal adjustments don't harm the baby or pregnancy; they actually support healthier pregnancies and can facilitate easier labor. I've treated pregnant women for 23 years with excellent outcomes.
+
+**How often will I need to come in during pregnancy for round ligament pain?**
+Most pregnant women need 1-2 visits per week initially, then taper as pain improves. Some women get substantial relief within 1-2 weeks and only need occasional maintenance visits. Others need more consistent care throughout pregnancy. I'll assess you at your first visit and give you a realistic frequency recommendation based on pain severity and pregnancy stage.
+
+**Can chiropractic care also help prepare me for labor and delivery?**
+Yes. Proper pelvic alignment during pregnancy optimizes your birth canal, supports proper baby positioning, and often makes labor easier and less complicated. Many women find their prenatal chiropractic care—especially the Technique Webster if doing breech turning—makes their labor and delivery experience significantly smoother. It's one of the most valuable preventive investments you can make during pregnancy.
+
 ## Contact Us Today
 
 If you're experiencing round ligament pain during pregnancy, you don't have to suffer through it. Dr. Foss can help you find relief and enjoy your pregnancy.

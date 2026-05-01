@@ -160,6 +160,23 @@ Pura Vida Chiropractic sirve a la comunidad diversa de San Antonio con atención
 **Resultados Reales:**
 El Dr. Foss no solo maneja síntomas; ayuda a resolver la condición subyacente causándolos.
 
+## Preguntas Frecuentes
+
+**¿Qué causa el tortícolis exactamente?**
+El tortícolis (cuello torcido) es causado por espasmo o acortamiento del músculo esternocleidomastoideo—frecuentemente resultado de traumatismo de parto, dormir en posición extraña, o subluxación cervical. Los recién nacidos nacen con tortícolis congénito de traumatismo de parto. Los adultos desarrollan tortícolis de lesión aguda o crónica.
+
+**¿Es el tortícolis permanente o se resuelve solo?**
+Si es leve, puede resolverse en días. Si es moderado o severo, típicamente requiere intervención—sin tratamiento, el músculo acortado se adaptará, haciendo que sea permanente. Es crítico tratar temprano, especialmente en bebés—esperar semanas es esperar demasiado.
+
+**¿Qué tan efectiva es la quiropráctica para tortícolis?**
+Extremadamente. La quiropráctica pediátrica combinada con terapia física es cerca de 90% efectiva en recién nacidos. En adultos, es igualmente efectiva—la mayoría resuelve completamente en 2-4 semanas. La clave es comenzar inmediatamente.
+
+**¿Qué es diferente sobre el tortícolis neonatal vs adulto?**
+El tortícolis neonatal es resultado de traumatismo de parto y es altamente responsive a quiropráctica pediátrica suave. El tortícolis adulto es frecuentemente resultado de lesión aguda (accidente de auto, caída) o estrés postural crónico. Ambos responden bien, pero el neonatal tiende a responder más rápido.
+
+**¿Cuándo debería preocuparme por tortícolis de mi bebé?**
+Cualquier torsión de cuello observable después del parto justifica una evaluación quiropráctica. He visto casos donde se diagnosticó débilmente como "tortícolis normal" que resultó siendo severo sin tratamiento. La evaluación temprana es crítica para resultados óptimos.
+
 ## Tome Acción para su Hijo
 
 Si su bebé ha sido diagnosticado con tortícolis—o si ha notado que el cuello de su bebé aparece torcido o consistentemente inclinado—merece saber acerca de todas sus opciones. La atención quiropráctica pediátrica suave y especializada ha ayudado a innumerables bebés a escapar las restricciones de la tortícolis y desarrollarse normalmente.

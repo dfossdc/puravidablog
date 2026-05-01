@@ -250,6 +250,23 @@ El Dr. Foss recomienda atención regular de mantenimiento después de la recuper
 - Detectar problemas tempranamente
 - Apoyo continuo de la salud espinal
 
+## Preguntas Frecuentes
+
+**¿Cuándo puedo recibir ajustes quiroprácticos después de dar a luz?**
+Para parto vaginal sin complicaciones, puede comenzar inmediatamente—incluso días después. Los ajustes aceleran la sanación. Para cesárea, esperamos 2 semanas para que la incisión comience a sanar, pero luego comenzamos inmediatamente. Hemos tratado con seguridad pacientes posparto durante 30 años.
+
+**¿Cómo el realineamiento pelviano posparto ayuda con la incontinencia urinaria?**
+La incontinencia es causada por debilidad del piso pélvico, a menudo resultante de alineación pelviana deficiente. Realinear la pelvis quiroprácticalmente restaura la biomecánica correcta del piso pélvico. Combinado con ejercicios específicos Kegel, el 90% de las mujeres resuelven completamente la incontinencia.
+
+**¿Puedo amamantar mientras recibo ajustes quiroprácticos?**
+Totalmente seguro. Los ajustes quiroprácticos no afectan la lactancia de ninguna forma. De hecho, muchas mujeres amamantadas encuentran que los ajustes quiroprácticos alivian el dolor de cuello y hombros causados por la posición de amamantamiento—una causa común de dolor posparto.
+
+**¿Cuánto tiempo tarda la pelvis en recuperarse completamente después del parto?**
+Estructuralmente, 6-12 semanas. Funcionalmente (fuerza, estabilidad, control), 6-12 meses. Esperar la recuperación pasiva es una receta para disfunción crónica. La quiropráctica activa combinada con ejercicio personalizado acelera significativamente este proceso.
+
+**¿Qué puedo esperar durante una cita de recuperación posparto?**
+Evaluamos la alineación pelviana, sacroilíaca, y lumbar. Ajustamos según sea necesario. Prescribimos ejercicios específicos Kegel y fortalecimiento de núcleo. Evaluamos la lactancia y postura. Esto es cuidado integral posparto que la medicina convencional simplemente no ofrece.
+
 ### Ubicación y Horario
 
 Pura Vida Chiropractic está ubicada en **2318 NW Military Hwy Suite 103, San Antonio TX 78231**. Servicios completamente bilingües en inglés y español.

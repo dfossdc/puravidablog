@@ -96,6 +96,23 @@ At Pura Vida Chiropractic, we help patients with:
 - Fatigue and low energy despite adequate sleep
 - Poor wound healing and slow recovery from injury
 
+## Frequently Asked Questions
+
+**How is immune support through chiropractic different from just taking immune supplements?**
+Supplements support immune function, but they work better when your nervous system is balanced. If your spine is creating nerve interference and your autonomic nervous system is stuck in fight-or-flight, even good supplements can't overcome that dysregulation. Chiropractic removes the nervous system interference; supplements feed the immune cells that are now working properly. The combination works better than either alone.
+
+**Can chiropractic care prevent me from getting sick?**
+Not completely — you can't eliminate all exposures. But a well-functioning nervous system produces a more robust immune response, so you're less likely to get sick from exposures and you recover faster when you do. Think of it as building resilience rather than guaranteeing invulnerability.
+
+**If I'm already sick, should I wait until I'm well to start chiropractic care?**
+Actually, starting care during illness can help your body fight the infection more effectively. By reducing nerve interference and restoring parasympathetic tone, chiropractic enhances your body's ability to mount an immune response. Many patients recover faster from colds and flu when they're under care than when they're not.
+
+**How often do I need to come in for immune support?**
+That depends on your baseline health and goals. If you're dealing with chronic recurrent infections, I'd recommend 2-3 visits per week for 4-6 weeks, then stepping back to monthly maintenance. If you're interested in preventive immune support, monthly visits year-round works well for most adults.
+
+**Do supplements, diet, and sleep matter as much as chiropractic for immunity?**
+Yes, they're equally important. Sleep, stress management, whole-food nutrition, and strategic supplementation are foundational. Chiropractic removes the nervous system block so that those lifestyle factors can work optimally. All four together create the strongest immune resilience.
+
 ## Your Immune Support Journey Begins Here
 
 Your immune system is too important to leave to chance. Dr. Dan Foss and the team at Pura Vida Chiropractic are ready to help you rebuild and strengthen your natural immunity through advanced chiropractic care.

@@ -80,4 +80,24 @@ The Chapman's point findings often confirm what the spinal exam suggests — and
 - Active points feel like small, firm nodules or boggy tissue. Treatment involves sustained, gentle pressure on the anterior point.
 - CMRT-trained practitioners use Chapman's points as part of every intake assessment to identify visceral contributions to musculoskeletal complaints.
 
+## Frequently Asked Questions
+
+**How do I know if my Chapman's points are active?**
+Active Chapman's points feel distinctly tender—sharper than regular muscle soreness—and they typically feel like a small, firm pea or marble just under the skin. The tenderness is usually surprising to patients because they didn't know that spot was sore. If pressing a specific Chapman's location produces that distinctive, localized tenderness, that point is active and reflecting organ stress.
+
+**If my Chapman's point is sore, does that mean my organ is failing?**
+Not at all. An active Chapman's point means that organ is under neurological or lymphatic stress—it could be mild dysfunction, temporary inflammation, or simply overwork. It's a signal that needs attention, but it's not a diagnosis of disease. Many people have active points for years with no serious illness; the point is to normalize the reflex before dysfunction becomes entrenched.
+
+**Can I treat my own Chapman's points?**
+You can apply gentle pressure to them, which may provide some relief. But proper CMRT treatment requires specific technique—sustained, directional pressure at particular angles, often combined with spinal work. Self-treatment can help between appointments, but professional treatment is more effective for actual normalization of the reflex.
+
+**How long does it take for a Chapman's point to "turn off" after treatment?**
+Most active points soften and become less tender within 24-48 hours of treatment. Complete normalization—where the point is no longer tender at all—typically takes 3-4 weeks of consistent care, though many patients feel a shift immediately after a session. If the underlying organ issue is addressed, the point won't reactivate.
+
+**Why haven't I heard about Chapman's points before?**
+Because most chiropractors don't use them. CMRT training, which includes Chapman's point assessment, requires advanced post-graduate certification. It's genuinely specialized work. As a result, most patients never learn about this diagnostic tool—which is a shame, because it reveals so much about what's really driving their symptoms.
+
+**Can Chapman's points be active if I don't have any symptoms?**
+Yes, absolutely. Someone might have an active stomach point but not have any digestive complaints—they might just have chronic fatigue. Or an active adrenal point but attribute their tiredness to age. Chapman's assessment reveals organ stress that the patient hasn't connected to their chief complaint. This is one of the most valuable aspects of CMRT.
+
 If you've been dealing with symptoms that feel disconnected — back pain plus fatigue, or hip pain plus digestive issues — Chapman's reflex point assessment may reveal the link that's been missing. Call Pura Vida Chiropractic at **(210) 685-1994** to schedule your evaluation. We're located at 2318 NW Military Hwy #103 in San Antonio, and we offer care in both English and Spanish.

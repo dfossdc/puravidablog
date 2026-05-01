@@ -56,6 +56,23 @@ These outcomes aren't miracles. They're the natural result of what happens when 
 
 That's what chiropractic is. That's what I do. And it's the most rewarding work I can imagine.
 
+## Frequently Asked Questions
+
+**Why did you choose chiropractic as your profession?**
+Personal experience with chiropractic's effectiveness combined with my desire to help people without relying on surgery or pharmaceuticals. I witnessed how proper nervous system function transformed people's lives. Over 23 years, I've had the privilege of helping thousands of San Antonio patients achieve better health naturally. Chiropractic chose me as much as I chose it.
+
+**What makes your approach to chiropractic different from other chiropractors?**
+My advanced SOT certification, CMRT expertise, and commitment to comprehensive care distinguish my approach. Rather than just cracking backs, I address the nervous system comprehensively. I spend time understanding patients' individual situations and create personalized treatment plans. My philosophy is optimizing nervous system function so the body can heal itself—not forcing adjustments but facilitating your body's natural healing.
+
+**How much experience do you have treating my specific condition?**
+Over 23 years in practice, I've successfully treated hundreds of patients with virtually every condition you can imagine. I've refined my approach continuously, staying current with the latest research and techniques. Whatever your condition, I've likely seen similar cases and have a solid understanding of how to help. Your initial consultation lets me assess your specific situation and discuss realistic expectations.
+
+**Do you work with other doctors or medical professionals?**
+Yes, I collaborate regularly with MDs, physical therapists, and other healthcare providers. Modern healthcare benefits from multiple perspectives. I'm happy to communicate with your other doctors and coordinate your care. I respect medical expertise while offering what chiropractic care uniquely provides. This collaborative approach gives patients the best of both worlds.
+
+**Are you board-certified or have special credentials?**
+I hold an SOT Advanced certification, recognizing expertise in Sacro Occipital Technique. I maintain licensure as a Doctor of Chiropractic in Texas. I'm committed to continuing education, regularly attending advanced seminars to stay current with the latest research and techniques. These credentials represent both formal training and ongoing professional development.
+
 ---
 
 ## Ready to experience the difference?

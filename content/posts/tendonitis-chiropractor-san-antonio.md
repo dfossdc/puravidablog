@@ -143,6 +143,26 @@ For more severe or chronic cases, Class IV laser therapy and shockwave therapy a
 ### Progress Monitoring
 Regular reassessments track pain improvement, strength restoration, and functional return. Treatment is adjusted based on progress.
 
+## Frequently Asked Questions
+
+**Can tendonitis heal without surgery?**
+Yes, the vast majority of tendonitis cases heal without surgery. Tendons have remarkable healing capacity when the biomechanical dysfunction creating abnormal stress is corrected. Surgery should only be considered after conservative chiropractic care has been thoroughly attempted and failed.
+
+**Why does my tendonitis keep coming back after treatment?**
+Recurrent tendonitis usually means the underlying biomechanical dysfunction hasn't been fully corrected. If rotator cuff tendonitis keeps returning, your cervical spine or shoulder mechanics are likely still creating abnormal stress. Complete resolution requires addressing the full biomechanical chain, not just treating the tendon.
+
+**How long does tendonitis take to heal?**
+Acute tendonitis typically responds well to chiropractic care within 4-8 weeks. Chronic tendonitis with degeneration and scar tissue requires longer—8-16 weeks is common. However, tendons continue remodeling for months after pain resolves, so follow-through with prescribed exercises is important.
+
+**Why is rest alone not enough for tendonitis?**
+Rest prevents tissue stress but doesn't promote active healing. Research shows that appropriate therapeutic exercise combined with chiropractic correction actually promotes healing faster than rest alone. This is why comprehensive care produces better outcomes than rest-based approaches.
+
+**Can Class IV laser or shockwave therapy really help chronic tendonitis?**
+Yes. Class IV laser reduces inflammation, enhances blood flow to poorly vascularized tendons, and stimulates healing. Shockwave therapy breaks down scar tissue and stimulates new blood vessel formation and tissue regeneration. For chronic cases unresponsive to adjustment alone, these therapies accelerate healing significantly.
+
+**How do I know if my tendonitis is from overuse or from biomechanical problems?**
+Often it's both. Even if you are overusing a tendon, you may only develop tendonitis if your biomechanics are poor. Someone with perfect cervical spine alignment might use their rotator cuff extensively without problems, while someone with cervical misalignment develops rotator cuff tendonitis doing moderate activity. Addressing both overuse reduction and biomechanical correction produces complete relief.
+
 ## Understanding Tendon Healing: Why Tendons Take Time
 
 Tendons heal slowly because:

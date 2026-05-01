@@ -138,6 +138,23 @@ Our office at 2318 NW Military Hwy Suite 103, San Antonio TX 78231 provides a we
 
 The Pura Vida Protocol's comprehensive approach means that as you receive constipation care, you often experience improvements in other areas of health. Patients frequently report better sleep, reduced pain, improved mood, and enhanced overall wellness as a natural consequence of spinal alignment and nervous system restoration.
 
+## Frequently Asked Questions
+
+**How does the spine affect bowel function?**
+The nerves controlling your digestive system exit from the thoracic and lumbar spine. Misalignments in these areas can interfere with the nerve signals regulating bowel motility and secretions. Additionally, a dysregulated nervous system shifts toward sympathetic dominance (stress mode), which suppresses digestion. SOT and CMRT optimize these nerve pathways, allowing proper bowel function to return naturally.
+
+**Is constipation from a spinal problem or something else?**
+Constipation can have multiple causes—diet, hydration, medications, gut health—but nervous system dysfunction is a major factor often overlooked. During your evaluation, I assess whether spinal misalignment and nervous system dysregulation are contributing to your constipation. Often, they're the main issue. Addressing these factors frequently resolves constipation without laxatives or medications.
+
+**Will I need to change my diet to improve constipation?**
+Diet plays a supporting role—adequate water, fiber, and healthy fats support good bowel function. However, even with perfect diet, if your nervous system is dysregulated and your spine is misaligned, constipation persists. The primary approach is optimizing nervous system function through chiropractic care. Dietary improvements enhance results but aren't the complete solution.
+
+**How quickly does constipation improve with chiropractic care?**
+Many patients notice improvement within 1-2 weeks of starting care. Regular bowel movements often return within 3-4 weeks as nervous system function normalizes. Some patients experience faster improvement while others progress more gradually. Complete resolution typically takes 6-8 weeks of consistent care, after which maintenance visits help prevent recurrence.
+
+**Is constipation relief safe if I'm pregnant?**
+Yes, constipation during pregnancy is common and chiropractic care is safe and beneficial. I use gentle SOT techniques and avoid aggressive spinal manipulations. Proper nervous system function actually supports healthy digestion during pregnancy. Many pregnant patients experience significant constipation relief after starting care, and the improved nervous system function benefits both you and your baby.
+
 ## Take the First Step Toward Natural Bowel Health
 
 If you're tired of struggling with constipation and ready to address the underlying cause, Dr. Dan Foss at Pura Vida Chiropractic can help. Call us today at (210) 685-1994 to schedule your comprehensive digestive health evaluation.

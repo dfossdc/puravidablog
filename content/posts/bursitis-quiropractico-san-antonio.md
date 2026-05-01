@@ -170,6 +170,26 @@ Tu plan es completamente personalizado a tu tipo específico de bursitis.
 - Resultados duraderos
 - Sin efectos secundarios
 
+## Preguntas Frecuentes
+
+**¿Qué es mejor para la bursitis: inyecciones de cortisona o quiropráctica?**
+Ambas tienen un lugar. Las inyecciones de cortisona proporcionan alivio rápido del dolor (semanas a meses), pero no aborden la causa subyacente. La quiropráctica aborda la desalineación articular que está causando la fricción. Los mejores resultados a menudo vienen combinando ambas: inyección para alivio agudo, quiropráctica para curación duradera y prevención.
+
+**¿Cuánto tiempo tarda la quiropráctica en eliminar la bursitis?**
+La mayoría de los pacientes experimenta reducción del dolor del 40-60% en 1-2 semanas. En 2-4 semanas, muchos están sin dolor en movimientos normales. La resolución completa típicamente toma 1-3 meses. Los casos crónicos que han estado presentes durante años pueden tomar más tiempo, pero la mayoría ve mejora significativa rápidamente.
+
+**¿Necesitaré ejercicios para la bursitis después del tratamiento?**
+Sí, pero solo después de que la inflamación aguda se calme. El Dr. Foss proporciona ejercicios específicos para fortalecer los músculos estabilizadores alrededor de la articulación afectada. Estos ejercicios previenen recurrencia restaurando la estabilidad muscular. Sin embargo, el ejercicio agresivo durante la inflamación aguda empeora la bursitis.
+
+**¿Puedo seguir trabajando/ejercitando durante el tratamiento de bursitis?**
+Depende de la severidad. En la fase aguda, debe evitar movimientos que causan dolor. Sin embargo, el movimiento suave y sin dolor es beneficioso. El Dr. Foss proporciona modificaciones específicas para mantenerle activo mientras se cura. Volvemos a actividades normales gradualmente conforme la inflamación disminuye.
+
+**¿La bursitis volverá después del tratamiento quiropráxico?**
+La recurrencia es poco común si la biomecánica se restaura completamente. Sin embargo, si vuelve a los patrones de movimiento disfuncionales o desalineación, la bursitis puede regresar. El mantenimiento quiropráctico regular (1-2 veces al mes) previene recurrencia a largo plazo y asegura que la alineación articular se mantiene óptima.
+
+**¿Hay algo que pueda hacer en casa para acelerar la curación de la bursitis?**
+Sí. Hielo en los primeros 2-3 días reduce inflamación. Evite movimientos que causan dolor. Postura correcta es crítica. El Dr. Foss proporciona recomendaciones específicas para cada tipo de bursitis. Algunos pacientes se benefician de ejercicios suaves de estiramiento, pero solo después que el Dr. Foss los autoriza. Los antiinflamatorios pueden ayudar temporalmente, pero no reemplazan la corrección de la causa biomecánica.
+
 ## Por Qué Elegir al Dr. Dan Foss
 
 El Dr. Foss, especialista certificado avanzado en SOT, tiene experiencia extensa resolviendo bursitis de múltiples articulaciones. Su combinación de:

@@ -67,6 +67,23 @@ Plagiocephaly rarely appears alone. The same cranial bone displacement from birt
 
 I had torticollis as a child, and I know what it's like to grow up with a structural problem that shapes how you carry yourself for years before anyone identifies it. That personal history is part of why this work with infants matters so much to me. Catching these patterns early changes a child's trajectory in ways that are genuinely difficult to quantify.
 
+## Frequently Asked Questions
+
+**Isn't flat head syndrome just cosmetic, and won't it resolve on its own?**
+While some flatness improves with repositioning, the underlying cranial bone displacement—the actual cause—rarely self-corrects. That asymmetry can persist and potentially affect brain development, sensory integration, and neurodevelopment. Beyond cosmetics, addressing the cranial cause prevents long-term structural patterns. Early intervention matters tremendously.
+
+**Is it safe to adjust a newborn's skull, or will it cause damage?**
+Cranial work on infants uses only fingertip pressure—no force, no manipulation. It's actually safer for newborns than for adults because the bones are more mobile. Many babies sleep through their entire session. The work gently encourages normal bone motion; it doesn't force anything. I've treated thousands of infants safely.
+
+**Should I wait until the four-month helmet fitting, or can I start cranial care now?**
+Start now. The ideal window is under three months. The earlier we treat cranial displacement, the less extensive treatment needs to be and the more the developing brain benefits from symmetric skull development. If your pediatrician mentions plagiocephaly at your two-month visit, contact me then rather than waiting until four months.
+
+**Can cranial adjusting prevent my baby from needing a helmet?**
+Often, yes. Many babies with early plagiocephaly who receive cranial care in the first three months don't need helmets. Some do—it depends on severity and how quickly you intervene. But addressing the cranial cause may prevent or reduce the need for helmet therapy, which is expensive and constrains the baby.
+
+**Will the plagiocephaly come back after treatment, or is the correction permanent?**
+Once the cranial bones are restored to normal mobility and the baby loses their head-turning preference, the head reshapes normally with growth. Correction is typically permanent if the underlying cranial dysfunction is addressed. The key is early intervention while the skull is most plastic.
+
 ## Key Takeaways
 
 - Positional plagiocephaly is usually caused by a preferred head position, which itself is caused by cranial bone displacement from birth.

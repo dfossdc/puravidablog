@@ -146,6 +146,23 @@ Dr. Foss has successfully treated hundreds of cervicogenic headache patients sin
 
 He recognizes that cervicogenic headaches require comprehensive correction of spinal structure, cranial patterns, and neurological function—not just temporary pain relief. His patients experience lasting elimination of headaches because the actual cause is being addressed.
 
+## Frequently Asked Questions
+
+**How do I know if my headaches are cervicogenic versus migraine or tension headaches?**
+Cervicogenic headaches typically originate from the base of your skull or neck and are triggered by neck movements. Migraines involve neurological mechanisms and are often associated with nausea or light sensitivity. Tension headaches feel like pressure throughout your head. The best way to know is through proper evaluation—I'll assess whether your headaches are connected to cervical dysfunction through physical examination and testing. Many people have been mislabeled with migraines when they actually have cervicogenic headaches.
+
+**Will fixing my posture alone solve my cervicogenic headaches?**
+Better posture is important and prevents future problems, but it rarely solves existing cervicogenic headaches. Years of poor posture create structural misalignments and muscle patterns that need specific correction through adjustments and therapy. Posture improvement is part of your treatment plan, but it works best combined with SOT adjustments, cranial work, and CMRT to actually fix the cervical dysfunction causing your headaches.
+
+**Can cervicogenic headaches be prevented?**
+Yes, with proper ergonomics, posture awareness, and maintenance chiropractic care. Prevention involves addressing misalignments before they trigger headaches, maintaining healthy neck mobility, and managing stress that tightens neck muscles. Patients who maintain regular care after their initial treatment rarely experience headache recurrence. Prevention is much easier than treating chronic headaches, which is why I recommend periodic maintenance visits.
+
+**Are neck X-rays or MRI needed for cervicogenic headache treatment?**
+Often, X-rays or MRI aren't necessary if I can identify the problem through physical examination and orthopedic testing. However, imaging is valuable if I suspect disc herniation, arthritis, or other structural changes that might affect treatment planning. I'll recommend imaging if it's clinically indicated. Many patients experience complete resolution without imaging, though it provides useful confirmation in some cases.
+
+**How is cervicogenic headache treatment different from treating regular neck pain?**
+Cervicogenic headache treatment includes everything in neck pain treatment—spinal adjustments, muscle therapy, and ergonomic correction—plus specialized cranial work to address the neurological patterns creating your head pain. The integration of cervical and cranial correction is what makes treatment effective for headaches. I'm not just addressing your neck pain; I'm correcting the specific pattern creating your head pain.
+
 ## Don't Accept Chronic Headaches as Normal
 
 Cervicogenic headaches are a treatable condition. The key is recognizing that your headaches are actually symptoms of cervical spine dysfunction and addressing that dysfunction directly. With proper chiropractic care, most patients achieve significant improvement and many eliminate their headaches entirely.
