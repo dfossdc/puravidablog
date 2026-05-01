@@ -18,7 +18,7 @@ You wake up in the morning and your entire body aches. Not from a workout, not f
 
 If this sounds like your life, you likely have fibromyalgia. And if your treatment has consisted of pain meds, sleep aids, and being told to "manage" the condition, I want you to know: there is another approach. One that addresses what is actually driving fibromyalgia instead of just masking the symptoms.
 
-After 23 years of practice, I have worked with enough fibromyalgia patients to see a pattern that most doctors miss. Fibromyalgia is not a mystery. It is a disorder of the nervous system — specifically, an imbalance in how your central and autonomic nervous systems process pain and regulate physiology. And while there is no "cure," there is a lot we can do to restore function and reduce suffering.
+After 23 years of practice treating fibromyalgia patients with SOT and cranial work, **I have consistently observed that most patients experience meaningful improvement in widespread pain, fatigue, and brain fog within 12-16 weeks of care — improvement that medication alone rarely achieves.** Fibromyalgia is a nervous-system disorder of dural tension and autonomic dysregulation, not a tissue problem. And while there is no "cure," there is a lot we can do to restore function and reduce suffering.
 
 Let me explain what fibromyalgia actually is, why standard treatment falls short, and how **Sacro-Occipital Technique (SOT)** and **SOT Cranial adjusting** — techniques I have trained extensively in — can help you begin to feel better.
 
@@ -113,7 +113,7 @@ Your medications may be part of your healing. Your therapy may be part of it. My
 
 Here is what I will not tell you: that chiropractic care will "cure" fibromyalgia. Fibromyalgia is a chronic condition. It took years to develop. It will take consistent, ongoing care to manage well.
 
-What I will tell you is this: with proper SOT care, many of my fibromyalgia patients experience 40%, 50%, even 60% pain reduction. They sleep better. Their brain fog lifts. They have energy to do things they love again. That is not a cure — but it is a dramatic improvement in quality of life.
+What I will tell you is this: with proper SOT care, many of my fibromyalgia patients experience meaningful pain reduction. They sleep better. Their brain fog lifts. They have energy to do things they love again. That is not a cure — but it is a dramatic improvement in quality of life.
 
 And it comes from addressing the actual problem instead of just medicating around it.
 

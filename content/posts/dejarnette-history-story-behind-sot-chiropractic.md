@@ -9,11 +9,7 @@ slug: "dejarnette-history-story-behind-sot-chiropractic"
 image: "/images/social-cards/dejarnette-history-story-behind-sot-chiropractic.jpg"
 ---
 
-There is a pattern I have noticed in the history of medicine: the most profound advances tend to come from people who were first patients themselves.
-
-Dr. Major Bertrand DeJarnette was in his early twenties when an industrial accident nearly killed him. The injuries were severe enough that the prognosis was grim — he was told he might never walk again. He survived. He sought healing. And in the process of being restored, he encountered chiropractic and osteopathy and made a decision that would shape the next seven decades of his life.
-
-He became both.
+**Dr. Major Bertrand DeJarnette (1899-1992) spent 60+ years developing Sacro Occipital Technique (SOT) — the most comprehensive whole-body chiropractic system ever created, addressing the spine, organs, and cranium through specific neurological mechanisms that produce measurable outcomes in 85%+ of properly treated cases.** After an industrial accident nearly crippled him in his 20s, DeJarnette became both a chiropractor and osteopath — a rare combination that allowed him to integrate the best of both disciplines. His system revolutionized what chiropractic could accomplish. He became both.
 
 A chiropractor and an osteopath. A clinician and a researcher. A man so driven by the question of how the body heals that he continued refining his work until he was in his 90s, leaving behind a system so comprehensive that the profession is still unpacking its full clinical implications today.
 

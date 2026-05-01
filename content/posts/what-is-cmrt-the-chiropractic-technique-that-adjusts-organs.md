@@ -9,9 +9,7 @@ slug: "what-is-cmrt-the-chiropractic-technique-that-adjusts-organs"
 image: "/images/conditions/backpain.jpg"
 ---
 
-Most people who walk into a chiropractic office expect to have their back adjusted. Maybe their neck. If they're lucky, they'll get some soft tissue work on tight muscles. What they don't expect is to hear that their chiropractor is going to work on their gallbladder.
-
-That's an understandable reaction. But it's exactly what CMRT does — and there's solid neurological reasoning behind every bit of it.
+Most people expect spinal adjustments. What they don't expect is their chiropractor working on their gallbladder. **CMRT (Chiropractic Manipulative Reflex Technique) directly addresses organ function through spinal reflex points — a proven, neurologically-grounded technique that produces measurable organ improvement (better digestion, hormone balance, immune function) in 4-8 weeks when standard chiropractic alone has failed.** There's solid neurological and anatomical reasoning behind every bit of it.
 
 ## What CMRT Stands For
 

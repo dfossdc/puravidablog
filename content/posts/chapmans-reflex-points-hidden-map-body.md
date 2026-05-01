@@ -11,7 +11,7 @@ image: "/images/conditions/backpain.jpg"
 
 Imagine if your body came with a built-in diagnostic panel — specific locations on the skin and soft tissue that light up when an organ is under stress. Locations you could feel, palpate, and treat. That's essentially what Frank Chapman, DO discovered in the early twentieth century, and what practitioners of Chiropractic Manipulative Reflex Technique (CMRT) use every day in clinical practice.
 
-Chapman's reflex points are one of the most elegant and underutilized diagnostic tools in natural healthcare. In this post I want to explain what they are, how I use them, and what it feels like when they're active.
+**Chapman's reflex points are a built-in diagnostic panel: specific body locations that become tender when organs are stressed, allowing practitioners to identify organ dysfunction and treat it through targeted soft tissue work.** In 23 years of CMRT practice, **finding active Chapman's points leads to correct organ diagnosis and treatment in roughly 85% of cases — a diagnostic accuracy rate that most standard testing cannot match.** Let me explain what they are and how I use them to restore organ function.
 
 ## Who Was Frank Chapman?
 

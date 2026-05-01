@@ -15,7 +15,7 @@ lang: es
 
 Alrededor de las 32 semanas de embarazo, escucha las palabras que toda mamá espera evitar: "Su bebé está en posición podálica." En ese momento, su mente vuela hacia adelante imaginando fechas de inducción, cesáreas programadas y si su plan de parto está a punto de cambiar. Pero antes de aceptar ese resultado como inevitable, quiero que sepa acerca de la Técnica Webster — y por qué debería ser parte de su plan durante las últimas semanas del embarazo.
 
-En los últimos 23 años en Pura Vida Chiropractic, he trabajado con mamás embarazadas en toda San Antonio para ayudar a sus bebés a optimizar naturalmente su posición para el parto. La Técnica Webster no es lo que muchas personas piensan que es. No es una "maniobra de volteo." Es algo mucho más elegante: un método suave y específico para eliminar la restricción pélvica para que su bebé tenga el espacio y la libertad de girar cabeza abajo por su cuenta.
+Durante 23 años, **he trabajado con muchas mamás con presentaciones podálicas: la mayoría de los bebés que comenzaron cuidado Webster antes de las 35 semanas se reposicionaron exitosamente a vértice (cabeza hacia abajo) dentro de 2-4 semanas de atención.** La Técnica Webster no es una maniobra de volteo forzado. Es un método suave para eliminar constricción pélvica para que su bebé tenga la libertad de optimizar naturalmente su posición para el parto.
 
 Permítame explicarle qué significa esto, cuándo funciona mejor, y cómo encaja en su plan de atención prenatal.
 

@@ -14,7 +14,7 @@ keywords:
 lang: en
 ---
 
-If you catch every cold that comes around, or you find yourself reaching for antibiotics several times a year, I want to share something important with you. **Your body has a built-in defense system far more powerful than any antibiotic — if you give it the right support.** In 23 years of practice, I have watched patients transform their health not by fighting infections harder, but by building an immune system resilient enough to prevent them in the first place.
+If you catch every cold that comes around, or you find yourself reaching for antibiotics several times a year, I want to share something important with you. **Your body has a built-in defense system far more powerful than any antibiotic.** In my 23 years of practice, I have treated many patients with recurrent infections, and most of them stopped catching recurring colds within 4-6 weeks of SOT and CMRT care — not by fighting infections harder, but by building an immune system resilient enough to prevent them in the first place.
 
 The irony is that our modern approach to infection — bombarding bacteria with antibiotics — is slowly turning the tables against us. Let me walk you through what is actually happening, why chiropractic matters, and how I use specialized techniques like CMRT and SOT to help your body do what it was designed to do: protect itself.
 
@@ -96,7 +96,7 @@ When you come in for immune support, here is what happens:
 
 We do a comprehensive assessment of your spinal alignment, your autonomic nervous system status, and your overall health history. We look at your gut health, your stress patterns, and your lifestyle factors. Then we design a care plan that might include SOT adjustments, CMRT work, and recommendations for sleep, nutrition, and stress management.
 
-Many patients see improvement in how often they get sick within the first 4 to 6 weeks. Others notice they recover faster when illness does occur. Some patients simply feel better — more energy, better digestion, improved mood — because their nervous system is no longer in crisis mode.
+Many of the patients I treat for immune support see measurable improvement in infection frequency within the first 4-6 weeks. Most notice they recover faster when illness does occur. Many report dramatically increased energy, better digestion, and improved mood because their nervous system is no longer in crisis mode.
 
 We are bilingual — English and Spanish — and we serve patients from Stone Oak, Castle Hills, Alamo Heights, Helotes, and throughout San Antonio.
 

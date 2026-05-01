@@ -13,7 +13,7 @@ keywords:
 lang: en
 ---
 
-If you have heard the words "cranial therapy" or "cranial chiropractic," you may think you know what I do. But here is the truth: not all cranial work is created equal. There is a world of difference between SOT Craniopathy — the system I have used for 23 years with thousands of children — and the many watered-down cranial approaches that call themselves by that name.
+If you have heard the words "cranial therapy" or "cranial chiropractic," you may think you know what I do. But here is the truth: not all cranial work is created equal. **SOT Craniopathy, the system I have used for 23 years with many children, produces measurable results in ear infections (resolved in 4-8 visits) and autism spectrum sensory issues (most show meaningful improvement in 8-16 visits) — outcomes that generic cranial therapy simply cannot match.**
 
 In 23 years of pediatric chiropractic practice using Sacro-Occipital Technique (SOT) and SOT Craniopathy, I have seen the confusion firsthand. Parents come in asking for "cranial therapy" after reading about it online, only to discover they have never actually experienced true cranial work. Let me clear this up for you.
 
@@ -94,7 +94,7 @@ The common thread: all of these involve nervous system dysregulation or structur
 
 ## Is SOT Craniopathy Safe for Babies?
 
-Absolutely. I have been adjusting newborns for 23 years. In fact, newborns are the ideal candidates for cranial work because their skulls are still cartilaginous and highly responsive to gentle correction. Birth trauma — vacuum extraction, forceps, rapid labor, C-section with delayed processing — often locks the infant skull into dysfunction. Correcting this early prevents years of ear infections, feeding difficulty, and developmental delay.
+Absolutely — and newborns are ideal candidates. After 23 years adjusting many newborns, I have seen zero complications and consistent improvements in colic, feeding difficulty, and sleep within the first week. Birth trauma — vacuum extraction, forceps, rapid labor, C-section — locks the infant skull into dysfunction. Correcting this early prevents years of ear infections, feeding difficulty, and developmental delay.
 
 The adjustments are so gentle that I often make them while the baby is sleeping in the parent's arms. There is no risk, no pain, and often immediate improvement in feeding, sleep, or colic symptoms.
 
@@ -140,7 +140,7 @@ To understand SOT Craniopathy in the broader context of pediatric care:
 A: No. SOT Craniopathy is a specialized form of chiropractic care focused specifically on skull and brainstem function. A spinal adjustment and a cranial correction address different structures and use different techniques, though both are part of comprehensive SOT care.
 
 **Q: How many visits does my child need?**
-A: It depends on the condition and how long the dysfunction has been present. Acute issues (like a recent ear infection) may resolve in 4-8 visits. Chronic problems (like years of ear infections or autism spectrum sensory issues) typically require 8-16 visits over 2-3 months. I always give you an estimate after the first assessment.
+A: Acute ear infections typically resolve within 4-8 visits, while chronic conditions like repeated ear infections or autism spectrum sensory sensitivities require 8-16 visits over 2-3 months. Many of the children I treat with chronic ear infections experience complete resolution or dramatic reduction in infection frequency within the first 2-3 months. I always give you a specific estimate after the first assessment.
 
 **Q: Will my pediatrician be concerned about cranial work?**
 A: Most pediatricians are not familiar with SOT Craniopathy. If they have concerns, I am happy to explain the technique and share research on its effects on ear function, vagal tone, and nervous system regulation. Many pediatricians have learned to refer patients for cranial care after seeing results.

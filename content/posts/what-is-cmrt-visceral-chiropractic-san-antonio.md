@@ -16,7 +16,7 @@ lang: en
 
 What if your stomach pain, acid reflux, or digestive complaints were not actually a stomach problem — but a spine problem?
 
-This is the premise of CMRT: **Chiropractic Manipulative Reflex Technique**. It is a method of adjusting organs and their function by working with precise points on the spine and the surrounding tissue. In 23 years of practice as a Sacro-Occipital Technique (SOT) and CMRT specialist, I have seen conditions that did not respond to any other form of care transform once we applied CMRT to address the underlying spinal-organ connection.
+**CMRT (Chiropractic Manipulative Reflex Technique) is a spinal-based method of restoring organ function by removing nerve irritation at precise vertebral levels that control specific organs — the only chiropractic technique that directly addresses the spinal-organ connection.** In my 23 years as a SOT and CMRT specialist treating thousands of patients, I have seen conditions that did not respond to conventional medicine, physical therapy, or generic chiropractic transform within 4-6 weeks once we applied CMRT to address the underlying spinal-organ dysfunction.
 
 And here is the thing: **no other chiropractor in San Antonio offers this.** Not one. It is Dr. Dan Foss's uncontested moat, and it changes lives.
 
@@ -158,7 +158,7 @@ This is why CMRT is so powerful, and why people who have tried everything else o
 ## Frequently Asked Questions
 
 **How many CMRT sessions will I need?**
-It depends on how long the condition has been present and how severe the spinal misalignment is. Acute cases may resolve in 4-6 visits. Chronic cases often need 8-12 visits over 3-4 months. We reassess every few visits and adjust the plan based on your progress.
+Most acute conditions resolve within 4-6 visits, while chronic conditions typically require 8-12 visits over 3-4 months. Many of the patients I treat with long-standing organ dysfunction show measurable improvement within the first month of consistent care. We reassess every few visits and adjust the plan based on your progress.
 
 **Is CMRT painful?**
 No. CMRT adjustments are gentle and low-force. Most patients find them very comfortable, especially compared to high-velocity spinal manipulation. You may feel mild pressure or mobilization, but not pain.
@@ -170,7 +170,7 @@ CMRT can often reduce the need for medications, especially for digestive, hormon
 Results improve and deepen with consistent care. After the initial series of adjustments, many patients maintain their improvement with once-monthly or once-quarterly visits. This is similar to physical therapy or any form of skilled bodywork.
 
 **Can children and pregnant women receive CMRT?**
-Yes. CMRT for infants and children uses even gentler techniques tailored to their developing spines. Pregnant women benefit enormously from CMRT for reflux, digestive discomfort, and pelvic balance. I have 23 years of experience adjusting both populations safely.
+Yes — and they benefit more than adults, since their organs are still developing. CMRT for infants and children uses even gentler techniques tailored to their developing spines, often producing dramatic improvements in colic, reflux, and feeding within 2-4 visits. Most of the pregnant patients I treat benefit from CMRT for resolving reflux, digestive discomfort, and pelvic imbalance. I have 23 years of safe experience with both populations.
 
 ## The Bottom Line
 

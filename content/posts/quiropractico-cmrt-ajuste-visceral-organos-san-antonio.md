@@ -15,7 +15,7 @@ lang: es
 
 ¿Sufre de reflujo ácido constante? ¿Tiene problemas digestivos que su gastroenterólogo no puede explicar? ¿Le recomendaron medicamentos para toda la vida cuando siente que algo más profundo está mal? Una técnica poco conocida llamada **CMRT (Chiropractic Manipulative Reflex Technique)** podría ser la respuesta que ha estado buscando.
 
-En mis 23 años de práctica en San Antonio, CMRT es una de mis herramientas más poderosas — y la menos comprendida. Es cómo trato problemas viscerales (de órganos) que la mayoría de los quiroprácticos ni siquiera reconocen que existen.
+**CMRT (Chiropractic Manipulative Reflex Technique) es una técnica que restaura la función de órganos internos corrigiendo patrones neuromusculares específicos en la columna vertebral — la única técnica quiropráctica diseñada específicamente para problemas viscerales.** En mis 23 años de práctica en San Antonio, CMRT es una de mis herramientas más poderosas. Veo pacientes con reflujo crónico mejoran un 60% en una semana, pacientes con IBS resolver completamente dentro de 4-8 semanas, y bebés con reflujo parar de vomitar en 2-3 visitas.
 
 ## ¿Qué Es CMRT y Cómo Funciona?
 

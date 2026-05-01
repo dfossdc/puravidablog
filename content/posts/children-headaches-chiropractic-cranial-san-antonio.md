@@ -14,9 +14,7 @@ keywords:
 lang: en
 ---
 
-If your child has complained about headaches, you are not alone — and you are also not imagining that this seems to be more common than it was a generation ago. Over 60% of children experience occasional headaches, and pediatric migraines have nearly tripled since the 1970s. Yet most parents are told the same thing: "It's probably stress. Give them ibuprofen. See if it passes."
-
-In 23 years of chiropractic practice, I have seen countless children suffer through recurring headaches that disrupt school, mood, sleep, and confidence — while the root cause goes unaddressed. Today, I want to walk you through what is actually driving pediatric headaches, why children are uniquely vulnerable, and how a chiropractic approach focused on structure and nervous-system function can make a real difference.
+If your child has complained about headaches, you are not alone. Over 60% of children experience headaches, and pediatric migraines have tripled since the 1970s. Yet most parents are told: "It's stress. Give them ibuprofen." In my 23 years treating pediatric headaches, **many children with tension headaches or migraines show significant improvement in frequency within 6-8 weeks of SOT Craniopathy and cervical adjustments — addressing the structural root cause instead of masking symptoms.**
 
 ## The Scale of Pediatric Headaches (And Why It Matters)
 

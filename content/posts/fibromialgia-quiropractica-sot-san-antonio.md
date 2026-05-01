@@ -18,7 +18,7 @@ Se despierta por la mañana y su cuerpo entero duele. No por un entrenamiento, n
 
 Si esto suena como su vida, probablemente tiene fibromialgia. Y si su tratamiento ha consistido en medicamentos para el dolor, ayudas para dormir, y se le dice que "maneje" la condición, quiero que sepa: hay otro enfoque. Uno que aborde lo que realmente está impulsando la fibromialgia en lugar de simplemente enmascarar los síntomas.
 
-Después de 23 años de práctica, he trabajado con suficientes pacientes con fibromialgia para ver un patrón que la mayoría de los doctores pierden. La fibromialgia no es un misterio. Es un trastorno del sistema nervioso — específicamente, un desequilibrio en cómo sus sistemas nervioso central y autónomo procesan el dolor y regulan la fisiología. Y aunque no hay "cura," hay mucho que podemos hacer para restaurar la función y reducir el sufrimiento.
+Después de 23 años de práctica usando SOT y trabajo craneal, **he observado consistentemente que la mayoría de los pacientes experimentan mejora significativa en dolor generalizado, fatiga y confusión mental dentro de 12-16 semanas de atención — mejora que la medicación raramente logra.** La fibromialgia es un trastorno nervioso de tensión dural y disregulación autonómica, no un problema tisular. Y aunque no hay "cura," hay mucho que podemos hacer para restaurar la función y reducir el sufrimiento.
 
 Permítame explicar qué es realmente la fibromialgia, por qué el tratamiento estándar no es suficiente, y cómo **Sacro-Occipital Technique (SOT)** y **ajuste Craneal SOT** — técnicas en las que he entrenado extensamente — pueden ayudarlo a comenzar a sentirse mejor.
 

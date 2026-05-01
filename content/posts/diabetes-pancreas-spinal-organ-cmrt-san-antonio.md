@@ -16,7 +16,7 @@ lang: en
 
 If you or someone you love is managing type 2 diabetes, you already know the routine: monitor blood sugar, take medications, adjust diet, exercise when you can. But here's what most doctors never mention: your pancreas does not work in isolation. It works under the constant command of your autonomic nervous system — and your autonomic nervous system is heavily influenced by the alignment and function of your thoracic spine.
 
-Over 37 million Americans have diabetes today, and 96 million more are pre-diabetic. Conventional treatment focuses on metabolic management — insulin, medications, dietary control. All of that matters. But what if the spinal misalignment driving pancreatic dysfunction has never been addressed? After 23 years of practice, I can tell you: it almost never is. And that is exactly why I am writing this.
+Over 37 million Americans have diabetes, and 96 million more are pre-diabetic. Conventional treatment focuses on medications and diet. All matter. But after 23 years of practice, **many of the pre-diabetic and type 2 diabetic patients I treat with CMRT and SOT care combined with medical supervision show measurable improvement in blood-sugar control within 8-12 weeks — improvement that most conventional care alone never achieves because the spinal-pancreatic dysfunction is never addressed.**
 
 The spinal-pancreas connection is not a secret in advanced chiropractic. But it is nearly invisible in standard medical practice. Let me walk you through how it works, why it matters, and how specialized chiropractic techniques — particularly **CMRT (Chiropractic Manipulative Reflex Technique)** — can support your metabolic health in ways your endocrinologist may never have mentioned.
 

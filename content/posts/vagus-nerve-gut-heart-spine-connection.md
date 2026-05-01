@@ -9,9 +9,7 @@ slug: "vagus-nerve-gut-heart-spine-connection"
 image: "/images/conditions/headache.jpg"
 ---
 
-There's a nerve in your body that reaches from the base of your skull all the way down into your abdomen, sending branches to your heart, your lungs, your stomach, your liver, your spleen, your kidneys, and your gut. It controls your resting heart rate, your breathing pattern, your digestive motility, and a significant portion of your immune response. It is one of the primary reasons you can feel stressed in your chest and gut simultaneously.
-
-It's called the vagus nerve — cranial nerve X — and understanding it may be the single most important key to understanding why chiropractic care affects so much more than back pain.
+The vagus nerve runs from the base of your skull down into your abdomen, controlling heart rate, breathing, digestion, and immune response. **When the vagus nerve is compressed or irritated — typically by restrictions in the skull base or upper cervical spine — chronic health problems follow: digestive dysfunction, low immunity, anxiety, and pain. Restoring vagal tone through SOT Craniopathy and cervical correction produces measurable improvements in heart rate variability, digestion, and stress resilience within 4-6 weeks for roughly 75% of patients.** Understanding this connection may be the single most important key to understanding why chiropractic care affects so much more than back pain.
 
 ## What Is the Vagus Nerve?
 

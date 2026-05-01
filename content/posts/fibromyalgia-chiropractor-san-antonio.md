@@ -103,7 +103,7 @@ The key is finding a chiropractor who understands fibromyalgia's neurological co
 Fibromyalgia is absolutely a real, documented neurological disorder. Brain imaging shows that people with fibromyalgia process pain signals differently than those without it—their nervous systems amplify pain signals, and their stress neurotransmitters are dysregulated. It's not psychological, though stress can worsen it. It's a genuine nervous system dysfunction that chiropractic can often help.
 
 **Will chiropractic care cure my fibromyalgia?**
-"Cure" isn't the right word, but significant improvement is realistic for most patients. Many experience 50-80% reduction in pain and fatigue. Some achieve nearly complete symptom resolution. The goal is to reduce your nervous system's hypersensitivity and restore more normal pain processing. Consistent care and lifestyle support create lasting change.
+"Cure" isn't the right word, but significant improvement is realistic for most patients. Many experience meaningful reduction in pain and fatigue. Some achieve nearly complete symptom resolution. The goal is to reduce your nervous system's hypersensitivity and restore more normal pain processing. Consistent care and lifestyle support create lasting change.
 
 **How long does it take to feel better with chiropractic treatment?**
 Many patients notice improvement within 2-4 weeks—better sleep quality first, then reduced morning stiffness, then pain reduction. Significant improvement typically takes 8-12 weeks of consistent care. Fibromyalgia affects many body systems, so patience is important. But most see measurable progress within the first month.

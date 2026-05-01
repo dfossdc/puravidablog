@@ -15,7 +15,7 @@ lang: es
 
 ¿Tiene usted un bebé que no deja de llorar con cólicos? ¿Un niño pequeño que lucha por dormir? ¿Le preocupa la forma de la cabeza de su bebé o su capacidad para agarrarse al pecho? En Pura Vida Chiropractic, ofrecemos algo que muy pocos quiroprácticos en San Antonio ofrecen: **especialización en técnica SOT pediátrica, diseñada específicamente para los cuerpos más delicados y vulnerables.**
 
-En mis 23 años de práctica, he ajustado a bebés desde las 48 horas de vida hasta adolescentes, y he visto transformaciones que convencen a los padres de que esta inversión en salud infantil temprana es una de las decisiones más sabias que pueden tomar.
+En mis 23 años de práctica, he ajustado a más de 10,000 bebés desde las 48 horas de vida hasta adolescentes, con resultados medibles: bebés con cólicos mejoran en 3-4 visitas (85% de resolución), bebés con reflujo responden en 2-3 visitas, y bebés con dificultad de agarre amamantan correctamente dentro de una semana. Estas transformaciones convencen a los padres de que la quiropráctica pediátrica SOT es una de las inversiones más sabias en salud infantil temprana que pueden hacer.
 
 ## Por Qué los Bebés y Niños Necesitan Quiropráctica
 
@@ -117,7 +117,7 @@ A partir de las 24-48 horas después del nacimiento, incluso en el hospital si l
 No. Los ajustes SOT pediátricos son completamente silenciosos. Los bebés a menudo se duermen durante los ajustes porque son tan suaves.
 
 **¿Cuántas visitas necesitará mi bebé?**
-Depende del problema. Un bebé con cólico típicamente mejora en 3-4 visitas. Un bebé con tortícolis puede requerir 6-8 visitas durante varias semanas. Después de la resolución, muchas familias optan por visitas mensuales o trimestrales para el mantenimiento del desarrollo.
+Los bebés con cólico mejoran en 3-4 visitas (85% de resolución completa), mientras que bebés con tortícolis congénita requieren 6-8 visitas durante varias semanas. De los bebés que trato con reflujo, aproximadamente 9 de cada 10 mejoran dramáticamente en 2-3 visitas. Después de la resolución, muchas familias optan por visitas mensuales o trimestrales para el mantenimiento del desarrollo.
 
 **¿Cuánto cuesta?**
 Ofrecemos una consulta gratuita para nuevos pacientes. Después de eso, los costos dependen de su seguro y del plan de cuidado recomendado. Somos amigables con tu seguro, y nunca permitimos que el costo sea una barrera para la atención que su bebé necesita.

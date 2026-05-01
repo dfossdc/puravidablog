@@ -88,7 +88,7 @@ Yes. The autonomic nerve supply to your uterus and ovaries originates at L1-S4. 
 Most women notice changes within 1-3 menstrual cycles. Cramping often improves first—many report reduced pain within the first 4-6 weeks. Hormonal symptoms like mood changes and bloating take slightly longer, usually 8-12 weeks, because they reflect deeper hormonal pattern shifts. Patience matters here.
 
 **Will chiropractic help my hot flashes?**
-Not directly—I can't control your estrogen levels. But chiropractic helps by restoring autonomic nervous system balance, which significantly affects the *severity* and *frequency* of hot flashes. Many menopausal patients report their flashes become less intense and less frequent as their nervous system shifts toward parasympathetic dominance. Some report a 50-75% reduction in flashes.
+Not directly—I can't control your estrogen levels. But chiropractic helps by restoring autonomic nervous system balance, which significantly affects the *severity* and *frequency* of hot flashes. Many menopausal patients report their flashes become less intense and less frequent as their nervous system shifts toward parasympathetic dominance.
 
 **Do I need to keep seeing my OB-GYN while doing chiropractic?**
 Absolutely. Chiropractic is complementary, not a replacement. Your OB-GYN monitors your overall gynecological health, screens for serious pathology, and manages hormonal therapy if needed. I address the neurological piece that most gynecologists don't have training in. Both perspectives matter.

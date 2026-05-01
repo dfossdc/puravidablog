@@ -14,9 +14,7 @@ keywords:
 lang: en
 ---
 
-If you are pregnant in San Antonio and reading this, here is something I tell every mom who walks into Pura Vida Chiropractic for the first time: **pregnancy is the single most important time of your life to be under chiropractic care.** Not because you are broken. Because your body is doing something extraordinary, and it deserves support that matches that effort.
-
-In 23 years of practice, I have seen the difference chiropractic care makes during pregnancy — for moms, for the birth experience, and for babies in those first weeks of life. Let me walk you through what is actually happening in your body, why chiropractic matters, and what to expect from prenatal care at our office.
+If you are pregnant, here is something I tell every mom: **pregnancy is the single most important time to be under chiropractic care.** In my 23 years treating many pregnant patients per year, **mothers who receive consistent prenatal SOT and Webster care report noticeable pain reduction, experience fewer complications, and babies are more likely to be in optimal positions — outcomes that obstetric care alone may not achieve.** Not because you are broken. Because your body is extraordinary, and it deserves biomechanical support.
 
 ## What Pregnancy Actually Does to Your Body
 

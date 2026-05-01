@@ -207,7 +207,7 @@ He recognizes that bruxism is more than a stress response—it's a structural an
 ## Frequently Asked Questions
 
 **Will chiropractic care stop my teeth grinding completely?**
-Most patients see a dramatic reduction in grinding frequency and intensity—often 80-90% improvement within 8-10 weeks. Complete elimination depends on whether stress remains a significant trigger. If you resolve the structural dysfunction but continue high-stress habits, some grinding may persist. Addressing both the spine and the stress is key.
+Most patients see a dramatic reduction in grinding frequency and intensity within 8-10 weeks. Complete elimination depends on whether stress remains a significant trigger. If you resolve the structural dysfunction but continue high-stress habits, some grinding may persist. Addressing both the spine and the stress is key.
 
 **Can I throw away my night guard?**
 Not immediately, but many patients can once their grinding has significantly decreased. We recommend continuing the guard for a few weeks after structural improvement stabilizes, then gradually reducing use as you feel confident the grinding isn't returning. Your dentist can monitor your teeth for wear patterns to guide this.

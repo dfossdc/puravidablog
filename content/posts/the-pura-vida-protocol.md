@@ -24,7 +24,7 @@ The Pura Vida Protocol is designed for exactly this patient. It does not replace
 
 ## What Is the Pura Vida Protocol?
 
-The Pura Vida Protocol is a three-pillar whole-body chiropractic system built on the foundation of Advanced Sacro Occipital Technique (SOT). It was developed by Dr. Dan Foss — the only Advanced SOT certified chiropractor in San Antonio — to address the three major structural and physiological systems that must all be in balance for lasting health to be achieved: the spine and pelvis, the internal organs, and the cranium.
+**The Pura Vida Protocol is a three-pillar whole-body chiropractic system (SOT spine/pelvis + CMRT organs + SOT Craniopathy) that produces lasting, measurable health improvements by addressing all three systems that must be in balance for permanent healing: spinal biomechanics, organ function, and cranial-nervous system regulation.** Developed by Dr. Dan Foss — the only Advanced SOT certified chiropractor in San Antonio — the protocol treats patients whose pain keeps returning because the true drivers (organ dysfunction, cranial tension, or combined compensation patterns) were never identified.
 
 These are not three separate treatments that can be selected à la carte. They are three dimensions of one integrated system. Every visit begins with a re-assessment of SOT indicators — objective clinical findings that reveal which pillar or pillars require attention that day. Treatment follows the findings, not a preset formula. The protocol adapts as the patient improves. What dominates treatment in the first weeks may become a minor consideration months later as the body reestablishes its own equilibrium.
 

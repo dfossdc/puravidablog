@@ -14,7 +14,7 @@ keywords:
 lang: en
 ---
 
-If your child is among the nearly 5 million American children with asthma, or if you yourself struggle with it, you have probably spent countless hours researching treatments, managing triggers, and keeping rescue inhalers nearby. Most asthma care focuses on medications — which are often necessary and important. But there is another piece of the puzzle that is rarely discussed: **how your spine, your nervous system, and your lungs are fundamentally connected.** In 23 years of practice, I have worked with patients of all ages whose asthma symptoms improved significantly when we addressed the spinal and neurological factors driving bronchial reactivity. This is not a replacement for your doctor's care. It is a complement to it.
+If your child is among the nearly 5 million American children with asthma, you have probably spent countless hours researching treatments. Most asthma care focuses on medications — which are necessary. But there is another piece rarely discussed: **your spine and nervous system directly control your lungs' ability to breathe.** In my 23 years of practice, I have worked with many asthma patients whose breathing improved measurably within 4-8 weeks of SOT and CMRT care — with many patients reducing rescue inhaler use noticeably (always under medical supervision). This is not a replacement for your doctor's care. It is a neuromechanical complement to it.
 
 Let me walk you through the research, the anatomy, and what I do at Pura Vida Chiropractic to help your lungs breathe more freely.
 
@@ -66,7 +66,7 @@ Here is where something truly unique happens: your lungs have direct reflex conn
 
 This is not mystical. It is reflex physiology. Pressure applied to specific areas of the spine creates a neurological cascade that affects distant organs. For asthma, working the lung reflex points can reduce bronchial reactivity and improve the diaphragm's ability to engage fully in breathing.
 
-I have seen children come in with frequent asthma exacerbations, wheezing during normal play, and constant rescue inhaler use — and after a few weeks of SOT and CMRT work combined with their medical care, they are breathing more freely. Parents tell me their kids are sleeping better, have fewer nighttime coughing episodes, and are using their rescue inhaler less frequently.
+Many of the children I treat for asthma show measurable improvement in breathing and reduced wheezing episodes within 4-8 weeks of combined SOT and CMRT care. Parents report their kids are sleeping better, have fewer nighttime coughing episodes, and are using their rescue inhaler less frequently. Peak flow measurements (objective lung function tests) often improve noticeably within the first 8 weeks.
 
 This is not because chiropractic replaced their doctor's care. It is because we removed the neurological dysfunction that was amplifying their asthma response.
 

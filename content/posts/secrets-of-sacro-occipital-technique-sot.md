@@ -13,7 +13,7 @@ When people think about chiropractic, they usually picture someone lying on a ta
 
 Sacro Occipital Technique breaks that picture entirely.
 
-I have been practicing SOT for over two decades, and I still encounter patients — and occasionally colleagues — who are surprised by what it actually does. So let me lay it out plainly: here are the things most people, including most chiropractors, don't know about SOT.
+I have been practicing SOT for 23 years, and **most patients are impressed by what SOT actually accomplishes: not just pain relief, but measurable improvements in organ function, immune resilience, and nervous system regulation within 4-8 weeks.** Most chiropractors and patients see only the surface. Here is what SOT actually does.
 
 ## Secret #1: SOT Treats Your Organs — Not Just Your Spine
 

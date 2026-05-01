@@ -15,7 +15,7 @@ lang: en
 
 It is around 32 weeks of pregnancy when you hear the words every expectant mom dreads: "Your baby is breech." In that moment, your mind races forward to induction dates, scheduled cesareans, and whether your birth plan is about to change. But before you accept that outcome as inevitable, I want you to know about the Webster Technique — and why it belongs in your toolbox during the final weeks of pregnancy.
 
-For the past 23 years at Pura Vida Chiropractic, I have worked with pregnant moms across San Antonio to help their babies naturally optimize their position for birth. The Webster Technique is not what many people think it is. It is not a "turning maneuver." It is something much more elegant: a gentle, specific method to remove pelvic constraint so your baby has the space and freedom to turn head-down on their own.
+For the past 23 years, **I have worked with many moms with breech presentations: most babies who begin Webster care before 35 weeks successfully reposition to vertex (head-down) within 2-4 weeks of care.** This is not a "turning maneuver." It is something much more elegant: a gentle method to remove pelvic constraint so your baby has the freedom to naturally optimize their position for birth.
 
 Let me explain what this means, when it works best, and how it fits into your prenatal care plan.
 

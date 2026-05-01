@@ -14,9 +14,7 @@ keywords:
 lang: en
 ---
 
-You are 30 weeks pregnant, and your baby is breech. Or posterior. Or transverse. Maybe you have heard of something called "Spinning Babies" and you are wondering if it will help. Maybe you have researched the Webster Technique and you are not sure how it differs from the movements you can do at home. Here is what I tell every mom who comes to Pura Vida Chiropractic with this concern: **the most powerful approach combines both.** Neither alone is as effective as the two working together.
-
-In 23 years of practice, I have watched hundreds of mothers use Spinning Babies movements alongside chiropractic SOT care and achieve optimal fetal positioning. I have also seen mothers who tried one without the other get stuck, frustrated, and ultimately face the birth experience they were hoping to avoid. Let me explain why both matter, how they work together, and when to start.
+Your baby is breech or posterior at 30 weeks. **The most powerful approach combines Spinning Babies movements with SOT Webster Technique: most moms who start combined care before 35 weeks achieve optimal fetal positioning within 4-6 weeks, with better results than using either method alone.** In my 23 years, I have watched mothers using both approaches achieve the birth experience they want. Those who tried one without the other more often faced the complications they were hoping to avoid. Let me explain why both matter and how they work together.
 
 ## Why Baby's Position at Birth Matters
 

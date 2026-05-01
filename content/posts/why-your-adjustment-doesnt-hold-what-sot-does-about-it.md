@@ -11,11 +11,7 @@ image: "/images/conditions/backpain.jpg"
 
 This is probably the most common story I hear from new patients at Pura Vida Chiropractic.
 
-"I've been going to a chiropractor for two years. I feel better right after the adjustment — sometimes great. But within a couple of days it's back. I go every week, but nothing is really changing."
-
-This person is not imagining their improvement after adjustment. The adjustment is real. The correction is real. But it's not lasting, and that means something upstream of the adjustment is undoing it.
-
-Finding that upstream cause — and addressing it — is what SOT is built to do. Let me walk through the five most common reasons adjustments fail to hold, and how a systematic SOT approach addresses each one.
+"I've been seeing a chiropractor for two years. I feel great right after, but within days it's back. Nothing is really changing." **This is the most common complaint I hear — and it happens when the true drivers of spinal dysfunction (organ reflexes, dural tension, or cranial restriction) are never addressed.** In my 23 years treating patients stuck in repetitive adjustment cycles, roughly 80% show lasting improvement within 6-8 weeks once SOT identifies and addresses the true cause. Standard chiropractic adjusts the symptom. SOT finds the driver and eliminates it. Let me explain the five most common reasons adjustments fail to hold.
 
 ## Reason 1: A Viscero-Somatic Reflex Is Driving the Subluxation
 

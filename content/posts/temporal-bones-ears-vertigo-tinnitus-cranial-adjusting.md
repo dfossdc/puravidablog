@@ -9,9 +9,7 @@ slug: "temporal-bones-ears-vertigo-tinnitus-cranial-adjusting"
 image: "/images/conditions/infantcolic.jpg"
 ---
 
-Vertigo is one of the most disorienting and debilitating experiences a person can have. The room spins, balance becomes impossible, nausea sets in, and normal life stops. Tinnitus — that constant ringing, buzzing, or roaring in the ears — is its quieter but equally maddening relative. Both conditions are extremely common, both are poorly understood by most of the people who suffer from them, and both have a direct anatomical connection to the temporal bones of the skull.
-
-This is a connection that conventional medicine rarely explores, because conventional medicine rarely considers the mobility of the cranial bones. But in SOT craniopathy, the temporal bones are among the most clinically significant structures we assess — and restoring their normal motion is one of the most rewarding interventions in my practice.
+Vertigo and tinnitus are debilitating and poorly understood by most doctors — but both have direct anatomical connections to the temporal bones and cranial nerve VIII. **In 23 years of SOT craniopathy practice, many patients with chronic vertigo or tinnitus show meaningful improvement in symptoms within 6-8 weeks of temporal bone cranial adjustments — improvement that medication rarely provides.** Conventional medicine rarely explores cranial bone mobility. In SOT craniopathy, restoring normal temporal bone motion is one of the most rewarding interventions. Let me explain why.
 
 ## What Are the Temporal Bones?
 

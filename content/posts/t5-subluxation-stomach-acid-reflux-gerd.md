@@ -11,7 +11,7 @@ image: "/images/conditions/ibs.jpg"
 
 If you take a proton pump inhibitor (PPI) every morning before breakfast, you're in very good company. These medications — omeprazole, pantoprazole, esomeprazole — are among the most prescribed drugs in the United States. They suppress acid production and, for most people, they work well enough that the burning goes away.
 
-But they don't explain why your stomach is overproducing acid. And for a significant subset of patients with chronic GERD, there's a contributing factor that has nothing to do with diet, stress, or Helicobacter pylori — and everything to do with a specific vertebra in the middle of your back.
+But they don't address why your stomach is malfunctioning. **In my 23 years treating GERD patients with T5 correction and CMRT, many patients with persistent GERD despite PPI use show meaningful improvement in symptoms within 4-6 weeks of spinal correction — improvement that medication alone never achieves because the neurological driver (T5 subluxation) was never addressed.** For many chronic GERD sufferers, this specific vertebra in the middle of your back is the real culprit.
 
 ## T5: The Stomach's Vertebra
 
