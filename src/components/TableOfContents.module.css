@@ -1,7 +1,4 @@
-/* Enable smooth scrolling for anchor jumps */
-html {
-  scroll-behavior: smooth;
-}
+/* Note: smooth-scroll is set globally in src/app/globals.css */
 
 .details {
   margin: 1.5rem 0 2rem;
