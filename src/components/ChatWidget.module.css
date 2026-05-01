@@ -31,7 +31,7 @@
   z-index: 9999;
   width: 360px;
   max-width: calc(100vw - 32px);
-  height: 540px;
+  height: 580px;
   max-height: calc(100vh - 96px);
   display: flex;
   flex-direction: column;
@@ -121,19 +121,40 @@
 
 .bookCta {
   display: block;
+  width: 100%;
   text-align: center;
-  padding: 0.6rem;
+  padding: 0.7rem;
   background: #fef3c7;
   color: #78350f;
   font-weight: 600;
   font-size: 0.9rem;
   text-decoration: none;
+  border: none;
   border-top: 1px solid #fde68a;
+  cursor: pointer;
+  font-family: inherit;
 }
 
 .bookCta:hover,
 .bookCta:focus-visible {
   background: #fde68a;
+}
+
+.bookOnline {
+  display: block;
+  text-align: center;
+  padding: 0.45rem;
+  font-size: 0.78rem;
+  color: #6b7280;
+  text-decoration: none;
+  background: #fff;
+  border-top: 1px solid #f3f4f6;
+}
+
+.bookOnline:hover,
+.bookOnline:focus-visible {
+  color: #2c5530;
+  text-decoration: underline;
 }
 
 .inputRow {
@@ -192,6 +213,170 @@
   background: #fff;
 }
 
+/* Booking form */
+.form {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  background: #f9fafb;
+  overflow: hidden;
+}
+
+.formInner {
+  flex: 1;
+  overflow-y: auto;
+  padding: 0.9rem 1rem 0.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.55rem;
+}
+
+.backLink {
+  align-self: flex-start;
+  background: transparent;
+  border: none;
+  color: #2c5530;
+  font-size: 0.8rem;
+  font-weight: 600;
+  cursor: pointer;
+  padding: 0;
+  margin-bottom: 0.25rem;
+}
+
+.backLink:hover {
+  text-decoration: underline;
+}
+
+.formHeading {
+  font-weight: 700;
+  font-size: 1rem;
+  color: #111827;
+  line-height: 1.25;
+}
+
+.formSub {
+  font-size: 0.82rem;
+  color: #4b5563;
+  margin-bottom: 0.4rem;
+  line-height: 1.4;
+}
+
+.fieldLabel {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: #374151;
+}
+
+.required {
+  color: #b91c1c;
+  font-weight: 700;
+}
+
+.field {
+  padding: 0.5rem 0.7rem;
+  border: 1px solid #d1d5db;
+  border-radius: 8px;
+  font-size: 0.9rem;
+  font-family: inherit;
+  background: #fff;
+  color: #111827;
+  outline: none;
+  transition: border-color 0.15s ease;
+}
+
+.field:focus {
+  border-color: #2c5530;
+}
+
+.textarea {
+  resize: vertical;
+  min-height: 60px;
+  font-family: inherit;
+}
+
+.errorBox {
+  background: #fee2e2;
+  color: #991b1b;
+  border: 1px solid #fecaca;
+  padding: 0.5rem 0.7rem;
+  border-radius: 8px;
+  font-size: 0.82rem;
+  line-height: 1.4;
+}
+
+.submitBtn {
+  display: block;
+  width: 100%;
+  padding: 0.85rem;
+  background: #2c5530;
+  color: #fff;
+  border: none;
+  font-weight: 700;
+  font-size: 0.95rem;
+  cursor: pointer;
+  transition: background 0.15s ease;
+}
+
+.submitBtn:hover:not(:disabled) {
+  background: #1e3b21;
+}
+
+.submitBtn:disabled {
+  background: #9ca3af;
+  cursor: not-allowed;
+}
+
+.successWrap {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 1.5rem 1.5rem;
+  background: #f9fafb;
+  gap: 0.6rem;
+}
+
+.successIcon {
+  color: #2c5530;
+  margin-bottom: 0.2rem;
+}
+
+.successTitle {
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #111827;
+}
+
+.successBody {
+  font-size: 0.9rem;
+  color: #4b5563;
+  line-height: 1.5;
+  max-width: 280px;
+}
+
+.successBtn {
+  margin-top: 0.4rem;
+  padding: 0.55rem 1rem;
+  background: transparent;
+  color: #2c5530;
+  border: 1.5px solid #2c5530;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 0.85rem;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+.successBtn:hover {
+  background: #2c5530;
+  color: #fff;
+}
+
 @media (max-width: 480px) {
   .panel {
     width: calc(100vw - 16px);
@@ -201,6 +386,6 @@
     border-radius: 12px;
   }
   .launcher {
-    bottom: 76px; /* lift above the mobile sticky call bar */
+    bottom: 76px;
   }
 }

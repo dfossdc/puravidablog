@@ -20,6 +20,7 @@
     "react-is": "^18.3.1",
     "remark": "^15.0.1",
     "remark-html": "^16.0.1",
+    "resend": "^6.12.2",
     "styled-components": "^6.3.12",
     "tsx": "^4.21.0"
   },
