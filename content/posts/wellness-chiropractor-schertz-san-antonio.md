@@ -3,7 +3,7 @@ title: "Wellness Chiropractor Schertz | San Antonio TX"
 description: "Preventive wellness chiropractic care for Schertz families and active adults. Dr. Foss supports optimal health and nervous system function. Start your wellness journey today."
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"
-image: "/images/conditions/latinofamily.jpg"
+image: "/images/dr-foss-adjusting-patient.jpg"
 keywords:
   - wellness chiropractor Schertz San Antonio
   - preventive chiropractic care Schertz
