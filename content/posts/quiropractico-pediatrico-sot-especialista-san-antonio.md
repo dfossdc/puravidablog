@@ -3,7 +3,7 @@ title: "Quiropráctico Pediátrico SOT Especialista en San Antonio TX"
 description: "Especialista en técnica SOT pediátrica. El Dr. Dan Foss trata bebés y niños con cólicos, reflujo, tortícolis y problemas de desarrollo. 23 años de práctica."
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"
-image: "/images/pediatric-chiropractor.png"
+image: "/images/dr-foss-adjusting-child.webp"
 keywords:
   - quiropráctico pediátrico San Antonio
   - especialista bebés San Antonio

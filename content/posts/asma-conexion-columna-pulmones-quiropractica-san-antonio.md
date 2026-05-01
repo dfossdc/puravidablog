@@ -48,7 +48,7 @@ Uno de los hallazgos más convincentes es que los niños con asma que reciben at
 
 ¿Por qué sucede esto? Porque cuando la columna está alineada y el sistema nervioso está equilibrado, la capacidad natural de su cuerpo para regular el tono bronquial se restaura. No estamos "tratando" el asma. Estamos removiendo la interferencia neurológica que estaba haciendo el asma peor.
 
-![Ajuste quiropráctico para apoyo respiratorio en Pura Vida San Antonio](/images/pediatric-chiropractor.png)
+![Ajuste quiropráctico para apoyo respiratorio en Pura Vida San Antonio](/images/dr-foss-adjusting-child.webp)
 
 ## SOT: Restaurando el Equilibrio Autónomo
 

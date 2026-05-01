@@ -3,7 +3,7 @@ title: "SOT Craniopathy vs Traditional Cranial Chiropractic | San Antonio TX"
 description: "Learn the difference between SOT Craniopathy and conventional cranial techniques. Dr. Dan Foss explains why DeJarnette's system is distinct and more effective for children."
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"
-image: "/images/pediatric-chiropractor.png"
+image: "/images/dr-foss-adjusting-child.webp"
 keywords:
   - SOT Craniopathy San Antonio
   - cranial chiropractic San Antonio

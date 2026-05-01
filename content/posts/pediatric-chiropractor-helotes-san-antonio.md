@@ -3,7 +3,7 @@ title: "Pediatric Chiropractor Helotes | San Antonio TX"
 description: "Gentle pediatric chiropractic for Helotes children. Dr. Dan Foss treats newborns through teens with specialized techniques. Just 15 minutes from Helotes. Free consultation."
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"
-image: "/images/pediatric-chiropractor.png"
+image: "/images/dr-foss-adjusting-child.webp"
 keywords:
   - pediatric chiropractor Helotes San Antonio
   - children chiropractor near Helotes
