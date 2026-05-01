@@ -328,6 +328,117 @@
   background: #f0f7ff;
 }
 
+/* ── How it works (3-step "What to expect") ───────────── */
+.howItWorks {
+  padding: 4rem 1.25rem 5rem;
+  background: #f0f7ff;
+}
+
+.howEyebrow {
+  text-align: center;
+  font-size: 0.85rem;
+  font-weight: 800;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: #146BA6;
+  margin-bottom: 0.6rem;
+}
+
+.howSub {
+  text-align: center;
+  color: #555;
+  font-size: 1.05rem;
+  line-height: 1.6;
+  max-width: 720px;
+  margin: 0.75rem auto 3rem;
+}
+
+.howSteps {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.howStep {
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 2rem 1.5rem;
+  box-shadow: 0 4px 20px rgba(20, 107, 166, 0.08);
+  text-align: center;
+  position: relative;
+  border: 1px solid rgba(20, 107, 166, 0.12);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.howStep:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 28px rgba(20, 107, 166, 0.16);
+}
+
+.howStepNumber {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background: #146BA6;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.7rem;
+  font-weight: 900;
+  margin: 0 auto 1.25rem;
+  box-shadow: 0 4px 14px rgba(20, 107, 166, 0.3);
+}
+
+.howStepTitle {
+  font-size: 1.25rem;
+  color: var(--color-text);
+  margin-bottom: 0.85rem;
+}
+
+.howStepBody {
+  color: #555;
+  line-height: 1.65;
+  font-size: 0.98rem;
+  margin: 0;
+}
+
+.howCtaWrap {
+  text-align: center;
+  margin-top: 3rem;
+}
+
+.howCta {
+  display: inline-block;
+  background: #fb8e28;
+  color: #ffffff;
+  font-weight: 800;
+  font-size: 1.1rem;
+  padding: 1rem 2.5rem;
+  border-radius: 6px;
+  text-decoration: none;
+  box-shadow: 0 4px 14px rgba(251, 142, 40, 0.35);
+  transition: background 0.2s, transform 0.15s;
+}
+
+.howCta:hover {
+  background: #e07a18;
+  color: #ffffff;
+  transform: translateY(-2px);
+}
+
+@media (max-width: 768px) {
+  .howSteps {
+    grid-template-columns: 1fr;
+    gap: 1.25rem;
+  }
+  .howStep {
+    padding: 1.75rem 1.25rem;
+  }
+}
+
 .aboutInner {
   max-width: 1100px;
   margin: 0 auto;

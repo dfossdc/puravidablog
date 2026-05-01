@@ -34,6 +34,7 @@ const staticPages = [
   "videos",
   "terms", "healthcare-disclaimer", "book-now",
   "provider-referral",
+  "conditions", // /conditions index page (categorized directory)
 ];
 
 // Pages that only exist at /es/ (Spanish-language SEO landing pages).

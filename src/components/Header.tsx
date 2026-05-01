@@ -118,7 +118,7 @@ const conditionLinks = {
     { label: "Shoulder Pain",          href: "/conditions/shoulder-arm-pain" },
     { label: "Hip Pain",               href: "/conditions/hip-knee-foot-ankle" },
     { label: "Plantar Fasciitis",      href: "/conditions/plantar-fasciitis" },
-    { label: "All Conditions →",       href: "/conditions/lower-back-pain" },
+    { label: "All Conditions →",       href: "/conditions" },
   ],
   es: [
     { label: "Dolor de Espalda",           href: "/conditions/lower-back-pain" },
@@ -135,7 +135,7 @@ const conditionLinks = {
     { label: "Dolor de Hombro",            href: "/conditions/shoulder-arm-pain" },
     { label: "Dolor de Cadera",            href: "/conditions/hip-knee-foot-ankle" },
     { label: "Fascitis Plantar",           href: "/conditions/plantar-fasciitis" },
-    { label: "Ver Todas las Condiciones →", href: "/conditions/lower-back-pain" },
+    { label: "Ver Todas las Condiciones →", href: "/conditions" },
   ],
 };
 

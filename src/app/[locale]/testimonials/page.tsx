@@ -486,7 +486,7 @@ export default async function TestimonialsPage({ params }: Props) {
             <Link href={`/${locale}/services/chiropractic-care`} className={styles.ctaSecondary}>
               {isEs ? "Ver Servicios →" : "Explore Services →"}
             </Link>
-            <Link href={`/${locale}/conditions/lower-back-pain`} className={styles.ctaSecondary}>
+            <Link href={`/${locale}/conditions`} className={styles.ctaSecondary}>
               {isEs ? "Ver Condiciones →" : "View Conditions →"}
             </Link>
           </div>

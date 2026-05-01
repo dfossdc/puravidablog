@@ -478,7 +478,73 @@ export default async function HomePage({ params }: Props) {
           </div>
         </section>
 
-        {/* Wave: About (#F4F9FF) → Stats (#0d1f2d) */}
+        {/* ── WHAT TO EXPECT — 3-step patient journey ────── */}
+        <section className={styles.howItWorks}>
+          <div className={styles.sectionInner}>
+            <p className={styles.howEyebrow}>
+              {isEs ? "Su Primer Visita" : "Your First Visit"}
+            </p>
+            <h2 className={styles.sectionTitle}>
+              {isEs ? "Qué Esperar en Pura Vida Chiropractic" : "What to Expect at Pura Vida Chiropractic"}
+            </h2>
+            <p className={styles.howSub}>
+              {isEs
+                ? "Tres pasos simples — sin sorpresas, sin presión. Comenzamos con una conversación gratuita, no con un compromiso de tratamiento."
+                : "Three simple steps — no surprises, no pressure. We start with a conversation, not a commitment to treatment."}
+            </p>
+
+            <div className={styles.howSteps}>
+              <div className={styles.howStep}>
+                <div className={styles.howStepNumber}>1</div>
+                <h3 className={styles.howStepTitle}>
+                  {isEs ? "Consulta Gratuita" : "Free Consultation"}
+                </h3>
+                <p className={styles.howStepBody}>
+                  {isEs
+                    ? "Una conversación gratuita, sin compromiso, en nuestra oficina. Hablamos sobre sus preocupaciones de salud y determinamos si el cuidado quiropráctico es adecuado para usted. Si no podemos ayudarle, lo guiaremos al proveedor correcto."
+                    : "A free, no-commitment sit-down in our office. We discuss your health concerns and determine whether chiropractic care is the right fit. If we can't help you, we'll guide you to the provider who can."}
+                </p>
+              </div>
+
+              <div className={styles.howStep}>
+                <div className={styles.howStepNumber}>2</div>
+                <h3 className={styles.howStepTitle}>
+                  {isEs ? "Examen Integral" : "Comprehensive Exam"}
+                </h3>
+                <p className={styles.howStepBody}>
+                  {isEs
+                    ? "Si podemos ayudarle, realizamos un examen ortopédico, neurológico y físico completo, además de radiografías digitales si están indicadas. El Dr. Foss identifica la causa raíz, no solo los síntomas."
+                    : "If we can help, we perform a thorough orthopedic, neurological, and physical exam — plus digital X-rays if indicated. Dr. Foss identifies the root cause, not just the symptoms."}
+                </p>
+              </div>
+
+              <div className={styles.howStep}>
+                <div className={styles.howStepNumber}>3</div>
+                <h3 className={styles.howStepTitle}>
+                  {isEs ? "Plan de Cuidado Personalizado" : "Personalized Care Plan"}
+                </h3>
+                <p className={styles.howStepBody}>
+                  {isEs
+                    ? "El Dr. Foss revisa los hallazgos con usted y diseña un plan de cuidado específico — usando SOT, CMRT, terapia SoftWave y láser Clase IV cuando sea apropiado. La atención comienza solo cuando usted está listo."
+                    : "Dr. Foss reviews the findings with you and designs a tailored care plan — using SOT, CMRT, SoftWave therapy, and Class IV laser as appropriate. Care begins only when you're ready."}
+                </p>
+              </div>
+            </div>
+
+            <div className={styles.howCtaWrap}>
+              <a
+                href="https://puravidasanantonio.com/special/"
+                className={styles.howCta}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                {isEs ? "Reservar Mi Consulta Gratis →" : "Book My Free Consultation →"}
+              </a>
+            </div>
+          </div>
+        </section>
+
+        {/* Wave: How-it-works (#F4F9FF) → Stats (#0d1f2d) */}
         <WaveDown fill="#0d1f2d" />
 
         {/* ── STATS / IMPACT ────────────────────────── */}
@@ -659,7 +725,7 @@ export default async function HomePage({ params }: Props) {
             </div>
             <div className={styles.conditionsViewAllWrap}>
               <Link
-                href={`/${locale}/conditions/lower-back-pain`}
+                href={`/${locale}/conditions`}
                 className={styles.conditionsViewAll}
               >
                 {isEs ? "Ver Todas las 90+ Condiciones →" : "View All 90+ Conditions We Treat →"}

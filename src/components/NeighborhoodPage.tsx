@@ -205,7 +205,7 @@ export default async function NeighborhoodPage({
             </div>
             <div className={styles.conditionsViewAllWrap}>
               <Link
-                href={`/${locale}/conditions/lower-back-pain`}
+                href={`/${locale}/conditions`}
                 className={styles.viewAllLink}
               >
                 {isEs ? "Ver Todas las 90+ Condiciones →" : "View All 90+ Conditions →"}
