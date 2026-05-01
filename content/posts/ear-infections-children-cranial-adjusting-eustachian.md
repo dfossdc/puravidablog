@@ -6,7 +6,7 @@ tags: ["ear infections", "otitis media", "cranial adjusting", "children", "pedia
 author: "Dr. Dan Foss DC"
 lang: "en"
 slug: "ear-infections-children-cranial-adjusting-eustachian"
-image: "/images/conditions/infantcolic.jpg"
+image: "/images/kidscranial.jpg"
 ---
 
 If you are the parent of a child who has had three, four, five ear infections in a single year, you know the exhausting cycle. Fever, fussiness, a middle-of-the-night trip to urgent care, another round of antibiotics, a week of improvement, and then — a few weeks later — it starts again.

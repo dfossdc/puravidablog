@@ -3,7 +3,7 @@ title: "Quiropráctico Pediátrico y Prenatal en San Antonio, TX | Dr. Dan Foss"
 description: "El Dr. Dan Foss en Pura Vida Quiropráctica ofrece cuidado quiropráctico pediátrico y prenatal seguro en San Antonio — desde recién nacidos hasta madres embarazadas."
 date: "2026-03-31"
 author: "Dr. Dan Foss, DC"
-image: "/images/conditions/infantcolic.jpg"
+image: "/images/kidscranial.jpg"
 keywords:
   - quiropráctico pediátrico San Antonio
   - quiropráctico prenatal San Antonio TX
