@@ -26,8 +26,73 @@ export interface PostFrontmatter {
   mentions?: PostMention[];
 }
 
+export interface FaqItem {
+  question: string;
+  answer: string;
+}
+
 export interface Post extends PostFrontmatter {
   content: string;
+  faqs: FaqItem[];
+}
+
+/**
+ * Extract FAQ Q&A pairs from a post's raw markdown body.
+ * Looks for an FAQ section (`## Frequently Asked Questions`, `## Preguntas
+ * Frecuentes`, or `## FAQ`, with optional trailing words), then collects
+ * `**Question?**` lines followed by their answer paragraph until the next
+ * H2 heading.
+ *
+ * Returns [] if no FAQ section is present.
+ */
+export function extractFaqs(markdown: string): FaqItem[] {
+  const FAQ_HEADING_RE = /^##\s+(Frequently Asked Questions|Preguntas Frecuentes|FAQ)\b/i;
+  const NEXT_H2_RE = /^##\s+/;
+  const Q_RE = /^\*\*(.+?)\*\*\s*$/;
+
+  const lines = markdown.split(/\r?\n/);
+  const items: FaqItem[] = [];
+  let inFaqSection = false;
+  let currentQuestion: string | null = null;
+  let answerLines: string[] = [];
+
+  const flush = () => {
+    if (currentQuestion) {
+      const answer = answerLines.join(" ").replace(/\s+/g, " ").trim();
+      if (answer) items.push({ question: currentQuestion.trim(), answer });
+    }
+    currentQuestion = null;
+    answerLines = [];
+  };
+
+  for (const rawLine of lines) {
+    const line = rawLine.trimEnd();
+    if (FAQ_HEADING_RE.test(line)) {
+      inFaqSection = true;
+      continue;
+    }
+    if (!inFaqSection) continue;
+    if (NEXT_H2_RE.test(line)) {
+      flush();
+      inFaqSection = false;
+      continue;
+    }
+    const qMatch = line.match(Q_RE);
+    if (qMatch) {
+      flush();
+      currentQuestion = qMatch[1];
+      continue;
+    }
+    if (currentQuestion) {
+      if (line.trim() === "") {
+        if (answerLines.length > 0) flush();
+      } else {
+        answerLines.push(line.trim());
+      }
+    }
+  }
+  flush();
+  return items;
 }
 
 function getPostFiles(): string[] {
@@ -66,6 +131,7 @@ export async function fetchPostBySlug(slug: string, lang: string): Promise<Post 
 
   const processed = await remark().use(remarkHtml).process(content);
   const htmlContent = processed.toString();
+  const faqs = extractFaqs(content);
 
   return {
     title: data.title || "",
@@ -78,6 +144,7 @@ export async function fetchPostBySlug(slug: string, lang: string): Promise<Post 
     slug,
     lang: postLang,
     content: htmlContent,
+    faqs,
     mentions: Array.isArray(data.mentions) ? data.mentions : undefined,
   };
 }

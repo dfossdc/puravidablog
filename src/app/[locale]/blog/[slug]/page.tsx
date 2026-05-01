@@ -94,6 +94,22 @@ export default async function BlogPost({ params }: Props) {
     ...(post.mentions ? { mentions: post.mentions } : {}),
   };
 
+  const faqSchema =
+    post.faqs.length > 0
+      ? {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: post.faqs.map(({ question, answer }) => ({
+            "@type": "Question",
+            name: question,
+            acceptedAnswer: {
+              "@type": "Answer",
+              text: answer,
+            },
+          })),
+        }
+      : null;
+
   const relatedPosts = getRelatedPosts(slug, locale);
 
   return (
@@ -104,6 +120,12 @@ export default async function BlogPost({ params }: Props) {
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
         />
+        {faqSchema && (
+          <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+          />
+        )}
         <article className={styles.article}>
           <Link href={`/${locale}/blog`} className={styles.back}>
             {isEs ? "← Volver al blog" : "← Back to blog"}
