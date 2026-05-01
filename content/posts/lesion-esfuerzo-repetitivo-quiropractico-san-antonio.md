@@ -3,7 +3,7 @@ title: "Lesión por Esfuerzo Repetitivo | Quiropráctica en San Antonio, TX"
 description: "Trata lesiones por esfuerzo repetitivo con el Dr. Dan Foss en Pura Vida Chiropractic. SOT avanzado, CMRT y protocolo integral para alivio."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"
-image: "/images/conditions/rsi.jpg"
+image: "/images/conditions/carpal-tunnel.jpg"
 keywords:
   - lesión por esfuerzo repetitivo
   - síndrome del túnel carpiano

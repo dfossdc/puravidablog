@@ -3,7 +3,7 @@ title: "RSI Chiropractor in San Antonio, TX | Dr. Dan Foss"
 description: "Dr. Dan Foss treats repetitive strain injury in San Antonio using SOT protocols, CMRT, and Class IV laser therapy for lasting relief."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"
-image: "/images/conditions/rsi.jpg"
+image: "/images/conditions/carpal-tunnel.jpg"
 keywords:
   - repetitive strain injury chiropractor
   - RSI treatment San Antonio
