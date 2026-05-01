@@ -6,7 +6,7 @@ tags: ["CMRT", "immune system", "spleen", "lungs", "allergies", "respiratory", "
 author: "Dr. Dan Foss DC"
 lang: "en"
 slug: "chiropractic-immune-system-spleen-lungs-respiratory"
-image: "/images/conditions/sinuscongestion.jpg"
+image: "/images/dr-foss-adjust-sinus.jpg"
 ---
 
 Every fall and winter in San Antonio, patients start calling about the same things: sinus congestion, chest tightness, recurrent colds that never quite go away, allergies from cedar pollen that make life miserable from November through February. And every year, I have the same conversation — about why some people get hammered by every bug that comes around while others seem to shake things off, and what chiropractic actually has to do with immune resilience.

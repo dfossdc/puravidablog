@@ -3,7 +3,7 @@ title: "Asthma and Chiropractic"
 description: "Asthma is a chronic disease marked by inflammation and narrowing of the airways of the lungs, resulting in the symptoms of wheezing, chest tightness, shortness of breath and coughing. The effects of a"
 date: "2023-05-03"
 author: "Dr. Dan Foss, DC"
-image: "/images/conditions/sinuscongestion.jpg"
+image: "/images/dr-foss-adjust-sinus.jpg"
 keywords:
   - chiropractor San Antonio
   - asthma and chiropractic

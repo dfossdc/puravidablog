@@ -1,6 +1,6 @@
 ---
 title: "Can Chiropractic Help With Asthma? What the Research (and 23 Years of Experience) Says"
-image: "/images/conditions/sinuscongestion.jpg"
+image: "/images/dr-foss-adjust-sinus.jpg"
 date: "2026-04-02"
 lang: "en"
 slug: "chiropractic-asthma-san-antonio"
