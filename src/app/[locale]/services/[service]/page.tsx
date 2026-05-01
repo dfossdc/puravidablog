@@ -611,6 +611,31 @@ export default async function ServicePage({ params }: Props) {
     },
   };
 
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: isEs ? "Inicio" : "Home",
+        item: `${BASE_URL}/${locale}`,
+      },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: isEs ? "Servicios" : "Services",
+        item: `${BASE_URL}/${locale}/services`,
+      },
+      {
+        "@type": "ListItem",
+        position: 3,
+        name: data.title,
+        item: `${BASE_URL}/${locale}/services/${service}`,
+      },
+    ],
+  };
+
   const relatedConditions = getConditionsTreatedByService(service, locale, 3);
   const relatedPosts = getRelatedPostsByKeywords(data.keywords || [], locale, 3);
   const relatedItems = [...relatedConditions, ...relatedPosts];
@@ -622,6 +647,10 @@ export default async function ServicePage({ params }: Props) {
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaJson) }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
         />
         <div className={styles.container}>
           <nav className={styles.breadcrumb}>

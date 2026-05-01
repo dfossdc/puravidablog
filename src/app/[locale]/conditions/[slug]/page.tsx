@@ -168,12 +168,41 @@ export default async function ConditionPage({
     },
   };
 
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: isEs ? "Inicio" : "Home",
+        item: `${BASE_URL}/${locale}`,
+      },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: isEs ? "Condiciones" : "Conditions",
+        item: `${BASE_URL}/${locale}/conditions`,
+      },
+      {
+        "@type": "ListItem",
+        position: 3,
+        name: conditionName,
+        item: `${BASE_URL}/${locale}/conditions/${slug}`,
+      },
+    ],
+  };
+
   return (
     <>
       <Header locale={locale as "en" | "es"} currentPath={`/conditions/${slug}`} />
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(medicalConditionSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
       />
       <div className={styles.page}>
       {/* Hero */}

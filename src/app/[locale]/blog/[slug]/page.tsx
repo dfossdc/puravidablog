@@ -132,6 +132,34 @@ export default async function BlogPost({ params }: Props) {
         }
       : null;
 
+  // BreadcrumbList — Google may render this as breadcrumbs in mobile SERPs
+  // and AI engines use it to understand page hierarchy. Castle Hills
+  // Chiropractic emits this via Schema Pro; we hadn't yet.
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: isEs ? "Inicio" : "Home",
+        item: `${BASE_URL}/${locale}`,
+      },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: "Blog",
+        item: `${BASE_URL}/${locale}/blog`,
+      },
+      {
+        "@type": "ListItem",
+        position: 3,
+        name: post.title,
+        item: `${BASE_URL}/${locale}/blog/${slug}`,
+      },
+    ],
+  };
+
   const relatedPosts = getRelatedPosts(slug, locale);
 
   return (
@@ -148,6 +176,10 @@ export default async function BlogPost({ params }: Props) {
             dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
           />
         )}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+        />
         <article className={styles.article}>
           <Link href={`/${locale}/blog`} className={styles.back}>
             {isEs ? "← Volver al blog" : "← Back to blog"}
