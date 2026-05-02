@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { notFound } from "next/navigation";
+import { notFound, redirect } from "next/navigation";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import {
@@ -74,7 +74,19 @@ export default async function SotSubPage({ params }: Props) {
   const { locale, slug } = await params;
   const lang = (locale === "es" ? "es" : "en") as "en" | "es";
   const page = await fetchSotPageBySlug(slug, lang);
-  if (!page) notFound();
+
+  // Wrong-locale safety net (mirrors blog/[slug]/page.tsx). If a SOT page
+  // doesn't exist at the requested locale but does at the other, redirect
+  // permanently to the canonical locale instead of 404. Prevents the same
+  // wrong-locale 404 pattern Semrush flagged on blog posts.
+  if (!page) {
+    const otherLang = lang === "es" ? "en" : "es";
+    const otherPage = await fetchSotPageBySlug(slug, otherLang);
+    if (otherPage) {
+      redirect(`/${otherLang}/sot/${slug}`);
+    }
+    notFound();
+  }
 
   const siblings = fetchSotPages(lang).filter(
     (p) => p.slug !== "pillar" && p.slug !== slug

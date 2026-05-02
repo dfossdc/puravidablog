@@ -209,6 +209,14 @@ const nextConfig = {
       { source: "/en/que-es-un-quiropractico", destination: "/es/que-es-un-quiropractico", permanent: true },
       { source: "/en/huesero-san-antonio", destination: "/es/huesero-san-antonio", permanent: true },
 
+      // ── External backlink typo redirects ──
+      // External sites have linked to us with misspelled slugs. Without these
+      // redirects, those links 404 and we lose the backlink equity. Add new
+      // entries here as Semrush surfaces them.
+      // "deprenion" should be "depresion" (Spanish for "depression")
+      { source: "/en/blog/ansiedad-deprenion-quiropractico-san-antonio", destination: "/es/blog/ansiedad-depresion-quiropractico-san-antonio", permanent: true },
+      { source: "/es/blog/ansiedad-deprenion-quiropractico-san-antonio", destination: "/es/blog/ansiedad-depresion-quiropractico-san-antonio", permanent: true },
+
       // ── Canonical consolidation: collapse duplicate English service slugs ──
       // The services route has multiple slugs that point to the same content
       // (e.g. /services/pediatric-chiropractor + /services/pediatric-chiropractic).

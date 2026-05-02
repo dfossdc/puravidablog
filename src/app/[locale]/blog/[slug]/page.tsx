@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { notFound } from "next/navigation";
+import { notFound, redirect } from "next/navigation";
 import Image from "next/image";
 import Link from "next/link";
 import { fetchPostBySlug, fetchAllSlugs } from "@/lib/posts";
@@ -84,7 +84,21 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 export default async function BlogPost({ params }: Props) {
   const { locale, slug } = await params;
   const post = await fetchPostBySlug(slug, locale);
-  if (!post) notFound();
+
+  // Wrong-locale safety net: when a blog post doesn't exist at the requested
+  // locale but DOES exist at the other locale (i.e. somebody linked
+  // /en/blog/{spanish-slug} to a Spanish-only post), permanently redirect to
+  // the post's canonical locale instead of 404. Semrush previously flagged
+  // 479 wrong-locale 404s — this auto-resolves them and any future ones
+  // without needing per-slug redirect rules in next.config.mjs.
+  if (!post) {
+    const otherLocale = locale === "es" ? "en" : "es";
+    const otherPost = await fetchPostBySlug(slug, otherLocale);
+    if (otherPost) {
+      redirect(`/${otherLocale}/blog/${slug}`);
+    }
+    notFound();
+  }
 
   const isEs = locale === "es";
   const formattedDate = new Date(post.date).toLocaleDateString(
