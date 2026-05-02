@@ -6,7 +6,37 @@ Format: most recent run at top.
 
 ---
 
-## 2026-05-01 — Quota exceeded, 0 URLs submitted
+## 2026-05-01 (evening retry) — 4 URLs submitted, 6 already indexed
+
+After the morning quota block, retried in the evening. Quota had reset.
+
+**Submitted (4):**
+- /en/blog/antibiotic-resistance-chiropractic-immune-support — was "Discovered, not indexed", now in priority queue
+- /es/blog/dolores-de-cabeza-en-ninos-quiropractica-craneal-san-antonio — was "Discovered, not indexed"
+- /en/blog/childrens-immune-system-chiropractic-cmrt-san-antonio — was "Crawled, not indexed" (Google crawled this morning at 6:38 AM but didn't index)
+- /es/blog/diabetes-pancreas-conexion-columna-organo-cmrt-san-antonio — was "Discovered, not indexed"
+
+**Already indexed (6) — saved quota:**
+- /es/blog/resistencia-antibioticos-quiropractica-sistema-inmune ✅
+- /en/blog/asthma-spinal-lung-connection-chiropractic-san-antonio ✅
+- /es/blog/asma-conexion-columna-pulmones-quiropractica-san-antonio ✅
+- /en/blog/children-headaches-chiropractic-cranial-san-antonio ✅
+- /es/blog/sistema-inmune-ninos-quiropractica-cmrt-san-antonio ✅
+- /en/blog/diabetes-pancreas-spinal-organ-cmrt-san-antonio ✅
+
+**Queued for next run (top of priority queue, in order):**
+- (continue with pregnancy-research posts: /en/blog/why-pregnancy-is-the-most-important-time-for-chiropractic-care, /es equivalent, /en/blog/webster-technique-breech-babies-san-antonio, etc.)
+- Then 28 newly-shipped pages (hyperlocal + Spanish landing) from latest commit batch — most likely "Discovered, not indexed" since Vercel deploy was just hours ago
+- Then 5 neighborhood landing pages (Stone Oak, Castle Hills, Alamo Heights, Helotes, Olmos Park)
+
+**Notes:**
+- 6 of 10 inspected were already indexed in Google — strong indexation rate. The Spanish bilingual pages are getting picked up fast.
+- "Crawled - currently not indexed" on /en/blog/childrens-immune-system... is worth watching — Google is seeing the page and choosing not to index, which usually clears in 1-2 weeks.
+- Quota slots remaining today: ~6. Could submit a few more if needed but stopped here per evening wrap.
+
+---
+
+## 2026-05-01 (morning) — Quota exceeded, 0 URLs submitted
 
 **Property used:** `https://puravidasanantonio.com/` (URL-prefix property — the sc-domain variant doesn't exist for this account; first-run note about access was wrong, the URL-prefix property loads fine).
 
