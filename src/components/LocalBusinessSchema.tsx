@@ -54,8 +54,16 @@ export default function LocalBusinessSchema() {
       "Shavano Park TX",
       "Boerne TX",
     ],
-    "medicalSpecialty": "Chiropractic",
-    "availableLanguage": ["English", "Spanish"],
+    "contactPoint": [
+      {
+        "@type": "ContactPoint",
+        "telephone": "+12106851994",
+        "contactType": "customer service",
+        "availableLanguage": ["English", "Spanish"],
+        "areaServed": "US-TX",
+      },
+    ],
+    "knowsLanguage": ["English", "Spanish"],
     "hasMap": "https://maps.google.com/?q=Pura+Vida+Chiropractic+2318+NW+Military+Hwy+San+Antonio+TX",
     "founder": {
       "@type": "Person",
