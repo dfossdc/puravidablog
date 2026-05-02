@@ -106,7 +106,7 @@ const faqs = [
   {
     en: {
       q: "Who is the best chiropractor in San Antonio TX?",
-      a: "The 'best' chiropractor depends on your specific needs. Pura Vida Chiropractic is consistently rated among the top chiropractors in San Antonio with 147+ five-star Google reviews, an Advanced SOT certification (rare in the area), 23+ years of experience under Dr. Dan Foss, DC, and bilingual care. Book a free evaluation at (210) 685-1994 to see if we're the right fit.",
+      a: "The 'best' chiropractor depends on your specific needs. Pura Vida Chiropractic is consistently rated a top chiropractor in San Antonio with 147+ five-star Google reviews, an Advanced SOT certification (rare in the area), 23+ years of experience under Dr. Dan Foss, DC, and bilingual care. Book a free evaluation at (210) 685-1994 to see if we're the right fit.",
     },
     es: {
       q: "¿Quién es el mejor quiropráctico en San Antonio TX?",
@@ -278,7 +278,7 @@ export default async function BestChiropractorPage({ params }: Props) {
             <p className={styles.p}>
               {isEs
                 ? "No le pediremos que confíe en nuestra palabra — aquí están los hechos verificables que hacen que Pura Vida Chiropractic sea reconocido entre los mejores quiroprácticos en San Antonio:"
-                : "We won't ask you to take our word for it — here are the verifiable facts that make Pura Vida Chiropractic recognized among the best chiropractors in San Antonio:"}
+                : "We won't ask you to take our word for it — here are the verifiable facts that make Pura Vida Chiropractic recognized as a top chiropractor in San Antonio:"}
             </p>
             <ul className={styles.checkList}>
               {whyPuraVida.map((w, i) => (

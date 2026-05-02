@@ -29,7 +29,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       : "Chiropractor in San Antonio TX | Best Chiropractor Near Me | Pura Vida",
     description: isEs
       ? "El Dr. Dan Foss — mejor quiropráctico en San Antonio TX. Ajuste quiropráctico San Antonio, terapia SoftWave, láser Clase IV. Quiropráctico cerca de mí en Stone Oak, Castle Hills, Alamo Heights y Helotes. Técnica SOT, quiropráctico que habla español, más de 23 años de experiencia. ¡Evaluación quiropráctica gratis San Antonio!"
-      : "Pura Vida Chiropractic — top-rated chiropractors in San Antonio TX. Dr. Dan Foss DC offers chiropractic adjustment, SoftWave therapy, Class IV laser. Chiropractor near me serving Stone Oak, Castle Hills, Alamo Heights, and Helotes. SOT chiropractic, Spanish-speaking chiropractors in San Antonio TX, 23+ years experience. Free evaluation!",
+      : "Pura Vida Chiropractic — top-rated chiropractor in San Antonio TX. Dr. Dan Foss DC offers chiropractic adjustment, SoftWave therapy, Class IV laser. Chiropractor near me serving Stone Oak, Castle Hills, Alamo Heights, and Helotes. SOT chiropractic, Spanish-speaking chiropractor in San Antonio TX, 23+ years experience. Free evaluation!",
     keywords: isEs
       ? ["quiropráctico San Antonio", "mejor quiropráctico San Antonio TX", "quiropráctico cerca de mí", "ajuste quiropráctico San Antonio", "quiropráctica SOT San Antonio", "quiropráctico que habla español San Antonio", "terapia SoftWave San Antonio", "láser Clase IV San Antonio"]
       : ["chiropractor San Antonio", "chiropractors in San Antonio TX", "chiropractor in San Antonio TX", "best chiropractor San Antonio TX", "chiropractor near me San Antonio", "chiropractic adjustment San Antonio", "SOT chiropractic San Antonio", "SoftWave therapy San Antonio", "Class IV laser San Antonio", "Spanish speaking chiropractor San Antonio"],
@@ -348,8 +348,8 @@ export default async function HomePage({ params }: Props) {
               </h1>
               <p className={styles.heroSub}>
                 {isEs
-                  ? "Pura Vida Chiropractic — la única práctica con certificación SOT Avanzada entre los quiroprácticos en San Antonio, TX. Como el chiropractor en San Antonio bilingüe que muchas familias hispanas buscan, tratamos la columna vertebral, los órganos y el cráneo como un sistema integrado, en inglés y español."
-                  : "Pura Vida Chiropractic — the only Advanced SOT-certified chiropractor in San Antonio, TX. As one of the few bilingual and Hispanic-friendly chiropractors in San Antonio, Dr. Dan Foss treats the spine, organs, and cranium as one connected system, in English and Spanish."}
+                  ? "Pura Vida Chiropractic — la única práctica con certificación SOT Avanzada entre los quiroprácticos en San Antonio, TX. Como el chiropractor bilingüe en San Antonio que sirve a la comunidad hispana, tratamos la columna vertebral, los órganos y el cráneo como un sistema integrado, en inglés y español."
+                  : "Pura Vida Chiropractic — the only Advanced SOT-certified chiropractor in San Antonio, TX. As a bilingual chiropractor in San Antonio who serves the Hispanic community, Dr. Dan Foss treats the spine, organs, and cranium as one connected system, in English and Spanish."}
               </p>
               <div className={styles.heroTrust}>
                 <span className={styles.heroTrustItem}>⭐ {isEs ? "147+ Reseñas 5 Estrellas" : "147+ Five-Star Reviews"}</span>
@@ -679,7 +679,7 @@ export default async function HomePage({ params }: Props) {
             <p className={styles.whySub}>
               {isEs
                 ? "El Dr. Foss es uno de los pocos quiroprácticos en San Antonio con Certificación SOT Avanzada. El Protocolo Pura Vida ha ayudado a decenas de miles de pacientes."
-                : "Dr. Foss is one of the few chiropractors in San Antonio with Advanced SOT Certification through SORSI. The Pura Vida Protocol has helped tens of thousands of patients."}
+                : "Dr. Foss is the only Advanced SOT-certified chiropractor in San Antonio (certified through SORSI). The Pura Vida Protocol has helped tens of thousands of patients."}
             </p>
             <div className={styles.pillarsGrid}>
               {(isEs
