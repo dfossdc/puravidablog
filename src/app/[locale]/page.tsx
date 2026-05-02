@@ -26,7 +26,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: isEs
       ? "Quiropráctico San Antonio TX | Mejor Quiropráctico | Pura Vida Chiropractic"
-      : "Chiropractors in San Antonio TX | Best Chiropractor Near Me | Pura Vida Chiropractic",
+      : "Chiropractor in San Antonio TX | Best Chiropractor Near Me | Pura Vida",
     description: isEs
       ? "El Dr. Dan Foss — mejor quiropráctico en San Antonio TX. Ajuste quiropráctico San Antonio, terapia SoftWave, láser Clase IV. Quiropráctico cerca de mí en Stone Oak, Castle Hills, Alamo Heights y Helotes. Técnica SOT, quiropráctico que habla español, más de 23 años de experiencia. ¡Evaluación quiropráctica gratis San Antonio!"
       : "Pura Vida Chiropractic — top-rated chiropractors in San Antonio TX. Dr. Dan Foss DC offers chiropractic adjustment, SoftWave therapy, Class IV laser. Chiropractor near me serving Stone Oak, Castle Hills, Alamo Heights, and Helotes. SOT chiropractic, Spanish-speaking chiropractors in San Antonio TX, 23+ years experience. Free evaluation!",
@@ -339,15 +339,17 @@ export default async function HomePage({ params }: Props) {
           <div className={styles.heroInner}>
             <div className={styles.heroText}>
               <p className={styles.heroEyebrow}>
-                {isEs ? "Quiropráctico Bilingüe en San Antonio, TX" : "Top-Rated Chiropractors in San Antonio, TX — Bilingual Care"}
+                {isEs
+                  ? "Quiropráctico Bilingüe en San Antonio, TX — Hispanic Chiropractor in San Antonio"
+                  : "Top-Rated Chiropractor in San Antonio, TX — Bilingual & Hispanic-Owned Chiropractic Care"}
               </p>
               <h1 className={styles.heroTitle}>
                 {isEs ? "No Solo Ajustamos su Espalda. Tratamos Todo su Sistema." : "We Don't Just Adjust Your Back. We Treat Your Whole System."}
               </h1>
               <p className={styles.heroSub}>
                 {isEs
-                  ? "Pura Vida Chiropractic — la única práctica con certificación SOT Avanzada entre los quiroprácticos en San Antonio, TX. Tratamos la columna vertebral, los órganos y el cráneo como un sistema integrado, en inglés y español."
-                  : "Pura Vida Chiropractic — among chiropractors in San Antonio, TX, we are the only Advanced SOT certified practice. Treating the spine, organs, and cranium as one connected system, in English and Spanish."}
+                  ? "Pura Vida Chiropractic — la única práctica con certificación SOT Avanzada entre los quiroprácticos en San Antonio, TX. Como el chiropractor en San Antonio bilingüe que muchas familias hispanas buscan, tratamos la columna vertebral, los órganos y el cráneo como un sistema integrado, en inglés y español."
+                  : "Pura Vida Chiropractic — the only Advanced SOT-certified chiropractor in San Antonio, TX. As one of the few bilingual and Hispanic-friendly chiropractors in San Antonio, Dr. Dan Foss treats the spine, organs, and cranium as one connected system, in English and Spanish."}
               </p>
               <div className={styles.heroTrust}>
                 <span className={styles.heroTrustItem}>⭐ {isEs ? "147+ Reseñas 5 Estrellas" : "147+ Five-Star Reviews"}</span>
@@ -373,7 +375,7 @@ export default async function HomePage({ params }: Props) {
             <div className={styles.heroImageWrap}>
               <Image
                 src="/images/hero-dr-foss.webp"
-                alt={isEs ? "Dr. Dan Foss Quiropráctico San Antonio TX" : "Dr. Dan Foss Chiropractor San Antonio TX"}
+                alt={isEs ? "Dr. Dan Foss — Quiropráctico en San Antonio, TX" : "Dr. Dan Foss — Chiropractor in San Antonio, TX"}
                 fill
                 className={styles.heroImg}
                 priority

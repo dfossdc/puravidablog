@@ -38,6 +38,14 @@ interface ServiceData {
   videos?: string[];
   body: string[];
   schema: object;
+  /**
+   * Optional FAQ block rendered after the body. When present, also emits a
+   * FAQPage JSON-LD schema for rich-snippet eligibility. Use 4-8 questions,
+   * answers ~50-150 words each. Question phrasing should match natural
+   * search queries (e.g. "Is chiropractic safe for kids?" not "Pediatric
+   * safety considerations").
+   */
+  faqs?: Array<{ q: string; a: string }>;
 }
 
 type ServiceMap = Record<string, ServiceData>;
@@ -86,17 +94,54 @@ const services: Record<"en" | "es", ServiceMap> = {
       schema: { "@type": "MedicalProcedure", "name": "Auto Injury Chiropractic Care", "procedureType": "Chiropractic" },
     },
     "pediatric-chiropractor": {
-      title: "Pediatric Chiropractor San Antonio | Pura Vida Chiropractic",
-      description: "Dr. Dan Foss is a pediatric chiropractor in San Antonio, TX. Gentle SOT chiropractic care for kids from newborns to teenagers. Free consultation.",
-      keywords: ["pediatric chiropractor San Antonio", "child chiropractor San Antonio", "kids chiropractic San Antonio TX", "pediatric chiropractor San Antonio TX", "infant chiropractor San Antonio", "children chiropractor near me San Antonio"],
-      h1: "Pediatric Chiropractor in San Antonio",
+      title: "Pediatric Chiropractor in San Antonio TX | Pura Vida Chiropractic",
+      description: "Pediatric chiropractor in San Antonio, TX. Dr. Dan Foss provides gentle SOT chiropractic for newborns, infants, kids, and teens. 23+ years experience, bilingual, free first visit. (210) 685-1994.",
+      keywords: ["pediatric chiropractor San Antonio", "pediatric chiropractor in San Antonio", "child chiropractor San Antonio", "kids chiropractic San Antonio TX", "pediatric chiropractor San Antonio TX", "infant chiropractor San Antonio", "children chiropractor near me San Antonio", "newborn chiropractic San Antonio", "baby chiropractor San Antonio"],
+      h1: "Pediatric Chiropractor in San Antonio, TX",
       image: "/images/dr-foss-adjusting-child.webp",
       videos: ["https://www.youtube.com/embed/fipTPhQ8ARw", "https://www.youtube.com/embed/j_RHsJ0_EzE"],
       body: [
-        "Dr. Foss is a **San Antonio Pediatric Chiropractor** who specializes in chiropractic care for kids from newborns through teenagers. Kids love to run, jump, and play — but the cumulative impact of childhood activity, poor posture, and digital device use can cause spinal misalignments that affect their health for years to come.",
-        "As a pediatric chiropractor, I sometimes get calls from parents asking whether their child is too young to receive chiropractic care. The answer is always the same — it's never too early. The spine develops until around age 25, and most damage done by age 18 is very difficult to correct. Early evaluation and care sets the foundation for lifelong spinal health.",
-        "When working with kids, Dr. Foss takes a lighthearted approach that engages the child and makes treatment feel comfortable. Even very young children warm up quickly once they understand how chiropractic puts the body back in proper alignment. Adjustments for children are extremely gentle — using only the pressure of a light fingertip touch for infants and toddlers.",
-        "**Why children need chiropractic more often than you think:** Children as young as 8 years old spend hours hunching over smartphones, slouching at computers, and sitting in poorly positioned furniture. These habits place enormous stress on developing spines and can cause nervous system interference when left unaddressed. Dr. Foss explains spinal health in age-appropriate terms that stick with children well into adulthood.",
+        "Dr. Dan Foss is a **pediatric chiropractor in San Antonio** who has spent 23+ years specializing in gentle chiropractic care for kids — newborns, infants, toddlers, school-age children, and teenagers. At Pura Vida Chiropractic on NW Military Hwy, we use Sacro-Occipital Technique (SOT) and cranial protocols specifically adapted for developing spines, which means adjustments are dramatically gentler than what most adults associate with chiropractic care.",
+        "Kids love to run, jump, climb, and fall — but the cumulative impact of childhood play, poor posture, backpack weight, and screen time can cause spinal misalignments that compound silently over years. The earlier those patterns are identified and corrected, the less work the body has to do later. Many parents bring kids to our **pediatric chiropractor in San Antonio** practice for a single specific concern (an ear infection, a sleep issue, a sports injury) and end up making it part of their family's regular wellness routine.",
+        "<h2>Ages we treat — and what's appropriate for each</h2>",
+        "**Newborns and infants (birth–12 months).** Birth itself is often the most physical event a baby experiences — and even uncomplicated vaginal deliveries can leave subtle cervical and cranial restrictions. We use light fingertip pressure (the same force you'd use to test a ripe tomato) to address torticollis, latching difficulties, colic patterns, and the cranial asymmetries sometimes seen as a flat spot developing on the back of the head. Many San Antonio pediatricians refer infants to us when standard interventions aren't moving the needle.",
+        "**Toddlers and preschoolers (1–5 years).** This is the age of repeated falls, climbing accidents, and the early signs of postural patterns. Kids this age tolerate adjustments very well because we adapt completely to their attention span — short visits, lots of play language, parent involvement throughout. Common reasons parents bring this age group: chronic ear infections, sleep difficulties, bedwetting, recurring constipation, and developmental milestone concerns.",
+        "**School-age children (6–12 years).** The single biggest issue we see in this age group is **device posture** — hours on phones, tablets, school iPads, and gaming consoles. By age 8, many kids already show signs of forward-head posture and rounded shoulders that used to be exclusively adult-onset patterns. Pediatric chiropractic care during this window prevents a lot of compounding damage. We also see growing pains, sports injuries, headaches that nobody can explain, and concentration issues that have a postural-neurological component.",
+        "**Teenagers (13–18 years).** Adolescent scoliosis screening, sports performance, headache patterns, and the postural fallout from heavy backpacks plus device use. Teens often respond very quickly to chiropractic because their bodies are still highly adaptable. We're transparent with teens about what we're doing and why — most of them become engaged participants in their own care once they understand it.",
+        "<h2>How a first visit works for kids</h2>",
+        "First visits at our **pediatric chiropractor in San Antonio** office are free and last about 30 minutes. We talk with you about your child's history (birth, milestones, current concerns), do a gentle hands-on assessment, and explain what we found in plain language. If chiropractic care is appropriate, we explain the plan — typical visit count, technique we'd use, expected timeline. If it isn't, we say so and refer to whoever can help. Parents are present and involved throughout every visit; nothing happens behind closed doors.",
+        "<h2>Why SOT pediatric care is gentler than what you might be picturing</h2>",
+        "If you've ever had a chiropractic adjustment that involved a popping sound, you're picturing high-velocity adult work. Pediatric SOT is a completely different physical experience. Most of what we do with infants and young children is held pressure, gentle traction, and light cranial contacts — no popping, no sudden movements, no loud noises. Older kids may experience an occasional standard adjustment but always at a force calibrated to their size and tolerance. The whole approach is designed around what works for developing nervous systems, not adult ones.",
+        "<h2>Conditions parents bring kids in for</h2>",
+        "The most common reasons San Antonio parents bring children to a pediatric chiropractor: **chronic ear infections** (especially after several rounds of antibiotics haven't resolved them), **sleep difficulties** in infants and toddlers, **colic and feeding issues** in newborns, **bedwetting** past the typical age of resolution, **constipation** that hasn't responded to dietary changes, **headaches** in school-age kids and teens, **sports injuries** and recovery, **concentration and focus** concerns with a postural component, **scoliosis screening** for adolescents, and **postural correction** for the device-generation kids who are showing adult-pattern problems by age 10.",
+        "<h2>What makes our approach different</h2>",
+        "Two things. First: SOT certification. The Sacro-Occipital Research Society International (SORSI) is the only chiropractic organization with a pediatric-specific advanced certification track, and Dr. Foss is one of a small number of San Antonio chiropractors with Advanced SOT credentials. The technique was originally developed for fragile patients (early 1900s, working with patients other practitioners had given up on), so the pediatric application is a natural fit. Second: 23 years of pattern recognition specifically with San Antonio families — we know what works for our patient population, what local pediatricians are looking for in referrals, and how to explain things to multilingual households.",
+      ],
+      faqs: [
+        {
+          q: "Is chiropractic safe for kids and babies?",
+          a: "Yes — pediatric chiropractic care is exceptionally safe when performed by a chiropractor trained in pediatric-specific techniques. The pressure used on an infant is roughly equivalent to what you'd use to test a ripe tomato. Adverse events are extremely rare; the most common 'side effect' is that babies often sleep deeply afterward. Dr. Foss has Advanced SOT certification through SORSI, which has a pediatric-specific training track.",
+        },
+        {
+          q: "What's the youngest age you'll see for pediatric chiropractic in San Antonio?",
+          a: "We see newborns within the first few days of life, particularly when there's a known birth-related concern (long labor, vacuum extraction, C-section, torticollis, latching issues). Earlier evaluation usually means faster resolution because the baby's nervous system hasn't yet adapted to the restriction.",
+        },
+        {
+          q: "How is pediatric chiropractic different from adult chiropractic?",
+          a: "Three big differences. First, the force is dramatically lower — most pediatric work is held pressure and light contact, not the popping adjustments adults associate with chiropractic. Second, the techniques used (SOT cranial work, low-force adjusting) are specifically designed for developing spines. Third, visit length and approach are adapted to the child's age — toddler visits look more like play than treatment.",
+        },
+        {
+          q: "How many visits will my child need?",
+          a: "Depends on what brought them in. An acute issue (recent fall, single ear infection) often resolves in 3-6 visits. Chronic patterns (recurrent infections, postural correction, sleep) typically need 8-12 visits over 6-10 weeks, then a maintenance schedule. We give you a clear plan and timeline at the first visit and check in along the way — if something's not working we change the approach or refer out.",
+        },
+        {
+          q: "Do you take insurance for pediatric chiropractic?",
+          a: "We are insurance friendly. Bring your insurance card and ID to the office and we'll verify how your insurance can contribute to your child's care.",
+        },
+        {
+          q: "Where in San Antonio is your pediatric chiropractor office located?",
+          a: "We're at 2318 NW Military Hwy Suite 103, San Antonio, TX 78231 — easy to reach from Stone Oak, Castle Hills, Alamo Heights, Olmos Park, Helotes, Shavano Park, Boerne, and central San Antonio. Free parking. Call (210) 685-1994 to schedule your child's free first visit.",
+        },
       ],
       schema: { "@type": "MedicalProcedure", "name": "Pediatric Chiropractic Care", "procedureType": "Chiropractic" },
     },
@@ -766,14 +811,73 @@ export default async function ServicePage({ params }: Props) {
           )}
 
           <div className={styles.body}>
-            {data.body.map((para, i) => (
-              <p key={i} dangerouslySetInnerHTML={{
-                __html: para
-                  .replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>")
-                  .replace(/\[(.+?)\]\((.+?)\)/g, '<a href="$2">$1</a>')
-              }} />
-            ))}
+            {data.body.map((para, i) => {
+              // Render strings starting with <h2 or <h3 directly as block
+              // headings (no <p> wrapper). Lets service data inline section
+              // headings without rendering invalid <p><h2> nesting.
+              if (/^<h[23]\b/i.test(para)) {
+                return (
+                  <div
+                    key={i}
+                    dangerouslySetInnerHTML={{ __html: para }}
+                  />
+                );
+              }
+              return (
+                <p key={i} dangerouslySetInnerHTML={{
+                  __html: para
+                    .replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>")
+                    .replace(/\[(.+?)\]\((.+?)\)/g, '<a href="$2">$1</a>')
+                }} />
+              );
+            })}
           </div>
+
+          {/* Optional FAQ block + FAQPage JSON-LD for rich snippets. Only
+              renders when the service data declares a `faqs` array. */}
+          {data.faqs && data.faqs.length > 0 && (
+            <>
+              <script
+                type="application/ld+json"
+                dangerouslySetInnerHTML={{
+                  __html: JSON.stringify({
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    mainEntity: data.faqs.map((f) => ({
+                      "@type": "Question",
+                      name: f.q,
+                      acceptedAnswer: { "@type": "Answer", text: f.a },
+                    })),
+                  }),
+                }}
+              />
+              <section style={{ marginTop: "2.5rem" }}>
+                <h2 style={{ fontSize: "1.5rem", color: "#1a3a4a", marginBottom: "1rem" }}>
+                  {isEs ? "Preguntas Frecuentes" : "Frequently Asked Questions"}
+                </h2>
+                <div style={{ display: "flex", flexDirection: "column", gap: "0.75rem" }}>
+                  {data.faqs.map((f, i) => (
+                    <details
+                      key={i}
+                      style={{
+                        border: "1px solid #d6e4f0",
+                        borderRadius: "8px",
+                        padding: "0.75rem 1rem",
+                        background: "#fafbfd",
+                      }}
+                    >
+                      <summary style={{ cursor: "pointer", fontWeight: 600, color: "#1a3a4a", fontSize: "1.05rem" }}>
+                        {f.q}
+                      </summary>
+                      <p style={{ marginTop: "0.5rem", lineHeight: 1.65, color: "#333" }}>
+                        {f.a}
+                      </p>
+                    </details>
+                  ))}
+                </div>
+              </section>
+            </>
+          )}
 
           {data.videos && data.videos.length > 0 && (
             <div style={{display:"grid",gridTemplateColumns:"repeat(auto-fit,minmax(300px,1fr))",gap:"1.5rem",margin:"2rem 0"}}>
