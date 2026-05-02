@@ -6,7 +6,23 @@ import styles from "./Header.module.css";
 
 interface HeaderProps {
   locale: "en" | "es";
+  /**
+   * Slug of the current blog post, in the CURRENT locale. Used as a fallback
+   * for the language-switcher when `translatedSlug` is not provided. Note: if
+   * the other locale's slug differs from this one (which it usually does for
+   * paired EN/ES posts), the switcher will hit a wrong-locale URL and trigger
+   * the runtime safety-net redirect — emitting a 308 that Semrush flags as
+   * an extra hop. ALWAYS pass `translatedSlug` when available.
+   */
   currentSlug?: string;
+  /**
+   * Slug of the SAME post in the OTHER locale. When set, the language
+   * switcher links directly to this slug — no wrong-locale redirect needed.
+   * If unset on a paired post the switcher falls back to `currentSlug`; if
+   * unset and the post has no other-locale counterpart at all, the switcher
+   * routes to `/[other-locale]/blog` so users at least land on a real page.
+   */
+  translatedSlug?: string;
   currentPath?: string;
 }
 
@@ -139,12 +155,22 @@ const conditionLinks = {
   ],
 };
 
-export default function Header({ locale: rawLocale, currentSlug, currentPath }: HeaderProps) {
+export default function Header({ locale: rawLocale, currentSlug, translatedSlug, currentPath }: HeaderProps) {
   const locale: "en" | "es" = rawLocale === "es" ? "es" : "en";
   const otherLocale = locale === "en" ? "es" : "en";
 
+  // Build the language-switcher destination. Priority:
+  //   1. translatedSlug — direct, no redirect (best — eliminates 307/308)
+  //   2. currentSlug    — same slug at other locale; safety net 308s if absent
+  //   3. currentPath    — non-blog pages; same path under other locale
+  //   4. /[locale]      — final fallback to homepage
+  // Semrush issue #109 flagged 899 temporary redirects from language-switch
+  // links that ignored translatedSlug. Always pass translatedSlug from blog
+  // pages where post.translatedSlug is set.
   let langHref: string;
-  if (currentSlug) {
+  if (translatedSlug) {
+    langHref = `/${otherLocale}/blog/${translatedSlug}`;
+  } else if (currentSlug) {
     langHref = `/${otherLocale}/blog/${currentSlug}`;
   } else if (currentPath !== undefined) {
     langHref = `/${otherLocale}${currentPath}`;

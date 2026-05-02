@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { notFound, redirect } from "next/navigation";
+import { notFound, permanentRedirect } from "next/navigation";
 import Image from "next/image";
 import Link from "next/link";
 import { fetchPostBySlug, fetchAllSlugs } from "@/lib/posts";
@@ -113,11 +113,17 @@ export default async function BlogPost({ params }: Props) {
   // the post's canonical locale instead of 404. Semrush previously flagged
   // 479 wrong-locale 404s — this auto-resolves them and any future ones
   // without needing per-slug redirect rules in next.config.mjs.
+  //
+  // Use permanentRedirect (308) NOT redirect (307) — Semrush issue #109
+  // flagged 899 of these as "temporary" because Next.js redirect() defaults
+  // to 307. 308 tells Google + Semrush this is a permanent canonical move,
+  // which is the correct semantic since the slug is fundamentally tied to
+  // its language (Spanish slug = Spanish post, forever).
   if (!post) {
     const otherLocale = locale === "es" ? "en" : "es";
     const otherPost = await fetchPostBySlug(slug, otherLocale);
     if (otherPost) {
-      redirect(`/${otherLocale}/blog/${slug}`);
+      permanentRedirect(`/${otherLocale}/blog/${slug}`);
     }
     notFound();
   }
@@ -214,7 +220,11 @@ export default async function BlogPost({ params }: Props) {
 
   return (
     <>
-      <Header locale={locale as "en" | "es"} currentSlug={slug} />
+      <Header
+        locale={locale as "en" | "es"}
+        currentSlug={slug}
+        translatedSlug={post.translatedSlug}
+      />
       <main className={styles.main}>
         <script
           type="application/ld+json"
