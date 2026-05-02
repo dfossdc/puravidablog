@@ -565,21 +565,66 @@ export async function generateStaticParams() {
   return params;
 }
 
+// EN ↔ ES service slug map. Used to emit correct cross-language hreflangs
+// because EN and ES services live at DIFFERENT slugs (e.g. /en/services/auto-injury
+// vs /es/services/lesiones-de-auto). Previous hreflang logic assumed both
+// locales used the same slug, so /en/services/auto-injury linked to
+// /es/services/auto-injury — which 308-redirects to /es/services/lesiones-de-auto.
+// Semrush flagged 18 'Hreflang redirect (308)' errors from this mismatch.
+// Mirrors the redirect rules in next.config.mjs (lines 234-253).
+const SERVICE_SLUG_TRANSLATIONS: Record<string, string> = {
+  // EN → ES
+  "sot-chiropractic": "quiropractica-sot",
+  "softwave-therapy": "terapia-softwave",
+  "auto-injury": "lesiones-de-auto",
+  "pediatric-chiropractor": "quiropractico-pediatrico",
+  "prenatal-chiropractor": "quiropractico-prenatal",
+  "pregnancy-chiropractor": "quiropractico-embarazo",
+  "infants-chiropractic": "quiropractico-infantes",
+  "pediatric-prenatal": "quiropractica-pediatrica",
+  "shockwave-therapy": "terapia-ondas-de-choque",
+  "class-iv-laser": "laser-clase-iv",
+  // ES → EN (reverse)
+  "quiropractica-sot": "sot-chiropractic",
+  "terapia-softwave": "softwave-therapy",
+  "lesiones-de-auto": "auto-injury",
+  "quiropractico-pediatrico": "pediatric-chiropractor",
+  "quiropractico-prenatal": "prenatal-chiropractor",
+  "quiropractico-embarazo": "pregnancy-chiropractor",
+  "quiropractico-infantes": "infants-chiropractic",
+  "quiropractica-pediatrica": "pediatric-prenatal",
+  "terapia-ondas-de-choque": "shockwave-therapy",
+  "laser-clase-iv": "class-iv-laser",
+};
+
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale, service } = await params;
   const data = services[locale as "en" | "es"]?.[service];
   if (!data) return {};
+  // Resolve cross-language slug — falls back to same slug if translation
+  // doesn't exist (covers services with identical EN/ES slugs).
+  const otherLang = locale === "es" ? "en" : "es";
+  const otherSlug = SERVICE_SLUG_TRANSLATIONS[service] ?? service;
+  const enSlug = locale === "en" ? service : otherSlug;
+  const esSlug = locale === "es" ? service : otherSlug;
+  // Only emit alternate hreflang if the OTHER locale actually has this service
+  const otherHasService = !!services[otherLang as "en" | "es"]?.[otherSlug];
   return {
     title: data.title,
     description: data.description,
     keywords: data.keywords,
     alternates: {
       canonical: `${BASE_URL}/${locale}/services/${service}`,
-      languages: {
-        en: `${BASE_URL}/en/services/${service}`,
-        es: `${BASE_URL}/es/services/${service}`,
-        "x-default": `${BASE_URL}/en/services/${service}`,
-      },
+      languages: otherHasService
+        ? {
+            en: `${BASE_URL}/en/services/${enSlug}`,
+            es: `${BASE_URL}/es/services/${esSlug}`,
+            "x-default": `${BASE_URL}/en/services/${enSlug}`,
+          }
+        : {
+            [locale]: `${BASE_URL}/${locale}/services/${service}`,
+            "x-default": `${BASE_URL}/${locale}/services/${service}`,
+          },
     },
     openGraph: {
       title: data.title,

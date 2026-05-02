@@ -10,28 +10,28 @@ keywords:
 lang: en
 translatedSlug: "frenillo-lingual-quiropractica-bebes-san-antonio"
 mentions:
-  - "@type": LocalBusiness
+  - "@type": Organization
     name: "The Breastfeeding House"
     url: "http://www.breastfeedinghousecalls.com/"
-  - "@type": LocalBusiness
+  - "@type": Organization
     name: "Leche and Mimi Lactation"
     url: "https://lecheandmimi.com/"
-  - "@type": LocalBusiness
+  - "@type": Organization
     name: "Breastfeeding Perspectives"
     url: "https://www.breastfeedingperspectives.com/"
-  - "@type": LocalBusiness
+  - "@type": Organization
     name: "University Health"
     url: "https://www.universityhealth.com/"
-  - "@type": LocalBusiness
+  - "@type": Organization
     name: "Rooted Birth"
     url: "https://www.rooteddoula.com/"
-  - "@type": LocalBusiness
+  - "@type": Organization
     name: "San Antonio Birth Doulas"
     url: "https://sabirthdoulas.org/"
-  - "@type": LocalBusiness
+  - "@type": Organization
     name: "Birth Center of San Antonio"
     url: "https://birthcenterofsanantonio.com/"
-  - "@type": LocalBusiness
+  - "@type": Organization
     name: "San Antonio Nurse Midwife"
     url: "https://sanantonionursemidwife.com/"
 ---

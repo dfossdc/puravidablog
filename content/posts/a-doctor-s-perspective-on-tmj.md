@@ -9,18 +9,18 @@ keywords:
   - a doctor’s perspective on tmj
 lang: en
 mentions:
-  - "@type": LocalBusiness
+  - "@type": Organization
     name: "Dr. Brian Hale DDS"
     url: "https://www.drbrianhale.com"
     telephone: "+1-210-308-7008"
-  - "@type": LocalBusiness
+  - "@type": Organization
     name: "Wholesome Dentistry"
     url: "https://wholesomedentistry.com"
     telephone: "+1-210-344-2384"
-  - "@type": LocalBusiness
+  - "@type": Organization
     name: "Physical Therapy TX - Dr Matt Randell"
     url: "https://www.physicaltherapytx.com"
-  - "@type": LocalBusiness
+  - "@type": Organization
     name: "Thrive Head and Spinal Care - Dr Dutson"
     url: "https://thriveheadandspinalcare.com"
   - "@type": Organization
