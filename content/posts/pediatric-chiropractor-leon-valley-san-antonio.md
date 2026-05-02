@@ -79,7 +79,7 @@ It depends on the child's condition and age. Children with acute conditions (col
 Children often warm up quickly when they see care is gentle and does not hurt. We have kid-friendly approaches and take time to build trust.
 
 **Does insurance cover pediatric chiropractic?**
-Many insurance plans do. We verify coverage and bill your plan directly.
+Many insurance plans do. We are insurance friendly. Bring your insurance card and ID to the office to verify how your insurance can contribute to your care. We verify coverage upfront and work transparently with you on costs.
 
 ## Real Family Stories
 
@@ -101,7 +101,7 @@ Yes. Chronic ear infections are often related to Eustachian tube dysfunction and
 Colic often results from spinal misalignment and cranial compression affecting the vagus nerve, which regulates digestion. Gentle adjustments that remove nerve interference and release spinal and cranial restrictions allow normal digestive function to resume. Many colicky babies show dramatic improvement within 1-2 weeks of care—parents finally get sleep, and babies get relief.
 
 **Will insurance cover pediatric chiropractic?**
-Many insurance plans do. We verify coverage upfront and bill your plan directly. We also work transparently with families who have high deductibles or limited coverage, and we offer clear pricing for uninsured patients. Call us to discuss your specific plan.
+Many insurance plans do. We are insurance friendly. Bring your insurance card and ID to the office to verify how your insurance can contribute to your care. We verify coverage upfront and work transparently with families who have high deductibles or limited coverage. We also offer clear pricing for uninsured patients. Call us to discuss your specific plan.
 
 **How long does my child need to stay in care?**
 Initial treatment duration depends on the condition. Some issues (like uncomplicated colic) may resolve within a few weeks. Others require longer care. Once we reach your child's wellness goals, many families continue monthly maintenance visits to support ongoing healthy development, immunity, and nervous system function.

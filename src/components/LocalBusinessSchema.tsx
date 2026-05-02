@@ -43,7 +43,7 @@ export default function LocalBusinessSchema() {
     ],
     "priceRange": "$$",
     "currenciesAccepted": "USD",
-    "paymentAccepted": "Cash, Credit Card, Insurance",
+    "paymentAccepted": "Cash, Credit Card",
     "areaServed": [
       "San Antonio TX",
       "Castle Hills TX",

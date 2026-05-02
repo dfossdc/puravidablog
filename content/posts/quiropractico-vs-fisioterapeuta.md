@@ -274,7 +274,7 @@ Vea un quiropráctico primero para diagnóstico e identificar subluxaciones. Una
 No. Los ajustes específicos requieren entrenamiento quiropráctico especializado. Los fisioterapeutas pueden hacer "mobilizaciones" que son más suaves, pero no son ajustes quiroprácticos. Algunos pacientes responden mejor a un enfoque, otros al otro.
 
 **¿Por qué algunos seguros cubren fisioterapia pero no quiropráctica?**
-Históricamente, la medicina convencional ha sido más familiarizada con fisioterapia. Sin embargo, el seguro cada vez más cubre quiropráctica. Muchos seguros ahora cubren ambas. Verifique su cobertura específica—ofrecemos superbills si necesita verificación de cobertura.
+Históricamente, la medicina convencional ha sido más familiarizada con fisioterapia. Sin embargo, el seguro cada vez más cubre quiropráctica. Muchos seguros ahora cubren ambas. Verifique su cobertura específica. Somos insurance friendly — traiga su tarjeta de seguro e identificación a la oficina para verificar cómo su seguro puede contribuir a su cuidado.
 
 **¿Puedo hacer ambos al mismo tiempo de forma segura?**
 Sí, si coordinamos. Avíseme que está con fisioterapia para que pueda ajustar mis técnicas apropiadamente. Comunicación entre proveedores es clave. Una vez que está coordinado, la combinación es a menudo más efectiva que cualquiera sola.

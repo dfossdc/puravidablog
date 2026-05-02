@@ -68,7 +68,7 @@ const faqs = [
   },
   {
     q: "¿Cuál es la diferencia entre un huesero tradicional y un quiropráctico?",
-    a: "Ambos comparten una idea fundamental: que ajustar huesos y articulaciones puede aliviar dolor y mejorar la función del cuerpo. Las diferencias principales son: (1) Educación — un quiropráctico completa 8 años de universidad y 4,200+ horas de formación clínica supervisada; un huesero tradicional aprende típicamente por aprendizaje informal. (2) Licencia — los quiroprácticos están licenciados por la Junta de Examinadores Quiroprácticos de Texas; los hueseros tradicionales no. (3) Diagnóstico — los quiroprácticos pueden ordenar rayos X, identificar contraindicaciones (osteoporosis, fractura, infección) y referir a otros especialistas. (4) Técnicas — los quiroprácticos modernos usan técnicas suaves y específicas (SOT, Activator, Diversificada) basadas en investigación. (5) Seguro — la mayoría de los seguros médicos cubren la quiropráctica; los hueseros tradicionales son atención privada.",
+    a: "Ambos comparten una idea fundamental: que ajustar huesos y articulaciones puede aliviar dolor y mejorar la función del cuerpo. Las diferencias principales son: (1) Educación — un quiropráctico completa 8 años de universidad y 4,200+ horas de formación clínica supervisada; un huesero tradicional aprende típicamente por aprendizaje informal. (2) Licencia — los quiroprácticos están licenciados por la Junta de Examinadores Quiroprácticos de Texas; los hueseros tradicionales no. (3) Diagnóstico — los quiroprácticos pueden ordenar rayos X, identificar contraindicaciones (osteoporosis, fractura, infección) y referir a otros especialistas. (4) Técnicas — los quiroprácticos modernos usan técnicas suaves y específicas (SOT, Activator, Diversificada) basadas en investigación.",
   },
   {
     q: "¿Es seguro ir a un huesero?",
@@ -80,7 +80,7 @@ const faqs = [
   },
   {
     q: "¿Cuánto cuesta una visita con el huesero / quiropráctico?",
-    a: "En Pura Vida Chiropractic, la primera evaluación es completamente gratis para nuevos pacientes. Las visitas de seguimiento varían según el plan de tratamiento. Somos insurance friendly — le proporcionamos superbills detallados que puede enviar a su seguro para reembolso fuera de red. También ofrecemos planes de pago accesibles para pacientes sin seguro.",
+    a: "En Pura Vida Chiropractic, la primera evaluación es completamente gratis para nuevos pacientes. Las visitas de seguimiento varían según el plan de tratamiento. Somos insurance friendly. Traiga su tarjeta de seguro e identificación a la oficina y verificaremos cómo su seguro puede contribuir a su cuidado.",
   },
   {
     q: "¿Pueden los hueseros tratar bebés y niños?",
@@ -250,7 +250,7 @@ export default async function HueseroSanAntonioPage({ params }: Props) {
                 <tr>
                   <td><strong>Seguros médicos</strong></td>
                   <td>Generalmente no cubierto</td>
-                  <td>Cubierto por Medicare, Aetna, BCBS, Cigna, UHC, TRICARE</td>
+                  <td>Insurance friendly</td>
                 </tr>
                 <tr>
                   <td><strong>Pacientes pediátricos</strong></td>
@@ -278,7 +278,7 @@ export default async function HueseroSanAntonioPage({ params }: Props) {
               <li><span className={styles.checkMark}>✓</span><span>Certificación SOT Avanzada — única en San Antonio, ideal para casos complejos</span></li>
               <li><span className={styles.checkMark}>✓</span><span>Certificación Webster Technique para cuidado prenatal seguro</span></li>
               <li><span className={styles.checkMark}>✓</span><span>147+ reseñas de 5 estrellas en Google de pacientes reales de San Antonio</span></li>
-              <li><span className={styles.checkMark}>✓</span><span>Insurance friendly — acepta Medicare, Aetna, BCBS, Cigna, UHC, TRICARE</span></li>
+              <li><span className={styles.checkMark}>✓</span><span>Insurance friendly</span></li>
               <li><span className={styles.checkMark}>✓</span><span>Primera evaluación completamente gratis — sin compromiso</span></li>
               <li><span className={styles.checkMark}>✓</span><span>Atendemos a familias del Westside, Marbach, South SA, East SA y suburbios</span></li>
             </ul>
@@ -313,7 +313,7 @@ export default async function HueseroSanAntonioPage({ params }: Props) {
               </div>
               <div className={styles.condCard}>
                 <h3>Lesiones de auto</h3>
-                <p>Latigazo cervical, dolor lumbar post-accidente, hernia de disco. Aceptamos PIP.</p>
+                <p>Latigazo cervical, dolor lumbar post-accidente, hernia de disco. Insurance friendly.</p>
               </div>
             </div>
           </section>

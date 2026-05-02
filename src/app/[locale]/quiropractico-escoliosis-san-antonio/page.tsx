@@ -81,7 +81,7 @@ const content: ConditionChiropractorContent = {
       en: { q: "", a: "" },
       es: {
         q: "¿Aceptan seguro para quiropráctica de escoliosis?",
-        a: "Pura Vida Chiropractic es insurance friendly — le proporcionamos superbills detallados que puede enviar a su seguro para reembolso fuera de red. Muchos planes cubren atención quiropráctica continua para dolor relacionado con escoliosis.",
+        a: "Somos insurance friendly. Traiga su tarjeta de seguro y identificación a la oficina para verificar cómo su seguro puede contribuir a su cuidado.",
       },
     },
   ],

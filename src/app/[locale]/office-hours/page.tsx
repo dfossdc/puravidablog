@@ -216,8 +216,8 @@ export default async function OfficeHoursPage({ params }: Props) {
             </h2>
             <p className={styles.sectionText}>
               {isEs
-                ? "Somos insurance friendly — le proporcionamos superbills detallados que puede enviar a su seguro para reembolso fuera de red. Para lesiones de auto, proporcionamos superbills para reembolso de PIP. Ofrecemos planes de pago flexibles para pacientes sin seguro o con cobertura limitada. Nadie debería quedarse sin atención quiropráctica por razones financieras — hable con nosotros sobre sus opciones."
-                : "We are insurance friendly — we provide detailed superbills you can submit to your insurance for out-of-network reimbursement. For auto injuries, we provide superbills for PIP reimbursement. Flexible payment plans are available for patients without insurance or with limited coverage. No one should go without chiropractic care for financial reasons — talk to us about your options."}
+                ? "Somos insurance friendly. Traiga su tarjeta de seguro y identificación a la oficina y verificaremos cómo su seguro puede contribuir a su cuidado. Para lesiones de auto, traiga su información de seguro de auto. Ofrecemos opciones de pago accesibles para pacientes sin seguro o con cobertura limitada."
+                : "We are insurance friendly. Bring your insurance card and ID to the office to verify how your insurance can contribute to your care. For auto injuries, bring your auto insurance information. Flexible payment options are available for patients without insurance or with limited coverage."}
             </p>
           </section>
 

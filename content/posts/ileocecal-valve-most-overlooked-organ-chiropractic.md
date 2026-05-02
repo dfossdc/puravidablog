@@ -96,7 +96,7 @@ These require opposite approaches. Stuck-open: avoid spicy foods, chocolate, pop
 Most patients benefit from 2-4 initial sessions spaced weekly. After that, monthly maintenance often prevents regression. The timeline depends on how long the dysfunction has been present and how well you implement dietary changes. Some patients need just 2-3 visits and maintain improvement for months; others need ongoing support depending on stress and diet compliance.
 
 **Do you take insurance for CMRT treatment, or is this cash-only?**
-We are insurance friendly — we provide detailed superbills you can submit to your insurance for out-of-network reimbursement. Call **(210) 685-1994** for a free consultation to discuss costs and what to expect. I believe digestive health shouldn't be a financial barrier.
+We are insurance friendly. Bring your insurance card and ID to the office to verify how your insurance can contribute to your care. Call **(210) 685-1994** for a free consultation to discuss costs and what to expect. I believe digestive health shouldn't be a financial barrier.
 
 ## Key Takeaways
 

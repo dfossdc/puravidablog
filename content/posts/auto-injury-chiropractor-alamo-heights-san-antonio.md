@@ -45,7 +45,7 @@ Once we know what we are dealing with, Dr. Foss uses SOT to restore proper align
 Alongside spinal care, we use specialized soft tissue techniques to release muscle tension, improve circulation, and accelerate healing. We then teach you exercises to stabilize your spine and prevent re-injury.
 
 **Insurance Coordination**
-We handle all the paperwork. We bill your auto insurance, medical payments coverage, or health insurance as appropriate. You focus on recovery — we handle the administrative burden.
+We are insurance friendly for auto injury cases. Bring your auto insurance information and ID to verify how PIP or MedPay can contribute to your care. You focus on recovery — we handle the detailed paperwork and documentation.
 
 ## Common Auto Injury Patterns
 

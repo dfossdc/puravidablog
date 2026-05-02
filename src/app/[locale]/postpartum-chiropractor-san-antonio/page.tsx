@@ -105,11 +105,11 @@ const content: ConditionChiropractorContent = {
     {
       en: {
         q: "Do you accept insurance for postpartum chiropractic care?",
-        a: "Pura Vida Chiropractic is insurance friendly — we provide detailed superbills you can submit to your insurance for out-of-network reimbursement. Many maternity-coverage plans include postpartum chiropractic.",
+        a: "We are insurance friendly. Bring your insurance card and ID to the office to verify how your insurance can contribute to your care.",
       },
       es: {
         q: "¿Aceptan seguro para atención quiropráctica postparto?",
-        a: "Pura Vida Chiropractic es insurance friendly — le proporcionamos superbills detallados que puede enviar a su seguro para reembolso fuera de red. Muchos planes de cobertura maternal incluyen quiropráctica postparto.",
+        a: "Somos insurance friendly. Traiga su tarjeta de seguro y identificación a la oficina para verificar cómo su seguro puede contribuir a su cuidado.",
       },
     },
   ],

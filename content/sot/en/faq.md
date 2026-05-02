@@ -126,7 +126,7 @@ You get a real, individualized plan. Not a template.
 
 ## Does insurance cover SOT care?
 
-We are insurance friendly — we provide detailed superbills you can submit to your insurance for out-of-network reimbursement. We also offer auto-injury care with attorney lien arrangements. Call the office at (210) 685-1994) to discuss your coverage.
+We are insurance friendly. Bring your insurance card and ID to the office to verify how your insurance can contribute to your care. We also offer auto-injury care with attorney lien arrangements. Call the office at (210) 685-1994 to discuss your coverage.
 
 ## How do I book a free evaluation?
 

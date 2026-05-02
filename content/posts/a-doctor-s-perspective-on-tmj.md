@@ -124,7 +124,7 @@ A night guard prevents damage from teeth grinding but doesn't correct your bite.
 Dental work—crowns, extractions, implants—can trigger TMJ if even slight pressure changes your bite or creates jaw muscle spasm during the procedure. In my case, the dental work didn't cause TMJ, but the trauma and compensation my jaw made afterward did. This is why discussing TMJ risk with your dentist before major work is critical.
 
 **Do I need a referral to see you for TMJ care?**
-No referral needed. I see patients directly. We are insurance friendly — we provide detailed superbills you can submit to your insurance for out-of-network reimbursement. Call **(210) 685-1994** for a free consultation to discuss whether cranial adjusting, SOT, or a team approach makes sense for your specific TMJ situation.
+No referral needed. I see patients directly. We are insurance friendly. Bring your insurance card and ID to the office to verify how your insurance can contribute to your care. Call **(210) 685-1994** for a free consultation to discuss whether cranial adjusting, SOT, or a team approach makes sense for your specific TMJ situation.
 
 ---
 

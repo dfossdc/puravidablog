@@ -65,7 +65,7 @@ Para quienes sí tienen seguro, trabajamos con la mayoría de los planes médico
 - United Healthcare
 - Seguros de accidentes de auto
 
-Somos insurance friendly — le proporcionamos superbills detallados que puede enviar a su seguro para reembolso fuera de red.
+Somos insurance friendly. Traiga su tarjeta de seguro e ID a la oficina para verificar cómo su seguro puede contribuir a su cuidado.
 
 ## No Deje que el Dinero Sea la Razón Para Vivir con Dolor
 
@@ -94,7 +94,7 @@ Nuestra clínica está ubicada convenientemente en San Antonio, TX, con horarios
 Ofrezco planes de pago flexibles y precios de pago directo que son mucho más bajos que lo que pagaría con copagos de seguro. Una consulta inicial cuesta menos que una visita al médico sin seguro. Ofrezco paquetes de descuento para múltiples visitas y plan de pagos mensuales. Hablamos sobre el costo en su primer visit — sin sorpresas.
 
 **¿Puedo obtener una factura para reclamar ante mi seguro después?**
-Sí. Proporciono facturas detalladas (superbills) que puedo enviar a su compañía de seguros para reembolso. Algunos pacientes presentan reclamos bajo "fuera de red" y reciben reembolsos parciales. No facturo directamente a seguros — eso es entre usted y su aseguradora.
+Sí. Somos insurance friendly. Traiga su tarjeta de seguro e identificación a la oficina para verificar cómo su seguro puede contribuir a su cuidado. No facturo directamente a seguros — eso es entre usted y su aseguradora.
 
 **¿Ofrece planes de pago para los que no tienen efectivo hoy?**
 Sí. Ofrezco planes de pago mensuales que hacen la atención asequible. También ofrezco descuentos por pagos en efectivo. Discutimos las opciones que funcionan para su presupuesto.

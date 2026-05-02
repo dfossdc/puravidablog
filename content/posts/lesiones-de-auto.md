@@ -58,7 +58,7 @@ La quiropráctica aborda las lesiones de accidentes de auto de varias maneras fu
 
 ## Documentación para Reclamos de Seguro
 
-En Pura Vida Quiropráctica, el Dr. Foss documenta meticulosamente todas las lesiones, hallazgos y progreso del tratamiento. Esta documentación es esencial si presenta un reclamo contra el seguro del conductor responsable o si trabaja con un abogado de lesiones personales. Somos insurance friendly para lesiones de auto — le proporcionamos documentación detallada y superbills que puede enviar a su seguro del vehículo bajo cobertura PIP (Personal Injury Protection) o MedPay.
+En Pura Vida Quiropráctica, el Dr. Foss documenta meticulosamente todas las lesiones, hallazgos y progreso del tratamiento. Esta documentación es esencial si presenta un reclamo contra el seguro del conductor responsable o si trabaja con un abogado de lesiones personales. Somos insurance friendly para lesiones de auto. Traiga su información de seguro de auto e identificación para verificar cómo PIP o MedPay pueden contribuir a su cuidado.
 
 ## Qué Esperar en Pura Vida Quiropráctica
 

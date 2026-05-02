@@ -95,11 +95,11 @@ const content: ConditionChiropractorContent = {
     {
       en: {
         q: "Do you accept insurance for headache treatment?",
-        a: "Pura Vida Chiropractic is insurance friendly — we provide detailed superbills you can submit to your insurance for out-of-network reimbursement. We also offer accessible payment plans for uninsured patients.",
+        a: "We are insurance friendly. Bring your insurance card and ID to the office to verify how your insurance can contribute to your care.",
       },
       es: {
         q: "¿Aceptan seguro para tratamiento de dolores de cabeza?",
-        a: "Pura Vida Chiropractic es insurance friendly — le proporcionamos superbills detallados que puede enviar a su seguro para reembolso fuera de red. También ofrecemos planes de pago accesibles para pacientes sin seguro.",
+        a: "Somos insurance friendly. Traiga su tarjeta de seguro y identificación a la oficina para verificar cómo su seguro puede contribuir a su cuidado.",
       },
     },
     {

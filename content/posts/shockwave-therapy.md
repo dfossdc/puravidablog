@@ -73,7 +73,7 @@ Some patients experience mild discomfort during treatment, particularly in highl
 Most conditions respond well to 3 to 6 sessions. Dr. Foss will give you a specific recommendation based on your diagnosis and how your body responds.
 
 **Is shockwave therapy covered by insurance?**
-We are insurance friendly — we provide detailed superbills you can submit to your insurance for out-of-network reimbursement. Coverage varies by plan; call **(210) 685-1994** to discuss your specific situation.
+We are insurance friendly. Bring your insurance card and ID to the office to verify how your insurance can contribute to your care. Coverage varies by plan; call **(210) 685-1994** to discuss your specific situation.
 
 ## Serving San Antonio and Beyond
 

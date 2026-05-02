@@ -110,7 +110,7 @@ Lo que no haremos es exagerar la cantidad de visitas necesarias. Nuestra meta es
 No es obligatorio, pero sí es muy útil. Si tiene radiografías recientes o resultados de MRI de otros proveedores, tráigalos. Nos ayuda a entender su caso más completamente. Si no tiene, no hay problema — el Dr. Foss puede solicitar radiografías durante su evaluación inicial si las considera necesarias.
 
 **¿Cuánto cuesta la primera visita?**
-La evaluación inicial es completamente gratuita. No hay cargo por el examen, la explicación del diagnóstico, o la consulta sobre opciones de tratamiento. Si procede con el tratamiento, discutiremos los costos y opciones de pago en ese momento. Somos insurance friendly — ofrecemos superbills para reembolso fuera de red, y proporcionamos planes de pago flexible para pacientes sin seguro.
+La evaluación inicial es completamente gratuita. No hay cargo por el examen, la explicación del diagnóstico, o la consulta sobre opciones de tratamiento. Si procede con el tratamiento, discutiremos los costos y opciones de pago en ese momento. Somos insurance friendly. Traiga su tarjeta de seguro e ID a la oficina para verificar cómo su seguro puede contribuir a su cuidado. Proporcionamos planes de pago flexible para pacientes sin seguro.
 
 **¿Debo ir durante mi hora de almuerzo o necesito un tiempo de recuperación?**
 La mayoría de los pacientes pueden regresar inmediatamente a sus actividades normales. No es necesario un tiempo de recuperación. Algunos pacientes sienten un poco de sensibilidad temporal, pero nada que los detenga de volver al trabajo o sus actividades. Puede venir en su hora de almuerzo sin problema.

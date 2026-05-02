@@ -86,7 +86,7 @@ const content: ConditionChiropractorContent = {
       en: { q: "", a: "" },
       es: {
         q: "¿Aceptan seguro para tratamiento de migrañas?",
-        a: "Pura Vida Chiropractic es insurance friendly — le proporcionamos superbills detallados que puede enviar a su seguro para reembolso fuera de red. También ofrecemos planes de pago accesibles para pacientes sin seguro.",
+        a: "Somos insurance friendly. Traiga su tarjeta de seguro y identificación a la oficina para verificar cómo su seguro puede contribuir a su cuidado.",
       },
     },
     {

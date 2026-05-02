@@ -167,7 +167,7 @@ Tengo éxito consistente con la Técnica Webster para bebés de nalgas. No es ci
 Sí, es una buena idea. Trabajaré con tu ginecólogo o matrona sin problema. Algunos doctores apoyan completamente el cuidado quiropráctico prenatal; otros solo necesitan comunicación clara sobre lo que hago. He trabajado con la comunidad médica de San Antonio durante 23 años—la coordinación de cuidados es importante.
 
 **¿Cuánto cuesta, y toma mi seguro?**
-Somos insurance friendly — le proporcionamos superbills que puede enviar a tu aseguradora para reembolso fuera de red. Si no tienes seguro, hablamos de opciones de pago. Llama **(210) 685-1994** para discutir costos antes de tu primera cita. El cuidado prenatal no debe ser una barrera económica.
+Somos insurance friendly. Traiga su tarjeta de seguro e ID a la oficina para verificar cómo su seguro puede contribuir a su cuidado. Si no tienes seguro, hablamos de opciones de pago. Llama **(210) 685-1994** para discutir costos antes de tu primera cita. El cuidado prenatal no debe ser una barrera económica.
 
 ---
 

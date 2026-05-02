@@ -75,7 +75,7 @@ Nuestra oficina está diseñada para familias profesionales. Iluminación tranqu
 
 **"¿Aceptan TRICARE o seguros militares?"**
 
-Somos insurance friendly. No facturamos TRICARE directamente, pero le proporcionamos superbills detallados que puede enviar para reembolso fuera de red. Muchas familias militares se sorprenden gratamente con sus tasas de reembolso. Llámenos para discutir su cobertura específica; somos experimentados en trabajar con planes de salud militares y podemos darle expectativas realistas.
+Somos insurance friendly. Traiga su tarjeta de TRICARE e identificación a la oficina y verificaremos cómo sus beneficios pueden contribuir a su cuidado. Muchas familias militares se sorprenden gratamente con sus tasas de reembolso. Llámenos para discutir su cobertura específica; somos experimentados en trabajar con planes de salud militares y podemos darle expectativas realistas.
 
 **"¿Cómo acomoda los horarios de despliegue militar?"**
 

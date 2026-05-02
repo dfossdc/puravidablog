@@ -87,7 +87,7 @@ Most children see significant improvement within 3-6 sessions—infections becom
 Continue working with your pediatrician. If your child has an active ear infection, your doctor should evaluate it. Cranial adjusting prevents infections and improves drainage, but it's not an antibiotic alternative for an infection in progress. I communicate openly with pediatricians in San Antonio; we're working toward the same goal—your child's health.
 
 **How many visits will my child need, and how much does it cost?**
-Most children with chronic ear infections benefit from 3-6 sessions over 3-6 weeks. We are insurance friendly — we provide detailed superbills you can submit to your insurance for out-of-network reimbursement. Call **(210) 685-1994** for a free consultation to discuss costs and what to expect.
+Most children with chronic ear infections benefit from 3-6 sessions over 3-6 weeks. We are insurance friendly. Bring your insurance card and ID to the office to verify how your insurance can contribute to your care. Call **(210) 685-1994** for a free consultation to discuss costs and what to expect.
 
 ## Key Takeaways
 

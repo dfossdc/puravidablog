@@ -71,7 +71,7 @@ Our office is designed for professional families. Calm lighting, a small selecti
 
 **"Do you accept TRICARE or military insurance?"**
 
-We are insurance friendly. We do not bill TRICARE directly, but we provide detailed superbills you can submit for out-of-network reimbursement. Many military families are pleasantly surprised at their reimbursement rates. Call us to discuss your specific coverage; we are experienced in working with military health plans and can give you realistic expectations.
+We are insurance friendly. Bring your TRICARE card and ID to the office to verify how your benefits can contribute to your care. Many military families are pleasantly surprised at their reimbursement rates. Call us to discuss your specific coverage; we are experienced in working with military health plans and can give you realistic expectations.
 
 **"How do you accommodate military deployment schedules?"**
 

@@ -92,7 +92,7 @@ Sí. Muchas madres comienzan temprano para establecer un buen equilibrio espinal
 Absolutamente. Coordinamos el cuidado con su equipo de parto y nos comunicamos cuando sea necesario. La quiropractica es complementaria al cuidado obstétrico.
 
 **¿Aceptan seguros?**
-Somos insurance friendly — le proporcionamos superbills detallados que puede enviar a su seguro para reembolso fuera de red. Ofrecemos descuentos para pacientes nuevos para planes sin seguros o de deducible alto.
+Somos insurance friendly. Traiga su tarjeta de seguro e ID a la oficina para verificar cómo su seguro puede contribuir a su cuidado. Ofrecemos descuentos para pacientes nuevos para planes sin seguros o de deducible alto.
 
 ## ¿Listo para Experimentar Quiropractica del Embarazo a la Manera SOT?
 

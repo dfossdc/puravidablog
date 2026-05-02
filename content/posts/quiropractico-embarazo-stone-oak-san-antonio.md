@@ -82,7 +82,7 @@ Sí. Muchas madres comienzan el cuidado temprano para establecer un buen equilib
 Absolutamente. Trabajamos colaborativamente con su equipo de parto y nos comunicaremos cuando sea apropiado. La quiropractica es complementaria al cuidado obstétrico, no un reemplazo.
 
 **¿Aceptan seguros?**
-Somos insurance friendly — le proporcionamos superbills detallados que puede enviar a su seguro para reembolso fuera de red. Pregunte sobre nuestro descuento para pacientes nuevos para planes sin seguros o de deducible alto.
+Somos insurance friendly. Traiga su tarjeta de seguro e ID a la oficina para verificar cómo su seguro puede contribuir a su cuidado. Pregunte sobre nuestro descuento para pacientes nuevos para planes sin seguros o de deducible alto.
 
 ## ¿Listo para Comenzar Su Viaje de Quiropractica Prenatal?
 

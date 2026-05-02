@@ -74,7 +74,7 @@ Pura Vida Quiropráctica atiende a pacientes de **Stone Oak, Alamo Heights, Leon
 El estrés financiero crónico causa tensión muscular crónica, especialmente en el cuello y los hombros. Esto interfiere con la función nerviosa y agrava el bienestar general. Nuestros ajustes restauran la función nerviosa, permitiendo que su cuerpo maneje mejor el estrés—literalmente reduciendo la respuesta del sistema nervioso a la ansiedad.
 
 **¿Ofrece planes de pago flexible para el tratamiento?**
-Sí. Entiendo que los tiempos son desafiantes. Ofrecemos planes de pago flexibles y superbills para que pueda trabajar con su asegurador. Ningún paciente debe sufrir sin tratamiento por razones financieras.
+Sí. Entiendo que los tiempos son desafiantes. Ofrecemos planes de pago flexibles. Somos insurance friendly. Ningún paciente debe sufrir sin tratamiento por razones financieras.
 
 **¿Cuál es el costo típico de una consulta inicial?**
 Su consulta inicial es completamente gratuita. Durante esa consulta evaluamos su condición y le proporcionamos un plan de tratamiento con costos claros. Después, trabajamos con usted para desarrollar un plan que se ajuste a su presupuesto.

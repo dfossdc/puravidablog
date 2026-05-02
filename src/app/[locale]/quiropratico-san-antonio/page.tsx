@@ -58,8 +58,8 @@ const highlights = [
   },
   {
     icon: "🤝",
-    es: { title: "Planes de Pago Flexibles", desc: "Somos insurance friendly — le proporcionamos superbills detallados que puede enviar a su seguro para reembolso fuera de red, y ofrecemos planes de pago accesibles para que el costo nunca sea un obstáculo." },
-    en: { title: "Flexible Payment Plans", desc: "We are insurance friendly — we provide detailed superbills you can submit to your insurance for out-of-network reimbursement, plus accessible payment plans so cost is never an obstacle." },
+    es: { title: "Planes de Pago Flexibles", desc: "Somos insurance friendly. Traiga su tarjeta de seguro e ID a la oficina para verificar cómo su seguro puede contribuir a su cuidado, y ofrecemos planes de pago accesibles para que el costo nunca sea un obstáculo." },
+    en: { title: "Flexible Payment Plans", desc: "We are insurance friendly. Bring your insurance card and ID to the office to verify how your insurance can contribute to your care, plus accessible payment plans so cost is never an obstacle." },
   },
   {
     icon: "📍",

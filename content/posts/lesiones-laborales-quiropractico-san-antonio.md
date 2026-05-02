@@ -251,7 +251,7 @@ San Antonio, TX 78231
 ## Preguntas Frecuentes
 
 **¿Mi seguro de compensación de trabajadores cubre tratamiento quiropráctico?**
-Sí, la mayoría de las pólizas de compensación de trabajadores cubren servicios quiroprácticos, especialmente si su lesión fue causada por trabajo. Nuestro consultorio puede verificar su cobertura. Si hay limitaciones, ofrecemos superbills que puede enviar a su asegurador.
+Sí, la mayoría de las pólizas de compensación de trabajadores cubren servicios quiroprácticos, especialmente si su lesión fue causada por trabajo. Nuestro consultorio puede verificar su cobertura. Somos insurance friendly. Traiga su información de seguro e identificación a la oficina para verificar cómo su seguro puede contribuir a su cuidado.
 
 **¿Cuándo debo reportar mi lesión laboral?**
 Reporte su lesión a su supervisor o departamento de recursos humanos inmediatamente, incluso si el dolor parece menor. Muchas lesiones laborales se vuelven crónicas si no se tratan rápidamente. Cuanto antes comience el tratamiento, mejor será su resultado.

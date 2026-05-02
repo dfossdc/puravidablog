@@ -79,7 +79,7 @@ Most chiropractic focuses on pain relief—you hurt, you get adjusted, you feel 
 Depending on complexity, corrective care typically spans 8-16 weeks of 2-3 visits per week, followed by a maintenance schedule. Simple cases may resolve faster; complex cases with multiple layers of compensation may require longer. We'll give you a realistic timeline after your initial evaluation and X-rays.
 
 **Will my insurance cover corrective chiropractic?**
-Most insurance covers chiropractic care, including corrective protocols. We bill your insurance directly and work with you on your out-of-pocket costs. Some insurance plans have visit limits—corrective care may use them faster than pain-relief care because we're doing more than symptom management. We'll explain your coverage upfront.
+Many insurance plans cover chiropractic care, including corrective protocols. We are insurance friendly. Bring your insurance card and ID to the office to verify how your insurance can contribute to your care. We'll work with you on your out-of-pocket costs and explain your coverage upfront. Some insurance plans have visit limits—corrective care may use them faster than pain-relief care because we're doing more than symptom management.
 
 **What if I've tried corrective care with another chiropractor and it didn't work?**
 Several things might have happened: the diagnosis was incomplete, the protocol wasn't systematic enough, or the underlying structural problem was missed. Dr. Foss's SOT Advanced certification and 23 years of practice mean we often identify patterns other chiropractors miss—particularly dural tension and pelvic foundation issues that drive everything else.

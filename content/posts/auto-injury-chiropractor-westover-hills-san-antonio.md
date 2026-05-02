@@ -52,7 +52,7 @@ Using instrument-assisted techniques and hands-on methods, we break down inflamm
 Once acute pain subsides, we teach you exercises that restore strength, stability, and range of motion. This prevents chronic stiffness and recurrent injury.
 
 **Insurance Coordination**
-We handle all insurance matters. We bill your auto policy, medical payments coverage, or health insurance. You focus on recovery — we handle the paperwork.
+We are insurance friendly for auto injury cases. Bring your auto insurance information and ID to verify how PIP or MedPay can contribute to your care. You focus on recovery — we handle the detailed paperwork and documentation.
 
 ## Common Auto Injury Patterns
 

@@ -62,7 +62,7 @@ Treatment is gradual and progressive. Early sessions focus on reducing acute inf
 
 At Pura Vida Chiropractic, Dr. Foss documents all injuries, findings, and treatment progress meticulously. This documentation is essential if you are filing a claim with the at-fault driver's insurance or working with a personal injury attorney.
 
-We are insurance friendly for auto injury cases — we provide detailed documentation and superbills you can submit to your auto insurance under PIP or MedPay coverage.
+We are insurance friendly for auto injury cases. Bring your auto insurance information and ID to verify how your PIP/MedPay can contribute to your care.
 
 ## Why Choose Dr. Dan Foss for Auto Injury Care
 
@@ -76,7 +76,7 @@ His integrative approach — combining chiropractic adjustments, SOT, cranial th
 As soon as possible — ideally within the first 24 to 72 hours. Early care reduces inflammation before it sets in and provides immediate documentation of injuries, which is important for any insurance claim. Don't wait for pain to worsen.
 
 **Does my insurance cover chiropractic after a car accident?**
-Most auto policies include PIP (Personal Injury Protection) or MedPay coverage that covers chiropractic care regardless of who was at fault. We provide detailed superbills and documentation for out-of-network reimbursement.
+Most auto policies include PIP (Personal Injury Protection) or MedPay coverage that covers chiropractic care regardless of who was at fault. We are insurance friendly. Bring your auto insurance information and ID to the office to verify how your PIP/MedPay can contribute to your care.
 
 **Can I receive treatment if the accident wasn't my fault?**
 Yes. You have the right to receive medical care for your injuries regardless of who caused the accident. Dr. Foss works with injured patients in cases where another driver was responsible and can coordinate with your attorney if you have one.

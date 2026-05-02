@@ -99,7 +99,7 @@ const whyPuraVida = [
   { en: "Class IV laser, SoftWave shockwave, and advanced decompression therapy", es: "Láser Clase IV, terapia SoftWave y terapia de descompresión avanzada" },
   { en: "Treats 90+ conditions — from back pain to infant colic to ADHD", es: "Trata 90+ condiciones — desde dolor de espalda hasta cólicos infantiles y TDAH" },
   { en: "Free first evaluation with no commitment", es: "Primera evaluación gratuita sin compromiso" },
-  { en: "Insurance-friendly: Medicare, BCBS, Aetna, Cigna, UHC, and more", es: "Insurance-friendly: Medicare, BCBS, Aetna, Cigna, UHC y más" },
+  { en: "Insurance friendly", es: "Insurance friendly" },
 ];
 
 const faqs = [
@@ -136,11 +136,11 @@ const faqs = [
   {
     en: {
       q: "Should I choose a chiropractor based on price?",
-      a: "Price matters, but it should not be the primary factor. The best chiropractors offer transparent pricing, accept your insurance, and provide a free first visit so you can meet them before committing. Choosing the cheapest option often results in shorter visits, less personalized care, and worse outcomes. Pura Vida Chiropractic is insurance-friendly and offers a free first evaluation.",
+      a: "Price matters, but it should not be the primary factor. The best chiropractors offer transparent pricing, are insurance friendly, and provide a free first visit so you can meet them before committing. Choosing the cheapest option often results in shorter visits, less personalized care, and worse outcomes. Pura Vida Chiropractic is insurance friendly and offers a free first evaluation.",
     },
     es: {
       q: "¿Debo elegir un quiropráctico basado en el precio?",
-      a: "El precio importa, pero no debe ser el factor principal. Los mejores quiroprácticos ofrecen precios transparentes, son insurance friendly (proporcionan superbills para reembolso de seguro), y dan una primera visita gratuita. Elegir la opción más barata a menudo resulta en visitas más cortas, atención menos personalizada y peores resultados.",
+      a: "El precio importa, pero no debe ser el factor principal. Los mejores quiroprácticos ofrecen precios transparentes, son insurance friendly, y dan una primera visita gratuita. Elegir la opción más barata a menudo resulta en visitas más cortas, atención menos personalizada y peores resultados.",
     },
   },
   {
