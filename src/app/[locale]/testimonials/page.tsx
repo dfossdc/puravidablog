@@ -222,11 +222,25 @@ export default async function TestimonialsPage({ params }: Props) {
 
   const videos = isEs ? videoTestimonialsEs : videoTestimonialsEn;
 
+  // MedicalBusiness/LocalBusiness requires an address per Schema.org spec —
+  // Semrush issue #45 flagged 28 service+sports+testimonials pages for this.
+  // Adding the full PostalAddress here also enables Local Pack rich results
+  // alongside the AggregateRating data.
   const aggregateRatingSchema = {
     "@context": "https://schema.org",
     "@type": "MedicalBusiness",
     "@id": BASE_URL,
     name: "Pura Vida Chiropractic",
+    url: BASE_URL,
+    telephone: "+12106851994",
+    address: {
+      "@type": "PostalAddress",
+      streetAddress: "2318 NW Military Hwy #103",
+      addressLocality: "San Antonio",
+      addressRegion: "TX",
+      postalCode: "78231",
+      addressCountry: "US",
+    },
     aggregateRating: {
       "@type": "AggregateRating",
       ratingValue: "5",

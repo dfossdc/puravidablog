@@ -84,6 +84,15 @@ export default async function SportsChiropracticPage({ params }: Props) {
       "@type": "MedicalBusiness",
       "name": "Pura Vida Chiropractic",
       "url": BASE_URL,
+      "telephone": "+12106851994",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2318 NW Military Hwy #103",
+        "addressLocality": "San Antonio",
+        "addressRegion": "TX",
+        "postalCode": "78231",
+        "addressCountry": "US",
+      },
     },
   };
 

@@ -646,6 +646,10 @@ export default async function ServicePage({ params }: Props) {
   const ctaText = isEs ? "Reservar Consulta Gratis" : "Book Free Consultation";
   const ctaHref = `/${locale}/book-now`;
 
+  // Provider includes full PostalAddress — Semrush flagged 28 services pages
+  // (issue #45) for "MedicalBusiness/LocalBusiness missing required address
+  // field". Schema.org spec requires `address` on LocalBusiness; without it
+  // Google won't generate Local Pack rich results from this schema either.
   const schemaJson = {
     "@context": "https://schema.org",
     ...data.schema,
@@ -653,6 +657,15 @@ export default async function ServicePage({ params }: Props) {
       "@type": "MedicalBusiness",
       "name": "Pura Vida Chiropractic",
       "url": BASE_URL,
+      "telephone": "+12106851994",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2318 NW Military Hwy #103",
+        "addressLocality": "San Antonio",
+        "addressRegion": "TX",
+        "postalCode": "78231",
+        "addressCountry": "US",
+      },
     },
   };
 
