@@ -173,6 +173,15 @@ export default function Footer({ locale }: FooterProps) {
           <Link href={`/${locale}/healthcare-disclaimer`}>
             {isEs ? "Aviso Médico" : "Healthcare Disclaimer"}
           </Link>
+          <span className={styles.bottomSep}>|</span>
+          {/* Site map link surfaces the HTML sitemap that lists every page on
+              the domain. Sitewide footer placement collapses crawl depth for
+              all 313+ blog posts, condition pages, neighborhood pages, etc.
+              to depth 2 (home → /site-map → page) — fixes the Semrush
+              "240 pages need >3 clicks" notice without any crawl-budget cost. */}
+          <Link href={`/${locale}/site-map`}>
+            {isEs ? "Mapa del Sitio" : "Site Map"}
+          </Link>
         </div>
       </div>
     </footer>
