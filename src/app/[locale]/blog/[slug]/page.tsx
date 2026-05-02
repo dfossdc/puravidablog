@@ -33,13 +33,22 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const post = await fetchPostBySlug(slug, locale);
   if (!post) return {};
   const canonical = `${BASE_URL}/${locale}/blog/${slug}`;
-  // Append brand suffix to <title> so it differs from the in-page <h1>
-  // (which renders post.title verbatim). Semrush flagged 317 pages where
-  // H1 === <title>; this disambiguates without changing content. Suffix
-  // is short (~28 chars) so total title length stays within 60-70 char
-  // best-practice budget for typical post titles.
-  const brandSuffix = locale === "es" ? " | Pura Vida Chiropractic SA" : " | Pura Vida Chiropractic SA";
-  const titleWithBrand = `${post.title}${brandSuffix}`;
+  // Append brand suffix to <title> ONLY when the result stays within Google's
+  // ~60-character title budget. The first attempt added the suffix
+  // unconditionally and bumped 377 blog posts past the limit (Semrush flagged
+  // them as 'Long title element'). Now: short titles get the brand suffix
+  // (which solves the H1==title duplicate Semrush also flags), long titles
+  // stay short (which avoids the long-title flag and Google truncation).
+  // For pages where the strict 60-char budget can't accommodate the suffix
+  // we use a much shorter " | Pura Vida" suffix instead — still
+  // disambiguates from the H1 while staying under the limit.
+  const SHORT_BRAND = " | Pura Vida";  // 13 chars
+  const FULL_BRAND = " | Pura Vida Chiropractic"; // 26 chars
+  const titleWithBrand = post.title.length + FULL_BRAND.length <= 60
+    ? `${post.title}${FULL_BRAND}`
+    : post.title.length + SHORT_BRAND.length <= 60
+      ? `${post.title}${SHORT_BRAND}`
+      : post.title; // raw title — already long enough to differ from H1 only by length
   return {
     title: titleWithBrand,
     description: post.description,
