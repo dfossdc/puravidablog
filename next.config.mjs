@@ -15,6 +15,19 @@ const nextConfig = {
   },
   async redirects() {
     return [
+      // ── www.puravidasanantonio.com → puravidasanantonio.com (canonical host) ──
+      // Fixes 54 hreflang/canonical conflicts flagged by Semrush:
+      // www was serving the same content as non-www, but every page's
+      // canonical + hreflang point to non-www. That mismatch was being
+      // counted as 54 errors and was suppressing rich-result eligibility.
+      // Single 301 here resolves both the conflicts and the missing
+      // self-referencing hreflang in one move.
+      {
+        source: "/:path*",
+        destination: "https://puravidasanantonio.com/:path*",
+        permanent: true,
+        has: [{ type: "host", value: "www.puravidasanantonio.com" }],
+      },
       // ── quiropracticosanantonio.com → puravidasanantonio.com/es ──
       // MUST come before the generic "/" → "/en" rule below, otherwise
       // the catchall wins and sends quiropracticosanantonio.com/ to /en.
