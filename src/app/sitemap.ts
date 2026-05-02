@@ -6,25 +6,20 @@ import { neighborhoodSlugs } from "@/lib/neighborhoods";
 
 const BASE_URL = "https://puravidasanantonio.com";
 
+// Service slugs that resolve to actual pages (no redirects).
+// Previous "// New services" block listed slugs like /en/services/cranial-chiropractic
+// that 301-redirect to a canonical URL — Semrush flagged 10 of these as
+// "incorrect pages found in sitemap.xml" because sitemaps should only list
+// final destinations, not redirects. Removed.
 const enServices = [
-  // Original services
   "sot-chiropractic", "softwave-therapy", "auto-injury",
   "pediatric-chiropractor", "prenatal-chiropractor", "pregnancy-chiropractor",
   "infants-chiropractic", "pediatric-prenatal", "shockwave-therapy", "class-iv-laser",
-  // New services
-  "chiropractic-care", "cranial-chiropractic", "infant-chiropractic",
-  "pediatric-chiropractic", "pregnancy-chiropractic", "auto-injury-chiropractic",
-  "wellness-care", "latino-community",
 ];
 const esServices = [
-  // Original services
   "quiropractica-sot", "terapia-softwave", "lesiones-de-auto",
   "quiropractico-pediatrico", "quiropractico-prenatal", "quiropractico-embarazo",
   "quiropractico-infantes", "quiropractica-pediatrica", "terapia-ondas-de-choque", "laser-clase-iv",
-  // New services (same slugs as EN)
-  "chiropractic-care", "cranial-chiropractic", "infant-chiropractic",
-  "pediatric-chiropractic", "pregnancy-chiropractic", "auto-injury-chiropractic",
-  "wellness-care", "latino-community",
 ];
 
 // Pages that exist in BOTH /en and /es with bilingual content.
