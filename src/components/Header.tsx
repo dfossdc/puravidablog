@@ -205,11 +205,22 @@ export default function Header({ locale: rawLocale, currentSlug, translatedSlug,
           </p>
           <div className={styles.annRight}>
             <span className={styles.annSpanish}>¡Hablamos Español!</span>
-            <Link href={locale === "es" ? langHref.replace("es", "en") : `/${locale}`} className={`${styles.annLang} ${locale === "en" ? styles.annLangActive : ""}`}>
+            {/* Locale flags. Each flag points either at the OTHER-locale
+                equivalent of the current page (when the user is switching
+                locales) or at the current-locale homepage (when clicking the
+                already-active flag). Previously this used
+                `langHref.replace("es", "en")` for the EN flag while on ES —
+                which broke catastrophically because String.replace finds the
+                FIRST "es" in the string, and many Spanish slugs contain "es"
+                inside words (espalda, pulmones, tiroides, sesiones,
+                espasmos, escoliosis...). The replace turned
+                `/en/blog/dolor-de-espalda-...` into `/en/blog/dolor-de-enpalda-...`
+                Semrush issue #2 traced 178 4XX errors to this exact pattern. */}
+            <Link href={locale === "es" ? langHref : "/en"} className={`${styles.annLang} ${locale === "en" ? styles.annLangActive : ""}`}>
               🇺🇸 EN
             </Link>
             <span className={styles.annSep}>|</span>
-            <Link href={langHref} className={`${styles.annLang} ${locale === "es" ? styles.annLangActive : ""}`}>
+            <Link href={locale === "en" ? langHref : "/es"} className={`${styles.annLang} ${locale === "es" ? styles.annLangActive : ""}`}>
               🇲🇽 ES
             </Link>
           </div>
