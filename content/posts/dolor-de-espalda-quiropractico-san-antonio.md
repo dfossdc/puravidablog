@@ -10,6 +10,7 @@ keywords:
   - alivio dolor de espalda San Antonio
   - quiropráctico para dolor de espalda San Antonio
 lang: es
+translatedSlug: "back-pain-chiropractor-san-antonio"
 ---
 
 El dolor de espalda es la razón número uno por la que las personas visitan a un quiropráctico en San Antonio. Ya sea que tenga un dolor sordo que no desaparece, un dolor agudo que lo detiene, o rigidez que limita su movimiento diario, el **[cuidado quiropráctico para el dolor de espalda](https://puravidasanantonio.com/back-pain/) en San Antonio** en Pura Vida Quiropráctica ofrece un camino comprobado y libre de medicamentos.

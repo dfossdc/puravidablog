@@ -10,6 +10,7 @@ keywords:
   - postura cabeza adelante Olmos Park
   - corrección postura Olmos Park
 lang: es
+translatedSlug: "posture-correction-chiropractor-olmos-park-san-antonio"
 ---
 
 ¿Tiene mala postura? ¿Postura de cabeza hacia adelante por trabajo de escritorio? ¿Hombros redondeados? En **Pura Vida Chiropractic**, a solo **8 minutos al sur** de Olmos Park, el Dr. Dan Foss ha pasado **23 años** corrigiendo la postura usando **Técnica Sacro-Occipital (SOT)** y fortalecimiento dirigido. La mala postura no es cosmética — es un problema estructural que crea dolor, reduce la capacidad respiratoria, y envejece su columna vertebral. La arreglamos.

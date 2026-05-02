@@ -12,6 +12,7 @@ keywords:
   - prenatal vitamins
   - San Antonio pregnancy chiropractor
 lang: en
+translatedSlug: "nutricion-embarazo-grasas-cerebro-bebe"
 ---
 
 When you are pregnant, nearly every nutritional choice you make becomes a choice for your baby too. This is true for all nutrients, but it is especially true for one category that many pregnant women overlook: fat. Specifically, the right kinds of fat — the omega-3 polyunsaturated fats that your baby's brain depends on.

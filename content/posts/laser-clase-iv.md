@@ -9,6 +9,7 @@ keywords:
   - láser terapéutico San Antonio TX
   - fotobiomodulación San Antonio
 lang: es
+translatedSlug: "class-iv-laser"
 ---
 
 Para los pacientes con dolor persistente o lesiones de curación lenta, la **[terapia láser Clase IV](https://puravidasanantonio.com/laser-therapy/) en San Antonio** ofrece un camino probado y no invasivo hacia el alivio. En Pura Vida Quiropráctica, el Dr. Dan Foss utiliza el láser terapéutico Clase IV para abordar el dolor en su origen.

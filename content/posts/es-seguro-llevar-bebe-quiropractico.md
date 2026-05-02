@@ -4,6 +4,7 @@ description: "Muchos padres en San Antonio se preguntan si la quiropráctica ped
 date: "2026-03-14"
 author: "Dr. Dan Foss"
 lang: "es"
+translatedSlug: "is-it-safe-to-take-a-baby-to-the-chiropractor"
 slug: "es-seguro-llevar-bebe-quiropractico"
 image: "/images/conditions/infantcolic.jpg"
 keywords: "quiropráctico para bebés san antonio, quiropráctica pediátrica san antonio, cólicos bebé quiropráctico, ajuste bebé quiropráctico seguro, quiropráctico niños san antonio"

@@ -12,6 +12,7 @@ keywords:
   - quiropráctico embarazo San Antonio
   - consentimiento informado parto
 lang: es
+translatedSlug: "questions-to-ask-about-induction-san-antonio"
 ---
 
 Si su proveedor ha mencionado la inducción, o si se acerca a su fecha estimada de parto y se pregunta si la inducción podría estar en su futuro, probablemente tiene preguntas. También es posible que haya escuchado información conflictiva — de amigos, de internet, de familiares bien intencionados. Una persona le dice que la inducción es práctica estándar. Otro le dice que es innecesaria. Su OB le da orientación médica. Pero, ¿qué es lo que *usted* realmente necesita saber para tomar una decisión que se sienta correcta para su cuerpo y su bebé?

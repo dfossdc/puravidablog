@@ -13,6 +13,7 @@ keywords:
   - chiropractic care San Antonio TX
   - NW Military chiropractor San Antonio
 lang: en
+translatedSlug: "radiografias"
 ---
 
 Chiropractors take X-rays to obtain detailed information about the bone structure and alignment of the spine and other joints. X-rays are an important tool that helps chiropractors diagnose musculoskeletal problems and determine the best treatment plan for each patient.

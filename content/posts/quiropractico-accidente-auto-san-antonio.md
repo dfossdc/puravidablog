@@ -10,6 +10,7 @@ keywords:
   - lesión auto quiropráctica San Antonio
   - quiropráctico lesión accidente vehículo
 lang: es
+translatedSlug: "san-antonio-chiropractor-car-accident"
 ---
 
 **¿Estuviste en un accidente de auto en San Antonio y ahora tienes dolor de cuello, espalda, o cabeza? El Dr. Dan Foss en Pura Vida Chiropractic trata lesiones de accidente auto.** Con 23 años de experiencia, el Dr. Foss ha tratado a cientos de pacientes de accidentes de auto en San Antonio.

@@ -10,6 +10,7 @@ keywords:
   - whole family wellness Helotes
   - multi-generational chiropractor Helotes
 lang: en
+translatedSlug: "quiropractico-familia-helotes-san-antonio"
 ---
 
 Looking for a family chiropractor in Helotes? At **Pura Vida Chiropractic**, just **15 minutes west**, Dr. Dan Foss has spent **23 years** taking care of entire Helotes families — from newborns and kids, through active adults, to grandparents seeking pain-free aging. We do not use a one-size-fits-all approach. Every family member receives personalized care designed for their unique life stage and health goals.

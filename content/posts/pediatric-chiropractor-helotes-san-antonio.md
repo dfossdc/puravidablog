@@ -10,6 +10,7 @@ keywords:
   - infant chiropractic Helotes
   - kids wellness Helotes
 lang: en
+translatedSlug: "quiropractico-pediatrico-helotes-san-antonio"
 ---
 
 Looking for pediatric chiropractic support for your active Helotes family? **Pura Vida Chiropractic** is just **15 minutes west** via Bandera Rd or 1604. Dr. Dan Foss brings **23 years** of specialized pediatric experience to families in Helotes, Shavano Park, and the surrounding growing communities — particularly those with kids in sports, equestrian activities, or families managing the developmental demands of an active childhood.

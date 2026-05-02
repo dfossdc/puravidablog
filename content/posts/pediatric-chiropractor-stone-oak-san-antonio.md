@@ -10,6 +10,7 @@ keywords:
   - kids chiropractor Stone Oak
   - infant chiropractic Stone Oak
 lang: en
+translatedSlug: "quiropractico-pediatrico-stone-oak-san-antonio"
 ---
 
 Looking for a pediatric chiropractor in Stone Oak? Many Stone Oak parents discover that their children's most stubborn health issues — chronic ear infections, colic, reflux, latching difficulty, and developmental concerns — respond beautifully to gentle chiropractic care. At **Pura Vida Chiropractic**, just **15 minutes north of Stone Oak** on NW Military Hwy, Dr. Dan Foss has spent **23 years** using specialized pediatric techniques to help children thrive from birth through adolescence.

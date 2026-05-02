@@ -12,6 +12,7 @@ keywords:
   - SOT chiropractic San Antonio
   - visceral manipulation chiropractor
 lang: en
+translatedSlug: "quiropractico-cmrt-ajuste-visceral-organos-san-antonio"
 ---
 
 What if your stomach pain, acid reflux, or digestive complaints were not actually a stomach problem — but a spine problem?

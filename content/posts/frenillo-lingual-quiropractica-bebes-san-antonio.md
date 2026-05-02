@@ -10,6 +10,7 @@ keywords:
   - frenillo restringido tratamiento
   - anquiloglosia bebé quiropráctica
 lang: es
+translatedSlug: "tongue-tie-and-chiropractic"
 ---
 
 Su bebé tiene una membrana restrictiva debajo de la lengua que está interferiendo con la lactancia. Su dentista sugiere una "revisión" (frenotomía) — un procedimiento simple donde cortan la membrana. Pero usted se pregunta: ¿es realmente necesario? ¿Puede la quiropráctica por sí sola resolver esto?

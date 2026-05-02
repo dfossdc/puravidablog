@@ -11,6 +11,7 @@ keywords:
   - cranial chiropractic children
   - pediatric ear infection treatment
 lang: en
+translatedSlug: "infecciones-oido-cronicas-ninos-quiropractica-craneal-san-antonio"
 ---
 
 Your child has had five ear infections in the past year. Your pediatrician is talking about ear tubes. You are exhausted from the cycle of antibiotics, sleepless nights, and your child's pain. And you are wondering: is there another way?

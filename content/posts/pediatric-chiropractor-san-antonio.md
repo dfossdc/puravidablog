@@ -3,6 +3,7 @@ title: "Is Chiropractic Safe for Kids? What Every San Antonio Parent Should Know
 image: "/images/conditions/growingpains.jpg"
 date: "2026-04-02"
 lang: "en"
+translatedSlug: "quiropractica-en-ninos"
 slug: "pediatric-chiropractor-san-antonio"
 description: "Pediatric chiropractic is one of the most misunderstood areas of healthcare. Dr. Dan Foss explains the safety, the evidence, and why children may actually need chiropractic more urgently than adults."
 tags: ["pediatric chiropractor", "kids chiropractic", "San Antonio", "infant chiropractic", "children's health"]

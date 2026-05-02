@@ -11,6 +11,7 @@ keywords:
   - traumatismo craneoencefálico
   - dolor de cabeza post-conmoción
 lang: es
+translatedSlug: "post-concussion-chiropractor-san-antonio"
 ---
 
 ## Síndrome Post-Conmoción: Recuperación Completa con Tratamiento Quiropráctico en San Antonio

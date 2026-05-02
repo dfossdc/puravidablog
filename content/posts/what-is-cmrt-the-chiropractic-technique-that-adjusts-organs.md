@@ -5,6 +5,7 @@ description: "CMRT — Chiropractic Manipulative Reflex Technique — is an adva
 tags: ["CMRT", "SOT", "organs", "DeJarnette", "chiropractic"]
 author: "Dr. Dan Foss DC"
 lang: "en"
+translatedSlug: "que-es-cmrt-quiropractica-visceral-san-antonio"
 slug: "what-is-cmrt-the-chiropractic-technique-that-adjusts-organs"
 image: "/images/conditions/backpain.jpg"
 ---

@@ -14,6 +14,7 @@ keywords:
   - best chiropractor San Antonio
   - cranial chiropractic San Antonio
 lang: en
+translatedSlug: "dolores-de-cabeza-migranas-san-antonio"
 ---
 
 Headaches are not normal — and neither is living with them every week. If you are relying on pain relievers just to get through the day, or if migraines are regularly forcing you to cancel plans, something in your body is out of balance. **Chiropractic care for [headaches and migraines in San Antonio](https://puravidasanantonio.com/headaches-migraines/)** at Pura Vida Chiropractic offers a powerful, drug-free solution that addresses the underlying cause.

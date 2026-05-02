@@ -8,6 +8,7 @@ keywords:
   - chiropractor San Antonio
   - quiropráctica en niños
 lang: es
+translatedSlug: "pediatric-chiropractor-san-antonio"
 ---
 
 La quiropráctica es una disciplina que se enfoca en el cuidado del sistema nervioso, especialmente la columna vertebral. Aunque la quiropráctica puede ser útil en el cuidado de ciertos trastornos en niños, es importante tener en cuenta que el cuidado quiropráctico en niños debe ser cuidadosamente evaluado y realizado por un quiropráctico con estudios, experiencia y formación específica en el cuidado de niños. Los niños pueden beneficiarse de la quiropráctica en casos de lesiones deportivas, trastornos posturales, dolor de cuello o espalda, problemas de sueño, problemas digestivos y otros trastornos.

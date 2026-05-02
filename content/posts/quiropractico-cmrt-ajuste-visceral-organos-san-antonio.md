@@ -11,6 +11,7 @@ keywords:
   - problemas digestivos quiropráctica
   - CMRT cuidado de órganos San Antonio
 lang: es
+translatedSlug: "what-is-cmrt-visceral-chiropractic-san-antonio"
 ---
 
 ¿Sufre de reflujo ácido constante? ¿Tiene problemas digestivos que su gastroenterólogo no puede explicar? ¿Le recomendaron medicamentos para toda la vida cuando siente que algo más profundo está mal? Una técnica poco conocida llamada **CMRT (Chiropractic Manipulative Reflex Technique)** podría ser la respuesta que ha estado buscando.

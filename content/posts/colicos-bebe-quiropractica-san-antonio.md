@@ -10,6 +10,7 @@ keywords:
   - quiropráctico bebé llorando
   - tratamiento cólico natural
 lang: es
+translatedSlug: "infant-colic-chiropractic-san-antonio"
 ---
 
 Su bebé llora inconsolablemente cada noche de las 7 PM a las 11 PM. Ha probado cada fórmula, cada posición, cada técnica que leyó en internet. Su pediatra dice "es solo cólico, pasará en unos meses." Pero usted está desesperado. Los meses se sienten como años.

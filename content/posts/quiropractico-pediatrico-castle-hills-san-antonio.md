@@ -10,6 +10,7 @@ keywords:
   - bebes Castle Hills quiropractico
   - pediatrico cerca Castle Hills
 lang: es
+translatedSlug: "pediatric-chiropractor-castle-hills-san-antonio"
 ---
 
 ¿Busca quiropractico pediátrico en Castle Hills? Conocer al Dr. Dan Foss en **Pura Vida Chiropractic** — a solo **5 minutos al sur** en NW Military Hwy. Las familias de Castle Hills a menudo comparten la misma historia: han probado otros enfoques, visitado varios doctores, y finalmente descubrieron que la quiropractica pediátrica especializada — particularmente el trabajo craneal y SOT — desbloqueó las mejoras de salud que habían buscado para sus hijos. Con **23 años** de formación pediátrica enfocada, el Dr. Foss aporta un nivel de experiencia que distingue su práctica de los quiropracticos generales que simplemente ven niños al pasar.

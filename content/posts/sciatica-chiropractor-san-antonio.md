@@ -14,6 +14,7 @@ keywords:
   - best chiropractor San Antonio
   - SOT chiropractic San Antonio
 lang: en
+translatedSlug: "ciatica-quiropractico-san-antonio"
 ---
 
 Few conditions are as disruptive as sciatica. That sharp, burning, shooting pain that radiates from your lower back through your hip and down your leg can make sitting at a desk, getting in and out of the car, or even sleeping feel impossible. If you are dealing with **[sciatica in San Antonio](https://puravidasanantonio.com/sciatica/)**, Dr. Dan Foss at Pura Vida Chiropractic offers targeted, effective, drug-free treatment that addresses the actual cause of your nerve pain.

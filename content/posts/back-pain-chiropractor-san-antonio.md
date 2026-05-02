@@ -14,6 +14,7 @@ keywords:
   - best chiropractor San Antonio
   - chiropractic adjustment San Antonio TX
 lang: en
+translatedSlug: "dolor-de-espalda-quiropractico-san-antonio"
 ---
 
 Back pain is the number one reason people visit a chiropractor in San Antonio. Whether you are dealing with a dull ache that will not go away, sharp pain that stops you in your tracks, or stiffness that limits your daily movement, **[back pain chiropractic care](https://puravidasanantonio.com/back-pain/) in San Antonio** at Pura Vida Chiropractic offers a proven, drug-free path to lasting relief.

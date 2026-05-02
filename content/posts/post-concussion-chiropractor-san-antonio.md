@@ -11,6 +11,7 @@ keywords:
   - concussion recovery
   - post-concussion headaches
 lang: en
+translatedSlug: "sindrome-post-conmocion-quiropractico-san-antonio"
 ---
 
 # Post-Concussion Chiropractor in San Antonio, TX

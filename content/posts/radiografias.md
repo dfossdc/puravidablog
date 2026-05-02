@@ -8,6 +8,7 @@ keywords:
   - chiropractor San Antonio
   - radiografías
 lang: es
+translatedSlug: "x-rays-chiropractic-san-antonio"
 ---
 
 Los quiroprácticos toman radiografías para obtener información detallada sobre la estructura ósea y la alineación de la columna vertebral y otras articulaciones. Las radiografías son una herramienta importante para ayudar a los quiroprácticos a diagnosticar problemas musculoesqueléticos y determinar el mejor plan de tratamiento para cada paciente.

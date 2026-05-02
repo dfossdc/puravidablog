@@ -11,6 +11,7 @@ keywords:
   - quiropráctica craneal niños
   - tratamiento infecciones oído pediátrico
 lang: es
+translatedSlug: "chronic-ear-infections-children-chiropractic-cranial-san-antonio"
 ---
 
 Su hijo ha tenido cinco infecciones de oído en el año pasado. Su pediatra está hablando de tubos de oído. Está agotado del ciclo de antibióticos, noches sin dormir y el dolor de su hijo. Y se pregunta: ¿hay otro camino?

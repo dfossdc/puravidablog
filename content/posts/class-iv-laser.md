@@ -9,6 +9,7 @@ keywords:
   - laser therapy San Antonio TX
   - photobiomodulation San Antonio
 lang: en
+translatedSlug: "laser-clase-iv"
 ---
 
 For patients dealing with stubborn pain, inflammation, or slow-healing injuries, **[Class IV laser therapy](https://puravidasanantonio.com/laser-therapy/) in San Antonio** offers a proven, non-invasive path to real relief. At Pura Vida Chiropractic, Dr. Dan Foss uses Class IV therapeutic laser to target pain at its source and support deep cellular healing.

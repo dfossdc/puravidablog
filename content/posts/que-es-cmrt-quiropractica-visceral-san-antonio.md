@@ -12,6 +12,7 @@ keywords:
   - SOT quiropráctica San Antonio
   - manipulación visceral quiropráctico
 lang: es
+translatedSlug: "what-is-cmrt-the-chiropractic-technique-that-adjusts-organs"
 ---
 
 ¿Y si el dolor de estómago, el reflujo ácido o los problemas digestivos no fueran realmente un problema del estómago, sino un problema de la columna vertebral?

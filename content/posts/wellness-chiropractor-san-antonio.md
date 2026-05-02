@@ -10,6 +10,7 @@ keywords:
   - holistic chiropractor San Antonio
   - chiropractic wellness care San Antonio
 lang: en
+translatedSlug: "bienestar-quiropractico-san-antonio"
 ---
 
 Most people first visit a chiropractor because something hurts. But at Pura Vida Chiropractic in San Antonio, Dr. Dan Foss has built a practice around a bigger vision — where chiropractic care is not just about pain relief, but about helping your entire family achieve the highest possible level of health throughout every stage of life.

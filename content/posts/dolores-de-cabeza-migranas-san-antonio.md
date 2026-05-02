@@ -9,6 +9,7 @@ keywords:
   - tratamiento migraña San Antonio TX
   - quiropráctica para migrañas San Antonio
 lang: es
+translatedSlug: "headaches-migraines-chiropractor-san-antonio"
 ---
 
 Los dolores de cabeza no son normales. Si depende de analgésicos solo para pasar el día, o si las migrañas lo obligan a cancelar planes, algo en su cuerpo está desequilibrado. El **cuidado quiropráctico para [dolores de cabeza y migrañas en San Antonio](https://puravidasanantonio.com/headaches-migraines/)** en Pura Vida Quiropráctica ofrece una solución poderosa y libre de medicamentos.

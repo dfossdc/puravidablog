@@ -10,6 +10,7 @@ keywords:
   - infección oído crónica tratamiento
   - alternativa tubo oído quiropráctica
 lang: es
+translatedSlug: "ear-infections-children-cranial-adjusting-eustachian"
 ---
 
 Su hijo ha tenido cinco infecciones de oído en seis meses. Su pediatra sugiere tubos de presión de ventilación — un procedimiento quirúrgico donde insertan pequeños tubos en los tímpanos para drenar la presión. Pero usted está dudando. ¿Es realmente necesaria la cirugía?

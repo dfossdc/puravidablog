@@ -9,6 +9,7 @@ keywords:
   - quiropráctico familiar San Antonio TX
   - quiropráctico holístico San Antonio
 lang: es
+translatedSlug: "wellness-chiropractor-san-antonio"
 ---
 
 La mayoría de las personas visitan a un quiropráctico por primera vez porque algo duele. Pero en Pura Vida Quiropráctica en San Antonio, el Dr. Dan Foss ha construido una práctica alrededor de una visión más grande — donde el cuidado quiropráctico no es solo alivio del dolor, sino ayudar a toda su familia a lograr el mayor nivel posible de salud.

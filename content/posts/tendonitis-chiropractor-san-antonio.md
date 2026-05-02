@@ -11,6 +11,7 @@ keywords:
   - inflammation treatment
   - sports injury treatment
 lang: en
+translatedSlug: "tendinitis-quiropractico-san-antonio"
 ---
 
 # Tendonitis Treatment at Pura Vida Chiropractic in San Antonio

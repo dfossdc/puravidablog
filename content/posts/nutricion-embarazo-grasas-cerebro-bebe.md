@@ -11,6 +11,7 @@ keywords:
   - desarrollo cerebro bebé
   - vitaminas prenatales
 lang: es
+translatedSlug: "pregnancy-nutrition-fats-baby-brain-development"
 ---
 
 Cuando está embarazada, casi todas las opciones nutricionales que hace se convierten en una opción para su bebé también. Esto es cierto para todos los nutrientes, pero es especialmente cierto para una categoría que muchas mujeres embarazadas pasan por alto: la grasa. Específicamente, los tipos correctos de grasa — los ácidos grasos omega-3 poliinsaturados de los que depende el cerebro de su bebé.

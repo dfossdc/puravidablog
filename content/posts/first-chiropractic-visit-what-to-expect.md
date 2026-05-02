@@ -10,6 +10,7 @@ keywords:
   - new patient chiropractor San Antonio TX
   - chiropractic exam San Antonio
 lang: en
+translatedSlug: "primera-visita-quiropractico-que-esperar"
 ---
 
 If you have never been to a chiropractor before, you might not know what to expect when you walk through the door. That uncertainty can hold people back from getting care they genuinely need. At Pura Vida Chiropractic in San Antonio, Dr. Dan Foss has spent over **23 years helping new patients** feel informed, comfortable, and confident from the very first appointment.

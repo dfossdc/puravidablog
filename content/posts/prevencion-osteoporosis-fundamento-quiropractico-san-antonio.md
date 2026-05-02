@@ -11,6 +11,7 @@ keywords:
   - corrección postural San Antonio
   - prevención caídas quiropráctica
 lang: es
+translatedSlug: "osteoporosis-prevention-chiropractic-foundation-san-antonio"
 ---
 
 Si usted tiene más de 50 años y está leyendo esto, hay algo que quiero que sepa: **la osteoporosis no se desarrolla solo porque le falte calcio y vitamina D.** Se desarrolla porque su esqueleto deja de recibir las señales físicas que necesita para mantenerse fuerte. Y aquí está la buena noticia — su quiropráctico puede ayudar a abordar uno de los fundamentos más ignorados de la salud ósea: **la alineación espinal adecuada y la carga biomecánica.**

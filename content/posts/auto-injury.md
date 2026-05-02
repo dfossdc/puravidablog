@@ -9,6 +9,7 @@ keywords:
   - car accident chiropractor San Antonio TX
   - whiplash treatment San Antonio
 lang: en
+translatedSlug: "lesiones-de-auto"
 ---
 
 A car accident can change everything in an instant. Even a low-speed collision can cause serious injuries that don't show up on X-rays — and symptoms like neck pain, headaches, and back pain may not appear until days after the crash. If you've been in an accident in San Antonio, seeing an **[auto injury chiropractor](https://puravidasanantonio.com/auto-injury-chiropractor/)** as soon as possible is one of the most important steps you can take.

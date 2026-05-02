@@ -11,6 +11,7 @@ keywords:
   - proprioceptive system chiropractic
   - sensory integration therapy San Antonio
 lang: en
+translatedSlug: "trastorno-procesamiento-sensorial-quiropractica-san-antonio"
 ---
 
 Your child has trouble with transitions. Loud noises send them into meltdown. Textures on certain clothes feel unbearable. Tags on shirts cause distress. You have probably heard the term "sensory processing disorder" (SPD), and you are trying to figure out what that means and what can actually help.

@@ -11,6 +11,7 @@ keywords:
   - terapia quiropráctica autismo
   - autismo pediátrico San Antonio
 lang: es
+translatedSlug: "autism-spectrum-chiropractic-cranial-san-antonio"
 ---
 
 Si su hijo está en el espectro del autismo, probablemente ha escuchado acerca de integración sensorial, tono vagal y la "conexión intestino-cerebro." Puede haberse preguntado: ¿puede la quiropráctica ayudar? Y más importante, ¿cuál es realista de esperar?

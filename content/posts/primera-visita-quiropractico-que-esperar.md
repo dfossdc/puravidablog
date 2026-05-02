@@ -4,6 +4,7 @@ description: "¿Nunca ha ido al quiropráctico y no sabe qué esperar? El Dr. Da
 date: "2026-03-20"
 author: "Dr. Dan Foss"
 lang: "es"
+translatedSlug: "first-chiropractic-visit-what-to-expect"
 slug: "primera-visita-quiropractico-que-esperar"
 image: "/images/dr-foss-adjusting-patient.jpg"
 keywords: "primera visita quiropráctico san antonio, qué esperar quiropráctico, cómo es el ajuste quiropráctico, quiropráctico español san antonio, evaluación quiropráctica gratuita"

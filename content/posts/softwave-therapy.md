@@ -9,6 +9,7 @@ keywords:
   - SoftWave San Antonio TX
   - acoustic wave therapy San Antonio
 lang: en
+translatedSlug: "terapia-softwave"
 ---
 
 Chronic pain that hasn't responded to other treatments may finally meet its match with **[SoftWave Therapy](https://puravidasanantonio.com/softwave-therapy/) in San Antonio**. At Pura Vida Chiropractic, Dr. Dan Foss offers this cutting-edge regenerative technology to help patients heal faster, reduce inflammation, and avoid surgery — naturally.

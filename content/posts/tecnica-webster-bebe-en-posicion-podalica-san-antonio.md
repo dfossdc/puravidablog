@@ -11,6 +11,7 @@ keywords:
   - Webster certificado San Antonio
   - voltear bebé naturalmente
 lang: es
+translatedSlug: "webster-technique-breech-babies-san-antonio"
 ---
 
 Alrededor de las 32 semanas de embarazo, escucha las palabras que toda mamá espera evitar: "Su bebé está en posición podálica." En ese momento, su mente vuela hacia adelante imaginando fechas de inducción, cesáreas programadas y si su plan de parto está a punto de cambiar. Pero antes de aceptar ese resultado como inevitable, quiero que sepa acerca de la Técnica Webster — y por qué debería ser parte de su plan durante las últimas semanas del embarazo.

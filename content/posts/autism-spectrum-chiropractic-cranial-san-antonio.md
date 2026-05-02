@@ -11,6 +11,7 @@ keywords:
   - chiropractic autism therapy
   - pediatric autism San Antonio
 lang: en
+translatedSlug: "espectro-autista-quiropractica-craneal-san-antonio"
 ---
 
 If your child is on the autism spectrum, you have probably heard about sensory integration, vagal tone, and the "gut-brain connection." You may have wondered: can chiropractic help? And more importantly, what is realistic to expect?

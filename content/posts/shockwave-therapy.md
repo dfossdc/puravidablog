@@ -9,6 +9,7 @@ keywords:
   - ESWT San Antonio TX
   - chronic pain treatment San Antonio
 lang: en
+translatedSlug: "terapia-ondas-de-choque"
 ---
 
 When chronic pain has resisted physical therapy, injections, and conventional treatment, **[shockwave therapy](https://puravidasanantonio.com/shockwave-therapy/) in San Antonio** offers a powerful non-surgical solution. At Pura Vida Chiropractic, Dr. Dan Foss uses shockwave technology to break up scar tissue, stimulate cellular repair, and restore function.

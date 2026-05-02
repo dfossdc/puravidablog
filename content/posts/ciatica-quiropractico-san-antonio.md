@@ -10,6 +10,7 @@ keywords:
   - dolor nervio ciático San Antonio
   - quiropráctica para ciática San Antonio
 lang: es
+translatedSlug: "sciatica-chiropractor-san-antonio"
 ---
 
 Pocas condiciones son tan perturbadoras como la ciática. Ese dolor agudo y punzante que se irradia desde la parte baja de la espalda hacia la cadera y pierna puede hacer que sentarse, subir al auto, o incluso dormir sea casi imposible. Si está lidiando con **[ciática en San Antonio](https://puravidasanantonio.com/sciatica/)**, el Dr. Dan Foss en Pura Vida Quiropráctica ofrece tratamiento efectivo y sin medicamentos.

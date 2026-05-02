@@ -10,6 +10,7 @@ keywords:
   - compensación de trabajadores San Antonio
   - quiropráctica accidente de trabajo
 lang: es
+translatedSlug: "work-injuries-chiropractor-san-antonio"
 ---
 
 **¿Sufriste una lesión en el trabajo en San Antonio? El Dr. Dan Foss trata lesiones laborales.** La compensación de trabajadores cubre tu cuidado — no pagas nada. Con 23 años de experiencia en lesiones de trabajo, el Dr. Foss sabe exactamente cómo navegar el sistema y asegurar que obtengas el cuidado que necesitas.

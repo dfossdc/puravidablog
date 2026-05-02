@@ -10,6 +10,7 @@ keywords:
   - forward head posture Olmos Park
   - posture correction near Olmos Park
 lang: en
+translatedSlug: "correccion-postura-quiropractico-olmos-park-san-antonio"
 ---
 
 Do you have poor posture? Forward head posture from desk work? Rounded shoulders? At **Pura Vida Chiropractic**, just **8 minutes south** of Olmos Park, Dr. Dan Foss has spent **23 years** correcting posture using **Sacro-Occipital Technique (SOT)** and targeted strengthening. Bad posture is not cosmetic — it is a structural problem that creates pain, reduces breathing capacity, and ages your spine. We fix it.

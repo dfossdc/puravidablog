@@ -13,6 +13,7 @@ keywords:
   - best chiropractor San Antonio
   - auto injury chiropractor San Antonio
 lang: en
+translatedSlug: "quiropractico-accidente-auto-san-antonio"
 ---
 
 Chiropractic care can help you if you have been involved in a car accident. A San Antonio Chiropractor car accident victim can be evaluated and receive the care they need.

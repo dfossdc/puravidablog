@@ -11,6 +11,7 @@ keywords:
   - Webster certified chiropractor San Antonio
   - turn breech baby naturally
 lang: en
+translatedSlug: "tecnica-webster-bebe-en-posicion-podalica-san-antonio"
 ---
 
 It is around 32 weeks of pregnancy when you hear the words every expectant mom dreads: "Your baby is breech." In that moment, your mind races forward to induction dates, scheduled cesareans, and whether your birth plan is about to change. But before you accept that outcome as inevitable, I want you to know about the Webster Technique — and why it belongs in your toolbox during the final weeks of pregnancy.

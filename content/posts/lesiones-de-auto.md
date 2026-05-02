@@ -9,6 +9,7 @@ keywords:
   - accidente de auto quiropráctico San Antonio TX
   - tratamiento latigazo cervical San Antonio
 lang: es
+translatedSlug: "auto-injury"
 ---
 
 Un accidente de auto puede cambiarlo todo en un instante. Incluso una colisión a baja velocidad puede causar lesiones graves que no aparecen en radiografías. Si ha tenido un accidente en San Antonio, ver a un **[quiropráctico para lesiones de auto](https://puravidasanantonio.com/auto-injury-chiropractor/)** lo antes posible es fundamental para su recuperación.

@@ -11,6 +11,7 @@ keywords:
   - dolor tendón
   - Dr. Dan Foss
 lang: es
+translatedSlug: "tendonitis-chiropractor-san-antonio"
 ---
 
 # Resuelve la Tendinitis sin Cirugía con Quiropraxia en San Antonio, TX

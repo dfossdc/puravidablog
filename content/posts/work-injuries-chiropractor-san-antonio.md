@@ -11,6 +11,7 @@ keywords:
   - workplace injury relief
   - job injury rehabilitation
 lang: en
+translatedSlug: "quiropractico-lesion-trabajo-san-antonio"
 ---
 
 # Work Injuries Chiropractor in San Antonio, TX

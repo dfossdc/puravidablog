@@ -11,6 +11,7 @@ keywords:
   - sistema propioceptivo quiropráctica
   - terapia integración sensorial San Antonio
 lang: es
+translatedSlug: "sensory-processing-disorder-chiropractic-san-antonio"
 ---
 
 Su hijo tiene dificultades con las transiciones. Los ruidos fuertes lo llevan a una crisis. Las texturas en cierta ropa se sienten intolerables. Las etiquetas en las camisas causan angustia. Probablemente ha escuchado el término "trastorno del procesamiento sensorial" (TPS) y está tratando de descubrir qué significa eso y qué puede realmente ayudar.

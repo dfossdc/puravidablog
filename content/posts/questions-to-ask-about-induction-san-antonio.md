@@ -12,6 +12,7 @@ keywords:
   - pregnancy chiropractor San Antonio
   - informed consent labor
 lang: en
+translatedSlug: "preguntas-sobre-induccion-parto-san-antonio"
 ---
 
 If your provider has mentioned induction, or if you're approaching your due date and wondering whether induction might be in your future, you probably have questions. You may have also heard conflicting information — from friends, from the internet, from well-meaning relatives. One person tells you induction is standard practice. Another tells you it's unnecessary. Your OB gives you medical guidance. But what do *you* actually need to know to make a decision that feels right for your body and your baby?

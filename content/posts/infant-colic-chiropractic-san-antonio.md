@@ -11,6 +11,7 @@ keywords:
   - vagal compression colic
   - gentle infant adjustment
 lang: en
+translatedSlug: "colicos-bebe-quiropractica-san-antonio"
 ---
 
 Your newborn is screaming. Nothing comforts them. You are exhausted. You have heard colic is "just one of those things" that will pass in a few months. But what if the pain is caused by something fixable?

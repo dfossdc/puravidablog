@@ -8,6 +8,7 @@ keywords:
   - chiropractor San Antonio
   - tongue-tie and chiropractic
 lang: en
+translatedSlug: "frenillo-lingual-quiropractica-bebes-san-antonio"
 mentions:
   - "@type": LocalBusiness
     name: "The Breastfeeding House"

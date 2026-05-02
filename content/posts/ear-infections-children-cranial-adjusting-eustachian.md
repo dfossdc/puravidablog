@@ -5,6 +5,7 @@ description: "Recurrent ear infections in children are often treated with antibi
 tags: ["ear infections", "otitis media", "cranial adjusting", "children", "pediatric", "temporal bone", "Eustachian tube"]
 author: "Dr. Dan Foss DC"
 lang: "en"
+translatedSlug: "infecciones-oido-cronicas-ninos-quiropractica-san-antonio"
 slug: "ear-infections-children-cranial-adjusting-eustachian"
 image: "/images/kidscranial.jpg"
 ---

@@ -12,6 +12,7 @@ keywords:
   - quiropráctica SOT embarazo San Antonio
   - quiropráctica segura durante el embarazo
 lang: es
+translatedSlug: "why-pregnancy-is-the-most-important-time-for-chiropractic-care"
 ---
 
 Si está embarazada en San Antonio y leyendo esto, le diré lo mismo que les digo a todas las mamás que llegan por primera vez a Pura Vida Chiropractic: **el embarazo es el momento más importante de su vida para recibir atención quiropráctica.** No porque algo esté mal con usted. Sino porque su cuerpo está haciendo algo extraordinario, y merece un apoyo que esté a la altura de ese esfuerzo.

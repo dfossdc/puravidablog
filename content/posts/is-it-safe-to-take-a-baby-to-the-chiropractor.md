@@ -10,6 +10,7 @@ keywords:
   - pediatric chiropractor San Antonio TX
   - newborn chiropractic San Antonio
 lang: en
+translatedSlug: "es-seguro-llevar-bebe-quiropractico"
 ---
 
 As a parent, you want only the best for your child. When your baby cries inconsolably, won't latch properly, can't sleep, or can only turn their head in one direction, you search for answers. More and more San Antonio families are discovering that pediatric chiropractic care can offer safe, natural relief for many of these challenges.

@@ -12,6 +12,7 @@ keywords:
   - ajuste craneal niños San Antonio
   - quiropráctico para dolores cabeza infantiles
 lang: es
+translatedSlug: "children-headaches-chiropractic-cranial-san-antonio"
 ---
 
 Si su hijo se ha quejado de dolores de cabeza, no está solo — y tampoco se está imaginando que esto parezca ser más común que una generación atrás. Más del 60% de los niños experimentan dolores de cabeza ocasionales, y las migrañas pediátricas se han casi triplicado desde los años 70. Sin embargo, la mayoría de los padres escuchan lo mismo: "Probablemente sea estrés. Dele ibuprofeno. Vea si se pasa."

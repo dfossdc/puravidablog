@@ -9,6 +9,7 @@ keywords:
   - ESWT San Antonio TX
   - tratamiento dolor crónico San Antonio
 lang: es
+translatedSlug: "shockwave-therapy"
 ---
 
 Cuando el dolor crónico ha resistido la fisioterapia y el tratamiento convencional, la **[terapia de ondas de choque](https://puravidasanantonio.com/shockwave-therapy/) en San Antonio** ofrece una poderosa solución no quirúrgica. En Pura Vida Quiropráctica, el Dr. Dan Foss utiliza esta tecnología para descomponer el tejido cicatricial y estimular la reparación celular.
