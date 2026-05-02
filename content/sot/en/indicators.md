@@ -99,9 +99,9 @@ You leave with the knowledge that something measurable changed.
 
 ## Further Reading
 
-- [SOT Category I, II, and III explained](https://puravidablog.vercel.app/en/blog/sot-categories)
-- [What are SOT blocks and how do they work?](https://puravidablog.vercel.app/en/blog/sot-blocks)
-- [The SOT pillar page](https://puravidablog.vercel.app/en/sot)
+- [SOT Category I, II, and III explained](https://puravidasanantonio.com/en/blog/sot-categories)
+- [What are SOT blocks and how do they work?](https://puravidasanantonio.com/en/blog/sot-blocks)
+- [The SOT pillar page](https://puravidasanantonio.com/en/sot)
 
 ---
 

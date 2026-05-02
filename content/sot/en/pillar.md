@@ -33,8 +33,8 @@ At Pura Vida Chiropractic, we call this the **Pura Vida Protocol** — the full 
 
 Using neurological indicators and pelvic blocks, Dr. Foss identifies which of three categories of pelvic-spine dysfunction is present and corrects it. This is the foundation. It addresses sacroiliac instability, disc problems, sciatica, low-back pain, and the cascading dysfunctions that come from a distorted pelvic base.
 
-[Read: SOT Category I, II, and III explained](https://puravidablog.vercel.app/en/blog/sot-categories)
-[Read: What are SOT blocks and how do they work?](https://puravidablog.vercel.app/en/blog/sot-blocks)
+[Read: SOT Category I, II, and III explained](https://puravidasanantonio.com/en/blog/sot-categories)
+[Read: What are SOT blocks and how do they work?](https://puravidasanantonio.com/en/blog/sot-blocks)
 
 ### Pillar 2 — The Organs (CMRT)
 
@@ -42,7 +42,7 @@ Using neurological indicators and pelvic blocks, Dr. Foss identifies which of th
 
 Conditions CMRT commonly helps: GERD and acid reflux, adrenal fatigue, chronic digestive issues, gallbladder and liver referral pain, PMS and menstrual issues, infertility, kidney stress, constipation, and more.
 
-[Read: What is CMRT?](https://puravidablog.vercel.app/en/blog/what-is-cmrt)
+[Read: What is CMRT?](https://puravidasanantonio.com/en/blog/what-is-cmrt)
 
 ### Pillar 3 — The Cranium (SOT Craniopathy)
 
@@ -50,7 +50,7 @@ The 22 bones of your skull continue to move in adulthood — a subtle, rhythmic 
 
 SOT Craniopathy gently restores cranial motion and CSF flow. Dr. Foss is the only Advanced SOT craniopath in San Antonio.
 
-[Read: The Cranial Rhythmic Impulse](https://puravidablog.vercel.app/en/blog/cranial-rhythmic-impulse)
+[Read: The Cranial Rhythmic Impulse](https://puravidasanantonio.com/en/blog/cranial-rhythmic-impulse)
 
 ## The Cranial Sacral Respiratory Mechanism (CSRM)
 
@@ -84,7 +84,7 @@ Most chiropractic techniques adjust the spine and stop there. SOT does more:
 
 Dr. Major Bertrand DeJarnette — "The Major" — was an engineer, an osteopath, and a chiropractor who spent 60 years and over 135 published volumes developing SOT. He funded his own research by selling a color-photography patent to Kodak during the Great Depression. He tested every procedure on himself before teaching it.
 
-[Read the full story of Dr. DeJarnette](https://puravidablog.vercel.app/en/blog/dejarnette-story)
+[Read the full story of Dr. DeJarnette](https://puravidasanantonio.com/en/blog/dejarnette-story)
 
 ## What Is SORSI, and Why Does Certification Matter?
 
@@ -115,14 +115,14 @@ SOT is most often sought for conditions that have not resolved with other care:
 4. Report of findings — Dr. Foss explains what category you are in and what the plan is.
 5. Your first adjustment, tailored to your findings that day.
 
-[Read: What to expect at your first visit](https://puravidablog.vercel.app/en/blog/first-visit)
+[Read: What to expect at your first visit](https://puravidasanantonio.com/en/blog/first-visit)
 
 ## Is SOT Safe? Is It Proven?
 
 SOT has been clinically practiced in thousands of offices worldwide for over 90 years. Recent research places the risk of serious injury from a chiropractic adjustment at **less than 1 in 6,000,000**. For context, the average chiropractor pays $1,000–$2,000 per year for malpractice insurance; many medical doctors pay more than that per week. SOT's gentle, blocks-based method is among the safest approaches within chiropractic.
 
-[Read our full SOT FAQ](https://puravidablog.vercel.app/en/sot-faq)
-[Read about SOT research and evidence](https://puravidablog.vercel.app/en/sot-research)
+[Read our full SOT FAQ](https://puravidasanantonio.com/en/sot-faq)
+[Read about SOT research and evidence](https://puravidasanantonio.com/en/sot-research)
 
 ## Ready to Experience Real SOT Care in San Antonio?
 

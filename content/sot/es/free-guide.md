@@ -113,7 +113,7 @@ Sí. Las lesiones graves por ajuste quiropráctico se estiman en menos de 1 por 
 
 Si lo que has leído aquí resuena con tu experiencia — si te han ajustado durante años sin una resolución real, o tienes un hijo con infecciones crónicas de oído, o has tenido una conmoción y no has sido el mismo desde entonces — SOT puede ser lo que te ha estado faltando.
 
-El Dr. Dan Foss ofrece una evaluación gratuita. Llama al **(210) 685-1994** o reserva en línea en [puravidablog.vercel.app](https://puravidablog.vercel.app).
+El Dr. Dan Foss ofrece una evaluación gratuita. Llama al **(210) 685-1994** o reserva en línea en [puravidasanantonio.com](https://puravidasanantonio.com).
 
 ---
 

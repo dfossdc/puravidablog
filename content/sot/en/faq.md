@@ -74,7 +74,7 @@ SOT has been clinically practiced in thousands of offices worldwide for over 90 
 
 SORSI maintains an active research program and an Evidence-Based Research Network (EBRN). New studies continue to validate SOT principles in areas ranging from pediatric colic to concussion recovery.
 
-See our [Research and Evidence page](https://puravidablog.vercel.app/en/sot-research) for citations.
+See our [Research and Evidence page](https://puravidasanantonio.com/en/sot-research) for citations.
 
 ## Will SOT make me healthier?
 
@@ -122,7 +122,7 @@ Our practice sees multiple generations of San Antonio families.
 
 You get a real, individualized plan. Not a template.
 
-[Read the full first-visit walkthrough](https://puravidablog.vercel.app/en/blog/first-visit)
+[Read the full first-visit walkthrough](https://puravidasanantonio.com/en/blog/first-visit)
 
 ## Does insurance cover SOT care?
 
@@ -130,7 +130,7 @@ Pura Vida Chiropractic is insurance-friendly. We also offer auto-injury care wit
 
 ## How do I book a free evaluation?
 
-Call **(210) 685-1994** or [book online](https://puravidablog.vercel.app/en/contact). Your free evaluation includes a one-on-one consultation with Dr. Foss to discuss your concerns and determine if SOT is a fit. If we cannot help you, we will point you to someone who can.
+Call **(210) 685-1994** or [book online](https://puravidasanantonio.com/en/contact). Your free evaluation includes a one-on-one consultation with Dr. Foss to discuss your concerns and determine if SOT is a fit. If we cannot help you, we will point you to someone who can.
 
 ---
 

@@ -99,9 +99,9 @@ Sales con el conocimiento de que algo medible cambió.
 
 ## Lectura Adicional
 
-- [Categorías SOT I, II y III explicadas](https://puravidablog.vercel.app/es/blog/categorias-sot)
-- [¿Qué son los bloques SOT y cómo funcionan?](https://puravidablog.vercel.app/es/blog/bloques-sot)
-- [La página pilar de SOT](https://puravidablog.vercel.app/es/sot)
+- [Categorías SOT I, II y III explicadas](https://puravidasanantonio.com/es/blog/categorias-sot)
+- [¿Qué son los bloques SOT y cómo funcionan?](https://puravidasanantonio.com/es/blog/bloques-sot)
+- [La página pilar de SOT](https://puravidasanantonio.com/es/sot)
 
 ---
 

@@ -113,7 +113,7 @@ Yes. Serious injury from chiropractic adjustment is estimated at less than 1 per
 
 If what you have read here resonates with your experience — if you have been adjusted for years without real resolution, or you have a child with chronic ear infections, or you have had a concussion and have not been the same since — SOT may be what you have been missing.
 
-Dr. Dan Foss offers a free evaluation. Call **(210) 685-1994** or book online at [puravidablog.vercel.app](https://puravidablog.vercel.app).
+Dr. Dan Foss offers a free evaluation. Call **(210) 685-1994** or book online at [puravidasanantonio.com](https://puravidasanantonio.com).
 
 ---
 

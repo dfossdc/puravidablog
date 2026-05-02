@@ -74,7 +74,7 @@ SOT ha sido practicado clínicamente en miles de consultorios en todo el mundo d
 
 SORSI mantiene un programa activo de investigación y una Red de Investigación Basada en Evidencia (EBRN). Nuevos estudios continúan validando los principios SOT en áreas que van desde el cólico infantil hasta la recuperación de conmociones.
 
-Consulta nuestra [página de Investigación y Evidencia](https://puravidablog.vercel.app/es/sot-investigacion) para citas.
+Consulta nuestra [página de Investigación y Evidencia](https://puravidasanantonio.com/es/sot-investigacion) para citas.
 
 ## ¿SOT me hará más saludable?
 
@@ -122,7 +122,7 @@ Nuestra clínica atiende a múltiples generaciones de familias de San Antonio.
 
 Obtienes un plan real e individualizado. No una plantilla.
 
-[Lee el recorrido completo de la primera visita](https://puravidablog.vercel.app/es/blog/primera-visita)
+[Lee el recorrido completo de la primera visita](https://puravidasanantonio.com/es/blog/primera-visita)
 
 ## ¿Cubre el seguro el cuidado SOT?
 
@@ -130,7 +130,7 @@ Pura Vida Quiropráctica acepta seguros. También ofrecemos cuidado para lesione
 
 ## ¿Cómo reservo una evaluación gratuita?
 
-Llama al **(210) 685-1994** o [reserva en línea](https://puravidablog.vercel.app/es/contact). Tu evaluación gratuita incluye una consulta individual con el Dr. Foss para discutir tus preocupaciones y determinar si SOT es adecuado. Si no podemos ayudarte, te indicaremos a alguien que sí pueda.
+Llama al **(210) 685-1994** o [reserva en línea](https://puravidasanantonio.com/es/contact). Tu evaluación gratuita incluye una consulta individual con el Dr. Foss para discutir tus preocupaciones y determinar si SOT es adecuado. Si no podemos ayudarte, te indicaremos a alguien que sí pueda.
 
 ---
 

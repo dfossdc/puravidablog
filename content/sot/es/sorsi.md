@@ -86,9 +86,9 @@ Cuando recibes cuidado SOT Avanzado en Pura Vida, estás recibiendo la expresió
 
 ## Aprende Más
 
-- Lee la historia de [Dr. DeJarnette — "El Mayor"](https://puravidablog.vercel.app/es/blog/historia-dejarnette)
-- Lee la [página pilar de SOT](https://puravidablog.vercel.app/es/sot)
-- Explora nuestra [página de Investigación y Evidencia](https://puravidablog.vercel.app/es/sot-investigacion)
+- Lee la historia de [Dr. DeJarnette — "El Mayor"](https://puravidasanantonio.com/es/blog/historia-dejarnette)
+- Lee la [página pilar de SOT](https://puravidasanantonio.com/es/sot)
+- Explora nuestra [página de Investigación y Evidencia](https://puravidasanantonio.com/es/sot-investigacion)
 - Visita [el sitio oficial de SORSI](https://sorsi.com) para los materiales propios de la organización
 
 ## ¿Listo para Experimentar Cuidado SOT Avanzado?

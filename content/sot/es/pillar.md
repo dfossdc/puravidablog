@@ -33,8 +33,8 @@ En Pura Vida Quiropráctica llamamos a esto el **Protocolo Pura Vida** — el cu
 
 Usando indicadores neurológicos y bloques pélvicos, el Dr. Foss identifica cuál de las tres categorías de disfunción pélvico-vertebral está presente y la corrige. Esta es la base. Aborda la inestabilidad sacroilíaca, problemas de disco, ciática, dolor lumbar y las disfunciones en cascada que provienen de una base pélvica distorsionada.
 
-[Lee: Las Categorías I, II y III de SOT explicadas](https://puravidablog.vercel.app/es/blog/categorias-sot)
-[Lee: ¿Qué son los bloques SOT y cómo funcionan?](https://puravidablog.vercel.app/es/blog/bloques-sot)
+[Lee: Las Categorías I, II y III de SOT explicadas](https://puravidasanantonio.com/es/blog/categorias-sot)
+[Lee: ¿Qué son los bloques SOT y cómo funcionan?](https://puravidasanantonio.com/es/blog/bloques-sot)
 
 ### Pilar 2 — Los Órganos (CMRT)
 
@@ -42,7 +42,7 @@ La **Técnica de Reflejo Manipulativo Quiropráctico (CMRT)** es la rama de ajus
 
 Condiciones que CMRT comúnmente ayuda: ERGE y reflujo ácido, fatiga adrenal, problemas digestivos crónicos, dolor referido de vesícula e hígado, SPM y problemas menstruales, infertilidad, estrés renal, estreñimiento, y más.
 
-[Lee: ¿Qué es CMRT?](https://puravidablog.vercel.app/es/blog/que-es-cmrt)
+[Lee: ¿Qué es CMRT?](https://puravidasanantonio.com/es/blog/que-es-cmrt)
 
 ### Pilar 3 — El Cráneo (Craneopatía SOT)
 
@@ -50,7 +50,7 @@ Los 22 huesos de tu cráneo continúan moviéndose en la edad adulta — un movi
 
 La Craneopatía SOT restaura suavemente el movimiento craneal y el flujo del LCR. El Dr. Foss es el único craneópata SOT Avanzado en San Antonio.
 
-[Lee: El Impulso Rítmico Craneal](https://puravidablog.vercel.app/es/blog/impulso-ritmico-craneal)
+[Lee: El Impulso Rítmico Craneal](https://puravidasanantonio.com/es/blog/impulso-ritmico-craneal)
 
 ## El Mecanismo Respiratorio Craneo-Sacral (CSRM)
 
@@ -84,7 +84,7 @@ La mayoría de las técnicas quiroprácticas ajustan la columna y se detienen ah
 
 El Dr. Major Bertrand DeJarnette — "El Mayor" — fue ingeniero, osteópata y quiropráctico que pasó 60 años y más de 135 volúmenes publicados desarrollando SOT. Financió su propia investigación vendiendo una patente de fotografía a color a Kodak durante la Gran Depresión. Probó cada procedimiento en sí mismo antes de enseñarlo.
 
-[Lee la historia completa del Dr. DeJarnette](https://puravidablog.vercel.app/es/blog/historia-dejarnette)
+[Lee la historia completa del Dr. DeJarnette](https://puravidasanantonio.com/es/blog/historia-dejarnette)
 
 ## ¿Qué es SORSI y Por Qué Importa la Certificación?
 
@@ -115,14 +115,14 @@ SOT se busca con mayor frecuencia para condiciones que no se han resuelto con ot
 4. Reporte de hallazgos — el Dr. Foss explica en qué categoría estás y cuál es el plan.
 5. Tu primer ajuste, adaptado a tus hallazgos de ese día.
 
-[Lee: Qué esperar en tu primera visita](https://puravidablog.vercel.app/es/blog/primera-visita)
+[Lee: Qué esperar en tu primera visita](https://puravidasanantonio.com/es/blog/primera-visita)
 
 ## ¿Es Seguro SOT? ¿Está Probado?
 
 SOT ha sido practicado clínicamente en miles de consultorios en todo el mundo durante más de 90 años. La investigación reciente coloca el riesgo de lesión grave por un ajuste quiropráctico en **menos de 1 en 6,000,000**. Para contexto, el quiropráctico promedio paga $1,000–$2,000 por año por seguro de mala praxis; muchos médicos pagan más que eso por semana. El método suave de SOT basado en bloques está entre los más seguros dentro de la quiropráctica.
 
-[Lee nuestras preguntas frecuentes completas sobre SOT](https://puravidablog.vercel.app/es/sot-faq)
-[Lee sobre la investigación y evidencia SOT](https://puravidablog.vercel.app/es/sot-investigacion)
+[Lee nuestras preguntas frecuentes completas sobre SOT](https://puravidasanantonio.com/es/sot-faq)
+[Lee sobre la investigación y evidencia SOT](https://puravidasanantonio.com/es/sot-investigacion)
 
 ## ¿Listo para Experimentar Verdadero Cuidado SOT en San Antonio?
 
