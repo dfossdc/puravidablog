@@ -168,12 +168,54 @@ export default async function QuiropraticoSanAntonioPage({ params }: Props) {
     ],
   };
 
+  // Spanish FAQ — supports the "quiropratico san antonio" target keyword
+  // (note: "quiropratico" is the common typo of "quiropráctico" — Spanish
+  // speakers often drop the 'c' or accent. Pages capture both spellings
+  // via this slug + the canonical /es/san-antonio-quiropractico).
+  const faqs = [
+    {
+      q: "¿Cuál es la diferencia entre \"quiropráctico\" y \"quiropratico\"?",
+      a: "Es la misma palabra. \"Quiropráctico\" es la ortografía formal en español; \"quiropratico\" sin acento ni la 'c' inicial es una variante común que muchos pacientes usan al buscar en Google. Ambas se refieren al profesional licenciado que ajusta la columna vertebral y trata problemas neuromusculoesqueléticos. En Pura Vida Chiropractic atendemos a quien busque cualquiera de las dos formas.",
+    },
+    {
+      q: "¿Cómo encuentro un buen quiropráctico en San Antonio?",
+      a: "Tres criterios prácticos: 1) Verifique su licencia activa con el Texas Board of Chiropractic Examiners. 2) Pregunte por certificaciones avanzadas más allá de la licencia básica (SOT, Webster, Activator). 3) Lea reseñas verificadas de Google. El Dr. Foss en Pura Vida cumple los tres criterios — licencia activa de TX, certificación SOT Avanzada del SORSI, y 147+ reseñas de 5 estrellas en Google.",
+    },
+    {
+      q: "¿Qué tratamientos ofrece el quiropráctico Pura Vida?",
+      a: "Ajustes quiroprácticos tradicionales, técnica SOT (Sacro Occipital), terapia SoftWave para regeneración tisular, terapia láser Clase IV, terapia de ondas de choque, técnica Webster para embarazo, ajustes craneales y pediátricos, y rehabilitación post-accidente automovilístico. Tratamos más de 90 condiciones diferentes.",
+    },
+    {
+      q: "¿Cuánto cuesta una primera consulta con el quiropráctico Pura Vida?",
+      a: "Su primera consulta + evaluación completa es GRATIS. Esto incluye historial médico, evaluación postural, evaluación SOT y discusión del plan de cuidado. No hay obligación de continuar — usted decide después de conocer al Dr. Foss y entender qué tratamiento le recomienda.",
+    },
+    {
+      q: "¿Cómo agendar cita con el quiropráctico Dr. Foss en San Antonio?",
+      a: "Tres formas: 1) Llame al (210) 685-1994 (atendemos en español). 2) Reserve en línea en puravidasanantonio.com. 3) Visítenos en 2318 NW Military Hwy Suite 103, San Antonio, TX 78231. Horario: Lunes, Martes y Jueves de 7 AM a 4 PM.",
+    },
+    {
+      q: "¿El quiropráctico en San Antonio atiende los fines de semana?",
+      a: "Actualmente atendemos Lunes, Martes y Jueves de 7:00 AM a 4:00 PM. Cerrado Miércoles, Viernes, Sábado y Domingo. Para emergencias o casos especiales fuera del horario, llame al (210) 685-1994 y dejaremos un mensaje al Dr. Foss.",
+    },
+  ];
+
+  const faqSchema = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: faqs.map((f) => ({
+      "@type": "Question",
+      name: f.q,
+      acceptedAnswer: { "@type": "Answer", text: f.a },
+    })),
+  };
+
   return (
     <>
       <Header locale={locale as "en" | "es"} currentPath="/quiropratico-san-antonio" />
       <main className={styles.main}>
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(businessSchema) }} />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
 
         {/* Hero */}
         <section className={styles.hero}>
@@ -356,6 +398,21 @@ export default async function QuiropraticoSanAntonioPage({ params }: Props) {
               <a href="tel:+12106851994" className={styles.ctaPhone}>📞 (210) 685-1994</a>
             </div>
           </div>
+
+          {/* Spanish FAQ section — Preguntas Frecuentes */}
+          <section style={{ marginTop: "3rem", padding: "0 1.25rem", maxWidth: "880px", marginLeft: "auto", marginRight: "auto" }}>
+            <h2 style={{ fontSize: "1.6rem", color: "#1a3a4a", marginBottom: "1rem", fontWeight: 700 }}>
+              {isEs ? "Preguntas Frecuentes — Quiropratico San Antonio" : "Frequently Asked Questions"}
+            </h2>
+            <div style={{ display: "flex", flexDirection: "column", gap: "0.75rem" }}>
+              {faqs.map((f, i) => (
+                <details key={i} style={{ border: "1px solid #d6e4f0", borderRadius: "8px", padding: "0.85rem 1.1rem", background: "#fafbfd" }}>
+                  <summary style={{ cursor: "pointer", fontWeight: 600, color: "#1a3a4a", fontSize: "1.05rem" }}>{f.q}</summary>
+                  <p style={{ marginTop: "0.5rem", lineHeight: 1.7, color: "#333" }}>{f.a}</p>
+                </details>
+              ))}
+            </div>
+          </section>
 
         </div>
       </main>

@@ -400,6 +400,63 @@ export default async function HomePage({ params }: Props) {
           </div>
         </section>
 
+        {/* ── SPANISH RESOURCES HUB (only renders on /es) ─────────────
+            Promotes the 11 Spanish-language landing pages with Spanish
+            anchor text. Above-the-fold placement gives every Spanish page
+            an inbound link from the Spanish homepage — a major Spanish
+            internal-linking signal for Google. Eliminates the "orphaned
+            Spanish landing pages" problem and concentrates ranking
+            authority on the /es Spanish content cluster. */}
+        {isEs && (
+          <section style={{ background: "#fff", padding: "2.5rem 1.25rem" }}>
+            <div style={{ maxWidth: "1100px", margin: "0 auto" }}>
+              <h2 style={{ fontSize: "1.6rem", color: "#1a3a4a", marginBottom: "0.5rem", fontWeight: 700, textAlign: "center" }}>
+                Recursos Quiroprácticos en Español
+              </h2>
+              <p style={{ color: "#555", fontSize: "1.05rem", lineHeight: 1.6, marginBottom: "1.75rem", textAlign: "center", maxWidth: "640px", marginLeft: "auto", marginRight: "auto" }}>
+                Páginas e información en español sobre quiropráctica en San Antonio, TX. Atención bilingüe del Dr. Dan Foss, DC en Pura Vida Chiropractic.
+              </p>
+              <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(260px, 1fr))", gap: "0.75rem 1.25rem" }}>
+                {[
+                  { href: "/es/quiropractico-cerca-de-mi-san-antonio", label: "Quiropráctico Cerca de Mí en San Antonio", desc: "Encuentre el quiropráctico bilingüe más cercano." },
+                  { href: "/es/el-mejor-quiropractico-san-antonio", label: "El Mejor Quiropráctico de San Antonio", desc: "Por qué Pura Vida es elegido por miles de pacientes." },
+                  { href: "/es/san-antonio-quiropractico", label: "San Antonio Quiropráctico", desc: "Información completa sobre el quiropráctico en SA." },
+                  { href: "/es/quiropratico-san-antonio", label: "Quiropratico San Antonio", desc: "Quiropráctico que habla español en San Antonio." },
+                  { href: "/es/que-es-un-quiropractico", label: "¿Qué es un Quiropráctico?", desc: "Guía completa: qué hace, para qué sirve." },
+                  { href: "/es/huesero-san-antonio", label: "Huesero en San Antonio", desc: "La diferencia entre huesero y quiropráctico licenciado." },
+                  { href: "/es/quiropractico-para-migranas-san-antonio", label: "Quiropráctico para Migrañas", desc: "Alivio de migrañas con técnica SOT craneal." },
+                  { href: "/es/quiropractico-dolor-de-cabeza-san-antonio", label: "Quiropráctico para Dolor de Cabeza", desc: "Tratamiento de dolores de cabeza crónicos." },
+                  { href: "/es/quiropractico-escoliosis-san-antonio", label: "Quiropráctico para Escoliosis", desc: "Cuidado de escoliosis con SOT y técnicas avanzadas." },
+                  { href: "/es/quiropractico-postparto-san-antonio", label: "Quiropráctico Postparto", desc: "Recuperación postparto con cuidado craneal SOT." },
+                  { href: "/es/services/quiropractico-pediatrico", label: "Quiropráctico Pediátrico", desc: "Cuidado quiropráctico para bebés, niños y adolescentes." },
+                  { href: "/es/services/quiropractico-embarazo", label: "Quiropráctico para Embarazo", desc: "Técnica Webster certificada para mujeres embarazadas." },
+                ].map((item) => (
+                  <Link
+                    key={item.href}
+                    href={item.href}
+                    style={{
+                      display: "block",
+                      padding: "0.85rem 1rem",
+                      border: "1px solid #d6e4f0",
+                      borderRadius: "10px",
+                      background: "#fafbfd",
+                      textDecoration: "none",
+                      transition: "background 0.15s",
+                    }}
+                  >
+                    <div style={{ color: "#1a5d80", fontWeight: 600, fontSize: "1rem", marginBottom: "0.25rem" }}>
+                      {item.label}
+                    </div>
+                    <div style={{ color: "#666", fontSize: "0.875rem", lineHeight: 1.4 }}>
+                      {item.desc}
+                    </div>
+                  </Link>
+                ))}
+              </div>
+            </div>
+          </section>
+        )}
+
         {/* Wave: Trust bar (blue) → About (#F4F9FF) */}
         <WaveDown fill="#F4F9FF" />
 

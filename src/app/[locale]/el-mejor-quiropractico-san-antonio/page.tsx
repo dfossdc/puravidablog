@@ -132,12 +132,53 @@ export default async function ElMejorQuiropracticoPage({ params }: Props) {
     ],
   };
 
+  // Spanish FAQ — supports the "el mejor quiropractico san antonio" target
+  // keyword. Each Q matches a real Spanish-language search query pattern.
+  // Emits FAQPage JSON-LD for rich-snippet eligibility.
+  const faqs = [
+    {
+      q: "¿Qué hace que un quiropráctico sea \"el mejor\" en San Antonio?",
+      a: "Tres factores: experiencia clínica medible (años en práctica + número de pacientes atendidos), certificaciones avanzadas más allá de la licencia básica (en nuestro caso, certificación SOT Avanzada por SORSI), y reseñas verificadas de pacientes reales. El Dr. Dan Foss tiene 23+ años de práctica continua en San Antonio, certificación SOT Avanzada (rara en San Antonio), y más de 147 reseñas de 5 estrellas en Google.",
+    },
+    {
+      q: "¿Cómo escojo el mejor quiropráctico para mí en San Antonio?",
+      a: "Busque tres cosas: 1) Que tenga certificaciones específicas para su problema (por ejemplo, SOT para migrañas, Webster para embarazo, técnicas pediátricas para niños). 2) Que ofrezca primera consulta gratis para que pueda evaluar el ajuste sin riesgo. 3) Que hable su idioma (en San Antonio, esto significa bilingüe inglés/español). Pura Vida cumple los tres criterios.",
+    },
+    {
+      q: "¿Cuántos años de experiencia tiene el Dr. Foss?",
+      a: "23+ años en práctica clínica continua, con experiencia en Costa Rica, España, Irlanda, los Países Bajos y San Antonio desde 2010. Es uno de los pocos quiropráctico en San Antonio con certificación SOT Avanzada del SORSI (Sacro Occipital Research Society International).",
+    },
+    {
+      q: "¿El mejor quiropráctico de San Antonio habla español?",
+      a: "Sí. El Dr. Foss habla español con fluidez y todo el equipo de Pura Vida atiende a pacientes hispanos completamente en español — desde la primera llamada al (210) 685-1994 hasta cada visita de seguimiento. No necesita traductor.",
+    },
+    {
+      q: "¿Acepta seguro el mejor quiropráctico de San Antonio?",
+      a: "Somos insurance friendly. Traiga su tarjeta de seguro e identificación a la oficina y le ayudaremos a verificar cómo su seguro puede contribuir a su cuidado.",
+    },
+    {
+      q: "¿Cómo reservo cita con el mejor quiropráctico de San Antonio?",
+      a: "Llame al (210) 685-1994 o reserve su primera evaluación gratis en línea. Estamos en 2318 NW Military Hwy Suite 103, San Antonio, TX 78231 — fácil de alcanzar desde Stone Oak, Castle Hills, Alamo Heights, Helotes, Boerne, Schertz y todo el área metropolitana de San Antonio.",
+    },
+  ];
+
+  const faqSchema = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: faqs.map((f) => ({
+      "@type": "Question",
+      name: f.q,
+      acceptedAnswer: { "@type": "Answer", text: f.a },
+    })),
+  };
+
   return (
     <>
       <Header locale={locale as "en" | "es"} currentPath="/el-mejor-quiropractico-san-antonio" />
       <main className={styles.main}>
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(businessSchema) }} />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
 
         {/* Hero */}
         <section className={styles.hero}>
@@ -403,6 +444,21 @@ export default async function ElMejorQuiropracticoPage({ params }: Props) {
               </Link>
             </div>
           </div>
+
+          {/* Spanish FAQ section — Preguntas Frecuentes */}
+          <section style={{ marginTop: "3rem", padding: "0 1.25rem", maxWidth: "880px", marginLeft: "auto", marginRight: "auto" }}>
+            <h2 style={{ fontSize: "1.6rem", color: "#1a3a4a", marginBottom: "1rem", fontWeight: 700 }}>
+              {isEs ? "Preguntas Frecuentes — El Mejor Quiropráctico San Antonio" : "Frequently Asked Questions — Best Chiropractor San Antonio"}
+            </h2>
+            <div style={{ display: "flex", flexDirection: "column", gap: "0.75rem" }}>
+              {faqs.map((f, i) => (
+                <details key={i} style={{ border: "1px solid #d6e4f0", borderRadius: "8px", padding: "0.85rem 1.1rem", background: "#fafbfd" }}>
+                  <summary style={{ cursor: "pointer", fontWeight: 600, color: "#1a3a4a", fontSize: "1.05rem" }}>{f.q}</summary>
+                  <p style={{ marginTop: "0.5rem", lineHeight: 1.7, color: "#333" }}>{f.a}</p>
+                </details>
+              ))}
+            </div>
+          </section>
 
         </div>
       </main>

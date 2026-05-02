@@ -140,12 +140,29 @@ export default async function SanAntonioQuiropracticoPage({ params }: Props) {
     ],
   };
 
+  // Use the locale-appropriate version of the existing bilingual `faqs`
+  // array (defined at module scope) for the FAQPage JSON-LD. Page already
+  // renders these visually — adding schema unlocks rich-snippet eligibility.
+  const faqSchema = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: faqs.map((f) => {
+      const item = isEs ? f.es : f.en;
+      return {
+        "@type": "Question",
+        name: item.q,
+        acceptedAnswer: { "@type": "Answer", text: item.a },
+      };
+    }),
+  };
+
   return (
     <>
       <Header locale={locale as "en" | "es"} currentPath="/san-antonio-quiropractico" />
       <main className={styles.main}>
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(businessSchema) }} />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
 
         {/* Hero */}
         <section className={styles.hero}>
