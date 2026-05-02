@@ -201,6 +201,7 @@ const nextConfig = {
       { source: "/en/el-mejor-quiropractico-san-antonio", destination: "/es/el-mejor-quiropractico-san-antonio", permanent: true },
       { source: "/en/quiropratico-san-antonio",           destination: "/es/quiropratico-san-antonio",           permanent: true },
       { source: "/en/san-antonio-quiropractico",          destination: "/es/san-antonio-quiropractico",          permanent: true },
+      { source: "/en/quiropractico-cerca-de-mi-san-antonio", destination: "/es/quiropractico-cerca-de-mi-san-antonio", permanent: true },
 
       // ── Canonical consolidation: collapse duplicate English service slugs ──
       // The services route has multiple slugs that point to the same content

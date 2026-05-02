@@ -30,6 +30,9 @@ const staticPages = [
   "terms", "healthcare-disclaimer", "book-now",
   "provider-referral",
   "conditions", // /conditions index page (categorized directory)
+  // Tier 2 EN missing-keyword landing pages (Phase 2 keyword gap)
+  "chiropractor-near-me-san-antonio",
+  "best-chiropractor-san-antonio",
 ];
 
 // Pages that only exist at /es/ (Spanish-language SEO landing pages).
@@ -39,6 +42,7 @@ const spanishOnlyPages = [
   "el-mejor-quiropractico-san-antonio",
   "quiropratico-san-antonio",
   "san-antonio-quiropractico",
+  "quiropractico-cerca-de-mi-san-antonio",
 ];
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {

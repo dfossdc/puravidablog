@@ -83,11 +83,69 @@ const faqs = [
 export default async function SanAntonioQuiropracticoPage({ params }: Props) {
   const { locale } = await params;
   const isEs = locale === "es";
+  const canonical = `${BASE_URL}/${locale}/san-antonio-quiropractico`;
+
+  const businessSchema = {
+    "@context": "https://schema.org",
+    "@type": "Chiropractor",
+    "@id": canonical,
+    name: "Pura Vida Chiropractic",
+    alternateName: ["San Antonio Quiropráctico", "Pura Vida Quiropráctico San Antonio"],
+    description: isEs
+      ? "San Antonio quiropráctico bilingüe. Pura Vida Chiropractic — Dr. Dan Foss DC, atención en español, técnicas avanzadas."
+      : "San Antonio bilingual chiropractor. Pura Vida Chiropractic — Dr. Dan Foss DC, Spanish-language care, advanced techniques.",
+    image: `${BASE_URL}/images/dr-foss-adjusting-patient.webp`,
+    url: canonical,
+    telephone: "+12106851994",
+    address: {
+      "@type": "PostalAddress",
+      streetAddress: "2318 NW Military Hwy, Suite 103",
+      addressLocality: "San Antonio",
+      addressRegion: "TX",
+      postalCode: "78231",
+      addressCountry: "US",
+    },
+    geo: { "@type": "GeoCoordinates", latitude: 29.5447, longitude: -98.5394 },
+    contactPoint: {
+      "@type": "ContactPoint",
+      telephone: "+12106851994",
+      contactType: "customer service",
+      availableLanguage: ["English", "Spanish", "es", "en"],
+    },
+    knowsLanguage: ["en", "es"],
+    aggregateRating: {
+      "@type": "AggregateRating",
+      ratingValue: "4.9",
+      reviewCount: "147",
+      bestRating: "5",
+      worstRating: "1",
+    },
+    openingHoursSpecification: [
+      { "@type": "OpeningHoursSpecification", dayOfWeek: ["Monday", "Tuesday", "Thursday"], opens: "07:00", closes: "16:00" },
+    ],
+    priceRange: "$$",
+    sameAs: [
+      "https://www.youtube.com/@puravidadc",
+      "https://www.facebook.com/puravidasanantonio",
+      "https://www.instagram.com/puravidasanantonio",
+    ],
+  };
+
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: isEs ? "Inicio" : "Home", item: `${BASE_URL}/${locale}` },
+      { "@type": "ListItem", position: 2, name: isEs ? "San Antonio Quiropráctico" : "San Antonio Chiropractor", item: canonical },
+    ],
+  };
 
   return (
     <>
       <Header locale={locale as "en" | "es"} currentPath="/san-antonio-quiropractico" />
       <main className={styles.main}>
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(businessSchema) }} />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
 
         {/* Hero */}
         <section className={styles.hero}>

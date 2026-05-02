@@ -75,11 +75,69 @@ const services = [
 export default async function ElMejorQuiropracticoPage({ params }: Props) {
   const { locale } = await params;
   const isEs = locale === "es";
+  const canonical = `${BASE_URL}/${locale}/el-mejor-quiropractico-san-antonio`;
+
+  const businessSchema = {
+    "@context": "https://schema.org",
+    "@type": "Chiropractor",
+    "@id": canonical,
+    name: "Pura Vida Chiropractic",
+    alternateName: ["El Mejor Quiropráctico San Antonio", "Pura Vida Quiropráctico", "Best Chiropractor San Antonio"],
+    description: isEs
+      ? "El mejor quiropráctico en San Antonio TX. Atención bilingüe, certificación SOT Avanzada, 23+ años de experiencia."
+      : "Best chiropractor in San Antonio TX. Bilingual care, Advanced SOT certification, 23+ years experience.",
+    image: `${BASE_URL}/images/dr-foss-adjusting-patient.webp`,
+    url: canonical,
+    telephone: "+12106851994",
+    address: {
+      "@type": "PostalAddress",
+      streetAddress: "2318 NW Military Hwy, Suite 103",
+      addressLocality: "San Antonio",
+      addressRegion: "TX",
+      postalCode: "78231",
+      addressCountry: "US",
+    },
+    geo: { "@type": "GeoCoordinates", latitude: 29.5447, longitude: -98.5394 },
+    contactPoint: {
+      "@type": "ContactPoint",
+      telephone: "+12106851994",
+      contactType: "customer service",
+      availableLanguage: ["English", "Spanish", "es", "en"],
+    },
+    knowsLanguage: ["en", "es"],
+    aggregateRating: {
+      "@type": "AggregateRating",
+      ratingValue: "4.9",
+      reviewCount: "147",
+      bestRating: "5",
+      worstRating: "1",
+    },
+    openingHoursSpecification: [
+      { "@type": "OpeningHoursSpecification", dayOfWeek: ["Monday", "Tuesday", "Thursday"], opens: "07:00", closes: "16:00" },
+    ],
+    priceRange: "$$",
+    sameAs: [
+      "https://www.youtube.com/@puravidadc",
+      "https://www.facebook.com/puravidasanantonio",
+      "https://www.instagram.com/puravidasanantonio",
+    ],
+  };
+
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: isEs ? "Inicio" : "Home", item: `${BASE_URL}/${locale}` },
+      { "@type": "ListItem", position: 2, name: isEs ? "El Mejor Quiropráctico San Antonio" : "Best Chiropractor San Antonio", item: canonical },
+    ],
+  };
 
   return (
     <>
       <Header locale={locale as "en" | "es"} currentPath="/el-mejor-quiropractico-san-antonio" />
       <main className={styles.main}>
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(businessSchema) }} />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
 
         {/* Hero */}
         <section className={styles.hero}>

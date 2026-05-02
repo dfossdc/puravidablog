@@ -26,13 +26,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: isEs
       ? "Quiropráctico San Antonio TX | Mejor Quiropráctico | Pura Vida Chiropractic"
-      : "Chiropractor San Antonio TX | Best Chiropractor Near Me | Pura Vida Chiropractic",
+      : "Chiropractors in San Antonio TX | Best Chiropractor Near Me | Pura Vida Chiropractic",
     description: isEs
       ? "El Dr. Dan Foss — mejor quiropráctico en San Antonio TX. Ajuste quiropráctico San Antonio, terapia SoftWave, láser Clase IV. Quiropráctico cerca de mí en Stone Oak, Castle Hills, Alamo Heights y Helotes. Técnica SOT, quiropráctico que habla español, más de 23 años de experiencia. ¡Evaluación quiropráctica gratis San Antonio!"
-      : "Dr. Dan Foss — best chiropractor in San Antonio TX. Chiropractic adjustment San Antonio, SoftWave therapy, Class IV laser. Chiropractor near me serving Stone Oak, Castle Hills, Alamo Heights, and Helotes. SOT chiropractic, Spanish-speaking chiropractor, 23+ years experience. Free chiropractic evaluation San Antonio!",
+      : "Pura Vida Chiropractic — top-rated chiropractors in San Antonio TX. Dr. Dan Foss DC offers chiropractic adjustment, SoftWave therapy, Class IV laser. Chiropractor near me serving Stone Oak, Castle Hills, Alamo Heights, and Helotes. SOT chiropractic, Spanish-speaking chiropractors in San Antonio TX, 23+ years experience. Free evaluation!",
     keywords: isEs
       ? ["quiropráctico San Antonio", "mejor quiropráctico San Antonio TX", "quiropráctico cerca de mí", "ajuste quiropráctico San Antonio", "quiropráctica SOT San Antonio", "quiropráctico que habla español San Antonio", "terapia SoftWave San Antonio", "láser Clase IV San Antonio"]
-      : ["chiropractor San Antonio", "best chiropractor San Antonio TX", "chiropractor near me San Antonio", "chiropractic adjustment San Antonio", "SOT chiropractic San Antonio", "SoftWave therapy San Antonio", "Class IV laser San Antonio", "Spanish speaking chiropractor San Antonio"],
+      : ["chiropractor San Antonio", "chiropractors in San Antonio TX", "chiropractor in San Antonio TX", "best chiropractor San Antonio TX", "chiropractor near me San Antonio", "chiropractic adjustment San Antonio", "SOT chiropractic San Antonio", "SoftWave therapy San Antonio", "Class IV laser San Antonio", "Spanish speaking chiropractor San Antonio"],
     alternates: {
       canonical,
       languages: {
@@ -339,15 +339,15 @@ export default async function HomePage({ params }: Props) {
           <div className={styles.heroInner}>
             <div className={styles.heroText}>
               <p className={styles.heroEyebrow}>
-                {isEs ? "Cuidado Quiropráctico Bilingüe — San Antonio, TX" : "Bilingual Chiropractic Care — San Antonio, TX"}
+                {isEs ? "Quiropráctico Bilingüe en San Antonio, TX" : "Top-Rated Chiropractors in San Antonio, TX — Bilingual Care"}
               </p>
               <h1 className={styles.heroTitle}>
                 {isEs ? "No Solo Ajustamos su Espalda. Tratamos Todo su Sistema." : "We Don't Just Adjust Your Back. We Treat Your Whole System."}
               </h1>
               <p className={styles.heroSub}>
                 {isEs
-                  ? "La única práctica con certificación SOT Avanzada en San Antonio — tratando la columna vertebral, los órganos y el cráneo como un sistema integrado."
-                  : "San Antonio's only Advanced SOT certified practice — treating the spine, organs, and cranium as one connected system."}
+                  ? "Pura Vida Chiropractic — la única práctica con certificación SOT Avanzada entre los quiroprácticos en San Antonio, TX. Tratamos la columna vertebral, los órganos y el cráneo como un sistema integrado, en inglés y español."
+                  : "Pura Vida Chiropractic — among chiropractors in San Antonio, TX, we are the only Advanced SOT certified practice. Treating the spine, organs, and cranium as one connected system, in English and Spanish."}
               </p>
               <div className={styles.heroTrust}>
                 <span className={styles.heroTrustItem}>⭐ {isEs ? "147+ Reseñas 5 Estrellas" : "147+ Five-Star Reviews"}</span>

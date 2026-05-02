@@ -110,11 +110,70 @@ const techServices = [
 export default async function QuiropraticoSanAntonioPage({ params }: Props) {
   const { locale } = await params;
   const isEs = locale === "es";
+  const canonical = `${BASE_URL}/${locale}/quiropratico-san-antonio`;
+
+  // Chiropractor LocalBusiness schema with bilingual ContactPoint
+  const businessSchema = {
+    "@context": "https://schema.org",
+    "@type": "Chiropractor",
+    "@id": canonical,
+    name: "Pura Vida Chiropractic",
+    alternateName: ["Pura Vida Quiropráctico", "Quiropráctico San Antonio Pura Vida", "Quiropráctico en San Antonio"],
+    description: isEs
+      ? "Quiropráctico en San Antonio TX. Atención bilingüe, técnica SOT, láser Clase IV y SoftWave."
+      : "Chiropractor in San Antonio TX. Bilingual care, SOT technique, Class IV laser, SoftWave therapy.",
+    image: `${BASE_URL}/images/dr-foss-adjusting-patient.webp`,
+    url: canonical,
+    telephone: "+12106851994",
+    address: {
+      "@type": "PostalAddress",
+      streetAddress: "2318 NW Military Hwy, Suite 103",
+      addressLocality: "San Antonio",
+      addressRegion: "TX",
+      postalCode: "78231",
+      addressCountry: "US",
+    },
+    geo: { "@type": "GeoCoordinates", latitude: 29.5447, longitude: -98.5394 },
+    contactPoint: {
+      "@type": "ContactPoint",
+      telephone: "+12106851994",
+      contactType: "customer service",
+      availableLanguage: ["English", "Spanish", "es", "en"],
+    },
+    knowsLanguage: ["en", "es"],
+    openingHoursSpecification: [
+      { "@type": "OpeningHoursSpecification", dayOfWeek: ["Monday", "Tuesday", "Thursday"], opens: "07:00", closes: "16:00" },
+    ],
+    aggregateRating: {
+      "@type": "AggregateRating",
+      ratingValue: "4.9",
+      reviewCount: "147",
+      bestRating: "5",
+      worstRating: "1",
+    },
+    priceRange: "$$",
+    sameAs: [
+      "https://www.youtube.com/@puravidadc",
+      "https://www.facebook.com/puravidasanantonio",
+      "https://www.instagram.com/puravidasanantonio",
+    ],
+  };
+
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: isEs ? "Inicio" : "Home", item: `${BASE_URL}/${locale}` },
+      { "@type": "ListItem", position: 2, name: isEs ? "Quiropráctico San Antonio" : "Chiropractor San Antonio", item: canonical },
+    ],
+  };
 
   return (
     <>
       <Header locale={locale as "en" | "es"} currentPath="/quiropratico-san-antonio" />
       <main className={styles.main}>
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(businessSchema) }} />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
 
         {/* Hero */}
         <section className={styles.hero}>
