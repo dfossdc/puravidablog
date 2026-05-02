@@ -17,7 +17,11 @@ export const metadata: Metadata = {
   metadataBase: new URL(BASE_URL),
   title: {
     default: "Pura Vida Chiropractic | San Antonio, TX",
-    template: "%s | Pura Vida Chiropractic",
+    // template intentionally just %s — every page sets its own complete title.
+    // Earlier "%s | Pura Vida Chiropractic" was DOUBLE-suffixing pages whose
+    // titles already contained the brand, ballooning <title> tags to 130-150
+    // chars and triggering Semrush's "too much text in title tag" on 81 pages.
+    template: "%s",
   },
   description:
     "Bilingual chiropractic clinic in San Antonio, TX specializing in SOT, SoftWave, shockwave, Class IV laser, auto injury, and pediatric/prenatal care. Free consultation.",

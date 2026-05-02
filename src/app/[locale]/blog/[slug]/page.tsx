@@ -34,7 +34,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!post) return {};
   const canonical = `${BASE_URL}/${locale}/blog/${slug}`;
   return {
-    title: `${post.title} | Pura Vida Chiropractic San Antonio`,
+    title: post.title,
     description: post.description,
     keywords: post.keywords,
     authors: [{ name: post.author }],
