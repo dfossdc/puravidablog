@@ -95,6 +95,6 @@ Neuropathy doesn't have to control your life. With Dr. Dan Foss's integrated app
 
 If you're experiencing numbness, tingling, burning, or weakness in your extremities, don't wait. Contact Pura Vida Chiropractic today at **(210) 685-1994** to schedule your consultation with Dr. Dan Foss. Learn how chiropractic care can help restore nerve function and improve your quality of life.
 
-Visit us at [https://puravidasanantonio.com/](https://puravidasanantonio.com/) to learn more about our neuropathy treatment options and the comprehensive care we provide to San Antonio residents.
+Visit us at [Pura Vida Chiropractic San Antonio](https://puravidasanantonio.com/) to learn more about our neuropathy treatment options and the comprehensive care we provide to San Antonio residents.
 
 Your health journey toward better nerve function and reduced neuropathic pain begins at Pura Vida Chiropractic.

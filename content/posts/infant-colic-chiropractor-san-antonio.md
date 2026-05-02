@@ -155,7 +155,7 @@ Your baby doesn't have to suffer through months of colic. Dr. Dan Foss and the t
 
 📍 2318 NW Military Hwy Suite 103, San Antonio TX 78231
 📞 (210) 685-1994
-🌐 [https://puravidasanantonio.com/](https://puravidasanantonio.com/)
+🌐 [Pura Vida Chiropractic San Antonio](https://puravidasanantonio.com/)
 
 Many families start with a consultation to discuss their concerns—no pressure, just compassionate, expert guidance. Your baby's comfort is our priority.
 

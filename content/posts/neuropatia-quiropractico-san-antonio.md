@@ -91,6 +91,6 @@ La neuropatía no tiene que controlar su vida. Con el enfoque integral del Dr. D
 
 Si experimenta entumecimiento, hormigueo, ardor o debilidad en sus extremidades, no espere. Póngase en contacto con Pura Vida Quiropráctica hoy al **(210) 685-1994** para programar su consulta con el Dr. Dan Foss. Descubra cómo la atención quiropráctica puede ayudarle a restaurar la función nerviosa y mejorar su calidad de vida.
 
-Visite [https://puravidasanantonio.com/](https://puravidasanantonio.com/) para obtener más información sobre nuestras opciones de tratamiento de neuropatía y el cuidado integral que proporcionamos a los residentes de San Antonio.
+Visite [Pura Vida Chiropractic San Antonio](https://puravidasanantonio.com/) para obtener más información sobre nuestras opciones de tratamiento de neuropatía y el cuidado integral que proporcionamos a los residentes de San Antonio.
 
 Su viaje hacia una mejor función nerviosa y una reducción del dolor neuropático comienza en Pura Vida Quiropráctica.

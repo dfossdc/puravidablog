@@ -193,7 +193,7 @@ Your baby doesn't have to "wait and see" if there's a proven solution available.
 
 📍 2318 NW Military Hwy Suite 103, San Antonio TX 78231
 📞 (210) 685-1994
-🌐 [https://puravidasanantonio.com/](https://puravidasanantonio.com/)
+🌐 [Pura Vida Chiropractic San Antonio](https://puravidasanantonio.com/)
 
 Dr. Dan Foss and the team at Pura Vida Chiropractic understand what's at stake. They've lived it. They've seen the transformation that specialized pediatric chiropractic care can provide. And they're ready to help your family experience the same relief and resolution.
 
