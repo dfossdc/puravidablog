@@ -44,7 +44,7 @@ Photobiomodulation has a direct neuroprotective and neurorestorative effect, mak
 
 ### Headaches and Migraines
 
-Combined with [cranial chiropractic adjusting](/en/services/cranial-chiropractic), Class IV laser applied to the cervical muscles and suboccipital region can significantly reduce the frequency and severity of cervicogenic headaches and migraines.
+Combined with [cranial chiropractic adjusting](/en/services/sot-chiropractic), Class IV laser applied to the cervical muscles and suboccipital region can significantly reduce the frequency and severity of cervicogenic headaches and migraines.
 
 ### Soft Tissue Injuries and Tendinopathies
 

@@ -103,7 +103,7 @@ Dr. Dan's recommended at-home water bite device for immediate relief is the [Aqu
 
 - [Headaches & Migraines Chiropractor in San Antonio](/en/blog/headaches-migraines-chiropractor-san-antonio)
 - [Neck Pain Chiropractor in San Antonio](/en/blog/neck-pain-chiropractor-san-antonio)
-- [Cranial Chiropractic Service](/en/services/cranial-chiropractic)
+- [Cranial Chiropractic Service](/en/services/sot-chiropractic)
 - [SOT Chiropractic Service](/en/services/sot-chiropractic)
 
 ## Frequently Asked Questions

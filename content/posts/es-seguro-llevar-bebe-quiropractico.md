@@ -88,8 +88,8 @@ No es necesaria una referencia médica para traer a su bebé. Sin embargo, si su
 
 - [Quiropráctica Durante el Embarazo](/es/blog/quiropractica-para-embarazo-natural)
 - [Quiropráctica Para la Comunidad Latina de San Antonio](/es/blog/quiropractica-comunidad-latina-san-antonio)
-- [Quiropráctica Pediátrica](/es/services/pediatric-chiropractic)
-- [Quiropráctica para Bebés](/es/services/infant-chiropractic)
+- [Quiropráctica Pediátrica](/es/services/quiropractico-pediatrico)
+- [Quiropráctica para Bebés](/es/services/quiropractico-infantes)
 
 ---
 

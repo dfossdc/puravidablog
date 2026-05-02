@@ -206,7 +206,7 @@ export default async function MeetDrFossPage({ params }: Props) {
                 <h3>{isEs ? "Técnica Sacro-Occipital (SOT)" : "Sacro-Occipital Technique (SOT)"}</h3>
                 <p>{isEs ? "El nivel más alto de certificación SOT disponible. Una de las pocas clínicas en San Antonio con Certificación Avanzada SOT." : "The highest level of SOT certification available. One of the few clinics in San Antonio with Advanced SOT Certification."}</p>
               </Link>
-              <Link href={`/${locale}/services/cranial-chiropractic`} className={styles.specialtyCard}>
+              <Link href={`/${locale}/services/sot-chiropractic`} className={styles.specialtyCard}>
                 <h3>{isEs ? "Terapia Craneal y Cráneo-Sacral" : "Cranial & Craniosacral Therapy"}</h3>
                 <p>{isEs ? "Ajuste craneal avanzado para TMJ, vértigo, infecciones del oído, sinusitis y condiciones del neurodesarrollo." : "Advanced cranial adjusting for TMJ, vertigo, ear infections, sinus congestion, and neurodevelopmental conditions."}</p>
               </Link>

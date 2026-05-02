@@ -99,7 +99,7 @@ Most children show noticeable improvement within 4-6 weeks of regular cranial ca
 For deeper understanding of speech and cranial mechanics:
 - [**Tongue Tie and Chiropractic**](/en/blog/tongue-tie-and-chiropractic)
 - [**Sphenoid Bone: Master Bone of the Skull**](/en/blog/sphenoid-bone-master-bone-of-the-skull)
-- [**Cranial Chiropractic**](/en/services/cranial-chiropractic)
+- [**Cranial Chiropractic**](/en/services/sot-chiropractic)
 - [**Pediatric Chiropractor**](/en/services/pediatric-chiropractor)
 - [**Vagus Nerve: Gut-Heart-Spine Connection**](/en/blog/vagus-nerve-gut-heart-spine-connection)
 - Related condition: [**Chronic Ear Infections in Children: Chiropractic Approach**](/en/blog/chronic-ear-infections-children-chiropractic-cranial-san-antonio) — hearing affects speech development

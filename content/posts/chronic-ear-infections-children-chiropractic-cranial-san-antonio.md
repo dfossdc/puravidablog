@@ -94,7 +94,7 @@ I am honest about limitations. If your child has:
 For deeper understanding of ear health and chiropractic:
 - [**Temporal Bones, Ears, Vertigo & Tinnitus: Cranial Adjusting**](/en/blog/temporal-bones-ears-vertigo-tinnitus-cranial-adjusting)
 - [**Pediatric Chiropractor**](/en/services/pediatric-chiropractor)
-- [**Cranial Chiropractic**](/en/services/cranial-chiropractic)
+- [**Cranial Chiropractic**](/en/services/sot-chiropractic)
 - [**Infants Chiropractic**](/en/services/infants-chiropractic)
 - [**Sphenobasilar Synchondrosis: The Most Important Joint You've Never Heard Of**](/en/blog/sphenobasilar-synchondrosis-most-important-joint-never-heard-of)
 - Related condition: [**ADHD & Pediatric Chiropractic Care**](/en/blog/adhd-pediatric-chiropractic-care-san-antonio) — many ADHD kids also have chronic ear history

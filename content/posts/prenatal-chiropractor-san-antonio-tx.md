@@ -64,7 +64,7 @@ Treatment is always performed with your comfort and your baby's safety as the to
 
 The journey does not end at delivery. The postpartum period brings its own physical demands — new positions for feeding, carrying the baby, and the recovery from delivery itself (whether vaginal or by C-section). Dr. Foss also offers postpartum chiropractic care to help new moms restore alignment and ease post-delivery back and hip pain.
 
-Additionally, **[infant chiropractic care](/en/services/infant-chiropractic)** for newborns is available to address any tension or restrictions that may have developed during the birth process.
+Additionally, **[infant chiropractic care](/en/services/infants-chiropractic)** for newborns is available to address any tension or restrictions that may have developed during the birth process.
 
 ## Why Choose Dr. Dan Foss for Prenatal Chiropractic
 
@@ -92,7 +92,7 @@ Pura Vida Chiropractic serves pregnant patients from **Stone Oak, Alamo Heights,
 - [Sciatica Chiropractor in San Antonio](/en/blog/sciatica-chiropractor-san-antonio)
 - [Back Pain Chiropractor in San Antonio](/en/blog/back-pain-chiropractor-san-antonio)
 - [Pediatric & Prenatal Chiropractic](/en/blog/pediatric-prenatal)
-- [Pediatric Chiropractic Service](/en/services/pediatric-chiropractic)
+- [Pediatric Chiropractic Service](/en/services/pediatric-chiropractor)
 - [Contact Us](/en/contact)
 
 ---

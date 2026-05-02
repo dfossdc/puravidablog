@@ -172,7 +172,7 @@ export default function ReviewCarousel({ locale }: Props) {
                   {displayText}
                   {isTruncated && (
                     <a
-                      href="https://puravidasanantonio.com/review-us/"
+                      href="https://puravidasanantonio.com/en/testimonials/"
                       target="_blank"
                       rel="noopener noreferrer"
                       className={styles.readMore}
@@ -210,7 +210,7 @@ export default function ReviewCarousel({ locale }: Props) {
 
       {/* Bottom CTA bar */}
       <a
-        href="https://puravidasanantonio.com/review-us/"
+        href="https://puravidasanantonio.com/en/testimonials/"
         target="_blank"
         rel="noopener noreferrer"
         className={styles.ctaBar}

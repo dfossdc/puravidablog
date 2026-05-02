@@ -60,7 +60,7 @@ Dr. Foss uses a multi-modal approach that sets Pura Vida Chiropractic apart from
 The **[Pura Vida Protocol](https://puravidasanantonio.com/chiropractic-care/)** integrates:
 
 - **[SOT Chiropractic](/en/services/sot-chiropractic)** — the most advanced and gentle chiropractic method for correcting spinal and pelvic imbalances
-- **[Cranial Therapy](/en/services/cranial-chiropractic)** — addressing the connection between the skull, sacrum, and nervous system
+- **[Cranial Therapy](/en/services/sot-chiropractic)** — addressing the connection between the skull, sacrum, and nervous system
 - **Soft tissue and manual therapy** — releasing tight muscles and fascial restrictions
 - **[SoftWave Therapy](/en/services/softwave-therapy)** — regenerative acoustic wave technology to reduce inflammation
 - **[Class IV Laser Therapy](/en/services/class-iv-laser)** — deep photobiomodulation to reduce pain and accelerate repair

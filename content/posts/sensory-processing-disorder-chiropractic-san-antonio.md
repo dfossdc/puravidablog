@@ -104,7 +104,7 @@ For deeper understanding of vestibular and proprioceptive systems:
 - [**Sphenobasilar Synchondrosis: The Most Important Joint You've Never Heard Of**](/en/blog/sphenobasilar-synchondrosis-most-important-joint-never-heard-of)
 - [**Dural Tension: The Hidden Force Pulling Your Spine Out of Alignment**](/en/blog/dural-tension-hidden-force-pulling-spine-out-of-alignment)
 - [**Pediatric Chiropractor**](/en/services/pediatric-chiropractor)
-- [**Cranial Chiropractic**](/en/services/cranial-chiropractic)
+- [**Cranial Chiropractic**](/en/services/sot-chiropractic)
 - Related condition: [**Autism Spectrum & Chiropractic: A Cranial Perspective**](/en/blog/autism-spectrum-chiropractic-cranial-san-antonio)
 
 ## Frequently Asked Questions

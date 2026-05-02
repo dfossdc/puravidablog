@@ -110,7 +110,7 @@ For deeper understanding of vagal tone and ADHD:
 - [**Occiput & Atlas: Where Skull Meets Spine**](/en/blog/occiput-atlas-where-skull-meets-spine)
 - [**Dural Tension: The Hidden Force Pulling Your Spine Out of Alignment**](/en/blog/dural-tension-hidden-force-pulling-spine-out-of-alignment)
 - [**Pediatric Chiropractor**](/en/services/pediatric-chiropractor)
-- [**Cranial Chiropractic**](/en/services/cranial-chiropractic)
+- [**Cranial Chiropractic**](/en/services/sot-chiropractic)
 - Related condition: [**Autism Spectrum & Chiropractic: A Cranial Perspective**](/en/blog/autism-spectrum-chiropractic-cranial-san-antonio) — many ADHD and autism traits overlap
 
 ## Frequently Asked Questions

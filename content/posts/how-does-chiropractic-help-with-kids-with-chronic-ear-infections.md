@@ -91,7 +91,7 @@ Pura Vida Chiropractic serves families from **Stone Oak, Alamo Heights, Castle H
 
 - [Pediatric Chiropractic in San Antonio](/en/blog/quiropractica-en-ninos)
 - [Is It Safe to Take a Baby to the Chiropractor?](/en/blog/is-it-safe-to-take-a-baby-to-the-chiropractor)
-- [Pediatric Chiropractic Service](/en/services/pediatric-chiropractic)
+- [Pediatric Chiropractic Service](/en/services/pediatric-chiropractor)
 - [Contact Us](/en/contact)
 
 ---

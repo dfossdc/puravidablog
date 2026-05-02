@@ -61,7 +61,7 @@ El **[Protocolo Pura Vida](https://puravidasanantonio.com/chiropractic-care/)** 
 - **[Terapia SoftWave](/es/services/terapia-softwave)** — activa células madre y reduce la inflamación en tejidos cronicamente dañados
 - **[Terapia Láser Clase IV](/es/services/laser-clase-iv)** — penetra profundamente en los músculos y articulaciones para reducir la inflamación
 - **[Terapia de Ondas de Choque](/es/services/terapia-ondas-de-choque)** — descompone el tejido cicatricial y los puntos gatillo crónicos
-- **[Terapia Craneal](/es/services/cranial-chiropractic)** — aborda la tensión meníngea que contribuye al dolor espinal
+- **[Terapia Craneal](/es/services/quiropractica-sot)** — aborda la tensión meníngea que contribuye al dolor espinal
 
 ## Qué Esperar en Pura Vida Quiropráctica
 

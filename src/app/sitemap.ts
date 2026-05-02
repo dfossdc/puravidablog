@@ -7,7 +7,7 @@ import { neighborhoodSlugs } from "@/lib/neighborhoods";
 const BASE_URL = "https://puravidasanantonio.com";
 
 // Service slugs that resolve to actual pages (no redirects).
-// Previous "// New services" block listed slugs like /en/services/cranial-chiropractic
+// Previous "// New services" block listed slugs like /en/services/sot-chiropractic
 // that 301-redirect to a canonical URL — Semrush flagged 10 of these as
 // "incorrect pages found in sitemap.xml" because sitemaps should only list
 // final destinations, not redirects. Removed.

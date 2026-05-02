@@ -46,7 +46,7 @@ Treatment typically involves gentle spinal adjustments focused on the thoracic s
 
 ## Why Choose Dr. Dan Foss
 
-Dr. Foss has been practicing chiropractic in San Antonio for over 23 years. He holds Advanced SOT Certification through SORSI and has specialized training in [cranial adjusting](/en/services/cranial-chiropractic) and [pediatric chiropractic care](/en/services/pediatric-chiropractic). His approach is always thorough, gentle, and individualized — not one-size-fits-all.
+Dr. Foss has been practicing chiropractic in San Antonio for over 23 years. He holds Advanced SOT Certification through SORSI and has specialized training in [cranial adjusting](/en/services/sot-chiropractic) and [pediatric chiropractic care](/en/services/pediatric-chiropractor). His approach is always thorough, gentle, and individualized — not one-size-fits-all.
 
 ## Frequently Asked Questions
 
@@ -67,7 +67,7 @@ Pura Vida Chiropractic serves pediatric patients and families from **Stone Oak, 
 
 - [How Does Chiropractic Help Kids with Chronic Ear Infections?](/en/blog/how-does-chiropractic-help-with-kids-with-chronic-ear-infections)
 - [Tongue Tie and Chiropractic](/en/blog/tongue-tie-and-chiropractic)
-- [Pediatric Chiropractic Service](/en/services/pediatric-chiropractic)
+- [Pediatric Chiropractic Service](/en/services/pediatric-chiropractor)
 - [Contact Us](/en/contact)
 
 ---

@@ -99,7 +99,7 @@ For deeper understanding of vagal tone and autism:
 - [**Sphenobasilar Synchondrosis: The Most Important Joint You've Never Heard Of**](/en/blog/sphenobasilar-synchondrosis-most-important-joint-never-heard-of)
 - [**Dural Tension: The Hidden Force Pulling Your Spine Out of Alignment**](/en/blog/dural-tension-hidden-force-pulling-spine-out-of-alignment)
 - [**Pediatric Chiropractor**](/en/services/pediatric-chiropractor)
-- [**Cranial Chiropractic**](/en/services/cranial-chiropractic)
+- [**Cranial Chiropractic**](/en/services/sot-chiropractic)
 - Related condition: [**Sensory Processing Disorder & Chiropractic Care**](/en/blog/sensory-processing-disorder-chiropractic-san-antonio)
 
 ## Frequently Asked Questions

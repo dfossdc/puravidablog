@@ -46,7 +46,7 @@ The **[Sacro-Occipital Technique (SOT)](/en/services/sot-chiropractic)** is the 
 
 ### Cranial Therapy
 
-**[Cranial chiropractic](/en/services/cranial-chiropractic)** balances the bones of the skull and the meningeal system — the membrane surrounding the brain and spinal cord. Many wellness patients notice improvements in mental clarity, sleep quality, and stress resilience after incorporating cranial therapy into their regular care.
+**[Cranial chiropractic](/en/services/sot-chiropractic)** balances the bones of the skull and the meningeal system — the membrane surrounding the brain and spinal cord. Many wellness patients notice improvements in mental clarity, sleep quality, and stress resilience after incorporating cranial therapy into their regular care.
 
 ### SoftWave Therapy
 

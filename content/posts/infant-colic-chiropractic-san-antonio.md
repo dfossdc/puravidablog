@@ -97,7 +97,7 @@ Absolutely. I have adjusted thousands of newborns. The adjustments are so gentle
 
 For deeper understanding of infant health and birth trauma:
 - [**Infants Chiropractic**](/en/services/infants-chiropractic)
-- [**Cranial Chiropractic**](/en/services/cranial-chiropractic)
+- [**Cranial Chiropractic**](/en/services/sot-chiropractic)
 - [**Why Pregnancy Is the Most Important Time for Chiropractic Care**](/en/blog/why-pregnancy-is-the-most-important-time-for-chiropractic-care) — preparation before birth
 - [**Plagiocephaly (Flat Head Syndrome) & Chiropractic**](/en/blog/plagiocephaly-flat-head-syndrome-chiropractic) — head shape in newborns
 - [**Occiput & Atlas: Where Skull Meets Spine**](/en/blog/occiput-atlas-where-skull-meets-spine)

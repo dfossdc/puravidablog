@@ -60,7 +60,7 @@ Sprains and strains of the muscles and ligaments of the neck, mid-back, and low 
 
 ### Concussion and Cranial Injury
 
-Chiropractic care — particularly Dr. Foss's specialized [cranial adjusting](/en/services/cranial-chiropractic) — can play a meaningful role in recovery from concussion by addressing tension in the cranial bones and cervical spine that contributes to headaches, dizziness, and cognitive symptoms.
+Chiropractic care — particularly Dr. Foss's specialized [cranial adjusting](/en/services/sot-chiropractic) — can play a meaningful role in recovery from concussion by addressing tension in the cranial bones and cervical spine that contributes to headaches, dizziness, and cognitive symptoms.
 
 ## How Chiropractic Helps After a Car Accident
 
@@ -68,7 +68,7 @@ Dr. Dan Foss uses a comprehensive approach to car accident injury care that incl
 
 - **Spinal Adjustment** — Restoring proper alignment to the cervical and lumbar spine, relieving pressure on discs and nerves
 - **[Sacro-Occipital Technique (SOT)](/en/services/sot-chiropractic)** — A gentle, structural technique that addresses pelvic and spinal imbalances created by collision forces
-- **[Cranial Adjusting](/en/services/cranial-chiropractic)** — Addressing the cranial bones and dural system, particularly valuable after head trauma
+- **[Cranial Adjusting](/en/services/sot-chiropractic)** — Addressing the cranial bones and dural system, particularly valuable after head trauma
 - **[SoftWave Therapy](/en/services/softwave-therapy)** — Regenerative acoustic wave treatment that reduces inflammation and stimulates healing in damaged soft tissue
 - **[Class IV Laser Therapy](/en/services/class-iv-laser)** — Deep photobiomodulation to reduce pain and inflammation and accelerate tissue repair
 
@@ -105,7 +105,7 @@ Pura Vida Chiropractic serves auto accident patients from across the greater San
 
 - [Neck Pain Chiropractor in San Antonio](/en/blog/neck-pain-chiropractor-san-antonio)
 - [Herniated Disc Chiropractor in San Antonio](/en/blog/herniated-disc-chiropractor-san-antonio)
-- [Cranial Chiropractic Service](/en/services/cranial-chiropractic)
+- [Cranial Chiropractic Service](/en/services/sot-chiropractic)
 - [SOT Chiropractic Service](/en/services/sot-chiropractic)
 - [Contact Us](/en/contact)
 

@@ -99,7 +99,7 @@ Pura Vida Chiropractic serves patients from **Stone Oak, Alamo Heights, Castle H
 - [Neck Pain Chiropractor in San Antonio](/en/blog/neck-pain-chiropractor-san-antonio)
 - [A Doctor's Perspective on TMJ](/en/blog/a-doctor-s-perspective-on-tmj)
 - [Auto Injury Chiropractor in San Antonio](/en/blog/auto-injury)
-- [Cranial Chiropractic Service](/en/services/cranial-chiropractic)
+- [Cranial Chiropractic Service](/en/services/sot-chiropractic)
 - [Contact Us](/en/contact)
 
 ---

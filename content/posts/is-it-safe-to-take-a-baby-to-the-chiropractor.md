@@ -128,7 +128,7 @@ Pura Vida Chiropractic serves families from **Stone Oak, Alamo Heights, Castle H
 - [Pediatric & Prenatal Chiropractic at Pura Vida](/en/blog/pediatric-prenatal)
 - [How Chiropractic Helps Kids with Ear Infections](/en/blog/how-does-chiropractic-help-with-kids-with-chronic-ear-infections)
 - [Prenatal Chiropractor in San Antonio](/en/blog/prenatal-chiropractor-san-antonio-tx)
-- [Infant Chiropractic Service](/en/services/infant-chiropractic)
+- [Infant Chiropractic Service](/en/services/infants-chiropractic)
 - [Contact Us](/en/contact)
 
 ---

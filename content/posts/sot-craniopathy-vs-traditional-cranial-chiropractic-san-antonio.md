@@ -128,7 +128,7 @@ This is why I emphasize my 23 years of pediatric experience. I have corrected th
 To understand SOT Craniopathy in the broader context of pediatric care:
 
 - [**Pediatric Chiropractor in San Antonio**](/en/services/pediatric-chiropractor) — my full approach to children's health
-- [**Cranial Chiropractic**](/en/services/cranial-chiropractic) — detailed overview of cranial services
+- [**Cranial Chiropractic**](/en/services/sot-chiropractic) — detailed overview of cranial services
 - [**Infants Chiropractic**](/en/services/infants-chiropractic) — why newborns benefit from adjustment
 - [**Sphenoid Bone: Master Bone of the Skull**](/en/blog/sphenoid-bone-master-bone-of-the-skull) — deep dive into cranial anatomy
 - [**Sphenobasilar Synchondrosis: The Most Important Joint You've Never Heard Of**](/en/blog/sphenobasilar-synchondrosis-most-important-joint-never-heard-of) — the mechanical foundation of SOT

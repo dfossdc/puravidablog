@@ -48,7 +48,7 @@ Dr. Foss uses the **[Sacro-Occipital Technique (SOT)](/en/services/sot-chiroprac
 
 ### Cranial Chiropractic Therapy
 
-For patients with neck pain that has a neurological component — especially headaches, dizziness, or hand numbness — **[cranial therapy](/en/services/cranial-chiropractic)** can be transformative. The relationship between the skull, the cervical spine, and the meningeal system is central to many cases of chronic neck pain. Dr. Foss is one of the few chiropractors in San Antonio with advanced certification in this specialized field.
+For patients with neck pain that has a neurological component — especially headaches, dizziness, or hand numbness — **[cranial therapy](/en/services/sot-chiropractic)** can be transformative. The relationship between the skull, the cervical spine, and the meningeal system is central to many cases of chronic neck pain. Dr. Foss is one of the few chiropractors in San Antonio with advanced certification in this specialized field.
 
 ### Class IV Laser Therapy
 
@@ -94,7 +94,7 @@ Yes. Cervical osteoarthritis is one of the most common conditions Dr. Foss treat
 - [Neck Pain Chiropractor in San Antonio](/en/blog/neck-pain-chiropractor-san-antonio)
 - [Headaches and Migraines Chiropractor in San Antonio](/en/blog/headaches-migraines-chiropractor-san-antonio)
 - [SOT Chiropractic in San Antonio](/en/blog/sot-chiropractic)
-- [Cranial Chiropractic Therapy](/en/services/cranial-chiropractic)
+- [Cranial Chiropractic Therapy](/en/services/sot-chiropractic)
 - [Contact Us](/en/contact)
 
 ---

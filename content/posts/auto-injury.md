@@ -83,7 +83,7 @@ Yes. You have the right to receive medical care for your injuries regardless of 
 
 ## Serving San Antonio Accident Victims
 
-Pura Vida Chiropractic serves auto accident patients from across San Antonio including **Stone Oak, Alamo Heights, Castle Hills, Leon Valley, Helotes, and Shavano Park**. Our [auto injury chiropractic service](/en/services/auto-injury-chiropractic) is designed specifically for accident recovery.
+Pura Vida Chiropractic serves auto accident patients from across San Antonio including **Stone Oak, Alamo Heights, Castle Hills, Leon Valley, Helotes, and Shavano Park**. Our [auto injury chiropractic service](/en/services/auto-injury) is designed specifically for accident recovery.
 
 ## Related Articles
 

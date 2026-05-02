@@ -98,7 +98,7 @@ Pura Vida Quiropráctica atiende a pacientes de **Stone Oak, Alamo Heights, Cast
 - [Quiropráctico para Dolor de Espalda en San Antonio](/es/blog/dolor-de-espalda-quiropractico-san-antonio)
 - [Quiropráctico para Hernia de Disco en San Antonio](/es/blog/hernia-disco-quiropractico-san-antonio)
 - [Quiropráctico para Dolores de Cabeza en San Antonio](/es/blog/dolores-de-cabeza-migranas-san-antonio)
-- [Servicio de Lesiones de Auto](/es/services/auto-injury-chiropractic)
+- [Servicio de Lesiones de Auto](/es/services/lesiones-de-auto)
 - [Contáctenos](/es/contact)
 
 ---

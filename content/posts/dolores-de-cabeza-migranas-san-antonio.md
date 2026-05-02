@@ -96,7 +96,7 @@ Pura Vida Quiropráctica atiende a pacientes de **Stone Oak, Alamo Heights, Cast
 - [Quiropráctico para Dolor de Cuello en San Antonio](/es/blog/dolor-de-cuello-quiropractico-san-antonio)
 - [Quiropráctico para Lesiones de Auto en San Antonio](/es/blog/lesiones-de-auto)
 - [¿Qué es una Subluxación Vertebral?](/es/blog/subluxacion-vertebral-que-es-quiropractico)
-- [Quiropráctica Craneal](/es/services/cranial-chiropractic)
+- [Quiropráctica Craneal](/es/services/quiropractica-sot)
 - [Contáctenos](/es/contact)
 
 ---

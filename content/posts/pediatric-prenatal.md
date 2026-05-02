@@ -78,7 +78,7 @@ Dr. Foss takes time to answer all your questions and explain clearly what he fou
 
 ## Why Choose Dr. Dan Foss for Pediatric and Prenatal Care
 
-Dr. Foss has been practicing chiropractic in San Antonio for over 23 years. His specialized training in pediatric and prenatal chiropractic, combined with his advanced certifications in [SOT](/en/services/sot-chiropractic) and [cranial adjustment](/en/services/cranial-chiropractic), make him one of the most complete chiropractors in San Antonio for families with specialized needs.
+Dr. Foss has been practicing chiropractic in San Antonio for over 23 years. His specialized training in pediatric and prenatal chiropractic, combined with his advanced certifications in [SOT](/en/services/sot-chiropractic) and [cranial adjustment](/en/services/sot-chiropractic), make him one of the most complete chiropractors in San Antonio for families with specialized needs.
 
 His personal connection to pediatric chiropractic — healed of torticollis as a child — drives a level of commitment and passion for this work that you will feel from the first visit.
 
@@ -102,7 +102,7 @@ Pura Vida Chiropractic serves families from **Stone Oak, Alamo Heights, Helotes,
 - [Is It Safe to Take a Baby to the Chiropractor?](/en/blog/is-it-safe-to-take-a-baby-to-the-chiropractor)
 - [How Does Chiropractic Help Kids with Chronic Ear Infections?](/en/blog/how-does-chiropractic-help-with-kids-with-chronic-ear-infections)
 - [Prenatal Chiropractic in San Antonio](/en/blog/prenatal-chiropractor-san-antonio-tx)
-- [Pediatric Chiropractic Service](/en/services/pediatric-chiropractic)
+- [Pediatric Chiropractic Service](/en/services/pediatric-chiropractor)
 - [Contact Us](/en/contact)
 
 ---

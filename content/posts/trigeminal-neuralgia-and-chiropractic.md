@@ -85,7 +85,7 @@ Pura Vida Chiropractic serves patients from **Stone Oak, Alamo Heights, Castle H
 
 - [A Doctor's Perspective on TMJ](/en/blog/a-doctor-s-perspective-on-tmj)
 - [Headaches & Migraines Chiropractor in San Antonio](/en/blog/headaches-migraines-chiropractor-san-antonio)
-- [Cranial Chiropractic Service](/en/services/cranial-chiropractic)
+- [Cranial Chiropractic Service](/en/services/sot-chiropractic)
 - [SOT Chiropractic Service](/en/services/sot-chiropractic)
 - [Contact Us](/en/contact)
 

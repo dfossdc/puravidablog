@@ -67,7 +67,7 @@ Para los bebés y niños pequeños, el examen es rápido, suave y generalmente s
 
 ## Por Qué Elegir al Dr. Dan Foss para el Cuidado Pediátrico
 
-El Dr. Foss tiene formación especializada en quiropráctica pediátrica y más de 23 años de experiencia clínica en San Antonio. Sus certificaciones avanzadas en [SOT](/es/services/quiropractica-sot) y [ajuste craneal](/es/services/cranial-chiropractic) lo distinguen de la mayoría de los quiroprácticos generales, ya que le permiten abordar condiciones más complejas como tortícolis, problemas de desarrollo neurológico y secuelas de traumatismos de parto.
+El Dr. Foss tiene formación especializada en quiropráctica pediátrica y más de 23 años de experiencia clínica en San Antonio. Sus certificaciones avanzadas en [SOT](/es/services/quiropractica-sot) y [ajuste craneal](/es/services/quiropractica-sot) lo distinguen de la mayoría de los quiroprácticos generales, ya que le permiten abordar condiciones más complejas como tortícolis, problemas de desarrollo neurológico y secuelas de traumatismos de parto.
 
 ## Preguntas Frecuentes
 
@@ -88,7 +88,7 @@ Pura Vida Quiropráctica atiende a familias de **Stone Oak, Alamo Heights, Castl
 
 - [¿Es Seguro Llevar a un Bebé al Quiropráctico?](/es/blog/es-seguro-llevar-bebe-quiropractico)
 - [Cómo Ayuda la Quiropráctica a los Niños con Infecciones de Oído](/es/blog/how-does-chiropractic-help-with-kids-with-chronic-ear-infections)
-- [Servicio de Quiropráctica Pediátrica](/es/services/pediatric-chiropractic)
+- [Servicio de Quiropráctica Pediátrica](/es/services/quiropractico-pediatrico)
 - [Contáctenos](/es/contact)
 
 ---

@@ -44,7 +44,7 @@ La fotobiomodulación tiene un efecto neuroprotector y neurorestaurador directo,
 
 ### Dolores de Cabeza y Migrañas
 
-Combinado con el [ajuste quiropráctico craneal](/es/services/cranial-chiropractic), el láser Clase IV aplicado a los músculos cervicales y la región suboccipital puede reducir significativamente la frecuencia e intensidad de los dolores de cabeza cervicogénicos y las migrañas.
+Combinado con el [ajuste quiropráctico craneal](/es/services/quiropractica-sot), el láser Clase IV aplicado a los músculos cervicales y la región suboccipital puede reducir significativamente la frecuencia e intensidad de los dolores de cabeza cervicogénicos y las migrañas.
 
 ## Qué Esperar Durante una Sesión
 

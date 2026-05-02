@@ -144,7 +144,7 @@ Muchas de nuestras mamás continúan el cuidado quiropráctico después del part
 - [¿Es Seguro Llevar a Mi Bebé al Quiropráctico?](/es/blog/es-seguro-llevar-bebe-quiropractico)
 - [Quiropráctico para Ciática en San Antonio](/es/blog/ciatica-quiropractico-san-antonio)
 - [Quiropráctico para Dolor de Espalda en San Antonio](/es/blog/dolor-de-espalda-quiropractico-san-antonio)
-- [Quiropráctica Prenatal](/es/services/pregnancy-chiropractic)
+- [Quiropráctica Prenatal](/es/services/quiropractico-embarazo)
 
 ## Por Qué Elegir Pura Vida Chiropractic Para Su Cuidado Prenatal
 

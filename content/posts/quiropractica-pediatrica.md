@@ -80,7 +80,7 @@ Pura Vida Quiropráctica atiende a familias de **Stone Oak, Alamo Heights, Helot
 
 - [¿Es Seguro Llevar a un Bebé al Quiropráctico?](/es/blog/es-seguro-llevar-bebe-quiropractico)
 - [Quiropráctica para Embarazo Natural](/es/blog/quiropractica-para-embarazo-natural)
-- [Servicio de Quiropráctica Pediátrica](/es/services/pediatric-chiropractic)
+- [Servicio de Quiropráctica Pediátrica](/es/services/quiropractico-pediatrico)
 - [Contáctenos](/es/contact)
 
 ---

@@ -45,7 +45,7 @@ La **[Técnica Sacro-Occipital (SOT)](/es/services/quiropractica-sot)** es la pi
 
 ### Terapia Craneal
 
-El **[ajuste craneal](/es/services/cranial-chiropractic)** equilibra los huesos del cráneo y la tensión del sistema meníngeo, que recubre el cerebro y la médula espinal. Muchos pacientes de bienestar notan mejoras en la claridad mental, la calidad del sueño y el manejo del estrés después de incorporar la terapia craneal en su cuidado regular.
+El **[ajuste craneal](/es/services/quiropractica-sot)** equilibra los huesos del cráneo y la tensión del sistema meníngeo, que recubre el cerebro y la médula espinal. Muchos pacientes de bienestar notan mejoras en la claridad mental, la calidad del sueño y el manejo del estrés después de incorporar la terapia craneal en su cuidado regular.
 
 ### Terapia SoftWave
 
