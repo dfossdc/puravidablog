@@ -88,7 +88,7 @@ I typically recommend that we do 2-3 sessions of chiropractic and cranial adjust
 
 - [Evy Guerrero, D.D.S.](https://greenappleatx.com/) located in Southwest Austin
 
-- [Marilyn Brodeur, D.D.S.](https://www.infantdentalcenter.com/my-story.html) located in Corpus Christi, Texas
+- Marilyn Brodeur, D.D.S. located in Corpus Christi, Texas
 
 - [Manuel Castillo, D.D.S.](https://happypedident.com/) located in San Antonio
 

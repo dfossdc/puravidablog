@@ -22,10 +22,8 @@ mentions:
     url: "https://www.physicaltherapytx.com"
   - "@type": Organization
     name: "Thrive Head and Spinal Care - Dr Dutson"
-    url: "https://thriveheadandspinalcare.com"
   - "@type": Organization
     name: "Weston A. Price Foundation San Antonio"
-    url: "https://westonapricesa.org"
   - "@type": Organization
     name: "SORSI"
     url: "https://sorsi.com"
@@ -45,7 +43,7 @@ My journey began like many of you that are perhaps reading this blog. I was sitt
 
 I went to my dentist and they recommended a procedure called an apicoectomy.
 
-After discussing the procedure I decided that it was best just to have the tooth removed. I had been reading online about [Weston Price](https://westonapricesa.org/) and the dangers of root canals and decided it was time to take my root canal out.
+After discussing the procedure I decided that it was best just to have the tooth removed. I had been reading online about Weston Price and the dangers of root canals and decided it was time to take my root canal out.
 
 The procedure itself was pretty straight forward my dentist applied something to number the area and pulled the tooth out. After the procedure I was hoping that the pain would go away but it took literally almost 2 months while I was taking pain medication and antibiotics.
 
@@ -102,7 +100,7 @@ Loss of a loved one? New or lost job?Really taking a detailed history is the fir
 
 My office specializes in Cranial Adjusting to align the cranial bones in addition to TMJ adjusting, manipulation, and release.
 
-- Upper Cervical Chiropractic is also a great compliment. I see [Dr Dutson](https://thriveheadandspinalcare.com/) here in San Antonio for my upper cervical care and he has done wonders for my jaw!
+- Upper Cervical Chiropractic is also a great compliment. I see Dr Dutson here in San Antonio for my upper cervical care and he has done wonders for my jaw!
 
 - A Dentist who really knows what they are doing with TMJ. Again make sure you really talk to your Dentist about his experience treating TMJ. A nite guard for bruxism or teeth grinding is a lot different than an occlusal splint that holds the teeth in place. For bite-based TMJ treatment I personally refer patients to <a href="https://www.drbrianhale.com/tmj-tmd/" target="_blank" rel="noopener noreferrer" title="TMJ and TMD treatment San Antonio - Dr. Brian Hale DDS">Dr. Brian Hale, DDS</a> at 1100 NW Loop 410, Suite 511, San Antonio — a specialist in Gneuromuscular Dentistry who has personally resolved his own TMD and brings that lived experience to every patient.
 
@@ -124,7 +122,7 @@ TMJ often requires a team approach. Here are the San Antonio providers Dr. Dan h
 
 [Pura Vida Chiropractic — Cranial & SOT Adjusting](https://puravidasanantonio.com/tmj/) specializes in cranial bone alignment and upper cervical care for TMJ.
 
-For upper cervical chiropractic, I personally see [Dr. Dutson at Thrive Head & Spinal Care](https://thriveheadandspinalcare.com/) — he has done wonders for my jaw.
+For upper cervical chiropractic, I personally see Dr. Dutson at Thrive Head & Spinal Care — he has done wonders for my jaw.
 
 **Dentists — TMJ Specialists**
 
@@ -138,7 +136,7 @@ For biological holistic dentistry, [Wholesome Dentistry — Dr. Gonzalez & Dr. P
 
 **Functional & Holistic Resources**
 
-The [Weston A. Price Foundation — San Antonio Chapter](https://westonapricesa.org/) provides excellent nutrition and root cause dental health education.
+The Weston A. Price Foundation — San Antonio Chapter provides excellent nutrition and root cause dental health education.
 
 For finding an advanced SOT-certified chiropractor trained in TMJ, visit [SORSI — Sacro Occipital Research Society](https://sorsi.com/). [ICAK — Applied Kinesiology](https://www.icakusa.com/) practitioners use muscle testing to identify jaw and cranial imbalances.
 
