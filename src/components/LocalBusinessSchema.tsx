@@ -35,7 +35,7 @@ export default function LocalBusinessSchema() {
     "sameAs": [
       "https://www.facebook.com/puravidasanantonio/",
       "https://www.instagram.com/puravidasatx/",
-      "https://www.youtube.com/@puravidasanantonio",
+      "https://www.youtube.com/@puravidadc",
       "https://www.yelp.com/biz/pura-vida-chiropractic-san-antonio",
       "https://www.healthgrades.com/providers/daniel-foss-2h2pq",
       "https://www.yellowpages.com/san-antonio-tx/mip/pura-vida-chiropractic-472722413",
