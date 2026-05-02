@@ -217,6 +217,20 @@ const nextConfig = {
       { source: "/en/blog/ansiedad-deprenion-quiropractico-san-antonio", destination: "/es/blog/ansiedad-depresion-quiropractico-san-antonio", permanent: true },
       { source: "/es/blog/ansiedad-deprenion-quiropractico-san-antonio", destination: "/es/blog/ansiedad-depresion-quiropractico-san-antonio", permanent: true },
 
+      // ── ILLEGAL "Que Acepta Medicaid" posts: HARD redirect to insurance page ──
+      // Per Dr. Foss compliance directive: "it is illegal to say that we accept
+      // insurance or medicaid or medicare because we don't those gotta go".
+      // The markdown files were deleted in commit 10961a0, but Semrush issue #6
+      // still shows these 2 URLs serving the illegal title (cached crawl from
+      // before the unpushed commits land). Hard 301 redirects ensure that
+      // immediately on deploy these URLs go to safe content, even if Vercel
+      // caching takes a moment to drop the deleted page from edge cache. Also
+      // catches any external backlinks that might have pointed at these URLs.
+      { source: "/en/blog/quiropractico-medicaid-san-antonio", destination: "/en/blog", permanent: true },
+      { source: "/es/blog/quiropractico-medicaid-san-antonio", destination: "/es/blog", permanent: true },
+      { source: "/en/blog/quiropractico-que-aceptan-medicaid", destination: "/en/blog", permanent: true },
+      { source: "/es/blog/quiropractico-que-aceptan-medicaid", destination: "/es/blog", permanent: true },
+
       // ── Canonical consolidation: collapse duplicate English service slugs ──
       // The services route has multiple slugs that point to the same content
       // (e.g. /services/pediatric-chiropractor + /services/pediatric-chiropractic).
