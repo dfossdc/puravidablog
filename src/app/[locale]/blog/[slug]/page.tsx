@@ -40,16 +40,30 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     authors: [{ name: post.author }],
     alternates: {
       canonical,
-      languages: post.lang === "es"
-        ? {
-            es: `${BASE_URL}/es/blog/${slug}`,
-            "x-default": `${BASE_URL}/es/blog/${slug}`,
-          }
-        : {
-            en: `${BASE_URL}/en/blog/${slug}`,
-            es: `${BASE_URL}/es/blog/${slug}`,
-            "x-default": `${BASE_URL}/en/blog/${slug}`,
-          },
+      // Posts have language-specific slugs (EN and ES counterparts use
+      // totally different file names). Cross-language hreflangs are only
+      // emitted when the post explicitly declares its `translatedSlug`
+      // counterpart in frontmatter — otherwise we'd link to slugs that
+      // 404, which generated 966 broken internal links on Semrush.
+      languages: (() => {
+        const selfLang = post.lang === "es" ? "es" : "en";
+        const otherLang = selfLang === "es" ? "en" : "es";
+        const otherSlug = post.translatedSlug;
+        const otherUrl = otherSlug
+          ? `${BASE_URL}/${otherLang}/blog/${otherSlug}`
+          : null;
+        if (otherUrl) {
+          return {
+            [selfLang]: canonical,
+            [otherLang]: otherUrl,
+            "x-default": selfLang === "en" ? canonical : otherUrl,
+          };
+        }
+        return {
+          [selfLang]: canonical,
+          "x-default": canonical,
+        };
+      })(),
     },
     openGraph: {
       title: post.title,

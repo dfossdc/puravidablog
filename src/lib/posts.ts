@@ -24,6 +24,13 @@ export interface PostFrontmatter {
   slug: string;
   lang: string;
   mentions?: PostMention[];
+  /**
+   * Slug of the same post in the OTHER language. Set on EN posts to point at
+   * the ES counterpart and vice versa. When set, the page emits a proper
+   * cross-language hreflang. When unset, only own-language hreflang is emitted
+   * (safe — no broken links — but loses bilingual SEO benefit until paired).
+   */
+  translatedSlug?: string;
 }
 
 export interface FaqItem {
