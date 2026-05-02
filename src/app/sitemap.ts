@@ -55,6 +55,9 @@ const spanishOnlyPages = [
   "quiropractico-dolor-de-cabeza-san-antonio",
   "quiropractico-escoliosis-san-antonio",
   "quiropractico-postparto-san-antonio",
+  // Spanish-only definition + cultural pillars (Phase 2 Spanish dominate)
+  "que-es-un-quiropractico", // 1,860 vol cluster: que es / qué hace / para qué sirve
+  "huesero-san-antonio",     // cultural bridge: huesero (folk bone-setter) → licensed quiropráctico
 ];
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {

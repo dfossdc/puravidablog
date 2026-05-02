@@ -269,6 +269,323 @@ export const neighborhoods: NeighborhoodData[] = [
     lat: 29.4717,
     lng: -98.4855,
   },
+  // ─── Phase 2 hyperlocal expansion: high-Hispanic-density underserved areas ───
+  // Per Phase 2 Spanish keyword gap research (~65% of SA metro is Hispanic;
+  // Southside and Westside SA are 90-95% Hispanic). Zero competitors mapped in
+  // Spanish-language SA chiro keyword set compete in these neighborhoods.
+  // These pages target both English and Spanish search via /{locale}/{slug}-chiropractor.
+  {
+    slug: "south-san-antonio",
+    name: "South San Antonio",
+    nameEs: "South San Antonio",
+    distanceFromOffice: "about 25 minutes north via I-35 / Loop 410 (we are not located in South SA — patients drive to us at our NW Military Hwy office)",
+    distanceFromOfficeEs: "aproximadamente 25 minutos al norte por I-35 / Loop 410 (no estamos ubicados en South SA — los pacientes manejan a nuestra oficina en NW Military Hwy)",
+    areaDescription:
+      "South San Antonio is one of the city's most historic and family-rooted regions — predominantly Hispanic, with deep cultural ties going back generations. Pura Vida Chiropractic isn't located in South SA, but Dr. Dan Foss, DC has built a loyal patient base of South Side families who drive 25 minutes north to our NW Military Hwy office for fully bilingual, root-cause chiropractic care they can't find locally. Whether you're in 78214, 78221, 78223, 78225, or 78237, we're easy to reach via I-35 / Loop 410 — and you'll be welcomed in Spanish from the front desk to the adjustment room.",
+    areaDescriptionEs:
+      "South San Antonio es una de las regiones más históricas y familiares de la ciudad — predominantemente hispana, con profundas raíces culturales que se remontan a generaciones. Pura Vida Chiropractic no está ubicado en South SA, pero el Dr. Dan Foss, DC ha construido una base leal de pacientes de familias del South Side que manejan 25 minutos al norte a nuestra oficina en NW Military Hwy por atención quiropráctica de causa raíz completamente bilingüe que no encuentran localmente. Sea que esté en 78214, 78221, 78223, 78225 o 78237, somos accesibles por I-35 / Loop 410 — y será recibido en español desde la recepción hasta la sala de ajustes.",
+    title:
+      "South San Antonio Chiropractor | Pura Vida Chiropractic | Bilingual Care",
+    titleEs:
+      "Quiropráctico en South San Antonio | Atención Bilingüe | Pura Vida",
+    metaDescription:
+      "South San Antonio chiropractor — fully bilingual care for Hispanic families. SOT chiropractic, SoftWave, Class IV laser. Pura Vida Chiropractic serves 78214, 78221, 78223, 78225, 78237. Free first visit. (210) 685-1994.",
+    metaDescriptionEs:
+      "Quiropráctico para South San Antonio — atención completamente bilingüe para familias hispanas. Quiropráctica SOT, SoftWave, láser Clase IV. Pura Vida Chiropractic atiende 78214, 78221, 78223, 78225, 78237. Primera visita gratis. (210) 685-1994.",
+    whyChooseUs: [
+      "Fully bilingual chiropractic care — Spanish from first call to follow-up",
+      "Trusted by Hispanic families across SA's South Side for 23+ years",
+      "Insurance friendly — accepts Medicare, Aetna, BCBS, Cigna, UHC, and TRICARE",
+      "Pediatric, prenatal, and family-focused — your whole family in one office",
+    ],
+    whyChooseUsEs: [
+      "Atención quiropráctica completamente bilingüe — español desde la primera llamada hasta el seguimiento",
+      "Confiado por familias hispanas en el lado sur de SA por más de 23 años",
+      "Insurance friendly — acepta Medicare, Aetna, BCBS, Cigna, UHC y TRICARE",
+      "Pediátrica, prenatal y centrada en la familia — toda su familia en una oficina",
+    ],
+    commonConditions: [
+      { en: "Lower back pain from physical labor", es: "Dolor lumbar por trabajo físico" },
+      { en: "Neck pain", es: "Dolor de cuello" },
+      { en: "Headaches and migraines", es: "Dolores de cabeza y migrañas" },
+      { en: "Pregnancy and prenatal chiropractic", es: "Quiropráctica de embarazo y prenatal" },
+      { en: "Pediatric care for infants and children", es: "Atención pediátrica para bebés y niños" },
+      { en: "Auto accident injuries", es: "Lesiones de accidentes de auto" },
+    ],
+    landmarks: ["Mission San Jose", "Texas A&M San Antonio", "Brooks City Base", "Mission Trail", "Stinson Municipal Airport"],
+    landmarksEs: ["Misión San José", "Texas A&M San Antonio", "Brooks City Base", "Mission Trail", "Aeropuerto Stinson"],
+    zipCodes: ["78214", "78221", "78223", "78225", "78237"],
+    lat: 29.3822,
+    lng: -98.4806,
+  },
+  {
+    slug: "west-san-antonio",
+    name: "West San Antonio",
+    nameEs: "West San Antonio",
+    distanceFromOffice: "about 20 minutes northeast via Bandera Rd / Loop 410 (we are not located in the Westside — patients drive to our NW Military Hwy office)",
+    distanceFromOfficeEs: "aproximadamente 20 minutos al noreste por Bandera Rd / Loop 410 (no estamos ubicados en el Westside — los pacientes manejan a nuestra oficina en NW Military Hwy)",
+    areaDescription:
+      "West San Antonio is the heart of the city's Hispanic community — over 90% Hispanic across zip codes 78207, 78228, 78227, and 78237, including the Marbach corridor along Loop 410. Pura Vida Chiropractic isn't located in the Westside, but Dr. Dan Foss, DC has built a loyal patient base of Westside families who drive 20 minutes northeast to our NW Military Hwy office because they want fully bilingual care without language barriers — the same quality offered in any premium north-side practice. We're proud to serve Westside Hispanic families and treat language as zero-barrier from the front desk to the adjustment room.",
+    areaDescriptionEs:
+      "West San Antonio es el corazón de la comunidad hispana de la ciudad — más del 90% hispana en los códigos postales 78207, 78228, 78227 y 78237, incluyendo el corredor de Marbach a lo largo del Loop 410. Pura Vida Chiropractic no está ubicado en el Westside, pero el Dr. Dan Foss, DC ha construido una base leal de pacientes de familias del Westside que manejan 20 minutos al noreste a nuestra oficina en NW Military Hwy porque quieren atención completamente bilingüe sin barreras de idioma — la misma calidad ofrecida en cualquier práctica premium del lado norte. Atendemos a familias hispanas del Westside con orgullo, sin barreras de idioma desde la recepción hasta la mesa de ajustes.",
+    title:
+      "West San Antonio Chiropractor | Atención Bilingüe | Pura Vida Chiropractic",
+    titleEs:
+      "Quiropráctico en West San Antonio | Atención Bilingüe | Pura Vida",
+    metaDescription:
+      "West San Antonio chiropractor — fully bilingual care for the Westside Hispanic community. SOT, SoftWave, prenatal, pediatric. Pura Vida Chiropractic serves 78207, 78228, 78237. Free first visit. (210) 685-1994.",
+    metaDescriptionEs:
+      "Quiropráctico para West San Antonio — atención completamente bilingüe para la comunidad hispana del Westside. SOT, SoftWave, prenatal, pediátrica. Pura Vida Chiropractic atiende 78207, 78228, 78237. Primera visita gratis. (210) 685-1994.",
+    whyChooseUs: [
+      "Fully bilingual practice — Spanish from front desk to adjustment table",
+      "Family-focused care for SA's largest Hispanic community",
+      "Insurance friendly — most major plans accepted",
+      "Free first evaluation — no commitment, no high-pressure sales",
+    ],
+    whyChooseUsEs: [
+      "Práctica completamente bilingüe — español desde recepción hasta la mesa de ajuste",
+      "Atención centrada en la familia para la comunidad hispana más grande de SA",
+      "Insurance friendly — se aceptan la mayoría de los planes principales",
+      "Primera evaluación gratuita — sin compromiso, sin ventas de alta presión",
+    ],
+    commonConditions: [
+      { en: "Lower back pain", es: "Dolor lumbar" },
+      { en: "Neck pain and stiffness", es: "Dolor y rigidez de cuello" },
+      { en: "Sciatica", es: "Ciática" },
+      { en: "Pregnancy and prenatal chiropractic", es: "Quiropráctica de embarazo y prenatal" },
+      { en: "Infant colic, torticollis, latching", es: "Cólicos infantiles, torticolis, agarre" },
+      { en: "Auto accident injuries (PIP claims)", es: "Lesiones de accidentes de auto (reclamos PIP)" },
+    ],
+    landmarks: ["Market Square", "Plaza de Armas", "Westside Cultural Zone", "Our Lady of the Lake University", "Lanier High School", "Marbach Rd", "Las Palmas"],
+    landmarksEs: ["Mercado de la Plaza", "Plaza de Armas", "Zona Cultural del Westside", "Universidad Our Lady of the Lake", "Lanier High School", "Marbach Rd", "Las Palmas"],
+    zipCodes: ["78207", "78228", "78227", "78237"],
+    lat: 29.4319,
+    lng: -98.5564,
+  },
+  {
+    slug: "marbach-410",
+    name: "Marbach / Loop 410",
+    nameEs: "Marbach / Loop 410",
+    distanceFromOffice: "about 20 minutes northeast via Loop 410 (we are not located in Marbach — patients drive to our NW Military Hwy office)",
+    distanceFromOfficeEs: "aproximadamente 20 minutos al noreste por el Loop 410 (no estamos ubicados en Marbach — los pacientes manejan a nuestra oficina en NW Military Hwy)",
+    areaDescription:
+      "The Marbach corridor along Loop 410 — covering zip codes 78227, 78211, 78224, and parts of 78237 — is one of San Antonio's largest underserved Latino-dense markets. Working families, military members from Lackland AFB, and multi-generational households fill this part of the Westside. Pura Vida Chiropractic isn't located in Marbach, but we serve a steady stream of Marbach corridor families who drive 20 minutes around Loop 410 to our NW Military Hwy office for fully bilingual care, TRICARE acceptance, and accessible payment plans they can't easily find locally. Worth the drive — and the bilingual welcome is the same as if you walked in from down the street.",
+    areaDescriptionEs:
+      "El corredor de Marbach a lo largo del Loop 410 — cubriendo los códigos postales 78227, 78211, 78224 y partes de 78237 — es uno de los mercados latinos densos más grandes y desatendidos de San Antonio. Familias trabajadoras, miembros militares de Lackland AFB y hogares multigeneracionales llenan esta parte del Westside. Pura Vida Chiropractic no está ubicado en Marbach, pero atendemos un flujo constante de familias del corredor Marbach que manejan 20 minutos por el Loop 410 a nuestra oficina en NW Military Hwy por atención completamente bilingüe, aceptación de TRICARE y planes de pago accesibles que no encuentran fácilmente localmente. Vale el viaje — y la bienvenida bilingüe es la misma que si entraran desde la calle.",
+    title:
+      "Quiropráctico Marbach / Loop 410 | Atención Bilingüe | Pura Vida",
+    titleEs:
+      "Quiropráctico Marbach / Loop 410 | Atención Bilingüe | Pura Vida",
+    metaDescription:
+      "Marbach / Loop 410 chiropractor — bilingual care for the Westside Latino community. TRICARE for Lackland AFB families, accessible payment plans. Pura Vida Chiropractic serves 78227, 78211, 78224, 78237. (210) 685-1994.",
+    metaDescriptionEs:
+      "Quiropráctico Marbach / Loop 410 — atención bilingüe para la comunidad latina del Westside. TRICARE para familias de Lackland AFB, planes de pago accesibles. Pura Vida Chiropractic atiende 78227, 78211, 78224, 78237. (210) 685-1994.",
+    whyChooseUs: [
+      "Fully bilingual chiropractic care for Marbach corridor families",
+      "TRICARE accepted — Lackland AFB military families welcome",
+      "Insurance friendly + accessible payment plans for self-pay patients",
+      "Auto accident (PIP) claims accepted — common in the Loop 410 corridor",
+    ],
+    whyChooseUsEs: [
+      "Atención quiropráctica completamente bilingüe para familias del corredor Marbach",
+      "TRICARE aceptado — familias militares de Lackland AFB bienvenidas",
+      "Insurance friendly + planes de pago accesibles para pacientes sin seguro",
+      "Reclamos de accidentes de auto (PIP) aceptados — comunes en el corredor Loop 410",
+    ],
+    commonConditions: [
+      { en: "Lower back pain from physical labor", es: "Dolor lumbar por trabajo físico" },
+      { en: "Auto accident injuries / whiplash (Loop 410 corridor)", es: "Lesiones de accidentes de auto / latigazo (corredor Loop 410)" },
+      { en: "Neck pain", es: "Dolor de cuello" },
+      { en: "Pregnancy and prenatal chiropractic", es: "Quiropráctica de embarazo y prenatal" },
+      { en: "Pediatric care for infants and children", es: "Atención pediátrica para bebés y niños" },
+      { en: "Headaches and migraines", es: "Dolores de cabeza y migrañas" },
+    ],
+    landmarks: ["Marbach Rd", "Loop 410", "Lackland AFB", "SeaWorld San Antonio", "Las Palmas Shopping Center", "South Park Mall"],
+    landmarksEs: ["Marbach Rd", "Loop 410", "Lackland AFB", "SeaWorld San Antonio", "Las Palmas Shopping Center", "South Park Mall"],
+    zipCodes: ["78227", "78211", "78224", "78237"],
+    lat: 29.4063,
+    lng: -98.6422,
+  },
+  {
+    slug: "east-san-antonio",
+    name: "East San Antonio",
+    nameEs: "East San Antonio",
+    distanceFromOffice: "about 20 minutes northwest via I-35 / Loop 410 (we are not located in East SA — patients drive to our NW Military Hwy office)",
+    distanceFromOfficeEs: "aproximadamente 20 minutos al noroeste por I-35 / Loop 410 (no estamos ubicados en East SA — los pacientes manejan a nuestra oficina en NW Military Hwy)",
+    areaDescription:
+      "East San Antonio is a richly diverse, family-rooted community spanning zip codes 78202, 78203, 78208, 78215, 78219, and 78220 — including significant African American and Hispanic populations. Pura Vida Chiropractic isn't located in East SA, but Dr. Dan Foss, DC has built a loyal patient base of East Side families who drive 20 minutes northwest to our NW Military Hwy office for fully bilingual care, fair pricing, and advanced techniques (SOT, SoftWave, Class IV laser) not commonly offered locally. Reachable via I-35 / Loop 410 — and we welcome PIP / auto-accident referrals.",
+    areaDescriptionEs:
+      "East San Antonio es una comunidad ricamente diversa y familiar que abarca los códigos postales 78202, 78203, 78208, 78215, 78219 y 78220 — incluyendo poblaciones afroamericanas e hispanas significativas. Pura Vida Chiropractic no está ubicado en East SA, pero el Dr. Dan Foss, DC ha construido una base leal de pacientes de familias del East Side que manejan 20 minutos al noroeste a nuestra oficina en NW Military Hwy por atención completamente bilingüe, precios justos, y técnicas avanzadas (SOT, SoftWave, láser Clase IV) no comúnmente ofrecidas localmente.",
+    title:
+      "East San Antonio Chiropractor | Pura Vida Chiropractic | Bilingual Care",
+    titleEs:
+      "Quiropráctico en East San Antonio | Atención Bilingüe | Pura Vida",
+    metaDescription:
+      "East San Antonio chiropractor — bilingual care, auto-injury (PIP) accepted, insurance friendly. SOT, SoftWave, pediatric, prenatal. Pura Vida Chiropractic serves 78202, 78203, 78208, 78215, 78219, 78220. (210) 685-1994.",
+    metaDescriptionEs:
+      "Quiropráctico para East San Antonio — atención bilingüe, lesiones de auto (PIP) aceptadas, insurance friendly. SOT, SoftWave, pediátrica, prenatal. Pura Vida Chiropractic atiende 78202, 78203, 78208, 78215, 78219, 78220.",
+    whyChooseUs: [
+      "Fully bilingual care — Spanish and English with no quality difference",
+      "Insurance friendly + accepts auto-accident PIP claims",
+      "Pediatric and prenatal specialty for East SA families",
+      "Free first evaluation — meet Dr. Foss before any commitment",
+    ],
+    whyChooseUsEs: [
+      "Atención completamente bilingüe — español e inglés sin diferencia de calidad",
+      "Insurance friendly + acepta reclamos de PIP de accidentes de auto",
+      "Especialidad pediátrica y prenatal para las familias de East SA",
+      "Primera evaluación gratuita — conozca al Dr. Foss antes de cualquier compromiso",
+    ],
+    commonConditions: [
+      { en: "Lower back pain", es: "Dolor lumbar" },
+      { en: "Auto accident injuries / whiplash", es: "Lesiones de accidentes de auto / latigazo" },
+      { en: "Neck pain", es: "Dolor de cuello" },
+      { en: "Headaches", es: "Dolores de cabeza" },
+      { en: "Pregnancy and prenatal", es: "Embarazo y prenatal" },
+      { en: "Pediatric chiropractic", es: "Quiropráctica pediátrica" },
+    ],
+    landmarks: ["AT&T Center", "Sunset Station", "St. Philip's College", "Dignowity Hill", "Fort Sam Houston"],
+    landmarksEs: ["AT&T Center", "Sunset Station", "St. Philip's College", "Dignowity Hill", "Fort Sam Houston"],
+    zipCodes: ["78202", "78203", "78208", "78215", "78219", "78220"],
+    lat: 29.4256,
+    lng: -98.4525,
+  },
+  // ─── Phase 2 hyperlocal expansion: suburban growth markets ───
+  // Boerne, Schertz, Cibolo are growing northwest/northeast suburban markets
+  // with strong commute patterns into our office. Capture local "{city} chiropractor"
+  // searches that competitor Castle Hills currently dominates.
+  {
+    slug: "boerne",
+    name: "Boerne",
+    nameEs: "Boerne",
+    distanceFromOffice: "about 25 minutes northwest via I-10",
+    distanceFromOfficeEs: "aproximadamente 25 minutos al noroeste por I-10",
+    areaDescription:
+      "Boerne is the fast-growing Hill Country town just northwest of San Antonio (zip codes 78006, 78015) — known for its small-town charm, German heritage, and rapid family-driven growth. Pura Vida Chiropractic is a popular choice for Boerne families willing to drive 25 minutes for advanced SOT chiropractic, bilingual care, and specialty pediatric and prenatal services not available locally.",
+    areaDescriptionEs:
+      "Boerne es el pueblo de rápido crecimiento del Hill Country justo al noroeste de San Antonio (códigos postales 78006, 78015) — conocido por su encanto de pueblo pequeño, herencia alemana y crecimiento familiar rápido. Pura Vida Chiropractic es una opción popular para las familias de Boerne dispuestas a manejar 25 minutos por quiropráctica SOT avanzada, atención bilingüe y servicios especializados pediátricos y prenatales no disponibles localmente.",
+    title:
+      "Boerne Chiropractor | Pura Vida Chiropractic | Advanced SOT Care",
+    titleEs:
+      "Quiropráctico en Boerne | Pura Vida Chiropractic | Atención SOT",
+    metaDescription:
+      "Boerne chiropractor — Pura Vida Chiropractic offers Advanced SOT, SoftWave, Class IV laser, and bilingual care. Worth the 25-min drive from Boerne (78006, 78015). Free first visit. (210) 685-1994.",
+    metaDescriptionEs:
+      "Quiropráctico para Boerne — Pura Vida Chiropractic ofrece SOT Avanzada, SoftWave, láser Clase IV y atención bilingüe. Vale el viaje de 25 min desde Boerne (78006, 78015). Primera visita gratis. (210) 685-1994.",
+    whyChooseUs: [
+      "Advanced SOT certification — only practice in greater San Antonio",
+      "Pediatric and prenatal specialty unavailable in most Boerne practices",
+      "Bilingual care for Boerne's growing Hispanic community",
+      "Worth the 25-minute drive — many Boerne families make us their primary chiropractor",
+    ],
+    whyChooseUsEs: [
+      "Certificación SOT Avanzada — única práctica en el área metropolitana de San Antonio",
+      "Especialidad pediátrica y prenatal no disponible en la mayoría de prácticas de Boerne",
+      "Atención bilingüe para la creciente comunidad hispana de Boerne",
+      "Vale el viaje de 25 minutos — muchas familias de Boerne nos hacen su quiropráctico principal",
+    ],
+    commonConditions: [
+      { en: "Lower back pain", es: "Dolor lumbar" },
+      { en: "Pregnancy and prenatal chiropractic", es: "Quiropráctica de embarazo y prenatal" },
+      { en: "Pediatric chiropractic", es: "Quiropráctica pediátrica" },
+      { en: "Sports injuries", es: "Lesiones deportivas" },
+      { en: "Headaches and migraines", es: "Dolores de cabeza y migrañas" },
+      { en: "Auto accident injuries", es: "Lesiones de accidentes de auto" },
+    ],
+    landmarks: ["Main Street Boerne", "Cibolo Nature Center", "Boerne Lake", "Boerne High School", "I-10 corridor"],
+    landmarksEs: ["Main Street Boerne", "Cibolo Nature Center", "Boerne Lake", "Boerne High School", "Corredor I-10"],
+    zipCodes: ["78006", "78015"],
+    lat: 29.7947,
+    lng: -98.7320,
+  },
+  {
+    slug: "schertz",
+    name: "Schertz",
+    nameEs: "Schertz",
+    distanceFromOffice: "about 25 minutes northeast via Loop 1604",
+    distanceFromOfficeEs: "aproximadamente 25 minutos al noreste por el Loop 1604",
+    areaDescription:
+      "Schertz is the family-friendly suburb in the Randolph AFB / military corridor northeast of San Antonio (zip codes 78108, 78154). Pura Vida Chiropractic serves Schertz families — including many active-duty and military families — with bilingual care, TRICARE acceptance, and specialty pediatric and prenatal services.",
+    areaDescriptionEs:
+      "Schertz es el suburbio familiar en el corredor Randolph AFB / militar al noreste de San Antonio (códigos postales 78108, 78154). Pura Vida Chiropractic atiende a las familias de Schertz — incluyendo muchas familias militares en servicio activo — con atención bilingüe, aceptación de TRICARE y servicios pediátricos y prenatales especializados.",
+    title:
+      "Schertz Chiropractor | Pura Vida | Military / TRICARE Friendly",
+    titleEs:
+      "Quiropráctico en Schertz | Pura Vida | TRICARE / Militar",
+    metaDescription:
+      "Schertz chiropractor — Pura Vida Chiropractic accepts TRICARE for military families, plus most major insurance. SOT, SoftWave, prenatal, pediatric. Bilingual. 25 min from Schertz (78108, 78154). (210) 685-1994.",
+    metaDescriptionEs:
+      "Quiropráctico para Schertz — Pura Vida Chiropractic acepta TRICARE para familias militares, más la mayoría de seguros principales. SOT, SoftWave, prenatal, pediátrica. Bilingüe. 25 min de Schertz (78108, 78154). (210) 685-1994.",
+    whyChooseUs: [
+      "TRICARE accepted — Schertz / Randolph AFB military families welcome",
+      "Bilingual chiropractic care for Schertz's diverse population",
+      "Pediatric specialty for Schertz's growing families",
+      "Advanced SOT — the only Sacro-Occipital Technique specialist in the area",
+    ],
+    whyChooseUsEs: [
+      "TRICARE aceptado — familias militares de Schertz / Randolph AFB bienvenidas",
+      "Atención quiropráctica bilingüe para la diversa población de Schertz",
+      "Especialidad pediátrica para las crecientes familias de Schertz",
+      "SOT Avanzada — el único especialista en Técnica Sacro-Occipital en el área",
+    ],
+    commonConditions: [
+      { en: "Lower back pain", es: "Dolor lumbar" },
+      { en: "Neck pain (deployment / training related)", es: "Dolor de cuello (relacionado con despliegue / entrenamiento)" },
+      { en: "Pregnancy and prenatal", es: "Embarazo y prenatal" },
+      { en: "Pediatric chiropractic", es: "Quiropráctica pediátrica" },
+      { en: "Sports injuries", es: "Lesiones deportivas" },
+      { en: "Auto accident injuries", es: "Lesiones de accidentes de auto" },
+    ],
+    landmarks: ["Randolph AFB", "Schertz City Hall", "Crescent Bend Nature Park", "Steele High School", "FM 78"],
+    landmarksEs: ["Randolph AFB", "Schertz City Hall", "Crescent Bend Nature Park", "Steele High School", "FM 78"],
+    zipCodes: ["78108", "78154"],
+    lat: 29.5511,
+    lng: -98.2697,
+  },
+  {
+    slug: "cibolo",
+    name: "Cibolo",
+    nameEs: "Cibolo",
+    distanceFromOffice: "about 30 minutes northeast via Loop 1604",
+    distanceFromOfficeEs: "aproximadamente 30 minutos al noreste por el Loop 1604",
+    areaDescription:
+      "Cibolo is the rapidly growing family suburb northeast of San Antonio (zip code 78108) — one of the fastest-growing communities in Texas. Pura Vida Chiropractic serves Cibolo families with bilingual chiropractic care, TRICARE acceptance, and the specialty SOT, prenatal, and pediatric services families are willing to drive 30 minutes for.",
+    areaDescriptionEs:
+      "Cibolo es el suburbio familiar de rápido crecimiento al noreste de San Antonio (código postal 78108) — una de las comunidades de más rápido crecimiento en Texas. Pura Vida Chiropractic atiende a las familias de Cibolo con atención quiropráctica bilingüe, aceptación de TRICARE, y servicios especializados SOT, prenatales y pediátricos por los que las familias están dispuestas a manejar 30 minutos.",
+    title:
+      "Cibolo Chiropractor | Pura Vida Chiropractic | Bilingual Family Care",
+    titleEs:
+      "Quiropráctico en Cibolo | Pura Vida Chiropractic | Familia Bilingüe",
+    metaDescription:
+      "Cibolo chiropractor — Pura Vida Chiropractic offers Advanced SOT, SoftWave, bilingual care for Cibolo families. TRICARE accepted. Worth the 30-min drive (78108). Free first visit. (210) 685-1994.",
+    metaDescriptionEs:
+      "Quiropráctico para Cibolo — Pura Vida Chiropractic ofrece SOT Avanzada, SoftWave, atención bilingüe para familias de Cibolo. TRICARE aceptado. Vale el viaje de 30 min (78108). Primera visita gratis. (210) 685-1994.",
+    whyChooseUs: [
+      "TRICARE accepted — Cibolo / Randolph AFB military families welcome",
+      "Bilingual chiropractic care for Cibolo's diverse families",
+      "Advanced SOT certification — rare in the suburban San Antonio area",
+      "Pediatric and prenatal specialty unavailable in most Cibolo practices",
+    ],
+    whyChooseUsEs: [
+      "TRICARE aceptado — familias militares de Cibolo / Randolph AFB bienvenidas",
+      "Atención quiropráctica bilingüe para las diversas familias de Cibolo",
+      "Certificación SOT Avanzada — rara en el área suburbana de San Antonio",
+      "Especialidad pediátrica y prenatal no disponible en la mayoría de prácticas de Cibolo",
+    ],
+    commonConditions: [
+      { en: "Lower back pain", es: "Dolor lumbar" },
+      { en: "Pregnancy and prenatal chiropractic", es: "Quiropráctica de embarazo y prenatal" },
+      { en: "Pediatric chiropractic", es: "Quiropráctica pediátrica" },
+      { en: "Sports injuries (Cibolo / Steele HS athletes)", es: "Lesiones deportivas (atletas de Cibolo / Steele HS)" },
+      { en: "Headaches", es: "Dolores de cabeza" },
+      { en: "Auto accident injuries", es: "Lesiones de accidentes de auto" },
+    ],
+    landmarks: ["Cibolo Valley Drive", "Niemietz Park", "Steele High School", "Loop 1604", "Cibolo Creek"],
+    landmarksEs: ["Cibolo Valley Drive", "Niemietz Park", "Steele High School", "Loop 1604", "Cibolo Creek"],
+    zipCodes: ["78108"],
+    lat: 29.5688,
+    lng: -98.2189,
+  },
 ];
 
 export const neighborhoodSlugs = neighborhoods.map((n) => n.slug);
