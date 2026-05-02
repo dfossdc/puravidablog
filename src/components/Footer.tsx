@@ -90,6 +90,28 @@ export default function Footer({ locale }: FooterProps) {
               <li><Link href={`/${locale}/blog`}>Blog</Link></li>
               <li><Link href={`/${locale}/contact`}>{isEs ? "Contacto" : "Contact"}</Link></li>
             </ul>
+            <h4 className={styles.quickTitle}>{isEs ? "Páginas Populares" : "Popular Pages"}</h4>
+            <ul className={styles.quickList}>
+              {isEs ? (
+                <>
+                  <li><Link href={`/es/quiropractico-cerca-de-mi-san-antonio`}>Quiropráctico Cerca de Mí</Link></li>
+                  <li><Link href={`/es/el-mejor-quiropractico-san-antonio`}>El Mejor Quiropráctico SA</Link></li>
+                  <li><Link href={`/es/que-es-un-quiropractico`}>¿Qué es un Quiropráctico?</Link></li>
+                  <li><Link href={`/es/huesero-san-antonio`}>Huesero en San Antonio</Link></li>
+                  <li><Link href={`/es/quiropractico-para-migranas-san-antonio`}>Quiropráctico para Migrañas</Link></li>
+                  <li><Link href={`/es/quiropractico-postparto-san-antonio`}>Quiropráctico Postparto</Link></li>
+                </>
+              ) : (
+                <>
+                  <li><Link href={`/en/chiropractor-near-me-san-antonio`}>Chiropractor Near Me</Link></li>
+                  <li><Link href={`/en/best-chiropractor-san-antonio`}>Best Chiropractor SA</Link></li>
+                  <li><Link href={`/en/migraine-chiropractor-san-antonio`}>Migraine Chiropractor</Link></li>
+                  <li><Link href={`/en/headache-chiropractor-san-antonio`}>Headache Chiropractor</Link></li>
+                  <li><Link href={`/en/scoliosis-chiropractor-san-antonio`}>Scoliosis Chiropractor</Link></li>
+                  <li><Link href={`/en/postpartum-chiropractor-san-antonio`}>Postpartum Chiropractor</Link></li>
+                </>
+              )}
+            </ul>
           </div>
         </div>
       </div>
@@ -105,6 +127,13 @@ export default function Footer({ locale }: FooterProps) {
           <Link href={`/${locale}/alamo-heights-chiropractor`}>Alamo Heights</Link>
           <Link href={`/${locale}/helotes-chiropractor`}>Helotes</Link>
           <Link href={`/${locale}/olmos-park-chiropractor`}>Olmos Park</Link>
+          <Link href={`/${locale}/south-san-antonio-chiropractor`}>South San Antonio</Link>
+          <Link href={`/${locale}/west-san-antonio-chiropractor`}>West San Antonio</Link>
+          <Link href={`/${locale}/east-san-antonio-chiropractor`}>East San Antonio</Link>
+          <Link href={`/${locale}/marbach-410-chiropractor`}>Marbach / 410</Link>
+          <Link href={`/${locale}/boerne-chiropractor`}>Boerne</Link>
+          <Link href={`/${locale}/schertz-chiropractor`}>Schertz</Link>
+          <Link href={`/${locale}/cibolo-chiropractor`}>Cibolo</Link>
         </div>
       </div>
 

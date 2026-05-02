@@ -75,6 +75,12 @@ export async function fetchSotPageBySlug(
   if (!fs.existsSync(fullPath)) return null;
   const { data, content } = matter(fs.readFileSync(fullPath, "utf8"));
   const processed = await remark().use(remarkHtml).process(content);
+  // Strip the first <h1> from the rendered SOT body. The page already
+  // renders its own <h1> from page.title (sot/[slug]/page.tsx line 112),
+  // so any markdown that starts with `# Title` would create a duplicate
+  // h1. Same fix as posts.ts. Semrush flagged 16 multi-h1 pages — SOT
+  // markdown is one source.
+  const html = processed.toString().replace(/<h1\b[^>]*>[\s\S]*?<\/h1>\s*/i, "");
   return {
     title: data.title || "",
     description: data.description || "",
@@ -83,6 +89,6 @@ export async function fetchSotPageBySlug(
     lang: data.lang || lang,
     image: data.image || "",
     tags: Array.isArray(data.tags) ? data.tags : [],
-    content: processed.toString(),
+    content: html,
   };
 }
