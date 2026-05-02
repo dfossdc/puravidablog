@@ -202,6 +202,10 @@ const nextConfig = {
       { source: "/en/quiropratico-san-antonio",           destination: "/es/quiropratico-san-antonio",           permanent: true },
       { source: "/en/san-antonio-quiropractico",          destination: "/es/san-antonio-quiropractico",          permanent: true },
       { source: "/en/quiropractico-cerca-de-mi-san-antonio", destination: "/es/quiropractico-cerca-de-mi-san-antonio", permanent: true },
+      { source: "/en/quiropractico-para-migranas-san-antonio", destination: "/es/quiropractico-para-migranas-san-antonio", permanent: true },
+      { source: "/en/quiropractico-dolor-de-cabeza-san-antonio", destination: "/es/quiropractico-dolor-de-cabeza-san-antonio", permanent: true },
+      { source: "/en/quiropractico-escoliosis-san-antonio", destination: "/es/quiropractico-escoliosis-san-antonio", permanent: true },
+      { source: "/en/quiropractico-postparto-san-antonio", destination: "/es/quiropractico-postparto-san-antonio", permanent: true },
 
       // ── Canonical consolidation: collapse duplicate English service slugs ──
       // The services route has multiple slugs that point to the same content

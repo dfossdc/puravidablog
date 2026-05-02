@@ -33,6 +33,11 @@ const staticPages = [
   // Tier 2 EN missing-keyword landing pages (Phase 2 keyword gap)
   "chiropractor-near-me-san-antonio",
   "best-chiropractor-san-antonio",
+  // Tier 3 EN condition-chiropractor commercial-local landing pages
+  "migraine-chiropractor-san-antonio",
+  "headache-chiropractor-san-antonio",
+  "scoliosis-chiropractor-san-antonio",
+  "postpartum-chiropractor-san-antonio",
 ];
 
 // Pages that only exist at /es/ (Spanish-language SEO landing pages).
@@ -43,6 +48,13 @@ const spanishOnlyPages = [
   "quiropratico-san-antonio",
   "san-antonio-quiropractico",
   "quiropractico-cerca-de-mi-san-antonio",
+  // Tier 3 ES condition-chiropractor pages (Spanish-slug counterparts to the
+  // English-slug Tier 3 pages above — separate URLs so Google reads the locale
+  // signal directly from the slug, in addition to hreflang).
+  "quiropractico-para-migranas-san-antonio",
+  "quiropractico-dolor-de-cabeza-san-antonio",
+  "quiropractico-escoliosis-san-antonio",
+  "quiropractico-postparto-san-antonio",
 ];
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
