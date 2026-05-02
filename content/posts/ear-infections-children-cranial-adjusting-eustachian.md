@@ -11,7 +11,8 @@ slug: "ear-infections-children-cranial-adjusting-eustachian"
 image: "/images/kidscranial.jpg"
 ---
 
-If you are the parent of a child who has had three, four, five ear infections in a single year, you know the exhausting cycle. Fever, fussiness, a middle-of-the-night trip to urgent care, another round of antibiotics, a week of improvement, and then — a few weeks later — it starts again.
+If you are the parent of a child who has had three, four, five ear infections in a single year, you know the exhausting cycle. Fever, fussiness, a middle-of-the-night trip to urgent care, another round of antibiotics, a week of improvement, and then — a few weeks later — it starts again. For pediatric cranial care, see our [cranial chiropractor in San Antonio](/en/services/cranial-chiropractic).
+
 
 You've followed every recommendation. You've kept the antibiotics courses complete. You've asked the pediatrician about tubes. And somewhere in the back of your mind, you're wondering if there's something more fundamental going on that nobody has addressed.
 

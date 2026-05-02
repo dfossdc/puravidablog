@@ -15,7 +15,8 @@ lang: en
 translatedSlug: "espectro-autista-quiropractica-craneal-san-antonio"
 ---
 
-If your child is on the autism spectrum, you have probably heard about sensory integration, vagal tone, and the "gut-brain connection." You may have wondered: can chiropractic help? And more importantly, what is realistic to expect?
+If your child is on the autism spectrum, you have probably heard about sensory integration, vagal tone, and the "gut-brain connection." You may have wondered: can chiropractic help? And more importantly, what is realistic to expect? If your child is on the autism spectrum and you're exploring sensory and structural support, consider [cranial chiropractic care](/en/services/cranial-chiropractic).
+
 
 In 23 years of pediatric chiropractic practice using Sacro-Occipital Technique (SOT) and SOT Craniopathy, I have worked with many autistic and neurodivergent children. Let me be direct: chiropractic cannot "cure" autism. But it can reduce sensory defensiveness, improve nervous system regulation, and help your child feel less overwhelmed. That matters.
 

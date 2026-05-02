@@ -10,7 +10,8 @@ slug: "cranial-sutures-skull-was-never-meant-to-be-a-helmet"
 image: "/images/conditions/headache.jpg"
 ---
 
-For most of the 20th century, anatomy textbooks taught a straightforward story: the bones of the skull fuse together in early adulthood, creating a rigid protective shell around the brain. Case closed. Move on.
+For most of the 20th century, anatomy textbooks taught a straightforward story: the bones of the skull fuse together in early adulthood, creating a rigid protective shell around the brain. Case closed. Move on. Working with cranial sutures is the foundation of seeing a [cranial chiropractor in San Antonio](/en/services/cranial-chiropractic).
+
 
 The problem is that this teaching was always more assumption than observation. And for patients suffering from chronic headaches, cognitive fog, sinus congestion, or a host of other symptoms that nobody can explain, that assumption has cost them decades of effective care.
 

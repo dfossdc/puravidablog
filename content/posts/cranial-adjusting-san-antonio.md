@@ -13,7 +13,8 @@ image: "/images/conditions/headache.jpg"
 lang: "en"
 ---
 
-Most people think of the skull as a solid, fixed helmet of bone. It is not. The human skull is composed of 22 individual bones, connected by articulating joints called sutures, and those joints continue to move in adults throughout life. When they stop moving — or move incorrectly — the consequences ripple through the entire nervous system. This is the domain of SOT Craniopathy, and Dr. Dan Foss at Pura Vida Chiropractic is the only practitioner in San Antonio trained to assess and treat it at the Advanced SOT level.
+Most people think of the skull as a solid, fixed helmet of bone. It is not. The human skull is composed of 22 individual bones, connected by articulating joints called sutures, and those joints continue to move in adults throughout life. When they stop moving — or move incorrectly — the consequences ripple through the entire nervous system. This is the domain of SOT Craniopathy, and Dr. Dan Foss at Pura Vida Chiropractic is the only practitioner in San Antonio trained to assess and treat it at the Advanced SOT level. Learn more about [cranial chiropractic care in San Antonio](/en/services/cranial-chiropractic).
+
 
 ## What Is Cranial Adjusting (SOT Craniopathy)?
 

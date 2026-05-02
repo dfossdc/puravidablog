@@ -15,7 +15,8 @@ lang: en
 translatedSlug: "retraso-lenguaje-quiropractica-craneal-ninos-san-antonio"
 ---
 
-Your child is two years old and saying very few words. Your pediatrician says "wait and see." You are starting to wonder if something is structurally preventing your child from speaking — and you are right to wonder.
+Your child is two years old and saying very few words. Your pediatrician says "wait and see." You are starting to wonder if something is structurally preventing your child from speaking — and you are right to wonder. If your child is showing speech delay, a [cranial chiropractor in San Antonio](/en/services/cranial-chiropractic).
+
 
 In 23 years of pediatric chiropractic practice using Sacro-Occipital Technique (SOT) and SOT Craniopathy, I have seen how much cranial alignment and palate mechanics affect speech development. Speech therapy is important, but it works better when the physical structures controlling speech are properly aligned.
 

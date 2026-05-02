@@ -15,7 +15,8 @@ lang: en
 translatedSlug: "craneopatia-sot-vs-tradicional-quiropractica-san-antonio"
 ---
 
-If you have heard the words "cranial therapy" or "cranial chiropractic," you may think you know what I do. But here is the truth: not all cranial work is created equal. **SOT Craniopathy, the system I have used for 23 years with many children, produces measurable results in ear infections (resolved in 4-8 visits) and autism spectrum sensory issues (most show meaningful improvement in 8-16 visits) — outcomes that generic cranial therapy simply cannot match.**
+If you have heard the words "cranial therapy" or "cranial chiropractic," you may think you know what I do. But here is the truth: not all cranial work is created equal. **SOT Craniopathy, the system I have used for 23 years with many children, produces measurable results in ear infections (resolved in 4-8 visits) and autism spectrum sensory issues (most show meaningful improvement in 8-16 visits) — outcomes that generic cranial therapy simply cannot match.** See our full [cranial chiropractic services](/en/services/cranial-chiropractic).
+
 
 In 23 years of pediatric chiropractic practice using Sacro-Occipital Technique (SOT) and SOT Craniopathy, I have seen the confusion firsthand. Parents come in asking for "cranial therapy" after reading about it online, only to discover they have never actually experienced true cranial work. Let me clear this up for you.
 

@@ -15,7 +15,8 @@ lang: en
 translatedSlug: "infecciones-oido-cronicas-ninos-quiropractica-craneal-san-antonio"
 ---
 
-Your child has had five ear infections in the past year. Your pediatrician is talking about ear tubes. You are exhausted from the cycle of antibiotics, sleepless nights, and your child's pain. And you are wondering: is there another way?
+Your child has had five ear infections in the past year. Your pediatrician is talking about ear tubes. You are exhausted from the cycle of antibiotics, sleepless nights, and your child's pain. And you are wondering: is there another way? Learn more about our approach to [cranial chiropractic for chronic ear infections](/en/services/cranial-chiropractic).
+
 
 In 23 years of pediatric chiropractic practice using Sacro-Occipital Technique (SOT) and SOT Craniopathy, I have helped hundreds of children break the chronic ear infection cycle — often without tubes, often without more antibiotics. Let me walk you through why this happens, and what cranial chiropractic can actually do.
 

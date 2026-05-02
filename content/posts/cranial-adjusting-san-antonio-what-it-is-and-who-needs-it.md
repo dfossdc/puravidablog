@@ -10,7 +10,8 @@ slug: "cranial-adjusting-san-antonio-what-it-is-and-who-needs-it"
 image: "/images/conditions/headache.jpg"
 ---
 
-When most people think about chiropractic, they picture the spine. Neck, mid-back, lower back — that's where the action is. What very few people know is that the skull itself can also be adjusted, and that doing so can resolve conditions that spinal care alone can't touch.
+When most people think about chiropractic, they picture the spine. Neck, mid-back, lower back — that's where the action is. What very few people know is that the skull itself can also be adjusted, and that doing so can resolve conditions that spinal care alone can't touch. Looking for a [cranial chiropractor in San Antonio](/en/services/cranial-chiropractic).
+
 
 Cranial adjusting is one of the most precise, gentle, and underutilized techniques available in chiropractic. It's also one of my personal areas of focus here at Pura Vida Chiropractic — and once patients understand what it is and what it can do, they often wish they'd found out about it sooner.
 

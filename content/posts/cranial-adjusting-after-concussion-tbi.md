@@ -10,7 +10,8 @@ slug: "cranial-adjusting-after-concussion-tbi"
 image: "/images/conditions/headache.jpg"
 ---
 
-The standard approach to concussion goes something like this: rest, avoid screens, return to activity gradually, see a neurologist if symptoms persist. For many people, this protocol works. Symptoms resolve over a few weeks and life returns to normal.
+The standard approach to concussion goes something like this: rest, avoid screens, return to activity gradually, see a neurologist if symptoms persist. For many people, this protocol works. Symptoms resolve over a few weeks and life returns to normal. If you're recovering from a head impact, consider [cranial chiropractic care](/en/services/cranial-chiropractic).
+
 
 But for a significant portion of concussion patients — estimates range from 15 to 30 percent — symptoms don't resolve. Months pass. Sometimes years. The headaches remain. The brain fog persists. Sleep is disrupted. Noise and light sensitivity continue. The MRI is normal. The neurologist has no additional answers.
 

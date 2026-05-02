@@ -31,7 +31,8 @@ mentions:
     name: "ICAK Applied Kinesiology"
     url: "https://www.icakusa.com"
 ---
-Over the past year I have experienced a lot of dental issues and suffered from TMJ. As a result I would like to compile all of my experiences here so that you can have a definitive guide to treating your TMJ successfully. The most important thing to remember is that TMJ is different for everyone.
+Over the past year I have experienced a lot of dental issues and suffered from TMJ. As a result I would like to compile all of my experiences here so that you can have a definitive guide to treating your TMJ successfully. The most important thing to remember is that TMJ is different for everyone. If you're dealing with TMJ pain, consider [cranial chiropractic care](/en/services/cranial-chiropractic).
+
 
 As a Chiropractor practicing over the past 17 years I realize that the whole is not the sum of its parts and as such everyone heals and repairs differently. There is no cookie cutter approach to TMJ. There are many people, providers, and doctors that will tell you otherwise, that they have the cure!
 

@@ -10,7 +10,8 @@ slug: "cranial-rhythmic-impulse-what-it-is-why-it-matters"
 image: "/images/conditions/headache.jpg"
 ---
 
-The first time I placed my hands on a patient's head and felt it, I understood why Dr. William Sutherland had spent years trying to convince his colleagues that the skull was not a fixed structure. There is an unmistakable rhythm beneath the fingertips — subtle, slow, and profoundly informative. Not a pulse. Not breathing. Something else entirely.
+The first time I placed my hands on a patient's head and felt it, I understood why Dr. William Sutherland had spent years trying to convince his colleagues that the skull was not a fixed structure. There is an unmistakable rhythm beneath the fingertips — subtle, slow, and profoundly informative. Not a pulse. Not breathing. Something else entirely. The CRI is the diagnostic backbone of [cranial chiropractic at Pura Vida](/en/services/cranial-chiropractic).
+
 
 This is the cranial rhythmic impulse, or CRI. It is the foundation upon which all cranial work — whether in osteopathy or chiropractic craniopathy — rests. Understanding it is essential to understanding why cranial treatment can affect so much more than headaches.
 

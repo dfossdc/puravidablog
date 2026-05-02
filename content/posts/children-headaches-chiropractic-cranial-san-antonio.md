@@ -16,7 +16,8 @@ lang: en
 translatedSlug: "dolores-de-cabeza-en-ninos-quiropractica-craneal-san-antonio"
 ---
 
-If your child has complained about headaches, you are not alone. Over 60% of children experience headaches, and pediatric migraines have tripled since the 1970s. Yet most parents are told: "It's stress. Give them ibuprofen." In my 23 years treating pediatric headaches, **many children with tension headaches or migraines show significant improvement in frequency within 6-8 weeks of SOT Craniopathy and cervical adjustments — addressing the structural root cause instead of masking symptoms.**
+If your child has complained about headaches, you are not alone. Over 60% of children experience headaches, and pediatric migraines have tripled since the 1970s. Yet most parents are told: "It's stress. Give them ibuprofen." In my 23 years treating pediatric headaches, **many children with tension headaches or migraines show significant improvement in frequency within 6-8 weeks of SOT Craniopathy and cervical adjustments — addressing the structural root cause instead of masking symptoms.** If your child has chronic headaches, consider seeing a [cranial chiropractor for children](/en/services/cranial-chiropractic).
+
 
 ## The Scale of Pediatric Headaches (And Why It Matters)
 
