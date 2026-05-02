@@ -17,11 +17,17 @@ translatedSlug: "pinzamiento-hombro-quiropractico-san-antonio"
 
 # Shoulder Impingement Treatment at Pura Vida Chiropractic in San Antonio
 
-Shoulder impingement syndrome causes pain, weakness, and restricted motion that can significantly limit your daily activities and professional work. Whether you experience pain when raising your arm, reaching behind your back, or sleeping on the affected shoulder, the underlying problem is mechanical compression of the rotator cuff tendons and subacromial bursa. At Pura Vida Chiropractic, Dr. Dan Foss, DC specializes in identifying and correcting the spinal and shoulder misalignments causing impingement through advanced SOT and comprehensive assessment techniques.
+Shoulder impingement syndrome causes pain, weakness, and restricted motion that can significantly limit your daily activities and professional work.
+
+Whether you experience pain when raising your arm, reaching behind your back, or sleeping on the affected shoulder, the underlying problem is mechanical compression of the rotator cuff tendons and subacromial bursa.
+
+At Pura Vida Chiropractic, Dr. Dan Foss, DC specializes in identifying and correcting the spinal and shoulder misalignments causing impingement through advanced SOT and comprehensive assessment techniques.
 
 ## Understanding Shoulder Impingement: Anatomy and Pathophysiology
 
-Shoulder impingement occurs when the subacromial space—the narrow space beneath the acromion process and coracoid ligament—becomes compromised. The rotator cuff tendons (supraspinatus, infraspinatus, teres minor, subscapularis) and the subacromial bursa normally move freely through this space. When the space narrows, these structures become pinched, causing inflammation, pain, and gradually, functional loss.
+Shoulder impingement occurs when the subacromial space—the narrow space beneath the acromion process and coracoid ligament—becomes compromised. The rotator cuff tendons (supraspinatus, infraspinatus, teres minor, subscapularis) and the subacromial bursa normally move freely through this space.
+
+When the space narrows, these structures become pinched, causing inflammation, pain, and gradually, functional loss.
 
 ### Structures at Risk
 - **Supraspinatus tendon:** The most commonly impinged rotator cuff tendon
@@ -45,7 +51,9 @@ Shoulder impingement occurs when the subacromial space—the narrow space beneat
 
 ## The Spinal Connection to Shoulder Impingement
 
-Many shoulder impingement cases have a spinal origin that's frequently overlooked. The cervical spine (particularly C5 and C6) provides nerve supply to the rotator cuff muscles. Additionally, the thoracic spine affects scapular position and shoulder mechanics. When vertebral subluxations occur in these regions, they impair rotator cuff muscle function and alter shoulder biomechanics, creating or perpetuating impingement.
+Many shoulder impingement cases have a spinal origin that's frequently overlooked. The cervical spine (particularly C5 and C6) provides nerve supply to the rotator cuff muscles. Additionally, the thoracic spine affects scapular position and shoulder mechanics.
+
+When vertebral subluxations occur in these regions, they impair rotator cuff muscle function and alter shoulder biomechanics, creating or perpetuating impingement.
 
 Furthermore, cervical and thoracic spine misalignments create postural dysfunction that directly contributes to shoulder impingement. Forward head posture and thoracic kyphosis (excessive upper back curve) narrow the subacromial space, creating mechanical compression.
 
@@ -69,13 +77,17 @@ His comprehensive approach addresses all these components, producing superior ou
 
 ### SOT Category I: Cervical and Thoracic Alignment
 
-The cervical spine (particularly C4, C5, C6) provides nerve supply to rotator cuff muscles. Subluxations in this region impair muscle function and create functional shoulder instability. SOT Category I techniques correct cervical subluxations, restoring proper nerve supply and rotator cuff muscle function.
+The cervical spine (particularly C4, C5, C6) provides nerve supply to rotator cuff muscles. Subluxations in this region impair muscle function and create functional shoulder instability.
+
+SOT Category I techniques correct cervical subluxations, restoring proper nerve supply and rotator cuff muscle function.
 
 The thoracic spine directly affects scapular position. Thoracic spine misalignments create scapular dyskinesis (abnormal movement), which mechanically narrows the subacromial space and promotes impingement. SOT Category I corrections restore proper thoracic alignment, normalizing scapular mechanics.
 
 ### SOT Category II: Cranial-Related Shoulder Dysfunction
 
-While the cranium's connection to shoulder impingement isn't obvious, cranial misalignments create autonomic nervous system dysfunction affecting shoulder muscle function. The parasympathetic nervous system (which promotes muscle relaxation and healing) is compromised by cranial restrictions. SOT Category II cranial adjustments enhance parasympathetic function, allowing rotator cuff muscles to relax and normalize.
+While the cranium's connection to shoulder impingement isn't obvious, cranial misalignments create autonomic nervous system dysfunction affecting shoulder muscle function. The parasympathetic nervous system (which promotes muscle relaxation and healing) is compromised by cranial restrictions.
+
+SOT Category II cranial adjustments enhance parasympathetic function, allowing rotator cuff muscles to relax and normalize.
 
 ### SOT Category III: Overall Structural Integration
 
@@ -83,7 +95,9 @@ Category III corrections ensure that the entire spine is structurally sound and 
 
 ## CMRT for Rotator Cuff Reflex Enhancement
 
-Chiropractic Manipulative Reflex Technique directly stimulates the neurological reflexes controlling rotator cuff muscle function and shoulder stability. Specific reflex points correspond to rotator cuff muscles (supraspinatus, infraspinatus, teres minor, subscapularis). By addressing these reflex patterns, Dr. Foss enhances rotator cuff strength and coordination.
+Chiropractic Manipulative Reflex Technique directly stimulates the neurological reflexes controlling rotator cuff muscle function and shoulder stability. Specific reflex points correspond to rotator cuff muscles (supraspinatus, infraspinatus, teres minor, subscapularis).
+
+By addressing these reflex patterns, Dr. Foss enhances rotator cuff strength and coordination.
 
 CMRT often produces rapid improvements in shoulder impingement. Many patients experience increased strength and decreased impingement symptoms after treatment.
 
@@ -162,7 +176,9 @@ Pure bursitis involves inflammation of the bursa; impingement involves structura
 
 ## Conservative vs. Surgical Treatment
 
-The vast majority of shoulder impingement cases respond to conservative chiropractic care. Surgery (subacromial decompression) is rarely necessary. Dr. Foss coordinates with orthopedic surgeons and provides surgical referral only when conservative care has failed after an adequate treatment period (typically 12+ weeks).
+The vast majority of shoulder impingement cases respond to conservative chiropractic care. Surgery (subacromial decompression) is rarely necessary.
+
+Dr. Foss coordinates with orthopedic surgeons and provides surgical referral only when conservative care has failed after an adequate treatment period (typically 12+ weeks).
 
 ## Timeline for Shoulder Impingement Improvement
 
@@ -209,16 +225,22 @@ Our office at 2318 NW Military Hwy Suite 103, San Antonio TX 78231 provides a we
 No. The vast majority of cases respond to conservative chiropractic care. Surgery is a last resort when conservative care hasn't worked after 12+ weeks. Most people improve significantly within 4-8 weeks with proper treatment.
 
 **My shoulder hurts when I raise my arm. How do I know if it's impingement?**
-The specific pattern — pain with forward or internal rotation but not necessarily global stiffness — suggests impingement. But a proper evaluation is the only way to know for sure. That's what I do in my initial assessment.
+The specific pattern — pain with forward or internal rotation but not necessarily global stiffness — suggests impingement. But a proper evaluation is the only way to know for sure.
+
+That's what I do in my initial assessment.
 
 **Can my cervical spine really cause shoulder impingement?**
 Absolutely. Cervical misalignments affect the nerves supplying the shoulder and rotator cuff muscles. C5-C6 problems are especially common in shoulder impingement. I address the spine as part of treating your shoulder.
 
 **What if I've had cortisone injections that only lasted a few weeks?**
-That tells me the mechanical problem — the actual compression — hasn't been fixed. Cortisone reduces inflammation temporarily but doesn't correct the postural dysfunction or spinal misalignment causing the impingement. Chiropractic addresses the root cause.
+That tells me the mechanical problem — the actual compression — hasn't been fixed. Cortisone reduces inflammation temporarily but doesn't correct the postural dysfunction or spinal misalignment causing the impingement.
+
+Chiropractic addresses the root cause.
 
 **I've had this shoulder pain for a year. Is it too late to treat?**
-Not too late, but it will take longer. Chronic impingement means structural changes have happened and rotator cuff muscles have weakened. Recovery takes 12+ weeks instead of 4-8. But restoration is absolutely possible, even at a year duration.
+Not too late, but it will take longer. Chronic impingement means structural changes have happened and rotator cuff muscles have weakened. Recovery takes 12+ weeks instead of 4-8.
+
+But restoration is absolutely possible, even at a year duration.
 
 ## Reclaim Full Shoulder Function
 

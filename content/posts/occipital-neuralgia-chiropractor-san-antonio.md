@@ -17,7 +17,9 @@ translatedSlug: "neuralgia-occipital-quiropractico-san-antonio"
 
 # Occipital Neuralgia Treatment at Pura Vida Chiropractic in San Antonio
 
-Occipital neuralgia is a distinctive pain condition characterized by sharp, piercing, or burning pain in the back of the head and neck. The pain follows the distribution of the occipital nerves—bilateral nerves that emerge from the upper cervical spine and ascend along the back of the skull. If you experience this type of pain, you understand how debilitating it can be. At Pura Vida Chiropractic, Dr. Dan Foss, DC specializes in identifying and correcting the spinal misalignments causing occipital nerve irritation through advanced SOT and cranial adjustment techniques.
+Occipital neuralgia is a distinctive pain condition characterized by sharp, piercing, or burning pain in the back of the head and neck. The pain follows the distribution of the occipital nerves—bilateral nerves that emerge from the upper cervical spine and ascend along the back of the skull.
+
+If you experience this type of pain, you understand how debilitating it can be. At Pura Vida Chiropractic, Dr. Dan Foss, DC specializes in identifying and correcting the spinal misalignments causing occipital nerve irritation through advanced SOT and cranial adjustment techniques.
 
 ## Understanding Occipital Neuralgia: Symptoms and Characteristics
 
@@ -95,7 +97,9 @@ Category III corrections ensure that the entire nervous system is balanced and f
 
 ## CMRT for Occipital Nerve Reflex Restoration
 
-Chiropractic Manipulative Reflex Technique targets the reflex patterns controlling occipital nerve function. Specific reflex points correspond to the occipital nerves and their pain-modulation pathways. By stimulating these reflex patterns, Dr. Foss enhances the nervous system's ability to modulate occipital nerve pain.
+Chiropractic Manipulative Reflex Technique targets the reflex patterns controlling occipital nerve function. Specific reflex points correspond to the occipital nerves and their pain-modulation pathways.
+
+By stimulating these reflex patterns, Dr. Foss enhances the nervous system's ability to modulate occipital nerve pain.
 
 CMRT often produces rapid improvements in occipital neuralgia. Many patients experience dramatic pain reduction within hours of treatment.
 
@@ -224,19 +228,31 @@ Our office at 2318 NW Military Hwy Suite 103, San Antonio TX 78231 provides a we
 ## Frequently Asked Questions
 
 **How is occipital neuralgia different from a regular tension headache?**
-Regular tension headaches involve muscle tightness across the whole head. Occipital neuralgia is nerve pain — sharp, electric, burning, or shooting — typically starting at the base of the skull and radiating up the back of the head and often behind the eye. The pain is on one or both sides and follows the path of the occipital nerves. If your headaches are that specific, you likely have occipital neuralgia, not tension headache.
+Regular tension headaches involve muscle tightness across the whole head.
+
+Occipital neuralgia is nerve pain — sharp, electric, burning, or shooting — typically starting at the base of the skull and radiating up the back of the head and often behind the eye. The pain is on one or both sides and follows the path of the occipital nerves.
+
+If your headaches are that specific, you likely have occipital neuralgia, not tension headache.
 
 **Will pain medications relieve occipital neuralgia?**
-They might temporarily, but they're masking the problem. The nerve is being compressed or irritated at the upper cervical spine or cranial base. Medications don't release that compression. I've seen patients get relief from a single adjustment that medications couldn't provide, because the adjustment actually removes the mechanical cause.
+They might temporarily, but they're masking the problem. The nerve is being compressed or irritated at the upper cervical spine or cranial base. Medications don't release that compression.
+
+I've seen patients get relief from a single adjustment that medications couldn't provide, because the adjustment actually removes the mechanical cause.
 
 **Is it possible to have complete relief, or do I just manage it long-term?**
-Complete relief is possible. Most patients achieve significant improvement within 2-4 weeks and complete resolution within 2-3 months with consistent care. Once resolved and with good ergonomics and periodic maintenance care, it often doesn't return.
+Complete relief is possible. Most patients achieve significant improvement within 2-4 weeks and complete resolution within 2-3 months with consistent care.
+
+Once resolved and with good ergonomics and periodic maintenance care, it often doesn't return.
 
 **Do I need an MRI or imaging before starting treatment?**
-Not necessarily. If you have the classic pattern — burning pain starting at the base of the skull, radiating behind the eye, with a specific neurological distribution — I can make the diagnosis clinically. Imaging can be helpful if atypical features are present, but a clear clinical pattern is usually sufficient to start treatment.
+Not necessarily. If you have the classic pattern — burning pain starting at the base of the skull, radiating behind the eye, with a specific neurological distribution — I can make the diagnosis clinically.
+
+Imaging can be helpful if atypical features are present, but a clear clinical pattern is usually sufficient to start treatment.
 
 **My doctor said I might need a nerve block injection. Should I do that first or try chiropractic?**
-The nerve block provides temporary relief but doesn't fix the underlying mechanical problem. Once the block wears off, pain returns unless the compression has been addressed. I'd try chiropractic first — if we correct the upper cervical and cranial misalignment that's compressing the nerve, the problem is solved long-term. The nerve block would be more appropriate if you wanted temporary relief while pursuing chiropractic care.
+The nerve block provides temporary relief but doesn't fix the underlying mechanical problem. Once the block wears off, pain returns unless the compression has been addressed.
+
+I'd try chiropractic first — if we correct the upper cervical and cranial misalignment that's compressing the nerve, the problem is solved long-term. The nerve block would be more appropriate if you wanted temporary relief while pursuing chiropractic care.
 
 ## Experience Relief from Occipital Neuralgia
 

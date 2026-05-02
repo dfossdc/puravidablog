@@ -17,7 +17,11 @@ translatedSlug: "quiropractico-lesion-trabajo-san-antonio"
 
 # Work Injuries Chiropractor in San Antonio, TX
 
-Work-related injuries affect millions of workers every year, causing pain, lost work time, and significant financial stress. Whether you experience a sudden workplace accident or develop gradual injury from occupational repetitive stress, work injuries require specialized treatment that addresses both immediate symptoms and long-term functional restoration. At Pura Vida Chiropractic, Dr. Dan Foss, DC specializes in comprehensive work injury care using advanced SOT techniques and a systematic approach to return you to full occupational function.
+Work-related injuries affect millions of workers every year, causing pain, lost work time, and significant financial stress.
+
+Whether you experience a sudden workplace accident or develop gradual injury from occupational repetitive stress, work injuries require specialized treatment that addresses both immediate symptoms and long-term functional restoration.
+
+At Pura Vida Chiropractic, Dr. Dan Foss, DC specializes in comprehensive work injury care using advanced SOT techniques and a systematic approach to return you to full occupational function.
 
 ## Types of Work Injuries We Treat
 
@@ -104,7 +108,9 @@ SOT Category II cranial adjustments normalize nervous system function, allowing 
 
 ### SOT Category III: Structural Support for Return to Function
 
-Category III corrections ensure that your entire spinal structure is properly aligned to support the specific demands of your job. For heavy laborers, this means robust structural stability. For desk workers, this means proper postural support. By addressing overall structural integrity, Dr. Foss creates the biomechanical foundation for safe return to work.
+Category III corrections ensure that your entire spinal structure is properly aligned to support the specific demands of your job. For heavy laborers, this means robust structural stability. For desk workers, this means proper postural support.
+
+By addressing overall structural integrity, Dr. Foss creates the biomechanical foundation for safe return to work.
 
 ## CMRT for Work-Related Dysfunction
 
@@ -268,7 +274,9 @@ By addressing the biomechanical cause (spinal misalignment, poor ergonomics) rat
 
 Dr. Dan Foss is bilingual (English/Spanish), making him accessible to San Antonio's diverse working population. His advanced SOT certification and specialized work injury experience make him the ideal choice for workers needing to recover and return to function quickly.
 
-Our office at 2318 NW Military Hwy Suite 103, San Antonio TX 78231 provides a welcoming environment for injured workers. We work directly with employers, workers' compensation insurers, and physicians to coordinate comprehensive care. We offer convenient hours (Monday, Tuesday, Thursday 7:00am-4:00pm) to accommodate work schedules.
+Our office at 2318 NW Military Hwy Suite 103, San Antonio TX 78231 provides a welcoming environment for injured workers. We work directly with employers, workers' compensation insurers, and physicians to coordinate comprehensive care.
+
+We offer convenient hours (Monday, Tuesday, Thursday 7:00am-4:00pm) to accommodate work schedules.
 
 ## Frequently Asked Questions
 

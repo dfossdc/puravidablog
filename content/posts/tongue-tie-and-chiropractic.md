@@ -38,7 +38,9 @@ mentions:
 
 ## **What every parent needs to know about Tongue-Tie and Chiropractic**
 
-Tongue-tie or its medical term ankyloglossia is a condition where someone is born with a shorter, thick, or tight band of connective tissue at the base of the tongue or the floor of the mouth which restricts the movement of the tongue. The limitation of movement can cause not only a problem with eating, speaking, and swallowing but also latching. In children tongue tie can lead to speech delays and learning disabilities and in adults can lead to dental, neck issues, and headaches.
+Tongue-tie or its medical term ankyloglossia is a condition where someone is born with a shorter, thick, or tight band of connective tissue at the base of the tongue or the floor of the mouth which restricts the movement of the tongue.
+
+The limitation of movement can cause not only a problem with eating, speaking, and swallowing but also latching. In children tongue tie can lead to speech delays and learning disabilities and in adults can lead to dental, neck issues, and headaches.
 
 Many times tongue-tie goes undiagnosed for many years and is discovered later on in life.*“What many parents see as tongue-tie is really tongue dysfunction. We will get more into this later but first you need to understand the consequences of having tongue-tie. ” – Dr Foss*
 
@@ -74,7 +76,13 @@ Vagus nerve – which is responsible for the parasympathetic control of the body
 
 ## **How does a Chiropractor and Cranial Chiropractor help correct Tongue-Tie?**
 
-The most important thing I tell parents is to work with a team of professionals that are trained and have experience with tongue-tie.Having a good lactation consultant that has experience with tongue-tie is a great resource in helping to assist your baby in not only assessment but treatment. Here is San Antonio I recommend [Kathy Parkes](https://breastfeedingperspectives.com/) she is an amazing resource and very knowledgeable. Also [Tina Castellanos](https://www.themilcgroup.com/) is a tremendous source at the MILC group.I find that many times tongue-tie is not necessary something that requires surgery. I typically recommend that we do 2-3 sessions of chiropractic and cranial adjusting and if it doesn’t work explore the possibility of surgery.There are pediatric dentists that also specialize in tongue-tie surgery:
+The most important thing I tell parents is to work with a team of professionals that are trained and have experience with tongue-tie.Having a good lactation consultant that has experience with tongue-tie is a great resource in helping to assist your baby in not only assessment but treatment.
+
+Here is San Antonio I recommend [Kathy Parkes](https://breastfeedingperspectives.com/) she is an amazing resource and very knowledgeable.
+
+Also [Tina Castellanos](https://www.themilcgroup.com/) is a tremendous source at the MILC group.I find that many times tongue-tie is not necessary something that requires surgery.
+
+I typically recommend that we do 2-3 sessions of chiropractic and cranial adjusting and if it doesn’t work explore the possibility of surgery.There are pediatric dentists that also specialize in tongue-tie surgery:
 
 - [Dana Hodge King, D.D.S.](https://www.danahodgeking.com/) located in San Antonio (Alamo Heights)
 
@@ -84,7 +92,13 @@ The most important thing I tell parents is to work with a team of professionals 
 
 - [Manuel Castillo, D.D.S.](https://happypedident.com/) located in San Antonio
 
-Many times tongue-tie is due more to tongue dysfunction which can be corrected without surgery. Our office performs the tests we discussed earlier looking at the spine, nerves, and cranial nerves of the mouth to determine if there is some level of dysfunction. We make specific corrections to these cranial nerves by making small adjustments to the cranial bones and many times babies go back to latching correctly and not needing surgery. We monitor mom and baby closely to make sure that they are not only feeling good but functioning properly.I have advanced training in cranial adjusting through a technique called Sacral Occipital Technique ® which I am also an instructor. Through these cranial techniques being utilized around the world we have been able to help many babies avoid tongue-tie surgeries and also helped babies that have had tongue-tie surgery improve their ability to thrive after surgery.If you have any questions about how we can help give us a call.Yours in health, Dr Foss
+Many times tongue-tie is due more to tongue dysfunction which can be corrected without surgery. Our office performs the tests we discussed earlier looking at the spine, nerves, and cranial nerves of the mouth to determine if there is some level of dysfunction.
+
+We make specific corrections to these cranial nerves by making small adjustments to the cranial bones and many times babies go back to latching correctly and not needing surgery.
+
+We monitor mom and baby closely to make sure that they are not only feeling good but functioning properly.I have advanced training in cranial adjusting through a technique called Sacral Occipital Technique ® which I am also an instructor.
+
+Through these cranial techniques being utilized around the world we have been able to help many babies avoid tongue-tie surgeries and also helped babies that have had tongue-tie surgery improve their ability to thrive after surgery.If you have any questions about how we can help give us a call.Yours in health, Dr Foss
 
 ---
 
@@ -94,7 +108,11 @@ If your baby is struggling with latching or feeding after a tongue tie release, 
 
 **Lactation Consultants (IBCLC)**
 
-Finding an experienced IBCLC is essential. [The Breastfeeding House](http://www.breastfeedinghousecalls.com/) — bilingual (Spanish/English) IBCLC Laura Gruber, private practice serving San Antonio since 2012, specializing in tongue tie and latching difficulties — is an excellent starting point. [Leche and Mimi Lactation](https://lecheandmimi.com/) offers bilingual IBCLC support with in-home visits throughout Bexar County. For families dealing with painful latch, low supply, or post-release recovery, [Breastfeeding Perspectives](https://www.breastfeedingperspectives.com/) brings 30 years of experience helping San Antonio mothers. Families who prefer a hospital-based team can also reach the bilingual IBCLCs at [University Health Lactation Services](https://www.universityhealth.com/services/pregnancy-childbirth/breastfeeding) at the Women's &amp; Children's Hospital by calling (210) 358-8255.
+Finding an experienced IBCLC is essential. [The Breastfeeding House](http://www.breastfeedinghousecalls.com/) — bilingual (Spanish/English) IBCLC Laura Gruber, private practice serving San Antonio since 2012, specializing in tongue tie and latching difficulties — is an excellent starting point. [Leche and Mimi Lactation](https://lecheandmimi.com/) offers bilingual IBCLC support with in-home visits throughout Bexar County.
+
+For families dealing with painful latch, low supply, or post-release recovery, [Breastfeeding Perspectives](https://www.breastfeedingperspectives.com/) brings 30 years of experience helping San Antonio mothers.
+
+Families who prefer a hospital-based team can also reach the bilingual IBCLCs at [University Health Lactation Services](https://www.universityhealth.com/services/pregnancy-childbirth/breastfeeding) at the Women's &amp; Children's Hospital by calling (210) 358-8255.
 
 **Doulas**
 
@@ -109,19 +127,31 @@ At Pura Vida Chiropractic, we frequently co-manage tongue tie babies alongside I
 ## Frequently Asked Questions
 
 **Does chiropractic care replace tongue tie division?**
-No. If your baby has a true structural tongue tie limiting movement, that may need to be divided by a pediatric dentist or ENT. Chiropractic addresses the muscular restriction and dysfunction in the mouth and neck that accompanies tongue tie. Many babies benefit from both approaches working together.
+No. If your baby has a true structural tongue tie limiting movement, that may need to be divided by a pediatric dentist or ENT. Chiropractic addresses the muscular restriction and dysfunction in the mouth and neck that accompanies tongue tie.
+
+Many babies benefit from both approaches working together.
 
 **When should I bring my baby to the chiropractor for tongue tie concerns?**
-As soon as you notice feeding difficulty or suspect tongue tie. Even before diagnosis. Early intervention with cranial and intraoral work can sometimes resolve feeding issues without needing division. If division is needed, post-division chiropractic care prevents re-tightening.
+As soon as you notice feeding difficulty or suspect tongue tie. Even before diagnosis. Early intervention with cranial and intraoral work can sometimes resolve feeding issues without needing division.
+
+If division is needed, post-division chiropractic care prevents re-tightening.
 
 **Can chiropractic care fix tongue tie without division?**
-Sometimes. If the restriction is muscular rather than structural, yes. If it's a true structural division, probably not — though post-division chiropractic keeps the tissue mobile so it doesn't re-tighten. Your pediatric dentist can assess whether division is needed.
+Sometimes. If the restriction is muscular rather than structural, yes. If it's a true structural division, probably not — though post-division chiropractic keeps the tissue mobile so it doesn't re-tighten.
+
+Your pediatric dentist can assess whether division is needed.
 
 **Will tongue tie come back after division if we do chiropractic care?**
-Much less likely. The real problem isn't just the tight frenulum — it's the muscular restriction in the whole tongue, floor of mouth, and neck. Chiropractic addresses that, so even if the frenulum re-tightens slightly, the tongue can still move and function.
+Much less likely. The real problem isn't just the tight frenulum — it's the muscular restriction in the whole tongue, floor of mouth, and neck.
 
-**My baby is already feeding better after chiropractic, but my lactation consultant says there's still a tongue tie. Should we get it divided?**
-Feeding improvement is wonderful, but if the tongue tie is still limiting movement, it may eventually cause problems as your baby grows — speech, orthodontic issues, sleep. Have your pediatric dentist assess whether division is still needed, even if feeding is currently okay.
+Chiropractic addresses that, so even if the frenulum re-tightens slightly, the tongue can still move and function.
+
+**My baby is already feeding better after chiropractic, but my lactation consultant says there's still a tongue tie.
+
+Should we get it divided?**
+Feeding improvement is wonderful, but if the tongue tie is still limiting movement, it may eventually cause problems as your baby grows — speech, orthodontic issues, sleep.
+
+Have your pediatric dentist assess whether division is still needed, even if feeding is currently okay.
 
 ## Ready to Feel Better? Book Your Free Consultation Today
 

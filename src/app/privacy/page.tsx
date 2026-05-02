@@ -22,8 +22,11 @@ export default function PrivacyPage() {
       </p>
 
       <p style={{ marginBottom: 24 }}>
-        Pura Vida Chiropractic (&ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;), located at 2318 NW Military Hwy, Suite 103, San Antonio, TX 78231, is committed to protecting the privacy and security of your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website at <strong>puravidasanantonio.com</strong>, use our online scheduling tools, or contact our office.
-      </p>
+  Pura Vida Chiropractic (&ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;), located at 2318 NW Military Hwy, Suite 103, San Antonio, TX 78231, is committed to protecting the privacy and security of your personal information.
+</p>
+<p style={{ marginBottom: 24 }}>
+  This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website at <strong>puravidasanantonio.com</strong>, use our online scheduling tools, or contact our office.
+</p>
       <p style={{ marginBottom: 40 }}>
         Please read this policy carefully. By using our website or services, you agree to the practices described below. If you do not agree, please discontinue use of our website.
       </p>
@@ -31,8 +34,11 @@ export default function PrivacyPage() {
       {/* ── 1 ── */}
       <Section title="1. HIPAA Notice and Protected Health Information">
         <p>
-          As a chiropractic healthcare provider, Pura Vida Chiropractic is subject to the Health Insurance Portability and Accountability Act of 1996 (<strong>HIPAA</strong>). We maintain a separate <strong>Notice of Privacy Practices</strong> that governs how we use and disclose your Protected Health Information (PHI) in connection with your clinical care. That notice is provided to all patients at the time of their first visit and is available upon request at our office.
-        </p>
+  As a chiropractic healthcare provider, Pura Vida Chiropractic is subject to the Health Insurance Portability and Accountability Act of 1996 (<strong>HIPAA</strong>).
+</p>
+<p>
+  We maintain a separate <strong>Notice of Privacy Practices</strong> that governs how we use and disclose your Protected Health Information (PHI) in connection with your clinical care. That notice is provided to all patients at the time of their first visit and is available upon request at our office.
+</p>
         <p>
           This website Privacy Policy applies to information collected through our website and digital communications and is separate from our HIPAA Notice of Privacy Practices. If you are a patient of Pura Vida Chiropractic, both documents apply to you.
         </p>
@@ -109,8 +115,11 @@ export default function PrivacyPage() {
       {/* ── 5 ── */}
       <Section title="5. Advertising and Remarketing">
         <p>
-          We use Facebook Pixel and Google Ads conversion tracking to measure the effectiveness of our advertising campaigns. These tools may place cookies on your device to track actions taken on our website (such as completing a contact form or scheduling an appointment) and to serve relevant ads to users who have visited our site.
-        </p>
+  We use Facebook Pixel and Google Ads conversion tracking to measure the effectiveness of our advertising campaigns.
+</p>
+<p>
+  These tools may place cookies on your device to track actions taken on our website (such as completing a contact form or scheduling an appointment) and to serve relevant ads to users who have visited our site.
+</p>
         <p>
           <strong>We do not share Protected Health Information (PHI) with advertising platforms.</strong> Any custom audiences created for advertising purposes use only general contact information (such as email or phone number) provided voluntarily by website visitors, never clinical health data.
         </p>
@@ -149,15 +158,21 @@ export default function PrivacyPage() {
           <li>Regular security reviews and updates</li>
         </ul>
         <p>
-          No method of transmission over the Internet or electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your information, we cannot guarantee absolute security. In the event of a data breach affecting your personal information, we will notify you as required by applicable law.
-        </p>
+  No method of transmission over the Internet or electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your information, we cannot guarantee absolute security.
+</p>
+<p>
+  In the event of a data breach affecting your personal information, we will notify you as required by applicable law.
+</p>
       </Section>
 
       {/* ── 8 ── */}
       <Section title="8. Data Retention">
         <p>
-          We retain personal information collected through our website for as long as necessary to fulfill the purposes described in this policy, or as required by law. Patient health records are retained in accordance with Texas state law requirements for healthcare providers (a minimum of 10 years for adult patients, or until age 21 for minor patients, whichever is longer). Website analytics data is retained for a period of 26 months.
-        </p>
+  We retain personal information collected through our website for as long as necessary to fulfill the purposes described in this policy, or as required by law.
+</p>
+<p>
+  Patient health records are retained in accordance with Texas state law requirements for healthcare providers (a minimum of 10 years for adult patients, or until age 21 for minor patients, whichever is longer). Website analytics data is retained for a period of 26 months.
+</p>
       </Section>
 
       {/* ── 9 ── */}
@@ -181,8 +196,11 @@ export default function PrivacyPage() {
       {/* ── 10 ── */}
       <Section title="10. Children's Privacy">
         <p>
-          Our website is not directed to children under the age of 13. We do not knowingly collect personal information from children under 13 without verifiable parental consent. If you are a parent or guardian and believe your child has provided us with personal information, please contact us immediately and we will take steps to delete such information.
-        </p>
+  Our website is not directed to children under the age of 13. We do not knowingly collect personal information from children under 13 without verifiable parental consent.
+</p>
+<p>
+  If you are a parent or guardian and believe your child has provided us with personal information, please contact us immediately and we will take steps to delete such information.
+</p>
         <p>
           For pediatric chiropractic patients under 18, all online scheduling and form submissions must be completed by a parent or legal guardian.
         </p>
@@ -191,8 +209,11 @@ export default function PrivacyPage() {
       {/* ── 11 ── */}
       <Section title="11. Third-Party Links">
         <p>
-          Our website may contain links to third-party websites, including scheduling platforms, review sites, social media profiles, and insurance portals. This Privacy Policy applies only to our website. We are not responsible for the privacy practices of third-party websites and encourage you to review their privacy policies before providing any personal information.
-        </p>
+  Our website may contain links to third-party websites, including scheduling platforms, review sites, social media profiles, and insurance portals. This Privacy Policy applies only to our website.
+</p>
+<p>
+  We are not responsible for the privacy practices of third-party websites and encourage you to review their privacy policies before providing any personal information.
+</p>
       </Section>
 
       {/* ── 12 ── */}
@@ -215,8 +236,11 @@ export default function PrivacyPage() {
       {/* ── 13 ── */}
       <Section title="13. Changes to This Privacy Policy">
         <p>
-          We may update this Privacy Policy from time to time to reflect changes in our practices, technology, legal requirements, or other factors. When we make material changes, we will update the &ldquo;Last Updated&rdquo; date at the top of this page. We encourage you to review this policy periodically. Your continued use of our website after any changes constitutes your acceptance of the updated policy.
-        </p>
+  We may update this Privacy Policy from time to time to reflect changes in our practices, technology, legal requirements, or other factors. When we make material changes, we will update the &ldquo;Last Updated&rdquo; date at the top of this page.
+</p>
+<p>
+  We encourage you to review this policy periodically. Your continued use of our website after any changes constitutes your acceptance of the updated policy.
+</p>
       </Section>
 
       <hr style={{ border: "none", borderTop: "1px solid #dde6ec", margin: "48px 0 24px" }} />

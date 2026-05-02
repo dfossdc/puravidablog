@@ -17,7 +17,11 @@ translatedSlug: "sindrome-post-conmocion-quiropractico-san-antonio"
 
 # Post-Concussion Chiropractor in San Antonio, TX
 
-Concussions and post-concussion syndrome can have lingering effects that interfere with daily life long after the initial injury. If you're struggling with post-concussion symptoms in San Antonio—including persistent headaches, dizziness, cognitive difficulties, or other complications—Dr. Dan Foss, DC at Pura Vida Chiropractic offers specialized care to support concussion recovery. Using advanced techniques including SOT protocols and cranial adjustments, Dr. Foss helps patients overcome post-concussion syndrome and return to normal function.
+Concussions and post-concussion syndrome can have lingering effects that interfere with daily life long after the initial injury.
+
+If you're struggling with post-concussion symptoms in San Antonio—including persistent headaches, dizziness, cognitive difficulties, or other complications—Dr. Dan Foss, DC at Pura Vida Chiropractic offers specialized care to support concussion recovery.
+
+Using advanced techniques including SOT protocols and cranial adjustments, Dr. Foss helps patients overcome post-concussion syndrome and return to normal function.
 
 ## Understanding Concussions and Post-Concussion Syndrome
 
@@ -217,22 +221,36 @@ Subsequent visits include:
 ## Frequently Asked Questions
 
 **How long does post-concussion recovery take with proper treatment?**
-Recovery varies. Some patients recover in weeks with appropriate care, while others require months. Severity of the initial concussion and individual factors affect timeline. Many patients notice improvement in specific symptoms within the first few weeks—headaches often improve first, followed by cognitive and vestibular symptoms. Complete recovery often requires 8-12 weeks or longer.
+Recovery varies. Some patients recover in weeks with appropriate care, while others require months. Severity of the initial concussion and individual factors affect timeline.
+
+Many patients notice improvement in specific symptoms within the first few weeks—headaches often improve first, followed by cognitive and vestibular symptoms. Complete recovery often requires 8-12 weeks or longer.
 
 **Can chiropractic help with post-concussion headaches?**
-Yes. Post-concussion headaches are the most common lingering symptom. They result from cranial bone misalignment, decreased cerebrospinal fluid flow, and nervous system dysfunction from the trauma. SOT cranial techniques and craniopathic adjustments directly address these mechanisms, and headaches often improve within the first few weeks of treatment.
+Yes. Post-concussion headaches are the most common lingering symptom. They result from cranial bone misalignment, decreased cerebrospinal fluid flow, and nervous system dysfunction from the trauma.
+
+SOT cranial techniques and craniopathic adjustments directly address these mechanisms, and headaches often improve within the first few weeks of treatment.
 
 **I had a concussion months or years ago and still have symptoms. Is it too late to seek treatment?**
-It's never too late. While early intervention produces better outcomes, many chronic post-concussion patients experience significant improvement even after months or years. Proper treatment can address lingering effects that would otherwise persist indefinitely. Even if complete recovery isn't possible, substantial improvement in function and symptom management is often achievable.
+It's never too late. While early intervention produces better outcomes, many chronic post-concussion patients experience significant improvement even after months or years.
+
+Proper treatment can address lingering effects that would otherwise persist indefinitely. Even if complete recovery isn't possible, substantial improvement in function and symptom management is often achievable.
 
 **What's the difference between standard chiropractic and post-concussion-specific care?**
-Standard chiropractic addresses spinal subluxation. Post-concussion care requires comprehensive assessment of cranial structure, cerebrospinal fluid dynamics, vestibular function, cognitive and mood effects, and movement coordination. This requires SOT Advanced certification with emphasis on Category II cranial techniques—not all chiropractors have this expertise.
+Standard chiropractic addresses spinal subluxation.
+
+Post-concussion care requires comprehensive assessment of cranial structure, cerebrospinal fluid dynamics, vestibular function, cognitive and mood effects, and movement coordination.
+
+This requires SOT Advanced certification with emphasis on Category II cranial techniques—not all chiropractors have this expertise.
 
 **Can I return to work or sports immediately after a concussion?**
-No. Proper post-concussion management requires careful return-to-activity progression. Too much rest can sometimes slow recovery, but too much activity too quickly worsens symptoms and delays healing. Dr. Foss provides individualized activity progression guidance based on your recovery stage and symptom status.
+No. Proper post-concussion management requires careful return-to-activity progression. Too much rest can sometimes slow recovery, but too much activity too quickly worsens symptoms and delays healing.
+
+Dr. Foss provides individualized activity progression guidance based on your recovery stage and symptom status.
 
 **Why does early treatment matter so much with post-concussion syndrome?**
-Early intervention prevents chronic post-concussion syndrome from developing, allows most symptoms to resolve faster with proper care, prevents secondary injuries from compensatory patterns, and identifies lingering effects that might otherwise go untreated. The earlier you receive specialized treatment, the better your outcomes.
+Early intervention prevents chronic post-concussion syndrome from developing, allows most symptoms to resolve faster with proper care, prevents secondary injuries from compensatory patterns, and identifies lingering effects that might otherwise go untreated.
+
+The earlier you receive specialized treatment, the better your outcomes.
 
 ## Why Choose Pura Vida Chiropractic for Post-Concussion Care
 
@@ -257,4 +275,6 @@ If you're struggling with post-concussion symptoms in San Antonio, you deserve s
 
 **Bilingual Services**: English and Spanish
 
-Call today to schedule your post-concussion evaluation. Don't let lingering concussion symptoms continue to affect your life. With proper, comprehensive chiropractic care, many post-concussion patients experience significant improvement and return to normal function. Let Dr. Foss help you on your path to full concussion recovery.
+Call today to schedule your post-concussion evaluation. Don't let lingering concussion symptoms continue to affect your life. With proper, comprehensive chiropractic care, many post-concussion patients experience significant improvement and return to normal function.
+
+Let Dr. Foss help you on your path to full concussion recovery.

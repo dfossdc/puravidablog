@@ -33,29 +33,70 @@ mentions:
     name: "ICAK Applied Kinesiology"
     url: "https://www.icakusa.com"
 ---
+Over the past year I have experienced a lot of dental issues and suffered from TMJ. As a result I would like to compile all of my experiences here so that you can have a definitive guide to treating your TMJ successfully. The most important thing to remember is that TMJ is different for everyone.
 
-Over the past year I have experienced a lot of dental issues and suffered from TMJ. As a result I would like to compile all of my experiences here so that you can have a definitive guide to treating your TMJ successfully. The most important thing to remember is that TMJ is different for everyone. As a Chiropractor practicing over the past 17 years I realize that the whole is not the sum of its parts and as such everyone heals and repairs differently. There is no cookie cutter approach to TMJ. There are many people, providers, and doctors that will tell you otherwise, that they have the cure! This is not true! This is a compilation of my journey and what worked for me. Again what worked for me might or might not work for you.
+As a Chiropractor practicing over the past 17 years I realize that the whole is not the sum of its parts and as such everyone heals and repairs differently. There is no cookie cutter approach to TMJ. There are many people, providers, and doctors that will tell you otherwise, that they have the cure!
+
+This is not true! This is a compilation of my journey and what worked for me. Again what worked for me might or might not work for you.
 
 ## My journey begins
 
-My journey began like many of you that are perhaps reading this blog. I was sitting at home one day and started to experience pain in a molar. The particular molar that was painful was one that I had issues with in the past. I had 2 root canals because the first one had failed. I went to my dentist and they recommended a procedure called an apicoectomy.
+My journey began like many of you that are perhaps reading this blog. I was sitting at home one day and started to experience pain in a molar. The particular molar that was painful was one that I had issues with in the past. I had 2 root canals because the first one had failed.
 
-After discussing the procedure I decided that it was best just to have the tooth removed. I had been reading online about [Weston Price](https://westonapricesa.org/) and the dangers of root canals and decided it was time to take my root canal out. The procedure itself was pretty straight forward my dentist applied something to number the area and pulled the tooth out. After the procedure I was hoping that the pain would go away but it took literally almost 2 months while I was taking pain medication and antibiotics.  The pain finally went away and on a subsequent visit to the dentist I decided that I wanted to have an implant done. I had never had an implant before so I didn’t realize completely what I was getting into until I was halfway through the procedure. They had placed some bone graft material in the socket of my tooth after it was extracted and they had to let it heal at least 3-4 months before they could put the post in the tooth for the implant. I returned for the implant post surgery and got numbed again and the post was placed. After another 3-4 months I returned again to take impressions and prepare to place the crown on top of the implant. This is where the problems began.
+I went to my dentist and they recommended a procedure called an apicoectomy.
+
+After discussing the procedure I decided that it was best just to have the tooth removed. I had been reading online about [Weston Price](https://westonapricesa.org/) and the dangers of root canals and decided it was time to take my root canal out.
+
+The procedure itself was pretty straight forward my dentist applied something to number the area and pulled the tooth out. After the procedure I was hoping that the pain would go away but it took literally almost 2 months while I was taking pain medication and antibiotics.
+
+The pain finally went away and on a subsequent visit to the dentist I decided that I wanted to have an implant done. I had never had an implant before so I didn’t realize completely what I was getting into until I was halfway through the procedure.
+
+They had placed some bone graft material in the socket of my tooth after it was extracted and they had to let it heal at least 3-4 months before they could put the post in the tooth for the implant. I returned for the implant post surgery and got numbed again and the post was placed.
+
+After another 3-4 months I returned again to take impressions and prepare to place the crown on top of the implant. This is where the problems began.
 
 ![TMJ jaw overview](/images/tmj.webp)
 
 ## The crown started to move
 
-When they placed the crown they had difficulty screwing the crown into the post and were literally pulling hard on my jaw. They finally placed the crown and I wore it for about a week but then noticed that it started to move. I got worried and went back to my dentist and told him that it was moving and he had to remove it. Not before I started getting numbness and pain into my jaw. The pain was excruciating and moved up into the side of my head and just below the area where the tooth was placed. I told the dentist and we decided to take a break on the implant until the jaw healed. The jaw never healed. I thought the pain would go away. I got worried I thought maybe that the jaw had an abscess still inside it and it was pushing on my sinus cavity. So I went to an ENT and had a CT scan. The CT showed that I had some fluid in my sinus so they put me on a round of antibiotics for 2-3 weeks. That didn’t solve the problem. I thought maybe it was the metal post that was in my mouth so I saw an oral surgeon and he agreed to take the post out for a price of course almost the same cost of the implant. I was really hopeful that having the post removed would solve my problem. It didn’t! The pain continued until I finally realized that it was my TMJ joint. I even had an MRI of my brain to confirm that I was not indeed crazy and didn’t have something strange happening with trigeminal nerves.
+When they placed the crown they had difficulty screwing the crown into the post and were literally pulling hard on my jaw. They finally placed the crown and I wore it for about a week but then noticed that it started to move.
+
+I got worried and went back to my dentist and told him that it was moving and he had to remove it. Not before I started getting numbness and pain into my jaw. The pain was excruciating and moved up into the side of my head and just below the area where the tooth was placed.
+
+I told the dentist and we decided to take a break on the implant until the jaw healed. The jaw never healed. I thought the pain would go away. I got worried I thought maybe that the jaw had an abscess still inside it and it was pushing on my sinus cavity. So I went to an ENT and had a CT scan.
+
+The CT showed that I had some fluid in my sinus so they put me on a round of antibiotics for 2-3 weeks. That didn’t solve the problem.
+
+I thought maybe it was the metal post that was in my mouth so I saw an oral surgeon and he agreed to take the post out for a price of course almost the same cost of the implant. I was really hopeful that having the post removed would solve my problem. It didn’t!
+
+The pain continued until I finally realized that it was my TMJ joint. I even had an MRI of my brain to confirm that I was not indeed crazy and didn’t have something strange happening with trigeminal nerves.
 
 ## What I discovered
 
-I started to put everything together. My initial numbness in my face was due to the abcess but this numbness was coming from the jaw joint or TMJ.  As a Chiropractor I have always helped many patients with TMJ and finding out if the issue itself is due to malocclusion or bad bite, muscular imbalances, or cranial imbalances.  I did a quick assessment of my jaw and found that it was a muscular imbalance. In fact when the implant was placed if only for 1 week it actually caused my bite to open on one side and close on the other side. This caused what is called an “open bite.”  What was happening was that the muscles on the side that was open were going into spasm. How could I fix this? I did a bunch of muscle work on my jaw and had friends who did manipulation but what I found worked the best for me was dry needling. I went to a Physical Therapist in town [Dr Matt Randell ](https://www.physicaltherapytx.com/)and he performed dry needling into the muscles of my jaw and I felt immediately relief. I also realized that I need to change my bite so I had a false tooth made to put into the space of the molar to use until I could have a bridge made for my bite. I had the tooth made by my new dentists [Dr. Gonzalez and Dr. Pena at Wholesome Dentistry](https://wholesomedentistry.com/). The tooth works great and has really reduced my pain and symptoms by 90%.  Was it an overnight fix absolutely not but I can tell that my jaw is beginning to realign. I’m also getting Chiropractic adjustments weekly in addition to the dry needling.Another thing that I knew I had was a reversed curve in my neck. The neck should normally have a c-shaped curve and so with the Chiropractic adjustments I did cervical traction to correct the curvature.
+I started to put everything together. My initial numbness in my face was due to the abcess but this numbness was coming from the jaw joint or TMJ.
+
+As a Chiropractor I have always helped many patients with TMJ and finding out if the issue itself is due to malocclusion or bad bite, muscular imbalances, or cranial imbalances. I did a quick assessment of my jaw and found that it was a muscular imbalance.
+
+In fact when the implant was placed if only for 1 week it actually caused my bite to open on one side and close on the other side. This caused what is called an “open bite.”  What was happening was that the muscles on the side that was open were going into spasm. How could I fix this?
+
+I did a bunch of muscle work on my jaw and had friends who did manipulation but what I found worked the best for me was dry needling.
+
+I went to a Physical Therapist in town [Dr Matt Randell ](https://www.physicaltherapytx.com/)and he performed dry needling into the muscles of my jaw and I felt immediately relief.
+
+I also realized that I need to change my bite so I had a false tooth made to put into the space of the molar to use until I could have a bridge made for my bite. I had the tooth made by my new dentists [Dr. Gonzalez and Dr. Pena at Wholesome Dentistry](https://wholesomedentistry.com/).
+
+The tooth works great and has really reduced my pain and symptoms by 90%. Was it an overnight fix absolutely not but I can tell that my jaw is beginning to realign.
+
+I’m also getting Chiropractic adjustments weekly in addition to the dry needling.Another thing that I knew I had was a reversed curve in my neck. The neck should normally have a c-shaped curve and so with the Chiropractic adjustments I did cervical traction to correct the curvature.
 
 
 ## How can this help you
 
-I know firsthand that the pain of TMJ can be debilitating. The first step I feel in fixing your TMJ once and for all is to really seek out what is the cause. Really dive deep into when the pain occurred. For myself it was when I had the crown put on that tooth and it moved. I was so stressed and worried that something was wrong that my bite changed. Maybe for yourself it is something completely different.Was it a dental procedure that you had done? Maybe braces? Maybe a tooth pulled?Was is an accident? Car Accident? Broken tooth?Was it a stressful event? Loss of a loved one? New or lost job?Really taking a detailed history is the first step to finding out the cause. Then the next step is exploring treatments.
+I know firsthand that the pain of TMJ can be debilitating. The first step I feel in fixing your TMJ once and for all is to really seek out what is the cause. Really dive deep into when the pain occurred. For myself it was when I had the crown put on that tooth and it moved.
+
+I was so stressed and worried that something was wrong that my bite changed. Maybe for yourself it is something completely different.Was it a dental procedure that you had done? Maybe braces? Maybe a tooth pulled?Was is an accident? Car Accident? Broken tooth?Was it a stressful event?
+
+Loss of a loved one? New or lost job?Really taking a detailed history is the first step to finding out the cause. Then the next step is exploring treatments.
 
 - A Chiropractor trained in [Sacral Occipital Technique (TM)](https://sorsi.com/) and [Applied Kinesiology](https://www.icakusa.com/) with advanced training in TMJ can help you determine if the issue is due to your bite, the muscles of your bite, or the cranial bones. Or perhaps misalignment issues in the upper cervical spine.  Make sure that your Chiropractor has advanced training again many will claim but not have the experience.
 
@@ -81,11 +122,15 @@ TMJ often requires a team approach. Here are the San Antonio providers Dr. Dan h
 
 **Chiropractic Care for TMJ**
 
-[Pura Vida Chiropractic — Cranial & SOT Adjusting](https://puravidasanantonio.com/tmj/) specializes in cranial bone alignment and upper cervical care for TMJ. For upper cervical chiropractic, I personally see [Dr. Dutson at Thrive Head & Spinal Care](https://thriveheadandspinalcare.com/) — he has done wonders for my jaw.
+[Pura Vida Chiropractic — Cranial & SOT Adjusting](https://puravidasanantonio.com/tmj/) specializes in cranial bone alignment and upper cervical care for TMJ.
+
+For upper cervical chiropractic, I personally see [Dr. Dutson at Thrive Head & Spinal Care](https://thriveheadandspinalcare.com/) — he has done wonders for my jaw.
 
 **Dentists — TMJ Specialists**
 
-[Dr. Brian Hale, DDS](https://www.drbrianhale.com/tmj-tmd/) practices Gneuromuscular Dentistry and bite orthotics at 1100 NW Loop 410 Suite 511, San Antonio — call (210) 308-7008. For biological holistic dentistry, [Wholesome Dentistry — Dr. Gonzalez & Dr. Peña](https://wholesomedentistry.com/) at 8502 Blanco Rd, San Antonio, (210) 344-2384, are my personal dentists who made my bite appliance.
+[Dr. Brian Hale, DDS](https://www.drbrianhale.com/tmj-tmd/) practices Gneuromuscular Dentistry and bite orthotics at 1100 NW Loop 410 Suite 511, San Antonio — call (210) 308-7008.
+
+For biological holistic dentistry, [Wholesome Dentistry — Dr. Gonzalez & Dr. Peña](https://wholesomedentistry.com/) at 8502 Blanco Rd, San Antonio, (210) 344-2384, are my personal dentists who made my bite appliance.
 
 **Physical Therapy — Dry Needling for TMJ**
 
@@ -93,7 +138,9 @@ TMJ often requires a team approach. Here are the San Antonio providers Dr. Dan h
 
 **Functional & Holistic Resources**
 
-The [Weston A. Price Foundation — San Antonio Chapter](https://westonapricesa.org/) provides excellent nutrition and root cause dental health education. For finding an advanced SOT-certified chiropractor trained in TMJ, visit [SORSI — Sacro Occipital Research Society](https://sorsi.com/). [ICAK — Applied Kinesiology](https://www.icakusa.com/) practitioners use muscle testing to identify jaw and cranial imbalances.
+The [Weston A. Price Foundation — San Antonio Chapter](https://westonapricesa.org/) provides excellent nutrition and root cause dental health education.
+
+For finding an advanced SOT-certified chiropractor trained in TMJ, visit [SORSI — Sacro Occipital Research Society](https://sorsi.com/). [ICAK — Applied Kinesiology](https://www.icakusa.com/) practitioners use muscle testing to identify jaw and cranial imbalances.
 
 **The Aqualizer — At-Home Tool**
 
@@ -109,22 +156,38 @@ Dr. Dan's recommended at-home water bite device for immediate relief is the [Aqu
 ## Frequently Asked Questions
 
 **What exactly is TMJ, and how do I know if I have it?**
-TMJ (temporomandibular joint disorder) is a condition affecting the joints that connect your jaw to your skull. Signs include jaw pain, clicking or popping sounds when you open your mouth, difficulty chewing, or pain radiating to your ear, neck, or temple. I've treated hundreds of cases over 23 years, and the key is identifying the root cause early—whether it's a muscular imbalance, bite misalignment, or cranial imbalance.
+TMJ (temporomandibular joint disorder) is a condition affecting the joints that connect your jaw to your skull.
+
+Signs include jaw pain, clicking or popping sounds when you open your mouth, difficulty chewing, or pain radiating to your ear, neck, or temple.
+
+I've treated hundreds of cases over 23 years, and the key is identifying the root cause early—whether it's a muscular imbalance, bite misalignment, or cranial imbalance.
 
 **Is TMJ dangerous, or will it go away on its own?**
-TMJ won't resolve itself without proper intervention, and ignoring it can worsen joint damage and create chronic pain cycles. The longer the misalignment persists, the more muscle spasm and joint wear you'll develop. I don't recommend waiting—early intervention prevents permanent dysfunction and speeds recovery significantly.
+TMJ won't resolve itself without proper intervention, and ignoring it can worsen joint damage and create chronic pain cycles. The longer the misalignment persists, the more muscle spasm and joint wear you'll develop.
+
+I don't recommend waiting—early intervention prevents permanent dysfunction and speeds recovery significantly.
 
 **How many chiropractic visits will I need to fix my TMJ?**
-This depends entirely on your specific cause and how long the problem has existed. In my experience, straightforward muscular cases often improve within 4-6 weeks of consistent care, while bite-related or cranial issues may require 8-12 weeks. I always recommend starting with a consultation to assess whether you need chiropractic care alone or a team approach with your dentist and physical therapist.
+This depends entirely on your specific cause and how long the problem has existed.
+
+In my experience, straightforward muscular cases often improve within 4-6 weeks of consistent care, while bite-related or cranial issues may require 8-12 weeks.
+
+I always recommend starting with a consultation to assess whether you need chiropractic care alone or a team approach with your dentist and physical therapist.
 
 **What's the difference between an occlusal splint and a night guard, and do I really need one?**
-A night guard prevents damage from teeth grinding but doesn't correct your bite. An occlusal splint actually repositions your teeth and jaw, addressing the root cause. I personally worked with my dentist to create a bite appliance because my misalignment required active correction, not just protection. Your specific needs should guide that decision.
+A night guard prevents damage from teeth grinding but doesn't correct your bite. An occlusal splint actually repositions your teeth and jaw, addressing the root cause.
+
+I personally worked with my dentist to create a bite appliance because my misalignment required active correction, not just protection. Your specific needs should guide that decision.
 
 **Why did my TMJ pain start after a dental procedure if the dentist didn't cause it?**
-Dental work—crowns, extractions, implants—can trigger TMJ if even slight pressure changes your bite or creates jaw muscle spasm during the procedure. In my case, the dental work didn't cause TMJ, but the trauma and compensation my jaw made afterward did. This is why discussing TMJ risk with your dentist before major work is critical.
+Dental work—crowns, extractions, implants—can trigger TMJ if even slight pressure changes your bite or creates jaw muscle spasm during the procedure.
+
+In my case, the dental work didn't cause TMJ, but the trauma and compensation my jaw made afterward did. This is why discussing TMJ risk with your dentist before major work is critical.
 
 **Do I need a referral to see you for TMJ care?**
-No referral needed. I see patients directly. We are insurance friendly. Bring your insurance card and ID to the office to verify how your insurance can contribute to your care. Call **(210) 685-1994** for a free consultation to discuss whether cranial adjusting, SOT, or a team approach makes sense for your specific TMJ situation.
+No referral needed. I see patients directly. We are insurance friendly. Bring your insurance card and ID to the office to verify how your insurance can contribute to your care.
+
+Call **(210) 685-1994** for a free consultation to discuss whether cranial adjusting, SOT, or a team approach makes sense for your specific TMJ situation.
 
 ---
 

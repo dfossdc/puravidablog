@@ -17,7 +17,11 @@ translatedSlug: "bursitis-quiropractico-san-antonio"
 
 # Bursitis Treatment at Pura Vida Chiropractic in San Antonio
 
-Bursitis—inflammation of the fluid-filled sacs (bursae) that cushion bones, tendons, and muscles—causes localized pain, swelling, and limited range of motion. Whether you experience bursitis in your shoulder, elbow, hip, knee, or another joint, the resulting pain can significantly restrict your activities and quality of life. At Pura Vida Chiropractic, Dr. Dan Foss, DC specializes in treating bursitis by addressing both the local inflammation and the underlying biomechanical dysfunction that creates abnormal stress on bursae.
+Bursitis—inflammation of the fluid-filled sacs (bursae) that cushion bones, tendons, and muscles—causes localized pain, swelling, and limited range of motion.
+
+Whether you experience bursitis in your shoulder, elbow, hip, knee, or another joint, the resulting pain can significantly restrict your activities and quality of life.
+
+At Pura Vida Chiropractic, Dr. Dan Foss, DC specializes in treating bursitis by addressing both the local inflammation and the underlying biomechanical dysfunction that creates abnormal stress on bursae.
 
 ## Understanding Bursitis: Anatomy and Pathophysiology
 
@@ -73,7 +77,9 @@ By restoring proper spinal alignment, Dr. Foss normalizes the biomechanics creat
 
 ### SOT Category II: Cranial Support for Anti-Inflammatory Response
 
-The brain and nervous system control inflammatory responses throughout the body. Cranial misalignments compromise nervous system function, reducing the body's ability to resolve inflammation. SOT Category II cranial adjustments enhance cerebrospinal fluid circulation and brain function, supporting the body's natural anti-inflammatory responses.
+The brain and nervous system control inflammatory responses throughout the body. Cranial misalignments compromise nervous system function, reducing the body's ability to resolve inflammation.
+
+SOT Category II cranial adjustments enhance cerebrospinal fluid circulation and brain function, supporting the body's natural anti-inflammatory responses.
 
 This cranial component often accelerates bursal inflammation resolution, sometimes producing dramatic improvements within days.
 
@@ -83,7 +89,9 @@ Category III corrections ensure that the entire spinal structure supports normal
 
 ## CMRT for Bursal Inflammation Reflex Control
 
-Chiropractic Manipulative Reflex Technique directly addresses the neurological reflexes controlling inflammation at specific bursa locations. Specific reflex points correspond to areas affected by bursitis. By stimulating these reflex patterns, Dr. Foss enhances the body's anti-inflammatory response at the affected bursa.
+Chiropractic Manipulative Reflex Technique directly addresses the neurological reflexes controlling inflammation at specific bursa locations. Specific reflex points correspond to areas affected by bursitis.
+
+By stimulating these reflex patterns, Dr. Foss enhances the body's anti-inflammatory response at the affected bursa.
 
 CMRT often produces rapid improvements in bursitis inflammation. Many patients experience significant swelling and pain reduction after treatment.
 
@@ -230,19 +238,29 @@ Our office at 2318 NW Military Hwy Suite 103, San Antonio TX 78231 provides a we
 ## Frequently Asked Questions
 
 **Can chiropractic care treat bursitis, or do I need a cortisone injection?**
-Chiropractic successfully treats most bursitis by correcting the biomechanical stress causing it. But if you have severe acute inflammation making movement impossible, a corticosteroid injection combined with chiropractic care can help rapidly — the injection reduces inflammation while I address the structural cause. Most patients avoid injections entirely with early chiropractic intervention.
+Chiropractic successfully treats most bursitis by correcting the biomechanical stress causing it.
+
+But if you have severe acute inflammation making movement impossible, a corticosteroid injection combined with chiropractic care can help rapidly — the injection reduces inflammation while I address the structural cause. Most patients avoid injections entirely with early chiropractic intervention.
 
 **How long does bursitis take to heal?**
-Acute bursitis typically responds within days to weeks. Most patients see significant improvement within 2-4 weeks and complete resolution within 4-8 weeks. Chronic bursitis that's been present for months takes longer but still usually resolves within 8-12 weeks with consistent treatment. How quickly you improve depends on severity and how strictly you follow activity modifications.
+Acute bursitis typically responds within days to weeks. Most patients see significant improvement within 2-4 weeks and complete resolution within 4-8 weeks.
+
+Chronic bursitis that's been present for months takes longer but still usually resolves within 8-12 weeks with consistent treatment. How quickly you improve depends on severity and how strictly you follow activity modifications.
 
 **Will my bursitis come back after treatment?**
-Only if the underlying biomechanical problem returns. If we correct your spinal alignment and you maintain the exercises I prescribe, recurrence is preventable. Many of my patients maintain their relief for years with periodic maintenance visits. Without addressing the root cause, yes, bursitis will return.
+Only if the underlying biomechanical problem returns. If we correct your spinal alignment and you maintain the exercises I prescribe, recurrence is preventable. Many of my patients maintain their relief for years with periodic maintenance visits.
+
+Without addressing the root cause, yes, bursitis will return.
 
 **Is it safe to exercise while treating bursitis?**
-Yes, but strategically. Certain exercises that strengthen the muscles supporting the affected joint actually speed recovery. Other movements aggravate the bursa and should be avoided. During your visit, I'll show you exactly what movements to avoid and which therapeutic exercises to perform.
+Yes, but strategically. Certain exercises that strengthen the muscles supporting the affected joint actually speed recovery. Other movements aggravate the bursa and should be avoided.
+
+During your visit, I'll show you exactly what movements to avoid and which therapeutic exercises to perform.
 
 **My bursitis is in my shoulder and my neck hurts too. Are they connected?**
-Often yes. Shoulder bursitis from impingement is usually caused by cervical spine misalignment or thoracic spine dysfunction. Your neck creates the abnormal shoulder mechanics that stress the bursa. So treating your cervical and thoracic spine often resolves shoulder bursitis faster than treating just the shoulder locally.
+Often yes. Shoulder bursitis from impingement is usually caused by cervical spine misalignment or thoracic spine dysfunction. Your neck creates the abnormal shoulder mechanics that stress the bursa.
+
+So treating your cervical and thoracic spine often resolves shoulder bursitis faster than treating just the shoulder locally.
 
 ## Overcome Bursitis Permanently
 

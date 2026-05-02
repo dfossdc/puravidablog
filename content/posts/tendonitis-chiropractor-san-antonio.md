@@ -17,11 +17,17 @@ translatedSlug: "tendinitis-quiropractico-san-antonio"
 
 # Tendonitis Treatment at Pura Vida Chiropractic in San Antonio
 
-Tendonitis—inflammation of tendons connecting muscles to bones—causes pain, weakness, and restricted motion that can severely limit your activities. Whether you experience tennis elbow, golfer's elbow, Achilles tendonitis, rotator cuff tendonitis, or patellar tendonitis, the underlying problem is inflammation and microscopic damage to tendon tissues from excessive or abnormal stress. At Pura Vida Chiropractic, Dr. Dan Foss, DC specializes in treating tendonitis by addressing both the local inflammation and the biomechanical dysfunction creating abnormal stress on tendons.
+Tendonitis—inflammation of tendons connecting muscles to bones—causes pain, weakness, and restricted motion that can severely limit your activities.
+
+Whether you experience tennis elbow, golfer's elbow, Achilles tendonitis, rotator cuff tendonitis, or patellar tendonitis, the underlying problem is inflammation and microscopic damage to tendon tissues from excessive or abnormal stress.
+
+At Pura Vida Chiropractic, Dr. Dan Foss, DC specializes in treating tendonitis by addressing both the local inflammation and the biomechanical dysfunction creating abnormal stress on tendons.
 
 ## Understanding Tendonitis: Anatomy and Pathophysiology
 
-Tendons are dense connective tissues that transmit force from muscles to bones, enabling movement. Unlike muscles, tendons have limited blood supply and receive nutrients primarily through diffusion. This makes tendons slow to heal when injured. Tendonitis occurs when tendons become inflamed and damaged from:
+Tendons are dense connective tissues that transmit force from muscles to bones, enabling movement. Unlike muscles, tendons have limited blood supply and receive nutrients primarily through diffusion. This makes tendons slow to heal when injured.
+
+Tendonitis occurs when tendons become inflamed and damaged from:
 
 ### Common Tendonitis Sites
 - **Shoulder:** Rotator cuff tendonitis (supraspinatus, infraspinatus)
@@ -76,7 +82,9 @@ By restoring proper spinal alignment, Dr. Foss normalizes the biomechanics and n
 
 ### SOT Category II: Cranial Support for Healing and Anti-Inflammatory Response
 
-Cranial misalignments compromise nervous system function, reducing the body's ability to modulate inflammation and coordinate movement. SOT Category II cranial adjustments enhance cerebrospinal fluid circulation and brain function, supporting the body's natural inflammatory resolution and promoting optimal movement coordination.
+Cranial misalignments compromise nervous system function, reducing the body's ability to modulate inflammation and coordinate movement.
+
+SOT Category II cranial adjustments enhance cerebrospinal fluid circulation and brain function, supporting the body's natural inflammatory resolution and promoting optimal movement coordination.
 
 This cranial component often accelerates tendon healing and frequently produces dramatic symptom improvements.
 
@@ -86,7 +94,9 @@ Category III corrections ensure that the entire spinal structure supports normal
 
 ## CMRT for Tendon-Related Muscle Reflex Enhancement
 
-Chiropractic Manipulative Reflex Technique directly addresses the neurological reflexes controlling muscle function and coordination related to affected tendons. By stimulating specific reflex patterns, Dr. Foss enhances muscle coordination and reduces the abnormal stress patterns creating tendonitis.
+Chiropractic Manipulative Reflex Technique directly addresses the neurological reflexes controlling muscle function and coordination related to affected tendons.
+
+By stimulating specific reflex patterns, Dr. Foss enhances muscle coordination and reduces the abnormal stress patterns creating tendonitis.
 
 CMRT often produces rapid improvements in tendonitis as muscle coordination normalizes.
 
@@ -148,22 +158,34 @@ Regular reassessments track pain improvement, strength restoration, and function
 ## Frequently Asked Questions
 
 **Can tendonitis heal without surgery?**
-Yes, the vast majority of tendonitis cases heal without surgery. Tendons have remarkable healing capacity when the biomechanical dysfunction creating abnormal stress is corrected. Surgery should only be considered after conservative chiropractic care has been thoroughly attempted and failed.
+Yes, the vast majority of tendonitis cases heal without surgery. Tendons have remarkable healing capacity when the biomechanical dysfunction creating abnormal stress is corrected.
+
+Surgery should only be considered after conservative chiropractic care has been thoroughly attempted and failed.
 
 **Why does my tendonitis keep coming back after treatment?**
-Recurrent tendonitis usually means the underlying biomechanical dysfunction hasn't been fully corrected. If rotator cuff tendonitis keeps returning, your cervical spine or shoulder mechanics are likely still creating abnormal stress. Complete resolution requires addressing the full biomechanical chain, not just treating the tendon.
+Recurrent tendonitis usually means the underlying biomechanical dysfunction hasn't been fully corrected. If rotator cuff tendonitis keeps returning, your cervical spine or shoulder mechanics are likely still creating abnormal stress.
+
+Complete resolution requires addressing the full biomechanical chain, not just treating the tendon.
 
 **How long does tendonitis take to heal?**
-Acute tendonitis typically responds well to chiropractic care within 4-8 weeks. Chronic tendonitis with degeneration and scar tissue requires longer—8-16 weeks is common. However, tendons continue remodeling for months after pain resolves, so follow-through with prescribed exercises is important.
+Acute tendonitis typically responds well to chiropractic care within 4-8 weeks. Chronic tendonitis with degeneration and scar tissue requires longer—8-16 weeks is common.
+
+However, tendons continue remodeling for months after pain resolves, so follow-through with prescribed exercises is important.
 
 **Why is rest alone not enough for tendonitis?**
-Rest prevents tissue stress but doesn't promote active healing. Research shows that appropriate therapeutic exercise combined with chiropractic correction actually promotes healing faster than rest alone. This is why comprehensive care produces better outcomes than rest-based approaches.
+Rest prevents tissue stress but doesn't promote active healing. Research shows that appropriate therapeutic exercise combined with chiropractic correction actually promotes healing faster than rest alone.
+
+This is why comprehensive care produces better outcomes than rest-based approaches.
 
 **Can Class IV laser or shockwave therapy really help chronic tendonitis?**
-Yes. Class IV laser reduces inflammation, enhances blood flow to poorly vascularized tendons, and stimulates healing. Shockwave therapy breaks down scar tissue and stimulates new blood vessel formation and tissue regeneration. For chronic cases unresponsive to adjustment alone, these therapies accelerate healing significantly.
+Yes. Class IV laser reduces inflammation, enhances blood flow to poorly vascularized tendons, and stimulates healing.
+
+Shockwave therapy breaks down scar tissue and stimulates new blood vessel formation and tissue regeneration. For chronic cases unresponsive to adjustment alone, these therapies accelerate healing significantly.
 
 **How do I know if my tendonitis is from overuse or from biomechanical problems?**
-Often it's both. Even if you are overusing a tendon, you may only develop tendonitis if your biomechanics are poor. Someone with perfect cervical spine alignment might use their rotator cuff extensively without problems, while someone with cervical misalignment develops rotator cuff tendonitis doing moderate activity. Addressing both overuse reduction and biomechanical correction produces complete relief.
+Often it's both. Even if you are overusing a tendon, you may only develop tendonitis if your biomechanics are poor.
+
+Someone with perfect cervical spine alignment might use their rotator cuff extensively without problems, while someone with cervical misalignment develops rotator cuff tendonitis doing moderate activity. Addressing both overuse reduction and biomechanical correction produces complete relief.
 
 ## Understanding Tendon Healing: Why Tendons Take Time
 

@@ -17,17 +17,23 @@ translatedSlug: "ansiedad-depresion-quiropractico-san-antonio"
 
 # Anxiety and Depression: Optimizing Nervous System Function at Pura Vida Chiropractic
 
-Anxiety and depression profoundly impact quality of life, relationships, work performance, and overall wellbeing. While medication and therapy play important roles in mental health care, many people don't realize that spinal misalignments and nervous system dysfunction significantly contribute to anxiety and depression. **Dr. Dan Foss, DC at Pura Vida Chiropractic** specializes in optimizing nervous system function through the Pura Vida Protocol, supporting the neurological health that underlies emotional wellbeing and resilience.
+Anxiety and depression profoundly impact quality of life, relationships, work performance, and overall wellbeing.
+
+While medication and therapy play important roles in mental health care, many people don't realize that spinal misalignments and nervous system dysfunction significantly contribute to anxiety and depression. **Dr. Dan Foss, DC at Pura Vida Chiropractic** specializes in optimizing nervous system function through the Pura Vida Protocol, supporting the neurological health that underlies emotional wellbeing and resilience.
 
 ## Understanding the Nervous System Connection
 
-Your nervous system doesn't just control movement and sensation—it regulates your mood, stress response, sleep, hormone production, and emotional resilience. When spinal misalignments create subluxations, they interrupt the nerve signals that maintain healthy nervous system function, often contributing to anxiety and depression.
+Your nervous system doesn't just control movement and sensation—it regulates your mood, stress response, sleep, hormone production, and emotional resilience.
+
+When spinal misalignments create subluxations, they interrupt the nerve signals that maintain healthy nervous system function, often contributing to anxiety and depression.
 
 Additionally, chronic pain from spinal dysfunction often worsens anxiety and depression, creating a vicious cycle where pain increases emotional distress, and emotional distress increases pain perception.
 
 ## How Spinal Misalignment Affects Mental Health
 
-**Vagal Dysfunction**: The vagus nerve, which travels from your brain through your cervical spine and into your body, regulates the parasympathetic nervous system (the "rest and digest" system). Cervical misalignments interfere with vagal function, preventing your nervous system from properly shifting into the calm, relaxed state essential for mental health.
+**Vagal Dysfunction**: The vagus nerve, which travels from your brain through your cervical spine and into your body, regulates the parasympathetic nervous system (the "rest and digest" system).
+
+Cervical misalignments interfere with vagal function, preventing your nervous system from properly shifting into the calm, relaxed state essential for mental health.
 
 **Autonomic Dysregulation**: Spinal misalignments create imbalance between your sympathetic (fight-or-flight) and parasympathetic (rest-and-digest) nervous systems, leaving you in a constant state of hypervigilance and stress.
 
@@ -222,7 +228,9 @@ If you're experiencing anxiety, depression, or other mental health concerns, pro
 
 Dr. Foss has supported hundreds of patients with anxiety and depression since founding Pura Vida Chiropractic in 2010. His **SOT Advanced certification** and expertise with cranial adjustments enable him to optimize nervous system function in ways that support mental health and emotional resilience.
 
-He approaches anxiety and depression as problems involving the physical nervous system structure and function, not just chemical or psychological issues. His comprehensive approach addresses all components—structural, neurological, and reflex-pattern—supporting genuine healing rather than just symptom suppression.
+He approaches anxiety and depression as problems involving the physical nervous system structure and function, not just chemical or psychological issues.
+
+His comprehensive approach addresses all components—structural, neurological, and reflex-pattern—supporting genuine healing rather than just symptom suppression.
 
 ## Optimize Your Nervous System, Support Your Mental Health
 
@@ -231,20 +239,32 @@ Anxiety and depression are complex conditions benefiting from comprehensive, int
 ## Frequently Asked Questions
 
 **Can chiropractic care replace my antidepressants or anti-anxiety medication?**
-No—chiropractic care is complementary, not a replacement for psychiatric treatment. If you're on medication, keep taking it and discuss chiropractic care with your prescribing doctor. Many patients find that as their nervous system optimizes through chiropractic care, their doctor can gradually adjust medication dosages, but that decision is always made by your psychiatrist, not your chiropractor.
+No—chiropractic care is complementary, not a replacement for psychiatric treatment. If you're on medication, keep taking it and discuss chiropractic care with your prescribing doctor.
+
+Many patients find that as their nervous system optimizes through chiropractic care, their doctor can gradually adjust medication dosages, but that decision is always made by your psychiatrist, not your chiropractor.
 
 **How does chiropractic actually help anxiety if anxiety is a mental health problem?**
-Anxiety isn't just psychological—it's also a nervous system dysfunction. Cervical misalignments restrict vagus nerve function, keeping you locked in sympathetic (fight-or-flight) activation. I use SOT and cranial adjustments to restore parasympathetic tone, allowing your body to calm down. Combined with therapy and medication, this creates real nervous system change.
+Anxiety isn't just psychological—it's also a nervous system dysfunction. Cervical misalignments restrict vagus nerve function, keeping you locked in sympathetic (fight-or-flight) activation.
+
+I use SOT and cranial adjustments to restore parasympathetic tone, allowing your body to calm down. Combined with therapy and medication, this creates real nervous system change.
 
 **How many visits will I need before I feel less anxious?**
-Most patients notice changes within 2-4 weeks of consistent care, typically starting with better sleep and reduced physical tension. Meaningful mood improvement usually takes 8-12 weeks as the nervous system reorganizes. I always recommend at least a 12-week trial with proper SOT and cranial protocols before deciding if it's working for you.
+Most patients notice changes within 2-4 weeks of consistent care, typically starting with better sleep and reduced physical tension. Meaningful mood improvement usually takes 8-12 weeks as the nervous system reorganizes.
+
+I always recommend at least a 12-week trial with proper SOT and cranial protocols before deciding if it's working for you.
 
 **Is chiropractic care safe if I'm also in therapy and taking medication?**
-Absolutely. Chiropractic care complements both therapy and medication. In fact, I encourage you to keep working with your therapist and psychiatrist while you're getting adjusted. The combination of cognitive work, medication optimization, and nervous system restoration through chiropractic care creates synergy—each modality supports the others.
+Absolutely. Chiropractic care complements both therapy and medication. In fact, I encourage you to keep working with your therapist and psychiatrist while you're getting adjusted.
+
+The combination of cognitive work, medication optimization, and nervous system restoration through chiropractic care creates synergy—each modality supports the others.
 
 **Do you take insurance, or is this cash-only?**
-We are insurance friendly. Bring your insurance card and ID to the office to verify how your insurance can contribute to your care. If you'd rather discuss cost, call **(210) 685-1994** for a free consultation. I believe mental health support shouldn't be a financial barrier.
+We are insurance friendly. Bring your insurance card and ID to the office to verify how your insurance can contribute to your care. If you'd rather discuss cost, call **(210) 685-1994** for a free consultation.
 
-If you're suffering from anxiety or depression in San Antonio and interested in comprehensive care addressing the nervous system foundation of mental health, contact **Dr. Dan Foss, DC at Pura Vida Chiropractic** today. Call **(210) 685-1994** to discuss how chiropractic care might support your mental health treatment plan.
+I believe mental health support shouldn't be a financial barrier.
+
+If you're suffering from anxiety or depression in San Antonio and interested in comprehensive care addressing the nervous system foundation of mental health, contact **Dr. Dan Foss, DC at Pura Vida Chiropractic** today.
+
+Call **(210) 685-1994** to discuss how chiropractic care might support your mental health treatment plan.
 
 Our bilingual office is conveniently located at **2318 NW Military Hwy Suite 103, San Antonio TX 78231** with office hours Monday, Tuesday, and Thursday from 7:00am-4:00pm. Let Dr. Foss help you optimize your nervous system and support your journey toward greater emotional health and resilience.
