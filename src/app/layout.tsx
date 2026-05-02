@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Lato } from "next/font/google";
 import { headers } from "next/headers";
 import LocalBusinessSchema from "@/components/LocalBusinessSchema";
+import GoogleAnalytics from "@/components/GoogleAnalytics";
 import "./globals.css";
 
 const lato = Lato({
@@ -102,6 +103,7 @@ export default async function RootLayout({ children }: { children: React.ReactNo
         />
       </head>
       <body className={lato.variable}>
+        <GoogleAnalytics />
         <LocalBusinessSchema />
         {children}
       </body>
