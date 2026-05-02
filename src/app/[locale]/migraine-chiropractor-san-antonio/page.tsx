@@ -105,11 +105,11 @@ const content: ConditionChiropractorContent = {
     {
       en: {
         q: "Do you accept insurance for migraine treatment?",
-        a: "Yes — Pura Vida Chiropractic is insurance-friendly. We accept Medicare, Aetna, Blue Cross Blue Shield, Cigna, United Healthcare, and most major plans. We verify your benefits at no charge before your first visit, and offer accessible payment plans for uninsured patients.",
+        a: "Pura Vida Chiropractic is insurance friendly — we provide detailed superbills you can submit to your insurance for out-of-network reimbursement. We also offer accessible payment plans for uninsured patients.",
       },
       es: {
         q: "¿Aceptan seguro para tratamiento de migrañas?",
-        a: "Sí — Pura Vida Chiropractic es insurance-friendly. Aceptamos Medicare, Aetna, Blue Cross Blue Shield, Cigna, United Healthcare y la mayoría de los planes principales. Verificamos sus beneficios sin costo antes de su primera visita, y ofrecemos planes de pago accesibles para pacientes sin seguro.",
+        a: "Pura Vida Chiropractic es insurance friendly — le proporcionamos superbills detallados que puede enviar a su seguro para reembolso fuera de red. También ofrecemos planes de pago accesibles para pacientes sin seguro.",
       },
     },
     {

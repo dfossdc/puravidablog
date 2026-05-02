@@ -167,7 +167,7 @@ SOT is especially effective for chronic, recurring, and complex problems—parti
 Most patients notice improvement within 2-4 visits. Complete resolution of chronic problems typically takes 8-12 weeks depending on severity. I'll give you realistic expectations based on your first evaluation. There's no long-term commitment; you evaluate progress as you go.
 
 **Is SOT covered by insurance?**
-We accept most insurance through superbills. You pay at the visit and submit for reimbursement. Call us to verify coverage before your first appointment. Without insurance, we discuss payment options directly.
+We are insurance friendly — we provide detailed superbills you can submit to your insurance for out-of-network reimbursement. Without insurance, we discuss payment options directly.
 
 **Is SOT safe for everyone, including kids and pregnant women?**
 Absolutely. SOT uses gravity and body weight for correction, not force. It's the gentlest approach available, which is why it's perfect for fragile populations—pregnant women, infants, elderly, osteoporosis patients. Safety is built into the method.

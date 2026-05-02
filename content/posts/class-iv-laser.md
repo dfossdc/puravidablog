@@ -78,7 +78,7 @@ Yes. Class IV laser therapy is FDA-cleared and has an excellent safety profile. 
 Many patients notice a reduction in pain after their first session. More significant and lasting improvement typically builds over the first 3 to 6 treatments.
 
 **Is laser therapy covered by insurance?**
-Coverage varies by plan. Our office can verify your benefits and discuss affordable options.
+We are insurance friendly — we provide detailed superbills you can submit to your insurance for out-of-network reimbursement. Coverage varies by plan; call **(210) 685-1994** to discuss your specific situation.
 
 ## Serving San Antonio with Advanced Healing Technology
 

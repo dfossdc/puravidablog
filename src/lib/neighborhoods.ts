@@ -295,13 +295,13 @@ export const neighborhoods: NeighborhoodData[] = [
     whyChooseUs: [
       "Fully bilingual chiropractic care — Spanish from first call to follow-up",
       "Trusted by Hispanic families across SA's South Side for 23+ years",
-      "Insurance friendly — accepts Medicare, Aetna, BCBS, Cigna, UHC, and TRICARE",
+      "Insurance friendly — we provide detailed superbills for out-of-network reimbursement",
       "Pediatric, prenatal, and family-focused — your whole family in one office",
     ],
     whyChooseUsEs: [
       "Atención quiropráctica completamente bilingüe — español desde la primera llamada hasta el seguimiento",
       "Confiado por familias hispanas en el lado sur de SA por más de 23 años",
-      "Insurance friendly — acepta Medicare, Aetna, BCBS, Cigna, UHC y TRICARE",
+      "Somos insurance friendly — le proporcionamos superbills detallados para reembolso fuera de red",
       "Pediátrica, prenatal y centrada en la familia — toda su familia en una oficina",
     ],
     commonConditions: [
@@ -339,7 +339,7 @@ export const neighborhoods: NeighborhoodData[] = [
     whyChooseUs: [
       "Fully bilingual practice — Spanish from front desk to adjustment table",
       "Family-focused care for SA's largest Hispanic community",
-      "Insurance friendly — most major plans accepted",
+      "Insurance friendly — we provide detailed superbills for out-of-network reimbursement",
       "Free first evaluation — no commitment, no high-pressure sales",
     ],
     whyChooseUsEs: [
@@ -369,28 +369,28 @@ export const neighborhoods: NeighborhoodData[] = [
     distanceFromOffice: "about 20 minutes northeast via Loop 410 (we are not located in Marbach — patients drive to our NW Military Hwy office)",
     distanceFromOfficeEs: "aproximadamente 20 minutos al noreste por el Loop 410 (no estamos ubicados en Marbach — los pacientes manejan a nuestra oficina en NW Military Hwy)",
     areaDescription:
-      "The Marbach corridor along Loop 410 — covering zip codes 78227, 78211, 78224, and parts of 78237 — is one of San Antonio's largest underserved Latino-dense markets. Working families, military members from Lackland AFB, and multi-generational households fill this part of the Westside. Pura Vida Chiropractic isn't located in Marbach, but we serve a steady stream of Marbach corridor families who drive 20 minutes around Loop 410 to our NW Military Hwy office for fully bilingual care, TRICARE acceptance, and accessible payment plans they can't easily find locally. Worth the drive — and the bilingual welcome is the same as if you walked in from down the street.",
+      "The Marbach corridor along Loop 410 — covering zip codes 78227, 78211, 78224, and parts of 78237 — is one of San Antonio's largest underserved Latino-dense markets. Working families, military members from Lackland AFB, and multi-generational households fill this part of the Westside. Pura Vida Chiropractic isn't located in Marbach, but we serve a steady stream of Marbach corridor families who drive 20 minutes around Loop 410 to our NW Military Hwy office for fully bilingual care, insurance-friendly superbills, and accessible payment plans they can't easily find locally. Worth the drive — and the bilingual welcome is the same as if you walked in from down the street.",
     areaDescriptionEs:
-      "El corredor de Marbach a lo largo del Loop 410 — cubriendo los códigos postales 78227, 78211, 78224 y partes de 78237 — es uno de los mercados latinos densos más grandes y desatendidos de San Antonio. Familias trabajadoras, miembros militares de Lackland AFB y hogares multigeneracionales llenan esta parte del Westside. Pura Vida Chiropractic no está ubicado en Marbach, pero atendemos un flujo constante de familias del corredor Marbach que manejan 20 minutos por el Loop 410 a nuestra oficina en NW Military Hwy por atención completamente bilingüe, aceptación de TRICARE y planes de pago accesibles que no encuentran fácilmente localmente. Vale el viaje — y la bienvenida bilingüe es la misma que si entraran desde la calle.",
+      "El corredor de Marbach a lo largo del Loop 410 — cubriendo los códigos postales 78227, 78211, 78224 y partes de 78237 — es uno de los mercados latinos densos más grandes y desatendidos de San Antonio. Familias trabajadoras, miembros militares de Lackland AFB y hogares multigeneracionales llenan esta parte del Westside. Pura Vida Chiropractic no está ubicado en Marbach, pero atendemos un flujo constante de familias del corredor Marbach que manejan 20 minutos por el Loop 410 a nuestra oficina en NW Military Hwy por atención completamente bilingüe, superbills insurance-friendly y planes de pago accesibles que no encuentran fácilmente localmente. Vale el viaje — y la bienvenida bilingüe es la misma que si entraran desde la calle.",
     title:
       "Quiropráctico Marbach / Loop 410 | Atención Bilingüe | Pura Vida",
     titleEs:
       "Quiropráctico Marbach / Loop 410 | Atención Bilingüe | Pura Vida",
     metaDescription:
-      "Marbach / Loop 410 chiropractor — bilingual care for the Westside Latino community. TRICARE for Lackland AFB families, accessible payment plans. Pura Vida Chiropractic serves 78227, 78211, 78224, 78237. (210) 685-1994.",
+      "Marbach / Loop 410 chiropractor — bilingual care for the Westside Latino community. Insurance friendly with superbills for out-of-network reimbursement. Accessible payment plans. Pura Vida Chiropractic serves 78227, 78211, 78224, 78237. (210) 685-1994.",
     metaDescriptionEs:
-      "Quiropráctico Marbach / Loop 410 — atención bilingüe para la comunidad latina del Westside. TRICARE para familias de Lackland AFB, planes de pago accesibles. Pura Vida Chiropractic atiende 78227, 78211, 78224, 78237. (210) 685-1994.",
+      "Quiropráctico Marbach / Loop 410 — atención bilingüe para la comunidad latina del Westside. Insurance friendly con superbills para reembolso fuera de red. Planes de pago accesibles. Pura Vida Chiropractic atiende 78227, 78211, 78224, 78237. (210) 685-1994.",
     whyChooseUs: [
       "Fully bilingual chiropractic care for Marbach corridor families",
-      "TRICARE accepted — Lackland AFB military families welcome",
+      "Insurance friendly — we provide superbills for military families using TRICARE for out-of-network reimbursement",
       "Insurance friendly + accessible payment plans for self-pay patients",
-      "Auto accident (PIP) claims accepted — common in the Loop 410 corridor",
+      "Auto accident (PIP) claims — we provide superbills for reimbursement",
     ],
     whyChooseUsEs: [
       "Atención quiropráctica completamente bilingüe para familias del corredor Marbach",
-      "TRICARE aceptado — familias militares de Lackland AFB bienvenidas",
+      "Insurance friendly — proporcionamos superbills para familias militares que usan TRICARE para reembolso fuera de red",
       "Insurance friendly + planes de pago accesibles para pacientes sin seguro",
-      "Reclamos de accidentes de auto (PIP) aceptados — comunes en el corredor Loop 410",
+      "Reclamos de accidentes de auto (PIP) — proporcionamos superbills para reembolso",
     ],
     commonConditions: [
       { en: "Lower back pain from physical labor", es: "Dolor lumbar por trabajo físico" },
@@ -505,25 +505,25 @@ export const neighborhoods: NeighborhoodData[] = [
     distanceFromOffice: "about 25 minutes northeast via Loop 1604",
     distanceFromOfficeEs: "aproximadamente 25 minutos al noreste por el Loop 1604",
     areaDescription:
-      "Schertz is the family-friendly suburb in the Randolph AFB / military corridor northeast of San Antonio (zip codes 78108, 78154). Pura Vida Chiropractic serves Schertz families — including many active-duty and military families — with bilingual care, TRICARE acceptance, and specialty pediatric and prenatal services.",
+      "Schertz is the family-friendly suburb in the Randolph AFB / military corridor northeast of San Antonio (zip codes 78108, 78154). Pura Vida Chiropractic serves Schertz families — including many active-duty and military families — with bilingual care, insurance-friendly superbills, and specialty pediatric and prenatal services.",
     areaDescriptionEs:
-      "Schertz es el suburbio familiar en el corredor Randolph AFB / militar al noreste de San Antonio (códigos postales 78108, 78154). Pura Vida Chiropractic atiende a las familias de Schertz — incluyendo muchas familias militares en servicio activo — con atención bilingüe, aceptación de TRICARE y servicios pediátricos y prenatales especializados.",
+      "Schertz es el suburbio familiar en el corredor Randolph AFB / militar al noreste de San Antonio (códigos postales 78108, 78154). Pura Vida Chiropractic atiende a las familias de Schertz — incluyendo muchas familias militares en servicio activo — con atención bilingüe, superbills insurance-friendly y servicios pediátricos y prenatales especializados.",
     title:
-      "Schertz Chiropractor | Pura Vida | Military / TRICARE Friendly",
+      "Schertz Chiropractor | Pura Vida | Military Friendly Insurance",
     titleEs:
-      "Quiropráctico en Schertz | Pura Vida | TRICARE / Militar",
+      "Quiropráctico en Schertz | Pura Vida | Militar Insurance Friendly",
     metaDescription:
-      "Schertz chiropractor — Pura Vida Chiropractic accepts TRICARE for military families, plus most major insurance. SOT, SoftWave, prenatal, pediatric. Bilingual. 25 min from Schertz (78108, 78154). (210) 685-1994.",
+      "Schertz chiropractor — Pura Vida Chiropractic is insurance friendly for military families and civilians. We provide superbills for out-of-network reimbursement. SOT, SoftWave, prenatal, pediatric. Bilingual. 25 min from Schertz (78108, 78154). (210) 685-1994.",
     metaDescriptionEs:
-      "Quiropráctico para Schertz — Pura Vida Chiropractic acepta TRICARE para familias militares, más la mayoría de seguros principales. SOT, SoftWave, prenatal, pediátrica. Bilingüe. 25 min de Schertz (78108, 78154). (210) 685-1994.",
+      "Quiropráctico para Schertz — Pura Vida Chiropractic es insurance friendly para familias militares y civiles. Proporcionamos superbills para reembolso fuera de red. SOT, SoftWave, prenatal, pediátrica. Bilingüe. 25 min de Schertz (78108, 78154). (210) 685-1994.",
     whyChooseUs: [
-      "TRICARE accepted — Schertz / Randolph AFB military families welcome",
+      "Insurance friendly — we provide superbills for military families using TRICARE for out-of-network reimbursement",
       "Bilingual chiropractic care for Schertz's diverse population",
       "Pediatric specialty for Schertz's growing families",
       "Advanced SOT — the only Sacro-Occipital Technique specialist in the area",
     ],
     whyChooseUsEs: [
-      "TRICARE aceptado — familias militares de Schertz / Randolph AFB bienvenidas",
+      "Insurance friendly — proporcionamos superbills para familias militares que usan TRICARE para reembolso fuera de red",
       "Atención quiropráctica bilingüe para la diversa población de Schertz",
       "Especialidad pediátrica para las crecientes familias de Schertz",
       "SOT Avanzada — el único especialista en Técnica Sacro-Occipital en el área",
@@ -549,25 +549,25 @@ export const neighborhoods: NeighborhoodData[] = [
     distanceFromOffice: "about 30 minutes northeast via Loop 1604",
     distanceFromOfficeEs: "aproximadamente 30 minutos al noreste por el Loop 1604",
     areaDescription:
-      "Cibolo is the rapidly growing family suburb northeast of San Antonio (zip code 78108) — one of the fastest-growing communities in Texas. Pura Vida Chiropractic serves Cibolo families with bilingual chiropractic care, TRICARE acceptance, and the specialty SOT, prenatal, and pediatric services families are willing to drive 30 minutes for.",
+      "Cibolo is the rapidly growing family suburb northeast of San Antonio (zip code 78108) — one of the fastest-growing communities in Texas. Pura Vida Chiropractic serves Cibolo families with bilingual chiropractic care, insurance-friendly superbills, and the specialty SOT, prenatal, and pediatric services families are willing to drive 30 minutes for.",
     areaDescriptionEs:
-      "Cibolo es el suburbio familiar de rápido crecimiento al noreste de San Antonio (código postal 78108) — una de las comunidades de más rápido crecimiento en Texas. Pura Vida Chiropractic atiende a las familias de Cibolo con atención quiropráctica bilingüe, aceptación de TRICARE, y servicios especializados SOT, prenatales y pediátricos por los que las familias están dispuestas a manejar 30 minutos.",
+      "Cibolo es el suburbio familiar de rápido crecimiento al noreste de San Antonio (código postal 78108) — una de las comunidades de más rápido crecimiento en Texas. Pura Vida Chiropractic atiende a las familias de Cibolo con atención quiropráctica bilingüe, superbills insurance-friendly y servicios especializados SOT, prenatales y pediátricos por los que las familias están dispuestas a manejar 30 minutos.",
     title:
       "Cibolo Chiropractor | Pura Vida Chiropractic | Bilingual Family Care",
     titleEs:
       "Quiropráctico en Cibolo | Pura Vida Chiropractic | Familia Bilingüe",
     metaDescription:
-      "Cibolo chiropractor — Pura Vida Chiropractic offers Advanced SOT, SoftWave, bilingual care for Cibolo families. TRICARE accepted. Worth the 30-min drive (78108). Free first visit. (210) 685-1994.",
+      "Cibolo chiropractor — Pura Vida Chiropractic offers Advanced SOT, SoftWave, bilingual care for Cibolo families. Insurance friendly with superbills for out-of-network reimbursement. Worth the 30-min drive (78108). Free first visit. (210) 685-1994.",
     metaDescriptionEs:
-      "Quiropráctico para Cibolo — Pura Vida Chiropractic ofrece SOT Avanzada, SoftWave, atención bilingüe para familias de Cibolo. TRICARE aceptado. Vale el viaje de 30 min (78108). Primera visita gratis. (210) 685-1994.",
+      "Quiropráctico para Cibolo — Pura Vida Chiropractic ofrece SOT Avanzada, SoftWave, atención bilingüe para familias de Cibolo. Insurance friendly con superbills para reembolso fuera de red. Vale el viaje de 30 min (78108). Primera visita gratis. (210) 685-1994.",
     whyChooseUs: [
-      "TRICARE accepted — Cibolo / Randolph AFB military families welcome",
+      "Insurance friendly — we provide superbills for military families using TRICARE for out-of-network reimbursement",
       "Bilingual chiropractic care for Cibolo's diverse families",
       "Advanced SOT certification — rare in the suburban San Antonio area",
       "Pediatric and prenatal specialty unavailable in most Cibolo practices",
     ],
     whyChooseUsEs: [
-      "TRICARE aceptado — familias militares de Cibolo / Randolph AFB bienvenidas",
+      "Insurance friendly — proporcionamos superbills para familias militares que usan TRICARE para reembolso fuera de red",
       "Atención quiropráctica bilingüe para las diversas familias de Cibolo",
       "Certificación SOT Avanzada — rara en el área suburbana de San Antonio",
       "Especialidad pediátrica y prenatal no disponible en la mayoría de prácticas de Cibolo",

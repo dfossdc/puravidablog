@@ -63,8 +63,8 @@ const faqs = [
     en: { q: "Does the chiropractor speak Spanish?", a: "Yes. Dr. Dan Foss speaks Spanish fluently and sees patients in both English and Spanish. The entire consultation, diagnosis, and treatment process can be conducted in your preferred language." },
   },
   {
-    es: { q: "¿Aceptan seguros médicos en San Antonio?", a: "Sí, aceptamos la mayoría de los principales seguros médicos. También ofrecemos planes de pago para quienes no tienen seguro o cuya cobertura es limitada. Contáctenos para verificar su cobertura." },
-    en: { q: "Do you accept insurance in San Antonio?", a: "Yes, we are insurance friendly. We also offer payment plans for those without insurance or with limited coverage. Contact us to verify your coverage." },
+    es: { q: "¿Aceptan seguros médicos en San Antonio?", a: "Somos insurance friendly — le proporcionamos superbills detallados que puede enviar a su seguro para reembolso fuera de red. También ofrecemos planes de pago para quienes no tienen seguro o cuya cobertura es limitada." },
+    en: { q: "Do you accept insurance in San Antonio?", a: "We are insurance friendly — we provide detailed superbills you can submit to your insurance for out-of-network reimbursement. We also offer payment plans for those without insurance or with limited coverage." },
   },
   {
     es: { q: "¿Atienden niños pequeños y bebés?", a: "Absolutamente. El Dr. Foss tiene formación especializada en quiropráctica pediátrica y prenatal. Hemos atendido a bebés desde el primer día de nacidos. La quiropráctica pediátrica es segura y suave." },

@@ -5,50 +5,50 @@ const plans = [
   {
     name: "Blue Cross Blue Shield of Texas",
     src: "/images/insurance/bluecross.jpg",
-    alt: "Blue Cross Blue Shield of Texas insurance accepted at Pura Vida Chiropractic San Antonio",
-    title: "BCBSTX insurance chiropractor San Antonio TX",
+    alt: "Blue Cross Blue Shield of Texas — insurance friendly at Pura Vida Chiropractic San Antonio",
+    title: "BCBSTX out-of-network chiropractor San Antonio TX",
   },
   {
     name: "UnitedHealthcare",
     src: "/images/insurance/unitedhealthcare.jpg",
-    alt: "UnitedHealthcare insurance accepted at Pura Vida Chiropractic San Antonio",
-    title: "UnitedHealthcare chiropractor San Antonio TX",
+    alt: "UnitedHealthcare — insurance friendly at Pura Vida Chiropractic San Antonio",
+    title: "UnitedHealthcare out-of-network chiropractor San Antonio TX",
   },
   {
     name: "Humana",
     src: "/images/insurance/humana.jpg",
-    alt: "Humana insurance accepted at Pura Vida Chiropractic San Antonio",
-    title: "Humana insurance chiropractor San Antonio TX",
+    alt: "Humana — insurance friendly at Pura Vida Chiropractic San Antonio",
+    title: "Humana out-of-network chiropractor San Antonio TX",
   },
   {
     name: "Ambetter · Superior HealthPlan",
     src: "/images/insurance/ambettter.jpg",
-    alt: "Ambetter Superior HealthPlan insurance accepted at Pura Vida Chiropractic San Antonio",
-    title: "Ambetter Superior HealthPlan chiropractor San Antonio TX",
+    alt: "Ambetter Superior HealthPlan — insurance friendly at Pura Vida Chiropractic San Antonio",
+    title: "Ambetter Superior HealthPlan out-of-network chiropractor San Antonio TX",
   },
   {
     name: "Oscar Health",
     src: "/images/insurance/oscar.jpg",
-    alt: "Oscar Health insurance accepted at Pura Vida Chiropractic San Antonio",
-    title: "Oscar Health insurance chiropractor San Antonio TX",
+    alt: "Oscar Health — insurance friendly at Pura Vida Chiropractic San Antonio",
+    title: "Oscar Health out-of-network chiropractor San Antonio TX",
   },
   {
     name: "Aetna · CVS Health",
     src: "/images/insurance/aetnacvs.png",
-    alt: "Aetna CVS Health insurance accepted at Pura Vida Chiropractic San Antonio",
-    title: "Aetna CVS Health chiropractor San Antonio TX",
+    alt: "Aetna CVS Health — insurance friendly at Pura Vida Chiropractic San Antonio",
+    title: "Aetna CVS Health out-of-network chiropractor San Antonio TX",
   },
   {
     name: "Community First Health Plans",
     src: "/images/insurance/communityfirst.jpg",
-    alt: "Community First Health Plans accepted at Pura Vida Chiropractic San Antonio",
-    title: "Community First Health Plans chiropractor San Antonio TX",
+    alt: "Community First Health Plans — insurance friendly at Pura Vida Chiropractic San Antonio",
+    title: "Community First Health Plans out-of-network chiropractor San Antonio TX",
   },
   {
     name: "Molina Healthcare",
     src: "/images/insurance/molina.jpg",
-    alt: "Molina Healthcare insurance accepted at Pura Vida Chiropractic San Antonio",
-    title: "Molina Healthcare chiropractor San Antonio TX",
+    alt: "Molina Healthcare — insurance friendly at Pura Vida Chiropractic San Antonio",
+    title: "Molina Healthcare out-of-network chiropractor San Antonio TX",
   },
 ];
 
@@ -58,11 +58,11 @@ export default function InsuranceSection({ locale }: { locale: string }) {
   return (
     <section
       className={styles.section}
-      aria-label="Insurance plans accepted at Pura Vida Chiropractic San Antonio TX"
+      aria-label="Insurance friendly — out-of-network superbills at Pura Vida Chiropractic San Antonio TX"
     >
       <div className={styles.inner}>
         <h2 className={styles.title}>
-          {isEs ? "Para su Comodidad, Trabajamos con esos Seguros" : "We Are Insurance Friendly"}
+          {isEs ? "Somos Insurance Friendly — Superbills para Reembolso" : "We Are Insurance Friendly — Superbills for Out-of-Network Reimbursement"}
         </h2>
         <div className={styles.grid}>
           {plans.map((plan) => (

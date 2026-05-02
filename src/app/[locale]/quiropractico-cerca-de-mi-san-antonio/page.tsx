@@ -77,7 +77,7 @@ const faqs = [
   {
     es: {
       q: "¿Cuánto cuesta una visita al quiropráctico en San Antonio?",
-      a: "En Pura Vida Chiropractic ofrecemos una evaluación inicial gratuita para nuevos pacientes. Las visitas regulares varían según el plan de tratamiento que necesite. Aceptamos la mayoría de los seguros médicos y ofrecemos planes de pago accesibles. Llame al (210) 685-1994 para discutir su caso específico — sin costo, sin compromiso.",
+      a: "En Pura Vida Chiropractic ofrecemos una evaluación inicial gratuita para nuevos pacientes. Las visitas regulares varían según el plan de tratamiento que necesite. Somos insurance friendly — le proporcionamos superbills detallados que puede enviar a su seguro para reembolso fuera de red, y ofrecemos planes de pago accesibles. Llame al (210) 685-1994 para discutir su caso específico — sin costo, sin compromiso.",
     },
     en: {
       q: "How much does a chiropractor visit cost in San Antonio?",
@@ -97,11 +97,11 @@ const faqs = [
   {
     es: {
       q: "¿Mi seguro médico cubre la quiropráctica en San Antonio?",
-      a: "La mayoría de los planes de seguros médicos cubren cierta atención quiropráctica. Pura Vida Chiropractic acepta los principales seguros, incluyendo Medicare, Aetna, Blue Cross Blue Shield, Cigna, United Healthcare y otros. Verificaremos sus beneficios sin costo antes de su primera visita. También ofrecemos planes de pago accesibles para pacientes sin seguro.",
+      a: "Muchos planes de seguros médicos cubren atención quiropráctica. Pura Vida Chiropractic es insurance friendly — le proporcionamos superbills detallados que puede enviar a su seguro para reembolso fuera de red. También ofrecemos planes de pago accesibles para pacientes sin seguro.",
     },
     en: {
       q: "Does my health insurance cover chiropractic in San Antonio?",
-      a: "Most health insurance plans cover some chiropractic care. Pura Vida Chiropractic accepts major insurance plans including Medicare, Aetna, Blue Cross Blue Shield, Cigna, United Healthcare, and others. We will verify your benefits at no cost before your first visit. We also offer accessible payment plans for uninsured patients.",
+      a: "Many health insurance plans cover chiropractic care. Pura Vida Chiropractic is insurance friendly — we provide detailed superbills you can submit to your insurance for out-of-network reimbursement. We also offer accessible payment plans for uninsured patients.",
     },
   },
   {

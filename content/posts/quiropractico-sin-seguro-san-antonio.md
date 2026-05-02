@@ -63,11 +63,9 @@ Para quienes sí tienen seguro, trabajamos con la mayoría de los planes médico
 - Aetna
 - Cigna
 - United Healthcare
-- Medicare
-- Medicaid (ciertos planes)
 - Seguros de accidentes de auto
 
-Si no está seguro si su seguro cubre quiropráctica, llámenos y con gusto verificamos sus beneficios sin costo.
+Somos insurance friendly — le proporcionamos superbills detallados que puede enviar a su seguro para reembolso fuera de red.
 
 ## No Deje que el Dinero Sea la Razón Para Vivir con Dolor
 

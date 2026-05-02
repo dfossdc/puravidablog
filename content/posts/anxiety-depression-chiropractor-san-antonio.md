@@ -242,7 +242,7 @@ Most patients notice changes within 2-4 weeks of consistent care, typically star
 Absolutely. Chiropractic care complements both therapy and medication. In fact, I encourage you to keep working with your therapist and psychiatrist while you're getting adjusted. The combination of cognitive work, medication optimization, and nervous system restoration through chiropractic care creates synergy—each modality supports the others.
 
 **Do you take insurance, or is this cash-only?**
-We accept most insurance through superbills, meaning you pay at the visit and submit for reimbursement. If you'd rather verify benefits first or discuss cost, call **(210) 685-1994** for a free consultation. I believe mental health support shouldn't be a financial barrier.
+We are insurance friendly — we provide detailed superbills you can submit to your insurance for out-of-network reimbursement. If you'd rather discuss cost, call **(210) 685-1994** for a free consultation. I believe mental health support shouldn't be a financial barrier.
 
 If you're suffering from anxiety or depression in San Antonio and interested in comprehensive care addressing the nervous system foundation of mental health, contact **Dr. Dan Foss, DC at Pura Vida Chiropractic** today. Call **(210) 685-1994** to discuss how chiropractic care might support your mental health treatment plan.
 

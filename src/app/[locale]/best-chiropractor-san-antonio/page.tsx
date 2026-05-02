@@ -140,7 +140,7 @@ const faqs = [
     },
     es: {
       q: "¿Debo elegir un quiropráctico basado en el precio?",
-      a: "El precio importa, pero no debe ser el factor principal. Los mejores quiroprácticos ofrecen precios transparentes, aceptan su seguro, y dan una primera visita gratuita. Elegir la opción más barata a menudo resulta en visitas más cortas, atención menos personalizada y peores resultados.",
+      a: "El precio importa, pero no debe ser el factor principal. Los mejores quiroprácticos ofrecen precios transparentes, son insurance friendly (proporcionan superbills para reembolso de seguro), y dan una primera visita gratuita. Elegir la opción más barata a menudo resulta en visitas más cortas, atención menos personalizada y peores resultados.",
     },
   },
   {

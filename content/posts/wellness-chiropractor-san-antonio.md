@@ -86,7 +86,7 @@ Dr. Foss does not believe in endless treatment plans without measurable progress
 It depends on your health status, activity level, and goals. Many wellness patients come in monthly, while others prefer twice-monthly or seasonal visits. Dr. Foss will help you find the frequency that makes the most sense for your situation.
 
 **Does health insurance cover wellness chiropractic?**
-Coverage varies by plan. Many policies cover chiropractic visits for pain management, but coverage for purely preventive care may be limited. Our office can verify your benefits and discuss accessible payment options.
+Coverage varies by plan. Many policies cover chiropractic visits for pain management, but coverage for purely preventive care may be limited. We are insurance friendly — we provide detailed superbills you can submit to your insurance for out-of-network reimbursement. Call **(210) 685-1994** to discuss payment options.
 
 **Can I start wellness care if I've never been to a chiropractor?**
 Absolutely. The first visit includes a comprehensive evaluation to establish your baseline and design a plan appropriate to your needs. You don't need to have a specific problem to start — prevention is always easier than correction.

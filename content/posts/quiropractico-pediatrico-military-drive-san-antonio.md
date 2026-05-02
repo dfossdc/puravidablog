@@ -75,7 +75,7 @@ Nuestra oficina está diseñada para familias profesionales. Iluminación tranqu
 
 **"¿Aceptan TRICARE o seguros militares?"**
 
-Pura Vida Chiropractic no factura seguros directamente, pero proporcionamos recibos detallados que las familias militares pueden enviar a TRICARE (u otra cobertura) para reembolso como cuidado fuera de la red. Muchas familias militares se sorprenden gratamente con sus tasas de reembolso. Llámenos para discutir su cobertura específica; somos experimentados en trabajar con planes de salud militares y podemos darle expectativas realistas.
+Somos insurance friendly. No facturamos TRICARE directamente, pero le proporcionamos superbills detallados que puede enviar para reembolso fuera de red. Muchas familias militares se sorprenden gratamente con sus tasas de reembolso. Llámenos para discutir su cobertura específica; somos experimentados en trabajar con planes de salud militares y podemos darle expectativas realistas.
 
 **"¿Cómo acomoda los horarios de despliegue militar?"**
 

@@ -205,7 +205,7 @@ Not necessarily. If you have clear neurological signs (pain, numbness, weakness)
 Recurrence is possible if underlying factors—poor posture, weak supporting muscles, certain movement patterns—aren't corrected. This is why my treatment includes postural training, home exercises, and movement education. Patients who follow through with prevention strategies rarely have recurrence.
 
 **Do you take insurance for bulging disc treatment, and should I see a neurologist first?**
-We accept insurance through superbills—you pay at the visit and submit for reimbursement. You don't need a neurologist referral to start care with me, though some people do see one first. If you want to verify benefits or discuss your specific situation, call **(210) 685-1994** for a free consultation.
+We are insurance friendly — we provide detailed superbills you can submit to your insurance for out-of-network reimbursement. You don't need a neurologist referral to start care with me, though some people do see one first. If you want to discuss your specific situation, call **(210) 685-1994** for a free consultation.
 
 ## Contact Us Today
 

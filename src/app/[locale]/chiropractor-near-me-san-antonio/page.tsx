@@ -75,11 +75,11 @@ const faqs = [
   {
     en: {
       q: "What's the closest chiropractor to me right now?",
-      a: "If you're searching 'chiropractor near me' from anywhere in San Antonio, Pura Vida Chiropractic is likely your closest top-rated option. We hold a 4.9-star Google rating across 147+ reviews, accept most insurance, and offer a free first evaluation. Open Monday, Tuesday, and Thursday 7 AM – 4 PM.",
+      a: "If you're searching 'chiropractor near me' from anywhere in San Antonio, Pura Vida Chiropractic is likely your closest top-rated option. We hold a 4.9-star Google rating across 147+ reviews, are insurance friendly (we provide detailed superbills you can submit to your insurance for out-of-network reimbursement), and offer a free first evaluation. Open Monday, Tuesday, and Thursday 7 AM – 4 PM.",
     },
     es: {
       q: "¿Cuál es el quiropráctico más cercano a mí ahora mismo?",
-      a: "Si está buscando 'quiropráctico cerca de mí' desde cualquier parte de San Antonio, Pura Vida Chiropractic probablemente es su opción mejor calificada más cercana. Tenemos calificación de 4.9 estrellas en Google con 147+ reseñas, aceptamos la mayoría de seguros y ofrecemos primera evaluación gratis.",
+      a: "Si está buscando 'quiropráctico cerca de mí' desde cualquier parte de San Antonio, Pura Vida Chiropractic probablemente es su opción mejor calificada más cercana. Tenemos calificación de 4.9 estrellas en Google con 147+ reseñas, somos insurance friendly (le proporcionamos superbills para reembolso fuera de red), y ofrecemos primera evaluación gratis.",
     },
   },
   {
@@ -105,11 +105,11 @@ const faqs = [
   {
     en: {
       q: "What insurance do you accept?",
-      a: "Pura Vida Chiropractic is insurance-friendly. We accept Medicare, Aetna, Blue Cross Blue Shield, Cigna, United Healthcare, and most major plans. We also offer accessible payment options for uninsured patients. We'll verify your benefits at no charge before your first visit.",
+      a: "Pura Vida Chiropractic is insurance friendly — we provide detailed superbills you can submit to your insurance for out-of-network reimbursement. We also offer accessible payment options for uninsured patients.",
     },
     es: {
       q: "¿Qué seguros aceptan?",
-      a: "Pura Vida Chiropractic es insurance-friendly. Aceptamos Medicare, Aetna, Blue Cross Blue Shield, Cigna, United Healthcare y la mayoría de los planes principales. También ofrecemos opciones de pago accesibles para pacientes sin seguro.",
+      a: "Pura Vida Chiropractic es insurance friendly — le proporcionamos superbills detallados que puede enviar a su seguro para reembolso fuera de red. También ofrecemos opciones de pago accesibles para pacientes sin seguro.",
     },
   },
   {

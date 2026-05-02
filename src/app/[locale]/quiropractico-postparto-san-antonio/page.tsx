@@ -81,7 +81,7 @@ const content: ConditionChiropractorContent = {
       en: { q: "", a: "" },
       es: {
         q: "¿Aceptan seguro para atención quiropráctica postparto?",
-        a: "Sí — Pura Vida Chiropractic es insurance-friendly. Aceptamos Medicare, Aetna, BCBS, Cigna, UHC, TRICARE y la mayoría de los planes principales. Verificamos sus beneficios sin costo antes de su primera visita. Muchos planes de cobertura maternal incluyen quiropráctica postparto.",
+        a: "Pura Vida Chiropractic es insurance friendly — le proporcionamos superbills detallados que puede enviar a su seguro para reembolso fuera de red. Muchos planes de cobertura maternal incluyen quiropráctica postparto.",
       },
     },
   ],

@@ -87,13 +87,13 @@ There's no long-term commitment required. You can evaluate your response to care
 ## Frequently Asked Questions
 
 **What should I bring to my first chiropractic visit?**
-Bring your ID and insurance card if you have one (we'll work with most insurance through superbills). If you have recent imaging—X-rays, MRIs, CT scans—bring those. Most importantly, bring a description of what's bothering you. If you've kept a pain diary, bring it. The more information I have, the more thorough my evaluation can be on your first visit.
+Bring your ID and insurance card if you have one (we are insurance friendly and provide superbills for out-of-network reimbursement). If you have recent imaging—X-rays, MRIs, CT scans—bring those. Most importantly, bring a description of what's bothering you. If you've kept a pain diary, bring it. The more information I have, the more thorough my evaluation can be on your first visit.
 
 **Will I feel sore after my first adjustment?**
 Some patients feel mild soreness similar to post-workout muscle soreness—especially if their condition is acute or they haven't been adjusted before. This typically resolves within 24-48 hours. Others feel immediate relief and no soreness at all. I use SOT protocols designed to minimize post-adjustment soreness while maximizing correction effectiveness.
 
 **How much does a first visit cost, and does insurance cover it?**
-Call **(210) 685-1994** to discuss costs and your insurance coverage before your first visit. We accept most insurance through superbills—you pay out of pocket and submit to your insurer for reimbursement. If you don't have insurance, we discuss payment options directly. The first visit is comprehensive, so the fee reflects the thorough evaluation and time investment.
+Call **(210) 685-1994** to discuss costs before your first visit. We are insurance friendly — we provide detailed superbills you can submit to your insurance for out-of-network reimbursement. If you don't have insurance, we discuss payment options directly. The first visit is comprehensive, so the fee reflects the thorough evaluation and time investment.
 
 **What if I need X-rays or imaging—will they take new ones?**
 I assess whether imaging is clinically necessary based on your symptoms and findings. If you've had recent imaging, I'd rather use those to avoid unnecessary radiation. If imaging is needed, I'll explain why and discuss the cost. X-rays are done only when clinically warranted, not routinely.

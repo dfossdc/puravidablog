@@ -80,7 +80,7 @@ const faqs = [
   },
   {
     q: "¿Cuánto cuesta una visita con el huesero / quiropráctico?",
-    a: "En Pura Vida Chiropractic, la primera evaluación es completamente gratis para nuevos pacientes. Las visitas de seguimiento varían según el plan de tratamiento. Aceptamos la mayoría de los seguros médicos (Medicare, Aetna, BCBS, Cigna, UHC, TRICARE) y verificamos sus beneficios sin costo antes de su primera visita. También ofrecemos planes de pago accesibles para pacientes sin seguro.",
+    a: "En Pura Vida Chiropractic, la primera evaluación es completamente gratis para nuevos pacientes. Las visitas de seguimiento varían según el plan de tratamiento. Somos insurance friendly — le proporcionamos superbills detallados que puede enviar a su seguro para reembolso fuera de red. También ofrecemos planes de pago accesibles para pacientes sin seguro.",
   },
   {
     q: "¿Pueden los hueseros tratar bebés y niños?",

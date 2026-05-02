@@ -126,7 +126,7 @@ You get a real, individualized plan. Not a template.
 
 ## Does insurance cover SOT care?
 
-Pura Vida Chiropractic is insurance-friendly. We also offer auto-injury care with attorney lien arrangements. Call the office at (210) 685-1994 and we will verify your benefits before your first visit.
+We are insurance friendly — we provide detailed superbills you can submit to your insurance for out-of-network reimbursement. We also offer auto-injury care with attorney lien arrangements. Call the office at (210) 685-1994) to discuss your coverage.
 
 ## How do I book a free evaluation?
 

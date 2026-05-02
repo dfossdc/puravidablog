@@ -216,8 +216,8 @@ export default async function OfficeHoursPage({ params }: Props) {
             </h2>
             <p className={styles.sectionText}>
               {isEs
-                ? "Aceptamos la mayoría de los planes de seguro médico principales, incluyendo Blue Cross Blue Shield de Texas, UnitedHealthcare, Humana, Aetna, Ambetter, Oscar Health, Community First y Molina Healthcare. También aceptamos casos de seguro de auto para lesiones relacionadas con accidentes de tráfico. Ofrecemos planes de pago flexibles para pacientes sin seguro o con cobertura limitada. Nadie debería quedarse sin atención quiropráctica por razones financieras — hable con nosotros sobre sus opciones."
-                : "We are insurance friendly and work with most major health insurance plans including Blue Cross Blue Shield of Texas, UnitedHealthcare, Humana, Aetna, Ambetter, Oscar Health, Community First, and Molina Healthcare. We also accept auto insurance for accident-related injuries. Flexible payment plans are available for patients without insurance or with limited coverage. No one should go without chiropractic care for financial reasons — talk to us about your options."}
+                ? "Somos insurance friendly — le proporcionamos superbills detallados que puede enviar a su seguro para reembolso fuera de red. Para lesiones de auto, proporcionamos superbills para reembolso de PIP. Ofrecemos planes de pago flexibles para pacientes sin seguro o con cobertura limitada. Nadie debería quedarse sin atención quiropráctica por razones financieras — hable con nosotros sobre sus opciones."
+                : "We are insurance friendly — we provide detailed superbills you can submit to your insurance for out-of-network reimbursement. For auto injuries, we provide superbills for PIP reimbursement. Flexible payment plans are available for patients without insurance or with limited coverage. No one should go without chiropractic care for financial reasons — talk to us about your options."}
             </p>
           </section>
 

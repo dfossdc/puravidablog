@@ -105,11 +105,11 @@ const content: ConditionChiropractorContent = {
     {
       en: {
         q: "Do you accept insurance for scoliosis chiropractic?",
-        a: "Yes — Pura Vida Chiropractic is insurance-friendly. We accept Medicare, Aetna, BCBS, Cigna, UHC, and most major plans. We verify your benefits at no cost before your first visit. Many plans cover ongoing chiropractic care for scoliosis-related pain.",
+        a: "Pura Vida Chiropractic is insurance friendly — we provide detailed superbills you can submit to your insurance for out-of-network reimbursement. Many plans cover ongoing chiropractic care for scoliosis-related pain.",
       },
       es: {
         q: "¿Aceptan seguro para quiropráctica de escoliosis?",
-        a: "Sí — Pura Vida Chiropractic es insurance-friendly. Aceptamos Medicare, Aetna, BCBS, Cigna, UHC y la mayoría de los planes principales. Verificamos sus beneficios sin costo antes de su primera visita.",
+        a: "Pura Vida Chiropractic es insurance friendly — le proporcionamos superbills detallados que puede enviar a su seguro para reembolso fuera de red. Muchos planes cubren atención quiropráctica continua para dolor relacionado con escoliosis.",
       },
     },
   ],

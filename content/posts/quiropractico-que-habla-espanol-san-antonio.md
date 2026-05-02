@@ -117,7 +117,7 @@ Sí, completamente. El Dr. Foss se comunica 100% en español con pacientes hispa
 La consulta inicial es completamente gratis. Solo pagas si decides comenzar el tratamiento, y el costo depende de tu plan de seguro o de las opciones de pago que discutimos.
 
 **¿Necesito seguro para ver al Dr. Foss?**
-No. Muchos de nuestros pacientes no tienen seguro y ofrecemos planes de pago accesibles. Aceptamos Medicaid, Medicare, seguros privados, y pacientes sin seguro.
+No. Muchos de nuestros pacientes no tienen seguro y ofrecemos planes de pago accesibles. Somos insurance friendly — le proporcionamos superbills para reembolso fuera de red, y ofrecemos planes de pago accesibles.
 
 **¿Cuánto tiempo lleva la primera cita?**
 La primera cita generalmente dura 45-60 minutos. El Dr. Foss se toma el tiempo necesario para una evaluación completa. Las citas de seguimiento son más cortas, típicamente 15-20 minutos.
