@@ -18,7 +18,7 @@ Looking for a pregnancy chiropractor in Stone Oak? Here's what to know: your bod
 
 Stone Oak families know the value of proactive, preventive care. Pregnancy chiropractic is exactly that — not treating sickness, but supporting the profound biomechanical shifts your body undergoes when carrying a baby.
 
-From conception through delivery, your pelvis widens, your center of gravity shifts forward, and hormones like relaxin loosen ligaments throughout your spine. Without chiropractic support, these changes often lock into painful patterns: lower back pain, sciatica, pelvic girdle pain, and rib discomfort become routine complaints. They do not have to be.
+From conception through delivery, your pelvis—consisting of the sacrum, ilium, ischium, and pubic symphysis held together by the sacroiliac ligaments—widens and rotates. Your center of gravity shifts forward, and hormones like relaxin loosen the pelvic ligaments in preparation for birth. Without chiropractic support, these changes often lock into painful sacroiliac dysfunction and pelvic girdle pain. Lower back pain, sciatica, round ligament pain, and rib discomfort become routine complaints. They do not have to be.
 
 Dr. Foss uses **Sacro-Occipital Technique (SOT)** and the **Webster Technique** — two of the most pregnancy-specific approaches available. Both are gentle, precise, and work with your body's natural wisdom rather than against it.
 
@@ -26,7 +26,7 @@ Dr. Foss uses **Sacro-Occipital Technique (SOT)** and the **Webster Technique** 
 
 **Webster Technique for Optimal Fetal Positioning**
 
-The Webster Technique restores balance to your pelvis and reduces tension in the uterine ligaments — a condition called intrauterine constraint. When your pelvis is balanced and your uterine ligaments are relaxed, your baby has maximum room to assume the optimal head-down position for delivery. This technique is recognized by the International Chiropractic Pediatric Association (ICPA) as the standard of care for prenatal chiropractic.
+The Webster Technique restores balance to your pelvis and specifically addresses the round ligaments and uterine ligaments—the suspensory structures that suspend your uterus. When these ligaments are tight, they create intrauterine constraint, reducing the space available for your baby to rotate into the optimal vertex (head-down, cephalic) presentation. By releasing this tension and using SOT pelvic blocks to expand the pelvic diameter, Webster Technique creates maximum intrauterine space. When your pelvis is balanced and your uterine ligaments are relaxed, your baby has room to assume the optimal head-down position for delivery instead of breech presentation. This technique is recognized by the International Chiropractic Pediatric Association (ICPA) as the standard of care for prenatal chiropractic.
 
 **SOT for Spinal and Pelvic Alignment**
 
@@ -44,8 +44,8 @@ In late pregnancy, many mothers experience heartburn, reflux, and digestive slow
 - **Round ligament pain** — sharp twinges in the lower abdomen
 - **Sacroiliac joint dysfunction** — pain at the base of the spine
 - **Rib pain** — from the ribcage flaring outward
-- **Headaches** — from upper cervical tension and hormonal shifts
-- **Breech positioning** — when the baby is head-up after 32 weeks
+- **Headaches** — from upper cervical tension and sphenoid bone restriction affecting pituitary hormone regulation during pregnancy
+- **Breech positioning** — when the baby is in breech presentation (buttocks-down instead of vertex/cephalic presentation) after 32 weeks due to intrauterine constraint or pelvic restriction
 
 ## Is Chiropractic Care Safe During Pregnancy?
 
@@ -65,7 +65,7 @@ We use specialized pregnancy pillows and modified table setups to keep you comfo
 
 ## Postpartum and Infant Care
 
-Pregnancy does not end at delivery. Your pelvis spent nine months opening up and now needs to rebalance. We recommend at least a few postpartum visits in the first few months after birth to restore pelvic stability and prevent long-term back and hip pain.
+Pregnancy does not end at delivery. Your pelvis spent nine months opening up and now needs to rebalance. Postpartum care addresses pelvic floor dysfunction (weakness in muscles supporting the bladder and bowel), sacroiliac joint instability (the most common persistent issue after birth), and diastasis recti (separation of the abdominal wall muscles). We recommend at least a few postpartum visits in the first few months after birth to restore pelvic stability and support abdominal wall healing to prevent long-term back and hip pain
 
 And your newborn is welcome at every visit. The same gentle techniques we use on you work beautifully for babies — addressing colic, reflux, latching difficulty, and head shape concerns common in the first weeks of life.
 

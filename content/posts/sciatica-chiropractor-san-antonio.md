@@ -21,16 +21,16 @@ Few conditions are as disruptive as sciatica. That sharp, burning, shooting pain
 
 ## What Is Sciatica?
 
-Sciatica describes pain that follows the path of the sciatic nerve — the longest nerve in the body, running from the lower back through the buttock and down each leg. When this nerve becomes irritated or compressed, the resulting pain, numbness, tingling, or weakness can be mild or completely debilitating.
+Sciatica describes pain that follows the path of the sciatic nerve — the longest nerve in the body, formed by nerve roots exiting at L4-L5 and L5-S1, running from the lower back through the buttock and down each leg. When the L4-L5 disc herniates or the L5-S1 disc compresses, these specific nerve roots become irritated and fuse together to form the sciatic nerve. The resulting pain, numbness, tingling, or weakness can be mild or completely debilitating.
 
-Common causes of sciatic nerve pain include:
+Common causes of radiculopathy (nerve root pain forming the sciatic nerve) include:
 
-- **[Disc herniation](/en/blog/herniated-disc-chiropractor-san-antonio)** — a bulging or ruptured disc pressing on the sciatic nerve root
-- **Piriformis syndrome** — tightness in the piriformis muscle compressing the sciatic nerve
-- **Spinal stenosis** — narrowing of the spinal canal that reduces space for the nerve
-- **Sacroiliac joint dysfunction** — misalignment of the SI joint irritating the nerve
-- **Degenerative disc disease** — loss of disc height leading to nerve root compression
-- **Spondylolisthesis** — a vertebra slipping forward and pinching the nerve
+- **[Disc herniation](/en/blog/herniated-disc-chiropractor-san-antonio)** — a bulging or ruptured disc pressing on the sciatic nerve root, particularly at L4-L5 or L5-S1
+- **Piriformis syndrome** — tightness in the piriformis muscle compressing the sciatic nerve after it exits the pelvis
+- **Spinal stenosis** — narrowing of the spinal canal or neural foramen that reduces space for the nerve root
+- **Sacroiliac joint dysfunction** — misalignment of the SI joint irritating the L5 nerve root
+- **Degenerative disc disease** — loss of disc height at L4-L5 or L5-S1 leading to nerve root compression
+- **Spondylolisthesis** — a vertebra slipping forward and pinching the nerve root
 
 ## Common Symptoms of Sciatica
 
@@ -60,6 +60,10 @@ SOT evaluates the pelvis and sacrum as the root cause of most sciatica cases. Wh
 
 Piriformis syndrome — where the sciatic nerve is compressed by the piriformis muscle in the buttock — is a frequently misdiagnosed cause of sciatica. Dr. Foss specifically evaluates this pattern and treats piriformis tension with soft tissue techniques combined with pelvic adjustments.
 
+### CMRT for Recurrent Sciatica
+
+For chronic sciatica that keeps recurring despite disc and nerve root treatment, Dr. Foss may incorporate CMRT (Chiropractic Manipulative Reflex Technique) to address organ-spinal reflex loops. Digestive dysfunction, kidney irritation, or colon problems can create reflex patterns that perpetuate sciatic nerve irritation. By normalizing these visceral reflexes, chiropractic care provides more durable relief.
+
 ## Complementary Therapies for Sciatic Nerve Healing
 
 Dr. Foss combines SOT with advanced therapies to accelerate nerve healing:
@@ -81,7 +85,7 @@ Based on these findings, Dr. Foss will design a personalized treatment plan and 
 
 ## Why Choose Dr. Dan Foss for Sciatica in San Antonio
 
-With over **23 years of clinical experience in San Antonio**, Dr. Foss has treated hundreds of patients with sciatica. His **Advanced SOT Certification through SORSI** gives him tools that most chiropractors don't have to address sciatica precisely and effectively.
+With over **23 years of clinical experience specializing in radiculopathy and sciatic nerve pain in San Antonio**, Dr. Foss has treated thousands of patients with sciatica and understands the specific mechanics of L4-L5 and L5-S1 nerve root compression. His **Advanced SOT Certification through SORSI** gives him tools that most chiropractors don't have to address sciatica precisely and effectively.
 
 His integrative approach — combining SOT with advanced regenerative therapies — maximizes the likelihood of a complete, lasting recovery.
 
@@ -105,9 +109,9 @@ Not entirely. While some movements can aggravate symptoms, complete bed rest is 
 **Can sciatica come back after treatment?**
 Sciatica can recur if the factors that caused it are not fully corrected. Dr. Foss works to correct the underlying structural imbalances — not just relieve the acute episode — which significantly reduces the risk of recurrence.
 
-## Serving Sciatica Patients Across San Antonio
+## Serving Sciatica Patients Across San Antonio and 78231
 
-Pura Vida Chiropractic serves sciatica patients from **Stone Oak, Alamo Heights, Leon Valley, Castle Hills, Helotes, Shavano Park, Boerne, and the Medical Center**. If you are searching for a **sciatica chiropractor near me in San Antonio**, call Dr. Foss today.
+Pura Vida Chiropractic, located at 2318 NW Military Hwy, Suite 103, San Antonio TX 78231, serves sciatica patients from **North West San Antonio including Stone Oak, Castle Hills, Alamo Heights, Leon Valley, Helotes, Shavano Park, and nearby areas**. The 78231 zip code location places Dr. Foss's office conveniently near UTSA and accessible to NW Military Hwy patients. If you are searching for a **sciatica chiropractor near me in San Antonio**, call Dr. Foss today.
 
 ## Related Articles
 

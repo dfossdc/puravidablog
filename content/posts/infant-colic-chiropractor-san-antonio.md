@@ -37,12 +37,16 @@ The typical approach—reassurance that "colic will pass"—leaves parents feeli
 
 Most parents don't realize that childbirth, while natural, can be physically traumatic on an infant's tiny body. Whether delivery involved forceps, vacuum extraction, or simply prolonged labor with positional stress, the forces exerted during birth can create subtle misalignments in a baby's spine and cranial bones.
 
+The sphenoid and temporal bones—located at the skull base and temple region—often compress during delivery, particularly with instrument-assisted birth. This cranial compression directly irritates the vagus nerve where it exits the brainstem, disrupting the parasympathetic nervous system signals that regulate stomach acid production and intestinal motility.
+
 These misalignments may not be immediately obvious, but they can:
 
 - Irritate delicate nerve tissues
 - Restrict normal spinal motion
 - Interfere with proper digestive function
 - Create tension patterns that manifest as colic
+
+Interestingly, colic and torticollis (infantile wry neck) frequently occur together, as both stem from the same birth-related cranial and cervical trauma patterns. A baby with torticollis—a preference to turn the head to one side due to tight neck muscles—often has concurrent colic from the underlying nerve irritation affecting vagal function.
 
 Dr. Dan Foss, with his specialized training in pediatric chiropractic care, is uniquely qualified to assess and gently correct these issues in newborns and infants. His personal journey—witnessing his own son overcome torticollis (infantile wry neck) through chiropractic care when conventional medicine offered no permanent solution—is what inspired him to pursue this specialized field.
 
@@ -79,7 +83,7 @@ These adjustments are incredibly subtle—you might barely see Dr. Foss's hands 
 
 ## Why Infant Colic Responds to Chiropractic Care
 
-The connection isn't mysterious when you understand neurology. The vagus nerve—the longest cranial nerve—controls parasympathetic nervous system function, which directly regulates digestion. When vertebrae or cranial bones restrict this nerve's function, digestive processes become dysregulated, leading to:
+The connection isn't mysterious when you understand neurology. The vagus nerve—the longest cranial nerve—controls parasympathetic nervous system function, which directly regulates digestion. By restoring vagal tone (the baseline, coordinated firing rate of the vagus nerve), pediatric chiropractic adjustments normalize parasympathetic signaling to the stomach and small intestine. When vertebrae or cranial bones restrict this nerve's function, vagal tone decreases and digestive processes become dysregulated, leading to:
 
 - Gas and intestinal cramping
 - Difficulty processing breast milk or formula
@@ -97,18 +101,21 @@ During your first visit to Pura Vida Chiropractic, Dr. Foss will:
 3. **Explain findings** in clear, understandable language
 4. **Develop a customized care plan** with realistic expectations
 
-Most parents notice improvements within the first few visits. Many babies show dramatic improvement within 1-2 weeks of care. Some conditions resolve completely, while others improve significantly, giving both baby and parents relief from the relentless cycle.
+Most parents notice improvements within the first few visits. Many babies show dramatic improvement within 1-2 weeks of care. For infants whose colic persists despite SOT adjustments, Dr. Foss may incorporate CMRT (Chiropractic Manipulative Reflex Technique)—a gentle organ-adjusting method that addresses visceral reflexes and normalizes stomach and esophageal function directly. Some conditions resolve completely, while others improve significantly, giving both baby and parents relief from the relentless cycle.
 
 ## Why Choose Pura Vida Chiropractic for Your Colicky Baby?
 
 **Specialized Training:**
-Dr. Dan Foss has invested extensive post-graduate education in pediatric chiropractic techniques. This isn't a general chiropractor occasionally treating babies—this is specialized expertise.
+Dr. Dan Foss, with 23 years of clinical experience and specialized post-graduate education in pediatric chiropractic techniques, brings decades of expertise to every case. This isn't a general chiropractor occasionally treating babies—this is specialized expertise grounded in thousands of infant treatments.
 
 **Personal Experience:**
 Dr. Foss's own journey with his son's torticollis gives him unique empathy and insight into pediatric conditions. He understands both the science and the emotional weight of watching your baby suffer.
 
 **Bilingual, Community-Focused Care:**
 Pura Vida Chiropractic serves San Antonio's diverse community with a bilingual office and culturally sensitive care. We understand that healthcare should be accessible and comfortable for everyone.
+
+**Prenatal Prevention:**
+Many families benefit from Webster Technique chiropractic during pregnancy—a specialized method that optimizes pelvic alignment and reduces birth trauma. Babies born to mothers receiving Webster care often arrive with fewer cranial restrictions and significantly less colic.
 
 **Evidence-Based Approach:**
 Every technique used follows the Pura Vida Protocol, developed through clinical experience and ongoing learning.
@@ -131,7 +138,7 @@ Childbirth, though natural, exerts significant forces on an infant's tiny body. 
 The vagus nerve controls parasympathetic nervous system function, which directly regulates digestion. When vertebrae or cranial bones restrict this nerve's function, digestive processes become dysregulated, causing gas, cramping, and the inconsolable crying of colic. Gentle chiropractic care restores proper alignment and relieves nerve interference.
 
 **When will I see improvement in my baby's colic?**
-Most parents notice improvements within the first few visits. Many babies show dramatic improvement within 1-2 weeks of care. Some conditions resolve completely, while others improve significantly, giving both baby and parents relief from the relentless cycle.
+Most parents notice improvements within the first few visits. Many babies show dramatic improvement within 1-2 weeks of care. For infants whose colic persists despite SOT adjustments, Dr. Foss may incorporate CMRT (Chiropractic Manipulative Reflex Technique)—a gentle organ-adjusting method that addresses visceral reflexes and normalizes stomach and esophageal function directly. Some conditions resolve completely, while others improve significantly, giving both baby and parents relief from the relentless cycle.
 
 **What's included in a first pediatric chiropractic visit?**
 Dr. Foss takes a complete history of your baby's birth, current symptoms, and health history. Then he performs a gentle, thorough examination including spinal and cranial assessment, explains findings in clear language, and develops a customized care plan with realistic expectations—all with compassion for your family's experience.

@@ -25,7 +25,7 @@ This motion is not gross movement. It is measured in fractions of millimeters. B
 
 ## Why the SBS Governs the Cranial Mechanism
 
-To understand why the SBS is so central, you have to understand the architecture of the cranial dural membrane system. The dura mater lines the inside of the skull and wraps around the spinal cord all the way to the sacrum. Within the skull, the dura folds inward to form two major membranes:
+To understand why the SBS is so central, you have to understand the architecture of the cranial dural membrane system. The dura mater lines the inside of the skull and wraps around the spinal cord all the way to the sacrum, attaching at the sella turcica (pituitary fossa) of the sphenoid, the foramen magnum of the occiput, and finally at the coccyx at the sacrum base — creating a continuous membrane tether from skull base to tail bone. Within the skull, the dura folds inward to form two major membranes:
 
 - The **falx cerebri**, which divides the brain into left and right hemispheres
 - The **tentorium cerebelli**, which forms the shelf separating the cerebrum above from the cerebellum below
@@ -47,7 +47,7 @@ A flexion strain tends to produce symptoms associated with an "open," congested 
 A torsion strain means the sphenoid has rotated around its long axis relative to the occiput — one greater wing riding higher than the other. Clinically, torsion patterns are often associated with facial asymmetry, one eye sitting slightly higher than the other, chronic one-sided headaches, and (in children) learning or attention difficulties.
 
 ### Lateral Strain
-In lateral strain, the sphenoid has shifted sideways relative to the occiput so that both bones are still in the same plane but offset horizontally. This produces a characteristic "parallelogram" appearance to the face and skull and is often associated with scoliotic tendencies in the spine — because the dural tube that connects the occiput to the sacrum will transmit any lateral cranial strain downward into the spinal curvature.
+In lateral strain, the sphenoid has shifted sideways relative to the occiput so that both bones are still in the same plane but offset horizontally. This produces a characteristic "parallelogram" appearance to the face and skull and is often associated with scoliotic tendencies in the spine. The mechanism is direct: dural tension from a laterally strained SBS transmits downward through the dural tube to the sacrum, creating asymmetrical tension that deviates the pedicles of each vertebra, resulting in the classic dural-driven scoliosis pattern that develops in children with unresolved birth-related SBS dysfunction.
 
 ### Vertical Strain
 In vertical strain (superior or inferior), the sphenoid has shifted up or down relative to the occiput. These are less common but can produce significant brainstem tension and are often associated with severe migraines, visual disturbances, and significant hormonal disruption (due to the proximity of the pituitary).
@@ -71,7 +71,7 @@ The clinical presentations associated with SBS strain patterns are wide-ranging 
 
 The most common cause of SBS strain patterns — and one that is almost entirely overlooked in conventional healthcare — is birth trauma. The cranial bones are not fused at birth; they are designed to compress and overlap during passage through the birth canal. In a normal delivery, this cranial molding resolves within days or weeks as the baby nurses, cries, and moves.
 
-But in difficult deliveries — prolonged labor, vacuum extraction, forceps delivery, high forceps, or even certain Caesarean presentations — the cranial molding may not fully self-correct. The SBS can be left in a compressed or strained position that persists into adulthood unless identified and addressed.
+Traumatic births — forceps extraction, vacuum extraction, prolonged labor with positional stress, high-station deliveries, or even certain complicated Caesarean presentations — subject the infant cranium to forces that compress and torque the occiput and temporal bones. These mechanical forces can lock the sphenoid into a flexion, extension, torsion, or compression strain pattern at the SBS. When this happens, the SBS can be left in a strained position that persists into adulthood unless identified and addressed, explaining why many adults with chronic headaches or unexplained dysfunction have been symptomatic since birth.
 
 Many adults walking around with chronic headaches, facial asymmetry, or unexplained systemic dysfunction have never had their SBS evaluated. The strain pattern that is driving their symptoms began at birth.
 
@@ -87,10 +87,10 @@ Treatment uses the same extremely gentle, sustained contact that characterizes a
 
 - The sphenobasilar synchondrosis is the junction between the sphenoid and occiput at the base of the skull — the fulcrum of the entire cranial mechanism.
 - Even in the fused adult cranium, subtle rhythmic SBS motion (the primary respiratory mechanism) is present and clinically significant.
-- There are five SBS strain patterns: flexion/extension, torsion, lateral strain, vertical strain, and compression. Each has distinct clinical correlates.
-- Lateral SBS strain patterns are transmitted down the dural tube to the sacrum, contributing to scoliotic tendencies.
-- Birth trauma is the most common and most commonly overlooked cause of SBS strain patterns.
-- SOT-trained craniopaths assess SBS position and motion through vault hold palpation and treat using extremely gentle sustained contact.
+- The five SBS strain patterns are: flexion strain (open, congested cranial pattern), extension strain (contracted, dry pattern with sympathetic dominance), torsion (facial asymmetry, one-sided headaches), lateral strain (scoliotic transmission), vertical strain (brainstem tension), and compression (chronic fatigue, depression, cognitive shutdown).
+- Lateral SBS strain patterns are transmitted down the dural tube to the sacrum, contributing to scoliotic tendencies through dural-driven spinal curvature.
+- Birth trauma — particularly forceps extraction, vacuum extraction, or prolonged labor — is the most common and most commonly overlooked cause of persistent SBS strain patterns into adulthood.
+- Dr. Dan Foss, with 23 years of cranial practice and SOT certification, assesses SBS position and motion through vault hold palpation and treats using extremely gentle sustained contact that normalizes dural membrane tension.
 
 ## Frequently Asked Questions
 
