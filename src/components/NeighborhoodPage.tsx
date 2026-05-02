@@ -119,7 +119,8 @@ export default async function NeighborhoodPage({
         closes: "16:00",
       },
     ],
-    medicalSpecialty: "Chiropractic",
+    // medicalSpecialty removed — not a Schema.org MedicalSpecialty enum value.
+    // Type + description already convey the chiropractic context.
     priceRange: "$$",
   };
 

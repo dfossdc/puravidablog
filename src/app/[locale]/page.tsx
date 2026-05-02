@@ -317,7 +317,10 @@ export default async function HomePage({ params }: Props) {
     "openingHoursSpecification": [
       { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday", "Tuesday", "Thursday"], "opens": "07:00", "closes": "16:00" },
     ],
-    "medicalSpecialty": "Chiropractic",
+    // 'medicalSpecialty: "Chiropractic"' removed — Schema.org's MedicalSpecialty
+    // enum doesn't include "Chiropractic" so Semrush flags it as invalid on
+    // every page that renders this schema. The @type ['MedicalBusiness',
+    // 'LocalBusiness'] + description already convey the medical context.
     "priceRange": "$$",
   };
 
