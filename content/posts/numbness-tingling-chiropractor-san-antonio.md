@@ -11,6 +11,7 @@ keywords:
   - paresthesia treatment
   - nerve pain San Antonio
 lang: en
+translatedSlug: "entumecimiento-hormigueo-quiropractico-san-antonio"
 ---
 
 # Numbness and Tingling Treatment: Expert Care from Dr. Dan Foss in San Antonio

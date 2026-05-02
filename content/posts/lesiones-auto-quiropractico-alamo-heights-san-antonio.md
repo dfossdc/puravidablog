@@ -10,6 +10,7 @@ keywords:
   - latigazo cervical tratamiento Alamo Heights
   - alivio lesiones accidente Alamo Heights
 lang: es
+translatedSlug: "auto-injury-chiropractor-alamo-heights-san-antonio"
 ---
 
 ¿Fue lesionado en un accidente vehicular cerca de Alamo Heights? Incluso los choques de baja velocidad pueden causar daño significativo de tejido blando y espinal que se intensifica en dolor crónico si se deja sin tratar. En **Pura Vida Chiropractic**, a solo **10 minutos al sureste** de Alamo Heights, el Dr. Dan Foss ha pasado **23 años** tratando pacientes con lesiones vehiculares usando SOT y terapia de tejido blando dirigida. Trabajamos directamente con su seguro y lo ayudamos a navegar el proceso de recuperación desde el primer día después de su accidente.

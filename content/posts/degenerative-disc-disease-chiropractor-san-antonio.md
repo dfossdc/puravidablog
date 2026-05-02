@@ -11,6 +11,7 @@ keywords:
   - spinal disc care
   - degenerative disc pain management
 lang: en
+translatedSlug: "enfermedad-degenerativa-disco-quiropractico-san-antonio"
 ---
 
 # Degenerative Disc Disease Chiropractor in San Antonio, TX

@@ -11,6 +11,7 @@ keywords:
   - quiropráctico accidente automovilístico
   - whiplash
 lang: es
+translatedSlug: "whiplash-chiropractor-san-antonio"
 ---
 
 ## Latigazo Cervical: Recuperación Completa con Tratamiento Quiropráctico en San Antonio

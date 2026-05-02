@@ -11,6 +11,7 @@ keywords:
   - dolor de cabeza crónico
   - Dr. Dan Foss
 lang: es
+translatedSlug: "cluster-headaches-chiropractor-san-antonio"
 ---
 
 # Resuelve Cefaleas en Racimo con Quiropraxia en San Antonio, TX

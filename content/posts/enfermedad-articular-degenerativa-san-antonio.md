@@ -10,6 +10,7 @@ keywords:
   - tratamiento EAD San Antonio
   - quiropráctica para artritis San Antonio
 lang: es
+translatedSlug: "degenerative-joint-disease-chiropractor-san-antonio"
 ---
 
 La enfermedad articular degenerativa (EAD) — comúnmente conocida como osteoartritis — es el deterioro gradual del cartílago dentro de las articulaciones. Causa dolor, rigidez y pérdida de función que empeora con el tiempo si no se trata. Pero el **cuidado quiropráctico y las terapias regenerativas en San Antonio** pueden desacelerar significativamente la progresión y restaurar la calidad de vida.

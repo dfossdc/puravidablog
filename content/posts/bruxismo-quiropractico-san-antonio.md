@@ -11,6 +11,7 @@ keywords:
   - trastornos mandibulares
   - quiropráctica San Antonio
 lang: es
+translatedSlug: "bruxism-chiropractor-san-antonio"
 ---
 
 # Bruxismo: Tratamiento Quiropráctica Avanzado en San Antonio

@@ -11,6 +11,7 @@ keywords:
   - natural constipation relief
   - wellness chiropractor
 lang: en
+translatedSlug: "estrenimiento-quiropractico-san-antonio"
 ---
 
 # Natural Constipation Relief with Chiropractic Care in San Antonio

@@ -12,6 +12,7 @@ keywords:
   - CMRT foundation San Antonio
   - organ dysfunction spine
 lang: en
+translatedSlug: "conexion-columna-organo-fundamento-cmrt-san-antonio"
 ---
 
 Your body is not a collection of separate parts. It is a unified system where everything is connected.

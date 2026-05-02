@@ -11,6 +11,7 @@ keywords:
   - CMRT alergias
   - quiropráctica San Antonio
 lang: es
+translatedSlug: "allergies-chiropractor-san-antonio"
 ---
 
 # Alergias: Alivio Quiropráctica Natural en San Antonio

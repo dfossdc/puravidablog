@@ -10,6 +10,7 @@ keywords:
   - quiropráctica para escoliosis San Antonio
   - curvatura espinal tratamiento San Antonio
 lang: es
+translatedSlug: "scoliosis-chiropractor-san-antonio"
 ---
 
 La escoliosis — una curvatura lateral anormal de la columna vertebral — afecta a millones de personas. Ya sea que haya sido diagnosticado en la infancia o en la adultez, el **cuidado quiropráctico para la escoliosis en San Antonio** puede desempeñar un papel importante en la reducción del dolor, la mejora de la postura y la desaceleración de la progresión de la curva.

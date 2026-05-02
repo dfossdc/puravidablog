@@ -11,6 +11,7 @@ keywords:
   - SOT tiroides San Antonio
   - latigazo cervical tiroides
 lang: es
+translatedSlug: "thyroid-cervical-spine-connection-san-antonio"
 ---
 
 Si está experimentando fatiga inexplicada, aumento de peso, intolerancia al frío, depresión, caída del cabello, o confusión mental, podría asumir que el problema es su tiroides. Y podría estar en lo correcto. Pero aquí hay algo que la mayoría de los médicos — y la mayoría de los quiroprácticos — no le dicen: **su tiroides y su columna cervical están anatómica y neurológicamente entrelazadas.** Un cuello desalineado puede interferir con la función tiroidea de formas que la endocrinología estándar a menudo pasa por alto.

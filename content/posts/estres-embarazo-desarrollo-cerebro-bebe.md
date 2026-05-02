@@ -12,6 +12,7 @@ keywords:
   - quiropráctico embarazo San Antonio
   - sistema nervioso prenatal
 lang: es
+translatedSlug: "stress-during-pregnancy-baby-brain-development"
 ---
 
 Su sistema nervioso y el sistema nervioso de su bebé no son separados durante el embarazo. Están entrelazados. Las hormonas del estrés en su sangre cruzan la placenta. La forma en que su cuerpo responde a la amenaza — ya sea que esa amenaza sea real o percibida — moldea la arquitectura del cerebro en desarrollo de su bebé. Esto no es teoría. Es neurociencia. Y es una de las cosas más importantes que puede entender como una mujer embarazada.

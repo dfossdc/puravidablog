@@ -12,6 +12,7 @@ keywords:
   - alivio dolor menstrual
   - salud reproductiva CMRT San Antonio
 lang: es
+translatedSlug: "womens-hormonal-health-cmrt-chiropractic-san-antonio"
 ---
 
 Conoce el dolor: calambres menstruales intensos, ciclos irregulares, cambios de humor hormonal, infertilidad que ha resistido tratamiento.

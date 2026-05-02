@@ -11,6 +11,7 @@ keywords:
   - migraine chiropractor
   - pain management san antonio
 lang: en
+translatedSlug: "cefaleas-racimo-quiropractico-san-antonio"
 ---
 
 # Cluster Headaches Treatment at Pura Vida Chiropractic in San Antonio

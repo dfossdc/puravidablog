@@ -12,6 +12,7 @@ keywords:
   - alivio de acidez quiropráctica
   - reflujo sin medicamentos
 lang: es
+translatedSlug: "gerd-acid-reflux-cmrt-chiropractic-san-antonio"
 ---
 
 Se despierta a las 3 a.m. con la garganta ardiendo y el estómago en caos.

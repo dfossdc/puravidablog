@@ -11,6 +11,7 @@ keywords:
   - digestión quiropráctica
   - Dr. Dan Foss
 lang: es
+translatedSlug: "bloating-gas-chiropractor-san-antonio"
 ---
 
 # Elimina Hinchazón y Gases de Forma Natural con Quiropraxia en San Antonio, TX

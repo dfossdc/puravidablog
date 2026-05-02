@@ -10,6 +10,7 @@ keywords:
   - chiropractic for scoliosis San Antonio
   - spinal curvature treatment San Antonio
 lang: en
+translatedSlug: "escoliosis-quiropractico-san-antonio"
 ---
 
 Scoliosis — an abnormal lateral curvature of the spine — affects millions of Americans. Whether you were diagnosed as a child or discovered your curvature as an adult, **chiropractic care for scoliosis in San Antonio** can play a meaningful role in reducing pain, improving posture, and slowing curve progression.

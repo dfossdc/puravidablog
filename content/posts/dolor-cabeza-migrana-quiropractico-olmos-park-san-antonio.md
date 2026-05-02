@@ -10,6 +10,7 @@ keywords:
   - migraña quiropractico Olmos Park
   - tratamiento dolor tensión Olmos Park
 lang: es
+translatedSlug: "headache-migraine-chiropractor-olmos-park-san-antonio"
 ---
 
 Vivir con dolores de cabeza crónicos o migrañas en Olmos Park no tiene que ser su normal. En **Pura Vida Chiropractic**, a solo **8 minutos al sur**, el Dr. Dan Foss ha pasado **23 años** usando **Técnica Sacro-Occipital (SOT)** y ajuste craneal especializado para eliminar los dolores de cabeza en su origen — no solo enmascarar el dolor con medicamentos.

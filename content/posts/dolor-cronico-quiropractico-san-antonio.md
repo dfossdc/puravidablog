@@ -11,6 +11,7 @@ keywords:
   - dolor de espalda crónico
   - quiropráctico dolor crónico
 lang: es
+translatedSlug: "chronic-pain-chiropractor-san-antonio"
 ---
 
 ## Dolor Crónico: Soluciones Integrales con Tratamiento Quiropráctico en San Antonio

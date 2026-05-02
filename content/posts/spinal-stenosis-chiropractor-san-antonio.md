@@ -11,6 +11,7 @@ keywords:
   - cervical stenosis chiropractor
   - spine decompression therapy
 lang: en
+translatedSlug: "estenosis-espinal-quiropractico-san-antonio"
 ---
 
 # Spinal Stenosis Chiropractor in San Antonio, TX

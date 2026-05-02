@@ -12,6 +12,7 @@ keywords:
   - menstrual pain relief
   - reproductive health CMRT San Antonio
 lang: en
+translatedSlug: "salud-hormonal-mujer-cmrt-quiropractica-san-antonio"
 ---
 
 You know the pain: intense period cramps, irregular cycles, hormonal mood swings, infertility that has resisted treatment.

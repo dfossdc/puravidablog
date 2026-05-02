@@ -10,6 +10,7 @@ keywords:
   - Webster Technique Alamo Ranch
   - pregnant chiropractor near Alamo Ranch
 lang: en
+translatedSlug: "quiropractico-embarazo-castle-hills-san-antonio"
 ---
 
 If you are expecting a baby in Alamo Ranch, pregnancy chiropractic care is one of the best investments you can make for your comfort during pregnancy and your birth experience. At **Pura Vida Chiropractic**, just **22 minutes from Alamo Ranch**, Dr. Dan Foss has spent **23 years** supporting pregnant mothers using the **Webster Technique** and specialized prenatal adjusting to ease pregnancy discomfort and support optimal fetal positioning.

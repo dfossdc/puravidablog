@@ -12,6 +12,7 @@ keywords:
   - heartburn relief chiropractic
   - reflux without medication
 lang: en
+translatedSlug: "reflujo-acido-gerd-cmrt-quiropractica-san-antonio"
 ---
 
 You wake up at 3 a.m. with your throat burning and your stomach in chaos.

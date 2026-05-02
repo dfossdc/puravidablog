@@ -11,6 +11,7 @@ keywords:
   - desarrollo del lenguaje pediátrico
   - terapia craneal lenguaje San Antonio
 lang: es
+translatedSlug: "speech-delay-cranial-chiropractic-children-san-antonio"
 ---
 
 Su hijo tiene dos años y dice muy pocas palabras. Su pediatra dice "espere y vea." Está comenzando a preguntarse si algo está estructuralmente impidiendo que su hijo hable — y tiene razón en preguntarse.

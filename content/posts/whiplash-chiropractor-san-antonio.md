@@ -11,6 +11,7 @@ keywords:
   - cervical strain relief
   - auto accident injury care
 lang: en
+translatedSlug: "latigazo-cervical-quiropractico-san-antonio"
 ---
 
 # Whiplash Chiropractor in San Antonio, TX

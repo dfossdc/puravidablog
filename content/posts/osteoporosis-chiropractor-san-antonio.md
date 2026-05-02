@@ -11,6 +11,7 @@ keywords:
   - osteoporosis pain relief
   - safe chiropractic osteoporosis
 lang: en
+translatedSlug: "osteoporosis-quiropractico-san-antonio"
 ---
 
 # Osteoporosis Care at Pura Vida Chiropractic: Safe, Specialized Treatment

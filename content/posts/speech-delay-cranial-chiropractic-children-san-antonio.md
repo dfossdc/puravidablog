@@ -11,6 +11,7 @@ keywords:
   - pediatric speech development
   - cranial therapy speech San Antonio
 lang: en
+translatedSlug: "retraso-lenguaje-quiropractica-craneal-ninos-san-antonio"
 ---
 
 Your child is two years old and saying very few words. Your pediatrician says "wait and see." You are starting to wonder if something is structurally preventing your child from speaking — and you are right to wonder.

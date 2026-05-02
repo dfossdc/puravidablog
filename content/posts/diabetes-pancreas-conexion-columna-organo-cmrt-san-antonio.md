@@ -12,6 +12,7 @@ keywords:
   - neuropatía diabética San Antonio
   - sistema nervioso autónomo diabetes
 lang: es
+translatedSlug: "diabetes-pancreas-spinal-organ-cmrt-san-antonio"
 ---
 
 Si usted o alguien que ama está manejando la diabetes tipo 2, ya conoce la rutina: monitorear el azúcar en sangre, tomar medicamentos, ajustar la dieta, hacer ejercicio cuando pueda. Pero aquí hay algo que la mayoría de los médicos nunca mencionan: su páncreas no funciona en aislamiento. Funciona bajo el mando constante de su sistema nervioso autónomo — y su sistema nervioso autónomo es fuertemente influenciado por la alineación y función de su columna torácica.

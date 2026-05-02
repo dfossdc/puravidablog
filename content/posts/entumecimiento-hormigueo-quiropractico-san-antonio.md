@@ -11,6 +11,7 @@ keywords:
   - compresión nerviosa
   - quiropráctica San Antonio
 lang: es
+translatedSlug: "numbness-tingling-chiropractor-san-antonio"
 ---
 
 # Entumecimiento y Hormigueo: Tratamiento Quiropráctica en San Antonio

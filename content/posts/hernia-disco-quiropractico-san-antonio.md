@@ -9,6 +9,7 @@ keywords:
   - tratamiento hernia disco San Antonio TX
   - disco herniado San Antonio
 lang: es
+translatedSlug: "herniated-disc-chiropractor-san-antonio"
 ---
 
 Un diagnóstico de hernia de disco puede sentirse aterrador. Pero para la mayoría de los pacientes, el **[cuidado quiropráctico no quirúrgico en San Antonio](https://puravidasanantonio.com/disc-injury/)** es efectivo y a menudo produce mejores resultados a largo plazo que la cirugía.

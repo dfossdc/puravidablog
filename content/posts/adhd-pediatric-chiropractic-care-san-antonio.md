@@ -11,6 +11,7 @@ keywords:
   - sympathetic dominance ADHD
   - chiropractic focus attention San Antonio
 lang: en
+translatedSlug: "tdah-quiropractica-pediatrica-san-antonio"
 ---
 
 Your child has been diagnosed with ADHD. You are trying medication, behavioral therapy, or both. But you wonder if there is something structural — something about their nervous system's baseline state — that is making focus harder.

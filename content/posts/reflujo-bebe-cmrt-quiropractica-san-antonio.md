@@ -12,6 +12,7 @@ keywords:
   - nervio vago bebé
   - quiropráctica segura bebé San Antonio
 lang: es
+translatedSlug: "infant-reflux-cmrt-chiropractic-san-antonio"
 ---
 
 Su recién nacido escupe constantemente. Llora durante o después de alimentarse. Parecen incómodos, arqueando su espalda. Le han dicho que el reflujo en bebés es normal y usualmente se resuelve por sí solo — pero ver a su bebé luchar es desgarrador.

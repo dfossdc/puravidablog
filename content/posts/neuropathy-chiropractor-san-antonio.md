@@ -11,6 +11,7 @@ keywords:
   - numbness tingling chiropractor San Antonio
   - nerve pain chiropractor San Antonio
 lang: en
+translatedSlug: "neuropatia-quiropractico-san-antonio"
 ---
 
 ## Understanding Neuropathy: More Common Than You Might Think

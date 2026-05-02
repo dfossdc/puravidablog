@@ -11,6 +11,7 @@ keywords:
   - colic relief chiropractor San Antonio
   - chiropractor for babies San Antonio
 lang: en
+translatedSlug: "colico-infantil-quiropractico-san-antonio"
 ---
 
 # Infant Colic Chiropractor in San Antonio: Finding Relief for Your Suffering Baby

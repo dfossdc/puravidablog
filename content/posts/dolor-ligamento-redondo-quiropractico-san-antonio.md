@@ -11,6 +11,7 @@ keywords:
   - dolor inguinal embarazo
   - dolor pelvis embarazo
 lang: es
+translatedSlug: "round-ligament-pain-chiropractor-san-antonio"
 ---
 
 ## Dolor del Ligamento Redondo: Tratamiento Quiropráctico Especializado en San Antonio

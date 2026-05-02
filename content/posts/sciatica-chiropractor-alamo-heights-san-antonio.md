@@ -10,6 +10,7 @@ keywords:
   - sciatica treatment near Alamo Heights
   - sciatic pain relief Alamo Heights
 lang: en
+translatedSlug: "ciatica-quiropractico-alamo-heights-san-antonio"
 ---
 
 Looking for relief from sciatica in Alamo Heights? That sharp, burning pain shooting down your buttock and leg does not have to be permanent. At **Pura Vida Chiropractic**, just **10 minutes southeast** of Alamo Heights on NW Military Hwy, Dr. Dan Foss has spent **23 years** using **Sacro-Occipital Technique (SOT)** and targeted soft tissue therapy to eliminate sciatic pain at its source — not just manage the symptoms.

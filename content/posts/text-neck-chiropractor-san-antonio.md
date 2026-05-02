@@ -11,6 +11,7 @@ keywords:
   - text neck treatment San Antonio
   - forward head posture correction
 lang: en
+translatedSlug: "cuello-de-texto-quiropractico-san-antonio"
 ---
 
 # Text Neck Treatment: Chiropractor in San Antonio, TX

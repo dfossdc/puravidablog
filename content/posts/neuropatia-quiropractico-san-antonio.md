@@ -10,6 +10,7 @@ keywords:
   - neuropatía periférica San Antonio
   - entumecimiento hormigueo quiropráctico San Antonio
 lang: es
+translatedSlug: "neuropathy-chiropractor-san-antonio"
 ---
 
 ## Neuropatía: Una Condición Más Común de lo Que Cree

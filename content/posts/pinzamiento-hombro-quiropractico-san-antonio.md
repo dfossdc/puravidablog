@@ -11,6 +11,7 @@ keywords:
   - dolor hombro
   - Dr. Dan Foss
 lang: es
+translatedSlug: "shoulder-impingement-chiropractor-san-antonio"
 ---
 
 # Resuelve el Pinzamiento de Hombro sin Cirugía con Quiropraxia en San Antonio, TX

@@ -12,6 +12,7 @@ keywords:
   - alivio estreñimiento San Antonio
   - subluxación sacra estreñimiento
 lang: es
+translatedSlug: "constipation-cmrt-chiropractic-san-antonio"
 ---
 
 Conoce la sensación: esfuerzo, dolor, días sin alivio.

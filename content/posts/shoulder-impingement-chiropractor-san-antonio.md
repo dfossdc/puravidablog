@@ -11,6 +11,7 @@ keywords:
   - pinched nerve shoulder
   - shoulder dysfunction
 lang: en
+translatedSlug: "pinzamiento-hombro-quiropractico-san-antonio"
 ---
 
 # Shoulder Impingement Treatment at Pura Vida Chiropractic in San Antonio

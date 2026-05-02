@@ -11,6 +11,7 @@ keywords:
   - tratamiento seguro huesos
   - quiropráctica San Antonio
 lang: es
+translatedSlug: "osteoporosis-chiropractor-san-antonio"
 ---
 
 # Apoyo Quiropráctica para Osteoporosis: Tratamiento Especializado en San Antonio

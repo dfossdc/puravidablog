@@ -10,6 +10,7 @@ keywords:
   - alivio dolor de cuello San Antonio
   - quiropráctica para cuello San Antonio
 lang: es
+translatedSlug: "neck-pain-chiropractor-san-antonio"
 ---
 
 El [dolor de cuello](https://puravidasanantonio.com/neck-pain/) es una de las condiciones más comunes tratadas en Pura Vida Quiropráctica en San Antonio. Cuando el dolor de cuello sigue regresando, o cuando va acompañado de dolores de cabeza o entumecimiento en los brazos, su cuerpo le está diciendo que hay algo estructural que necesita ser abordado.

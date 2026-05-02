@@ -11,6 +11,7 @@ keywords:
   - quiropráctica para RSI
   - tratamiento dolor repetitivo
 lang: es
+translatedSlug: "rsi-chiropractor-san-antonio"
 ---
 
 # Lesión por Esfuerzo Repetitivo: Soluciones Quiroprácticas en San Antonio

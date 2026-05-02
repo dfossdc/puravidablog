@@ -11,6 +11,7 @@ keywords:
   - prenatal chiropractor San Antonio
   - pregnancy back pain relief
 lang: en
+translatedSlug: "dolor-ligamento-redondo-quiropractico-san-antonio"
 ---
 
 # Round Ligament Pain Chiropractor in San Antonio, TX

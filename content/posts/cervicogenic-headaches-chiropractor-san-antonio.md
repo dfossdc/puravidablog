@@ -11,6 +11,7 @@ keywords:
   - chronic headaches San Antonio
   - cervical headache relief
 lang: en
+translatedSlug: "cefaleas-cervicogenicas-quiropractico-san-antonio"
 ---
 
 # Cervicogenic Headaches: Expert Treatment from Dr. Dan Foss in San Antonio

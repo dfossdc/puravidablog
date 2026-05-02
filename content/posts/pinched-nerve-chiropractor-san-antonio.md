@@ -11,6 +11,7 @@ keywords:
   - compressed nerve therapy
   - nerve decompression chiropractor
 lang: en
+translatedSlug: "nervio-comprimido-quiropractico-san-antonio"
 ---
 
 # Pinched Nerve Chiropractor in San Antonio, TX

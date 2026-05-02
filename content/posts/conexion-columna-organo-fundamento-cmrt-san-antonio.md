@@ -12,6 +12,7 @@ keywords:
   - fundamento CMRT San Antonio
   - disfunción de órganos columna
 lang: es
+translatedSlug: "spinal-organ-connection-cmrt-foundation-san-antonio"
 ---
 
 Su cuerpo no es una colección de partes separadas. Es un sistema unificado donde todo está conectado.

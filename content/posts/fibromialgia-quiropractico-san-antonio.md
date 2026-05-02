@@ -10,6 +10,7 @@ keywords:
   - alivio dolor fibromialgia San Antonio
   - quiropráctico para fibromialgia San Antonio
 lang: es
+translatedSlug: "fibromyalgia-chiropractor-san-antonio"
 ---
 
 ## Entendiendo la Fibromialgia: Más Allá del Dolor

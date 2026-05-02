@@ -10,6 +10,7 @@ keywords:
   - shoulder pain treatment San Antonio
   - frozen shoulder chiropractor San Antonio
 lang: en
+translatedSlug: "dolor-hombro-quiropractico-san-antonio"
 ---
 
 ## Understanding Shoulder Pain: More Than Just Surface Symptoms

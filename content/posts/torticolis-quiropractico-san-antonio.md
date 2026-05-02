@@ -9,6 +9,7 @@ keywords:
   - tratamiento tortícolis bebé San Antonio TX
   - quiropráctico pediátrico tortícolis San Antonio
 lang: es
+translatedSlug: "torticollis-chiropractor-san-antonio"
 ---
 
 # Quiropráctico para Tortícolis en San Antonio: Atención Suave que Funciona

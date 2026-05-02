@@ -11,6 +11,7 @@ keywords:
   - dolor esternocostal
   - quiropráctica pecho San Antonio
 lang: es
+translatedSlug: "costochondritis-chiropractor-san-antonio"
 ---
 
 # Costocondritis: Tratamiento Quiropráctica Efectivo en San Antonio

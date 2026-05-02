@@ -12,6 +12,7 @@ keywords:
   - manipulación visceral SII
   - irritación de raíz nerviosa digestiva
 lang: es
+translatedSlug: "ibs-irritable-bowel-syndrome-cmrt-chiropractic-san-antonio"
 ---
 
 ¿Pasa su día preocupado por dónde está el baño más cercano?

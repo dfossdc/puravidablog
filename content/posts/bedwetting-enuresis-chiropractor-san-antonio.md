@@ -11,6 +11,7 @@ keywords:
   - nocturnal enuresis
   - natural bedwetting solution
 lang: en
+translatedSlug: "enuresis-mojar-cama-quiropractico-san-antonio"
 ---
 
 # Bedwetting Enuresis Chiropractor in San Antonio, TX

@@ -12,6 +12,7 @@ keywords:
   - CMRT pulmones quiropráctica
   - conexión columna-pulmones
 lang: es
+translatedSlug: "asthma-spinal-lung-connection-chiropractic-san-antonio"
 ---
 
 Si su hijo está entre los casi 5 millones de niños estadounidenses con asma, o si usted mismo lucha contra ella, probablemente ha pasado innumerables horas investigando tratamientos, manejando desencadenantes y manteniendo inhaladores de rescate cerca. La mayoría de la atención del asma se enfoca en medicamentos — que a menudo son necesarios e importantes. Pero hay otra pieza del rompecabezas que rara vez se discute: **cómo su columna, su sistema nervioso y sus pulmones están fundamentalmente conectados.** En 23 años de práctica, he trabajado con pacientes de todas las edades cuyos síntomas de asma mejoraron significativamente cuando abordamos los factores espinales y neurológicos que impulsan la reactividad bronquial. Esto no es un reemplazo para la atención de su doctor. Es un complemento a ella.

@@ -11,6 +11,7 @@ keywords:
   - mental health chiropractic
   - anxiety relief San Antonio
 lang: en
+translatedSlug: "ansiedad-depresion-quiropractico-san-antonio"
 ---
 
 # Anxiety and Depression: Optimizing Nervous System Function at Pura Vida Chiropractic

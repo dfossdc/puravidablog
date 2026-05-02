@@ -11,6 +11,7 @@ keywords:
   - chiropractor for fibromyalgia San Antonio
   - natural fibromyalgia treatment San Antonio
 lang: en
+translatedSlug: "fibromialgia-quiropractico-san-antonio"
 ---
 
 ## Understanding Fibromyalgia: More Than Just Pain

@@ -11,6 +11,7 @@ keywords:
   - work injury chiropractor
   - occupational overuse syndrome
 lang: en
+translatedSlug: "lesion-esfuerzo-repetitivo-quiropractico-san-antonio"
 ---
 
 # Repetitive Strain Injury Treatment at Pura Vida Chiropractic

@@ -12,6 +12,7 @@ keywords:
   - central sensitization chiropractic
   - fibromyalgia cranial adjusting
 lang: en
+translatedSlug: "fibromialgia-quiropractica-sot-san-antonio"
 ---
 
 You wake up in the morning and your entire body aches. Not from a workout, not from an injury — just from being alive. Your muscles feel like they have been wrung out. Your brain is foggy. You are exhausted even though you slept (or tried to). You go to your doctor. They run some tests. Everything comes back "normal." Maybe they offer you pain medication or an antidepressant. Maybe they dismiss it as stress or "all in your head." And you leave the office feeling more alone than when you walked in.

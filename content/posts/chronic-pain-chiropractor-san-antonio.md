@@ -11,6 +11,7 @@ keywords:
   - pain management San Antonio
   - chronic pain specialist
 lang: en
+translatedSlug: "dolor-cronico-quiropractico-san-antonio"
 ---
 
 # Chronic Pain Chiropractor in San Antonio, TX

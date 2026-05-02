@@ -11,6 +11,7 @@ keywords:
   - diastasis recti
   - dolor de espalda posparto
 lang: es
+translatedSlug: "postpartum-recovery-what-bouncing-back-actually-looks-like"
 ---
 
 Si ha dado a luz recientemente, probablemente ha escuchado la frase "recuperarse rápidamente." Una celebridad lo hace en seis semanas. Una amiga lo hizo en ocho. Las redes sociales le dicen que con los ejercicios correctos, la mentalidad correcta y el esfuerzo suficiente, su cuerpo rebotará a su forma y fuerza pre-embarazo en un par de meses. Esto es lo que le digo a cada madre posparto que se sienta en mi oficina después del parto: esa narrativa es incompleta, y seguirla puede dejarla lesionada y frustrada.

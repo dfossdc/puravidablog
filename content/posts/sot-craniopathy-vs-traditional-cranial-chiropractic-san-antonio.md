@@ -11,6 +11,7 @@ keywords:
   - pediatric cranial therapy
   - sphenobasilar synchondrosis
 lang: en
+translatedSlug: "craneopatia-sot-vs-tradicional-quiropractica-san-antonio"
 ---
 
 If you have heard the words "cranial therapy" or "cranial chiropractic," you may think you know what I do. But here is the truth: not all cranial work is created equal. **SOT Craniopathy, the system I have used for 23 years with many children, produces measurable results in ear infections (resolved in 4-8 visits) and autism spectrum sensory issues (most show meaningful improvement in 8-16 visits) — outcomes that generic cranial therapy simply cannot match.**

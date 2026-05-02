@@ -11,6 +11,7 @@ keywords:
   - desgaste discal
   - tratamiento artrosis columna
 lang: es
+translatedSlug: "degenerative-disc-disease-chiropractor-san-antonio"
 ---
 
 ## Enfermedad Degenerativa del Disco: Comprensión y Tratamiento Avanzado en San Antonio

@@ -10,6 +10,7 @@ keywords:
   - quiropráctico pediátrico San Antonio
   - alivio cólico quiropráctico San Antonio
 lang: es
+translatedSlug: "infant-colic-chiropractor-san-antonio"
 ---
 
 # Quiropráctico para Cólico Infantil en San Antonio: Encontrando Alivio para su Bebé

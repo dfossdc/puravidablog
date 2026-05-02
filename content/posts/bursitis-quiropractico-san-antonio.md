@@ -11,6 +11,7 @@ keywords:
   - dolor articulación
   - Dr. Dan Foss
 lang: es
+translatedSlug: "bursitis-chiropractor-san-antonio"
 ---
 
 # Resuelve la Bursitis sin Medicamentos con Quiropraxia en San Antonio, TX

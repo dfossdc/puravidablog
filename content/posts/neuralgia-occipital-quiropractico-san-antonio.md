@@ -11,6 +11,7 @@ keywords:
   - nervio occipital
   - Dr. Dan Foss
 lang: es
+translatedSlug: "occipital-neuralgia-chiropractor-san-antonio"
 ---
 
 # Resuelve la Neuralgia Occipital sin Cirugía con Quiropraxia en San Antonio, TX

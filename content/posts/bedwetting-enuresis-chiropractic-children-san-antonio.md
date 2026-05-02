@@ -11,6 +11,7 @@ keywords:
   - pelvic nerve chiropractic
   - nocturnal enuresis therapy
 lang: en
+translatedSlug: "enuresis-mojar-cama-quiropractica-ninos-san-antonio"
 ---
 
 Your child is six years old and still wetting the bed at night. Your pediatrician says "give it time." But you are tired of washing sheets and your child is embarrassed. You are wondering: is this something chiropractic can help?

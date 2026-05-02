@@ -11,6 +11,7 @@ keywords:
   - SOT thyroid San Antonio
   - whiplash thyroid
 lang: en
+translatedSlug: "conexion-tiroides-columna-cervical-san-antonio"
 ---
 
 If you are experiencing unexplained fatigue, weight gain, cold intolerance, depression, hair loss, or brain fog, you might assume the problem is your thyroid. And you may be right. But here is what most doctors — and most chiropractors — do not tell you: **your thyroid and your cervical spine are anatomically and neurologically intertwined.** A misaligned neck can interfere with thyroid function in ways that standard endocrinology often misses.

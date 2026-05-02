@@ -11,6 +11,7 @@ keywords:
   - non-surgical disc treatment
   - spinal disc care San Antonio
 lang: en
+translatedSlug: "disco-abultado-quiropractico-san-antonio"
 ---
 
 # Bulging Disc Chiropractor in San Antonio, TX

@@ -12,6 +12,7 @@ keywords:
   - prenatal yoga San Antonio
   - pregnancy fitness San Antonio
 lang: en
+translatedSlug: "guia-ejercicio-embarazo-trimestre-por-trimestre-san-antonio"
 ---
 
 You are pregnant, and someone has told you to "take it easy." But here is what I tell the moms who come to Pura Vida Chiropractic: **movement is medicine during pregnancy.** Not reckless movement, but thoughtful, trimester-appropriate exercise that keeps your body strong, your mood elevated, and your preparation for labor as complete as it can be.

@@ -10,6 +10,7 @@ keywords:
   - slipped disc San Antonio
   - chiropractic for herniated disc San Antonio
 lang: en
+translatedSlug: "hernia-disco-quiropractico-san-antonio"
 ---
 
 A herniated disc diagnosis can feel frightening — especially when a doctor tells you surgery might be your only option. But for the majority of patients, **[non-surgical chiropractic care in San Antonio](https://puravidasanantonio.com/disc-injury/)** is not only effective, it often produces better long-term outcomes than surgery.

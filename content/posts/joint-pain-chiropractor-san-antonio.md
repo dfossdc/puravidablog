@@ -10,6 +10,7 @@ keywords:
   - chiropractic for joint pain San Antonio
   - SoftWave joint pain San Antonio
 lang: en
+translatedSlug: "dolor-articular-quiropractico-san-antonio"
 ---
 
 Joint pain affects people of all ages — from athletes with overuse injuries to older adults dealing with arthritis and wear-and-tear. Whatever the cause, **joint pain treatment at Pura Vida Chiropractic in San Antonio** combines the latest regenerative therapies with expert chiropractic care to get you moving freely again.

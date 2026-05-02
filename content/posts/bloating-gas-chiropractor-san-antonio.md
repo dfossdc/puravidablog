@@ -11,6 +11,7 @@ keywords:
   - natural gas relief
   - chiropractic digestion
 lang: en
+translatedSlug: "hinchazon-gases-quiropractico-san-antonio"
 ---
 
 # Natural Bloating and Gas Relief Through Chiropractic Care

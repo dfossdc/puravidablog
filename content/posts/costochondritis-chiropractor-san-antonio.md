@@ -11,6 +11,7 @@ keywords:
   - costochondritis chiropractor
   - thoracic spine treatment
 lang: en
+translatedSlug: "costocondritis-quiropractico-san-antonio"
 ---
 
 # Costochondritis Treatment: Expert Care from Dr. Dan Foss in San Antonio

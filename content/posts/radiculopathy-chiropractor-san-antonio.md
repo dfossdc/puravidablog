@@ -11,6 +11,7 @@ keywords:
   - sciatica relief
   - radiculopathy pain management
 lang: en
+translatedSlug: "radiculopatia-quiropractico-san-antonio"
 ---
 
 # Radiculopathy Treatment at Pura Vida Chiropractic in San Antonio

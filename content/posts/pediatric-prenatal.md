@@ -9,6 +9,7 @@ keywords:
   - prenatal chiropractor San Antonio TX
   - infant chiropractic San Antonio
 lang: en
+translatedSlug: "quiropractica-pediatrica"
 ---
 
 Children and expectant mothers deserve a chiropractor with the training and gentleness to meet their unique needs safely. At Pura Vida Chiropractic, **Dr. Dan Foss** provides specialized pediatric and [prenatal chiropractic care](https://puravidasanantonio.com/pregnancy-chiropractor/) that supports healthy development and comfortable pregnancies.

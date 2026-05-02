@@ -11,6 +11,7 @@ keywords:
   - quiropráctico infantil
   - Dr. Dan Foss
 lang: es
+translatedSlug: "bedwetting-enuresis-chiropractor-san-antonio"
 ---
 
 # Soluciona la Enuresis Infantil con Quiropraxia en San Antonio, TX

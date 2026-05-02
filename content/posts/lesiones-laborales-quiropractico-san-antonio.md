@@ -11,6 +11,7 @@ keywords:
   - recuperación trabajo
   - Dr. Dan Foss
 lang: es
+translatedSlug: "immune-support-chiropractor-san-antonio"
 ---
 
 # Recuperación Completa de Lesiones Laborales con Quiropraxia en San Antonio, TX

@@ -12,6 +12,7 @@ keywords:
   - CMRT lung chiropractic
   - spinal-lung connection
 lang: en
+translatedSlug: "asma-conexion-columna-pulmones-quiropractica-san-antonio"
 ---
 
 If your child is among the nearly 5 million American children with asthma, you have probably spent countless hours researching treatments. Most asthma care focuses on medications — which are necessary. But there is another piece rarely discussed: **your spine and nervous system directly control your lungs' ability to breathe.** In my 23 years of practice, I have worked with many asthma patients whose breathing improved measurably within 4-8 weeks of SOT and CMRT care — with many patients reducing rescue inhaler use noticeably (always under medical supervision). This is not a replacement for your doctor's care. It is a neuromechanical complement to it.

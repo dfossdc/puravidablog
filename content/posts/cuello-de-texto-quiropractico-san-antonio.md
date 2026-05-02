@@ -11,6 +11,7 @@ keywords:
   - postura móvil
   - quiropráctica cuello San Antonio
 lang: es
+translatedSlug: "text-neck-chiropractor-san-antonio"
 ---
 
 # Cuello de Texto: Tratamiento Quiropráctico en San Antonio

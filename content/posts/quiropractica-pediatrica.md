@@ -9,6 +9,7 @@ keywords:
   - quiropráctico prenatal San Antonio TX
   - quiropráctica infantil San Antonio
 lang: es
+translatedSlug: "pediatric-prenatal"
 ---
 
 Los niños y las madres embarazadas merecen un quiropráctico con la capacitación y suavidad para satisfacer sus necesidades únicas. En Pura Vida Quiropráctica, el **Dr. Dan Foss** brinda [cuidado quiropráctico pediátrico](https://puravidasanantonio.com/pediatric-chiropractor/) y prenatal especializado desde los primeros días de vida.

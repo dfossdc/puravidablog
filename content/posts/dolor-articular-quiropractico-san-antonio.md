@@ -10,6 +10,7 @@ keywords:
   - quiropráctica dolor articular San Antonio
   - SoftWave dolor articular San Antonio
 lang: es
+translatedSlug: "joint-pain-chiropractor-san-antonio"
 ---
 
 El dolor articular afecta a personas de todas las edades — desde atletas con lesiones por sobreuso hasta adultos mayores que lidian con artritis. Cualquiera sea la causa, el **tratamiento del dolor articular en Pura Vida Quiropráctica en San Antonio** combina las últimas terapias regenerativas con atención quiropráctica experta para que pueda moverse libremente de nuevo.

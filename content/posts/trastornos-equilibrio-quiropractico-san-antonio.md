@@ -11,6 +11,7 @@ keywords:
   - inestabilidad
   - quiropráctica San Antonio
 lang: es
+translatedSlug: "balance-disorders-chiropractor-san-antonio"
 ---
 
 # Trastornos del Equilibrio: Soluciones Quiroprácticas en San Antonio

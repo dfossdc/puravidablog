@@ -12,6 +12,7 @@ keywords:
   - San Antonio pregnancy chiropractor
   - prenatal nervous system
 lang: en
+translatedSlug: "estres-embarazo-desarrollo-cerebro-bebe"
 ---
 
 Your nervous system and your baby's nervous system are not separate during pregnancy. They are intertwined. The stress hormones in your blood cross the placenta. The way your body responds to threat — whether that threat is real or perceived — shapes the architecture of your baby's developing brain. This is not theory. This is neuroscience. And it is one of the most important things you can understand as a pregnant woman.

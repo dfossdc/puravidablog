@@ -11,6 +11,7 @@ keywords:
   - balance problems chiropractor
   - inner ear dysfunction
 lang: en
+translatedSlug: "trastornos-equilibrio-quiropractico-san-antonio"
 ---
 
 # Balance Disorders and Vertigo: Expert Treatment from Dr. Dan Foss

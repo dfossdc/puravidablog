@@ -11,6 +11,7 @@ keywords:
   - jaw clenching treatment
   - nocturnal bruxism San Antonio
 lang: en
+translatedSlug: "bruxismo-quiropractico-san-antonio"
 ---
 
 # Bruxism and Teeth Grinding: Expert Treatment from Dr. Dan Foss in San Antonio

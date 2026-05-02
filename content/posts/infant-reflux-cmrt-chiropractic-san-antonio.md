@@ -12,6 +12,7 @@ keywords:
   - vagus nerve baby
   - safe chiropractic infant San Antonio
 lang: en
+translatedSlug: "reflujo-bebe-cmrt-quiropractica-san-antonio"
 ---
 
 Your newborn is spitting up constantly. They cry during or after feeds. They seem uncomfortable, arching their back. You have been told reflux in babies is normal and usually resolves on its own — but watching your baby struggle is heartbreaking.

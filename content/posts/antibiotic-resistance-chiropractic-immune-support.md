@@ -12,6 +12,7 @@ keywords:
   - natural immunity San Antonio
   - SOT chiropractic immune support
 lang: en
+translatedSlug: "resistencia-antibioticos-quiropractica-sistema-inmune"
 ---
 
 If you catch every cold that comes around, or you find yourself reaching for antibiotics several times a year, I want to share something important with you. **Your body has a built-in defense system far more powerful than any antibiotic.** In my 23 years of practice, I have treated many patients with recurrent infections, and most of them stopped catching recurring colds within 4-6 weeks of SOT and CMRT care — not by fighting infections harder, but by building an immune system resilient enough to prevent them in the first place.

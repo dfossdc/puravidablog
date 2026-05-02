@@ -11,6 +11,7 @@ keywords:
   - bulging disc
   - disco intervertebral
 lang: es
+translatedSlug: "bulging-disc-chiropractor-san-antonio"
 ---
 
 ## Disco Abultado: Causas, Síntomas y Soluciones Quiroprácticas en San Antonio

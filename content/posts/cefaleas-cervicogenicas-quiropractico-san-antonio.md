@@ -11,6 +11,7 @@ keywords:
   - tratamiento quiropráctica
   - dolor cabeza San Antonio
 lang: es
+translatedSlug: "cervicogenic-headaches-chiropractor-san-antonio"
 ---
 
 # Cefaleas Cervicogénicas: Soluciones Quiroprácticas en San Antonio

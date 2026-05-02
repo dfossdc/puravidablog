@@ -10,6 +10,7 @@ keywords:
   - migraine chiropractor near Olmos Park
   - tension headache treatment Olmos Park
 lang: en
+translatedSlug: "dolor-cabeza-migrana-quiropractico-olmos-park-san-antonio"
 ---
 
 Living with chronic headaches or migraines in Olmos Park does not have to be your normal. At **Pura Vida Chiropractic**, just **8 minutes south**, Dr. Dan Foss has spent **23 years** using **Sacro-Occipital Technique (SOT)** and specialized cranial adjusting to eliminate headaches at their source — not just mask the pain with medication.

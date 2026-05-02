@@ -11,6 +11,7 @@ keywords:
   - ejercicio por trimestre
   - yoga prenatal San Antonio
 lang: es
+translatedSlug: "pregnancy-exercise-guide-trimester-by-trimester-san-antonio"
 ---
 
 Está embarazada, y alguien le ha dicho que "tome las cosas con calma." Pero esto es lo que les digo a las mamás que vienen a Pura Vida Chiropractic: **el movimiento es medicina durante el embarazo.** No el movimiento temerario, pero el movimiento reflexivo y apropiado para cada trimestre que mantiene su cuerpo fuerte, su ánimo elevado, y su preparación para el parto lo más completa posible.

@@ -10,6 +10,7 @@ keywords:
   - pediatric chiropractor torticollis San Antonio
   - infant neck chiropractor San Antonio
 lang: en
+translatedSlug: "torticolis-quiropractico-san-antonio"
 ---
 
 # Torticollis Chiropractor in San Antonio: Gentle Care That Works

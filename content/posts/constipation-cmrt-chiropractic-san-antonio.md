@@ -12,6 +12,7 @@ keywords:
   - constipation relief San Antonio
   - sacral subluxation constipation
 lang: en
+translatedSlug: "estrenimiento-cmrt-quiropractica-san-antonio"
 ---
 
 You know the feeling: straining, pain, days without relief.

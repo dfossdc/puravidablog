@@ -11,6 +11,7 @@ keywords:
   - inflammation treatment
   - pain management san antonio
 lang: en
+translatedSlug: "bursitis-quiropractico-san-antonio"
 ---
 
 # Bursitis Treatment at Pura Vida Chiropractic in San Antonio

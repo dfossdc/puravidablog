@@ -11,6 +11,7 @@ keywords:
   - dolor de espalda baja
   - compresión de nervios
 lang: es
+translatedSlug: "spinal-stenosis-chiropractor-san-antonio"
 ---
 
 ## Estenosis Espinal: Comprensión Completa y Tratamiento Quiropráctico en San Antonio

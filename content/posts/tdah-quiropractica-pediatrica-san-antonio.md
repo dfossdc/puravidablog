@@ -11,6 +11,7 @@ keywords:
   - dominancia simpática TDAH
   - quiropráctica enfoque atención San Antonio
 lang: es
+translatedSlug: "adhd-pediatric-chiropractic-care-san-antonio"
 ---
 
 Su hijo ha sido diagnosticado con TDAH. Está intentando medicación, terapia conductual o ambas. Pero se pregunta si hay algo estructural — algo acerca del estado de base del sistema nervioso de su hijo — que hace que el enfoque sea más difícil.

@@ -10,6 +10,7 @@ keywords:
   - whiplash treatment Alamo Heights
   - accident injury relief Alamo Heights
 lang: en
+translatedSlug: "lesiones-auto-quiropractico-alamo-heights-san-antonio"
 ---
 
 Were you injured in a car accident near Alamo Heights? Even low-speed collisions can cause significant soft tissue and spinal damage that escalates into chronic pain if left untreated. At **Pura Vida Chiropractic**, just **10 minutes southeast** of Alamo Heights, Dr. Dan Foss has spent **23 years** treating auto injury patients using SOT and targeted soft tissue therapy. We work directly with your insurance and help you navigate the recovery process from the first day after your accident.

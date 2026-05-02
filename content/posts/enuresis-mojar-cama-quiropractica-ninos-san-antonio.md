@@ -11,6 +11,7 @@ keywords:
   - nervio pélvico quiropráctica
   - enuresis nocturna terapia
 lang: es
+translatedSlug: "bedwetting-enuresis-chiropractic-children-san-antonio"
 ---
 
 Su hijo tiene seis años y aún moja la cama por la noche. Su pediatra dice "dale tiempo." Pero está cansado de lavar sábanas y su hijo está avergonzado. Se pregunta: ¿es esto algo en lo que la quiropráctica pueda ayudar?

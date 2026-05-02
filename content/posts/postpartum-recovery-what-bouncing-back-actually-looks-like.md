@@ -12,6 +12,7 @@ keywords:
   - postpartum back pain
   - San Antonio postpartum chiropractor
 lang: en
+translatedSlug: "recuperacion-posparto-que-significa-realmente-recuperarse"
 ---
 
 If you have recently given birth, you may have heard the phrase "bouncing back." A celebrity does it in six weeks. A friend did it in eight. Social media tells you that with the right exercises, the right mindset, and enough hustle, your body will spring back to its pre-pregnancy shape and strength within a couple of months. Here is what I tell every postpartum mother who sits down in my office after delivery: that narrative is incomplete, and following it can leave you injured and frustrated.

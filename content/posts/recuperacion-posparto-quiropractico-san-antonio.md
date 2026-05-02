@@ -11,6 +11,7 @@ keywords:
   - diastasis rectal
   - dolor de cadera posparto
 lang: es
+translatedSlug: "postpartum-recovery-chiropractor-san-antonio"
 ---
 
 ## Recuperación Posparto: Tratamiento Quiropráctico Especializado en San Antonio

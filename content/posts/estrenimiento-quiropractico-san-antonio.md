@@ -11,6 +11,7 @@ keywords:
   - salud digestiva
   - Dr. Dan Foss
 lang: es
+translatedSlug: "constipation-chiropractor-san-antonio"
 ---
 
 # Resuelve el Estreñimiento de Forma Natural con Quiropraxia en San Antonio, TX

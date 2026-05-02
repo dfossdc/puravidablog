@@ -12,6 +12,7 @@ keywords:
   - alivio de estrés quiropráctico
   - apoyo adrenal CMRT San Antonio
 lang: es
+translatedSlug: "adrenal-fatigue-chronic-stress-cmrt-chiropractic-san-antonio"
 ---
 
 Se despierta agotado, incluso después de dormir 8 horas.

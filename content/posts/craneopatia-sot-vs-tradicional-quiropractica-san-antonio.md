@@ -11,6 +11,7 @@ keywords:
   - terapia craneal pediátrica
   - sincondrosis esfenobasilar
 lang: es
+translatedSlug: "sot-craniopathy-vs-traditional-cranial-chiropractic-san-antonio"
 ---
 
 Si ha escuchado las palabras "terapia craneal" o "quiropráctica craneal," usted puede pensar que sabe qué es lo que hago. Pero aquí está la verdad: no toda la terapia craneal es igual. Hay un mundo de diferencia entre la Craneapatía SOT — el sistema que he utilizado durante 23 años con miles de niños — y los muchos enfoques craneales diluidos que se llaman a sí mismos por ese nombre.

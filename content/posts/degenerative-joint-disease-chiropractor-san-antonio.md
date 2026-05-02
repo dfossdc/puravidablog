@@ -10,6 +10,7 @@ keywords:
   - DJD treatment San Antonio
   - chiropractic for arthritis San Antonio
 lang: en
+translatedSlug: "enfermedad-articular-degenerativa-san-antonio"
 ---
 
 Degenerative joint disease (DJD) — commonly known as osteoarthritis — is the gradual breakdown of cartilage inside your joints. It causes pain, stiffness, and loss of function that worsens over time if left unaddressed. But **chiropractic care and regenerative therapies in San Antonio** can dramatically slow progression and restore quality of life.

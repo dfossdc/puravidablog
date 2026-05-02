@@ -11,6 +11,7 @@ keywords:
   - natural allergy treatment
   - allergy relief San Antonio
 lang: en
+translatedSlug: "alergias-quiropractico-san-antonio"
 ---
 
 # Allergy Treatment: Supporting Immune Function at Pura Vida Chiropractic

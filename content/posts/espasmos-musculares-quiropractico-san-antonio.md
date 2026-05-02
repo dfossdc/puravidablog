@@ -11,6 +11,7 @@ keywords:
   - contracciones musculares
   - musculatura contracturada
 lang: es
+translatedSlug: "muscle-spasms-chiropractor-san-antonio"
 ---
 
 ## Espasmos Musculares: Causas, Síntomas y Tratamiento Quiropráctico en San Antonio

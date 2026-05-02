@@ -14,6 +14,7 @@ keywords:
   - best chiropractor San Antonio
   - chiropractor near me San Antonio
 lang: en
+translatedSlug: "dolor-de-cuello-quiropractico-san-antonio"
 ---
 
 [Neck pain](https://puravidasanantonio.com/neck-pain/) is one of the most common conditions treated at Pura Vida Chiropractic in San Antonio. When neck pain keeps coming back, or when it is accompanied by headaches, numbness in the arms, or restricted range of motion, it is telling you that something structural needs to be addressed.

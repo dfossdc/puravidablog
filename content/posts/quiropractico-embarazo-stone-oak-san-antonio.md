@@ -10,6 +10,7 @@ keywords:
   - Técnica Webster Stone Oak
   - quiropractico cerca Stone Oak embarazo
 lang: es
+translatedSlug: "pregnancy-chiropractor-castle-hills-san-antonio"
 ---
 
 ¿Buscando un quiropractico para embarazo en Stone Oak? Esto es lo que debe saber: su cuerpo está experimentando cambios extraordinarios, y merece apoyo quiropractico diseñado específicamente para el embarazo. En **Pura Vida Chiropractic**, a solo **15 minutos al norte de Stone Oak** en NW Military Hwy, el Dr. Dan Foss ha pasado **23 años** cuidando a madres embarazadas en cada trimestre usando técnicas suaves y de bajo impacto comprobadas para aliviar el dolor y apoyar el posicionamiento óptimo del bebé.

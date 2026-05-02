@@ -12,6 +12,7 @@ keywords:
   - diabetic neuropathy San Antonio
   - autonomic nervous system diabetes
 lang: en
+translatedSlug: "diabetes-pancreas-conexion-columna-organo-cmrt-san-antonio"
 ---
 
 If you or someone you love is managing type 2 diabetes, you already know the routine: monitor blood sugar, take medications, adjust diet, exercise when you can. But here's what most doctors never mention: your pancreas does not work in isolation. It works under the constant command of your autonomic nervous system — and your autonomic nervous system is heavily influenced by the alignment and function of your thoracic spine.

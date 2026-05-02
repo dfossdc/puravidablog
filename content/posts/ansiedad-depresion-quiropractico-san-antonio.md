@@ -11,6 +11,7 @@ keywords:
   - sistema nervioso
   - quiropráctica San Antonio
 lang: es
+translatedSlug: "anxiety-depression-chiropractor-san-antonio"
 ---
 
 # Ansiedad y Depresión: Apoyo Quiropráctica Integral en San Antonio

@@ -11,6 +11,7 @@ keywords:
   - dolor de nervio
   - ciática
 lang: es
+translatedSlug: "pinched-nerve-chiropractor-san-antonio"
 ---
 
 ## Nervio Comprimido: Causas, Síntomas y Tratamiento Quiropráctico en San Antonio

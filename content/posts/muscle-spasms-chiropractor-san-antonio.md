@@ -11,6 +11,7 @@ keywords:
   - neck spasm chiropractor
   - muscle cramps treatment
 lang: en
+translatedSlug: "espasmos-musculares-quiropractico-san-antonio"
 ---
 
 # Muscle Spasms Chiropractor in San Antonio, TX

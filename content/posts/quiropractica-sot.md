@@ -9,6 +9,7 @@ keywords:
   - Técnica Sacro-Occipital San Antonio TX
   - quiropráctico SOT San Antonio
 lang: es
+translatedSlug: "sot-chiropractic"
 ---
 
 Si ha probado el cuidado quiropráctico convencional y aún no ha encontrado alivio duradero, la **quiropráctica SOT en San Antonio** puede ser exactamente lo que su cuerpo necesita. En Pura Vida Quiropráctica, el Dr. Dan Foss utiliza la [Técnica Sacro-Occipital](https://puravidasanantonio.com/chiropractic-care/) para restaurar el equilibrio en toda su columna vertebral y sistema nervioso.

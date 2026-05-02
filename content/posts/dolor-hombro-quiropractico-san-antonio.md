@@ -9,6 +9,7 @@ keywords:
   - dolor de brazo quiropráctico San Antonio TX
   - tratamiento dolor hombro San Antonio
 lang: es
+translatedSlug: "shoulder-pain-chiropractor-san-antonio"
 ---
 
 ## El Dolor de Hombro: Un Problema Más Allá de la Superficie

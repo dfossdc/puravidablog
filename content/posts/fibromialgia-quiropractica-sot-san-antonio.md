@@ -12,6 +12,7 @@ keywords:
   - sensibilización central quiropráctica
   - fibromialgia ajuste craneal
 lang: es
+translatedSlug: "fibromyalgia-chiropractic-sot-san-antonio"
 ---
 
 Se despierta por la mañana y su cuerpo entero duele. No por un entrenamiento, no por una lesión — simplemente por estar vivo. Sus músculos se sienten como si hubieran sido exprimidos. Su cerebro está confuso. Está exhausto incluso aunque durmió (o lo intentó). Va a su doctor. Él ejecuta algunas pruebas. Todo regresa "normal." Tal vez le ofrecen medicamento para el dolor o un antidepresivo. Tal vez lo descartan como estrés o "todo en su cabeza." Y se va de la oficina sintiéndose más solo que cuando entró.

@@ -12,6 +12,7 @@ keywords:
   - stress relief chiropractor
   - adrenal support CMRT San Antonio
 lang: en
+translatedSlug: "fatiga-adrenal-estres-cronico-cmrt-quiropractica-san-antonio"
 ---
 
 You wake up exhausted, even after sleeping 8 hours.

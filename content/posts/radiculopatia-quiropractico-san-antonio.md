@@ -11,6 +11,7 @@ keywords:
   - pinzamiento nervio
   - Dr. Dan Foss
 lang: es
+translatedSlug: "radiculopathy-chiropractor-san-antonio"
 ---
 
 # Resuelve la Radiculopatía sin Cirugía con Quiropraxia en San Antonio, TX

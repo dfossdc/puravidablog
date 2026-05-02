@@ -10,6 +10,7 @@ keywords:
   - infant chiropractic Military Drive
   - children's chiropractor on Military Drive
 lang: en
+translatedSlug: "quiropractico-pediatrico-military-drive-san-antonio"
 ---
 
 Looking for pediatric chiropractic right here on Military Drive? **Pura Vida Chiropractic is located at 2318 NW Military Hwy** — your neighborhood practice, no commute, no hassle. Dr. Dan Foss has spent **23 years** building a pediatric specialty practice from this exact location, serving not just Military Drive families but the entire NW corridor including Hollywood Park, Shavano Park, and the surrounding professional communities.

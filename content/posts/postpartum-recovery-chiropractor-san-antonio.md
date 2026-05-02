@@ -11,6 +11,7 @@ keywords:
   - postpartum pain relief
   - pelvic recovery chiropractor
 lang: en
+translatedSlug: "recuperacion-posparto-quiropractico-san-antonio"
 ---
 
 # Postpartum Recovery Chiropractor in San Antonio, TX

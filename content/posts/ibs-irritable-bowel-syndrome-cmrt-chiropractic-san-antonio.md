@@ -12,6 +12,7 @@ keywords:
   - visceral chiropractic IBS
   - nerve root irritation digestive
 lang: en
+translatedSlug: "sindrome-intestino-irritable-cmrt-quiropractica-san-antonio"
 ---
 
 Do you spend your day worried about where the nearest bathroom is?

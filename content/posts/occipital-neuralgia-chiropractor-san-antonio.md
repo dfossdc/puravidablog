@@ -11,6 +11,7 @@ keywords:
   - headache at base of skull
   - nerve pain relief
 lang: en
+translatedSlug: "neuralgia-occipital-quiropractico-san-antonio"
 ---
 
 # Occipital Neuralgia Treatment at Pura Vida Chiropractic in San Antonio

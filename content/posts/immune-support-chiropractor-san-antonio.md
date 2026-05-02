@@ -11,6 +11,7 @@ keywords:
   - wellness chiropractor
   - holistic health san antonio
 lang: en
+translatedSlug: "lesiones-laborales-quiropractico-san-antonio"
 ---
 
 # Immune Support Through Chiropractic Care in San Antonio
