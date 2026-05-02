@@ -31,10 +31,20 @@ const staticPages = [
   "provider-referral",
   "conditions", // /conditions index page (categorized directory)
   "site-map",   // HTML sitemap — collapses crawl depth for all pages
+];
+
+// Pages that ONLY exist at /en (English-slug landing pages).
+// /es variants either redirect to the Spanish-slug counterpart or 404.
+// Semrush issue #207 flagged 26 orphaned pages, including 6 here that
+// were previously emitted under /es and 404'd. Splitting them out keeps
+// the sitemap honest and prevents the false orphan signal.
+const englishOnlyPages = [
   // Tier 2 EN missing-keyword landing pages (Phase 2 keyword gap)
   "chiropractor-near-me-san-antonio",
   "best-chiropractor-san-antonio",
   // Tier 3 EN condition-chiropractor commercial-local landing pages
+  // (Spanish counterparts live at /es/quiropractico-{topic}-san-antonio
+  // — listed in spanishOnlyPages below.)
   "migraine-chiropractor-san-antonio",
   "headache-chiropractor-san-antonio",
   "scoliosis-chiropractor-san-antonio",
@@ -90,6 +100,17 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
         priority: 0.8,
       });
     }
+  }
+
+  // English-only SEO landing pages (high-value commercial-local landing
+  // pages with English slugs that don't have an /es route counterpart).
+  for (const page of englishOnlyPages) {
+    entries.push({
+      url: `${BASE_URL}/en/${page}`,
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.9,
+    });
   }
 
   // Spanish-only SEO landing pages (high-value, target Spanish search queries)

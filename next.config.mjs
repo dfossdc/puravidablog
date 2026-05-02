@@ -209,6 +209,19 @@ const nextConfig = {
       { source: "/en/que-es-un-quiropractico", destination: "/es/que-es-un-quiropractico", permanent: true },
       { source: "/en/huesero-san-antonio", destination: "/es/huesero-san-antonio", permanent: true },
 
+      // ── /es/{english-slug} → /es/{spanish-slug} for paired EN<>ES landing pages ──
+      // The 6 EN landing pages (chiropractor-near-me, best-chiropractor, migraine,
+      // headache, scoliosis, postpartum) have Spanish counterparts at Spanish-language
+      // slugs. A user/crawler arriving at /es/{english-slug} is asking for the
+      // Spanish version — send them to the actual Spanish-slug page that already
+      // exists. Closes the 'orphaned in sitemap' notice + provides a clean UX.
+      { source: "/es/migraine-chiropractor-san-antonio",     destination: "/es/quiropractico-para-migranas-san-antonio",  permanent: true },
+      { source: "/es/headache-chiropractor-san-antonio",     destination: "/es/quiropractico-dolor-de-cabeza-san-antonio", permanent: true },
+      { source: "/es/scoliosis-chiropractor-san-antonio",    destination: "/es/quiropractico-escoliosis-san-antonio",      permanent: true },
+      { source: "/es/postpartum-chiropractor-san-antonio",   destination: "/es/quiropractico-postparto-san-antonio",       permanent: true },
+      { source: "/es/best-chiropractor-san-antonio",         destination: "/es/el-mejor-quiropractico-san-antonio",        permanent: true },
+      { source: "/es/chiropractor-near-me-san-antonio",      destination: "/es/quiropractico-cerca-de-mi-san-antonio",     permanent: true },
+
       // ── External backlink typo redirects ──
       // External sites have linked to us with misspelled slugs. Without these
       // redirects, those links 404 and we lose the backlink equity. Add new
