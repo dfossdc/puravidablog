@@ -14,7 +14,8 @@ lang: es
 translatedSlug: "sciatica-chiropractor-alamo-heights-san-antonio"
 ---
 
-¿Buscando alivio de ciática en Alamo Heights? Ese dolor agudo y ardiente que baja por su nalga y pierna no tiene que ser permanente. En **Pura Vida Chiropractic**, a solo **10 minutos al sureste** de Alamo Heights en NW Military Hwy, el Dr. Dan Foss ha pasado **23 años** usando **Técnica Sacro-Occipital (SOT)** y terapia de tejido blando dirigida para eliminar el dolor ciático en su origen — no solo gestionar los síntomas.
+¿Buscando alivio de ciática en Alamo Heights? Ese dolor agudo y ardiente que baja por su nalga y pierna no tiene que ser permanente. En **Pura Vida Chiropractic**, a solo **10 minutos al sureste** de Alamo Heights en NW Military Hwy, el Dr. Dan Foss ha pasado **23 años** usando **Técnica Sacro-Occipital (SOT)** y terapia de tejido blando dirigida para eliminar el dolor ciático en su origen — no solo gestionar los síntomas. Si vive en Alamo Heights y busca un [quiropráctico cerca de mí en San Antonio](/es/quiropractico-cerca-de-mi-san-antonio).
+
 
 ## Por Qué Ocurre la Ciática — Y Por Qué Persiste
 

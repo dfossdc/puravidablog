@@ -11,7 +11,8 @@ image: "/images/dr-foss-adjusting-patient.jpg"
 keywords: "primera visita quiropráctico san antonio, qué esperar quiropráctico, cómo es el ajuste quiropráctico, quiropráctico español san antonio, evaluación quiropráctica gratuita"
 ---
 
-Si nunca ha ido al quiropráctico, es completamente normal tener preguntas —o incluso un poco de nerviosismo. ¿Duele? ¿Qué me van a hacer? ¿Cómo sé si me va a ayudar? ¿Tengo que desvestirme?
+Si nunca ha ido al quiropráctico, es completamente normal tener preguntas —o incluso un poco de nerviosismo. ¿Duele? ¿Qué me van a hacer? ¿Cómo sé si me va a ayudar? ¿Tengo que desvestirme? Antes de su primera visita, vale la pena revisar opciones de [quiropráctico cerca de mí en San Antonio](/es/quiropractico-cerca-de-mi-san-antonio).
+
 
 En Pura Vida Chiropractic, el Dr. Dan Foss se toma el tiempo para explicarle cada paso del proceso. Este artículo le dará una idea clara de qué esperar antes, durante y después de su primera visita, para que llegue tranquilo y con confianza.
 

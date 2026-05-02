@@ -13,7 +13,8 @@ keywords:
 lang: es
 ---
 
-¿Es un atleta en Alamo Heights tratando una lesión que lo mantiene fuera del juego? Ya sea que juegue tenis recreativo, corra maratones, juegue deportes escolares, o se mantenga activo con CrossFit, las lesiones son parte del territorio. En **Pura Vida Chiropractic**, a solo **10 minutos al sureste**, el Dr. Dan Foss ha pasado **23 años** tratando a atletas usando técnicas quiropracticas específicas del deporte diseñadas para devolverlo a su rendimiento máximo más rápido que la rehabilitación tradicional solamente.
+¿Es un atleta en Alamo Heights tratando una lesión que lo mantiene fuera del juego? Ya sea que juegue tenis recreativo, corra maratones, juegue deportes escolares, o se mantenga activo con CrossFit, las lesiones son parte del territorio. En **Pura Vida Chiropractic**, a solo **10 minutos al sureste**, el Dr. Dan Foss ha pasado **23 años** tratando a atletas usando técnicas quiropracticas específicas del deporte diseñadas para devolverlo a su rendimiento máximo más rápido que la rehabilitación tradicional solamente. Para atletas en Alamo Heights, el [quiropráctico cerca de mí en San Antonio](/es/quiropractico-cerca-de-mi-san-antonio).
+
 
 ## Por Qué los Atletas Eligen Quiropractica para Rendimiento e Lesión
 

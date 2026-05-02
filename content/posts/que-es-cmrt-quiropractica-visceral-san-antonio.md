@@ -16,7 +16,8 @@ lang: es
 translatedSlug: "what-is-cmrt-the-chiropractic-technique-that-adjusts-organs"
 ---
 
-¿Y si el dolor de estómago, el reflujo ácido o los problemas digestivos no fueran realmente un problema del estómago, sino un problema de la columna vertebral?
+¿Y si el dolor de estómago, el reflujo ácido o los problemas digestivos no fueran realmente un problema del estómago, sino un problema de la columna vertebral? CMRT es una técnica avanzada dentro de la práctica más amplia. Para entender el contexto general, vea [qué es un quiropráctico](/es/que-es-un-quiropractico).
+
 
 Esta es la premisa de CMRT: **Chiropractic Manipulative Reflex Technique** (Técnica Quiropráctica de Manipulación por Reflejo). Es un método para ajustar órganos y su función trabajando con puntos precisos en la columna vertebral y los tejidos circundantes. En 23 años de práctica como especialista en Sacro-Occipital Technique (SOT) y CMRT, he visto que condiciones que no respondieron a ninguna otra forma de cuidado se transforman una vez que aplicamos CMRT para abordar la conexión espinal-orgánica subyacente.
 

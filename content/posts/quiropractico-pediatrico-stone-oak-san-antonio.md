@@ -14,7 +14,8 @@ lang: es
 translatedSlug: "pediatric-chiropractor-stone-oak-san-antonio"
 ---
 
-¿Buscando un quiropractico pediátrico en Stone Oak? Muchos padres de Stone Oak descubren que los problemas de salud más persistentes de sus hijos — infecciones crónicas de oído, cólicos, reflujo, dificultad de enganche, y preocupaciones de desarrollo — responden hermosamente al cuidado quiropractico suave. En **Pura Vida Chiropractic**, a solo **15 minutos al norte de Stone Oak** en NW Military Hwy, el Dr. Dan Foss ha pasado **23 años** usando técnicas pediátricas especializadas para ayudar a los niños a prosperar desde el nacimiento hasta la adolescencia.
+¿Buscando un quiropractico pediátrico en Stone Oak? Muchos padres de Stone Oak descubren que los problemas de salud más persistentes de sus hijos — infecciones crónicas de oído, cólicos, reflujo, dificultad de enganche, y preocupaciones de desarrollo — responden hermosamente al cuidado quiropractico suave. En **Pura Vida Chiropractic**, a solo **15 minutos al norte de Stone Oak** en NW Military Hwy, el Dr. Dan Foss ha pasado **23 años** usando técnicas pediátricas especializadas para ayudar a los niños a prosperar desde el nacimiento hasta la adolescencia. Padres de Stone Oak buscan un [quiropráctico pediátrico en San Antonio](/es/services/quiropractico-pediatrico).
+
 
 ## Por Qué las Familias de Stone Oak Confían en Quiropractica Pediátrica
 

@@ -10,7 +10,8 @@ image: "/images/conditions/latinofamily.jpg"
 keywords: "huesero san antonio, quiropráctico san antonio, diferencia huesero quiropráctico, sobador san antonio, ajuste quiropráctico"
 ---
 
-En la comunidad latina de San Antonio, es muy común escuchar sobre el "huesero" o el "sobador" — personas que han practicado técnicas de manipulación corporal de manera tradicional, pasando el conocimiento de generación en generación. Si usted ha visitado a uno o si conoce a alguien que lo recomienda, es importante que conozca las diferencias clave entre esta práctica tradicional y la quiropráctica moderna.
+En la comunidad latina de San Antonio, es muy común escuchar sobre el "huesero" o el "sobador" — personas que han practicado técnicas de manipulación corporal de manera tradicional, pasando el conocimiento de generación en generación. Si usted ha visitado a uno o si conoce a alguien que lo recomienda, es importante que conozca las diferencias clave entre esta práctica tradicional y la quiropráctica moderna. Si está buscando un [huesero en San Antonio](/es/huesero-san-antonio).
+
 
 ## ¿Qué es un Huesero?
 

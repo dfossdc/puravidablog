@@ -10,7 +10,8 @@ image: "/images/conditions/latinofamily.jpg"
 keywords: "quiropráctico español san antonio, quiropráctico latino san antonio, quiropráctica comunidad hispana san antonio, médico español san antonio tx, quiropráctico bilingüe san antonio"
 ---
 
-San Antonio tiene una historia profundamente latina. Más de la mitad de sus residentes son hispanos, y el español resuena en los mercados, las iglesias, las escuelas y los hogares de toda la ciudad. Y sin embargo, encontrar atención médica de calidad en español —atención que verdaderamente entienda la cultura, los valores y las preocupaciones de las familias latinas— sigue siendo un desafío para muchos.
+San Antonio tiene una historia profundamente latina. Más de la mitad de sus residentes son hispanos, y el español resuena en los mercados, las iglesias, las escuelas y los hogares de toda la ciudad. Y sin embargo, encontrar atención médica de calidad en español —atención que verdaderamente entienda la cultura, los valores y las preocupaciones de las familias latinas— sigue siendo un desafío para muchos. Para muchas familias hispanas, ver un [huesero en San Antonio licenciado](/es/huesero-san-antonio) es el primer paso para encontrar un [quiropráctico cerca de mí en San Antonio](/es/quiropractico-cerca-de-mi-san-antonio).
+
 
 En Pura Vida Chiropractic, el Dr. Dan Foss no solo habla español con fluidez. Entiende la cultura, respeta las tradiciones, y ha dedicado su carrera a servir a la comunidad latina de San Antonio con la atención que merece.
 

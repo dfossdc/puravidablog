@@ -13,7 +13,8 @@ keywords:
 lang: es
 ---
 
-**¿Te pregunta si la quiropráctica es segura? Es una pregunta legítima. Esta página responde honestamente: ¿es seguro el cuidado quiropráctico?** Con base en investigación médica y 23 años de experiencia, la respuesta es sí — cuando se realiza correctamente por un doctor competente.
+**¿Te pregunta si la quiropráctica es segura? Es una pregunta legítima. Esta página responde honestamente: ¿es seguro el cuidado quiropráctico?** Con base en investigación médica y 23 años de experiencia, la respuesta es sí — cuando se realiza correctamente por un doctor competente. Si está considerando ver un [quiropráctico en San Antonio](/es/quiropratico-san-antonio), es útil entender primero [qué es un quiropráctico](/es/que-es-un-quiropractico).
+
 
 ## La Respuesta Corta: Sí, Es Seguro
 

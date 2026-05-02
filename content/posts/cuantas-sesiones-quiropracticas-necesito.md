@@ -13,7 +13,8 @@ keywords:
 lang: es
 ---
 
-**¿Cuántas visitas al quiropráctico necesitarás? Es la pregunta que todos hacen.** La respuesta honesta: depende. Pero hay guías que el Dr. Dan Foss usa basadas en 23 años de experiencia. Esta página te dice exactamente qué esperar.
+**¿Cuántas visitas al quiropráctico necesitarás? Es la pregunta que todos hacen.** La respuesta honesta: depende. Pero hay guías que el Dr. Dan Foss usa basadas en 23 años de experiencia. Esta página te dice exactamente qué esperar. Para entender por qué se necesitan sesiones, primero conviene revisar [qué es un quiropráctico](/es/que-es-un-quiropractico).
+
 
 ## La Respuesta Corta
 

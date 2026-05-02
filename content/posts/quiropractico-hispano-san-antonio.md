@@ -13,7 +13,8 @@ keywords:
 lang: es
 ---
 
-**¿Buscas un quiropráctico que no solo hable español, sino que ENTIENDA tu comunidad hispana?** El Dr. Dan Foss en Pura Vida Chiropractic ha pasado 23 años sirviendo a la comunidad latina de San Antonio. Entiende tus valores, tu cultura, y los desafíos únicos que enfrentas.
+**¿Buscas un quiropráctico que no solo hable español, sino que ENTIENDA tu comunidad hispana?** El Dr. Dan Foss en Pura Vida Chiropractic ha pasado 23 años sirviendo a la comunidad latina de San Antonio. Entiende tus valores, tu cultura, y los desafíos únicos que enfrentas. Es [san antonio quiropráctico bilingüe](/es/san-antonio-quiropractico) y a la vez [huesero licenciado](/es/huesero-san-antonio) — la combinación que muchas familias hispanas en San Antonio están buscando.
+
 
 Ser hispano en San Antonio trae desafíos únicos de salud. El Dr. Foss los entiende.
 

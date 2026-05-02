@@ -10,7 +10,8 @@ image: "/images/conditions/postural-correction.webp"
 keywords: "subluxación vertebral san antonio, qué es subluxación quiropráctica, ajuste quiropráctico subluxación, sistema nervioso quiropráctica san antonio, huesero vs quiropráctico diferencia"
 ---
 
-Cuando los pacientes vienen a Pura Vida Chiropractic buscando alivio para su dolor de espalda, cuello, o incluso problemas que parecen no tener nada que ver con la columna —como migrañas, problemas digestivos, o baja energía— frecuentemente encontramos la misma causa raíz: una **subluxación vertebral**.
+Cuando los pacientes vienen a Pura Vida Chiropractic buscando alivio para su dolor de espalda, cuello, o incluso problemas que parecen no tener nada que ver con la columna —como migrañas, problemas digestivos, o baja energía— frecuentemente encontramos la misma causa raíz: una **subluxación vertebral**. La subluxación vertebral es un concepto central en [qué es un quiropráctico](/es/que-es-un-quiropractico).
+
 
 Es un término que pocas personas conocen, pero que tiene implicaciones profundas para su salud. Permítame explicarle qué es, por qué importa, y cómo el ajuste quiropráctico puede corregirla.
 
