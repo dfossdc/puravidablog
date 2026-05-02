@@ -59,9 +59,30 @@ Captured during Day 1 AI Visibility audit. Use these numbers to measure improvem
 The current "off-site" footprint (Facebook + LinkedIn + Apple Business + Healthgrades + Yelp) helps for traditional search, but AI search citations need YouTube + IG presence.
 
 ### Recommended next moves
-1. **YouTube channel rev** — Dr. Foss explaining SOT/CMRT/Webster on camera. Even 5-10 short videos would create citation footprint.
-2. **Instagram content cadence** — patient stories (with consent), adjustment clips, before/after testimonials.
-3. **Facebook posts** that AI crawlers can index (which we already have automation for).
+
+**MAJOR UPDATE — turns out all 3 social channels exist and are healthy:**
+
+| Channel | URL | Status |
+|---|---|---|
+| YouTube | https://www.youtube.com/@puravidadc | ✅ "Pura Vida Chiropractic", **66 videos**, 347 subs |
+| Instagram | https://www.instagram.com/puravidasatx/ | ✅ "Pura Vida Chiropractic", 278 posts, 726 followers |
+| Facebook | https://www.facebook.com/puravidasanantonio/ | ✅ "Pura Vida Chiropractic Dr. Dan Foss", 3K followers |
+
+So the assets are already built. The problem isn't *creating* social content — it's that AI doesn't know they exist or can't connect them to chiropractic queries. Original schema URL for YouTube was wrong (@puravidasanantonio → 404); FIXED in commit 05765e7 to point at the real @puravidadc.
+
+The work that actually moves the AI Visibility needle from here:
+
+1. **YouTube SEO sweep on existing 66 videos** — title/description/tag pass. Each video should have:
+   - Title with chiropractic + San Antonio + specific topic
+   - Description starting with the answer to a likely AI query
+   - Tags including: chiropractor san antonio, SOT, CMRT, Webster Technique, Dr. Dan Foss
+   - Captions/transcripts (YouTube auto-captions are searchable by AI; manual edits make them better)
+
+2. **Instagram bio audit** — currently links to `#fatadapteddoc` (separate Dr. Foss keto/lifestyle brand). For AI entity disambiguation on the chiropractic side, that link could create cross-brand confusion. Either:
+   - Move that link off `puravidasatx` and into a personal `@drdanfoss` account
+   - Or accept the cross-link (it might actually help if AI starts associating Dr. Dan Foss with both health expertise areas)
+
+3. **Cross-platform consistency** — every public profile (LinkedIn, FB, IG, YouTube, Apple Business, Healthgrades, Vitals, BBB) should use **"Pura Vida Chiropractic"** as the brand name (not just "Pura Vida"). Already true for FB + IG + YouTube. ✅
 
 ## Prompt Tracking — Current State
 
