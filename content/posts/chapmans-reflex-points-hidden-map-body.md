@@ -1,5 +1,6 @@
 ---
 title: "Chapman's Reflex Points: The Hidden Diagnostic Map on Your Body"
+metaTitle: "Chapman's Reflex Points"
 date: "2024-06-07"
 description: "Chapman's neurolymphatic reflex points are specific locations on the body that become tender when certain organs are stressed. They're a powerful diagnostic and treatment tool used in CMRT."
 tags: ["CMRT", "Chapman's points", "neurolymphatic reflexes", "diagnosis", "organ health"]

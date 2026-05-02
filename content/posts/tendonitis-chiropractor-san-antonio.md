@@ -1,5 +1,6 @@
 ---
 title: "Tendonitis Chiropractor in San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Tendonitis Chiropractor San Antonio TX"
 description: "Tendonitis treatment at Pura Vida Chiropractic. Dr. Dan Foss uses SOT and laser therapy for tendon pain relief in San Antonio, TX."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

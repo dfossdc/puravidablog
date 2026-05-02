@@ -1,5 +1,6 @@
 ---
 title: "Text Neck Is Real: How Your Phone Is Damaging Your Spine"
+metaTitle: "Text Neck Is Real: How Your Phone Is Damaging"
 image: "/images/conditions/forwardheadposture.jpg"
 date: "2026-04-02"
 lang: "en"

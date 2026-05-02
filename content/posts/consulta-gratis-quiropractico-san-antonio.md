@@ -1,5 +1,6 @@
 ---
 title: "Consulta Gratis Quiropráctico San Antonio, TX | Pura Vida Chiropractic"
+metaTitle: "Consulta Gratis Quiropráctico San Antonio"
 description: "Consulta gratis con el Dr. Dan Foss en San Antonio. Evaluación sin costo, sin obligaciones. Llama (210) 685-1994 o reserva en línea ahora."
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"

@@ -1,5 +1,6 @@
 ---
 title: "Reflujo Ácido y GERD: Tratamiento CMRT | San Antonio TX"
+metaTitle: "Reflujo Ácido y GERD: Tratamiento CMRT"
 description: "El GERD está vinculado a subluxación T5-T6 y disfunción del diafragma. CMRT restaura la función del nervio del estómago y previene el reflujo sin medicamentos de por vida."
 date: "2026-05-03"
 author: "Dr. Dan Foss, DC"

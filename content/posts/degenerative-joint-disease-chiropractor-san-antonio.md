@@ -1,5 +1,6 @@
 ---
 title: "Degenerative Joint Disease Treatment in San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Degenerative Joint Disease Treatment in San"
 description: "Struggling with degenerative joint disease or osteoarthritis in San Antonio? Dr. Dan Foss at Pura Vida Chiropractic combines SOT chiropractic, SoftWave, shockwave, and Class IV laser to reduce pain and restore function."
 date: "2026-04-01"
 author: "Dr. Dan Foss, DC"

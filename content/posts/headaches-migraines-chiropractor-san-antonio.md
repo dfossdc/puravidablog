@@ -1,5 +1,6 @@
 ---
 title: "Headaches & Migraines Chiropractor in San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Headaches Chiropractor San Antonio TX"
 description: "Chronic headaches or debilitating migraines in San Antonio? Dr. Dan Foss at Pura Vida Chiropractic uses cranial therapy and chiropractic care to address the root cause."
 date: "2026-04-01"
 author: "Dr. Dan Foss, DC"

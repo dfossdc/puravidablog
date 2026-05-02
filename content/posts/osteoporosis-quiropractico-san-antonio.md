@@ -1,5 +1,6 @@
 ---
 title: "Apoyo Quiropráctica para Osteoporosis | San Antonio, TX"
+metaTitle: "Apoyo Quiropráctica para Osteoporosis"
 description: "Manejo de osteoporosis con quiropráctica. Dr. Dan Foss especialista SOT en Pura Vida Chiropractic, San Antonio."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

@@ -1,5 +1,6 @@
 ---
 title: "Cefaleas en Racimo Quiropráctico en San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Cefaleas en Racimo Quiropráctico San Antonio"
 description: "Trata cefaleas en racimo con quiropráctica en San Antonio. Dr. Dan Foss ofrece alivio de migrañas de clúster mediante SOT y el Protocolo Pura Vida."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

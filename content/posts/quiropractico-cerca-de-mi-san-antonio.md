@@ -1,5 +1,6 @@
 ---
 title: "Quiropráctico Cerca de Mí en San Antonio, TX | Pura Vida Chiropractic"
+metaTitle: "Quiropráctico Cerca de Mí en San Antonio"
 description: "Busca quiropráctico cerca de ti en San Antonio? El Dr. Dan Foss está ubicado en NW Military Hwy. Consulta gratis hoy. (210) 685-1994"
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"

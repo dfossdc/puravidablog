@@ -1,5 +1,6 @@
 ---
 title: "Quiropráctico que Habla Español en San Antonio, TX | Pura Vida Chiropractic"
+metaTitle: "Quiropráctico que Habla Español en San Antonio"
 description: "Busca un quiropráctico que habla español en San Antonio? El Dr. Dan Foss en Pura Vida ofrece atención quiropráctica completamente en español. Consulta gratis. Llama (210) 685-1994"
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"

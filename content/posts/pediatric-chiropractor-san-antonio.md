@@ -1,5 +1,6 @@
 ---
 title: "Is Chiropractic Safe for Kids? What Every San Antonio Parent Should Know"
+metaTitle: "Is Chiropractic Safe for Kids?"
 image: "/images/conditions/growingpains.jpg"
 date: "2026-04-02"
 lang: "en"

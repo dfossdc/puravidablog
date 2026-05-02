@@ -1,5 +1,6 @@
 ---
 title: "Degenerative Disc Disease Chiropractor in San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Degenerative Disc Chiropractor San Antonio TX"
 description: "Degenerative disc disease treatment in San Antonio by Dr. Dan Foss using SOT and the Pura Vida Protocol. Avoid surgery. Call (210) 685-1994."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

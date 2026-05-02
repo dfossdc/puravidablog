@@ -1,5 +1,6 @@
 ---
 title: "The Pura Vida Protocol — San Antonio's Three-Pillar Whole-Body Chiropractic System"
+metaTitle: "The Pura Vida Protocol"
 date: "2024-02-15"
 description: "The Pura Vida Protocol is Dr. Dan Foss's integrated three-pillar approach — combining SOT spinal correction, CMRT organ adjusting, and SOT Craniopathy in one comprehensive system."
 tags: ["Pura Vida Protocol", "SOT", "CMRT", "craniopathy", "whole body", "San Antonio", "chiropractic system"]

@@ -1,5 +1,6 @@
 ---
 title: "Lesiones Deportivas Quiropractico Alamo Heights | San Antonio TX"
+metaTitle: "Lesiones Deportivas Quiropractico Alamo Heights"
 description: "Tratamiento de lesiones deportivas para atletas de Alamo Heights. El Dr. Dan Foss se especializa en lesiones articulares, distensiones musculares y optimización del rendimiento."
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"

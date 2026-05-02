@@ -1,5 +1,6 @@
 ---
 title: "ADHD & Pediatric Chiropractic Care | San Antonio TX"
+metaTitle: "ADHD & Pediatric Chiropractic Care"
 description: "ADHD has roots in nervous system dysregulation and sympathetic dominance. Learn how cranial chiropractic improves vagal tone, sleep, and focus in children with ADHD."
 date: "2026-05-07"
 author: "Dr. Dan Foss, DC"

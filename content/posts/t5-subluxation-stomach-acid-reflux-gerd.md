@@ -1,5 +1,6 @@
 ---
 title: "T5 and Your Stomach: The Spinal Root of Acid Reflux and GERD"
+metaTitle: "T5 and Your Stomach"
 date: "2024-05-10"
 description: "Thoracic vertebra 5 has a direct nerve connection to your stomach. When T5 subluxates, digestive symptoms follow. Here's the spinal root of acid reflux that most gastroenterologists never consider."
 tags: ["CMRT", "GERD", "acid reflux", "T5", "stomach", "digestive"]

@@ -1,5 +1,6 @@
 ---
 title: "Fibromialgia: Por Qué el Tratamiento Estándar No Es Suficiente | San Antonio"
+metaTitle: "Fibromialgia: Por Qué el Tratamiento Estándar"
 description: "La fibromialgia es una condición del sistema nervioso, no solo dolor. Dr. Dan Foss explica cómo la técnica SOT y la terapia craneal abordan la tensión dural y la disfunción autónoma que impulsa el dolor generalizado."
 date: "2026-05-01"
 author: "Dr. Dan Foss, DC"

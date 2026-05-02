@@ -1,5 +1,6 @@
 ---
 title: "Postpartum Recovery Chiropractor in San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Postpartum Recovery Chiropractor San Antonio TX"
 description: "Postpartum recovery chiropractic care in San Antonio with Dr. Dan Foss. Safe, gentle care for new mothers. Call (210) 685-1994."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

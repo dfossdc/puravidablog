@@ -1,5 +1,6 @@
 ---
 title: "Técnica Webster para Embarazo en San Antonio | Quiropráctico"
+metaTitle: "Técnica Webster para Embarazo en San Antonio"
 description: "Técnica Webster especializada para embarazo. Ayuda con bebé en posición pélvica y dolor pélvico. Dr. Dan Foss, San Antonio TX."
 date: "2026-05-04"
 author: "Dr. Dan Foss, DC"

@@ -1,5 +1,6 @@
 ---
 title: "Pinzamiento de Hombro Quiropráctico en San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Pinzamiento de Hombro Quiropráctico San Antonio"
 description: "Resuelve el pinzamiento de hombro sin cirugía en San Antonio. Dr. Dan Foss usa SOT y CMRT para restituir movilidad mediante el Protocolo Pura Vida."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

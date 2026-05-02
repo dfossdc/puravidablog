@@ -1,5 +1,6 @@
 ---
 title: "La Conexión Columna-Órgano: Fundamento de CMRT | San Antonio TX"
+metaTitle: "La Conexión Columna-Órgano: Fundamento de CMRT"
 description: "Comprendiendo cómo las subluxaciones vertebrales interrumpen la función nerviosa de órganos. La base anatómica y neurológica para CMRT."
 date: "2026-05-06"
 author: "Dr. Dan Foss, DC"

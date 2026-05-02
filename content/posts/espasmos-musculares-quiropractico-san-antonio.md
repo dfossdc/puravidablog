@@ -1,5 +1,6 @@
 ---
 title: "Espasmos Musculares Quiropráctico en San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Espasmos Musculares Quiropráctico San Antonio"
 description: "Tratamiento para espasmos musculares en San Antonio. Dr. Dan Foss, DC ofrece alivio rápido con SOT y Protocolo Pura Vida."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

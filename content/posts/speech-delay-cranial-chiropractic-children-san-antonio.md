@@ -1,5 +1,6 @@
 ---
 title: "Speech Delay & Cranial Chiropractic in Children | San Antonio TX"
+metaTitle: "Speech Delay & Cranial Chiropractic in Children"
 description: "Speech delays are often connected to cranial misalignment, tongue tie, and vagal dysfunction. Learn how cranial chiropractic supports speech development through palate mechanics."
 date: "2026-05-06"
 author: "Dr. Dan Foss, DC"

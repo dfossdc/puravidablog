@@ -1,5 +1,6 @@
 ---
 title: "Frenillo Lingual Restringido: Quiropráctica + Revisión"
+metaTitle: "Frenillo Lingual Restringido"
 description: "Frenillo lingual en bebés: cuándo la quiropráctica es suficiente, cuándo se necesita revisión. Dr. Dan Foss, San Antonio TX."
 date: "2026-05-10"
 author: "Dr. Dan Foss, DC"

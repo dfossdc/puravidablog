@@ -1,5 +1,6 @@
 ---
 title: "Dolor de Cintura Pélvica en el Embarazo: Técnica Webster"
+metaTitle: "Dolor de Cintura Pélvica en el Embarazo"
 description: "Dolor de cintura pélvica (SPD) tratado con técnica Webster. Mejora en 2-3 visitas. Dr. Dan Foss, San Antonio TX."
 date: "2026-05-13"
 author: "Dr. Dan Foss, DC"

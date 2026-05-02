@@ -1,5 +1,6 @@
 ---
 title: "How Stress During Pregnancy Affects Your Baby's Brain | San Antonio Chiropractor"
+metaTitle: "How Stress During Pregnancy Affects Your"
 description: "Prenatal stress shapes fetal neurodevelopment. Dr. Dan Foss explains the science of maternal cortisol, the HPA axis, and practical strategies to support your nervous system during pregnancy."
 date: "2026-05-01"
 author: "Dr. Dan Foss, DC"

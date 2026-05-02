@@ -1,5 +1,6 @@
 ---
 title: "Entumecimiento y Hormigueo | Quiropráctica en San Antonio"
+metaTitle: "Entumecimiento y Hormigueo"
 description: "Trata neuropatía, parestesia y entumecimiento. Dr. Dan Foss especialista SOT en Pura Vida Chiropractic."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

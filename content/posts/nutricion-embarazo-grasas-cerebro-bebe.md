@@ -1,5 +1,6 @@
 ---
 title: "Nutrición en el Embarazo: Las Grasas que el Cerebro de su Bebé Necesita"
+metaTitle: "Nutrición en el Embarazo"
 description: "Los ácidos grasos omega-3 como DHA y EPA son esenciales para el desarrollo cerebral fetal. Conozca qué alimentos y suplementos apoyan el cerebro de su bebé y cómo la atención quiropráctica complementa la buena nutrición durante el embarazo."
 date: "2026-05-01"
 author: "Dr. Dan Foss, DC"

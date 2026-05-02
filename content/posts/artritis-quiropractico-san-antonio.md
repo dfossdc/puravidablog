@@ -1,5 +1,6 @@
 ---
 title: "Quiropráctico para Artritis en San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Quiropráctico Artritis San Antonio TX"
 description: "¿Sufre de artritis o rigidez articular en San Antonio? El Dr. Dan Foss en Pura Vida Quiropráctica ofrece tratamiento natural para artritis con SOT y modalidades avanzadas."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

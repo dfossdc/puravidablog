@@ -1,5 +1,6 @@
 ---
 title: "Neuropathy Chiropractor in San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Neuropathy Chiropractor San Antonio TX"
 description: "Suffering from neuropathy in San Antonio? Dr. Dan Foss at Pura Vida Chiropractic uses SOT protocols and advanced modalities to address nerve damage and numbness naturally."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

@@ -1,5 +1,6 @@
 ---
 title: "Joint Pain Relief in San Antonio, TX | Pura Vida Chiropractic"
+metaTitle: "Joint Pain Relief in San Antonio"
 description: "Dealing with joint pain in San Antonio? Dr. Dan Foss at Pura Vida Chiropractic uses SoftWave therapy, shockwave, Class IV laser, and SOT chiropractic to relieve joint pain naturally."
 date: "2026-04-01"
 author: "Dr. Dan Foss, DC"

@@ -1,5 +1,6 @@
 ---
 title: "¿Qué es una Subluxación Vertebral? La Causa Raíz que su Médico Quizás No le Ha Explicado"
+metaTitle: "¿Qué es una Subluxación Vertebral?"
 description: "La subluxación vertebral es la causa detrás de muchos dolores crónicos y problemas de salud. El Dr. Dan Foss explica qué es, cómo se detecta, y por qué el ajuste quiropráctico puede transformar su salud."
 date: "2026-03-24"
 author: "Dr. Dan Foss"

@@ -1,5 +1,6 @@
 ---
 title: "Bloating and Gas Chiropractor in San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Bloating and Gas Chiropractor San Antonio TX"
 description: "Natural bloating and gas relief through chiropractic care. Dr. Dan Foss uses SOT and CMRT at Pura Vida Chiropractic in San Antonio."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

@@ -1,5 +1,6 @@
 ---
 title: "Estreñimiento Quiropráctico en San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Estreñimiento Quiropráctico San Antonio"
 description: "Resuelve el estreñimiento crónico con quiropráctica en San Antonio. Dr. Dan Foss usa SOT, CMRT y el Protocolo Pura Vida para salud digestiva natural."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

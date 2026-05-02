@@ -1,5 +1,6 @@
 ---
 title: "Trastorno del Procesamiento Sensorial & Quiropráctica | San Antonio TX"
+metaTitle: "Trastorno del Procesamiento Sensorial"
 description: "El TPS afecta cómo el cerebro procesa la entrada sensorial. Aprenda cómo la quiropráctica craneal mejora la función vestibular y propioceptiva a través del tono vagal."
 date: "2026-05-05"
 author: "Dr. Dan Foss, DC"

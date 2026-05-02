@@ -1,5 +1,6 @@
 ---
 title: "BPPV Chiropractor in San Antonio, TX | Dr. Dan Foss"
+metaTitle: "BPPV Chiropractor San Antonio TX"
 description: "BPPV treatment in San Antonio with Dr. Dan Foss using cranial techniques and SOT. Stop dizziness and vertigo. Call (210) 685-1994."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

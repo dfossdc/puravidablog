@@ -1,5 +1,6 @@
 ---
 title: "Your Thyroid and Your Cervical Spine: An Underrecognized Connection | San Antonio TX"
+metaTitle: "Your Thyroid and Your Cervical Spine"
 description: "27 million Americans have thyroid disorders, many undiagnosed. Dr. Dan Foss explains the anatomical and neurological link between cervical spine alignment and thyroid function."
 date: "2026-05-01"
 author: "Dr. Dan Foss, DC"

@@ -1,5 +1,6 @@
 ---
 title: "Women's Hormonal Health and CMRT | San Antonio TX"
+metaTitle: "Women's Hormonal Health and CMRT"
 description: "Period pain, infertility, and PCOS are linked to L2-L5 and sacral subluxation. CMRT restores reproductive organ nerve function and hormonal balance."
 date: "2026-05-04"
 author: "Dr. Dan Foss, DC"

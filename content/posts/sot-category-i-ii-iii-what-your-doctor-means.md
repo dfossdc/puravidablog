@@ -1,5 +1,6 @@
 ---
 title: "SOT Category I, II, and III: What Your Chiropractor Means and Why It Matters"
+metaTitle: "SOT Category I, II, and III"
 date: "2024-10-18"
 description: "When your SOT chiropractor says you're a Category II, what does that actually mean? Understanding the three SOT categories helps you understand your own body and why your treatment looks the way it does."
 tags: ["SOT", "Category I", "Category II", "Category III", "disc", "SI joint", "dura"]

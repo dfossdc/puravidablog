@@ -1,5 +1,6 @@
 ---
 title: "Dolor Ligamento Redondo en San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Dolor Ligamento Redondo en San Antonio"
 description: "Tratamiento para dolor del ligamento redondo en San Antonio. Dr. Dan Foss, DC especializado en embarazo y posparto."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

@@ -1,5 +1,6 @@
 ---
 title: "¿Qué es CMRT? La Técnica Quiropráctica de Ajuste Visceral | San Antonio TX"
+metaTitle: "¿Qué es CMRT?"
 description: "CMRT (Chiropractic Manipulative Reflex Technique) es el método especializado del Dr. Dan Foss para ajustar la función de órganos a través de la columna vertebral."
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"

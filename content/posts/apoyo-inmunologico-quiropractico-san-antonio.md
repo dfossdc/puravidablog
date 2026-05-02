@@ -1,5 +1,6 @@
 ---
 title: "Apoyo Inmunológico Quiropráctico en San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Apoyo Inmunológico Quiropráctico San Antonio"
 description: "Fortalece tu sistema inmunológico con atención quiropráctica en San Antonio. Dr. Dan Foss ofrece el Protocolo Pura Vida para mejorar defensas naturales."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

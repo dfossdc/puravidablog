@@ -1,5 +1,6 @@
 ---
 title: "Radiculopatía Quiropráctico en San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Radiculopatía Quiropráctico San Antonio"
 description: "Trata la radiculopatía (dolor de nervio) en San Antonio con SOT y CMRT. Dr. Dan Foss ofrece alivio natural sin cirugía con el Protocolo Pura Vida."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

@@ -1,5 +1,6 @@
 ---
 title: "Cómo Elegir un Quiropráctico en San Antonio, TX | Guía Completa"
+metaTitle: "Cómo Elegir Quiropráctico San Antonio"
 description: "¿Cómo elegir un buen quiropráctico? Aprende qué buscar en un doctor quiroprácktico. Guía para encontrar el mejor para ti en San Antonio."
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"

@@ -1,5 +1,6 @@
 ---
 title: "Alergias y Quiropráctica | Tratamiento en San Antonio, TX"
+metaTitle: "Alergias y Quiropráctica"
 description: "Reduce síntomas de alergias con quiropráctica. Dr. Dan Foss, CMRT, SOT avanzado en Pura Vida."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

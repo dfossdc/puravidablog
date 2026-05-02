@@ -1,5 +1,6 @@
 ---
 title: "Quiropráctica Para la Comunidad Latina de San Antonio: Atención en Español que Entiende Su Cultura"
+metaTitle: "Quiropráctica Para la Comunidad Latina de San"
 description: "Pura Vida Chiropractic en San Antonio ofrece atención quiropráctica completamente en español para la comunidad latina. El Dr. Dan Foss habla español con fluidez y comprende las necesidades únicas de sus pacientes hispanos."
 date: "2026-03-22"
 author: "Dr. Dan Foss"

@@ -1,5 +1,6 @@
 ---
 title: "Posición Fetal Óptima: Cómo Funcionan Juntas Spinning Babies y SOT | San Antonio TX"
+metaTitle: "Posición Fetal Óptima"
 description: "Aprenda cómo los movimientos de Spinning Babies y la quiropráctica SOT se complementan entre sí para optimizar el posicionamiento fetal y reducir complicaciones del parto. El Dr. Dan Foss explica la ciencia y la práctica."
 date: "2026-05-01"
 author: "Dr. Dan Foss, DC"

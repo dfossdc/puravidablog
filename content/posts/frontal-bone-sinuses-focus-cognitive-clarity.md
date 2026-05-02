@@ -1,5 +1,6 @@
 ---
 title: "The Frontal Bone: Sinus Drainage, Mental Focus, and the Forehead Nobody Thinks About"
+metaTitle: "The Frontal Bone: Sinus Drainage"
 date: "2024-09-06"
 description: "The frontal bone covers your prefrontal cortex — the part of your brain responsible for focus, decisions, and emotional regulation. When the frontal bone is restricted, sinus drainage, concentration, and even behavior can be affected."
 tags: ["cranial adjusting", "frontal bone", "sinuses", "cognitive function", "ADHD", "focus", "children"]

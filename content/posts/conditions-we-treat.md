@@ -1,5 +1,6 @@
 ---
 title: "Conditions We Treat — Beyond Back Pain | Pura Vida Chiropractic San Antonio"
+metaTitle: "Conditions We Treat"
 date: "2024-03-01"
 description: "Pura Vida Chiropractic treats far more than back pain. Explore the full range of conditions addressed through SOT, CMRT organ adjusting, and SOT Craniopathy — organized by system."
 tags: ["conditions", "CMRT", "SOT", "craniopathy", "San Antonio", "whole body", "organs", "cranial"]

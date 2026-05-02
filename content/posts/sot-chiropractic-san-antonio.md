@@ -1,5 +1,6 @@
 ---
 title: "SOT Chiropractic in San Antonio — Sacro Occipital Technique at Pura Vida"
+metaTitle: "SOT Chiropractic in San Antonio"
 date: "2024-03-01"
 description: "Pura Vida Chiropractic offers Sacro Occipital Technique (SOT) in San Antonio, TX — the only Advanced SOT certified practice in the city. Learn how SOT addresses the spine, pelvis, cranium, and organs as one complete system."
 tags: ["SOT", "sacro occipital technique", "San Antonio", "chiropractic", "craniopathy", "CMRT", "pelvic blocks"]

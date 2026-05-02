@@ -1,5 +1,6 @@
 ---
 title: "The Kidney Protocol in CMRT: When Lower Back Pain Isn't Just Muscular"
+metaTitle: "The Kidney Protocol in CMRT"
 date: "2024-06-14"
 description: "Not all lower back pain is muscular or disc-related. The kidneys sit in the T10-L2 zone and chronic kidney stress can drive persistent low back pain, fluid retention, and blood pressure issues."
 tags: ["CMRT", "kidneys", "lower back pain", "T10-L2", "fluid retention"]

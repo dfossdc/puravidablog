@@ -1,5 +1,6 @@
 ---
 title: "CMRT and Female Reproductive Health: Periods, Fertility, and Menopause"
+metaTitle: "CMRT and Female Reproductive Health"
 date: "2024-06-28"
 description: "The sacral nerve plexus controls the uterus, ovaries, and reproductive organs. When sacral alignment is off, reproductive dysfunction follows. Here's the CMRT approach to women's health."
 tags: ["CMRT", "reproductive health", "fertility", "menopause", "PMS", "uterus", "ovaries", "sacral"]

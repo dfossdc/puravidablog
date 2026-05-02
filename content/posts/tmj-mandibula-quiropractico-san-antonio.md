@@ -1,5 +1,6 @@
 ---
 title: "Quiropráctico para ATM (Mandíbula) en San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Quiropráctico ATM (Mandíbula) San Antonio TX"
 description: "¿Sufre de problemas de mandíbula o ATM en San Antonio? El Dr. Dan Foss usa ajustes craneales y SOT para tratar la disfunción temporomandibular naturalmente."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

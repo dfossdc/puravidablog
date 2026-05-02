@@ -1,5 +1,6 @@
 ---
 title: "Bruxismo (Rechinar de Dientes) | Quiropráctica en San Antonio"
+metaTitle: "Bruxismo (Rechinar de Dientes)"
 description: "Trata bruxismo con Dr. Dan Foss. Ajustes craneales, SOT avanzado en Pura Vida Chiropractic."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

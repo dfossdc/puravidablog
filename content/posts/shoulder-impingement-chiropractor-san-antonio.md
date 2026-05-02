@@ -1,5 +1,6 @@
 ---
 title: "Shoulder Impingement Chiropractor in San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Shoulder Chiropractor San Antonio TX"
 description: "Shoulder impingement treatment at Pura Vida Chiropractic. Dr. Dan Foss uses SOT and advanced techniques for shoulder pain relief in San Antonio."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

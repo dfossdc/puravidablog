@@ -1,5 +1,6 @@
 ---
 title: "Chronic Ear Infections in Children: Chiropractic Cranial Approach | San Antonio TX"
+metaTitle: "Chronic Ear Infections in Children"
 description: "Why do kids get recurring ear infections? Learn how chiropractic cranial care and SOT address Eustachian tube dysfunction and vagal tone for lasting relief."
 date: "2026-05-03"
 author: "Dr. Dan Foss, DC"

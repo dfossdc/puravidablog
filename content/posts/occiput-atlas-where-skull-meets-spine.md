@@ -1,5 +1,6 @@
 ---
 title: "The Occiput and Atlas: Where Your Skull Meets Your Spine"
+metaTitle: "The Occiput and Atlas"
 date: "2024-08-09"
 description: "The atlanto-occipital joint — where the base of your skull meets C1 — is one of the most neurologically significant joints in the body. It cannot be fully corrected without addressing both the cranium and the upper cervical spine together."
 tags: ["cranial adjusting", "occiput", "atlas", "C1", "atlanto-occipital", "dural tube", "vagus nerve"]

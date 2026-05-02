@@ -1,5 +1,6 @@
 ---
 title: "The Cranial Rhythmic Impulse: What It Is and Why It Matters for Your Health"
+metaTitle: "The Cranial Rhythmic Impulse"
 date: "2024-09-27"
 description: "The cranial rhythmic impulse — a subtle 6-12 cycles per minute rhythm felt throughout the body — is the foundation of cranial osteopathy and chiropractic craniopathy. Here's what it tells us about your nervous system health."
 tags: ["cranial rhythmic impulse", "CRI", "CSF", "craniopathy", "Sutherland", "primary respiratory mechanism"]

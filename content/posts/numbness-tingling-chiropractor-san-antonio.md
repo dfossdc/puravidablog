@@ -1,5 +1,6 @@
 ---
 title: "Numbness and Tingling Chiropractor in San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Numbness Chiropractor San Antonio TX"
 description: "Dr. Dan Foss treats numbness, tingling, and neuropathy in San Antonio using SOT protocols and nerve decompression for lasting relief."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

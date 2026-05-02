@@ -1,5 +1,6 @@
 ---
 title: "Enfermedad Degenerativa del Disco en San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Enfermedad Degenerativa del Disco en San"
 description: "Tratamiento para enfermedad degenerativa del disco en San Antonio. Dr. Dan Foss, DC ofrece tratamiento SOT avanzado sin cirugía."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

@@ -1,5 +1,6 @@
 ---
 title: "Whiplash Chiropractor in San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Whiplash Chiropractor San Antonio TX"
 description: "Whiplash injury treatment in San Antonio by Dr. Dan Foss using SOT and CMRT. Fast relief from neck pain. Call (210) 685-1994."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

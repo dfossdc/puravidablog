@@ -1,5 +1,6 @@
 ---
 title: "Sciatica Relief in San Antonio: What's Causing Your Leg Pain and What to Do About It"
+metaTitle: "Sciatica Relief in San Antonio"
 image: "/images/conditions/sciatica.jpg"
 date: "2026-04-02"
 lang: "en"

@@ -1,5 +1,6 @@
 ---
 title: "Auto Injury Chiropractor Alamo Heights | San Antonio TX"
+metaTitle: "Auto Injury Chiropractor Alamo Heights"
 description: "Car accident injury treatment for Alamo Heights. Dr. Dan Foss treats whiplash, soft tissue damage, and hidden injuries. Insurance friendly. 10 minutes away."
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"

@@ -1,5 +1,6 @@
 ---
 title: "Post-Concussion Chiropractor in San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Post-Concussion Chiropractor San Antonio TX"
 description: "Post-concussion syndrome treatment in San Antonio by Dr. Dan Foss using SOT and cranial care. Recover from concussion symptoms. (210) 685-1994."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

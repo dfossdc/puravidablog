@@ -1,5 +1,6 @@
 ---
 title: "Pediatric Chiropractor Leon Valley | San Antonio TX"
+metaTitle: "Pediatric Chiropractor Leon Valley"
 description: "Pediatric chiropractic care for Leon Valley children. Dr. Foss treats colic, ear infections, developmental support, and more. Gentle, family-friendly. Free consultation."
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"

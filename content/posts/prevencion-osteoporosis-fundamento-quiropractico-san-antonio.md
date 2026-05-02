@@ -1,5 +1,6 @@
 ---
 title: "Prevención de Osteoporosis: El Fundamento Quiropráctico | San Antonio TX"
+metaTitle: "Prevención de Osteoporosis"
 description: "La osteoporosis afecta a 1 de cada 2 mujeres y 1 de cada 8 hombres mayores de 50. El Dr. Dan Foss explica cómo la atención quiropráctica y la alineación postural apoyan la salud ósea a largo plazo."
 date: "2026-05-01"
 author: "Dr. Dan Foss, DC"

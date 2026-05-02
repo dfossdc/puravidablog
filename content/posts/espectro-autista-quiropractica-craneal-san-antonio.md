@@ -1,5 +1,6 @@
 ---
 title: "Espectro Autista & Quiropráctica: Una Perspectiva Craneal | San Antonio TX"
+metaTitle: "Espectro Autista & Quiropráctica"
 description: "Integración sensorial, regulación vagal y restricción dural en el autismo. Aprenda qué la quiropráctica craneal puede y no puede hacer — expectativas realistas para niños neurodiversos."
 date: "2026-05-04"
 author: "Dr. Dan Foss, DC"

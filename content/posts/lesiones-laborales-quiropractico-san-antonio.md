@@ -1,5 +1,6 @@
 ---
 title: "Lesiones Laborales Quiropráctico en San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Lesiones Laborales Quiropráctico San Antonio"
 description: "Trata lesiones de trabajo en San Antonio con quiropráctica. Dr. Dan Foss usa SOT y CMRT para recuperación completa de lesiones laborales."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

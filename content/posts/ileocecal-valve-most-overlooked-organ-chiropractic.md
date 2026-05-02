@@ -1,5 +1,6 @@
 ---
 title: "The Ileocecal Valve: The Most Overlooked Structure in Chiropractic Care"
+metaTitle: "The Ileocecal Valve"
 date: "2024-05-31"
 description: "The ileocecal valve controls the flow between your small and large intestine — and when it malfunctions, it causes a cascade of symptoms that can mimic appendicitis, constipation, hip pain, and chronic toxicity."
 tags: ["CMRT", "ileocecal valve", "ICV", "constipation", "toxicity", "right hip pain"]

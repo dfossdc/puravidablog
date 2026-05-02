@@ -1,5 +1,6 @@
 ---
 title: "Why So Many Kids Get Headaches — And What We Do About It | San Antonio TX"
+metaTitle: "Why So Many Kids Get Headaches"
 description: "Over 60% of children experience headaches, and pediatric migraines have tripled in decades. Dr. Dan Foss explains how SOT Craniopathy and chiropractic care address the root causes of children's headaches instead of masking symptoms."
 date: "2026-05-01"
 author: "Dr. Dan Foss, DC"

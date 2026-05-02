@@ -1,5 +1,6 @@
 ---
 title: "Recuperación Posparto: Qué Significa Realmente Recuperarse | San Antonio TX"
+metaTitle: "Recuperación Posparto"
 description: "La recuperación posparto es un proceso de 12 a 18 meses, no de 6 semanas. El Dr. Dan Foss explica los cambios físicos, hormonales y emocionales después del parto—y por qué el cuidado quiropráctico suave importa para su sanación."
 date: "2026-05-01"
 author: "Dr. Dan Foss, DC"

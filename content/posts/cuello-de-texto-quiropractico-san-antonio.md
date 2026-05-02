@@ -1,5 +1,6 @@
 ---
 title: "Cuello de Texto (Text Neck) | Quiropráctica en San Antonio"
+metaTitle: "Cuello de Texto (Text Neck)"
 description: "Soluciones para cuello de texto causado por smartphones. Dr. Dan Foss en Pura Vida Chiropractic usa SOT y protocolo integral."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

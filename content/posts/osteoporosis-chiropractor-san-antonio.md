@@ -1,5 +1,6 @@
 ---
 title: "Osteoporosis Chiropractor in San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Osteoporosis Chiropractor San Antonio TX"
 description: "Dr. Dan Foss provides specialized chiropractic care for osteoporosis patients in San Antonio using gentle SOT protocols and bone-health support."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

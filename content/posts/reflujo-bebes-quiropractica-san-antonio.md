@@ -1,5 +1,6 @@
 ---
 title: "Reflujo en Bebés y Quiropráctica: Alternativa a Medicamentos"
+metaTitle: "Reflujo en Bebés y Quiropráctica"
 description: "Reflujo en bebés tratado con quiropráctica SOT y CMRT. Evite medicamentos de por vida. Dr. Dan Foss, San Antonio TX."
 date: "2026-05-07"
 author: "Dr. Dan Foss, DC"

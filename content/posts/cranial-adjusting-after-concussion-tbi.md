@@ -1,5 +1,6 @@
 ---
 title: "Cranial Adjusting After Concussion and Traumatic Brain Injury: What Nobody Told You"
+metaTitle: "Cranial Adjusting After Concussion"
 date: "2024-09-13"
 description: "After a concussion, the brain is evaluated — but the cranial bones that house it rarely are. Displaced cranial bones impair CSF flow and can keep someone in post-concussion syndrome for months or years."
 tags: ["cranial adjusting", "concussion", "TBI", "traumatic brain injury", "post-concussion syndrome", "CSF"]

@@ -1,5 +1,6 @@
 ---
 title: "How Does Chiropractic Help With Kids With Chronic Ear Infections?"
+metaTitle: "How Does Chiropractic Help With Kids"
 description: "According to the National Institute of Health (NIH) over 80 percent of children will have an ear infection before the age of three. Ear infections are one of the most common aliments in kids. As proac"
 date: "2023-05-03"
 author: "Dr. Dan Foss, DC"

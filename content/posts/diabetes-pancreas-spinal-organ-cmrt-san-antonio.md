@@ -1,5 +1,6 @@
 ---
 title: "Diabetes, the Pancreas, and the Spinal-Organ Connection | San Antonio TX"
+metaTitle: "Diabetes, the Pancreas, and the Spinal-Organ"
 description: "Dr. Dan Foss explains how the thoracic spine affects pancreatic function. CMRT chiropractic addresses the nervous-system root of type 2 diabetes and blood-sugar dysregulation in San Antonio."
 date: "2026-05-01"
 author: "Dr. Dan Foss, DC"

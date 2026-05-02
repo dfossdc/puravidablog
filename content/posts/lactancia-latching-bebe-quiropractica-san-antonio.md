@@ -1,5 +1,6 @@
 ---
 title: "Problemas de Latching y Lactancia: Quiropráctica para Mamás y Bebés"
+metaTitle: "Problemas de Latching y Lactancia"
 description: "Problemas de lactancia y latching tratados con quiropráctica SOT. Evite el destete temprano. Dr. Dan Foss, San Antonio TX."
 date: "2026-05-09"
 author: "Dr. Dan Foss, DC"

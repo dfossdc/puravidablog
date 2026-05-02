@@ -1,5 +1,6 @@
 ---
 title: "Nervio Comprimido Quiropráctico en San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Nervio Comprimido Quiropráctico San Antonio"
 description: "Tratamiento de nervio comprimido en San Antonio. Dr. Dan Foss utiliza SOT y el Protocolo Pura Vida para alivio del dolor rápido."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

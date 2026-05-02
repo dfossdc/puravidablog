@@ -1,5 +1,6 @@
 ---
 title: "Sensory Processing Disorder & Chiropractic Care | San Antonio TX"
+metaTitle: "Sensory Processing Disorder & Chiropractic Care"
 description: "SPD affects how the brain processes sensory input. Learn how chiropractic cranial care improves vestibular and proprioceptive function through vagal tone and brainstem optimization."
 date: "2026-05-05"
 author: "Dr. Dan Foss, DC"

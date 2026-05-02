@@ -1,5 +1,6 @@
 ---
 title: "Headache & Migraine Chiropractor Universal City | San Antonio TX"
+metaTitle: "Headache & Migraine Chiropractor Universal City"
 description: "Migraine and headache relief for Universal City. Dr. Foss specializes in cervical spine and cranial adjusting for lasting relief. No drugs. Free consultation available."
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"

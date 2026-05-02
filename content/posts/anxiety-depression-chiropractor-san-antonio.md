@@ -1,5 +1,6 @@
 ---
 title: "Anxiety and Depression Chiropractor in San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Anxiety Chiropractor San Antonio TX"
 description: "Dr. Dan Foss treats anxiety and depression in San Antonio using SOT protocols and the Pura Vida Protocol to optimize nervous system function."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

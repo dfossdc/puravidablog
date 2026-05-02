@@ -1,5 +1,6 @@
 ---
 title: "Infant Colic Chiropractor in San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Infant Colic Chiropractor San Antonio TX"
 description: "Is your baby suffering from colic in San Antonio? Dr. Dan Foss at Pura Vida Chiropractic uses gentle pediatric chiropractic techniques to help colicky babies find relief."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

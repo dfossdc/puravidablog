@@ -1,5 +1,6 @@
 ---
 title: "Pediatric Chiropractor Castle Hills | San Antonio TX"
+metaTitle: "Pediatric Chiropractor Castle Hills"
 description: "Gentle pediatric chiropractic for Castle Hills children. Dr. Dan Foss specializes in colic, ear infections, and infant development. Just 5 minutes from Castle Hills."
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"

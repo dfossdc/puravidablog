@@ -1,5 +1,6 @@
 ---
 title: "Why Your Low Back Pain and Your Jaw Problem Might Be the Same Problem"
+metaTitle: "Why Your Low Back Pain and Your Jaw Problem"
 date: "2024-03-15"
 description: "The innominate (hip) bone has a direct anatomical relationship with the temporal bone of the skull — which means low back pain and TMJ problems are often two expressions of the same underlying issue."
 tags: ["SOT", "TMJ", "low back pain", "innominate", "temporal bone", "hip", "jaw", "connected", "sacroiliac"]

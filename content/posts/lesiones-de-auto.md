@@ -1,5 +1,6 @@
 ---
 title: "Quiropráctico para Lesiones de Auto en San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Quiropráctico Lesiones de Auto San Antonio TX"
 description: "¿Lesionado en un accidente de auto en San Antonio? El Dr. Dan Foss en Pura Vida Quiropráctica se especializa en el cuidado de lesiones de auto — latigazo cervical, dolor de espalda y más."
 date: "2026-03-31"
 author: "Dr. Dan Foss, DC"

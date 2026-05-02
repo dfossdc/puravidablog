@@ -1,5 +1,6 @@
 ---
 title: "The Sphenoid Bone: The Master Bone of Your Skull and Why It Matters"
+metaTitle: "The Sphenoid Bone: The Master Bone of Your"
 date: "2024-07-19"
 description: "The sphenoid bone sits at the center of the skull and articulates with every other cranial bone. When it's restricted, the effects ripple through your entire nervous system — including your hormones."
 tags: ["cranial adjusting", "sphenoid", "craniopathy", "SOT", "pituitary", "vision", "sinuses"]

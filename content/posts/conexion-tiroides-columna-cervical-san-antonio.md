@@ -1,5 +1,6 @@
 ---
 title: "Su Tiroides y Su Columna Cervical: Una Conexión Poco Reconocida | San Antonio TX"
+metaTitle: "Su Tiroides y Su Columna Cervical"
 description: "27 millones de estadounidenses tienen trastornos tiroideos, muchos sin diagnosticar. El Dr. Dan Foss explica el vínculo anatómico y neurológico entre la alineación de la columna cervical y la función tiroidea."
 date: "2026-05-01"
 author: "Dr. Dan Foss, DC"

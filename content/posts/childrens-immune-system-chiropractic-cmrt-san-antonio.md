@@ -1,5 +1,6 @@
 ---
 title: "Building a Resilient Immune System: A Chiropractic Approach for Kids | San Antonio TX"
+metaTitle: "Building a Resilient Immune System"
 description: "Chronic illness in children is at historic highs. Dr. Dan Foss explains how SOT and CMRT chiropractic care build immune resilience by restoring autonomic nervous system balance — the foundation of immune health."
 date: "2026-05-01"
 author: "Dr. Dan Foss, DC"

@@ -1,5 +1,6 @@
 ---
 title: "The Secrets of Sacro Occipital Technique: What Most Chiropractors Don't Know"
+metaTitle: "The Secrets of Sacro Occipital Technique"
 date: "2024-03-08"
 description: "SOT is one of the most comprehensive chiropractic systems ever developed — and one of the least understood. Here are the things most chiropractors don't know, and what they mean for your health."
 tags: ["SOT", "sacro occipital technique", "secrets", "craniopathy", "CMRT", "organs", "chiropractic"]

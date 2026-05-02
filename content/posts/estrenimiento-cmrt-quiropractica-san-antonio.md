@@ -1,5 +1,6 @@
 ---
 title: "Estreñimiento y CMRT: Alivio Quiropráctica | San Antonio TX"
+metaTitle: "Estreñimiento y CMRT: Alivio Quiropráctica"
 description: "El estreñimiento está vinculado a subluxación L1-L5 y sacra que afecta la función del colon y la válvula ileocecal. CMRT restaura la motilidad intestinal naturalmente."
 date: "2026-05-04"
 author: "Dr. Dan Foss, DC"

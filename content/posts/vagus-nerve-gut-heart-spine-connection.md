@@ -1,5 +1,6 @@
 ---
 title: "The Vagus Nerve: Why Your Gut, Heart, and Spine Are All Connected"
+metaTitle: "The Vagus Nerve: Why Your Gut"
 date: "2024-07-05"
 description: "The vagus nerve is the longest cranial nerve in the body — and it connects your brain to nearly every major organ. Understanding it changes how you think about health, healing, and chiropractic."
 tags: ["vagus nerve", "CMRT", "cranial nerve X", "parasympathetic", "gut-brain axis", "heart rate"]

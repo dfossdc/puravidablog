@@ -1,5 +1,6 @@
 ---
 title: "Constipation and CMRT: Chiropractic Relief | San Antonio TX"
+metaTitle: "Constipation and CMRT: Chiropractic Relief"
 description: "Constipation is linked to L1-L5 and sacral subluxation affecting colon and ileocecal valve function. CMRT restores bowel motility naturally."
 date: "2026-05-04"
 author: "Dr. Dan Foss, DC"

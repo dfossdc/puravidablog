@@ -1,5 +1,6 @@
 ---
 title: "The Man Behind SOT: Dr. M.B. DeJarnette and the Story That Changed Chiropractic Forever"
+metaTitle: "The Man Behind SOT"
 date: "2024-02-15"
 description: "Dr. Major Bertrand DeJarnette was a chiropractor, osteopath, and relentless researcher who spent 60 years developing the most comprehensive whole-body chiropractic system ever created."
 tags: ["DeJarnette", "SOT history", "sacro occipital technique", "chiropractic history", "CMRT", "craniopathy", "Major Bertrand DeJarnette"]

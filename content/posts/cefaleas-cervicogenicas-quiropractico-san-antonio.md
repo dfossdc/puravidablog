@@ -1,5 +1,6 @@
 ---
 title: "Cefaleas Cervicogénicas | Quiropráctica en San Antonio, TX"
+metaTitle: "Cefaleas Cervicogénicas"
 description: "Cura cefaleas cervicogénicas con Dr. Dan Foss. SOT avanzado, ajustes craneales y terapia láser en Pura Vida Chiropractic."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

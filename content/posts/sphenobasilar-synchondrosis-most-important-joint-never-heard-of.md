@@ -1,5 +1,6 @@
 ---
 title: "The Sphenobasilar Synchondrosis: The Most Important Joint You've Never Heard Of"
+metaTitle: "The Sphenobasilar Synchondrosis"
 date: "2024-07-26"
 description: "The sphenobasilar synchondrosis is the junction between the sphenoid and occiput at the base of the skull. Its position and motion patterns govern the function of the entire cranium — and body."
 tags: ["cranial adjusting", "SBS", "sphenobasilar", "craniopathy", "SOT", "flexion extension"]

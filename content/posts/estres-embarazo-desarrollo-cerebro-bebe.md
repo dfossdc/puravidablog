@@ -1,5 +1,6 @@
 ---
 title: "Cómo el Estrés Durante el Embarazo Afecta el Cerebro de su Bebé | Quiropráctico San Antonio"
+metaTitle: "Cómo el Estrés Durante el Embarazo Afecta"
 description: "El estrés prenatal moldea el neurodesarrollo fetal. El Dr. Dan Foss explica la ciencia del cortisol materno, el eje HPA y estrategias prácticas para apoyar su sistema nervioso durante el embarazo."
 date: "2026-05-01"
 author: "Dr. Dan Foss, DC"

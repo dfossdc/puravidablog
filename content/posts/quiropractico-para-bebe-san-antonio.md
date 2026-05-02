@@ -1,5 +1,6 @@
 ---
 title: "Quiropráctico Para Bebés en San Antonio, TX | Pura Vida Chiropractic"
+metaTitle: "Quiropráctico Bebés San Antonio TX"
 description: "¿Tu bebé tiene cólicos o problemas de lactancia? El Dr. Dan Foss especialista pediátrico ofrece quiropráctica segura para recién nacidos. Consulta gratis. (210) 685-1994"
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"

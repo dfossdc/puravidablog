@@ -1,5 +1,6 @@
 ---
 title: "Reflujo de Bebé y CMRT: Cuidado Quiropráctica Suave | San Antonio TX"
+metaTitle: "Reflujo de Bebé y CMRT"
 description: "El reflujo infantil está vinculado a subluxación occipital y cervical superior que afecta el nervio vago. CMRT proporciona alivio suave y seguro sin medicamentos."
 date: "2026-05-05"
 author: "Dr. Dan Foss, DC"

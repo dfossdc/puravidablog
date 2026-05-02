@@ -1,5 +1,6 @@
 ---
 title: "Asthma Research You Haven't Heard: The Spinal-Lung Connection | San Antonio Chiropractor"
+metaTitle: "Asthma Research You Haven't Heard"
 description: "Asthma affects millions of children and adults. Dr. Dan Foss explains how the spine and autonomic nervous system influence bronchial function—and why SOT and CMRT can complement your asthma care plan."
 date: "2026-05-01"
 author: "Dr. Dan Foss, DC"

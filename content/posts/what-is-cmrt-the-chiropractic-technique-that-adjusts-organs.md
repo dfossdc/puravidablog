@@ -1,5 +1,6 @@
 ---
 title: "What Is CMRT? The Chiropractic Technique That Adjusts Organs"
+metaTitle: "What Is CMRT?"
 date: "2024-03-22"
 description: "CMRT — Chiropractic Manipulative Reflex Technique — is an advanced SOT method that works directly with your organs. Here's what it is, who developed it, and what conditions it can help."
 tags: ["CMRT", "SOT", "organs", "DeJarnette", "chiropractic"]

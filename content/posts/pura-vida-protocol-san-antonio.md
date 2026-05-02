@@ -1,5 +1,6 @@
 ---
 title: "The Pura Vida Protocol: A Root-Cause Approach to Chiropractic in San Antonio"
+metaTitle: "The Pura Vida Protocol"
 image: "/images/conditions/postural-correction.webp"
 date: "2026-04-02"
 lang: "en"

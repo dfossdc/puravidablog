@@ -1,5 +1,6 @@
 ---
 title: "Quiropractico Pediatrico Military Drive | San Antonio TX"
+metaTitle: "Quiropractico Pediatrico Military Drive"
 description: "Quiropractica pediátrica directamente en Military Drive en Pura Vida. Dr. Dan Foss se especializa en cuidado infantil desde su ubicación exacta. Consulta gratis."
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"

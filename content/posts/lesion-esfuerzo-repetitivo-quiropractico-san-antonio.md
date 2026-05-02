@@ -1,5 +1,6 @@
 ---
 title: "Lesión por Esfuerzo Repetitivo | Quiropráctica en San Antonio, TX"
+metaTitle: "Lesión por Esfuerzo Repetitivo"
 description: "Trata lesiones por esfuerzo repetitivo con el Dr. Dan Foss en Pura Vida Chiropractic. SOT avanzado, CMRT y protocolo integral para alivio."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

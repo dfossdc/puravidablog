@@ -1,5 +1,6 @@
 ---
 title: "Bruxism Chiropractor in San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Bruxism Chiropractor San Antonio TX"
 description: "Dr. Dan Foss treats bruxism and teeth grinding in San Antonio using SOT, cranial adjustments, and the Pura Vida Protocol for lasting relief."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

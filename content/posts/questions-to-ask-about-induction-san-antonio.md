@@ -1,5 +1,6 @@
 ---
 title: "Questions to Ask About Induction: An Informed Conversation With Your Birth Team | San Antonio TX"
+metaTitle: "Questions to Ask About Induction"
 description: "Labor induction is a common medical intervention. Dr. Dan Foss helps you understand your options and prepare informed questions to ask your OB or midwife about induction."
 date: "2026-05-01"
 author: "Dr. Dan Foss, DC"

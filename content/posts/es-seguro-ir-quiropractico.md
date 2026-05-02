@@ -1,5 +1,6 @@
 ---
 title: "¿Es Seguro Ir al Quiropráctico? Respuesta Completa | Pura Vida Chiropractic"
+metaTitle: "¿Es Seguro Ir al Quiropráctico?"
 description: "¿Es segura la quiropráctica? Conoce los riesgos, beneficios, y qué esperar. Información médica basada en evidencia sobre seguridad quiropráctica."
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"

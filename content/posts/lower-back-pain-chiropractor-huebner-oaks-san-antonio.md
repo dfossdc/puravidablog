@@ -1,5 +1,6 @@
 ---
 title: "Lower Back Pain Chiropractor Huebner Oaks | San Antonio TX"
+metaTitle: "Lower Back Pain Chiropractor Huebner Oaks"
 description: "Lower back pain treatment for Huebner Oaks professionals and families. Dr. Foss specializes in disc pain, sciatica, and posture-related back issues. 10 minutes away."
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"

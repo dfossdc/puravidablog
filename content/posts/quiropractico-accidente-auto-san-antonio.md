@@ -1,5 +1,6 @@
 ---
 title: "Quiropráctico Para Accidente de Auto en San Antonio, TX | Pura Vida Chiropractic"
+metaTitle: "Quiropráctico Accidente de Auto San Antonio TX"
 description: "Lesionado en accidente auto en San Antonio? El Dr. Dan Foss trata lesiones de latigazo cervical y dolor. Seguro de responsabilidad cubre. Consulta gratis. (210) 685-1994"
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"

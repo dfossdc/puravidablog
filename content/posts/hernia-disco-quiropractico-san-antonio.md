@@ -1,5 +1,6 @@
 ---
 title: "Quiropráctico para Hernia de Disco en San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Quiropráctico Hernia de Disco San Antonio TX"
 description: "¿Diagnosticado con hernia de disco en San Antonio? El Dr. Dan Foss en Pura Vida Quiropráctica ofrece un enfoque conservador y sin cirugía que restaura la función y alivia el dolor."
 date: "2026-04-01"
 author: "Dr. Dan Foss, DC"

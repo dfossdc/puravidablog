@@ -1,5 +1,6 @@
 ---
 title: "Ansiedad y Depresión | Quiropráctica en San Antonio, TX"
+metaTitle: "Ansiedad y Depresión Quiropráctico San Antonio"
 description: "Trata ansiedad y depresión con quiropráctica integral. Dr. Dan Foss, SOT avanzado en Pura Vida."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

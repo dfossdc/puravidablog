@@ -14,6 +14,14 @@ export interface PostMention {
 
 export interface PostFrontmatter {
   title: string;
+  /**
+   * Optional override used ONLY for the HTML <title> tag and og:title. When
+   * present, takes precedence over `title` for SEO meta. The visible H1 on
+   * the page still uses `title`. Use this when the natural editorial title
+   * is too long for Google's ~60-char title-tag display budget — write a
+   * tight, keyword-front version here and leave the long evocative H1 alone.
+   */
+  metaTitle?: string;
   description: string;
   date: string;
   author: string;
@@ -161,6 +169,7 @@ export function fetchPosts(lang: string): PostFrontmatter[] {
       const { data } = matter(fs.readFileSync(fullPath, "utf8"));
       return {
         title: data.title || "",
+        metaTitle: data.metaTitle || undefined,
         description: data.description || "",
         date: data.date || "",
         author: data.author || "Dr. Dan Foss, DC",
@@ -195,6 +204,7 @@ export async function fetchPostBySlug(slug: string, lang: string): Promise<Post 
 
   return {
     title: data.title || "",
+    metaTitle: data.metaTitle || undefined,
     description: data.description || "",
     date: data.date || "",
     author: data.author || "Dr. Dan Foss, DC",
@@ -207,6 +217,7 @@ export async function fetchPostBySlug(slug: string, lang: string): Promise<Post 
     faqs,
     headings,
     mentions: Array.isArray(data.mentions) ? data.mentions : undefined,
+    translatedSlug: typeof data.translatedSlug === "string" ? data.translatedSlug : undefined,
   };
 }
 

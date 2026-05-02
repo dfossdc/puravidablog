@@ -1,5 +1,6 @@
 ---
 title: "Guía de Ejercicio en el Embarazo: Movimiento Seguro Trimestre por Trimestre | San Antonio TX"
+metaTitle: "Guía de Ejercicio en el Embarazo"
 description: "Una guía práctica para el ejercicio seguro y efectivo durante cada trimestre del embarazo. Aprenda qué movimientos apoyan su cuerpo, cuándo modificar, y cómo la quiropráctica amplifica su rutina de fitness."
 date: "2026-05-01"
 author: "Dr. Dan Foss, DC"

@@ -1,5 +1,6 @@
 ---
 title: "Costochondritis Chiropractor in San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Costochondritis Chiropractor San Antonio TX"
 description: "Dr. Dan Foss treats costochondritis and rib pain in San Antonio using SOT protocols and Class IV laser therapy for rapid relief."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

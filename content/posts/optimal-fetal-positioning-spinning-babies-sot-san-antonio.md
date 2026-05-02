@@ -1,5 +1,6 @@
 ---
 title: "Optimal Fetal Positioning: How Spinning Babies and SOT Work Together | San Antonio TX"
+metaTitle: "Optimal Fetal Positioning"
 description: "Learn how Spinning Babies movements and SOT chiropractic complement each other to optimize fetal positioning and reduce labor complications. Dr. Dan Foss explains the science and practice."
 date: "2026-05-01"
 author: "Dr. Dan Foss, DC"

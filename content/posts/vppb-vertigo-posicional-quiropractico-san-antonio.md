@@ -1,5 +1,6 @@
 ---
 title: "BPPV Vértigo Posicional Quiropráctico en San Antonio, TX | Dr. Dan Foss"
+metaTitle: "BPPV Vértigo Posicional Quiropráctico en San"
 description: "Tratamiento BPPV y vértigo posicional en San Antonio. Dr. Dan Foss, DC ofrece soluciones efectivas para el vértigo."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

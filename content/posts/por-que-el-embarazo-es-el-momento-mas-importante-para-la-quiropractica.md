@@ -1,5 +1,6 @@
 ---
 title: "Por Qué el Embarazo Es el Momento #1 para la Quiropráctica | San Antonio TX"
+metaTitle: "Por Qué el Embarazo Es el Momento #1"
 description: "El embarazo impone exigencias únicas en su columna y pelvis. El Dr. Dan Foss explica por qué la atención quiropráctica durante el embarazo puede aliviar el dolor, apoyar un parto más fácil y proteger la posición de su bebé."
 date: "2026-05-01"
 author: "Dr. Dan Foss, DC"

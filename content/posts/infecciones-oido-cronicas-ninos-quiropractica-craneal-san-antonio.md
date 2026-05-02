@@ -1,5 +1,6 @@
 ---
 title: "Infecciones Crónicas de Oído en Niños: Enfoque Quiropráctico Craneal | San Antonio TX"
+metaTitle: "Infecciones Crónicas de Oído en Niños"
 description: "¿Por qué los niños contraen infecciones recurrentes de oído? Aprenda cómo la quiropráctica craneal y SOT abordan la disfunción de la trompa de Eustaquio y el tono vagal."
 date: "2026-05-03"
 author: "Dr. Dan Foss, DC"

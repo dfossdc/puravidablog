@@ -1,5 +1,6 @@
 ---
 title: "Balance Disorders Chiropractor in San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Balance Disorders Chiropractor San Antonio TX"
 description: "Dr. Dan Foss treats balance disorders and vertigo in San Antonio using SOT cranial techniques and proprioceptive correction for lasting relief."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

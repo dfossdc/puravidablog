@@ -1,5 +1,6 @@
 ---
 title: "Constipation Chiropractor in San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Constipation Chiropractor San Antonio TX"
 description: "Natural constipation relief with chiropractic care at Pura Vida. Dr. Dan Foss uses SOT, CMRT, and the Pura Vida Protocol in San Antonio."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

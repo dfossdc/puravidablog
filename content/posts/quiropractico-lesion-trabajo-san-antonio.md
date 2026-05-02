@@ -1,5 +1,6 @@
 ---
 title: "Quiropráctico Para Lesión de Trabajo en San Antonio, TX | Pura Vida Chiropractic"
+metaTitle: "Quiropráctico Lesión de Trabajo San Antonio TX"
 description: "Lesión de trabajo en San Antonio? El Dr. Dan Foss trata lesiones laborales. Compensación de trabajadores paga. Consulta gratis. (210) 685-1994"
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"

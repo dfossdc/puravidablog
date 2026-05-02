@@ -1,5 +1,6 @@
 ---
 title: "Síndrome Post-Conmoción Quiropráctico en San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Síndrome Post-Conmoción Quiropráctico en San"
 description: "Tratamiento síndrome post-conmoción en San Antonio. Dr. Dan Foss, DC ofrece recuperación completa con protocolos avanzados."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

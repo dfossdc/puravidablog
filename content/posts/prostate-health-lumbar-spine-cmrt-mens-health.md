@@ -1,5 +1,6 @@
 ---
 title: "Prostate Health and the Lumbar Spine: What CMRT Can Do for Men"
+metaTitle: "Prostate Health and the Lumbar Spine"
 date: "2024-07-12"
 description: "Men rarely hear that chiropractic can help with prostate health — but the lumbar and sacral nerve plexus directly innervates the prostate gland. CMRT offers a non-pharmaceutical approach to chronic pelvic tension and prostate dysfunction."
 tags: ["CMRT", "prostate", "men's health", "lumbar", "sacral", "pelvic pain"]

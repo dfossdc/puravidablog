@@ -1,5 +1,6 @@
 ---
 title: "Immune Support Chiropractor in San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Immune Support Chiropractor San Antonio TX"
 description: "Strengthen your immune system naturally at Pura Vida Chiropractic. Dr. Dan Foss uses SOT and CMRT techniques to boost immunity in San Antonio, TX."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

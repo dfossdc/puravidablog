@@ -1,5 +1,6 @@
 ---
 title: "SII (Síndrome del Intestino Irritable) y CMRT | San Antonio TX"
+metaTitle: "SII (Síndrome del Intestino Irritable) y CMRT"
 description: "SII a menudo es un problema de nervios, no un problema digestivo. El Dr. Foss usa CMRT para restaurar la función nerviosa T7-T12 y sanar el eje intestino-cerebro."
 date: "2026-05-03"
 author: "Dr. Dan Foss, DC"

@@ -1,5 +1,6 @@
 ---
 title: "¿Puede Ir al Quiropráctico Sin Seguro Médico en San Antonio?"
+metaTitle: "¿Puede Ir al Quiropráctico Sin Seguro Médico"
 description: "¿No tiene seguro médico? El Dr. Dan Foss de Pura Vida Chiropractic en San Antonio ofrece opciones accesibles para pacientes sin seguro, incluyendo planes de pago y evaluación inicial gratuita."
 date: "2026-03-12"
 author: "Dr. Dan Foss"

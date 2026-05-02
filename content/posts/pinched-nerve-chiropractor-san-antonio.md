@@ -1,5 +1,6 @@
 ---
 title: "Pinched Nerve Chiropractor in San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Pinched Nerve Chiropractor San Antonio TX"
 description: "Pinched nerve relief in San Antonio with Dr. Dan Foss using SOT, CMRT, and laser therapy. Get fast relief from nerve pain. (210) 685-1994."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

@@ -1,5 +1,6 @@
 ---
 title: "Your First Chiropractic Visit: What to Expect at Pura Vida Chiropractic"
+metaTitle: "Your First Chiropractic Visit"
 description: "Wondering what happens at your first chiropractic visit in San Antonio? Dr. Dan Foss walks you through every step — from health history and exam to X-rays, report of findings, and your first adjustment."
 date: "2026-04-01"
 author: "Dr. Dan Foss, DC"

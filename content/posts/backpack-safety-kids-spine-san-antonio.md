@@ -1,5 +1,6 @@
 ---
 title: "Backpack Safety and Your Child's Spine: What San Antonio Parents Need to Know"
+metaTitle: "Backpack Safety and Your Child's Spine"
 image: "/images/conditions/growingpains.jpg"
 date: "2026-04-02"
 lang: "en"

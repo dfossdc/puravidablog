@@ -1,5 +1,6 @@
 ---
 title: "Latigazo Cervical Quiropráctico en San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Latigazo Cervical Quiropráctico San Antonio"
 description: "Tratamiento para latigazo cervical en San Antonio. Dr. Dan Foss, DC utiliza SOT y el Protocolo Pura Vida para recuperación completa."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

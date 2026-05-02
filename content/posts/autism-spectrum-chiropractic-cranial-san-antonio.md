@@ -1,5 +1,6 @@
 ---
 title: "Autism Spectrum & Chiropractic: A Cranial Perspective | San Antonio TX"
+metaTitle: "Autism Spectrum & Chiropractic"
 description: "Sensory integration, vagal regulation, and dural restriction in autism. Learn what cranial chiropractic can and cannot do — realistic expectations for neurodiverse children."
 date: "2026-05-04"
 author: "Dr. Dan Foss, DC"

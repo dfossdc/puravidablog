@@ -1,5 +1,6 @@
 ---
 title: "Why Pregnancy Is the #1 Time for Chiropractic Care | San Antonio TX"
+metaTitle: "Why Pregnancy Is the #1 Time for Chiropractic"
 description: "Pregnancy puts unique demands on your spine and pelvis. Dr. Dan Foss explains why chiropractic care during pregnancy can ease pain, support an easier delivery, and protect your baby's positioning."
 date: "2026-05-01"
 author: "Dr. Dan Foss, DC"

@@ -1,5 +1,6 @@
 ---
 title: "Fibromyalgia: Why Standard Treatment Falls Short | San Antonio Chiropractor"
+metaTitle: "Fibromyalgia: Why Standard Treatment Falls"
 description: "Fibromyalgia is a nervous-system condition, not just pain. Dr. Dan Foss explains how SOT chiropractic and cranial therapy address the dural tension and autonomic dysfunction driving widespread pain."
 date: "2026-05-01"
 author: "Dr. Dan Foss, DC"

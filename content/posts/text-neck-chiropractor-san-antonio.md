@@ -1,5 +1,6 @@
 ---
 title: "Text Neck Chiropractor in San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Text Neck Chiropractor San Antonio TX"
 description: "Discover how Dr. Dan Foss treats text neck and smartphone-related neck pain using SOT protocols and the Pura Vida Protocol in San Antonio."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

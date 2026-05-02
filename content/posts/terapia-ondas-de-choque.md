@@ -1,5 +1,6 @@
 ---
 title: "Terapia de Ondas de Choque en San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Terapia de Ondas de Choque en San Antonio"
 description: "La terapia de ondas de choque en Pura Vida Quiropráctica en San Antonio descompone el tejido cicatricial, estimula la curación y resuelve el dolor crónico sin cirugía."
 date: "2026-03-31"
 author: "Dr. Dan Foss, DC"

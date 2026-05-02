@@ -1,5 +1,6 @@
 ---
 title: "Muscle Spasms Chiropractor in San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Muscle Spasms Chiropractor San Antonio TX"
 description: "Muscle spasm relief in San Antonio with Dr. Dan Foss using CMRT and SOT techniques. Stop muscle spasms naturally. Call (210) 685-1994."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

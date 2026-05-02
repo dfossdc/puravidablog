@@ -1,5 +1,6 @@
 ---
 title: "Is It Safe to Take a Baby to the Chiropractor? What Parents Need to Know"
+metaTitle: "Is It Safe to Take a Baby to the Chiropractor?"
 description: "Many San Antonio parents wonder whether pediatric chiropractic is safe for infants. Dr. Dan Foss explains when and why to bring your baby to the chiropractor, and what a gentle infant adjustment looks like."
 date: "2026-04-01"
 author: "Dr. Dan Foss, DC"

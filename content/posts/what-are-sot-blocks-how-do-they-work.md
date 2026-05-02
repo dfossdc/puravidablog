@@ -1,5 +1,6 @@
 ---
 title: "What Are SOT Blocks and How Do They Work? A Complete Patient Guide"
+metaTitle: "What Are SOT Blocks and How Do They Work?"
 date: "2024-10-11"
 description: "Those wedge-shaped blocks your chiropractor places under your pelvis may look simple — but they're working with gravity and your nervous system to make precise, lasting corrections to your sacroiliac joint and lumbar spine."
 tags: ["SOT", "SOT blocks", "sacro occipital technique", "DeJarnette", "Category I II III", "low back pain"]

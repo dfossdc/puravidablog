@@ -1,5 +1,6 @@
 ---
 title: "Postpartum Recovery: What 'Bouncing Back' Actually Looks Like | San Antonio TX"
+metaTitle: "Postpartum Recovery"
 description: "Postpartum recovery is a 12-18 month process, not a 6-week one. Dr. Dan Foss explains the physical, hormonal, and emotional changes after birth—and why gentle chiropractic care matters for your healing."
 date: "2026-05-01"
 author: "Dr. Dan Foss, DC"

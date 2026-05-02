@@ -1,5 +1,6 @@
 ---
 title: "Lesiones Auto Quiropractico Alamo Heights | San Antonio TX"
+metaTitle: "Lesiones Auto Quiropractico Alamo Heights"
 description: "Tratamiento de lesiones por accidente vehicular para Alamo Heights. El Dr. Dan Foss trata latigazo cervical y daño de tejido blando. Seguros aceptados. A 10 minutos."
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"

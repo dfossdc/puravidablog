@@ -1,5 +1,6 @@
 ---
 title: "Auto Injury Chiropractor in San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Auto Injury Chiropractor San Antonio TX"
 description: "Injured in a car accident in San Antonio? Dr. Dan Foss at Pura Vida Chiropractic specializes in auto injury care — whiplash, back pain, and soft tissue injuries treated without surgery."
 date: "2026-03-31"
 author: "Dr. Dan Foss, DC"

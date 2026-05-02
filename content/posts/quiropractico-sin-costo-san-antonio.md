@@ -1,5 +1,6 @@
 ---
 title: "Quiropráctico Sin Costo en San Antonio, TX | Consulta Gratis | Pura Vida Chiropractic"
+metaTitle: "Quiropráctico Sin Costo en San Antonio, TX"
 description: "¿Necesitas un quiropráctico pero no tienes dinero? Pura Vida Chiropractic ofrece consulta gratis y planes de pago sin costo. Llama (210) 685-1994"
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"

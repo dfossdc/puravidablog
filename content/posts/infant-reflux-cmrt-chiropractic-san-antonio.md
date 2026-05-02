@@ -1,5 +1,6 @@
 ---
 title: "Infant Reflux and CMRT: Gentle Chiropractic Care | San Antonio TX"
+metaTitle: "Infant Reflux and CMRT"
 description: "Infant reflux is linked to upper cervical and occipital subluxation affecting the vagus nerve. CMRT provides gentle, safe relief without medication."
 date: "2026-05-05"
 author: "Dr. Dan Foss, DC"

@@ -1,5 +1,6 @@
 ---
 title: "Preguntas para Hacer Sobre la Inducción del Parto: Una Conversación Informada Con su Equipo de Parto | San Antonio TX"
+metaTitle: "Preguntas para Hacer Sobre la Inducción"
 description: "La inducción del parto es una intervención médica común. El Dr. Dan Foss le ayuda a entender sus opciones y preparar preguntas informadas para su OB o partera."
 date: "2026-05-01"
 author: "Dr. Dan Foss, DC"

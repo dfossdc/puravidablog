@@ -1,5 +1,6 @@
 ---
 title: "Cranial Adjusting San Antonio — SOT Craniopathy at Pura Vida"
+metaTitle: "Cranial Adjusting San Antonio"
 date: "2024-02-08"
 description: "SOT Craniopathy is the cranial adjusting branch of Advanced SOT — treating the 22 bones of the skull to restore CSF flow and neurological function. Dr. Dan Foss is San Antonio's only Advanced SOT craniopath."
 tags: ["cranial adjusting", "craniopathy", "SOT", "San Antonio", "CSF", "TMJ", "vertigo", "headaches", "pediatric"]

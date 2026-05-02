@@ -1,5 +1,6 @@
 ---
 title: "Cranial Sutures: Why the Skull Was Never Meant to Be a Solid Helmet"
+metaTitle: "Cranial Sutures: Why the Skull Was Never Meant"
 date: "2024-08-16"
 description: "Medical schools have long taught that cranial sutures fuse in adulthood — but modern research and clinical evidence tell a different story. The skull moves, and that motion is essential to health."
 tags: ["cranial adjusting", "cranial sutures", "craniopathy", "SOT", "adult cranial motion"]

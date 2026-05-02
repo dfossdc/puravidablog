@@ -1,5 +1,6 @@
 ---
 title: "Infant Colic: A 23-Year Chiropractic Approach | San Antonio TX"
+metaTitle: "Infant Colic: A 23-Year Chiropractic Approach"
 description: "Infant colic is often birth trauma and vagal compression. Learn how gentle SOT cranial care and CMRT provide relief in days — not months of suffering."
 date: "2026-05-08"
 author: "Dr. Dan Foss, DC"

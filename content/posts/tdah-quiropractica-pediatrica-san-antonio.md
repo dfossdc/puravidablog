@@ -1,5 +1,6 @@
 ---
 title: "TDAH & Quiropráctica Pediátrica en San Antonio | TX"
+metaTitle: "TDAH & Quiropráctica Pediátrica en San Antonio"
 description: "El TDAH tiene raíces en desregulación del sistema nervioso y dominancia simpática. Aprenda cómo la quiropráctica craneal mejora el tono vagal, el sueño y el enfoque."
 date: "2026-05-07"
 author: "Dr. Dan Foss, DC"

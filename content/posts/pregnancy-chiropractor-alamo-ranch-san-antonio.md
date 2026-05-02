@@ -1,5 +1,6 @@
 ---
 title: "Pregnancy Chiropractor Alamo Ranch | San Antonio TX"
+metaTitle: "Pregnancy Chiropractor Alamo Ranch"
 description: "Prenatal chiropractic care for Alamo Ranch expecting mothers. Dr. Foss uses Webster Technique for pregnancy comfort and optimal baby positioning. Safe and effective."
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"

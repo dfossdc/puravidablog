@@ -1,5 +1,6 @@
 ---
 title: "GERD and Acid Reflux: CMRT Treatment | San Antonio TX"
+metaTitle: "GERD and Acid Reflux: CMRT Treatment"
 description: "GERD is linked to T5-T6 subluxation and diaphragm dysfunction. CMRT restores stomach nerve function and prevents reflux without lifelong medication."
 date: "2026-05-03"
 author: "Dr. Dan Foss, DC"

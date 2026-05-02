@@ -1,5 +1,6 @@
 ---
 title: "The Spinal-Organ Connection: Foundation of CMRT | San Antonio TX"
+metaTitle: "The Spinal-Organ Connection: Foundation of CMRT"
 description: "Understanding how vertebral subluxations interrupt organ nerve function. The anatomical and neurological basis for CMRT chiropractic care."
 date: "2026-05-06"
 author: "Dr. Dan Foss, DC"

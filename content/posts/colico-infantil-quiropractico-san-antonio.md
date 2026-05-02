@@ -1,5 +1,6 @@
 ---
 title: "Quiropráctico para Cólico Infantil en San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Quiropráctico Cólico Infantil San Antonio TX"
 description: "¿Su bebé sufre de cólico en San Antonio? El Dr. Dan Foss usa técnicas quiroprácticas pediátricas suaves para ayudar a los bebés con cólico a encontrar alivio."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

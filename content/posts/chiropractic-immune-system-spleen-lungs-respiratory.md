@@ -1,5 +1,6 @@
 ---
 title: "Chiropractic and the Immune System: The Spleen, Lungs, and Spinal Connection"
+metaTitle: "Chiropractic and the Immune System"
 date: "2024-06-21"
 description: "The 1918 flu pandemic revealed a stunning survival advantage for chiropractic patients. The reason comes down to the nervous system's direct control over immune function through T2-T5."
 tags: ["CMRT", "immune system", "spleen", "lungs", "allergies", "respiratory", "T2-T5"]

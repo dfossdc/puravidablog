@@ -1,5 +1,6 @@
 ---
 title: "Quiropractico Embarazo Stone Oak | San Antonio TX"
+metaTitle: "Quiropractico Embarazo Stone Oak"
 description: "Cuidado quiropractico prenatal suave para madres de Stone Oak. Dr. Dan Foss está a solo 15 minutos con Técnica Webster y experiencia SOT. Consulta gratis."
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"

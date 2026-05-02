@@ -1,5 +1,6 @@
 ---
 title: "Por Qué Tantos Niños Tienen Dolores de Cabeza — Y Qué Hacemos al Respecto"
+metaTitle: "Por Qué Tantos Niños Tienen Dolores de Cabeza"
 description: "Más del 60% de los niños experimentan dolores de cabeza, y las migrañas pediátricas se han triplicado en décadas. El Dr. Dan Foss explica cómo la Craneopatía SOT y la atención quiropráctica abordan las causas raíz de los dolores de cabeza infantiles."
 date: "2026-05-01"
 author: "Dr. Dan Foss, DC"

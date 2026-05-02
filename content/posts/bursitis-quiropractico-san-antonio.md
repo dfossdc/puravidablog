@@ -1,5 +1,6 @@
 ---
 title: "Bursitis Quiropráctico en San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Bursitis Quiropráctico San Antonio"
 description: "Trata la bursitis (caderas, hombros, codos) en San Antonio con quiropráctica. Dr. Dan Foss utiliza SOT, CMRT y el Protocolo Pura Vida."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

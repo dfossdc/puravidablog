@@ -1,5 +1,6 @@
 ---
 title: "¿Es Seguro Llevar a Mi Bebé al Quiropráctico? Todo lo Que los Padres Deben Saber"
+metaTitle: "¿Es Seguro Llevar a Mi Bebé al Quiropráctico?"
 description: "Muchos padres en San Antonio se preguntan si la quiropráctica pediátrica es segura para bebés y niños. El Dr. Dan Foss explica cuándo y por qué llevar a su bebé al quiropráctico."
 date: "2026-03-14"
 author: "Dr. Dan Foss"

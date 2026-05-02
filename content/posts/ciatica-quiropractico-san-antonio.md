@@ -1,5 +1,6 @@
 ---
 title: "Quiropráctico para Ciática en San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Quiropráctico Ciática San Antonio TX"
 description: "¿Sufre de ciática en San Antonio? El Dr. Dan Foss en Pura Vida Quiropráctica ofrece tratamiento efectivo y sin medicamentos que ataca la fuente de su dolor nervioso."
 date: "2026-04-01"
 author: "Dr. Dan Foss, DC"

@@ -1,5 +1,6 @@
 ---
 title: "Work Injuries Chiropractor in San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Work Injuries Chiropractor San Antonio TX"
 description: "Workers' compensation and work injury treatment at Pura Vida Chiropractic. Dr. Dan Foss provides specialized care for San Antonio work injuries."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

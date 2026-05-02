@@ -1,5 +1,6 @@
 ---
 title: "Trastornos del Equilibrio | Quiropráctica en San Antonio, TX"
+metaTitle: "Trastornos del Equilibrio"
 description: "Trata vértigo y trastornos del equilibrio. Dr. Dan Foss, SOT avanzado en Pura Vida Chiropractic, San Antonio."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

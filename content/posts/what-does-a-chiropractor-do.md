@@ -1,5 +1,6 @@
 ---
 title: "What Does a Chiropractor Actually Do? A Clear Explanation"
+metaTitle: "What Does a Chiropractor Actually Do?"
 image: "/images/conditions/backpain.jpg"
 date: "2026-04-02"
 lang: "en"

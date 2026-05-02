@@ -1,5 +1,6 @@
 ---
 title: "Investigación sobre el Asma que No Ha Escuchado: La Conexión Columna-Pulmones | San Antonio Quiropráctico"
+metaTitle: "Investigación sobre el Asma que No Ha Escuchado"
 description: "El asma afecta a millones de niños y adultos. El Dr. Dan Foss explica cómo la columna y el sistema nervioso autónomo influyen en la función bronquial, y por qué SOT y CMRT pueden complementar su plan de atención del asma."
 date: "2026-05-01"
 author: "Dr. Dan Foss, DC"

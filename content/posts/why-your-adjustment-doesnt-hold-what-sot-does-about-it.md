@@ -1,5 +1,6 @@
 ---
 title: "Why Your Adjustment Doesn't Hold — And What SOT Does About It"
+metaTitle: "Why Your Adjustment Doesn't Hold"
 date: "2024-10-25"
 description: "If you've ever had to return to the chiropractor week after week for the same problem without lasting improvement, there's a reason. The SOT approach addresses the structural, dural, and neurological reasons adjustments fail to hold."
 tags: ["SOT", "cranial adjusting", "dural tension", "adjustment holding", "subluxation", "lasting results"]

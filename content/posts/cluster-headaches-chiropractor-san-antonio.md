@@ -1,5 +1,6 @@
 ---
 title: "Cluster Headaches Chiropractor in San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Cluster Headaches Chiropractor San Antonio TX"
 description: "Cluster headache relief with chiropractic care at Pura Vida. Dr. Dan Foss uses SOT cranial adjustments and advanced techniques in San Antonio."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

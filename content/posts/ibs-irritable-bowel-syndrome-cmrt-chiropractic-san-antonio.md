@@ -1,5 +1,6 @@
 ---
 title: "IBS (Irritable Bowel Syndrome) and CMRT | San Antonio TX"
+metaTitle: "IBS (Irritable Bowel Syndrome) and CMRT"
 description: "IBS is often a nerve problem, not a gut problem. Dr. Foss uses CMRT to restore T7-T12 nerve function and heal the gut-brain axis. San Antonio chiropractor."
 date: "2026-05-03"
 author: "Dr. Dan Foss, DC"

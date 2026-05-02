@@ -1,5 +1,6 @@
 ---
 title: "Round Ligament Pain Chiropractor in San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Round Ligament Pain Chiropractor San Antonio TX"
 description: "Round ligament pain treatment in San Antonio with Dr. Dan Foss using gentle chiropractic care. Safe care during pregnancy. Call (210) 685-1994."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

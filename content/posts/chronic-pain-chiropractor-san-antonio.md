@@ -1,5 +1,6 @@
 ---
 title: "Chronic Pain Chiropractor in San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Chronic Pain Chiropractor San Antonio TX"
 description: "Chronic pain relief in San Antonio with Dr. Dan Foss using SOT, CMRT, and laser therapy. Break free from pain. Call (210) 685-1994."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

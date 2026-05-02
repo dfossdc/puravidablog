@@ -1,5 +1,6 @@
 ---
 title: "Shoulder Pain Chiropractor in San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Shoulder Pain Chiropractor San Antonio TX"
 description: "Suffering from shoulder or arm pain in San Antonio? Dr. Dan Foss at Pura Vida Chiropractic treats the root cause of shoulder pain with advanced SOT chiropractic care."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

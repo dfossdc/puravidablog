@@ -1,5 +1,6 @@
 ---
 title: "Real Results: How Corrective Chiropractic Care Is Changing Lives in San Antonio"
+metaTitle: "Real Results: How Corrective Chiropractic Care"
 image: "/images/conditions/postural-correction.webp"
 date: "2026-04-02"
 lang: "en"

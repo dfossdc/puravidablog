@@ -1,5 +1,6 @@
 ---
 title: "Sciatica Chiropractor in San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Sciatica Chiropractor San Antonio TX"
 description: "Dealing with sciatica in San Antonio? Dr. Dan Foss at Pura Vida Chiropractic provides effective, drug-free sciatica treatment that targets the source of your nerve pain."
 date: "2026-04-01"
 author: "Dr. Dan Foss, DC"

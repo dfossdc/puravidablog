@@ -1,5 +1,6 @@
 ---
 title: "Corrección Postura Quiropractico Olmos Park | San Antonio TX"
+metaTitle: "Corrección Postura Quiropractico Olmos Park"
 description: "Corregir mala postura con cuidado quiropractico en Olmos Park. Dr. Dan Foss corrige postura de cabeza hacia adelante y desalineación espinal. A solo 8 minutos."
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"

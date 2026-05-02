@@ -1,5 +1,6 @@
 ---
 title: "Back Pain Chiropractor in San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Back Pain Chiropractor San Antonio TX"
 description: "Suffering from back pain in San Antonio? Dr. Dan Foss at Pura Vida Chiropractic treats the root cause of your back pain with advanced chiropractic care — not just the symptoms."
 date: "2026-04-01"
 author: "Dr. Dan Foss, DC"

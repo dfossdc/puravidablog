@@ -1,5 +1,6 @@
 ---
 title: "Cómo Construir un Sistema Inmunológico Resistente: Un Enfoque Quiropráctico para Niños"
+metaTitle: "Cómo Construir un Sistema Inmunológico"
 description: "La enfermedad crónica en niños está en máximos históricos. El Dr. Dan Foss explica cómo la quiropráctica SOT y CMRT construyen resistencia inmunológica al restaurar el equilibrio del sistema nervioso autonómico."
 date: "2026-05-01"
 author: "Dr. Dan Foss, DC"

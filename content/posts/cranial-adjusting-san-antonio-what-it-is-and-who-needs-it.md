@@ -1,5 +1,6 @@
 ---
 title: "Cranial Adjusting in San Antonio: What It Is and Who Needs It"
+metaTitle: "Cranial Adjusting in San Antonio"
 date: "2024-04-05"
 description: "Cranial adjusting is one of the most powerful and least understood techniques in chiropractic. Learn what it is, what conditions it helps, and why Dr. Dan Foss offers it in San Antonio."
 tags: ["cranial adjusting", "craniopathy", "SOT", "headaches", "San Antonio"]

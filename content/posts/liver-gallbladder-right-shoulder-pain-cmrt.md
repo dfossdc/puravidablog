@@ -1,5 +1,6 @@
 ---
 title: "Right Shoulder Pain You Didn't Know Was Coming From Your Liver and Gallbladder"
+metaTitle: "Right Shoulder Pain You Didn't Know Was Coming"
 date: "2024-05-17"
 description: "Chronic right shoulder pain that doesn't respond to standard treatment may have an organ origin. Learn how the liver and gallbladder refer pain to the shoulder and how CMRT addresses the root cause."
 tags: ["CMRT", "liver", "gallbladder", "right shoulder pain", "T6-T9", "referred pain"]

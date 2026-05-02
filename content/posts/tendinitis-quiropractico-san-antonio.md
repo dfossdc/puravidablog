@@ -1,5 +1,6 @@
 ---
 title: "Tendinitis Quiropráctico en San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Tendinitis Quiropráctico San Antonio"
 description: "Trata la tendinitis (codo, hombro, talón) en San Antonio con quiropráctica. Dr. Dan Foss usa SOT y CMRT para curación de tendones."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

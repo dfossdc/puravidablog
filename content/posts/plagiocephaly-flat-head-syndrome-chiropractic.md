@@ -1,5 +1,6 @@
 ---
 title: "Plagiocephaly: What Causes Flat Head Syndrome and What a Cranial Chiropractor Can Do"
+metaTitle: "Plagiocephaly: What Causes Flat Head Syndrome"
 date: "2024-09-20"
 description: "Plagiocephaly — flat head syndrome — is often treated with repositioning or helmets. But the underlying cranial bone displacement from birth is rarely addressed. Gentle cranial chiropractic offers a different approach."
 tags: ["plagiocephaly", "flat head", "cranial adjusting", "pediatric", "birth trauma", "infants"]

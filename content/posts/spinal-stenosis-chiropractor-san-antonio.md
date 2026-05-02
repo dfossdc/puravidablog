@@ -1,5 +1,6 @@
 ---
 title: "Spinal Stenosis Chiropractor in San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Spinal Stenosis Chiropractor San Antonio TX"
 description: "Expert spinal stenosis relief in San Antonio with Dr. Dan Foss using SOT, CMRT, and the Pura Vida Protocol. Call (210) 685-1994 today."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

@@ -1,5 +1,6 @@
 ---
 title: "Quiropráctico vs Fisioterapeuta: Diferencias en San Antonio, TX"
+metaTitle: "Quiropráctico vs Fisioterapeuta"
 description: "¿Quiropráctico o fisioterapeuta? Conoce las diferencias, cuándo ver cada uno, y cuál es mejor para ti en San Antonio."
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"

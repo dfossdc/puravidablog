@@ -1,5 +1,6 @@
 ---
 title: "Sports Injury Chiropractor Dominion | San Antonio TX"
+metaTitle: "Sports Injury Chiropractor Dominion"
 description: "Sports injury and performance care for Dominion athletes. Dr. Dan Foss treats sprains, strains, and overuse injuries. Get back in the game fast. Free consultation."
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"

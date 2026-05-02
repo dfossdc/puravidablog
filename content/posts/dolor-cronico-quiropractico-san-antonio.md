@@ -1,5 +1,6 @@
 ---
 title: "Dolor Crónico Quiropráctico en San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Dolor Crónico Quiropráctico San Antonio"
 description: "Tratamiento para dolor crónico en San Antonio. Dr. Dan Foss, DC ofrece soluciones integrales con SOT y Protocolo Pura Vida."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

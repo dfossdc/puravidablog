@@ -1,5 +1,6 @@
 ---
 title: "Dural Tension: The Hidden Force That Keeps Pulling Your Spine Out of Alignment"
+metaTitle: "Dural Tension: The Hidden Force That Keeps"
 date: "2024-08-30"
 description: "The dura mater connects your skull to your sacrum in one continuous sleeve. When it's under tension, it pulls your entire spine out of alignment — and no amount of spinal adjusting will hold until the dural tension is released."
 tags: ["dura mater", "dural tension", "cranial adjusting", "SOT", "CSF", "sacrum", "occiput"]

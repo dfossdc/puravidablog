@@ -1,5 +1,6 @@
 ---
 title: "Radiculopathy Chiropractor in San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Radiculopathy Chiropractor San Antonio TX"
 description: "Effective radiculopathy treatment with chiropractic care. Dr. Dan Foss at Pura Vida uses SOT and advanced techniques for nerve pain relief."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

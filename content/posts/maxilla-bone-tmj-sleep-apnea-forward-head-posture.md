@@ -1,5 +1,6 @@
 ---
 title: "The Maxilla: The Hidden Bone Behind Your TMJ, Sleep Apnea, and Forward Head Posture"
+metaTitle: "The Maxilla: The Hidden Bone Behind Your TMJ"
 date: "2024-08-23"
 description: "The maxilla — the bone your upper teeth grow from — is involved in far more than dental function. Its position affects the TMJ, airway, C1 vertebra, and even your head posture."
 tags: ["cranial adjusting", "maxilla", "TMJ", "sleep apnea", "forward head posture", "palate"]

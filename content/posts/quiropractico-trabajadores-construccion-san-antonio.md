@@ -1,5 +1,6 @@
 ---
 title: "Quiropráctica Para Trabajadores de Construcción en San Antonio: Cuide Su Cuerpo, Proteja Su Trabajo"
+metaTitle: "Quiropráctico Trabajadores San Antonio TX"
 description: "Los trabajadores de construcción en San Antonio sufren dolor de espalda, lesiones de rodilla y lesiones de hombro con frecuencia. El Dr. Dan Foss ofrece atención quiropráctica especializada para trabajadores manuales."
 date: "2026-03-18"
 author: "Dr. Dan Foss"

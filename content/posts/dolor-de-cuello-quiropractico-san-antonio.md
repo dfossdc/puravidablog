@@ -1,5 +1,6 @@
 ---
 title: "Quiropráctico para Dolor de Cuello en San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Quiropráctico Dolor de Cuello San Antonio TX"
 description: "¿Dolor de cuello crónico o rigidez en San Antonio? El Dr. Dan Foss en Pura Vida Quiropráctica trata el dolor de cuello en su raíz con quiropráctica avanzada y terapia craneal."
 date: "2026-04-01"
 author: "Dr. Dan Foss, DC"

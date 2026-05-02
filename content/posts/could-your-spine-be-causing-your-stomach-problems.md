@@ -1,5 +1,6 @@
 ---
 title: "Could Your Spine Be Causing Your Stomach Problems?"
+metaTitle: "Could Your Spine Be Causing Your Stomach"
 date: "2024-03-15"
 description: "Most people don't connect back pain with stomach issues — but they should. Learn how specific spinal vertebrae directly control your digestive organs through the somato-visceral reflex."
 tags: ["CMRT", "digestive health", "somato-visceral", "organs", "SOT"]

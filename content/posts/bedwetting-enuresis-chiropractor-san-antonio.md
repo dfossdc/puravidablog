@@ -1,5 +1,6 @@
 ---
 title: "Bedwetting Enuresis Chiropractor in San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Bedwetting Enuresis Chiropractor San Antonio TX"
 description: "Natural bedwetting treatment with chiropractic care at Pura Vida. Dr. Dan Foss uses SOT and CMRT to address enuresis in children in San Antonio."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

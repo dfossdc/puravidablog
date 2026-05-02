@@ -1,5 +1,6 @@
 ---
 title: "CMRT Organ Adjusting San Antonio — Pura Vida Chiropractic"
+metaTitle: "CMRT Organ Adjusting San Antonio"
 date: "2024-02-01"
 description: "CMRT — Chiropractic Manipulative Reflex Technique — is the organ-adjusting branch of Advanced SOT. At Pura Vida Chiropractic, Dr. Dan Foss is the only CMRT-certified practitioner in San Antonio."
 tags: ["CMRT", "organ adjusting", "viscero-somatic", "San Antonio", "SOT", "DeJarnette", "Chapman's points"]

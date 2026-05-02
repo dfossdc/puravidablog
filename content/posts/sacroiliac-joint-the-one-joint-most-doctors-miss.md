@@ -1,5 +1,6 @@
 ---
 title: "The Sacroiliac Joint: The One Joint Most Doctors Miss"
+metaTitle: "The Sacroiliac Joint"
 date: "2024-04-26"
 description: "The sacroiliac joint is involved in more pain conditions than most people realize — including shoulder pain, knee pain, and even TMJ. Here's why SOT is the best approach for a joint that most doctors miss entirely."
 tags: ["sacroiliac joint", "SOT", "low back pain", "sciatica", "pelvic instability"]

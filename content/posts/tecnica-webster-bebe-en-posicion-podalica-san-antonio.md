@@ -1,5 +1,6 @@
 ---
 title: "Técnica Webster para Bebés en Posición Podálica: Guía para Mamás de San Antonio"
+metaTitle: "Técnica Webster para Bebés en Posición Podálica"
 description: "¿Su bebé está en posición podálica (pélvica)? La Técnica Webster es un método quiropráctico suave para ayudar a su bebé a moverse naturalmente a la posición cabeza abajo. Conozca cómo el Dr. Foss ayuda a mamás de San Antonio a optimizar el posicionamiento del bebé."
 date: "2026-05-01"
 author: "Dr. Dan Foss, DC"

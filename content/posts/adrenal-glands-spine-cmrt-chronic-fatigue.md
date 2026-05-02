@@ -1,5 +1,6 @@
 ---
 title: "Your Adrenal Glands and Your Spine: The CMRT Approach to Chronic Fatigue and Burnout"
+metaTitle: "Your Adrenal Glands and Your Spine"
 date: "2024-05-24"
 description: "Adrenal fatigue is real — and it has a spinal component most doctors miss. Learn how T9-T11 vertebrae connect to the adrenal glands and how CMRT can help restore your energy and resilience."
 tags: ["CMRT", "adrenal fatigue", "chronic fatigue", "T9-T11", "cortisol", "burnout"]

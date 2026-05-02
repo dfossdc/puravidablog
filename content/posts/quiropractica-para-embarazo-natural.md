@@ -1,5 +1,6 @@
 ---
 title: "Quiropráctica Durante el Embarazo: Alivio Natural Para el Dolor Sin Medicamentos"
+metaTitle: "Quiropráctica Durante el Embarazo"
 description: "¿Sufre dolor de espalda, ciática o molestias durante el embarazo? Descubra cómo la quiropráctica prenatal con el Dr. Dan Foss en San Antonio puede aliviar su dolor de forma segura y natural."
 date: "2026-03-16"
 author: "Dr. Dan Foss"

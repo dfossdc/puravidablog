@@ -1,5 +1,6 @@
 ---
 title: "Quiropráctico para Dolor de Rodilla y Cadera en San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Quiropráctico Dolor de Rodilla San Antonio TX"
 description: "¿Sufre de dolor de rodilla o cadera en San Antonio? El Dr. Dan Foss en Pura Vida Quiropráctica trata la causa raíz del dolor articular con SOT y terapias avanzadas."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

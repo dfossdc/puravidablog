@@ -1,5 +1,6 @@
 ---
 title: "Neck Pain From Working at a Desk? A San Antonio Chiropractor Explains Why"
+metaTitle: "Neck Pain From Working at a Desk?"
 image: "/images/conditions/forwardheadposture.jpg"
 date: "2026-04-02"
 lang: "en"

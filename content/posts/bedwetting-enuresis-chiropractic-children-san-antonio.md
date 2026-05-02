@@ -1,5 +1,6 @@
 ---
 title: "Bedwetting (Enuresis) & Chiropractic Care in Children | San Antonio TX"
+metaTitle: "Bedwetting (Enuresis) & Chiropractic Care"
 description: "Bedwetting is often a sacral plexus and nerve root dysfunction. Learn how SOT pelvic protocol restores proper bladder and sphincter control through gentle chiropractic."
 date: "2026-05-09"
 author: "Dr. Dan Foss, DC"

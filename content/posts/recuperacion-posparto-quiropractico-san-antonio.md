@@ -1,5 +1,6 @@
 ---
 title: "Recuperación Posparto Quiropráctico en San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Recuperación Posparto Quiropráctico San Antonio"
 description: "Recuperación posparto en San Antonio. Dr. Dan Foss, DC ofrece tratamiento quiropráctico especializado para recuperación completa."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

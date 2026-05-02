@@ -1,5 +1,6 @@
 ---
 title: "Craneapatía SOT vs Quiropráctica Craneal Tradicional | San Antonio TX"
+metaTitle: "Craneapatía SOT vs Quiropráctica Craneal"
 description: "Conozca la diferencia entre Craneapatía SOT y las técnicas craneales convencionales. Dr. Dan Foss explica por qué el sistema DeJarnette es distinto y más efectivo para los niños."
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"

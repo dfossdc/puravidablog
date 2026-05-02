@@ -1,5 +1,6 @@
 ---
 title: "Chiropractic and Hormones: What Your Spine Has to Do With PMS, Menopause, and Adrenal Fatigue"
+metaTitle: "Chiropractic and Hormones"
 date: "2024-05-03"
 description: "The connection between your spine and your hormones is real — and it's one that CMRT directly addresses. Learn how spinal nerve interference affects the reproductive system, adrenals, and more."
 tags: ["hormones", "CMRT", "PMS", "menopause", "adrenal fatigue", "women's health"]

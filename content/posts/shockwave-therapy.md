@@ -1,5 +1,6 @@
 ---
 title: "Shockwave Therapy in San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Shockwave Therapy in San Antonio"
 description: "Shockwave therapy at Pura Vida Chiropractic in San Antonio delivers targeted acoustic energy to break down scar tissue, stimulate healing, and resolve chronic pain conditions."
 date: "2026-03-31"
 author: "Dr. Dan Foss, DC"

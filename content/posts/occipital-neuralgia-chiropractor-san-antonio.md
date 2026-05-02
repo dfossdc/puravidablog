@@ -1,5 +1,6 @@
 ---
 title: "Occipital Neuralgia Chiropractor in San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Occipital Neuralgia Chiropractor San Antonio TX"
 description: "Occipital neuralgia treatment at Pura Vida Chiropractic. Dr. Dan Foss uses cranial adjustments and SOT for neck pain relief in San Antonio."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

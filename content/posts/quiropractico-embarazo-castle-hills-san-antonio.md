@@ -1,5 +1,6 @@
 ---
 title: "Quiropractico Embarazo Castle Hills | San Antonio TX"
+metaTitle: "Quiropractico Embarazo Castle Hills"
 description: "Cuidado quiropractico prenatal para madres de Castle Hills. Dr. Dan Foss utiliza Técnica Webster a solo 5 minutos. Compita con Castle Hills Chiropractic usando ventaja SOT."
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"

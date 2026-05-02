@@ -1,5 +1,6 @@
 ---
 title: "¿Huesero o Quiropráctico? La Diferencia Que Todo Paciente de San Antonio Debe Conocer"
+metaTitle: "¿Huesero o Quiropráctico?"
 description: "¿Cuál es la diferencia entre un huesero y un quiropráctico? Descubra por qué el Dr. Dan Foss de Pura Vida Chiropractic ofrece una atención más segura y efectiva en San Antonio, TX."
 date: "2026-03-10"
 author: "Dr. Dan Foss"

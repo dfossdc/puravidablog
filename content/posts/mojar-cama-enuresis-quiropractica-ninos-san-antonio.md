@@ -1,5 +1,6 @@
 ---
 title: "Mojar la Cama (Enuresis) en Niños: Quiropráctica + CMRT"
+metaTitle: "Mojar la Cama (Enuresis) en Niños"
 description: "Enuresis nocturna en niños: 85% resuelto sin medicamentos con quiropráctica SOT y CMRT. Dr. Dan Foss, San Antonio TX."
 date: "2026-05-17"
 author: "Dr. Dan Foss, DC"

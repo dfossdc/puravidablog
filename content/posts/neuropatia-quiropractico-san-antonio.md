@@ -1,5 +1,6 @@
 ---
 title: "Quiropráctico para Neuropatía en San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Quiropráctico Neuropatía San Antonio TX"
 description: "¿Sufre de neuropatía en San Antonio? El Dr. Dan Foss en Pura Vida Quiropráctica usa protocolos SOT y modalidades avanzadas para tratar el daño nervioso naturalmente."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

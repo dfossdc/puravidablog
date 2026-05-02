@@ -1,5 +1,6 @@
 ---
 title: "Neuralgia Occipital Quiropráctico en San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Neuralgia Occipital Quiropráctico San Antonio"
 description: "Trata la neuralgia occipital sin cirugía en San Antonio. Dr. Dan Foss usa SOT y ajustes craneales para aliviar dolor de cabeza occipital."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

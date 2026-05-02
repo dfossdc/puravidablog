@@ -1,5 +1,6 @@
 ---
 title: "Allergies Chiropractor in San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Allergies Chiropractor San Antonio TX"
 description: "Dr. Dan Foss treats allergies in San Antonio using SOT, CMRT, and the Pura Vida Protocol to support immune and respiratory function naturally."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

@@ -1,5 +1,6 @@
 ---
 title: "Temporal Bones and Your Ears: Vertigo, Tinnitus, and Hearing Loss from a Cranial Perspective"
+metaTitle: "Temporal Bones and Your Ears"
 date: "2024-08-02"
 description: "The temporal bones house the inner ear apparatus and the vestibulocochlear nerve (cranial nerve VIII). When temporal bone motion is restricted, vertigo, tinnitus, and hearing problems can follow."
 tags: ["cranial adjusting", "temporal bones", "vertigo", "tinnitus", "cranial nerve VIII", "ears"]

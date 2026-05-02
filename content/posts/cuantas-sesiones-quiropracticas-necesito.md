@@ -1,5 +1,6 @@
 ---
 title: "¿Cuántas Sesiones Quiropráctícas Necesito? Respuesta Honesta | Pura Vida"
+metaTitle: "¿Cuántas Sesiones Quiropráctícas Necesito?"
 description: "¿Cuántas visitas al quiropráctico necesitarás? Factores que determinan duración del tratamiento. Expectativas realistas de Dr. Dan Foss."
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"

@@ -1,5 +1,6 @@
 ---
 title: "Pregnancy Exercise Guide: Trimester-by-Trimester Safe Movement | San Antonio TX"
+metaTitle: "Pregnancy Exercise Guide"
 description: "A practical guide to safe, effective exercise during each trimester of pregnancy. Learn what movements support your body, when to modify, and how chiropractic care amplifies your fitness routine."
 date: "2026-05-01"
 author: "Dr. Dan Foss, DC"

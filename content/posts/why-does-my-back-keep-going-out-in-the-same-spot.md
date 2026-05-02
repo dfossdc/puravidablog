@@ -1,5 +1,6 @@
 ---
 title: "Why Does My Back Keep Going Out in the Same Spot?"
+metaTitle: "Why Does My Back Keep Going Out in the Same"
 date: "2024-03-29"
 description: "If you keep returning to the chiropractor for the same vertebra, there's a reason — and it's probably not what you think. The answer may be hiding in your organs."
 tags: ["CMRT", "viscero-somatic", "subluxation", "chronic pain", "SOT"]

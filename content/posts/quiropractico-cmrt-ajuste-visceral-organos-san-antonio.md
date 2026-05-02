@@ -1,5 +1,6 @@
 ---
 title: "Quiropráctico CMRT San Antonio: Ajuste Visceral de Órganos"
+metaTitle: "Quiropráctico CMRT San Antonio"
 description: "CMRT (Chiropractic Manipulative Reflex Technique): cuidado quiropráctico visceral para reflujo, digestión y problemas de órganos. Dr. Dan Foss, especialista."
 date: "2026-05-03"
 author: "Dr. Dan Foss, DC"

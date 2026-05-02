@@ -44,11 +44,17 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   // disambiguates from the H1 while staying under the limit.
   const SHORT_BRAND = " | Pura Vida";  // 13 chars
   const FULL_BRAND = " | Pura Vida Chiropractic"; // 26 chars
-  const titleWithBrand = post.title.length + FULL_BRAND.length <= 60
-    ? `${post.title}${FULL_BRAND}`
-    : post.title.length + SHORT_BRAND.length <= 60
-      ? `${post.title}${SHORT_BRAND}`
-      : post.title; // raw title — already long enough to differ from H1 only by length
+  // metaTitle frontmatter (when present) is a hand-trimmed override used ONLY
+  // for the <title> tag — H1 keeps the long evocative title. We still apply
+  // the conditional brand suffix on top so short metaTitles get branded.
+  const sourceTitle = post.metaTitle && post.metaTitle.trim().length > 0
+    ? post.metaTitle.trim()
+    : post.title;
+  const titleWithBrand = sourceTitle.length + FULL_BRAND.length <= 60
+    ? `${sourceTitle}${FULL_BRAND}`
+    : sourceTitle.length + SHORT_BRAND.length <= 60
+      ? `${sourceTitle}${SHORT_BRAND}`
+      : sourceTitle; // raw title — already long enough to differ from H1 only by length
   return {
     title: titleWithBrand,
     description: post.description,

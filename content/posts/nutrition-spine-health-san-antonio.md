@@ -1,5 +1,6 @@
 ---
 title: "How What You Eat Affects Your Spine: A Chiropractor's Take on Nutrition and Inflammation"
+metaTitle: "How What You Eat Affects Your Spine"
 image: "/images/conditions/backpain.jpg"
 date: "2026-04-02"
 lang: "en"

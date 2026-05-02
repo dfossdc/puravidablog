@@ -1,5 +1,6 @@
 ---
 title: "Diabetes, el Páncreas, y la Conexión Columna-Órgano | San Antonio TX"
+metaTitle: "Diabetes, el Páncreas, y la Conexión"
 description: "Dr. Dan Foss explica cómo la columna torácica afecta la función pancreática. CMRT es una técnica quiropráctica que aborda la raíz del sistema nervioso de la diabetes tipo 2 en San Antonio."
 date: "2026-05-01"
 author: "Dr. Dan Foss, DC"

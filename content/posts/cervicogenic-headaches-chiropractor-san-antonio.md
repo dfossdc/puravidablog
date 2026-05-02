@@ -1,5 +1,6 @@
 ---
 title: "Cervicogenic Headaches Chiropractor in San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Cervicogenic Chiropractor San Antonio TX"
 description: "Dr. Dan Foss treats cervicogenic headaches in San Antonio using SOT protocols and cranial adjustments for lasting relief from neck-related pain."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

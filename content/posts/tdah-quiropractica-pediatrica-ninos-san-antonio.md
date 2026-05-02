@@ -1,5 +1,6 @@
 ---
 title: "TDAH y Quiropráctica Pediátrica: Alternativa a Medicamentos"
+metaTitle: "TDAH y Quiropráctica Pediátrica"
 description: "TDAH en niños: La quiropráctica SOT mejora concentración sin medicamentos. Enfoque neurológico basado en la causa. Dr. Dan Foss, San Antonio."
 date: "2026-05-14"
 author: "Dr. Dan Foss, DC"

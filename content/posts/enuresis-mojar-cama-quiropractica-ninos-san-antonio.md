@@ -1,5 +1,6 @@
 ---
 title: "Enuresis (Mojar la Cama) & Quiropráctica en Niños | San Antonio TX"
+metaTitle: "Enuresis (Mojar la Cama) & Quiropráctica"
 description: "La enuresis es a menudo una disfunción del plexo sacro y de las raíces nerviosas. Aprenda cómo el protocolo pélvico SOT restaura el control adecuado de la vejiga."
 date: "2026-05-09"
 author: "Dr. Dan Foss, DC"

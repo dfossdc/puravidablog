@@ -1,5 +1,6 @@
 ---
 title: "Bursitis Chiropractor in San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Bursitis Chiropractor San Antonio TX"
 description: "Bursitis treatment at Pura Vida Chiropractic. Dr. Dan Foss uses SOT and laser therapy for joint pain relief in San Antonio, TX."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

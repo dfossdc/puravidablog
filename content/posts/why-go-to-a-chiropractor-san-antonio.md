@@ -1,5 +1,6 @@
 ---
 title: "Why Go to a Chiropractor? What Most People Don't Realize About Chiropractic Care"
+metaTitle: "Why Go to a Chiropractor?"
 date: "2024-02-22"
 description: "Most people think chiropractors only treat back pain. The reality is far more interesting — and far more relevant to your overall health."
 tags: ["why chiropractic", "chiropractic care", "San Antonio", "subluxation", "nervous system", "root cause", "wellness"]

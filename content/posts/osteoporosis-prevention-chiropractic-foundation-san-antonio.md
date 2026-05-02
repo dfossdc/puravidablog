@@ -1,5 +1,6 @@
 ---
 title: "Osteoporosis Prevention: The Chiropractic Foundation | San Antonio TX"
+metaTitle: "Osteoporosis Prevention"
 description: "Osteoporosis affects 1 in 2 women and 1 in 8 men over 50. Dr. Dan Foss explains how chiropractic care, posture alignment, and SOT support long-term bone health."
 date: "2026-05-01"
 author: "Dr. Dan Foss, DC"

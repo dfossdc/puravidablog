@@ -1,5 +1,6 @@
 ---
 title: "Mejor Quiropráctico para Embarazadas en San Antonio, TX | Pura Vida Chiropractic"
+metaTitle: "Mejor Quiropráctico para Embarazadas en San"
 description: "¿Embarazada con dolor de espalda en San Antonio? El Dr. Dan Foss especialista en embarazo ofrece tratamiento seguro y libre de medicamentos. Consulta gratis. (210) 685-1994"
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"

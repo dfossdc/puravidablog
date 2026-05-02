@@ -1,5 +1,6 @@
 ---
 title: "Why I Became a Chiropractor: Dr. Dan Foss's Story of Healing and Purpose"
+metaTitle: "Why I Became a Chiropractor"
 image: "/images/conditions/torticollis.jpg"
 date: "2026-04-02"
 lang: "en"

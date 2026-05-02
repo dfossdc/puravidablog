@@ -1,5 +1,6 @@
 ---
 title: "Retraso del Lenguaje & Quiropráctica Craneal en Niños | San Antonio TX"
+metaTitle: "Retraso del Lenguaje & Quiropráctica Craneal"
 description: "Los retrasos del lenguaje están conectados a desalineación craneal, frenillo lingual y disfunción vagal. Aprenda cómo la quiropráctica craneal apoya el desarrollo del lenguaje."
 date: "2026-05-06"
 author: "Dr. Dan Foss, DC"

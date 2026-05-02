@@ -1,5 +1,6 @@
 ---
 title: "Pregnancy Nutrition: The Fats Your Baby's Brain Needs | San Antonio TX"
+metaTitle: "Pregnancy Nutrition"
 description: "Omega-3 fats like DHA and EPA are essential for fetal brain development. Learn which foods and supplements support your baby's brain and how chiropractic care complements good nutrition during pregnancy."
 date: "2026-05-01"
 author: "Dr. Dan Foss, DC"

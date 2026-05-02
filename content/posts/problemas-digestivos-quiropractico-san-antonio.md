@@ -1,5 +1,6 @@
 ---
 title: "Quiropráctico para Problemas Digestivos en San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Quiropráctico Problemas San Antonio TX"
 description: "¿Sufre de problemas digestivos en San Antonio? El Dr. Dan Foss en Pura Vida Quiropráctica usa CMRT y SOT para tratar la conexión entre la columna y el sistema digestivo."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

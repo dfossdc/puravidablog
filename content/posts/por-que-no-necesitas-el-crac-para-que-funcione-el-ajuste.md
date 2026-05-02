@@ -1,5 +1,6 @@
 ---
 title: "¿Por qué no necesitas escuchar el 'crac' para que el ajuste funcione?"
+metaTitle: "¿Por qué no necesitas escuchar el 'crac'"
 date: "2024-04-19"
 description: "Muchos pacientes creen que el sonido del 'crac' es señal de que el ajuste funcionó. La ciencia dice algo diferente — y la técnica SOT lo demuestra."
 tags: ["SOT", "adjusting", "Spanish", "no-crack", "neurología"]

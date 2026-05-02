@@ -1,5 +1,6 @@
 ---
 title: "Quiropráctico Hispano en San Antonio, TX | Entiende Tu Comunidad | Pura Vida"
+metaTitle: "Quiropráctico Hispano en San Antonio, TX"
 description: "Quiropráctico latino y hispano en San Antonio. El Dr. Dan Foss entiende la comunidad hispana. Consulta gratis en español. (210) 685-1994"
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"

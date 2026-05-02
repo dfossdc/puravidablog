@@ -1,5 +1,6 @@
 ---
 title: "Salud Hormonal de la Mujer y CMRT | San Antonio TX"
+metaTitle: "Salud Hormonal de la Mujer y CMRT"
 description: "Dolor menstrual, infertilidad y PCOS están vinculados a subluxación L2-L5 y sacra. CMRT restaura la función nerviosa de órganos reproductivos y balance hormonal."
 date: "2026-05-04"
 author: "Dr. Dan Foss, DC"

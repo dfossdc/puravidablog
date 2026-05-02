@@ -1,5 +1,6 @@
 ---
 title: "Quiropráctico Para Atletas en San Antonio, TX | Pura Vida Chiropractic"
+metaTitle: "Quiropráctico Atletas San Antonio TX"
 description: "¿Atleta en San Antonio? El Dr. Dan Foss trata lesiones deportivas y optimiza rendimiento. Especialista en lesiones de atletas. Consulta gratis. (210) 685-1994"
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"

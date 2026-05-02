@@ -1,5 +1,6 @@
 ---
 title: "Fibromyalgia Chiropractor in San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Fibromyalgia Chiropractor San Antonio TX"
 description: "Living with fibromyalgia in San Antonio? Dr. Dan Foss at Pura Vida Chiropractic uses advanced SOT protocols and CMRT to help manage fibromyalgia pain naturally."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

@@ -1,5 +1,6 @@
 ---
 title: "Cólicos del Bebé y Quiropráctica: Alivio Rápido en San Antonio"
+metaTitle: "Cólicos del Bebé y Quiropráctica"
 description: "El cólico del bebé responde mejor a la quiropráctica SOT que a medicamentos. Dr. Dan Foss trata cólicos en San Antonio con una tasa de resolución del 90%."
 date: "2026-05-06"
 author: "Dr. Dan Foss, DC"

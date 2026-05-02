@@ -1,5 +1,6 @@
 ---
 title: "Pregnancy Chiropractor Stone Oak | San Antonio TX"
+metaTitle: "Pregnancy Chiropractor Stone Oak"
 description: "Gentle prenatal chiropractic care for Stone Oak mothers. Dr. Dan Foss is just 15 minutes away with Webster Technique and SOT expertise. Free consultation."
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"

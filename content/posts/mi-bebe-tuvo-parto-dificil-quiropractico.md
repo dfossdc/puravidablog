@@ -1,5 +1,6 @@
 ---
 title: "Mi bebé tuvo un parto difícil — ¿debería ver a un quiropráctico craneal?"
+metaTitle: "Mi bebé tuvo un parto difícil"
 date: "2024-04-12"
 description: "El parto es uno de los eventos más físicamente exigentes en la vida de un bebé. Aprenda cómo el ajuste craneal puede ayudar con el trauma del nacimiento, la plagiocefalia, los cólicos y más."
 tags: ["pediatric", "cranial", "birth trauma", "plagiocephaly", "Spanish", "bebé"]

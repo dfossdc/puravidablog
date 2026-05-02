@@ -1,5 +1,6 @@
 ---
 title: "Hinchazón y Gases Quiropráctico en San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Hinchazón y Gases Quiropráctico San Antonio"
 description: "Elimina la hinchazón y gases con quiropráctica en San Antonio. Dr. Dan Foss usa SOT y CMRT para alivio digestivo natural mediante el Protocolo Pura Vida."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

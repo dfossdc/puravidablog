@@ -1,5 +1,6 @@
 ---
 title: "Costocondritis | Tratamiento Quiropráctica en San Antonio, TX"
+metaTitle: "Costocondritis | Tratamiento Quiropráctica"
 description: "Trata costocondritis con Dr. Dan Foss. SOT avanzado, CMRT y terapia láser en Pura Vida Chiropractic."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

@@ -1,5 +1,6 @@
 ---
 title: "Quiropráctico para Fibromialgia en San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Quiropráctico Fibromialgia San Antonio TX"
 description: "¿Sufre de fibromialgia en San Antonio? El Dr. Dan Foss en Pura Vida Quiropráctica usa protocolos avanzados SOT y CMRT para manejar el dolor de fibromialgia naturalmente."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

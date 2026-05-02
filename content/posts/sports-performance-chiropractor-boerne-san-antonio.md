@@ -1,5 +1,6 @@
 ---
 title: "Sports Performance Chiropractor Boerne | San Antonio TX"
+metaTitle: "Sports Performance Chiropractor Boerne"
 description: "Athlete and sports performance care for Boerne active adults. Dr. Foss optimizes movement and prevents injury. Get an edge. Free performance evaluation."
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"

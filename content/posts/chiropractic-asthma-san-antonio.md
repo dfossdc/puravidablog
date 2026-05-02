@@ -1,5 +1,6 @@
 ---
 title: "Can Chiropractic Help With Asthma? What the Research (and 23 Years of Experience) Says"
+metaTitle: "Can Chiropractic Help With Asthma?"
 image: "/images/dr-foss-adjust-sinus.jpg"
 date: "2026-04-02"
 lang: "en"

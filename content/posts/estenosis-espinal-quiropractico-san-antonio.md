@@ -1,5 +1,6 @@
 ---
 title: "Estenosis Espinal Quiropráctico en San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Estenosis Espinal Quiropráctico San Antonio"
 description: "Tratamiento para estenosis espinal en San Antonio. Dr. Dan Foss utiliza SOT y Protocolo Pura Vida para aliviar el dolor de la estenosis espinal."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

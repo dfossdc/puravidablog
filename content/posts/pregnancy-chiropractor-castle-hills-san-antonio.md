@@ -1,5 +1,6 @@
 ---
 title: "Pregnancy Chiropractor Castle Hills | San Antonio TX"
+metaTitle: "Pregnancy Chiropractor Castle Hills"
 description: "Prenatal chiropractic care for Castle Hills mothers. Dr. Dan Foss uses Webster Technique just 5 minutes away. Compete with Castle Hills Chiropractic using SOT advantage."
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"

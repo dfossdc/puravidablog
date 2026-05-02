@@ -1,5 +1,6 @@
 ---
 title: "Quiropráctico para Dolor de Espalda en San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Quiropráctico Dolor de Espalda San Antonio TX"
 description: "¿Sufre de dolor de espalda en San Antonio? El Dr. Dan Foss en Pura Vida Quiropráctica trata la causa raíz de su dolor de espalda con cuidado quiropráctico avanzado y sin medicamentos."
 date: "2026-04-01"
 author: "Dr. Dan Foss, DC"

@@ -1,5 +1,6 @@
 ---
 title: "How Pura Vida Chiropractic Is Different — Beyond Back Cracking"
+metaTitle: "How Pura Vida Chiropractic Is Different"
 date: "2024-02-22"
 description: "Not all chiropractic is the same. Here's exactly how Pura Vida Chiropractic differs from walk-in chains, standard practitioners, and everything else you may have tried."
 tags: ["different", "SOT", "The Joint", "whole body", "CMRT", "craniopathy", "San Antonio", "advanced chiropractic"]

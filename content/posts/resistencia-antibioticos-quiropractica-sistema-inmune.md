@@ -1,5 +1,6 @@
 ---
 title: "La Bomba de Tiempo de los Antibióticos: Cómo la Quiropráctica Apoya un Sistema Inmunológico Resistente | San Antonio TX"
+metaTitle: "La Bomba de Tiempo de los Antibióticos"
 description: "El uso excesivo de antibióticos está impulsando la resistencia mundial. El Dr. Dan Foss explica cómo su sistema inmunológico es su verdadera defensa, y cómo la quiropráctica, incluido su trabajo visceral CMRT único, apoya la inmunidad desde adentro."
 date: "2026-05-01"
 author: "Dr. Dan Foss, DC"

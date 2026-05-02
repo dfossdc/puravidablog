@@ -1,5 +1,6 @@
 ---
 title: "The Antibiotic Time Bomb: How Chiropractic Supports a Resilient Immune System | San Antonio TX"
+metaTitle: "The Antibiotic Time Bomb"
 description: "Antibiotic overuse is driving resistance worldwide. Dr. Dan Foss explains how your immune system is your real defense—and how chiropractic care, including his unique CMRT visceral work, supports immunity from the inside out."
 date: "2026-05-01"
 author: "Dr. Dan Foss, DC"

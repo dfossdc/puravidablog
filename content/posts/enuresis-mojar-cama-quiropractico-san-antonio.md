@@ -1,5 +1,6 @@
 ---
 title: "Enuresis (Mojar la Cama) Tratamiento Quiropráctico San Antonio | Dr. Dan Foss"
+metaTitle: "Enuresis (Mojar la Cama) Tratamiento"
 description: "Soluciona la enuresis infantil con quiropráctica en San Antonio. Dr. Dan Foss utiliza SOT y el Protocolo Pura Vida para tratar mojar la cama."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"

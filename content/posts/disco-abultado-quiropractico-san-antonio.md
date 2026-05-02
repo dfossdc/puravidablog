@@ -1,5 +1,6 @@
 ---
 title: "Disco Abultado Quiropráctico en San Antonio, TX | Dr. Dan Foss"
+metaTitle: "Disco Abultado Quiropráctico San Antonio"
 description: "Tratamiento para disco abultado en San Antonio. Dr. Dan Foss, DC proporciona tratamiento SOT avanzado sin cirugía."
 date: "2026-04-12"
 author: "Dr. Dan Foss, DC"
