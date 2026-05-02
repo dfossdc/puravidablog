@@ -183,7 +183,13 @@ export async function fetchPostBySlug(slug: string, lang: string): Promise<Post 
   if (postLang !== lang) return null;
 
   const processed = await remark().use(remarkHtml).process(content);
-  const rawHtml = processed.toString();
+  // Strip the first <h1> from the rendered body. The blog [slug] page
+  // already renders post.title as an <h1>, and many post bodies start
+  // with their own '# Title' that becomes a SECOND <h1>. Semrush's full
+  // crawl flagged 14 pages as "more than one H1". This kills that issue
+  // for current and future posts (no need to edit 14 markdown files by
+  // hand). The first h1 in the body is the post title duplicate; remove.
+  const rawHtml = processed.toString().replace(/<h1\b[^>]*>[\s\S]*?<\/h1>\s*/i, "");
   const { html: htmlContent, headings } = addHeadingAnchors(rawHtml);
   const faqs = extractFaqs(content);
 
