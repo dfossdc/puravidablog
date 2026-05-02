@@ -109,7 +109,7 @@ const faqs = [
   },
   {
     q: "¿Mi seguro cubre la quiropráctica?",
-    a: "La mayoría de los seguros médicos en Estados Unidos cubren cierta atención quiropráctica, incluyendo Medicare, Medicaid, Aetna, Blue Cross Blue Shield, Cigna, United Healthcare y TRICARE. La cobertura específica varía por plan. La mayoría de las clínicas verifican sus beneficios sin costo antes de su primera visita.",
+    a: "Muchos planes de seguros médicos en Estados Unidos cubren cierta atención quiropráctica. La cobertura específica varía por plan. En Pura Vida Chiropractic somos insurance friendly — traiga su tarjeta de seguro y identificación a la oficina y verificaremos cómo su seguro puede contribuir a su cuidado.",
   },
 ];
 
@@ -415,7 +415,7 @@ export default async function QueEsUnQuiropracticoPage({ params }: Props) {
                 <li><strong>Plan de tratamiento típico</strong> (8-12 visitas): $300–$1,200 según complejidad.</li>
               </ul>
               <p className={styles.p}>
-                <strong>La mayoría de los seguros médicos en Estados Unidos cubren cierta atención quiropráctica</strong>, incluyendo Medicare, Medicaid, Aetna, Blue Cross Blue Shield, Cigna, United Healthcare y TRICARE. La cobertura específica varía. La mayoría de las clínicas verifican sus beneficios sin costo antes de su primera visita.
+                <strong>Muchos planes de seguros médicos en Estados Unidos cubren cierta atención quiropráctica.</strong> La cobertura específica varía por plan. En Pura Vida Chiropractic somos insurance friendly — traiga su tarjeta de seguro y identificación a la oficina y verificaremos cómo su seguro puede contribuir a su cuidado.
               </p>
             </section>
 

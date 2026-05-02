@@ -382,13 +382,13 @@ export const neighborhoods: NeighborhoodData[] = [
       "Quiropráctico Marbach / Loop 410 — atención bilingüe para la comunidad latina del Westside. Insurance friendly. Traiga su tarjeta de seguro e ID para verificar cobertura. Planes de pago accesibles. Pura Vida Chiropractic atiende 78227, 78211, 78224, 78237. (210) 685-1994.",
     whyChooseUs: [
       "Fully bilingual chiropractic care for Marbach corridor families",
-      "Insurance friendly. Military families using TRICARE can verify coverage at the office",
+      "Insurance friendly. Bring your insurance card and ID to the office to verify coverage",
       "Insurance friendly + accessible payment plans for self-pay patients",
       "Insurance friendly for auto injury cases (PIP)",
     ],
     whyChooseUsEs: [
       "Atención quiropráctica completamente bilingüe para familias del corredor Marbach",
-      "Insurance friendly. Familias militares usando TRICARE pueden verificar cobertura en la oficina",
+      "Insurance friendly. Traiga su tarjeta de seguro e identificación a la oficina para verificar cobertura",
       "Insurance friendly + planes de pago accesibles para pacientes sin seguro",
       "Insurance friendly para casos de lesiones de auto (PIP)",
     ],
@@ -517,13 +517,13 @@ export const neighborhoods: NeighborhoodData[] = [
     metaDescriptionEs:
       "Quiropráctico para Schertz — Pura Vida Chiropractic es insurance friendly para familias militares y civiles. Traiga su tarjeta de seguro e ID para verificar cobertura. SOT, SoftWave, prenatal, pediátrica. Bilingüe. 25 min de Schertz (78108, 78154). (210) 685-1994.",
     whyChooseUs: [
-      "Insurance friendly. Military families using TRICARE can verify coverage at the office",
+      "Insurance friendly. Bring your insurance card and ID to the office to verify coverage",
       "Bilingual chiropractic care for Schertz's diverse population",
       "Pediatric specialty for Schertz's growing families",
       "Advanced SOT — the only Sacro-Occipital Technique specialist in the area",
     ],
     whyChooseUsEs: [
-      "Insurance friendly. Familias militares usando TRICARE pueden verificar cobertura en la oficina",
+      "Insurance friendly. Traiga su tarjeta de seguro e identificación a la oficina para verificar cobertura",
       "Atención quiropráctica bilingüe para la diversa población de Schertz",
       "Especialidad pediátrica para las crecientes familias de Schertz",
       "SOT Avanzada — el único especialista en Técnica Sacro-Occipital en el área",
@@ -561,13 +561,13 @@ export const neighborhoods: NeighborhoodData[] = [
     metaDescriptionEs:
       "Quiropráctico para Cibolo — Pura Vida Chiropractic ofrece SOT Avanzada, SoftWave, atención bilingüe para familias de Cibolo. Insurance friendly. Traiga su tarjeta de seguro e ID para verificar cobertura. Vale el viaje de 30 min (78108). Primera visita gratis. (210) 685-1994.",
     whyChooseUs: [
-      "Insurance friendly. Military families using TRICARE can verify coverage at the office",
+      "Insurance friendly. Bring your insurance card and ID to the office to verify coverage",
       "Bilingual chiropractic care for Cibolo's diverse families",
       "Advanced SOT certification — rare in the suburban San Antonio area",
       "Pediatric and prenatal specialty unavailable in most Cibolo practices",
     ],
     whyChooseUsEs: [
-      "Insurance friendly. Familias militares usando TRICARE pueden verificar cobertura en la oficina",
+      "Insurance friendly. Traiga su tarjeta de seguro e identificación a la oficina para verificar cobertura",
       "Atención quiropráctica bilingüe para las diversas familias de Cibolo",
       "Certificación SOT Avanzada — rara en el área suburbana de San Antonio",
       "Especialidad pediátrica y prenatal no disponible en la mayoría de prácticas de Cibolo",

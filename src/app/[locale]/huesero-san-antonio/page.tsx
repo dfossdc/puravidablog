@@ -189,7 +189,7 @@ export default async function HueseroSanAntonioPage({ params }: Props) {
               <span className={styles.badge}>Licenciado en Texas</span>
               <span className={styles.badge}>23+ años de experiencia</span>
               <span className={styles.badge}>4.9⭐ Google · 147+ reseñas</span>
-              <span className={styles.badge}>Insurance friendly · TRICARE</span>
+              <span className={styles.badge}>Insurance friendly</span>
             </div>
           </div>
         </section>

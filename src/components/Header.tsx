@@ -193,7 +193,12 @@ export default function Header({ locale: rawLocale, currentSlug, currentPath }: 
       {/* ── Main Header ── */}
       <header className={styles.header}>
         <div className={styles.inner}>
-          <Link href={`/${locale}`} className={styles.brand}>
+          <Link
+            href={`/${locale}`}
+            className={styles.brand}
+            aria-label={locale === "es" ? "Pura Vida Chiropractic — Inicio" : "Pura Vida Chiropractic — Home"}
+            title="Pura Vida Chiropractic — San Antonio, TX"
+          >
             <Image
               src="/images/puravidalogo.png"
               alt="Pura Vida Chiropractic"
