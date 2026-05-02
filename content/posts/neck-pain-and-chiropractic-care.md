@@ -7,7 +7,7 @@ image: "/images/conditions/neck.jpg"
 keywords:
   - chiropractor San Antonio
   - neck pain and chiropractic care
-lang: es
+lang: en
 ---
 A pilot study published in the December 2005 scientific journal, Clinical Chiropractic, from the European association, The College of Chiropractors, showed that chiropractic helped subjects in the study with neck pain.
 
