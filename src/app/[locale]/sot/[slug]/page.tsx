@@ -29,8 +29,15 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const page = await fetchSotPageBySlug(slug, locale);
   if (!page) return {};
   const canonical = `${BASE_URL}/${locale}/sot/${slug}`;
+  // Append brand suffix so the <title> differs from in-page <h1>
+  // (which strips everything after the first "|"). Some SOT page titles
+  // don't contain a pipe so the H1 and <title> would otherwise be
+  // identical — Semrush flags that as duplicate H1+title.
+  const titleWithBrand = page.title.includes("|")
+    ? page.title
+    : `${page.title} | Pura Vida Chiropractic SA`;
   return {
-    title: page.title,
+    title: titleWithBrand,
     description: page.description,
     alternates: {
       canonical,

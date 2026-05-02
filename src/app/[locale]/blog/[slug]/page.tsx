@@ -33,8 +33,15 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const post = await fetchPostBySlug(slug, locale);
   if (!post) return {};
   const canonical = `${BASE_URL}/${locale}/blog/${slug}`;
+  // Append brand suffix to <title> so it differs from the in-page <h1>
+  // (which renders post.title verbatim). Semrush flagged 317 pages where
+  // H1 === <title>; this disambiguates without changing content. Suffix
+  // is short (~28 chars) so total title length stays within 60-70 char
+  // best-practice budget for typical post titles.
+  const brandSuffix = locale === "es" ? " | Pura Vida Chiropractic SA" : " | Pura Vida Chiropractic SA";
+  const titleWithBrand = `${post.title}${brandSuffix}`;
   return {
-    title: post.title,
+    title: titleWithBrand,
     description: post.description,
     keywords: post.keywords,
     authors: [{ name: post.author }],
