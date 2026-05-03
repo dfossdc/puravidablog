@@ -2,6 +2,7 @@ import Link from "next/link";
 import Image from "next/image";
 import TopBar from "./TopBar";
 import UrgencyBar from "./UrgencyBar";
+import MobileNav from "./MobileNav";
 import styles from "./Header.module.css";
 
 interface HeaderProps {
@@ -230,6 +231,10 @@ export default function Header({ locale: rawLocale, currentSlug, translatedSlug,
       {/* ── Main Header ── */}
       <header className={styles.header}>
         <div className={styles.inner}>
+          {/* Mobile drawer trigger + drawer (renders fixed-position; sits next
+              to brand on small screens, hidden on desktop). */}
+          <MobileNav locale={locale} langHref={langHref} />
+
           <Link
             href={`/${locale}`}
             className={styles.brand}
