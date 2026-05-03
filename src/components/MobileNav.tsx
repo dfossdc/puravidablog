@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import { createPortal } from "react-dom";
 import Link from "next/link";
 import styles from "./MobileNav.module.css";
 
@@ -179,6 +180,13 @@ const t = {
 export default function MobileNav({ locale, langHref }: MobileNavProps) {
   const [open, setOpen] = useState(false);
   const [openSection, setOpenSection] = useState<string | null>(null);
+  // Gate portal rendering until after hydration. document.body doesn't exist
+  // during SSR, and React 18+ portals into a different node on first render
+  // than client-side mismatches the hydrated tree.
+  const [mounted, setMounted] = useState(false);
+  useEffect(() => {
+    setMounted(true);
+  }, []);
   const copy = t[locale] ?? t.en;
 
   // Lock body scroll when drawer open
@@ -234,7 +242,11 @@ export default function MobileNav({ locale, langHref }: MobileNavProps) {
         <span className={styles.bar} aria-hidden="true" />
       </button>
 
-      {/* Backdrop + drawer (rendered always; toggled with `open` class) */}
+      {/* Backdrop + drawer rendered via portal directly into document.body —
+          escapes the <header>'s stacking context (z-index: 100) so the
+          drawer can sit above the announcement bar (z-index: 101) and any
+          other UI element. */}
+      {mounted && createPortal(<>
       <div
         className={`${styles.backdrop} ${open ? styles.backdropOpen : ""}`}
         onClick={() => setOpen(false)}
@@ -342,6 +354,7 @@ export default function MobileNav({ locale, langHref }: MobileNavProps) {
           </a>
         </div>
       </aside>
+      </>, document.body)}
     </>
   );
 }
