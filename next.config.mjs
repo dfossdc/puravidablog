@@ -219,6 +219,7 @@ const nextConfig = {
       { source: "/es/headache-chiropractor-san-antonio",     destination: "/es/quiropractico-dolor-de-cabeza-san-antonio", permanent: true },
       { source: "/es/scoliosis-chiropractor-san-antonio",    destination: "/es/quiropractico-escoliosis-san-antonio",      permanent: true },
       { source: "/es/postpartum-chiropractor-san-antonio",   destination: "/es/quiropractico-postparto-san-antonio",       permanent: true },
+      { source: "/es/quiropractico-posparto-san-antonio",    destination: "/es/quiropractico-postparto-san-antonio",       permanent: true },
       { source: "/es/best-chiropractor-san-antonio",         destination: "/es/el-mejor-quiropractico-san-antonio",        permanent: true },
       { source: "/es/chiropractor-near-me-san-antonio",      destination: "/es/quiropractico-cerca-de-mi-san-antonio",     permanent: true },
 
