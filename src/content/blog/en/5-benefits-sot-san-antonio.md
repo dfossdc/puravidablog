@@ -107,7 +107,7 @@ Your first step is a **free evaluation** at Pura Vida Chiropractic. During this 
 2. Perform a thorough SOT postural and structural assessment
 3. Explain her findings and recommend a personalized care plan
 
-We are conveniently located in San Antonio, TX and welcome patients from the surrounding areas including Alamo Heights, Stone Oak, Leon Valley, and the Medical Center district.
+Patients travel from across San Antonio and the surrounding areas — Alamo Heights, Stone Oak, Leon Valley, the Medical Center district, and beyond — to work with Dr. Foss specifically. Pura Vida is a destination practice for complex, chronic, and family-centered cases that need more than a standard adjustment.
 
 **Call us today at (210) 685-1994** or visit us at 2318 NW Military Hwy Suite 103, San Antonio, TX 78231.
 
