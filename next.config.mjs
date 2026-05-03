@@ -376,6 +376,15 @@ const nextConfig = {
       { source: "/es-mx/chiropractic-faq",                        destination: "/es/faq",                            permanent: true },
       { source: "/Auto-Injury-Chiropractor/",                     destination: "/en/services/auto-injury",           permanent: true },
 
+      // ── GSC May 3 2026: 'Duplicate canonical' trailing-slash variants ──
+      // The non-slash versions of these are already redirected (above).
+      // Google indexed the slash forms separately and chose its own canonical.
+      // Adding explicit slash variants so Google sees a clean 301 to the
+      // proper /en/... destination.
+      { source: "/cranial-chiropractor/", destination: "/en/services/sot-chiropractic", permanent: true },
+      { source: "/chiropractic-care/",    destination: "/en/services/chiropractic-care", permanent: true },
+      { source: "/chiropractic-blog/",    destination: "/en/blog", permanent: true },
+
     ];
   },
 };
