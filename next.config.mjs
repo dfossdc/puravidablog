@@ -359,6 +359,23 @@ const nextConfig = {
       { source: "/about-pura-vida-chiropractic/pura-vida-quiropractica/",
         destination: "/es/meet-dr-foss", permanent: true },
 
+      // ── GSC May 2026: 'Crawled - currently not indexed' WP legacy URLs ──
+      // Old WordPress URLs from the .net cutover that Google still crawls but
+      // refuses to index because they 404 / get a soft-404 response. Map
+      // each to the closest current page. Note Next redirects are
+      // case-sensitive — list capitalized variants explicitly.
+      { source: "/about-pura-vida/",                              destination: "/en/about",                          permanent: true },
+      { source: "/About-Pura-Vida",                               destination: "/en/about",                          permanent: true },
+      { source: "/About-Pura-Vida/",                              destination: "/en/about",                          permanent: true },
+      { source: "/Pediatric-Chiropractor",                        destination: "/en/services/pediatric-chiropractor", permanent: true },
+      { source: "/Pregnancy-Chiropractor/",                       destination: "/en/services/pregnancy-chiropractor", permanent: true },
+      { source: "/new-patient-form/",                             destination: "/en/new-patient",                    permanent: true },
+      { source: "/contact/",                                      destination: "/en/contact",                        permanent: true },
+      { source: "/pura-vida-chiropractic-cuestionario-spanish/",  destination: "/es/new-patient",                    permanent: true },
+      { source: "/chiropractic-faq",                              destination: "/en/faq",                            permanent: true },
+      { source: "/es-mx/chiropractic-faq",                        destination: "/es/faq",                            permanent: true },
+      { source: "/Auto-Injury-Chiropractor/",                     destination: "/en/services/auto-injury",           permanent: true },
+
     ];
   },
 };
