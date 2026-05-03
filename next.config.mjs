@@ -60,9 +60,9 @@ const nextConfig = {
       // ---- Old Doctible page URLs (45) ----
       { source: "/", destination: "/en", permanent: true },
       { source: "/infants-and-chiropractic", destination: "/en/services/infants-chiropractic", permanent: true },
-      { source: "/el-mejor-quiropractico-san-antonio", destination: "/en/el-mejor-quiropractico-san-antonio", permanent: true },
+      { source: "/el-mejor-quiropractico-san-antonio", destination: "/es/el-mejor-quiropractico-san-antonio", permanent: true },
       { source: "/auto-injury-chiropractor", destination: "/en/services/auto-injury", permanent: true },
-      { source: "/san-antonio-quiropractico", destination: "/en/san-antonio-quiropractico", permanent: true },
+      { source: "/san-antonio-quiropractico", destination: "/es/san-antonio-quiropractico", permanent: true },
       { source: "/ai-generated-content-disclaimer", destination: "/en/healthcare-disclaimer", permanent: true },
       { source: "/good-faith-estimate", destination: "/en/contact", permanent: true },
       { source: "/thank-you-form", destination: "/en/thank-you", permanent: true },
@@ -357,7 +357,7 @@ const nextConfig = {
 
       // Old long WP URL still showing up in GSC after the .net cutover
       { source: "/about-pura-vida-chiropractic/pura-vida-quiropractica/",
-        destination: "/es/meet-dr-foss", permanent: true },
+        destination: "/es/about", permanent: true },
 
       // ── GSC May 2026: 'Crawled - currently not indexed' WP legacy URLs ──
       // Old WordPress URLs from the .net cutover that Google still crawls but

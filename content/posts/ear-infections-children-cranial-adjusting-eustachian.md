@@ -1,6 +1,6 @@
 ---
 title: "Chronic Ear Infections in Children: Could Cranial Adjusting Help?"
-metaTitle: "Chronic Ear Infections in Children"
+metaTitle: "Chronic Ear Infections: Cranial Adjusting Help"
 date: "2024-10-04"
 description: "Recurrent ear infections in children are often treated with antibiotics and eventually tubes. But the Eustachian tube dysfunction that causes them frequently has a cranial bone origin that's never addressed."
 tags: ["ear infections", "otitis media", "cranial adjusting", "children", "pediatric", "temporal bone", "Eustachian tube"]
