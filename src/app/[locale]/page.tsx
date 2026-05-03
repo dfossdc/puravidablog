@@ -340,8 +340,8 @@ export default async function HomePage({ params }: Props) {
             <div className={styles.heroText}>
               <p className={styles.heroEyebrow}>
                 {isEs
-                  ? "Quiropráctico Bilingüe en San Antonio, TX — Hispanic Chiropractor in San Antonio"
-                  : "Top-Rated Chiropractor in San Antonio, TX — Bilingual & Hispanic-Owned Chiropractic Care"}
+                  ? "Quiropráctico Bilingüe en San Antonio, TX — Atención en Español e Inglés"
+                  : "Top-Rated Chiropractor in San Antonio, TX — Bilingual Chiropractic Care for the Hispanic Community"}
               </p>
               <h1 className={styles.heroTitle}>
                 {isEs ? "No Solo Ajustamos su Espalda. Tratamos Todo su Sistema." : "We Don't Just Adjust Your Back. We Treat Your Whole System."}

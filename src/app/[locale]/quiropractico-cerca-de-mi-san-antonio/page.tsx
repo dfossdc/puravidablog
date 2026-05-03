@@ -156,11 +156,11 @@ const faqs = [
   },
   {
     es: {
-      q: "¿Cómo reservo una cita con un quiropráctico hispano cerca de mí en San Antonio?",
+      q: "¿Cómo reservo una cita con un quiropráctico bilingüe cerca de mí en San Antonio?",
       a: "Es muy fácil. Llame al (210) 685-1994 para hablar directamente con nuestro equipo bilingüe, o reserve en línea las 24 horas en puravidasanantonio.com/special. Su primera evaluación es gratuita. Estamos en 2318 NW Military Hwy, Suite 103, San Antonio TX 78231 — fácil de alcanzar desde cualquier punto del área metropolitana.",
     },
     en: {
-      q: "How do I book an appointment with a Hispanic chiropractor near me in San Antonio?",
+      q: "How do I book an appointment with a bilingual Spanish-speaking chiropractor near me in San Antonio?",
       a: "It is very easy. Call (210) 685-1994 to speak directly with our bilingual team, or book online 24/7 at puravidasanantonio.com/special. Your first evaluation is free. We are at 2318 NW Military Hwy, Suite 103, San Antonio TX 78231 — easy to reach from anywhere in the metro area.",
     },
   },
