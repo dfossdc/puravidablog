@@ -485,8 +485,8 @@ export default async function HomePage({ params }: Props) {
                 <span className={styles.mvLabel}>{isEs ? "Nuestra Visión" : "Our Vision"}</span>
                 <p className={styles.mvText}>
                   {isEs
-                    ? "Un mundo donde la salud sea la norma, no solo un privilegio."
-                    : "A world where health is the norm, not just a privilege."}
+                    ? "Un mundo donde la salud sea la norma, no solo un privilegio. Imaginamos un San Antonio donde cada familia — en cada vecindario y en cada idioma — tenga acceso a atención de causa raíz que trata a la persona completa, para que el dolor crónico y la dependencia de medicamentos sean la excepción y no la regla."
+                    : "A world where health is the norm, not just a privilege. We envision a San Antonio where every family — in every neighborhood and every language — has access to root-cause care that treats the whole person, so chronic pain and medication dependency become the exception, not the rule."}
                 </p>
               </div>
             </div>
