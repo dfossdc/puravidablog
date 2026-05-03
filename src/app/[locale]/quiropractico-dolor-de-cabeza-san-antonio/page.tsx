@@ -92,5 +92,5 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 }
 
 export default async function Page({ params }: Props) {
-  return ConditionChiropractorPage({ params, content });
+  return <ConditionChiropractorPage params={params} content={content} />;
 }
