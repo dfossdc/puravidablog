@@ -105,7 +105,10 @@ interface FormState {
 const EMPTY_FORM: FormState = { name: "", email: "", phone: "", time: "", reason: "" };
 
 export default function ChatWidget({ locale }: Props) {
-  const t = COPY[locale];
+  // Defensive: fall back to English if the prop ever arrives as something
+  // other than "en" or "es". Should be impossible after [locale]/layout.tsx
+  // validation, but cheaper than a 500 if a future caller slips through.
+  const t = COPY[locale] ?? COPY.en;
   const [open, setOpen] = useState(false);
   const [mode, setMode] = useState<Mode>("chat");
   const [messages, setMessages] = useState<Message[]>([]);
