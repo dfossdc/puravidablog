@@ -39,7 +39,7 @@ Trigeminal neuralgia symptoms are distinctive and severe:
 
 ## How Cranial Chiropractic Addresses Trigeminal Neuralgia
 
-The difference between a typical chiropractic adjustment — which usually focuses on the spine — and a cranial chiropractic adjustment is that the focus is on moving the cranial bones. Dr. Foss has **advanced training in cranial chiropractic** and has helped numerous patients with TN not only eliminate their pain but stay healthy so the TN does not come back.
+The difference between a typical chiropractic adjustment — which usually focuses on the spine — and a cranial chiropractic adjustment is that the focus is on moving the cranial bones. Dr. Foss has **advanced training in cranial chiropractic** as a [SORSI-certified craniopath in San Antonio](/en/blog/cranial-chiropractic-craniopath-san-antonio) and has helped numerous patients with TN not only eliminate their pain but stay healthy so the TN does not come back.
 
 The cranial bones are not fused rigid structures — they have subtle, rhythmic motion that is essential to the circulation of cerebrospinal fluid and the function of the meningeal system. When cranial bone misalignment occurs, it can create direct mechanical pressure on the trigeminal nerve at several points:
 

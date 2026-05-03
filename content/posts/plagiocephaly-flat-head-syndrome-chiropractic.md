@@ -40,7 +40,7 @@ This is why some children complete a full course of helmet therapy and show cosm
 
 ## The Critical Intervention Window
 
-Cranial bones are most responsive to treatment in the first months of life, when they are still relatively soft and the cranial sutures are at their most mobile. The ideal window for cranial chiropractic assessment and treatment in a plagiocephalic infant is under six months of age — ideally, under three months.
+Cranial bones are most responsive to treatment in the first months of life, when they are still relatively soft and the cranial sutures are at their most mobile. The ideal window for [cranial chiropractic assessment and treatment](/en/blog/cranial-chiropractic-craniopath-san-antonio) in a plagiocephalic infant is under six months of age — ideally, under three months.
 
 This does not mean that older infants or even toddlers cannot benefit. It means that the earlier we begin, the less work is required to achieve correction, and the more fully the developing brain has access to a symmetric cranial environment during its most rapid period of growth.
 

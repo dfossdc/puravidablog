@@ -15,7 +15,7 @@ translatedSlug: "headaches-migraines-chiropractor-san-antonio"
 
 Los dolores de cabeza no son normales. Si depende de analgésicos solo para pasar el día, o si las migrañas lo obligan a cancelar planes, algo en su cuerpo está desequilibrado. El **cuidado quiropráctico para [dolores de cabeza y migrañas en San Antonio](https://puravidasanantonio.com/headaches-migraines/)** en Pura Vida Quiropráctica ofrece una solución poderosa y libre de medicamentos.
 
-El Dr. Dan Foss es uno de los pocos quiroprácticos en San Antonio con capacitación especializada en **[terapia quiropráctica craneal](https://puravidasanantonio.com/cranial-chiropractor/)**.
+El Dr. Dan Foss es uno de los pocos quiroprácticos en San Antonio con capacitación especializada en **[terapia quiropráctica craneal](https://puravidasanantonio.com/cranial-chiropractor/)**. Como [craniopath certificado por SORSI](/es/blog/quiropractica-craneal-craniopath-san-antonio), el Dr. Foss trata las migrañas con trabajo craneal SOT suave, sin chasquidos y sin empujes bruscos, que libera la tensión dural y restaura el flujo del líquido cefalorraquídeo.
 
 ## La Conexión Entre la Columna y los Dolores de Cabeza
 

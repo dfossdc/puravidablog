@@ -287,6 +287,30 @@ const nextConfig = {
       { source: "/es/services/class-iv-laser", destination: "/es/services/laser-clase-iv", permanent: true },
       { source: "/en/services/laser-clase-iv", destination: "/en/services/class-iv-laser", permanent: true },
 
+      // ── Semrush 4XX broken-link fixes (May 2026 audit) ──
+      // Old short-slug variants flagged as 404. The actual posts exist under
+      // longer descriptive slugs in /content/posts/. These 301s reclaim the
+      // SEO equity from external backlinks pointing at the old short URLs.
+      { source: "/en/blog/cranial-rhythmic-impulse", destination: "/en/blog/cranial-rhythmic-impulse-what-it-is-why-it-matters", permanent: true },
+      { source: "/en/blog/dejarnette-story", destination: "/en/blog/dejarnette-history-story-behind-sot-chiropractic", permanent: true },
+      { source: "/en/blog/sot-blocks", destination: "/en/blog/what-are-sot-blocks-how-do-they-work", permanent: true },
+      { source: "/en/blog/what-is-cmrt", destination: "/en/blog/what-is-cmrt-the-chiropractic-technique-that-adjusts-organs", permanent: true },
+      { source: "/en/blog/sot-categories", destination: "/en/blog/sot-category-i-ii-iii-what-your-doctor-means", permanent: true },
+      { source: "/en/blog/infantreflux", destination: "/en/blog/infant-reflux-cmrt-chiropractic-san-antonio", permanent: true },
+      { source: "/en/blog/conditions/infantreflux", destination: "/en/blog/infant-reflux-cmrt-chiropractic-san-antonio", permanent: true },
+
+      // ── /posts/* → /blog/* (legacy URL pattern) ──
+      // Some external links and internal references used /posts/ instead of
+      // /blog/. Same slug on both sides — straight 301 to the canonical /blog/ path.
+      { source: "/en/posts/:slug*", destination: "/en/blog/:slug*", permanent: true },
+      { source: "/es/posts/:slug*", destination: "/es/blog/:slug*", permanent: true },
+      { source: "/posts/:slug*", destination: "/en/blog/:slug*", permanent: true },
+
+      // ── Pages flagged 404 with no direct equivalent — send to closest topical match ──
+      { source: "/en/blog/first-visit", destination: "/en/blog/first-chiropractic-visit-what-to-expect", permanent: true },
+      { source: "/en/blog/sot-faq", destination: "/en/faq", permanent: true },
+      { source: "/en/blog/sot-research", destination: "/en/services/sot-chiropractic", permanent: true },
+
     ];
   },
 };
