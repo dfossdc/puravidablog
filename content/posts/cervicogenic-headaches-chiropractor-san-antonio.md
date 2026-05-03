@@ -25,11 +25,11 @@ These headaches originate from dysfunction in your cervical spine (neck), yet ma
 
 Cervicogenic headaches are headaches caused by dysfunction in the cervical spine and associated soft tissues.
 
-Unlike migraines that originate from neurological mechanisms or tension headaches from muscle tightness alone, cervicogenic headaches result from structural problems in your neck that trigger pain patterns extending into your head.
+Unlike migraines that originate from neurological mechanisms or tension headaches from muscle tightness alone, cervicogenic headaches result from structural problems in your neck. These trigger pain patterns extending into your head.
 
 The cervical spine contains abundant nerve structures, muscles, ligaments, and joint tissue that can generate pain signals.
 
-When vertebrae become misaligned (subluxated), intervertebral discs herniate, or muscles become chronically tight, these structures can irritate nerves and trigger pain that's perceived in the head, typically radiating from the base of your skull toward the front of your head or temple.
+When vertebrae become misaligned (subluxated—spinal misalignments), intervertebral discs herniate, or muscles become chronically tight, these structures can irritate nerves. This triggers pain that's perceived in the head. It typically radiates from the base of your skull toward the front of your head or temple.
 
 ## Common Characteristics of Cervicogenic Headaches
 
@@ -51,13 +51,13 @@ When vertebrae become misaligned (subluxated), intervertebral discs herniate, or
 
 Several factors can contribute to cervicogenic headache development:
 
-**Cervical Misalignments**: Vertebral subluxations in your neck, often from poor posture, trauma, or repetitive strain, create nerve irritation and trigger pain.
+**Cervical Misalignments**: Vertebral subluxations (spinal misalignments) in your neck, often from poor posture, trauma, or repetitive strain, create nerve irritation and trigger pain.
 
 **Muscle Tension and Trigger Points**: Chronically tight muscles in your neck and shoulders refer pain into your head.
 
 **Poor Posture**: Forward-head posture from computer work, smartphone use, or habitual positioning creates chronic stress on cervical structures.
 
-**Whiplash Injuries**: Previous neck injuries from motor vehicle accidents or falls can trigger cervicogenic headaches months or years after the initial trauma.
+**Whiplash Injuries**: Previous neck injuries from motor vehicle accidents or falls can trigger cervicogenic headaches. This may occur months or years after the initial trauma.
 
 **Arthritis and Degenerative Changes**: Cervical osteoarthritis creates inflammation and nerve irritation.
 

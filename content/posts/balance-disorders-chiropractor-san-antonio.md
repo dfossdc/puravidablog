@@ -49,19 +49,19 @@ When any of these systems dysfunction, balance problems result. The good news is
 
 ## Why Balance Disorders Develop
 
-**Cervical Subluxations**: Misalignments in your cervical spine reduce proprioceptive input from neck mechanoreceptors to the brain, disrupting balance.
+**Cervical Subluxations**: Misalignments in your cervical spine reduce proprioceptive input from neck mechanoreceptors to the brain. This disrupts balance.
 
 **Inner Ear Dysfunction**: Inflammation, infection, or fluid imbalance in the vestibular system disrupts balance signals.
 
-**Head Trauma**: Previous head injuries, whiplash, or falls can damage vestibular structures or create cervical misalignments affecting balance.
+**Head Trauma**: Previous head injuries, whiplash, or falls can damage vestibular structures. They can also create cervical misalignments affecting balance.
 
 **Viral Infections**: Viral illness can inflame the vestibular nerve or inner ear structures.
 
-**Poor Proprioception**: Reduced sensory input from joints and muscles due to misalignment or muscle tension.
+**Poor Proprioception**: Reduced sensory input from joints and muscles. This results from misalignment or muscle tension.
 
 **Neurological Dysfunction**: Interrupted nerve signals between your body's balance sensors and your brain.
 
-**Postural Dysfunction**: Poor alignment of your head, neck, and spine disrupts the body's balance mechanisms.
+**Postural Dysfunction**: Poor alignment of your head, neck, and spine. This disrupts the body's balance mechanisms.
 
 ## Why Conventional Treatment Often Fails
 
@@ -97,18 +97,18 @@ The **SOT protocol**, particularly its focus on proprioceptive mechanisms, allow
 - Normalize the reflex patterns that integrate balance information
 - Address Categories I, II, and III dysfunction affecting the entire spine
 
-SOT is particularly effective for balance disorders because it directly addresses the proprioceptive system's critical role in maintaining equilibrium.
+SOT is particularly effective for balance disorders. It directly addresses the proprioceptive system's critical role in maintaining equilibrium.
 
 ### Craniopathic and Cranial Adjustments for Vestibular Integration
 
 **Cranial adjustments** are particularly valuable for balance disorders because they:
 
 - Address the temporal bone structures surrounding the inner ear
-- Normalize cerebrospinal fluid flow affecting vestibular function
+- Normalize cerebrospinal fluid (the cushioning fluid around the brain and spine) flow affecting vestibular function
 - Improve neurological integration of balance signals
 - Release tension patterns affecting cranial nerves involved in balance
 
-Cranial work can be transformative for balance disorders, particularly BPPV and vestibular dysfunction.
+Cranial work can be transformative for balance disorders. This is particularly true for BPPV and vestibular dysfunction.
 
 ### CMRT for Reflex Pattern Normalization
 

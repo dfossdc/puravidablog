@@ -25,11 +25,11 @@ At Pura Vida Chiropractic in San Antonio, Dr. Dan Foss, DC recognizes that bloat
 
 Most people think bloating and gas result solely from food choices or eating habits. While diet plays a role, the underlying problem is often neurological.
 
-Your digestive system is controlled by your autonomic nervous system—specifically, the parasympathetic nervous system that promotes digestion and the sympathetic nervous system that inhibits it.
+Your digestive system is controlled by your autonomic nervous system (the body's automatic control system). This includes the parasympathetic nervous system (rest-and-digest mode) that promotes digestion and the sympathetic nervous system (fight-or-flight mode) that inhibits it.
 
-Vertebral misalignments (subluxations) create nervous system dysfunction that shifts your system toward sympathetic dominance (fight-or-flight response).
+Vertebral misalignments (vertebral subluxations—spinal misalignments) create nervous system dysfunction. This shifts your system toward sympathetic dominance (fight-or-flight response).
 
-In this state, digestion shuts down, stomach acid production decreases, intestinal motility becomes uncoordinated, and the conditions for bloating and gas production are established.
+In this state, digestion shuts down. Stomach acid production decreases. Intestinal motility becomes uncoordinated. These conditions set the stage for bloating and gas production.
 
 The vagus nerve, which controls most parasympathetic digestive function, originates at the base of your skull and extends through your thoracic and abdominal regions.
 
@@ -37,17 +37,21 @@ Misalignments in your cervical spine (neck), thoracic spine (mid-back), and lumb
 
 ## Why Gas and Bloating Develop: The Neurological Explanation
 
-### Reduced Stomach Acid Production
+**Reduced Stomach Acid Production**
+
 When your sympathetic nervous system dominates due to spinal subluxations, stomach acid production decreases. Without adequate stomach acid, proteins aren't properly digested. Undigested proteins ferment in your small intestine, producing excessive gas.
 
-### Impaired Intestinal Motility
-Proper digestion requires coordinated muscular contractions (peristalsis) that move food through the digestive tract. Spinal misalignments disrupt the nerve signals controlling these contractions, resulting in slow, uncoordinated intestinal movement. Food stagnates, fermentation increases, and bloating and gas result.
+**Impaired Intestinal Motility**
 
-### Compromised Intestinal Barrier Function
-Your small intestine's lining depends on proper parasympathetic innervation for integrity and function. When vagal tone is reduced by cervical spine subluxations, intestinal barrier function weakens, allowing partially digested food particles to trigger inflammatory responses and excessive gas production.
+Proper digestion requires coordinated muscular contractions (peristalsis) that move food through the digestive tract. Spinal misalignments disrupt the nerve signals controlling these contractions. This results in slow, uncoordinated intestinal movement. Food stagnates. Fermentation increases. Bloating and gas result.
 
-### Reduced Bile and Enzyme Production
-Your parasympathetic nervous system stimulates production of bile and digestive enzymes. Spinal misalignments reduce this parasympathetic drive, compromising fat digestion and overall digestive enzyme function. Undigested fats and carbohydrates ferment in the colon, producing excessive gas.
+**Compromised Intestinal Barrier Function**
+
+Your small intestine's lining depends on proper parasympathetic innervation for integrity and function. When vagal tone is reduced by cervical spine subluxations, intestinal barrier function weakens. Partially digested food particles trigger inflammatory responses and excessive gas production.
+
+**Reduced Bile and Enzyme Production**
+
+Your parasympathetic nervous system stimulates production of bile and digestive enzymes. Spinal misalignments reduce this parasympathetic drive. This compromises fat digestion and overall digestive enzyme function. Undigested fats and carbohydrates ferment in the colon, producing excessive gas.
 
 ## Dr. Dan Foss's Advanced Approach to Bloating and Gas
 

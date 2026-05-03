@@ -17,54 +17,56 @@ translatedSlug: "tendinitis-quiropractico-san-antonio"
 
 # Tendonitis Treatment at Pura Vida Chiropractic in San Antonio
 
-Tendonitis—inflammation of tendons connecting muscles to bones—causes pain, weakness, and restricted motion that can severely limit your activities.
+Tendonitis—inflammation of tendons connecting muscles to bones—causes pain, weakness, and restricted motion. This can severely limit your activities.
 
 Whether you experience tennis elbow, golfer's elbow, Achilles tendonitis, rotator cuff tendonitis, or patellar tendonitis, the underlying problem is inflammation and microscopic damage to tendon tissues from excessive or abnormal stress.
 
-At Pura Vida Chiropractic, Dr. Dan Foss, DC specializes in treating tendonitis by addressing both the local inflammation and the biomechanical dysfunction creating abnormal stress on tendons.
+At Pura Vida Chiropractic, Dr. Dan Foss, DC specializes in treating tendonitis. He addresses both the local inflammation and the biomechanical dysfunction creating abnormal stress on tendons.
 
 ## Understanding Tendonitis: Anatomy and Pathophysiology
 
-Tendons are dense connective tissues that transmit force from muscles to bones, enabling movement. Unlike muscles, tendons have limited blood supply and receive nutrients primarily through diffusion. This makes tendons slow to heal when injured.
+Tendons are dense connective tissues that transmit force from muscles to bones, enabling movement. Unlike muscles, tendons have limited blood supply. They receive nutrients primarily through diffusion. This makes tendons slow to heal when injured.
 
-Tendonitis occurs when tendons become inflamed and damaged from:
+Tendonitis occurs when tendons become inflamed and damaged.
 
-### Common Tendonitis Sites
-- **Shoulder:** Rotator cuff tendonitis (supraspinatus, infraspinatus)
-- **Elbow:** Lateral epicondylitis (tennis elbow) and medial epicondylitis (golfer's elbow)
-- **Wrist:** Flexor carpi radialis and extensor carpi radialis tendonitis
-- **Hip:** Iliopsoas and hip adductor tendonitis
-- **Knee:** Patellar tendonitis (jumper's knee)
-- **Ankle:** Achilles tendonitis and peroneal tendonitis
-- **Foot:** Posterior tibial tendonitis and extensor tendonitis
+**Common Tendonitis Sites**
 
-### How Tendonitis Develops
+- **Shoulder**: Rotator cuff tendonitis (supraspinatus, infraspinatus)
+- **Elbow**: Lateral epicondylitis (tennis elbow) and medial epicondylitis (golfer's elbow)
+- **Wrist**: Flexor carpi radialis and extensor carpi radialis tendonitis
+- **Hip**: Iliopsoas and hip adductor tendonitis
+- **Knee**: Patellar tendonitis (jumper's knee)
+- **Ankle**: Achilles tendonitis and peroneal tendonitis
+- **Foot**: Posterior tibial tendonitis and extensor tendonitis
+
+**How Tendonitis Develops**
+
 Tendonitis develops from:
-- **Repetitive stress:** Repetitive movements creating cumulative microtrauma
-- **Acute overuse:** Sudden increase in activity level or intensity
-- **Abnormal biomechanics:** Misaligned joints creating uneven stress distribution
-- **Inadequate recovery:** Insufficient rest between repetitive activities
-- **Aging:** Tendons naturally weaken with age
+- **Repetitive stress**: Repetitive movements creating cumulative microtrauma.
+- **Acute overuse**: Sudden increase in activity level or intensity.
+- **Abnormal biomechanics**: Misaligned joints creating uneven stress distribution.
+- **Inadequate recovery**: Insufficient rest between repetitive activities.
+- **Aging**: Tendons naturally weaken with age.
 
 ## The Biomechanical Root of Tendonitis
 
-While tendonitis is often attributed to overuse, the real problem is abnormal biomechanics creating excessive stress on specific tendons. For example:
+While tendonitis is often attributed to overuse, the real problem is abnormal biomechanics. This creates excessive stress on specific tendons. For example:
 
-**Rotator Cuff Tendonitis:** Results from shoulder impingement mechanics (often caused by cervical spine misalignment and postural dysfunction) that create abnormal stress on rotator cuff tendons.
+**Rotator Cuff Tendonitis**: Results from shoulder impingement mechanics. Often caused by cervical spine misalignment and postural dysfunction that create abnormal stress on rotator cuff tendons.
 
-**Tennis Elbow:** Results from altered wrist and elbow mechanics from cervical and thoracic spine misalignment affecting nerve supply and muscle coordination.
+**Tennis Elbow**: Results from altered wrist and elbow mechanics from cervical and thoracic spine misalignment. This affects nerve supply and muscle coordination.
 
-**Achilles Tendonitis:** Results from ankle and foot mechanics altered by sacroiliac joint or lower lumbar spine dysfunction.
+**Achilles Tendonitis**: Results from ankle and foot mechanics altered by sacroiliac joint or lower lumbar spine dysfunction.
 
-**Patellar Tendonitis:** Results from altered knee mechanics from hip and pelvic misalignment.
+**Patellar Tendonitis**: Results from altered knee mechanics from hip and pelvic misalignment.
 
-Without correcting the underlying biomechanical problem, tendonitis recurs repeatedly despite rest, ice, and other symptomatic treatments.
+Without correcting the underlying biomechanical problem, tendonitis recurs repeatedly. This happens despite rest, ice, and other symptomatic treatments.
 
 ## Why Dr. Dan Foss's Approach Works for Tendonitis
 
 Dr. Dan Foss has successfully treated tendonitis of all types since founding Pura Vida Chiropractic in 2010. His understanding that tendonitis results from biomechanical dysfunction rather than isolated overuse makes his approach uniquely effective.
 
-Rather than simply reducing inflammation at the tendon, Dr. Foss corrects the spinal and joint misalignments creating abnormal stress on the tendon. By restoring normal biomechanics, he allows the inflammation to resolve and prevents recurrence.
+Rather than simply reducing inflammation at the tendon, Dr. Foss corrects the spinal and joint misalignments creating abnormal stress on the tendon. By restoring normal biomechanics, he allows the inflammation to resolve. He also prevents recurrence.
 
 ## The Pura Vida Protocol for Tendonitis Treatment
 

@@ -35,13 +35,13 @@ Additionally, chronic pain from spinal dysfunction often worsens anxiety and dep
 
 Cervical misalignments interfere with vagal function, preventing your nervous system from properly shifting into the calm, relaxed state essential for mental health.
 
-**Autonomic Dysregulation**: Spinal misalignments create imbalance between your sympathetic (fight-or-flight) and parasympathetic (rest-and-digest) nervous systems, leaving you in a constant state of hypervigilance and stress.
+**Autonomic Dysregulation**: Spinal misalignments create imbalance between your sympathetic (fight-or-flight) and parasympathetic (rest-and-digest) nervous systems. You end up in a constant state of hypervigilance and stress.
 
-**Cerebrospinal Fluid Flow**: Spinal misalignments can restrict cerebrospinal fluid flow, affecting the neurochemical environment of your brain.
+**Cerebrospinal Fluid Flow**: Spinal misalignments can restrict cerebrospinal fluid (the cushioning fluid around the brain and spine) flow. This affects the neurochemical environment of your brain.
 
-**Vertebrobasilar Artery Function**: Cervical misalignments can compromise blood flow to the brainstem, affecting mood-regulating centers.
+**Vertebrobasilar Artery Function**: Cervical misalignments can compromise blood flow to the brainstem. This affects mood-regulating centers.
 
-**Reflex Patterns**: Subluxations create abnormal reflex patterns that dysregulate the organs and systems that support mental health, including the adrenal glands, thyroid, and gut.
+**Reflex Patterns**: Subluxations create abnormal reflex patterns that dysregulate (throw out of balance) the organs and systems that support mental health. These include the adrenal glands, thyroid, and gut.
 
 ## Common Presentations of Anxiety and Depression
 
@@ -84,12 +84,12 @@ The **Pura Vida Protocol** provides comprehensive nervous system optimization sp
 The **SOT protocol**, including Categories I, II, and III, optimizes nervous system function by:
 
 - Correcting cervical spine misalignments that interfere with vagal function and parasympathetic tone
-- Restoring proper cerebrospinal fluid flow supporting optimal brain chemistry
+- Restoring proper cerebrospinal fluid (the cushioning fluid around the brain and spine) flow supporting optimal brain chemistry
 - Normalizing spinal alignment affecting blood flow to brainstem and limbic system
 - Addressing the sacropelvic complex, which influences the entire nervous system's organizational state
 - Normalizing the reflex patterns that regulate stress response systems and emotional processing
 
-SOT is particularly valuable for anxiety and depression because it addresses the structural nervous system foundation that underlies emotional regulation.
+SOT is particularly valuable for anxiety and depression. It addresses the structural nervous system foundation that underlies emotional regulation.
 
 ### CMRT for Organ-Related Mental Health Support
 

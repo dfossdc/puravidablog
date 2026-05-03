@@ -17,45 +17,39 @@ translatedSlug: "pinzamiento-hombro-quiropractico-san-antonio"
 
 # Shoulder Impingement Treatment at Pura Vida Chiropractic in San Antonio
 
-Shoulder impingement syndrome causes pain, weakness, and restricted motion that can significantly limit your daily activities and professional work.
+Shoulder impingement syndrome causes pain, weakness, and restricted motion. These can significantly limit your daily activities and professional work.
 
-Whether you experience pain when raising your arm, reaching behind your back, or sleeping on the affected shoulder, the underlying problem is mechanical compression of the rotator cuff tendons and subacromial bursa.
-
-At Pura Vida Chiropractic, Dr. Dan Foss, DC specializes in identifying and correcting the spinal and shoulder misalignments causing impingement through advanced SOT and comprehensive assessment techniques.
+Whether you experience pain when raising your arm, reaching behind your back, or sleeping on the affected shoulder, the underlying problem is mechanical compression. The rotator cuff tendons and subacromial bursa become pinched. At Pura Vida Chiropractic, Dr. Dan Foss, DC specializes in identifying and correcting the spinal and shoulder misalignments causing impingement through advanced SOT and comprehensive assessment techniques.
 
 ## Understanding Shoulder Impingement: Anatomy and Pathophysiology
 
 Shoulder impingement occurs when the subacromial space—the narrow space beneath the acromion process and coracoid ligament—becomes compromised. The rotator cuff tendons (supraspinatus, infraspinatus, teres minor, subscapularis) and the subacromial bursa normally move freely through this space.
 
-When the space narrows, these structures become pinched, causing inflammation, pain, and gradually, functional loss.
+When the space narrows, these structures become pinched. This causes inflammation, pain, and gradually, functional loss.
 
-### Structures at Risk
-- **Supraspinatus tendon:** The most commonly impinged rotator cuff tendon
-- **Subacromial bursa:** The fluid-filled sac that reduces friction
-- **Long head of biceps tendon:** Often affected when supraspinatus impingement occurs
-- **Infraspinatus and teres minor:** May be impinged in more severe cases
+**Structures at Risk**
 
-### Common Impingement Mechanisms
+- **Supraspinatus tendon**: The most commonly impinged rotator cuff tendon.
+- **Subacromial bursa**: The fluid-filled sac that reduces friction.
+- **Long head of biceps tendon**: Often affected when supraspinatus impingement occurs.
+- **Infraspinatus and teres minor**: May be impinged in more severe cases.
 
-**Acromion Shape:** Some people have hooked acromions that naturally narrow the subacromial space.
+**Common Impingement Mechanisms**
 
-**Postural Dysfunction:** Forward shoulder posture and increased thoracic kyphosis reduce subacromial space.
-
-**Rotator Cuff Weakness:** Weak rotator cuff muscles fail to properly position the humeral head, increasing impingement risk.
-
-**Scapular Dyskinesis:** Abnormal scapular (shoulder blade) movement creates impingement mechanics.
-
-**Cervical and Thoracic Subluxations:** Spinal misalignments alter shoulder biomechanics and nerve supply to shoulder muscles.
-
-**Inflammation and Bursa Enlargement:** Swelling of the subacromial bursa reduces available space.
+- **Acromion Shape**: Some people have hooked acromions that naturally narrow the subacromial space.
+- **Postural Dysfunction**: Forward shoulder posture and increased thoracic kyphosis (excessive upper back curve) reduce subacromial space.
+- **Rotator Cuff Weakness**: Weak rotator cuff muscles fail to properly position the humeral head, increasing impingement risk.
+- **Scapular Dyskinesis** (abnormal shoulder blade movement): Abnormal scapular movement creates impingement mechanics.
+- **Cervical and Thoracic Subluxations** (spinal misalignments): Spinal misalignments alter shoulder biomechanics and nerve supply to shoulder muscles.
+- **Inflammation and Bursa Enlargement**: Swelling of the subacromial bursa reduces available space.
 
 ## The Spinal Connection to Shoulder Impingement
 
 Many shoulder impingement cases have a spinal origin that's frequently overlooked. The cervical spine (particularly C5 and C6) provides nerve supply to the rotator cuff muscles. Additionally, the thoracic spine affects scapular position and shoulder mechanics.
 
-When vertebral subluxations occur in these regions, they impair rotator cuff muscle function and alter shoulder biomechanics, creating or perpetuating impingement.
+When vertebral subluxations (spinal misalignments) occur in these regions, they impair rotator cuff muscle function. They also alter shoulder biomechanics, creating or perpetuating impingement.
 
-Furthermore, cervical and thoracic spine misalignments create postural dysfunction that directly contributes to shoulder impingement. Forward head posture and thoracic kyphosis (excessive upper back curve) narrow the subacromial space, creating mechanical compression.
+Furthermore, cervical and thoracic spine misalignments create postural dysfunction that directly contributes to shoulder impingement. Forward head posture and thoracic kyphosis narrow the subacromial space, creating mechanical compression.
 
 Dr. Dan Foss's comprehensive approach addresses both the shoulder itself and the spinal misalignments contributing to impingement.
 
@@ -65,31 +59,29 @@ Dr. Dan Foss has successfully treated hundreds of shoulder impingement cases at 
 
 The key to his success is recognizing that effective shoulder impingement treatment requires:
 
-1. Correcting cervical and thoracic spinal misalignments affecting shoulder function
-2. Restoring proper scapular biomechanics
-3. Reducing inflammation and relieving mechanical impingement
-4. Strengthening weak rotator cuff muscles
-5. Correcting postural dysfunction
+- Correcting cervical and thoracic spinal misalignments affecting shoulder function
+- Restoring proper scapular biomechanics
+- Reducing inflammation and relieving mechanical impingement
+- Strengthening weak rotator cuff muscles
+- Correcting postural dysfunction
 
 His comprehensive approach addresses all these components, producing superior outcomes for shoulder impingement patients.
 
 ## The Pura Vida Protocol for Shoulder Impingement Relief
 
-### SOT Category I: Cervical and Thoracic Alignment
+**SOT Category I: Cervical and Thoracic Alignment**
 
-The cervical spine (particularly C4, C5, C6) provides nerve supply to rotator cuff muscles. Subluxations in this region impair muscle function and create functional shoulder instability.
-
-SOT Category I techniques correct cervical subluxations, restoring proper nerve supply and rotator cuff muscle function.
+The cervical spine (particularly C4, C5, C6) provides nerve supply to rotator cuff muscles. Subluxations (spinal misalignments) in this region impair muscle function and create functional shoulder instability. SOT Category I techniques correct cervical subluxations, restoring proper nerve supply and rotator cuff muscle function.
 
 The thoracic spine directly affects scapular position. Thoracic spine misalignments create scapular dyskinesis (abnormal movement), which mechanically narrows the subacromial space and promotes impingement. SOT Category I corrections restore proper thoracic alignment, normalizing scapular mechanics.
 
-### SOT Category II: Cranial-Related Shoulder Dysfunction
+**SOT Category II: Cranial-Related Shoulder Dysfunction**
 
-While the cranium's connection to shoulder impingement isn't obvious, cranial misalignments create autonomic nervous system dysfunction affecting shoulder muscle function. The parasympathetic nervous system (which promotes muscle relaxation and healing) is compromised by cranial restrictions.
+While the cranium's connection to shoulder impingement isn't obvious, cranial misalignments create autonomic nervous system (the body's automatic control system) dysfunction affecting shoulder muscle function. The parasympathetic nervous system (the rest-and-digest mode, which promotes muscle relaxation and healing) is compromised by cranial restrictions.
 
 SOT Category II cranial adjustments enhance parasympathetic function, allowing rotator cuff muscles to relax and normalize.
 
-### SOT Category III: Overall Structural Integration
+**SOT Category III: Overall Structural Integration**
 
 Category III corrections ensure that the entire spine is structurally sound and mechanically efficient. By addressing overall spinal alignment, Dr. Foss optimizes the biomechanical foundation upon which shoulder function depends.
 

@@ -46,9 +46,9 @@ Common triggers include alcohol consumption, certain foods, strong smells, and s
 
 ## The Neurological Basis of Cluster Headaches
 
-Cluster headaches involve dysfunction of the trigeminovascular system—the complex interaction between the trigeminal nerve (the fifth cranial nerve responsible for facial sensation and pain perception) and blood vessels in the brain.
+Cluster headaches involve dysfunction of the trigeminovascular system. This is the complex interaction between the trigeminal nerve (the fifth cranial nerve responsible for facial sensation and pain perception) and blood vessels in the brain.
 
-Additionally, cluster headaches involve hypothalamic dysfunction, explaining the circadian pattern and seasonal clustering of attacks.
+Additionally, cluster headaches involve hypothalamic dysfunction. This explains the circadian pattern and seasonal clustering of attacks.
 
 The trigeminal nerve originates at the brain stem and divides into three branches (ophthalmic, maxillary, mandibular) supplying the face. Irritation or dysfunction of the ophthalmic division (the branch responsible for eye and upper face sensation) produces the characteristic cluster headache pain.
 
@@ -66,17 +66,17 @@ The key insight is that cluster headaches result from structural cranial and upp
 
 ### SOT Category II: Cranial Adjustments for Trigeminal Nerve Release
 
-SOT Category II techniques specifically address cranial bone misalignments that irritate the trigeminal nerve. The trigeminal nerve exits the skull through the foramen ovale, foramen rotundum, and supraorbital foramen.
+SOT Category II techniques specifically address cranial bone misalignments that irritate the trigeminal nerve. The trigeminal nerve exits the skull through the foramen ovale, foramen rotundum, and supraorbital foramen (the openings nerves pass through).
 
-Misalignments of the sphenoid bone, temporal bones, and maxilla create mechanical irritation at these foramina, causing nerve compression and trigeminal dysfunction.
+Misalignments of the sphenoid bone, temporal bones, and maxilla create mechanical irritation at these foramina (the openings nerves pass through). This causes nerve compression and trigeminal dysfunction.
 
-Dr. Foss's precise cranial adjustments release these restrictions, removing mechanical pressure from the trigeminal nerve. This often produces rapid pain relief—some patients experience reduction in cluster headache intensity immediately after treatment.
+Dr. Foss's precise cranial adjustments release these restrictions. They remove mechanical pressure from the trigeminal nerve. This often produces rapid pain relief. Some patients experience reduction in cluster headache intensity immediately after treatment.
 
 ### Addressing Hypothalamic Dysfunction
 
-The hypothalamus, a small brain structure controlling circadian rhythms and autonomic function, is implicated in cluster headache pathophysiology. Misalignments of the cranial bones restrict cerebrospinal fluid circulation and blood flow to the hypothalamus, impairing its function.
+The hypothalamus, a small brain structure controlling circadian rhythms and autonomic function, is implicated in cluster headache pathophysiology. Misalignments of the cranial bones restrict cerebrospinal fluid (the cushioning fluid around the brain and spine) circulation and blood flow to the hypothalamus. This impairs its function.
 
-SOT Category II cranial adjustments enhance cerebrospinal fluid circulation and hypothalamic blood flow, normalizing this critical regulatory center. As hypothalamic function improves, the circadian pattern of cluster attacks often normalizes, cluster episodes shorten, and frequency decreases.
+SOT Category II cranial adjustments enhance cerebrospinal fluid (the cushioning fluid around the brain and spine) circulation and hypothalamic blood flow. They normalize this critical regulatory center. As hypothalamic function improves, the circadian pattern of cluster attacks often normalizes. Cluster episodes shorten. Frequency decreases.
 
 ### SOT Category I: Upper Cervical Alignment
 

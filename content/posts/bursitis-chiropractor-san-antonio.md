@@ -25,17 +25,18 @@ At Pura Vida Chiropractic, Dr. Dan Foss, DC specializes in treating bursitis by 
 
 ## Understanding Bursitis: Anatomy and Pathophysiology
 
-Bursae are small, fluid-filled sacs strategically located between bones and soft tissues (tendons, muscles, skin). They reduce friction during movement and provide cushioning against impact. Over 160 bursae exist throughout your body, but only about 15 commonly become inflamed.
+Bursae are small, fluid-filled sacs strategically located between bones and soft tissues (tendons, muscles, skin). They reduce friction during movement and provide cushioning against impact. Over 160 bursae exist throughout your body. However, only about 15 commonly become inflamed.
 
-### Most Common Sites of Bursitis
+Most common sites of bursitis:
+
 - **Shoulder:** Subacromial and subdeltoid bursae
 - **Elbow:** Olecranon bursa (rear of elbow)
 - **Hip:** Trochanteric and iliopsoas bursae
 - **Knee:** Infrapatellar and suprapatellar bursae
 - **Ankle:** Achilles and retrocalcaneal bursae
 
-### The Inflammation Problem
 Bursae become inflamed from:
+
 - Repetitive stress and microtrauma
 - Acute impact injury
 - Abnormal biomechanics creating excessive pressure
@@ -49,9 +50,9 @@ Most bursitis cases result from abnormal biomechanics that create excessive stre
 
 **Shoulder Bursitis:** Results from shoulder impingement mechanics that compress the subacromial bursa. Underlying causes include cervical spine misalignments, postural dysfunction, and rotator cuff weakness.
 
-**Hip Bursitis:** Results from abnormal hip mechanics from pelvic misalignment, sacroiliac joint dysfunction, or lumbar spine subluxations.
+**Hip Bursitis:** Results from abnormal hip mechanics. These come from pelvic misalignment, sacroiliac joint dysfunction, or lumbar spine subluxations (spinal misalignments).
 
-**Knee Bursitis:** Results from abnormal knee tracking from pelvic or lumbar spine misalignment affecting hip and knee mechanics.
+**Knee Bursitis:** Results from abnormal knee tracking. This comes from pelvic or lumbar spine misalignment affecting hip and knee mechanics.
 
 Addressing only the local inflammation through ice, NSAIDs, or corticosteroid injections fails to address the underlying biomechanical problem. Without correcting the abnormal mechanics, bursitis recurs repeatedly.
 

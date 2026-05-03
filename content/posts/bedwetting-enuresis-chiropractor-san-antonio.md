@@ -25,9 +25,9 @@ At Pura Vida Chiropractic, Dr. Dan Foss, DC specializes in addressing the underl
 
 Many parents don't realize that bedwetting is not simply a behavioral or developmental issue—it's a neurological control problem. Your child's ability to maintain bladder control during sleep depends on proper communication between the brain, spinal cord, and bladder.
 
-When vertebral misalignments (subluxations) interfere with these neural pathways, bedwetting results.
+When vertebral misalignments (vertebral subluxations—spinal misalignments) interfere with these neural pathways, bedwetting results.
 
-The sacral spine contains nerve roots (S2, S3, S4) that directly control bladder function and continence. Additionally, the thoracic spine houses sympathetic nerves that regulate bladder tone and the anti-diuretic hormone production necessary for reducing nighttime urine production.
+The sacral spine contains nerve roots (S2, S3, S4) that directly control bladder function and continence. Additionally, the thoracic spine houses sympathetic nerves that regulate bladder tone. These also regulate the anti-diuretic hormone production necessary for reducing nighttime urine production.
 
 When these spinal regions are misaligned, your child's nervous system cannot properly coordinate the complex neurological processes required for nighttime continence.
 
@@ -55,13 +55,13 @@ When the sacrum is properly aligned, the nerve roots that control bladder sensat
 
 ### Category II: Cranial Involvement in Enuresis
 
-While it might seem counterintuitive, bedwetting often involves cranial dysfunction. Your child's brain must maintain arousal during sleep to recognize a full bladder and trigger awakening.
+While it might seem counterintuitive, bedwetting often involves cranial dysfunction. Your child's brain must maintain arousal during sleep. It needs to recognize a full bladder and trigger awakening.
 
-When cranial bones are misaligned, cerebrospinal fluid circulation is restricted, affecting the brain's ability to maintain appropriate sleep-wake awareness.
+When cranial bones are misaligned, cerebrospinal fluid (the cushioning fluid around the brain and spine) circulation is restricted. This affects the brain's ability to maintain appropriate sleep-wake awareness.
 
-Additionally, the brain stem controls the transition between sleep states and arousal. Cranial misalignments create dysfunction in the brain stem, preventing your child from waking when the bladder is full.
+Additionally, the brain stem controls the transition between sleep states and arousal. Cranial misalignments create dysfunction in the brain stem. This prevents your child from waking when the bladder is full.
 
-SOT Category II techniques release these cranial restrictions, normalizing sleep architecture and allowing your child to respond appropriately to bladder signals.
+SOT Category II techniques release these cranial restrictions. They normalize sleep architecture and allow your child to respond appropriately to bladder signals.
 
 ### Category III: Overall Spinal Structural Integrity
 
@@ -73,7 +73,7 @@ Chiropractic Manipulative Reflex Technique (CMRT) directly stimulates the neurol
 
 By addressing these reflex patterns through CMRT, Dr. Foss enhances the neurological coordination necessary for continence.
 
-CMRT is particularly valuable in cases where bedwetting involves excessive urination, poor bladder capacity, or over-relaxation of the urinary sphincter. The technique stimulates the reflex pathways that improve bladder tone and increase sphincter control during sleep.
+CMRT is particularly valuable in cases where bedwetting involves excessive urination, poor bladder capacity, or over-relaxation of the urinary sphincter. The technique stimulates the reflex pathways that improve bladder tone. It increases sphincter control during sleep.
 
 ## Cranial Adjustments for Sleep and Neurological Maturation
 

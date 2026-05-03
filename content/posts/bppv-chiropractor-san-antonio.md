@@ -27,9 +27,12 @@ Using SOT cranial protocols and specialized techniques, Dr. Foss addresses the u
 BPPV is the most common cause of vertigo, affecting approximately 2% of the population at some point. The condition involves:
 
 - A disturbance in the balance system (vestibular system) in the inner ear
-- Small calcium carbonate crystals (otoconia or "ear rocks") that become dislodged within the inner ear canals—specifically, they escape from the utricle and saccule, the otolith organs that normally detect linear acceleration and head position, and drift into the semicircular canals
-- The vestibular labyrinth, a bony maze housed in the temporal bone, contains fluid-filled membranous ducts and these crucial balance-sensing structures
-- When you move your head, displaced crystals shift and stimulate balance receptors in the semicircular canals, creating a false sensation of spinning
+- Small calcium carbonate crystals (otoconia or "ear rocks") that become dislodged within the inner ear canals
+- These crystals escape from the utricle and saccule (the otolith organs that normally detect linear acceleration and head position)
+- The crystals drift into the semicircular canals
+- The vestibular labyrinth (a bony maze housed in the temporal bone) contains fluid-filled membranous ducts and these crucial balance-sensing structures
+- When you move your head, displaced crystals shift and stimulate balance receptors in the semicircular canals
+- This creates a false sensation of spinning
 - Symptoms are triggered by specific head movements or positions that move the loose crystals within the affected canal
 
 BPPV is called "benign" because it's not life-threatening, "paroxysmal" because it comes in episodes, and "positional" because specific head positions trigger symptoms.
@@ -106,7 +109,7 @@ At Pura Vida Chiropractic, Dr. Foss has treated thousands of vertigo cases and u
 
 Dr. Foss's SOT Advanced certification is particularly valuable for BPPV. The two most relevant categories are:
 
-- **Category II (Cranial Techniques)**: This is the most important for BPPV treatment. Cranial adjustments restore the Primary Respiratory Mechanism (PRM)—the subtle, rhythmic cerebrospinal fluid pulsation that drives coordinated motion of all cranial bones. When the PRM is normalized, the petrous portion of the temporal bone regains its natural oscillation, optimizing vestibular fluid dynamics and reducing semicircular canal sensitivity. Cranial adjustments also:
+- **Category II (Cranial Techniques)**: This is the most important for BPPV treatment. Cranial adjustments restore the Primary Respiratory Mechanism (PRM). This is the subtle, rhythmic cerebrospinal fluid (the cushioning fluid around the brain and spine) pulsation that drives coordinated motion of all cranial bones. When the PRM is normalized, the petrous portion of the temporal bone regains its natural oscillation. This optimizes vestibular fluid dynamics and reduces semicircular canal sensitivity. Cranial adjustments also:
   - Restore proper cranial structure and alignment
   - Optimize inner ear structure and function
   - Normalize cerebrospinal fluid flow affecting the vestibular system
@@ -135,7 +138,7 @@ The cervical spine (neck) has direct relationships with the vestibular system th
 
 - The upper cervical vertebrae contain proprioceptive nerve endings that feed directly into the vestibular nuclei of the brainstem
 - Cervical vertebral misalignment disrupts proprioceptive feedback, perpetuating vestibular dysfunction even after crystal repositioning
-- During examination, Dr. Foss assesses for nystagmus (involuntary eye movements that appear in response to specific head positions), which confirms vestibular involvement and guides treatment direction
+- During examination, Dr. Foss assesses for nystagmus (involuntary eye movements that appear in response to specific head positions). This confirms vestibular involvement and guides treatment direction
 - Temporal bone compression during past head injury or birth trauma alters the bony labyrinth structure housing the vestibular apparatus
 - By restoring cervical alignment and normalizing proprioceptive-vestibular feedback loops, chiropractic care stabilizes balance more durably
 

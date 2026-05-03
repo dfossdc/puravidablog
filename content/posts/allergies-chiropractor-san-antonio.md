@@ -53,7 +53,7 @@ The development of allergies involves several factors:
 
 Your nervous system and immune system are intimately connected. The autonomic nervous system directly regulates immune function through vagal and sympathetic pathways.
 
-When your nervous system is dysregulated due to stress or spinal misalignments, your immune system often becomes dysregulated as well, leading to excessive allergic responses.
+When your nervous system is dysregulated (out of balance) due to stress or spinal misalignments, your immune system often becomes dysregulated (out of balance) as well. This leads to excessive allergic responses.
 
 This is why chiropractic care addressing spinal misalignments and nervous system function can positively influence allergic responses.
 
@@ -74,14 +74,14 @@ The **Pura Vida Protocol** provides comprehensive support for immune system regu
 
 ### SOT (Sacro Occipital Technique) for Nervous System Optimization
 
-The **SOT protocol**, including Categories I, II, and III, optimizes nervous system function, which directly influences immune regulation through:
+The **SOT protocol**, including Categories I, II, and III, optimizes nervous system function. This directly influences immune regulation through:
 
-- Correction of vertebral subluxations that interrupt nerve signals to immune organs (thymus, lymph nodes, spleen)
-- Restoration of proper cerebrospinal fluid flow, supporting immune function
-- Normalization of sympathetic and parasympathetic nervous system balance
+- Correction of vertebral subluxations (spinal misalignments) that interrupt nerve signals to immune organs (thymus, lymph nodes, spleen)
+- Restoration of proper cerebrospinal fluid (the cushioning fluid around the brain and spine) flow, supporting immune function
+- Normalization of sympathetic (fight-or-flight mode) and parasympathetic (rest-and-digest mode) nervous system balance
 - Enhancement of the vagus nerve's anti-inflammatory function
 
-When your nervous system functions optimally, your immune system is more balanced and less prone to excessive allergic responses.
+When your nervous system functions optimally, your immune system is more balanced. This reduces the risk of excessive allergic responses.
 
 ### CMRT for Immune Organ Function
 
@@ -194,9 +194,9 @@ You should consider professional support for allergies if you have:
 
 Dr. Foss has successfully supported hundreds of allergy patients since founding Pura Vida Chiropractic in 2010.
 
-His **SOT Advanced certification** and comprehensive understanding of the Pura Vida Protocol enable him to optimize nervous system and immune function in ways that support reduced allergic responses.
+His **SOT Advanced certification** and comprehensive understanding of the Pura Vida Protocol enable him to optimize nervous system and immune function. This supports reduced allergic responses.
 
-He recognizes that allergies involve nervous system dysregulation and immune imbalance, not just isolated immunological reactions. His comprehensive approach addresses these underlying factors, helping patients experience improved function and reduced allergic burden.
+He recognizes that allergies involve nervous system dysregulation (out of balance) and immune imbalance, not just isolated immunological reactions. His comprehensive approach addresses these underlying factors. This helps patients experience improved function and reduced allergic burden.
 
 ## Frequently Asked Questions
 

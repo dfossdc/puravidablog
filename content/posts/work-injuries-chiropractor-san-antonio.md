@@ -17,15 +17,16 @@ translatedSlug: "quiropractico-lesion-trabajo-san-antonio"
 
 # Work Injuries Chiropractor in San Antonio, TX
 
-Work-related injuries affect millions of workers every year, causing pain, lost work time, and significant financial stress.
+Work-related injuries affect millions of workers every year. They cause pain, lost work time, and significant financial stress.
 
-Whether you experience a sudden workplace accident or develop gradual injury from occupational repetitive stress, work injuries require specialized treatment that addresses both immediate symptoms and long-term functional restoration.
+Whether you experience a sudden workplace accident or develop gradual injury from occupational repetitive stress, work injuries require specialized treatment. You need care that addresses both immediate symptoms and long-term functional restoration.
 
 At Pura Vida Chiropractic, Dr. Dan Foss, DC specializes in comprehensive work injury care using advanced SOT techniques and a systematic approach to return you to full occupational function.
 
 ## Types of Work Injuries We Treat
 
-### Acute Workplace Accidents
+**Acute Workplace Accidents**
+
 - Fall injuries
 - Lifting injuries
 - Struck-by injuries
@@ -33,20 +34,23 @@ At Pura Vida Chiropractic, Dr. Dan Foss, DC specializes in comprehensive work in
 - Vehicle accidents during work
 - Repetitive strain from sudden increased workload
 
-### Occupational Overuse Injuries
+**Occupational Overuse Injuries**
+
 - Carpal tunnel syndrome from repetitive keyboard/mouse use
 - Tennis elbow from repetitive gripping
 - Lower back pain from prolonged sitting or heavy lifting
 - Neck and shoulder pain from computer work
 - Hip and knee pain from standing/walking occupations
 
-### Cumulative Trauma Disorders
+**Cumulative Trauma Disorders**
+
 - Repetitive strain injuries (RSIs)
 - Tendonitis from occupational tasks
 - Nerve compression syndromes from workplace conditions
 - Joint dysfunction from occupational stress
 
-### Postural and Ergonomic Injuries
+**Postural and Ergonomic Injuries**
+
 - Chronic neck and shoulder pain from poor workstation setup
 - Lower back pain from prolonged sitting
 - Headaches from visual strain and forward posture
@@ -56,47 +60,48 @@ At Pura Vida Chiropractic, Dr. Dan Foss, DC specializes in comprehensive work in
 
 Work injuries differ from typical injuries because:
 
-### Ongoing Occupational Stress
+**Ongoing Occupational Stress**
+
 Unlike sports injuries where athletes can rest during recovery, workers must often continue their jobs while healing. This requires treatment that allows functional recovery without complete rest.
 
-### Ergonomic and Biomechanical Factors
-Work injuries typically involve ergonomic stress—poor workstation setup, repetitive motions, sustained postures—that created the injury and must be modified to prevent recurrence.
+**Ergonomic and Biomechanical Factors**
 
-### Workers' Compensation Considerations
-Work injury treatment must document the extent of injury, treatment efficacy, and functional limitations/recovery for workers' compensation purposes.
+Work injuries typically involve ergonomic stress—poor workstation setup, repetitive motions, sustained postures—that created the injury. These factors must be modified to prevent recurrence.
 
-### Return-to-Work Challenges
-Effective work injury treatment must not only address pain and inflammation but restore the specific functional capacity required for your job.
+**Workers' Compensation Considerations**
+
+Work injury treatment must document the extent of injury, treatment efficacy, and functional limitations and recovery for workers' compensation purposes.
+
+**Return-to-Work Challenges**
+
+Effective work injury treatment must not only address pain and inflammation. It must restore the specific functional capacity required for your job.
 
 ## Dr. Dan Foss's Work Injury Expertise
 
-Dr. Dan Foss has specialized in work injury treatment since founding Pura Vida Chiropractic in 2010. He understands the complex demands of work injury treatment and has helped hundreds of San Antonio workers recover from occupational injuries and return to full function.
+Dr. Dan Foss has specialized in work injury treatment since founding Pura Vida Chiropractic in 2010. He understands the complex demands of work injury treatment. He has helped hundreds of San Antonio workers recover from occupational injuries and return to full function.
 
 His advanced SOT training allows him to address the spinal and biomechanical dysfunction underlying work injuries. His experience with workers' compensation ensures proper documentation and communication with employers and insurance providers.
 
 ## The Pura Vida Protocol for Work Injury Treatment
 
-### Immediate Injury Assessment and Stabilization
+**Immediate Injury Assessment and Stabilization**
 
 When you arrive with an acute work injury, Dr. Foss's first priority is:
 
-**Assessment:** Thorough examination to determine the extent of injury and identify any serious conditions requiring medical referral.
+- **Assessment**: Thorough examination to determine the extent of injury and identify any serious conditions requiring medical referral.
+- **Documentation**: Detailed medical records documenting the mechanism of injury, symptoms, findings, and initial treatment.
+- **Stabilization**: Immediate care to reduce pain, prevent further injury, and limit inflammation.
+- **Activity Recommendations**: Specific guidance regarding activities to modify or avoid during acute healing.
 
-**Documentation:** Detailed medical records documenting the mechanism of injury, symptoms, findings, and initial treatment.
+**SOT Category I: Spinal Alignment for Mechanical Recovery**
 
-**Stabilization:** Immediate care to reduce pain, prevent further injury, and limit inflammation.
-
-**Activity Recommendations:** Specific guidance regarding activities to modify or avoid during acute healing.
-
-### SOT Category I: Spinal Alignment for Mechanical Recovery
-
-Work injuries typically create subluxations (vertebral misalignments) that perpetuate pain and dysfunction. SOT Category I techniques correct these subluxations, restoring proper spinal alignment and nerve function.
+Work injuries typically create subluxations (spinal misalignments) that perpetuate pain and dysfunction. SOT Category I techniques correct these subluxations, restoring proper spinal alignment and nerve function.
 
 For example:
 
-**Back Injury from Lifting:** Category I corrections address lumbar and sacral subluxations from the lifting injury, reducing nerve irritation and allowing colon healing.
+**Back Injury from Lifting**: Category I corrections address lumbar and sacral subluxations from the lifting injury, reducing nerve irritation and allowing healing.
 
-**Repetitive Strain from Computer Work:** Category I corrections address cervical and thoracic subluxations developed from poor ergonomics, restoring normal nerve function to stressed muscles.
+**Repetitive Strain from Computer Work**: Category I corrections address cervical and thoracic subluxations developed from poor ergonomics, restoring normal nerve function to stressed muscles.
 
 By correcting the mechanical component of work injuries, Dr. Foss allows natural healing to proceed.
 
