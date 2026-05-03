@@ -16,6 +16,14 @@ keywords:
   - "Spanish speaking chiropractor San Antonio"
   - "postpartum chiropractor San Antonio"
   - "pediatric cranial chiropractor San Antonio"
+  - "infant head shaping chiropractor San Antonio"
+  - "plagiocephaly chiropractor San Antonio"
+  - "brachycephaly chiropractor San Antonio"
+  - "torticollis chiropractor San Antonio"
+  - "tongue tie chiropractor San Antonio"
+  - "lip tie chiropractor San Antonio"
+  - "frenectomy cranial care San Antonio"
+  - "newborn latching chiropractor San Antonio"
   - "SORSI chiropractor San Antonio"
   - "Pura Vida Chiropractic San Antonio"
 slug: "cranial-chiropractic-craniopath-san-antonio"
@@ -51,11 +59,23 @@ Cranial bone restriction directly impacts cerebrospinal fluid flow and intracran
 
 ### Postpartum Cranial Dysfunction
 
-Childbirth places extraordinary stress on a mother's pelvis and cranium, and on the newborn's skull. Mothers often present postpartum with persistent headaches, jaw pain, or pelvic-floor dysfunction. Newborns may show signs of cranial molding, latching difficulties, torticollis, or plagiocephaly. Cranial chiropractic offers gentle, safe care for both mother and baby in this critical recovery window. Dr. Foss is also **Webster Technique certified** for prenatal patients.
+Childbirth places extraordinary stress on a mother's pelvis and cranium, and on the newborn's skull. Mothers often present postpartum with persistent headaches, jaw pain, or pelvic-floor dysfunction. Cranial chiropractic offers gentle, safe care for both mother and baby in this critical recovery window. Dr. Foss is also **Webster Technique certified** for prenatal patients.
 
-### Pediatric Cranial Concerns
+### Infant Head Shaping (Plagiocephaly, Brachycephaly, Torticollis)
 
-Beyond the newborn period, children may benefit from cranial work for ear infections, sleep difficulties, behavioral and sensory regulation, and developmental concerns. The cranial techniques used with infants and children are extraordinarily gentle — no thrust, no force, only the lightest touch needed to invite the cranium back to balance.
+A growing number of San Antonio parents notice their newborn developing a flat spot on one side of the head (plagiocephaly), an unusually wide or flattened back of the skull (brachycephaly), or a persistent head-turn preference that signals torticollis. Conventional medicine often defaults to a wait-and-see approach or a cranial helmet referral, but the underlying issue is frequently **cranial bone restriction and cervical-spine asymmetry that gentle craniopath work can address directly** — often in the first months of life when the skull is still highly malleable.
+
+Dr. Foss uses extraordinarily gentle SOT cranial techniques (no thrust, no force — only the lightest touch needed) to invite the cranium back toward balance and to release the cervical patterns that create asymmetric head-shape development. Many families come to Pura Vida specifically as an alternative to or in conjunction with helmet therapy, and many report visible head-shape changes within weeks of starting care.
+
+### Tongue Tie and Lip Tie — Cranial Adjustments for Infants
+
+Tongue tie (ankyloglossia) and upper-lip tie are often discussed solely in terms of the frenulum, but the **cranial mechanics around the tongue-tie presentation matter just as much**. Restricted cranial bone motion — particularly at the temporal and occipital bones — can compound the effects of an oral tie, contributing to latching difficulties, poor weight gain, fussiness, and reflux symptoms.
+
+Pura Vida is one of the few San Antonio practices offering **cranial chiropractic care specifically integrated with tongue-tie cases** — pre-frenectomy work to release surrounding cranial tension, and post-frenectomy follow-up to support the new oral motor patterns. We collaborate willingly with IBCLC lactation consultants, pediatric dentists, and ENTs whose patients benefit from the cranial component most providers don't address.
+
+### Pediatric Cranial Concerns Beyond the Newborn Period
+
+Children grow into cranial work as well as out of it. Beyond infancy, kids may benefit from cranial care for ear infections, sleep difficulties, behavioral and sensory regulation, headaches in school-age children, and developmental concerns. The cranial techniques used with infants and children are extraordinarily gentle — no thrust, no force, only the lightest touch needed to invite the cranium back to balance.
 
 ## What a Cranial Chiropractic Visit Looks Like
 
