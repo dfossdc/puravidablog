@@ -67,7 +67,7 @@ That is the lineage Dr. DeJarnette built. That is the standard SORSI upholds. An
 
 ## Further Reading
 
-If you want the full picture of how SOT care is built, start with our [SOT pillar page](https://puravidasanantonio.com/en/sot), our [patient FAQ](https://puravidasanantonio.com/en/sot-faq), or the [story of Dr. DeJarnette himself](https://puravidasanantonio.com/en/blog/dejarnette-story).
+If you want the full picture of how SOT care is built, start with our [SOT pillar page](https://puravidasanantonio.com/en/sot), our [patient FAQ](https://puravidasanantonio.com/en/sot/faq), or the [story of Dr. DeJarnette himself](https://puravidasanantonio.com/en/blog/dejarnette-story).
 
 ---
 

@@ -74,7 +74,7 @@ SOT has been clinically practiced in thousands of offices worldwide for over 90 
 
 SORSI maintains an active research program and an Evidence-Based Research Network (EBRN). New studies continue to validate SOT principles in areas ranging from pediatric colic to concussion recovery.
 
-See our [Research and Evidence page](https://puravidasanantonio.com/en/sot-research) for citations.
+See our [Research and Evidence page](https://puravidasanantonio.com/en/sot/research) for citations.
 
 ## Will SOT make me healthier?
 

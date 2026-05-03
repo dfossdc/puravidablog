@@ -67,7 +67,7 @@ Ese es el linaje que el Dr. DeJarnette construyó. Ese es el estándar que SORSI
 
 ## Lectura Adicional
 
-Si quieres el panorama completo de cómo se construye el cuidado SOT, comienza con nuestra [página pilar de SOT](https://puravidasanantonio.com/es/sot), nuestras [preguntas frecuentes para pacientes](https://puravidasanantonio.com/es/sot-faq), o la [historia del propio Dr. DeJarnette](https://puravidasanantonio.com/es/blog/historia-dejarnette).
+Si quieres el panorama completo de cómo se construye el cuidado SOT, comienza con nuestra [página pilar de SOT](https://puravidasanantonio.com/es/sot), nuestras [preguntas frecuentes para pacientes](https://puravidasanantonio.com/es/sot/faq), o la [historia del propio Dr. DeJarnette](https://puravidasanantonio.com/es/blog/historia-dejarnette).
 
 ---
 

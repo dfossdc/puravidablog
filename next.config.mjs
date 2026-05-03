@@ -311,6 +311,17 @@ const nextConfig = {
       { source: "/en/blog/sot-faq", destination: "/en/faq", permanent: true },
       { source: "/en/blog/sot-research", destination: "/en/services/sot-chiropractic", permanent: true },
 
+      // ── ES short-slug → long-slug aliases (May 2026) ──
+      // SOT pillar/faq/etc markdown content links to short Spanish slugs that
+      // never existed as standalone files. Now backed by full ES translations
+      // sitting at the longer descriptive slugs.
+      { source: "/es/blog/primera-visita", destination: "/es/blog/primera-visita-quiropractico-que-esperar", permanent: true },
+      { source: "/es/blog/que-es-cmrt", destination: "/es/blog/que-es-cmrt-quiropractica-visceral-san-antonio", permanent: true },
+      { source: "/es/blog/impulso-ritmico-craneal", destination: "/es/blog/impulso-ritmico-craneal-que-es-por-que-importa", permanent: true },
+      { source: "/es/blog/historia-dejarnette", destination: "/es/blog/historia-dejarnette-detras-de-quiropractica-sot", permanent: true },
+      { source: "/es/blog/bloques-sot", destination: "/es/blog/que-son-los-bloques-sot-como-funcionan", permanent: true },
+      { source: "/es/blog/categorias-sot", destination: "/es/blog/categorias-sot-i-ii-iii-que-significan", permanent: true },
+
     ];
   },
 };

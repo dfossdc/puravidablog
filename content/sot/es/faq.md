@@ -74,7 +74,7 @@ SOT ha sido practicado clínicamente en miles de consultorios en todo el mundo d
 
 SORSI mantiene un programa activo de investigación y una Red de Investigación Basada en Evidencia (EBRN). Nuevos estudios continúan validando los principios SOT en áreas que van desde el cólico infantil hasta la recuperación de conmociones.
 
-Consulta nuestra [página de Investigación y Evidencia](https://puravidasanantonio.com/es/sot-investigacion) para citas.
+Consulta nuestra [página de Investigación y Evidencia](https://puravidasanantonio.com/es/sot/research) para citas.
 
 ## ¿SOT me hará más saludable?
 

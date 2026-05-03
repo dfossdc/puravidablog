@@ -88,7 +88,7 @@ When you receive Advanced SOT care at Pura Vida, you are receiving the full, ori
 
 - Read the story of [Dr. DeJarnette — "The Major"](https://puravidasanantonio.com/en/blog/dejarnette-story)
 - Read the [SOT pillar page](https://puravidasanantonio.com/en/sot)
-- Browse our [Research and Evidence page](https://puravidasanantonio.com/en/sot-research)
+- Browse our [Research and Evidence page](https://puravidasanantonio.com/en/sot/research)
 - Visit [SORSI's official site](https://sorsi.com) for the organization's own materials
 
 ## Ready to Experience Advanced SOT Care?

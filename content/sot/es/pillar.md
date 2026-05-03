@@ -121,8 +121,8 @@ SOT se busca con mayor frecuencia para condiciones que no se han resuelto con ot
 
 SOT ha sido practicado clínicamente en miles de consultorios en todo el mundo durante más de 90 años. La investigación reciente coloca el riesgo de lesión grave por un ajuste quiropráctico en **menos de 1 en 6,000,000**. Para contexto, el quiropráctico promedio paga $1,000–$2,000 por año por seguro de mala praxis; muchos médicos pagan más que eso por semana. El método suave de SOT basado en bloques está entre los más seguros dentro de la quiropráctica.
 
-[Lee nuestras preguntas frecuentes completas sobre SOT](https://puravidasanantonio.com/es/sot-faq)
-[Lee sobre la investigación y evidencia SOT](https://puravidasanantonio.com/es/sot-investigacion)
+[Lee nuestras preguntas frecuentes completas sobre SOT](https://puravidasanantonio.com/es/sot/faq)
+[Lee sobre la investigación y evidencia SOT](https://puravidasanantonio.com/es/sot/research)
 
 ## ¿Listo para Experimentar Verdadero Cuidado SOT en San Antonio?
 

@@ -121,8 +121,8 @@ SOT is most often sought for conditions that have not resolved with other care:
 
 SOT has been clinically practiced in thousands of offices worldwide for over 90 years. Recent research places the risk of serious injury from a chiropractic adjustment at **less than 1 in 6,000,000**. For context, the average chiropractor pays $1,000–$2,000 per year for malpractice insurance; many medical doctors pay more than that per week. SOT's gentle, blocks-based method is among the safest approaches within chiropractic.
 
-[Read our full SOT FAQ](https://puravidasanantonio.com/en/sot-faq)
-[Read about SOT research and evidence](https://puravidasanantonio.com/en/sot-research)
+[Read our full SOT FAQ](https://puravidasanantonio.com/en/sot/faq)
+[Read about SOT research and evidence](https://puravidasanantonio.com/en/sot/research)
 
 ## Ready to Experience Real SOT Care in San Antonio?
 
