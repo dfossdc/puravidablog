@@ -14,11 +14,26 @@ export function middleware(request: NextRequest) {
   const requestHeaders = new Headers(request.headers);
   requestHeaders.set("x-pathname", request.nextUrl.pathname);
 
-  return NextResponse.next({
+  const response = NextResponse.next({
     request: {
       headers: requestHeaders,
     },
   });
+
+  // Block indexing of all non-production hosts (Vercel preview URLs like
+  // puravidablog.vercel.app, puravidablog-git-*.vercel.app, etc.).
+  // Google has been indexing the preview deployment URL alongside the
+  // canonical puravidasanantonio.com — this header tells Google to drop
+  // those duplicates from the index without affecting production.
+  const host = request.headers.get("host") ?? "";
+  const isProduction =
+    host === "puravidasanantonio.com" || host === "www.puravidasanantonio.com";
+
+  if (!isProduction) {
+    response.headers.set("X-Robots-Tag", "noindex, nofollow");
+  }
+
+  return response;
 }
 
 export const config = {
