@@ -56,6 +56,8 @@ Cada paciente es diferente. Algunas condiciones agudas responden con unas pocas 
 
 La quiropráctica SOT no es un ajuste único para todos — es un enfoque preciso e individualizado para restaurar la arquitectura de su columna vertebral y la integridad de su sistema nervioso. Miles de personas en San Antonio y más allá han recuperado su salud gracias a esta notable técnica.
 
+Para la subespecialidad craneal de SOT — que utilizamos para neuralgia del trigémino, trastornos de ATM, migrañas crónicas, recuperación posparto y preocupaciones craneales pediátricas — consulte nuestra guía complementaria sobre [quiropráctica craneal y la especialidad craniopath en San Antonio](/es/blog/quiropractica-craneal-craniopath-san-antonio). El Dr. Foss es craniopath certificado por SORSI, instructor y miembro de la junta directiva.
+
 ---
 ¿Listo para experimentar la diferencia? Reserve su **Evaluación Gratis** en Pura Vida Quiropráctica.
 [Reservar Ahora →](https://puravidasanantonio.com/contact)

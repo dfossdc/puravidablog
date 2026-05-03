@@ -55,6 +55,8 @@ Many parents in San Antonio are surprised to learn that children can benefit eno
 
 Pediatric adjustments performed by **Dr. Dan Foss** are extraordinarily gentle — the pressure used on an infant is no more than you would comfortably apply to your own closed eyelid. Children typically enjoy their adjustments and respond rapidly to care.
 
+For newborns presenting with cranial molding, plagiocephaly, torticollis, or latching difficulties — and for postpartum mothers recovering from cranial-pelvic stress — Dr. Foss draws on his SORSI craniopath training. Read more about our [cranial chiropractic and craniopath specialty care](/en/blog/cranial-chiropractic-craniopath-san-antonio) for the cases where standard pediatric care has not been enough.
+
 ## A Family-Centered Practice in San Antonio
 
 **Pura Vida Chiropractic** is proud to be a family practice. We treat patients ranging from newborns to grandparents, and we understand that families in San Antonio need a provider they can trust with the most vulnerable members of the household. Our welcoming clinic environment is designed to put children at ease, and Dr. Dan Foss takes the time to thoroughly explain every step of care to parents.

@@ -56,6 +56,8 @@ Every patient is different. Some acute conditions respond within a handful of vi
 
 SOT chiropractic is not a one-size-fits-all adjustment — it is a precise, individualized approach to restoring the architecture of your spine and the integrity of your nervous system. Thousands of people across San Antonio and beyond have reclaimed their health through this remarkable technique.
 
+For the cranial-specialty subset of SOT — used in our practice for trigeminal neuralgia, TMJ disorders, chronic migraines, postpartum recovery, and pediatric cranial concerns — see our companion guide on [cranial chiropractic and the craniopath specialty in San Antonio](/en/blog/cranial-chiropractic-craniopath-san-antonio). Dr. Foss is a SORSI-certified craniopath, instructor, and board member.
+
 ---
 Ready to experience the difference? Book your **Free Evaluation** at Pura Vida Chiropractic.
 [Book Now →](https://puravidasanantonio.com/contact)
