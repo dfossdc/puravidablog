@@ -19,7 +19,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: isEs
       ? "El Mejor Quiropráctico en San Antonio TX | Cómo Elegir | Pura Vida"
-      : "Best Chiropractor in San Antonio TX | How to Choose | Pura Vida",
+      : "Best Chiropractor San Antonio TX | How to Choose — Pura Vida",
     description: isEs
       ? "Cómo elegir el mejor quiropráctico en San Antonio TX. Guía completa: credenciales, certificaciones, técnicas, qué preguntar. Conozca al Dr. Dan Foss DC en Pura Vida Chiropractic."
       : "How to choose the best chiropractor in San Antonio TX. Complete guide: credentials, certifications, techniques, what to ask. Meet Dr. Dan Foss DC at Pura Vida Chiropractic.",
@@ -27,7 +27,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       canonical,
       languages: {
         en: `${BASE_URL}/en/best-chiropractor-san-antonio`,
-        es: `${BASE_URL}/es/best-chiropractor-san-antonio`,
+        es: `${BASE_URL}/es/el-mejor-quiropractico-san-antonio`,
         "x-default": `${BASE_URL}/en/best-chiropractor-san-antonio`,
       },
     },

@@ -19,7 +19,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: isEs
       ? "Quiropráctico Cerca de Mí en San Antonio TX | Pura Vida"
-      : "Chiropractor Near Me in San Antonio TX | Pura Vida Chiropractic",
+      : "Chiropractor Near Me in San Antonio TX | Pura Vida",
     description: isEs
       ? "¿Buscas un quiropráctico cerca de ti en San Antonio TX? Pura Vida Chiropractic — Dr. Dan Foss DC ofrece evaluación gratuita, atención bilingüe y técnicas avanzadas. Llame (210) 685-1994."
       : "Looking for a chiropractor near you in San Antonio TX? Pura Vida Chiropractic — Dr. Dan Foss DC offers free evaluation, bilingual care, and advanced techniques. Call (210) 685-1994.",
@@ -27,7 +27,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       canonical,
       languages: {
         en: `${BASE_URL}/en/chiropractor-near-me-san-antonio`,
-        es: `${BASE_URL}/es/chiropractor-near-me-san-antonio`,
+        es: `${BASE_URL}/es/quiropractico-cerca-de-mi-san-antonio`,
         "x-default": `${BASE_URL}/en/chiropractor-near-me-san-antonio`,
       },
     },
@@ -135,7 +135,7 @@ export default async function ChiropractorNearMePage({ params }: Props) {
     "@id": canonical,
     name: "Pura Vida Chiropractic",
     description: isEs
-      ? "Quiropráctico cerca de usted en San Antonio TX. Atención bilingüe."
+      ? "Quiropráctico cerca de usted San Antonio. Atención bilingüe."
       : "Chiropractor near you in San Antonio TX. Bilingual care.",
     image: `${BASE_URL}/images/dr-foss-adjusting-patient.webp`,
     url: canonical,
@@ -205,8 +205,8 @@ export default async function ChiropractorNearMePage({ params }: Props) {
           <div className={styles.heroContent}>
             <p className={styles.heroEyebrow}>
               {isEs
-                ? "Pura Vida Chiropractic · 2318 NW Military Hwy · San Antonio TX 78231"
-                : "Pura Vida Chiropractic · 2318 NW Military Hwy · San Antonio TX 78231"}
+                ? "Pura Vida · 2318 NW Military Hwy · San Antonio TX 78231"
+                : "Pura Vida · 2318 NW Military Hwy · San Antonio TX 78231"}
             </p>
             <h1 className={styles.heroTitle}>
               {isEs

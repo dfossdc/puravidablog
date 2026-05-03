@@ -26,7 +26,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: isEs
       ? "Quiropráctico San Antonio TX | Mejor Quiropráctico | Pura Vida Chiropractic"
-      : "Chiropractor in San Antonio TX | Best Chiropractor Near Me | Pura Vida",
+      : "Chiropractor San Antonio | Best Chiropractor | Pura Vida",
     description: isEs
       ? "El Dr. Dan Foss — mejor quiropráctico en San Antonio TX. Ajuste quiropráctico San Antonio, terapia SoftWave, láser Clase IV. Quiropráctico cerca de mí en Stone Oak, Castle Hills, Alamo Heights y Helotes. Técnica SOT, quiropráctico que habla español, más de 23 años de experiencia. ¡Evaluación quiropráctica gratis San Antonio!"
       : "Pura Vida Chiropractic — top-rated chiropractor in San Antonio TX. Dr. Dan Foss DC offers chiropractic adjustment, SoftWave therapy, Class IV laser. Chiropractor near me serving Stone Oak, Castle Hills, Alamo Heights, and Helotes. SOT chiropractic, Spanish-speaking chiropractor in San Antonio TX, 23+ years experience. Free evaluation!",
@@ -44,7 +44,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     openGraph: {
       title: isEs
         ? "Quiropráctico San Antonio TX | Pura Vida Chiropractic"
-        : "Chiropractor San Antonio TX | Best Chiropractor Near Me | Pura Vida Chiropractic",
+        : "Chiropractor San Antonio TX | Best Chiropractor | Pura Vida",
       description: isEs
         ? "Quiropráctico bilingüe en San Antonio TX. Atendemos Stone Oak, Castle Hills, Alamo Heights y Helotes. Dr. Dan Foss, DC — más de 23 años de experiencia."
         : "Best chiropractor near me in San Antonio TX. Serving Stone Oak, Castle Hills, Alamo Heights, and Helotes. Dr. Dan Foss, DC — 23+ years experience.",
@@ -170,7 +170,7 @@ const conditions = [
   { label: "Digestive Issues / IBS",     labelEs: "Problemas Digestivos / SII",       image: "/images/conditions/ibs.jpg",                   alt: "IBS digestive issues relief San Antonio chiropractor",                                              title: "IBS digestive issues relief San Antonio chiropractor",             href: "/[locale]/conditions/digestive-issues-ibs" },
   { label: "Dysmenorrhea",               labelEs: "Dismenorrea",                      image: "/images/conditions/dysmenorrhea.jpg",          alt: "Painful period dysmenorrhea relief San Antonio chiropractor",                                        title: "Painful period dysmenorrhea relief San Antonio chiropractor",       href: "/[locale]/conditions/dysmenorrhea" },
   { label: "Infertility Issues",         labelEs: "Problemas de Fertilidad",          image: "/images/conditions/infertility.jpg",           alt: "Pregnant woman with discomfort - infertility chiropractic care San Antonio TX",                     title: "Infertility chiropractic care San Antonio TX",                     href: "/[locale]/conditions/infertility" },
-  { label: "Breech Presentation",        labelEs: "Bebé en Posición Podálica",        image: "/images/conditions/breechbaby.jpg",            alt: "Pregnant woman with breech presentation Webster technique - chiropractor San Antonio TX",           title: "Breech presentation Webster technique San Antonio chiropractor",    href: "/[locale]/conditions/breech-presentation" },
+  { label: "Breech Presentation",        labelEs: "Bebé en Posición Podálica",        image: "/images/conditions/breechbaby.jpg",            alt: "Pregnant woman with breech presentation Webster technique - chiropractor San Antonio TX",           title: "Breech Webster technique San Antonio chiropractor",    href: "/[locale]/conditions/breech-presentation" },
 
   // INFANT & PEDIATRIC
   { label: "Colic (Infant)",             labelEs: "Cólico (Bebé)",                    image: "/images/conditions/infantcolic.jpg",           alt: "Infant colic relief pediatric chiropractor San Antonio",                                             title: "Infant colic relief pediatric chiropractor San Antonio",            href: "/[locale]/conditions/infant-colic" },
@@ -189,16 +189,16 @@ const conditions = [
   { label: "Thoracic Outlet Syndrome",   labelEs: "Síndrome del Outlet Torácico",    image: "/images/conditions/thoracicoutletsyndrome.jpg",alt: "Medical illustration of thoracic outlet syndrome brachial plexus anatomy - chiropractor San Antonio TX", title: "Thoracic outlet syndrome treatment San Antonio chiropractor", href: "/[locale]/conditions/thoracic-outlet-syndrome" },
 
   // SHOULDER & ARM
-  { label: "Frozen Shoulder",            labelEs: "Hombro Congelado",                image: "/images/conditions/frozenshoulder.jpg",        alt: "Separated shoulder joint X-ray for frozen shoulder - chiropractor San Antonio TX",                 title: "Frozen shoulder adhesive capsulitis chiropractor San Antonio TX",   href: "/[locale]/conditions/frozen-shoulder" },
+  { label: "Frozen Shoulder",            labelEs: "Hombro Congelado",                image: "/images/conditions/frozenshoulder.jpg",        alt: "Separated shoulder joint X-ray for frozen shoulder - chiropractor San Antonio TX",                 title: "Frozen shoulder chiropractor San Antonio TX",   href: "/[locale]/conditions/frozen-shoulder" },
   { label: "Rotator Cuff Injuries",      labelEs: "Lesiones del Manguito Rotador",   image: "/images/conditions/rotatorcufftear.jpg",       alt: "Rotator cuff tear medical image - chiropractor San Antonio TX",                                      title: "Rotator cuff injury treatment San Antonio chiropractor",            href: "/[locale]/conditions/rotator-cuff-injuries" },
   { label: "Tennis Elbow",               labelEs: "Codo de Tenista",                 image: "/images/conditions/tenniselbow.jpg",           alt: "Tennis elbow lateral epicondylitis photo - chiropractor San Antonio TX",                             title: "Tennis elbow lateral epicondylitis San Antonio chiropractor",       href: "/[locale]/conditions/tennis-elbow" },
   { label: "Golfer's Elbow",             labelEs: "Codo de Golfista",                image: "/images/conditions/golferselbow.jpg",          alt: "Office worker with medial elbow and arm pain from golfer's elbow - chiropractor San Antonio TX",   title: "Golfer's elbow medial epicondylitis San Antonio chiropractor",      href: "/[locale]/conditions/golfers-elbow" },
   { label: "Carpal Tunnel Syndrome",     labelEs: "Síndrome del Túnel Carpiano",     image: "/images/conditions/carpal-tunnel.jpg",         alt: "Hand with untreated carpal tunnel syndrome nerve compression - chiropractor San Antonio TX",         title: "Carpal tunnel syndrome treatment San Antonio chiropractor",         href: "/[locale]/conditions/carpal-tunnel-syndrome" },
-  { label: "De Quervain's Tenosynovitis", labelEs: "Tenosinovitis de De Quervain",   image: "/images/conditions/dequervain.jpg",            alt: "Finkelstein test for De Quervain's tenosynovitis thumb wrist pain - chiropractor San Antonio TX",  title: "De Quervain's tenosynovitis treatment San Antonio chiropractor",    href: "/[locale]/conditions/de-quervains-tenosynovitis" },
+  { label: "De Quervain's Tenosynovitis", labelEs: "Tenosinovitis de De Quervain",   image: "/images/conditions/dequervain.jpg",            alt: "Finkelstein test for De Quervain's tenosynovitis thumb wrist pain - chiropractor San Antonio TX",  title: "De Quervain's treatment San Antonio chiropractor",    href: "/[locale]/conditions/de-quervains-tenosynovitis" },
   { label: "Trigger Finger",             labelEs: "Dedo en Gatillo",                 image: "/images/conditions/trigger-finger.jpg",        alt: "Trigger finger locking condition of the hand - chiropractor San Antonio TX",                         title: "Trigger finger treatment San Antonio chiropractor",                href: "/[locale]/conditions/trigger-finger" },
 
   // MID BACK & CORE
-  { label: "Rib Subluxation",            labelEs: "Subluxación de Costilla",         image: "/images/conditions/rib-xray.jpg",              alt: "X-ray of rib fracture and rib subluxation - chiropractor San Antonio TX",                           title: "Rib subluxation intercostal neuralgia San Antonio chiropractor",    href: "/[locale]/conditions/rib-subluxation" },
+  { label: "Rib Subluxation",            labelEs: "Subluxación de Costilla",         image: "/images/conditions/rib-xray.jpg",              alt: "X-ray of rib fracture and rib subluxation - chiropractor San Antonio TX",                           title: "Rib subluxation San Antonio chiropractor",    href: "/[locale]/conditions/rib-subluxation" },
   { label: "Mid-Back Pain",              labelEs: "Dolor de Espalda Media",          image: "/images/conditions/midbackpain.jpg",           alt: "Person with mid-back thoracic pain highlighted in red - chiropractor San Antonio TX",                title: "Mid back thoracic pain treatment San Antonio chiropractor",         href: "/[locale]/conditions/mid-back-pain" },
   { label: "Pelvic Girdle Pain",         labelEs: "Dolor de Cintura Pélvica",        image: "/images/conditions/pelvicgirdlepain.jpg",      alt: "Pregnant woman with pelvic girdle pain - chiropractor San Antonio TX",                               title: "Pelvic girdle pain treatment San Antonio chiropractor",             href: "/[locale]/conditions/pelvic-girdle-pain" },
   { label: "SI Joint Dysfunction",       labelEs: "Disfunción de la Articulación SI", image: "/images/conditions/si-joint.png",             alt: "Sacroiliac joint anatomy diagram SI joint dysfunction - chiropractor San Antonio TX",                title: "Sacroiliac SI joint dysfunction San Antonio chiropractor",          href: "/[locale]/conditions/si-joint-dysfunction" },
@@ -859,8 +859,8 @@ export default async function HomePage({ params }: Props) {
               <Image
                 src="/images/newpatientphoto.jpg"
                 alt={isEs
-                  ? "Dr. Dan Foss en consulta con paciente en Pura Vida Quiropráctica San Antonio"
-                  : "Dr. Dan Foss consulting with patient at Pura Vida Chiropractic San Antonio"}
+                  ? "Dr. Dan Foss en consulta con paciente en Pura Vida"
+                  : "Dr. Dan Foss consulting with patient at Pura Vida"}
                 width={550}
                 height={500}
                 className={styles.newPatientImg}

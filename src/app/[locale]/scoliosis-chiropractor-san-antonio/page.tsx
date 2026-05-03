@@ -12,6 +12,8 @@ export async function generateStaticParams() {
 
 const content: ConditionChiropractorContent = {
   slug: "scoliosis-chiropractor-san-antonio",
+  slugEn: "scoliosis-chiropractor-san-antonio",
+  slugEs: "quiropractico-escoliosis-san-antonio",
   conditionSlug: "scoliosis",
   condition: { en: "Scoliosis", es: "Escoliosis" },
   conditionPlural: { en: "Scoliosis", es: "Escoliosis" },

@@ -20,14 +20,14 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: isEs
       ? "El Mejor Quiropráctico en San Antonio TX | Dr. Dan Foss DC"
-      : "Best Chiropractor in San Antonio TX | Dr. Dan Foss DC | Pura Vida Chiropractic",
+      : "Best Chiropractor San Antonio | Dr. Dan Foss DC | Pura Vida",
     description: isEs
       ? "¿Busca el mejor quiropráctico en San Antonio? Dr. Dan Foss DC ofrece atención quiropráctica bilingüe con certificación SOT avanzada. Más de 23 años de experiencia. Llame hoy: (210) 685-1994."
       : "Looking for the best chiropractor in San Antonio? Dr. Dan Foss DC offers bilingual chiropractic care with Advanced SOT certification. 23+ years of experience. Call today: (210) 685-1994.",
     alternates: {
       canonical,
       languages: {
-        en: `${BASE_URL}/en/el-mejor-quiropractico-san-antonio`,
+        en: `${BASE_URL}/en/best-chiropractor-san-antonio`,
         es: `${BASE_URL}/es/el-mejor-quiropractico-san-antonio`,
         "x-default": `${BASE_URL}/es/el-mejor-quiropractico-san-antonio`,
       },
@@ -237,7 +237,7 @@ export default async function ElMejorQuiropracticoPage({ params }: Props) {
           <section className={styles.section}>
             <h2 className={styles.h2}>
               {isEs
-                ? "¿Por Qué el Dr. Dan Foss es el Mejor Quiropráctico en San Antonio?"
+                ? "¿Por Qué el Dr. Dan Foss es el Quiropráctico en San Antonio?"
                 : "Why Dr. Dan Foss is San Antonio's Best Chiropractor"}
             </h2>
             <p className={styles.p}>
@@ -427,7 +427,7 @@ export default async function ElMejorQuiropracticoPage({ params }: Props) {
           <div className={styles.ctaBox}>
             <h2 className={styles.ctaTitle}>
               {isEs
-                ? "Experimente la Diferencia del Mejor Quiropráctico en San Antonio"
+                ? "Experimente la Diferencia del Quiropráctico en San Antonio"
                 : "Experience the Difference of San Antonio's Best Chiropractor"}
             </h2>
             <p className={styles.ctaSub}>

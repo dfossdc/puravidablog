@@ -12,6 +12,8 @@ export async function generateStaticParams() {
 
 const content: ConditionChiropractorContent = {
   slug: "postpartum-chiropractor-san-antonio",
+  slugEn: "postpartum-chiropractor-san-antonio",
+  slugEs: "quiropractico-postparto-san-antonio",
   conditionSlug: "postpartum-recovery",
   condition: { en: "Postpartum", es: "Postparto" },
   conditionPlural: { en: "Postpartum Recovery", es: "Recuperación Postparto" },

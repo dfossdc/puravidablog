@@ -26,7 +26,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale } = await params;
   const canonical = `${BASE_URL}/${locale}/que-es-un-quiropractico`;
   return {
-    title: "¿Qué es un Quiropráctico? Guía Completa | Pura Vida San Antonio",
+    title: "¿Qué es un Quiropráctico? | Pura Vida San Antonio",
     description:
       "¿Qué es un quiropráctico y qué hace? Guía completa de la quiropráctica: definición, formación, técnicas, beneficios, riesgos, costos y cuándo verlo. Pura Vida Chiropractic — atención bilingüe en San Antonio TX.",
     alternates: {

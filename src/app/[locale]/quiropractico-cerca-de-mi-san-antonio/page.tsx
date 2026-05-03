@@ -19,14 +19,14 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: isEs
       ? "Quiropráctico Cerca de Mí en San Antonio TX | Atención Bilingüe"
-      : "Spanish-Speaking Chiropractor Near You in San Antonio TX | Pura Vida",
+      : "Spanish Chiropractor San Antonio | Pura Vida",
     description: isEs
       ? "¿Busca un quiropráctico cerca de mí que hable español en San Antonio TX? Pura Vida Chiropractic — Dr. Dan Foss DC ofrece atención quiropráctica bilingüe a familias hispanas en San Antonio. Llame (210) 685-1994."
       : "Looking for a Spanish-speaking chiropractor near you in San Antonio, TX? Pura Vida Chiropractic offers bilingual chiropractic care for Hispanic families. Call (210) 685-1994.",
     alternates: {
       canonical,
       languages: {
-        en: `${BASE_URL}/en/quiropractico-cerca-de-mi-san-antonio`,
+        en: `${BASE_URL}/en/chiropractor-near-me-san-antonio`,
         es: `${BASE_URL}/es/quiropractico-cerca-de-mi-san-antonio`,
         "x-default": `${BASE_URL}/es/quiropractico-cerca-de-mi-san-antonio`,
       },

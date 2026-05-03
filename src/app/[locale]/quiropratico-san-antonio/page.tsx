@@ -19,14 +19,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: isEs
       ? "Quiropráctico San Antonio TX | Pura Vida Chiropractic | Dr. Dan Foss DC"
-      : "Chiropractor San Antonio TX | Pura Vida Chiropractic | Dr. Dan Foss DC",
+      : "Chiropractor San Antonio TX | Pura Vida | Dr. Foss",
     description: isEs
       ? "Quiropráctico en San Antonio, TX. Pura Vida Chiropractic — Dr. Dan Foss DC ofrece atención bilingüe, técnica SOT, láser clase IV y SoftWave. ¡Llame (210) 685-1994 para una evaluación gratuita!"
       : "Chiropractor in San Antonio, TX. Pura Vida Chiropractic — Dr. Dan Foss DC offers bilingual care, SOT technique, Class IV laser, and SoftWave therapy. Call (210) 685-1994 for a free evaluation!",
     alternates: {
       canonical,
       languages: {
-        en: `${BASE_URL}/en/quiropratico-san-antonio`,
         es: `${BASE_URL}/es/quiropratico-san-antonio`,
         "x-default": `${BASE_URL}/es/quiropratico-san-antonio`,
       },
@@ -253,7 +252,7 @@ export default async function QuiropraticoSanAntonioPage({ params }: Props) {
           <section className={styles.section}>
             <h2 className={styles.h2}>
               {isEs
-                ? "Por Qué las Familias de San Antonio Eligen Pura Vida Chiropractic"
+                ? "Por Qué las Familias de San Antonio Eligen Pura Vida"
                 : "Why San Antonio Families Choose Pura Vida Chiropractic"}
             </h2>
             <div className={styles.highlightGrid}>

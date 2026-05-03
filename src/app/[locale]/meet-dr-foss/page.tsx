@@ -37,7 +37,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     openGraph: {
       title: isEs
         ? "Conozca al Dr. Dan Foss, DC | Pura Vida Chiropractic San Antonio"
-        : "Meet Dr. Dan Foss, DC | Pura Vida Chiropractic San Antonio TX",
+        : "Meet Dr. Dan Foss, DC | Pura Vida San Antonio",
       description: isEs
         ? "La historia personal, filosofía y misión del Dr. Dan Foss — quiropráctico bilingüe en San Antonio, TX con más de 23 años de experiencia internacional."
         : "The personal story, philosophy, and mission of Dr. Dan Foss — bilingual chiropractor in San Antonio, TX with 23+ years of international experience.",

@@ -6,6 +6,7 @@ description: "Those wedge-shaped blocks your chiropractor places under your pelv
 tags: ["SOT", "SOT blocks", "sacro occipital technique", "DeJarnette", "Category I II III", "low back pain"]
 author: "Dr. Dan Foss DC"
 lang: "en"
+translatedSlug: "que-son-los-bloques-sot-como-funcionan"
 slug: "what-are-sot-blocks-how-do-they-work"
 image: "/images/conditions/postural-correction.webp"
 ---

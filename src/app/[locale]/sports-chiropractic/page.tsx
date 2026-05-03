@@ -21,7 +21,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: isEs
       ? "Quiropráctico Deportivo San Antonio | Pura Vida Chiropractic"
-      : "Sports Chiropractor in San Antonio, TX | Pura Vida Chiropractic",
+      : "Sports Chiropractor in San Antonio, TX | Pura Vida",
     description: isEs
       ? "Quiropráctico deportivo en San Antonio TX. El Dr. Dan Foss trata lesiones deportivas, esguinces, dolor de hombro, rodilla y columna. Atendemos Stone Oak, Castle Hills y Alamo Heights. Evaluación gratuita."
       : "Sports chiropractor San Antonio TX. Dr. Dan Foss treats sports injuries, sprains, shoulder pain, knee pain, and spinal conditions. Sports injury treatment San Antonio serving Stone Oak, Castle Hills, and Alamo Heights. Free consultation.",

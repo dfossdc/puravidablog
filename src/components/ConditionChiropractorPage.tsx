@@ -27,6 +27,14 @@ const DISTANCES = [
 export interface ConditionChiropractorContent {
   /** URL slug for this condition-chiropractor page (e.g. "migraine-chiropractor-san-antonio"). */
   slug: string;
+  /**
+   * Slugs in BOTH locales so hreflang can point to the actual translated URL
+   * instead of the same slug under a different /locale/ prefix (which 308s).
+   * Both EN and ES variants of the same page should share identical
+   * slugEn/slugEs values.
+   */
+  slugEn: string;
+  slugEs: string;
   /** Existing /conditions/[slug] educational counterpart to cross-link to. */
   conditionSlug: string;
   /** Singular condition word ("migraine") for use in meta titles and H1. */
@@ -72,9 +80,9 @@ export async function buildConditionChiropractorMetadata(
     alternates: {
       canonical,
       languages: {
-        en: `${BASE_URL}/en/${content.slug}`,
-        es: `${BASE_URL}/es/${content.slug}`,
-        "x-default": `${BASE_URL}/en/${content.slug}`,
+        en: `${BASE_URL}/en/${content.slugEn}`,
+        es: `${BASE_URL}/es/${content.slugEs}`,
+        "x-default": `${BASE_URL}/en/${content.slugEn}`,
       },
     },
     openGraph: {

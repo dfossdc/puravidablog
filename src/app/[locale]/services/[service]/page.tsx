@@ -80,7 +80,7 @@ const services: Record<"en" | "es", ServiceMap> = {
       schema: { "@type": "MedicalProcedure", "name": "SoftWave Tissue Regeneration Therapy", "procedureType": "Physical Therapy" },
     },
     "auto-injury": {
-      title: "Auto Injury Chiropractor San Antonio | Pura Vida Chiropractic",
+      title: "Auto Injury Chiropractor San Antonio | Pura Vida",
       description:
         "Injured in a car accident in San Antonio? Dr. Dan Foss specializes in whiplash and auto injury chiropractic care. Free consultation. We work with auto insurance.",
       keywords: ["auto injury chiropractor San Antonio", "car accident chiropractor San Antonio", "whiplash treatment San Antonio TX", "car accident chiropractor San Antonio TX", "auto accident injury San Antonio", "whiplash chiropractor San Antonio"],
@@ -94,7 +94,7 @@ const services: Record<"en" | "es", ServiceMap> = {
       schema: { "@type": "MedicalProcedure", "name": "Auto Injury Chiropractic Care", "procedureType": "Chiropractic" },
     },
     "pediatric-chiropractor": {
-      title: "Pediatric Chiropractor in San Antonio TX | Pura Vida Chiropractic",
+      title: "Pediatric Chiropractor in San Antonio TX | Pura Vida",
       description: "Pediatric chiropractor in San Antonio, TX. Dr. Dan Foss provides gentle SOT chiropractic for newborns, infants, kids, and teens. 23+ years experience, bilingual, free first visit. (210) 685-1994.",
       keywords: ["pediatric chiropractor San Antonio", "pediatric chiropractor in San Antonio", "child chiropractor San Antonio", "kids chiropractic San Antonio TX", "pediatric chiropractor San Antonio TX", "infant chiropractor San Antonio", "children chiropractor near me San Antonio", "newborn chiropractic San Antonio", "baby chiropractor San Antonio"],
       h1: "Pediatric Chiropractor in San Antonio, TX",
@@ -243,7 +243,7 @@ const services: Record<"en" | "es", ServiceMap> = {
       schema: { "@type": "MedicalProcedure", "name": "Chiropractic Care", "procedureType": "Chiropractic" },
     },
     "cranial-chiropractic": {
-      title: "Cranial Chiropractor in San Antonio TX | Pura Vida Chiropractic",
+      title: "Cranial Chiropractor in San Antonio TX | Pura Vida",
       description:
         "Cranial chiropractor in San Antonio, TX. Dr. Dan Foss is Advanced SOT certified and provides gentle cranial chiropractic care for migraines, TMJ, vertigo, post-concussion symptoms, infant cranial issues, and more. 23+ years experience. Free first visit. (210) 685-1994.",
       keywords: ["cranial chiropractor San Antonio", "cranial chiropractor in San Antonio", "cranial chiropractic San Antonio", "cranial chiropractic San Antonio TX", "cranial therapy San Antonio", "cranial adjusting San Antonio", "craniosacral chiropractor San Antonio", "SOT cranial chiropractor San Antonio", "TMJ chiropractor San Antonio", "post-concussion chiropractor San Antonio", "infant cranial chiropractor San Antonio"],
@@ -338,7 +338,7 @@ const services: Record<"en" | "es", ServiceMap> = {
       schema: { "@type": "MedicalProcedure", "name": "Pregnancy Chiropractic (Webster Technique)", "procedureType": "Chiropractic" },
     },
     "auto-injury-chiropractic": {
-      title: "Auto Injury Chiropractor San Antonio | Pura Vida Chiropractic",
+      title: "Auto Injury Chiropractor San Antonio | Pura Vida",
       description:
         "Injured in a car accident in San Antonio? Dr. Dan Foss evaluates, documents, and treats whiplash and auto injuries. Free consultation. Work with PI attorneys.",
       keywords: ["auto injury chiropractor San Antonio", "car accident chiropractor San Antonio TX", "whiplash treatment San Antonio", "car accident chiropractor San Antonio", "auto accident injury chiropractor San Antonio TX", "whiplash chiropractor near me San Antonio"],
@@ -424,7 +424,7 @@ const services: Record<"en" | "es", ServiceMap> = {
       schema: { "@type": "MedicalProcedure", "name": "Atención Quiropráctica por Lesiones de Auto", "procedureType": "Chiropractic" },
     },
     "quiropractico-pediatrico": {
-      title: "Quiropráctico Pediátrico San Antonio | Pura Vida Chiropractic",
+      title: "Quiropráctico Pediátrico San Antonio | Pura Vida",
       description: "El Dr. Dan Foss es quiropráctico pediátrico en San Antonio, TX. Cuidado quiropráctico suave para niños desde recién nacidos hasta adolescentes. Evaluación gratuita.",
       keywords: ["quiropráctico pediátrico San Antonio", "quiropráctica para niños San Antonio", "quiropráctico infantil San Antonio TX", "quiropráctico pediátrico San Antonio TX", "quiropráctico para bebés San Antonio", "quiropráctico niños cerca de mí San Antonio"],
       h1: "Quiropráctico Pediátrico en San Antonio",
@@ -465,7 +465,7 @@ const services: Record<"en" | "es", ServiceMap> = {
       schema: { "@type": "MedicalProcedure", "name": "Quiropráctica para el Embarazo", "procedureType": "Chiropractic" },
     },
     "quiropractico-infantes": {
-      title: "Quiropráctico para Bebés San Antonio | Pura Vida Chiropractic",
+      title: "Quiropráctico para Bebés San Antonio | Pura Vida",
       description: "Cuidado quiropráctico suave para bebés en San Antonio, TX. El Dr. Dan Foss evalúa recién nacidos para subluxaciones que pueden causar cólico, reflujo y problemas de lactancia.",
       keywords: ["quiropráctico para bebés San Antonio", "quiropráctica recién nacido San Antonio", "quiropráctico infantil San Antonio TX", "quiropráctico bebés San Antonio TX", "quiropráctico para bebés cerca de mí San Antonio", "quiropráctico neonatal San Antonio"],
       h1: "Bebés y Quiropráctica en San Antonio",
@@ -492,7 +492,7 @@ const services: Record<"en" | "es", ServiceMap> = {
       schema: { "@type": "MedicalProcedure", "name": "Quiropráctica Pediátrica y Prenatal", "procedureType": "Chiropractic" },
     },
     "terapia-ondas-de-choque": {
-      title: "Terapia de Ondas de Choque San Antonio | Pura Vida Chiropractic",
+      title: "Terapia de Ondas de Choque San Antonio | Pura Vida",
       description:
         "Terapia de ondas de choque para dolor crónico en San Antonio, TX. Tratamiento no invasivo para tendones, fascitis plantar y más. Evaluación gratuita.",
       keywords: ["terapia ondas de choque San Antonio", "ESWT San Antonio", "tratamiento dolor crónico San Antonio TX", "terapia ondas de choque San Antonio TX", "terapia extracorpórea San Antonio", "fascitis plantar ondas de choque San Antonio"],
@@ -535,7 +535,7 @@ const services: Record<"en" | "es", ServiceMap> = {
       schema: { "@type": "MedicalProcedure", "name": "Cuidado Quiropráctico", "procedureType": "Chiropractic" },
     },
     "cranial-chiropractic": {
-      title: "Quiropráctico Craneal en San Antonio TX | Pura Vida Chiropractic",
+      title: "Quiropráctico Craneal en San Antonio TX | Pura Vida",
       description:
         "Quiropráctico craneal en San Antonio, TX. El Dr. Dan Foss tiene certificación SOT Avanzada y ofrece quiropráctica craneal suave para migrañas, ATM, vértigo, post-conmoción cerebral y problemas craneales infantiles. 23+ años de experiencia. Primera visita gratis. (210) 685-1994.",
       keywords: ["quiropráctico craneal San Antonio", "quiropráctica craneal San Antonio", "quiropráctico craneal en San Antonio", "quiropráctico craneal San Antonio TX", "ajuste craneal San Antonio", "terapia craneosacral San Antonio", "quiropráctico SOT craneal San Antonio", "quiropráctico ATM San Antonio", "quiropráctico post-conmoción San Antonio", "quiropráctico craneal infantil San Antonio"],
@@ -585,7 +585,7 @@ const services: Record<"en" | "es", ServiceMap> = {
       schema: { "@type": "MedicalProcedure", "name": "Quiropráctica Craneal", "procedureType": "Chiropractic" },
     },
     "infant-chiropractic": {
-      title: "Quiropráctico para Bebés San Antonio | Pura Vida Chiropractic",
+      title: "Quiropráctico para Bebés San Antonio | Pura Vida",
       description:
         "Cuidado quiropráctico seguro y suave para bebés en San Antonio, TX. El Dr. Dan Foss ayuda a los recién nacidos con cólico, tortícolis y problemas de alimentación.",
       keywords: ["quiropráctico para bebés San Antonio", "quiropráctica neonatal San Antonio", "quiropráctico recién nacido San Antonio TX", "quiropráctico bebés San Antonio TX", "quiropráctico para bebés cerca de mí San Antonio", "quiropráctico infantil San Antonio"],
@@ -599,7 +599,7 @@ const services: Record<"en" | "es", ServiceMap> = {
       schema: { "@type": "MedicalProcedure", "name": "Quiropráctica para Bebés", "procedureType": "Chiropractic" },
     },
     "pediatric-chiropractic": {
-      title: "Quiropráctico Pediátrico San Antonio | Pura Vida Chiropractic",
+      title: "Quiropráctico Pediátrico San Antonio | Pura Vida",
       description:
         "Quiropráctica pediátrica especializada en San Antonio, TX. El Dr. Dan Foss ha atendido a niños desde recién nacidos hasta adolescentes por 23+ años.",
       keywords: ["quiropráctico pediátrico San Antonio", "quiropráctica para niños San Antonio", "quiropráctico infantil San Antonio TX", "quiropráctico pediátrico San Antonio TX", "quiropráctico niños cerca de mí San Antonio", "quiropráctico para bebés San Antonio"],
@@ -641,7 +641,7 @@ const services: Record<"en" | "es", ServiceMap> = {
       schema: { "@type": "MedicalProcedure", "name": "Quiropráctica para Lesiones de Auto", "procedureType": "Chiropractic" },
     },
     "wellness-care": {
-      title: "Quiropráctica de Bienestar San Antonio | Pura Vida Chiropractic",
+      title: "Quiropráctica de Bienestar San Antonio | Pura Vida",
       description:
         "Cuidado quiropráctico de bienestar proactivo en San Antonio, TX. El Protocolo Pura Vida integra quiropráctica, osteopatía y terapia manual.",
       keywords: ["quiropráctica bienestar San Antonio", "quiropráctica mantenimiento San Antonio", "quiropráctica preventiva San Antonio TX", "quiropráctica bienestar San Antonio TX", "mejor quiropráctico San Antonio", "quiropráctico cerca de mí San Antonio"],

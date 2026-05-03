@@ -322,6 +322,27 @@ const nextConfig = {
       { source: "/es/blog/bloques-sot", destination: "/es/blog/que-son-los-bloques-sot-como-funcionan", permanent: true },
       { source: "/es/blog/categorias-sot", destination: "/es/blog/categorias-sot-i-ii-iii-que-significan", permanent: true },
 
+      // ── Semrush 4XX cleanup — May 2026 audit, second pass ──
+      // Stale URLs from external sources (old WP, sitemaps, Google index) with
+      // no internal references on the current site. Redirect to closest
+      // topical match instead of returning 404.
+      { source: "/en/blog/athletic-performance-san-antonio",      destination: "/en/sports-chiropractic", permanent: true },
+      { source: "/en/blog/cranial-adjusting-infants",             destination: "/en/blog/cranial-adjusting-san-antonio", permanent: true },
+      { source: "/en/blog/golf-performance-san-antonio",          destination: "/en/sports-chiropractic", permanent: true },
+      { source: "/en/blog/runners-knee-chiropractor-san-antonio", destination: "/en/sports-chiropractic", permanent: true },
+      { source: "/en/blog/soft-tissue-injury-san-antonio",        destination: "/en/services/softwave-therapy", permanent: true },
+      { source: "/en/blog/sports-injury",                         destination: "/en/sports-chiropractic", permanent: true },
+      { source: "/en/blog/webster-technique-san-antonio",         destination: "/en/services/prenatal-chiropractor", permanent: true },
+      { source: "/en/conditions/infantreflux",                    destination: "/en/conditions/infant-reflux", permanent: true },
+
+      { source: "/es/blog/cuidado-prenatal",                              destination: "/es/services/quiropractico-prenatal", permanent: true },
+      { source: "/es/blog/por-que-ir-quiropractico-san-antonio",          destination: "/es/blog/primera-visita-quiropractico-que-esperar", permanent: true },
+      { source: "/es/blog/sistema-inmune-ninos-quiropractica-cmrt",       destination: "/es/blog/apoyo-inmunologico-quiropractico-san-antonio", permanent: true },
+      { source: "/es/conditions/back-pain",                               destination: "/es/conditions/lower-back-pain", permanent: true },
+      { source: "/es/conditions/headaches-migraines",                     destination: "/es/conditions/headaches", permanent: true },
+      { source: "/es/conditions/pregnancy-chiropractic",                  destination: "/es/conditions/pregnancy-wellness", permanent: true },
+      { source: "/es/conditions/sports-injuries",                         destination: "/es/conditions/sports-injury", permanent: true },
+
     ];
   },
 };

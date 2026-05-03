@@ -12,6 +12,8 @@ export async function generateStaticParams() {
 
 const content: ConditionChiropractorContent = {
   slug: "quiropractico-dolor-de-cabeza-san-antonio",
+  slugEn: "headache-chiropractor-san-antonio",
+  slugEs: "quiropractico-dolor-de-cabeza-san-antonio",
   conditionSlug: "headaches",
   condition: { en: "Headache", es: "Dolor de Cabeza" },
   conditionPlural: { en: "Headaches", es: "Dolores de Cabeza" },

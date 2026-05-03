@@ -7,7 +7,7 @@ import styles from "./book-now.module.css";
 const BASE_URL = "https://puravidasanantonio.com";
 
 export const metadata: Metadata = {
-  title: "Schedule an Appointment | Pura Vida Chiropractic San Antonio TX",
+  title: "Schedule an Appointment | Pura Vida San Antonio",
   description:
     "New Patient Special Offer — receive a complimentary consultation at Pura Vida Chiropractic in San Antonio, TX. Book now and start experiencing the difference of our chiropractic and wellness care.",
   alternates: {

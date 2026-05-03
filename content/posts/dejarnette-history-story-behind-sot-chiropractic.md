@@ -6,6 +6,7 @@ description: "Dr. Major Bertrand DeJarnette was a chiropractor, osteopath, and r
 tags: ["DeJarnette", "SOT history", "sacro occipital technique", "chiropractic history", "CMRT", "craniopathy", "Major Bertrand DeJarnette"]
 author: "Dr. Dan Foss DC"
 lang: "en"
+translatedSlug: "historia-dejarnette-detras-de-quiropractica-sot"
 slug: "dejarnette-history-story-behind-sot-chiropractic"
 image: "/images/social-cards/dejarnette-history-story-behind-sot-chiropractic.jpg"
 ---

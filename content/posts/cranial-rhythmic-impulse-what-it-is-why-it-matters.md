@@ -6,6 +6,7 @@ description: "The cranial rhythmic impulse — a subtle 6-12 cycles per minute r
 tags: ["cranial rhythmic impulse", "CRI", "CSF", "craniopathy", "Sutherland", "primary respiratory mechanism"]
 author: "Dr. Dan Foss DC"
 lang: "en"
+translatedSlug: "impulso-ritmico-craneal-que-es-por-que-importa"
 slug: "cranial-rhythmic-impulse-what-it-is-why-it-matters"
 image: "/images/conditions/headache.jpg"
 ---

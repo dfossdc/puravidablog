@@ -6,6 +6,7 @@ description: "When your SOT chiropractor says you're a Category II, what does th
 tags: ["SOT", "Category I", "Category II", "Category III", "disc", "SI joint", "dura"]
 author: "Dr. Dan Foss DC"
 lang: "en"
+translatedSlug: "categorias-sot-i-ii-iii-que-significan"
 slug: "sot-category-i-ii-iii-what-your-doctor-means"
 image: "/images/conditions/postural-correction.webp"
 ---

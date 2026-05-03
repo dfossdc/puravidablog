@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Política de Privacidad | Pura Vida Chiropractic San Antonio TX",
+  title: "Política de Privacidad | Pura Vida San Antonio",
   description:
     "Política de privacidad de Pura Vida Chiropractic en San Antonio, TX. Conozca cómo recopilamos, usamos y protegemos su información personal y de salud de acuerdo con HIPAA.",
   alternates: {

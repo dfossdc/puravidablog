@@ -20,7 +20,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: isEs
       ? "Reservar Cita | Pura Vida Chiropractic San Antonio TX"
-      : "Schedule an Appointment | Pura Vida Chiropractic San Antonio TX",
+      : "Schedule an Appointment | Pura Vida San Antonio",
     description: isEs
       ? "Oferta especial para nuevos pacientes — reciba una consulta gratuita en Pura Vida Chiropractic en San Antonio, TX. Reserve ahora y comience a experimentar la diferencia."
       : "New Patient Special Offer — receive a complimentary consultation at Pura Vida Chiropractic in San Antonio, TX. Book now and start experiencing the difference of our chiropractic and wellness care.",

@@ -23,7 +23,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       : "Terms & Conditions | Pura Vida Chiropractic San Antonio",
     description: isSpanish
       ? "Términos y condiciones que rigen el uso del sitio web de Pura Vida Chiropractic."
-      : "Terms and conditions governing use of the Pura Vida Chiropractic website.",
+      : "Terms and conditions governing use of the Pura Vida website.",
     alternates: {
       canonical: `${BASE_URL}/${locale}/terms`,
       languages: {

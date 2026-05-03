@@ -17,6 +17,8 @@ export async function generateStaticParams() {
 
 const content: ConditionChiropractorContent = {
   slug: "quiropractico-para-migranas-san-antonio",
+  slugEn: "migraine-chiropractor-san-antonio",
+  slugEs: "quiropractico-para-migranas-san-antonio",
   conditionSlug: "migraines",
   condition: { en: "Migraine", es: "Migraña" },
   conditionPlural: { en: "Migraines", es: "Migrañas" },
@@ -25,7 +27,7 @@ const content: ConditionChiropractorContent = {
     es: "Quiropráctico para Migrañas en San Antonio, TX",
   },
   metaTitle: {
-    en: "Migraine Chiropractor in San Antonio TX | Pura Vida Chiropractic",
+    en: "Migraine Chiropractor in San Antonio TX | Pura Vida",
     es: "Quiropráctico para Migrañas en San Antonio TX | Pura Vida",
   },
   metaDescription: {

@@ -102,7 +102,7 @@ For deeper understanding of infant health and birth trauma:
 - [**Why Pregnancy Is the Most Important Time for Chiropractic Care**](/en/blog/why-pregnancy-is-the-most-important-time-for-chiropractic-care) — preparation before birth
 - [**Plagiocephaly (Flat Head Syndrome) & Chiropractic**](/en/blog/plagiocephaly-flat-head-syndrome-chiropractic) — head shape in newborns
 - [**Occiput & Atlas: Where Skull Meets Spine**](/en/blog/occiput-atlas-where-skull-meets-spine)
-- Related condition: [**Infant Reflux & Chiropractic Care**](/en/conditions/infantreflux) — often related to vagal compression
+- Related condition: [**Infant Reflux & Chiropractic Care**](/en/conditions/infant-reflux) — often related to vagal compression
 
 ## Frequently Asked Questions
 

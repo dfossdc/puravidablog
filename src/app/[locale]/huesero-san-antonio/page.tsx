@@ -36,7 +36,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale } = await params;
   const canonical = `${BASE_URL}/${locale}/huesero-san-antonio`;
   return {
-    title: "Huesero en San Antonio TX | Quiropráctico Bilingüe Licenciado",
+    title: "Huesero San Antonio | Quiropráctico Bilingüe Licenciado",
     description:
       "¿Busca un huesero en San Antonio, TX? El Dr. Dan Foss, DC ofrece atención quiropráctica bilingüe y licenciada — la versión moderna y segura del huesero tradicional. Acomoda huesos, alivia dolor de espalda y cuello. Primera visita gratis. (210) 685-1994.",
     alternates: {
