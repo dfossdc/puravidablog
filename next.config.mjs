@@ -343,6 +343,22 @@ const nextConfig = {
       { source: "/es/conditions/pregnancy-chiropractic",                  destination: "/es/conditions/pregnancy-wellness", permanent: true },
       { source: "/es/conditions/sports-injuries",                         destination: "/es/conditions/sports-injury", permanent: true },
 
+      // ── GSC May 2026: cross-locale slug fixes for posts indexed under wrong locale ──
+      // Posts that exist in only one language but Google indexed the URL
+      // under the other locale. Redirect to the correct-locale version.
+      { source: "/en/blog/quiropractico-trabajadores-construccion-san-antonio",
+        destination: "/es/blog/quiropractico-trabajadores-construccion-san-antonio", permanent: true },
+      { source: "/en/blog/terapia-ondas-de-choque",
+        destination: "/en/blog/shockwave-therapy", permanent: true },
+      { source: "/es/blog/shockwave-therapy",
+        destination: "/es/blog/terapia-ondas-de-choque", permanent: true },
+      { source: "/es/blog/pediatric-prenatal",
+        destination: "/es/services/quiropractica-pediatrica", permanent: true },
+
+      // Old long WP URL still showing up in GSC after the .net cutover
+      { source: "/about-pura-vida-chiropractic/pura-vida-quiropractica/",
+        destination: "/es/meet-dr-foss", permanent: true },
+
     ];
   },
 };
