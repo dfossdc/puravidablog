@@ -59,34 +59,33 @@ interface Props {
  * Generate the Next.js Metadata for a condition-chiropractor page.
  * Each route file calls this with its own content payload.
  */
-export function buildConditionChiropractorMetadata(
+export async function buildConditionChiropractorMetadata(
   params: Promise<{ locale: string }>,
   content: ConditionChiropractorContent,
 ): Promise<Metadata> {
-  return params.then(({ locale }) => {
-    const isEs = locale === "es";
-    const canonical = `${BASE_URL}/${locale}/${content.slug}`;
-    return {
+  const { locale } = await params;
+  const isEs = locale === "es";
+  const canonical = `${BASE_URL}/${locale}/${content.slug}`;
+  return {
+    title: isEs ? content.metaTitle.es : content.metaTitle.en,
+    description: isEs ? content.metaDescription.es : content.metaDescription.en,
+    alternates: {
+      canonical,
+      languages: {
+        en: `${BASE_URL}/en/${content.slug}`,
+        es: `${BASE_URL}/es/${content.slug}`,
+        "x-default": `${BASE_URL}/en/${content.slug}`,
+      },
+    },
+    openGraph: {
       title: isEs ? content.metaTitle.es : content.metaTitle.en,
       description: isEs ? content.metaDescription.es : content.metaDescription.en,
-      alternates: {
-        canonical,
-        languages: {
-          en: `${BASE_URL}/en/${content.slug}`,
-          es: `${BASE_URL}/es/${content.slug}`,
-          "x-default": `${BASE_URL}/en/${content.slug}`,
-        },
-      },
-      openGraph: {
-        title: isEs ? content.metaTitle.es : content.metaTitle.en,
-        description: isEs ? content.metaDescription.es : content.metaDescription.en,
-        url: canonical,
-        locale: isEs ? "es_MX" : "en_US",
-        type: "website",
-      },
-      robots: { index: true, follow: true },
-    };
-  });
+      url: canonical,
+      locale: isEs ? "es_MX" : "en_US",
+      type: "website",
+    },
+    robots: { index: true, follow: true },
+  };
 }
 
 export default async function ConditionChiropractorPage({ params, content }: Props) {
