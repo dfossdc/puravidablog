@@ -1,5 +1,6 @@
 ---
 title: "Su Primera Visita al Quiropráctico: Qué Esperar Paso a Paso"
+metaTitle: "Primera Visita al Quiropráctico — Guía San Antonio"
 description: "¿Nunca ha ido al quiropráctico y no sabe qué esperar? El Dr. Dan Foss de Pura Vida Chiropractic en San Antonio explica exactamente qué sucede durante su primera visita, en español."
 date: "2026-03-20"
 author: "Dr. Dan Foss"
