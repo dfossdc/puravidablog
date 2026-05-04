@@ -181,7 +181,7 @@ export default async function QuiropracticoCercaDeMiSanAntonioPage({ params }: P
   // Chiropractor LocalBusiness schema with bilingual ContactPoint
   const businessSchema = {
     "@context": "https://schema.org",
-    "@type": "Chiropractor",
+    "@type": "MedicalBusiness",
     "@id": canonical,
     name: "Pura Vida Chiropractic",
     alternateName: ["Pura Vida Quiropráctico", "Quiropráctico Pura Vida San Antonio"],

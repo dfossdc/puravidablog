@@ -104,7 +104,7 @@ export default async function ConditionChiropractorPage({ params, content }: Pro
   // Chiropractor LocalBusiness schema specific to this condition
   const businessSchema = {
     "@context": "https://schema.org",
-    "@type": "Chiropractor",
+    "@type": "MedicalBusiness",
     "@id": canonical,
     name: "Pura Vida Chiropractic",
     description: isEs

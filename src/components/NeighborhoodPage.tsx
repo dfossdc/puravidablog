@@ -76,7 +76,7 @@ export default async function NeighborhoodPage({
   // Local-business schema enriched with neighborhood-specific area-served data
   const schema = {
     "@context": "https://schema.org",
-    "@type": "Chiropractor",
+    "@type": "MedicalBusiness",
     name: "Pura Vida Chiropractic",
     image: `${BASE_URL}/images/dr-foss-adjusting-patient.webp`,
     "@id": `${BASE_URL}/${locale}/${data.slug}-chiropractor`,

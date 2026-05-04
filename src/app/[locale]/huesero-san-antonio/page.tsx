@@ -99,7 +99,7 @@ export default async function HueseroSanAntonioPage({ params }: Props) {
   // Chiropractor schema with cultural alternateName covering huesero/sobador
   const businessSchema = {
     "@context": "https://schema.org",
-    "@type": "Chiropractor",
+    "@type": "MedicalBusiness",
     "@id": canonical,
     name: "Pura Vida Chiropractic",
     alternateName: [

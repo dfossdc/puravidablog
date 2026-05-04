@@ -79,7 +79,7 @@ export default async function ElMejorQuiropracticoPage({ params }: Props) {
 
   const businessSchema = {
     "@context": "https://schema.org",
-    "@type": "Chiropractor",
+    "@type": "MedicalBusiness",
     "@id": canonical,
     name: "Pura Vida Chiropractic",
     alternateName: ["El Mejor Quiropráctico San Antonio", "Pura Vida Quiropráctico", "Best Chiropractor San Antonio"],

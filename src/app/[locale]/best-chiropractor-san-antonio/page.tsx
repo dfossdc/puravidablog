@@ -162,7 +162,7 @@ export default async function BestChiropractorPage({ params }: Props) {
 
   const businessSchema = {
     "@context": "https://schema.org",
-    "@type": "Chiropractor",
+    "@type": "MedicalBusiness",
     "@id": canonical,
     name: "Pura Vida Chiropractic",
     description: isEs ? "El mejor quiropráctico en San Antonio TX." : "Best chiropractor in San Antonio TX.",

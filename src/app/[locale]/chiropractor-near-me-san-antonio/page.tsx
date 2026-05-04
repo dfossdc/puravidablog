@@ -131,7 +131,7 @@ export default async function ChiropractorNearMePage({ params }: Props) {
 
   const businessSchema = {
     "@context": "https://schema.org",
-    "@type": "Chiropractor",
+    "@type": "MedicalBusiness",
     "@id": canonical,
     name: "Pura Vida Chiropractic",
     description: isEs
