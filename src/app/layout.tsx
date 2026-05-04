@@ -83,10 +83,30 @@ export default async function RootLayout({ children }: { children: React.ReactNo
   const pathname = headersList.get("x-pathname") ?? "";
   const initialLang = pathname.startsWith("/es") ? "es" : "en";
 
+  // Block search engines from indexing non-production hosts (Vercel preview
+  // URLs like puravidablog.vercel.app, branch previews, etc.). The middleware
+  // sets an X-Robots-Tag header for the same purpose, but Vercel's edge
+  // sometimes drops custom response headers; the meta tag is a server-
+  // rendered backstop that survives caching.
+  //
+  // Explicit allow-list of "is this a preview" rather than an inverse check —
+  // at build time `host` is empty, so the inverse would noindex SSG production
+  // pages. By explicitly matching known preview hostnames we default to
+  // production behavior (no noindex) when the host is unknown.
+  const host = headersList.get("host") ?? "";
+  const isPreviewHost =
+    host.includes("vercel.app") ||
+    host.includes("puravidablog") ||
+    host.includes("localhost") ||
+    host.includes("127.0.0.1");
+
   return (
     <html lang={initialLang}>
       <head>
         <meta name="google-site-verification" content="uuAF9ryMJlcu9EY2M_uP4T-KC7Hdn_K5XVEeWAAy6E8" />
+        {isPreviewHost && (
+          <meta name="robots" content="noindex, nofollow" />
+        )}
         <link rel="preconnect" href="https://i.ytimg.com" />
         {/*
           Set <html lang> based on the URL path. Runs before page hydration
