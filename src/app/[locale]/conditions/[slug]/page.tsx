@@ -50,8 +50,8 @@ export async function generateMetadata({
   const isEs = locale === "es";
   return {
     title: isEs
-      ? `${c.titleEs ?? c.title} en San Antonio | Pura Vida Chiropractic`
-      : `${c.title} Treatment San Antonio TX | Pura Vida Chiropractic`,
+      ? `${c.titleEs ?? c.title} | Pura Vida`
+      : `${c.title} | Pura Vida`,
     description: isEs ? (c.metaDescriptionEs ?? c.metaDescription) : c.metaDescription,
     alternates: {
       canonical: `/${locale}/conditions/${slug}`,
