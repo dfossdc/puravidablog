@@ -36,3 +36,6 @@ puravida.WordPress.2026-04-01.xml
 public/images/PURAVIDALOGO.pdf
 *.pdf
 *.xml
+
+# Exception: new-patient intake forms must be deployed (linked from site)
+!public/forms/*.pdf
