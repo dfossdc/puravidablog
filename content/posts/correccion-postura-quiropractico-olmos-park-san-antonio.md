@@ -111,4 +111,4 @@ La mala postura es reparable. No tiene que vivir con dolor de cuello, dolores de
 
 **Llame al (210) 685-1994** o [reserve su consulta gratis en línea](https://puravidasanantonio.com/special/). Estamos a solo 8 minutos de Olmos Park. Somos bilingües — inglés y español.
 
-Vea también: [Tratamiento Cuello de Texto San Antonio](/es/posts/text-neck-treatment-san-antonio), [Postura de Cabeza Adelante](/es/posts/), [Quiropractico Olmos Park](/es/olmos-park-chiropractor)
+Vea también: [Tratamiento Cuello de Texto San Antonio](/es/blog/text-neck-treatment-san-antonio), [Postura de Cabeza Adelante](/es/blog/), [Quiropractico Olmos Park](/es/olmos-park-chiropractor)

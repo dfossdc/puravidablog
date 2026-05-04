@@ -96,4 +96,4 @@ Whether you want to improve your competitive standing, prevent injuries that der
 
 **Call (210) 685-1994** or [book your performance evaluation online](https://puravidasanantonio.com/special/). We serve Boerne athletes and speak English and Spanish.
 
-See also: [Athletic Performance Chiropractor](/en/posts/athletic-performance-san-antonio), [Golf Performance](/en/posts/golf-performance-san-antonio), [Runner's Gait Analysis](/en/posts/runners-knee-chiropractor-san-antonio)
+See also: [Athletic Performance Chiropractor](/en/blog/athletic-performance-san-antonio), [Golf Performance](/en/blog/golf-performance-san-antonio), [Runner's Gait Analysis](/en/blog/runners-knee-chiropractor-san-antonio)

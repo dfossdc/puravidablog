@@ -104,4 +104,4 @@ Chronic headaches do not have to define your life. Proper diagnosis and structur
 
 **Call (210) 685-1994** or [book your free consultation online](https://puravidasanantonio.com/special/). We are just 11 minutes from Universal City. Dr. Foss is bilingual — English and Spanish.
 
-See also: [Headaches and Migraines Chiropractor San Antonio](/en/posts/headaches-migraines-chiropractor-san-antonio), [Cervicogenic Headaches](/en/posts/cervicogenic-headaches-chiropractor-san-antonio), [Migraine Relief](/en/posts/cluster-headaches-chiropractor-san-antonio)
+See also: [Headaches and Migraines Chiropractor San Antonio](/en/blog/headaches-migraines-chiropractor-san-antonio), [Cervicogenic Headaches](/en/blog/cervicogenic-headaches-chiropractor-san-antonio), [Migraine Relief](/en/blog/cluster-headaches-chiropractor-san-antonio)

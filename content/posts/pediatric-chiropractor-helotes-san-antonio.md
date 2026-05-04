@@ -127,4 +127,4 @@ Because they perform better and stay healthy. Better spinal alignment improves c
 
 **Call (210) 685-1994** or [book your free consultation online](https://puravidasanantonio.com/special/). Pura Vida Chiropractic is at 2318 NW Military Hwy. We serve Helotes, Shavano Park, Bandera area families, and all of San Antonio. English and Spanish spoken.
 
-See also: [Pediatric Chiropractor San Antonio](/en/posts/pediatric-chiropractor-san-antonio), [Sports Performance and Chiropractic: A Parent's Guide](/en/posts/), [Chronic Ear Infections in Children: Why Chiropractic Works](/en/posts/how-does-chiropractic-help-with-kids-with-chronic-ear-infections)
+See also: [Pediatric Chiropractor San Antonio](/en/blog/pediatric-chiropractor-san-antonio), [Sports Performance and Chiropractic: A Parent's Guide](/en/blog/), [Chronic Ear Infections in Children: Why Chiropractic Works](/en/blog/how-does-chiropractic-help-with-kids-with-chronic-ear-infections)

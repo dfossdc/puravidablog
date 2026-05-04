@@ -102,4 +102,4 @@ Las madres de Castle Hills merecen más que el cuidado prenatal estándar. Merec
 
 **Llame al (210) 685-1994** o [reserve su consulta gratis en línea](https://puravidasanantonio.com/special/). Somos bilingües — inglés y español — y ubicados a solo 5 minutos de distancia en 2318 NW Military Hwy.
 
-Vea también: [Por Qué el Embarazo es el Momento #1 para Quiropractica](/es/posts/), [Quiropractico Castle Hills](/es/castle-hills-chiropractor), [Quiropractica Prenatal en San Antonio](/es/posts/)
+Vea también: [Por Qué el Embarazo es el Momento #1 para Quiropractica](/es/blog/), [Quiropractico Castle Hills](/es/castle-hills-chiropractor), [Quiropractica Prenatal en San Antonio](/es/blog/)

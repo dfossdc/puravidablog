@@ -120,4 +120,4 @@ Ya sea que su recién nacido necesite una evaluación post-parto, su niño peque
 
 **Llame al (210) 685-1994** o [reserve su consulta gratis en línea](https://puravidasanantonio.com/special/). Pura Vida Chiropractic está en 2318 NW Military Hwy. Servimos a Castle Hills, Olmos Park, Alamo Heights, y todo San Antonio. Inglés y español.
 
-Vea también: [Quiropractico Pediátrico San Antonio](/es/posts/quiropractica-pediatrica), [Ajuste Craneal para Infantes: Por Qué Importa](/es/posts/), [Infecciones Crónicas de Oído en Niños: Enfoque Quiropractico](/es/posts/)
+Vea también: [Quiropractico Pediátrico San Antonio](/es/blog/quiropractica-pediatrica), [Ajuste Craneal para Infantes: Por Qué Importa](/es/blog/), [Infecciones Crónicas de Oído en Niños: Enfoque Quiropractico](/es/blog/)

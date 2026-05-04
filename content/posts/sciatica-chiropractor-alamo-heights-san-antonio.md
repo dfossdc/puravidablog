@@ -88,4 +88,4 @@ If you have been managing sciatica pain with injections, medication, or simple r
 
 **Call (210) 685-1994** or [book your free consultation online](https://puravidasanantonio.com/special/). We are just 10 minutes from Alamo Heights at 2318 NW Military Hwy. We are bilingual — English and Spanish.
 
-See also: [Sciatica Chiropractor San Antonio](/en/posts/sciatica-chiropractor-san-antonio), [Herniated Disc and Chiropractic](/en/posts/herniated-disc-chiropractor-san-antonio), [Alamo Heights Chiropractor](/en/alamo-heights-chiropractor)
+See also: [Sciatica Chiropractor San Antonio](/en/blog/sciatica-chiropractor-san-antonio), [Herniated Disc and Chiropractic](/en/blog/herniated-disc-chiropractor-san-antonio), [Alamo Heights Chiropractor](/en/alamo-heights-chiropractor)

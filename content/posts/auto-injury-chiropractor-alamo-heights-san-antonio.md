@@ -87,4 +87,4 @@ If you were injured in a car accident, do not delay. Early treatment prevents lo
 
 **Call (210) 685-1994** or [book your appointment online](https://puravidasanantonio.com/special/). We serve Alamo Heights and surrounding neighborhoods. We are bilingual — English and Spanish.
 
-See also: [San Antonio Car Accident Chiropractor](/en/posts/san-antonio-chiropractor-car-accident), [Auto Injury Treatment](/en/posts/auto-injury), [Alamo Heights Chiropractor](/en/alamo-heights-chiropractor)
+See also: [San Antonio Car Accident Chiropractor](/en/blog/san-antonio-chiropractor-car-accident), [Auto Injury Treatment](/en/blog/auto-injury), [Alamo Heights Chiropractor](/en/alamo-heights-chiropractor)

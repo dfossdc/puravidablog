@@ -89,4 +89,4 @@ Whether your child has a specific health concern or you simply want to ensure th
 
 **Call (210) 685-1994** or [book your free consultation online](https://puravidasanantonio.com/special/). We serve families across Stone Oak and all of San Antonio. We are bilingual — English and Spanish.
 
-See also: [Pediatric Chiropractor San Antonio](/en/posts/pediatric-chiropractor-san-antonio), [Is It Safe to Take a Baby to the Chiropractor?](/en/posts/is-it-safe-to-take-a-baby-to-the-chiropractor), [How Does Chiropractic Help Kids with Chronic Ear Infections](/en/posts/how-does-chiropractic-help-with-kids-with-chronic-ear-infections)
+See also: [Pediatric Chiropractor San Antonio](/en/blog/pediatric-chiropractor-san-antonio), [Is It Safe to Take a Baby to the Chiropractor?](/en/blog/is-it-safe-to-take-a-baby-to-the-chiropractor), [How Does Chiropractic Help Kids with Chronic Ear Infections](/en/blog/how-does-chiropractic-help-with-kids-with-chronic-ear-infections)

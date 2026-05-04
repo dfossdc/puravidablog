@@ -105,4 +105,4 @@ If you were injured in an accident, do not delay. Early treatment prevents long-
 
 **Call (210) 685-1994** or [book your appointment online](https://puravidasanantonio.com/special/). We serve Westover Hills and surrounding areas. We are bilingual — English and Spanish.
 
-See also: [Car Accident Chiropractor San Antonio](/en/posts/san-antonio-chiropractor-car-accident), [Whiplash Recovery](/en/posts/whiplash-chiropractor-san-antonio), [Soft Tissue Injury Treatment](/en/posts/soft-tissue-injury-san-antonio)
+See also: [Car Accident Chiropractor San Antonio](/en/blog/san-antonio-chiropractor-car-accident), [Whiplash Recovery](/en/blog/whiplash-chiropractor-san-antonio), [Soft Tissue Injury Treatment](/en/blog/soft-tissue-injury-san-antonio)

@@ -92,4 +92,4 @@ Si ha estado gestionando migrañas o dolores de cabeza con medicamentos, sabe qu
 
 **Llame al (210) 685-1994** o [reserve su consulta gratis en línea](https://puravidasanantonio.com/special/). Estamos a solo 8 minutos de Olmos Park. Somos bilingües — inglés y español.
 
-Vea también: [Dolores de Cabeza y Migrañas Quiropractico San Antonio](/es/posts/dolores-de-cabeza-migranas-san-antonio), [Ajuste Craneal](/es/posts/cranial-adjusting-san-antonio), [Quiropractico Olmos Park](/es/olmos-park-chiropractor)
+Vea también: [Dolores de Cabeza y Migrañas Quiropractico San Antonio](/es/blog/dolores-de-cabeza-migranas-san-antonio), [Ajuste Craneal](/es/blog/cranial-adjusting-san-antonio), [Quiropractico Olmos Park](/es/olmos-park-chiropractor)

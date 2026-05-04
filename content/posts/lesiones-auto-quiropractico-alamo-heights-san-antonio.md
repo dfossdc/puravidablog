@@ -88,4 +88,4 @@ Si fue lesionado en un accidente vehicular, no se demore. El tratamiento tempran
 
 **Llame al (210) 685-1994** o [reserve su cita en línea](https://puravidasanantonio.com/special/). Servimos a Alamo Heights y barrios circundantes. Somos bilingües — inglés y español.
 
-Vea también: [Quiropractico Accidente Vehicular San Antonio](/es/posts/san-antonio-chiropractor-car-accident), [Tratamiento de Lesiones Vehiculares](/es/posts/lesiones-de-auto), [Quiropractico Alamo Heights](/es/alamo-heights-chiropractor)
+Vea también: [Quiropractico Accidente Vehicular San Antonio](/es/blog/san-antonio-chiropractor-car-accident), [Tratamiento de Lesiones Vehiculares](/es/blog/lesiones-de-auto), [Quiropractico Alamo Heights](/es/alamo-heights-chiropractor)

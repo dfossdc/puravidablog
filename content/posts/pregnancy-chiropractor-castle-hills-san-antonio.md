@@ -101,4 +101,4 @@ Castle Hills mothers deserve more than standard prenatal care. They deserve the 
 
 **Call (210) 685-1994** or [book your free consultation online](https://puravidasanantonio.com/special/). We are bilingual — English and Spanish — and located just 5 minutes away at 2318 NW Military Hwy.
 
-See also: [Why Pregnancy Is the #1 Time for Chiropractic Care](/en/posts/why-pregnancy-is-the-most-important-time-for-chiropractic-care), [Castle Hills Chiropractor](/en/castle-hills-chiropractor), [Prenatal Chiropractic in San Antonio](/en/posts/prenatal-chiropractor-san-antonio-tx)
+See also: [Why Pregnancy Is the #1 Time for Chiropractic Care](/en/blog/why-pregnancy-is-the-most-important-time-for-chiropractic-care), [Castle Hills Chiropractor](/en/castle-hills-chiropractor), [Prenatal Chiropractic in San Antonio](/en/blog/prenatal-chiropractor-san-antonio-tx)

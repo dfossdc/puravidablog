@@ -90,4 +90,4 @@ Ya sea que su hijo tenga una preocupación de salud específica o simplemente de
 
 **Llame al (210) 685-1994** o [reserve su consulta gratis en línea](https://puravidasanantonio.com/special/). Servimos a familias en Stone Oak y en todo San Antonio. Somos bilingües — inglés y español.
 
-Vea también: [Quiropractico Pediátrico San Antonio](/es/posts/), [¿Es Seguro Llevar un Bebé al Quiropractico?](/es/posts/es-seguro-llevar-bebe-quiropractico), [Cómo Ayuda la Quiropractica a Niños con Infecciones Crónicas de Oído](/es/posts/)
+Vea también: [Quiropractico Pediátrico San Antonio](/es/blog/), [¿Es Seguro Llevar un Bebé al Quiropractico?](/es/blog/es-seguro-llevar-bebe-quiropractico), [Cómo Ayuda la Quiropractica a Niños con Infecciones Crónicas de Oído](/es/blog/)

@@ -108,4 +108,4 @@ If you are sidelined by a sports injury, do not wait and hope it improves. Prope
 
 **Call (210) 685-1994** or [book your appointment online](https://puravidasanantonio.com/special/). We serve Alamo Heights athletes and are bilingual — English and Spanish.
 
-See also: [Sports Injury Treatment](/en/posts/), [Rotator Cuff Injury](/en/posts/), [Alamo Heights Chiropractor](/en/alamo-heights-chiropractor)
+See also: [Sports Injury Treatment](/en/blog/), [Rotator Cuff Injury](/en/blog/), [Alamo Heights Chiropractor](/en/alamo-heights-chiropractor)

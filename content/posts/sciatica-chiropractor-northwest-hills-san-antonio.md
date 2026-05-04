@@ -97,4 +97,4 @@ Shooting leg pain does not have to define your life. With proper diagnosis and t
 
 **Call (210) 685-1994** or [book your free consultation online](https://puravidasanantonio.com/special/). We are just 12 minutes from Northwest Hills. Dr. Foss is bilingual — English and Spanish.
 
-See also: [Sciatica Chiropractor San Antonio](/en/posts/sciatica-chiropractor-san-antonio), [Radiculopathy Treatment](/en/posts/radiculopathy-chiropractor-san-antonio), [Leg Pain Relief](/en/posts/numbness-tingling-chiropractor-san-antonio)
+See also: [Sciatica Chiropractor San Antonio](/en/blog/sciatica-chiropractor-san-antonio), [Radiculopathy Treatment](/en/blog/radiculopathy-chiropractor-san-antonio), [Leg Pain Relief](/en/blog/numbness-tingling-chiropractor-san-antonio)

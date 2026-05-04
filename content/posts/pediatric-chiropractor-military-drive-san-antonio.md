@@ -123,4 +123,4 @@ Whether your newborn needs assessment for birth-related restrictions, your child
 
 **Call (210) 685-1994** or [book your free consultation online](https://puravidasanantonio.com/special/). Pura Vida Chiropractic is at **2318 NW Military Hwy, Suite 103**. We serve Military Drive, Hollywood Park, Shavano Park, and all of San Antonio. **English and Spanish spoken. Military families welcome.**
 
-See also: [Pediatric Chiropractor San Antonio](/en/posts/pediatric-chiropractor-san-antonio), [Infant Reflux and Chiropractic: Why It Works](/en/posts/), [Colic in Babies: When to See a Pediatric Chiropractor](/en/posts/)
+See also: [Pediatric Chiropractor San Antonio](/en/blog/pediatric-chiropractor-san-antonio), [Infant Reflux and Chiropractic: Why It Works](/en/blog/), [Colic in Babies: When to See a Pediatric Chiropractor](/en/blog/)

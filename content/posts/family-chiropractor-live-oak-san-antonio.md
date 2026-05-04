@@ -106,4 +106,4 @@ Whether you have a newborn with specific needs, kids pursuing sports, busy paren
 
 **Call (210) 685-1994** or [book your free consultation online](https://puravidasanantonio.com/special/). We serve Live Oak families and speak English and Spanish.
 
-See also: [Pediatric Chiropractor San Antonio](/en/posts/pediatric-chiropractor-san-antonio), [Prenatal Chiropractic](/en/posts/prenatal-chiropractor-san-antonio-tx), [Wellness Care for Active Adults](/en/posts/why-go-to-a-chiropractor-san-antonio)
+See also: [Pediatric Chiropractor San Antonio](/en/blog/pediatric-chiropractor-san-antonio), [Prenatal Chiropractic](/en/blog/prenatal-chiropractor-san-antonio-tx), [Wellness Care for Active Adults](/en/blog/why-go-to-a-chiropractor-san-antonio)

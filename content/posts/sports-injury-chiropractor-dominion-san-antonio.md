@@ -96,4 +96,4 @@ If you are sidelined by a sports injury, do not waste time. Early, aggressive tr
 
 **Call (210) 685-1994** or [book your free consultation online](https://puravidasanantonio.com/special/). We serve Dominion and surrounding west San Antonio neighborhoods. Dr. Foss is bilingual — English and Spanish.
 
-See also: [Sports Injury Chiropractor San Antonio](/en/posts/sports-injury), [Athletic Performance](/en/posts/athletic-performance-san-antonio), [Shoulder Pain Chiropractor](/en/posts/shoulder-pain-chiropractor-san-antonio)
+See also: [Sports Injury Chiropractor San Antonio](/en/blog/sports-injury), [Athletic Performance](/en/blog/athletic-performance-san-antonio), [Shoulder Pain Chiropractor](/en/blog/shoulder-pain-chiropractor-san-antonio)

@@ -98,4 +98,4 @@ Ya sea que tenga un recién nacido con necesidades especiales, niños que quiera
 
 **Llame al (210) 685-1994** o [reserve su consulta gratis en línea](https://puravidasanantonio.com/special/). Servimos a familias de Helotes y hablamos inglés y español.
 
-Vea también: [Quiropractico Pediátrico San Antonio](/es/posts/quiropractica-pediatrica), [Quiropractica Prenatal](/es/posts/cuidado-prenatal), [Quiropractica para Adultos Activos](/es/posts/por-que-ir-quiropractico-san-antonio)
+Vea también: [Quiropractico Pediátrico San Antonio](/es/blog/quiropractica-pediatrica), [Quiropractica Prenatal](/es/blog/cuidado-prenatal), [Quiropractica para Adultos Activos](/es/blog/por-que-ir-quiropractico-san-antonio)

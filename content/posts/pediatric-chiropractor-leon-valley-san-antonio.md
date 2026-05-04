@@ -122,4 +122,4 @@ Whether your child is struggling with a specific condition or you want to suppor
 
 **Call (210) 685-1994** or [book your free consultation online](https://puravidasanantonio.com/special/). We serve Leon Valley families and speak English and Spanish.
 
-See also: [Pediatric Chiropractor San Antonio](/en/posts/pediatric-chiropractor-san-antonio), [Infant Colic Relief](/en/posts/infant-colic-chiropractor-san-antonio), [Kids Wellness Care](/en/posts/why-go-to-a-chiropractor-san-antonio)
+See also: [Pediatric Chiropractor San Antonio](/en/blog/pediatric-chiropractor-san-antonio), [Infant Colic Relief](/en/blog/infant-colic-chiropractor-san-antonio), [Kids Wellness Care](/en/blog/why-go-to-a-chiropractor-san-antonio)

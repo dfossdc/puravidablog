@@ -92,4 +92,4 @@ If you have been managing migraines or headaches with medication, you know it is
 
 **Call (210) 685-1994** or [book your free consultation online](https://puravidasanantonio.com/special/). We are just 8 minutes from Olmos Park. We are bilingual — English and Spanish.
 
-See also: [Headaches and Migraines Chiropractor San Antonio](/en/posts/headaches-migraines-chiropractor-san-antonio), [Cranial Adjusting](/en/posts/cranial-adjusting-san-antonio), [Olmos Park Chiropractor](/en/olmos-park-chiropractor)
+See also: [Headaches and Migraines Chiropractor San Antonio](/en/blog/headaches-migraines-chiropractor-san-antonio), [Cranial Adjusting](/en/blog/cranial-adjusting-san-antonio), [Olmos Park Chiropractor](/en/olmos-park-chiropractor)

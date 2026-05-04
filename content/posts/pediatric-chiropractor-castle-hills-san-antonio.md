@@ -122,4 +122,4 @@ Whether your newborn needs a post-birth assessment, your toddler is struggling w
 
 **Call (210) 685-1994** or [book your free consultation online](https://puravidasanantonio.com/special/). Pura Vida Chiropractic is at 2318 NW Military Hwy. We serve Castle Hills, Olmos Park, Alamo Heights, and all of San Antonio. English and Spanish spoken.
 
-See also: [Pediatric Chiropractor San Antonio](/en/posts/pediatric-chiropractor-san-antonio), [Cranial Adjusting for Infants: Why It Matters](/en/posts/cranial-adjusting-infants), [Chronic Ear Infections in Children: A Chiropractic Approach](/en/posts/how-does-chiropractic-help-with-kids-with-chronic-ear-infections)
+See also: [Pediatric Chiropractor San Antonio](/en/blog/pediatric-chiropractor-san-antonio), [Cranial Adjusting for Infants: Why It Matters](/en/blog/cranial-adjusting-infants), [Chronic Ear Infections in Children: A Chiropractic Approach](/en/blog/how-does-chiropractic-help-with-kids-with-chronic-ear-infections)

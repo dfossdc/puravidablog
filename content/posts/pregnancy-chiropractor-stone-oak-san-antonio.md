@@ -90,4 +90,4 @@ Many Stone Oak mothers have walked through our doors at 2318 NW Military Hwy and
 
 **Call (210) 685-1994** or [book your free consultation online](https://puravidasanantonio.com/special/). We are bilingual — English and Spanish — and we are here to support you.
 
-See also: [Why Pregnancy Is the #1 Time for Chiropractic Care](/en/posts/why-pregnancy-is-the-most-important-time-for-chiropractic-care), [Stone Oak Chiropractor](/en/stone-oak-chiropractor), [Prenatal Chiropractic Care in San Antonio](/en/posts/prenatal-chiropractor-san-antonio-tx)
+See also: [Why Pregnancy Is the #1 Time for Chiropractic Care](/en/blog/why-pregnancy-is-the-most-important-time-for-chiropractic-care), [Stone Oak Chiropractor](/en/stone-oak-chiropractor), [Prenatal Chiropractic Care in San Antonio](/en/blog/prenatal-chiropractor-san-antonio-tx)

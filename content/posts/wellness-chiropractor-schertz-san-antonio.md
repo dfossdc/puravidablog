@@ -102,4 +102,4 @@ Wellness care is not about fixing pain — it is about optimizing your health an
 
 **Call (210) 685-1994** or [book your wellness consultation online](https://puravidasanantonio.com/special/). We serve Schertz families and speak English and Spanish.
 
-See also: [Wellness Chiropractor San Antonio](/en/posts/wellness-chiropractor-san-antonio), [Preventive Care](/en/posts/why-go-to-a-chiropractor-san-antonio), [Family Wellness](/en/posts/family-chiropractor-helotes-san-antonio)
+See also: [Wellness Chiropractor San Antonio](/en/blog/wellness-chiropractor-san-antonio), [Preventive Care](/en/blog/why-go-to-a-chiropractor-san-antonio), [Family Wellness](/en/blog/family-chiropractor-helotes-san-antonio)

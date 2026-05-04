@@ -92,4 +92,4 @@ Muchas madres de Stone Oak han caminado por nuestras puertas en 2318 NW Military
 
 **Llame al (210) 685-1994** o [reserve su consulta gratis en línea](https://puravidasanantonio.com/special/). Somos bilingües — inglés y español — y estamos aquí para apoyarle.
 
-Vea también: [Por Qué el Embarazo es el Momento #1 para Quiropractica](/es/posts/), [Quiropractico Stone Oak](/es/stone-oak-chiropractor), [Cuidado Quiropractico Prenatal en San Antonio](/es/posts/)
+Vea también: [Por Qué el Embarazo es el Momento #1 para Quiropractica](/es/blog/), [Quiropractico Stone Oak](/es/stone-oak-chiropractor), [Cuidado Quiropractico Prenatal en San Antonio](/es/blog/)

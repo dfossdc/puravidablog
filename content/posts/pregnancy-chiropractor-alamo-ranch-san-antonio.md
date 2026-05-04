@@ -110,4 +110,4 @@ Pregnancy does not have to be uncomfortable. With proper chiropractic care, you 
 
 **Call (210) 685-1994** or [book your free consultation online](https://puravidasanantonio.com/special/). We serve Alamo Ranch expecting mothers and speak English and Spanish.
 
-See also: [Prenatal Chiropractor San Antonio](/en/posts/prenatal-chiropractor-san-antonio-tx), [Postpartum Recovery](/en/posts/postpartum-recovery-chiropractor-san-antonio), [Webster Technique](/en/posts/webster-technique-san-antonio)
+See also: [Prenatal Chiropractor San Antonio](/en/blog/prenatal-chiropractor-san-antonio-tx), [Postpartum Recovery](/en/blog/postpartum-recovery-chiropractor-san-antonio), [Webster Technique](/en/blog/webster-technique-san-antonio)

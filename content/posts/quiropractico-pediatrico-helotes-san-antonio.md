@@ -130,4 +130,4 @@ Ya sea que su infante necesite una evaluación post-parto, su atleta en edad esc
 
 **Llame al (210) 685-1994** o [reserve su consulta gratis en línea](https://puravidasanantonio.com/special/). Pura Vida Chiropractic está en 2318 NW Military Hwy. Servimos a familias de Helotes, Shavano Park, área de Bandera, y todo San Antonio. Inglés y español.
 
-Vea también: [Quiropractico Pediátrico San Antonio](/es/posts/quiropractica-pediatrica), [Rendimiento Deportivo y Quiropractica: Guía para Padres](/es/posts/), [Infecciones Crónicas de Oído en Niños: Por Qué Funciona la Quiropractica](/es/posts/)
+Vea también: [Quiropractico Pediátrico San Antonio](/es/blog/quiropractica-pediatrica), [Rendimiento Deportivo y Quiropractica: Guía para Padres](/es/blog/), [Infecciones Crónicas de Oído en Niños: Por Qué Funciona la Quiropractica](/es/blog/)

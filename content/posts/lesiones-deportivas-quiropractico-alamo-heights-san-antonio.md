@@ -109,4 +109,4 @@ Si está fuera de servicio por una lesión deportiva, no espere y espere que mej
 
 **Llame al (210) 685-1994** o [reserve su cita en línea](https://puravidasanantonio.com/special/). Servimos a atletas de Alamo Heights y somos bilingües — inglés y español.
 
-Vea también: [Tratamiento de Lesiones Deportivas](/es/posts/), [Lesión del Manguito Rotador](/es/posts/), [Quiropractico Alamo Heights](/es/alamo-heights-chiropractor)
+Vea también: [Tratamiento de Lesiones Deportivas](/es/blog/), [Lesión del Manguito Rotador](/es/blog/), [Quiropractico Alamo Heights](/es/alamo-heights-chiropractor)

@@ -111,4 +111,4 @@ Poor posture is fixable. You do not have to live with neck pain, headaches, and 
 
 **Call (210) 685-1994** or [book your free consultation online](https://puravidasanantonio.com/special/). We are just 8 minutes from Olmos Park. We are bilingual — English and Spanish.
 
-See also: [Text Neck Treatment San Antonio](/en/posts/text-neck-treatment-san-antonio), [Forward Head Posture](/en/posts/), [Olmos Park Chiropractor](/en/olmos-park-chiropractor)
+See also: [Text Neck Treatment San Antonio](/en/blog/text-neck-treatment-san-antonio), [Forward Head Posture](/en/blog/), [Olmos Park Chiropractor](/en/olmos-park-chiropractor)

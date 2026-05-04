@@ -127,4 +127,4 @@ Ya sea que su recién nacido necesite evaluación de restricciones relacionadas 
 
 **Llame al (210) 685-1994** o [reserve su consulta gratis en línea](https://puravidasanantonio.com/special/). Pura Vida Chiropractic está en **2318 NW Military Hwy, Suite 103**. Servimos Military Drive, Hollywood Park, Shavano Park, y todo San Antonio. **Inglés y español. Las familias militares son bienvenidas.**
 
-Vea también: [Quiropractico Pediátrico San Antonio](/es/posts/quiropractica-pediatrica), [Reflujo Infantil y Quiropractica: Por Qué Funciona](/es/posts/), [Cólicos en Bebés: Cuándo Ver un Quiropractico Pediátrico](/es/posts/)
+Vea también: [Quiropractico Pediátrico San Antonio](/es/blog/quiropractica-pediatrica), [Reflujo Infantil y Quiropractica: Por Qué Funciona](/es/blog/), [Cólicos en Bebés: Cuándo Ver un Quiropractico Pediátrico](/es/blog/)

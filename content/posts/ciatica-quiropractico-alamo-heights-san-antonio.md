@@ -89,4 +89,4 @@ Si ha estado gestionando el dolor de ciática con inyecciones, medicación, o si
 
 **Llame al (210) 685-1994** o [reserve su consulta gratis en línea](https://puravidasanantonio.com/special/). Estamos a solo 10 minutos de Alamo Heights en 2318 NW Military Hwy. Somos bilingües — inglés y español.
 
-Vea también: [Ciática Quiropractico San Antonio](/es/posts/ciatica-quiropractico-san-antonio), [Disco Herniado y Quiropractica](/es/posts/hernia-disco-quiropractico-san-antonio), [Quiropractico Alamo Heights](/es/alamo-heights-chiropractor)
+Vea también: [Ciática Quiropractico San Antonio](/es/blog/ciatica-quiropractico-san-antonio), [Disco Herniado y Quiropractica](/es/blog/hernia-disco-quiropractico-san-antonio), [Quiropractico Alamo Heights](/es/alamo-heights-chiropractor)
