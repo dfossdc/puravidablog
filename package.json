@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "seed": "tsx scripts/seed-content.ts"
+    "seed": "tsx scripts/seed-content.ts",
+    "indexnow:submit": "node scripts/indexnow-submit-sitemap.mjs"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.87.0",
