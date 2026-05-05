@@ -307,6 +307,16 @@ const nextConfig = {
       { source: "/es/posts/:slug*", destination: "/es/blog/:slug*", permanent: true },
       { source: "/posts/:slug*", destination: "/en/blog/:slug*", permanent: true },
 
+      // ── Unprefixed legacy paths → /en/<type>/<slug> ──
+      // Old WordPress URLs (and external backlinks) frequently used the bare
+      // /conditions/X, /services/X, /blog/X form with no locale prefix. Without
+      // these wildcards those URLs 404. GSC was reporting them in the
+      // 'Not found (404)' bucket, blocking fix validation. Use :slug+ (one or
+      // more) so the bare /blog redirect on line 71 still wins for /blog itself.
+      { source: "/conditions/:slug+", destination: "/en/conditions/:slug+", permanent: true },
+      { source: "/services/:slug+", destination: "/en/services/:slug+", permanent: true },
+      { source: "/blog/:slug+", destination: "/en/blog/:slug+", permanent: true },
+
       // ── Pages flagged 404 with no direct equivalent — send to closest topical match ──
       { source: "/en/blog/first-visit", destination: "/en/blog/first-chiropractic-visit-what-to-expect", permanent: true },
       { source: "/en/blog/sot-faq", destination: "/en/faq", permanent: true },
