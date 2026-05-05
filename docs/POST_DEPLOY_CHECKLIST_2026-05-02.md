@@ -83,6 +83,54 @@ Open `puravidasanantonio.com/` and `puravidasanantonio.com/es/` in your phone's 
 
 In Semrush Site Audit → "Issues" tab → search for "content optimization" or scroll the Notices column. Click into that issue. There's a URL list — export to CSV or screenshot the URL column and send it over. With the actual URLs in hand I can target each one in a single batch instead of guessing from word counts.
 
+## 7. IndexNow — push new URLs to Bing/Yandex/Seznam/Naver
+
+Set up 2026-05-04. Daily Vercel cron (`/api/cron/indexnow-resubmit`) auto-resubmits
+the entire sitemap once per day at 08:17 UTC, so new content gets picked up
+within 24 hours without any manual step. To override:
+
+- **After a big content batch and you don't want to wait 24h:** run
+  `npm run indexnow:submit` from your local terminal. Pulls live sitemap and
+  pings IndexNow with all URLs in one call. Bing reflects within minutes.
+- **For a single URL after publishing one post:** call the endpoint directly:
+  ```
+  curl -X POST https://puravidasanantonio.com/api/indexnow \
+    -H "Authorization: Bearer $INDEXNOW_API_TOKEN" \
+    -H "Content-Type: application/json" \
+    -d '{"urls":["https://puravidasanantonio.com/en/blog/new-post"]}'
+  ```
+- **Sanity webhook auto-ping (recommended):** In Sanity Studio → Manage →
+  API → Webhooks, click "Create webhook":
+    - **URL:** `https://puravidasanantonio.com/api/indexnow`
+    - **Trigger on:** Create + Update + Delete
+    - **Filter:** `_type == "post"` (or whichever schema your blog posts use)
+    - **HTTP method:** POST
+    - **HTTP headers:**
+      - `Authorization: Bearer <your INDEXNOW_API_TOKEN value>`
+      - `Content-Type: application/json`
+    - **Projection:**
+      ```
+      { "urls": [
+        "https://puravidasanantonio.com/en/blog/" + slug.current,
+        "https://puravidasanantonio.com/es/blog/" + slug.current
+      ] }
+      ```
+      (adjust to your actual blog URL pattern — currently slugs are bilingual-distinct)
+    - **API version:** Use the same Sanity API version your app uses
+  Important caveat: the URL must be live (Vercel rebuild done) before the
+  webhook fires, otherwise IndexNow gets a 404 and rejects the URL. If your
+  Sanity-publish → Vercel-rebuild flow takes more than ~30s, the daily cron
+  will catch it as a backstop.
+
+Verify it's working: Bing Webmaster Tools → URL Inspection → enter any
+URL. "Last submitted" timestamp should reflect recent activity. Or check
+Vercel logs for `/api/cron/indexnow-resubmit` invocations.
+
+The IndexNow key (`afa1c26c00c445aa95dc1ccbb8bfea99`) is hosted publicly at
+`/afa1c26c00c445aa95dc1ccbb8bfea99.txt` — required by the IndexNow protocol
+and not sensitive. The shared secret `INDEXNOW_API_TOKEN` (Vercel env var)
+IS sensitive — keep it in 1Password and never commit it.
+
 ## What's NOT auto-fixed and needs your call
 
 - **Google Business Profile photo refresh.** Counts directly toward Local Pack ranking. If you have any new patient-results photos this week, upload via the GBP mobile app.
