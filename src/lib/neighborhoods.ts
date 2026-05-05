@@ -269,6 +269,314 @@ export const neighborhoods: NeighborhoodData[] = [
     lat: 29.4717,
     lng: -98.4855,
   },
+  {
+    slug: "balcones-heights",
+    name: "Balcones Heights",
+    nameEs: "Balcones Heights",
+    distanceFromOffice: "about 5 minutes from our office via Loop 410",
+    distanceFromOfficeEs: "aproximadamente 5 minutos de nuestra oficina por el Loop 410",
+    areaDescription:
+      "Balcones Heights is the small incorporated enclave city tucked inside San Antonio at the intersection of Fredericksburg Rd and Loop 410 (zip code 78201) — best known for Wonderland of the Americas Mall and the dense Fredericksburg Rd commercial corridor. The area is heavily bilingual and family-oriented, with a strong Hispanic majority. Pura Vida Chiropractic is one of the closest practices to Balcones Heights residents — about 5 minutes from Wonderland of the Americas via Loop 410 — offering fully bilingual SOT chiropractic, SoftWave, and family-focused care.",
+    areaDescriptionEs:
+      "Balcones Heights es la pequeña ciudad enclave incorporada dentro de San Antonio en la intersección de Fredericksburg Rd y Loop 410 (código postal 78201), mejor conocida por el centro comercial Wonderland of the Americas y el denso corredor comercial de Fredericksburg Rd. El área es muy bilingüe y orientada a la familia, con una fuerte mayoría hispana. Pura Vida Chiropractic es una de las prácticas más cercanas para los residentes de Balcones Heights — a unos 5 minutos de Wonderland of the Americas por el Loop 410 — ofreciendo quiropráctica SOT bilingüe, SoftWave y atención centrada en la familia.",
+    title:
+      "Balcones Heights Chiropractor | Pura Vida Chiropractic | San Antonio TX",
+    titleEs:
+      "Quiropráctico en Balcones Heights | Pura Vida Chiropractic | San Antonio TX",
+    metaDescription:
+      "Balcones Heights chiropractor — 5 minutes from Wonderland of the Americas via Loop 410. Bilingual SOT chiropractic, SoftWave therapy, prenatal, pediatric, auto-injury. Pura Vida Chiropractic serves 78201.",
+    metaDescriptionEs:
+      "Quiropráctico en Balcones Heights — a 5 minutos de Wonderland of the Americas por el Loop 410. Quiropráctica SOT bilingüe, terapia SoftWave, prenatal, pediátrica, lesiones de auto. Pura Vida Chiropractic atiende 78201.",
+    whyChooseUs: [
+      "One of the closest chiropractic practices to Balcones Heights — 5 minutes via Loop 410",
+      "Fully bilingual chiropractic care (English/Spanish) — important for the area's Hispanic majority",
+      "Advanced SOT certification — the only Sacro-Occipital Technique specialist in the area",
+      "Family-focused care: pediatric, prenatal, auto-injury — close enough to be your everyday chiropractor",
+    ],
+    whyChooseUsEs: [
+      "Una de las prácticas quiropráctica más cercanas a Balcones Heights — 5 minutos por el Loop 410",
+      "Atención quiropráctica completamente bilingüe (inglés/español) — importante para la mayoría hispana del área",
+      "Certificación SOT Avanzada — el único especialista en Técnica Sacro-Occipital del área",
+      "Atención centrada en la familia: pediátrica, prenatal, lesiones de auto — lo suficientemente cerca para ser su quiropráctico cotidiano",
+    ],
+    commonConditions: [
+      { en: "Lower back pain", es: "Dolor lumbar" },
+      { en: "Neck pain and tech neck", es: "Dolor de cuello y cuello tecnológico" },
+      { en: "Sciatica", es: "Ciática" },
+      { en: "Headaches and migraines", es: "Dolores de cabeza y migrañas" },
+      { en: "Pregnancy and prenatal chiropractic", es: "Quiropráctica de embarazo y prenatal" },
+      { en: "Auto accident injuries (Loop 410 / Fredericksburg Rd corridor)", es: "Lesiones de accidentes de auto (corredor Loop 410 / Fredericksburg Rd)" },
+    ],
+    landmarks: ["Wonderland of the Americas", "Fredericksburg Rd", "Loop 410", "Crossroads of San Antonio", "Babcock Rd"],
+    landmarksEs: ["Wonderland of the Americas", "Fredericksburg Rd", "Loop 410", "Crossroads of San Antonio", "Babcock Rd"],
+    zipCodes: ["78201"],
+    lat: 29.4856,
+    lng: -98.5300,
+  },
+  {
+    slug: "shavano-park",
+    name: "Shavano Park",
+    nameEs: "Shavano Park",
+    distanceFromOffice: "about 5 minutes north on NW Military Hwy",
+    distanceFromOfficeEs: "aproximadamente 5 minutos al norte por NW Military Hwy",
+    areaDescription:
+      "Shavano Park is the small, leafy incorporated city just north of our office along NW Military Hwy (zip code 78230) — known for quiet residential streets, mature oak canopies, and an affluent family-oriented community. Pura Vida Chiropractic is the closest chiropractor to Shavano Park, offering bilingual SOT, SoftWave, prenatal, and pediatric care just minutes from your driveway.",
+    areaDescriptionEs:
+      "Shavano Park es la pequeña ciudad incorporada y arbolada justo al norte de nuestra oficina por NW Military Hwy (código postal 78230), conocida por sus calles residenciales tranquilas, robles maduros y una comunidad familiar acomodada. Pura Vida Chiropractic es el quiropráctico más cercano a Shavano Park, ofreciendo SOT bilingüe, SoftWave, atención prenatal y pediátrica a solo minutos de su entrada.",
+    title:
+      "Shavano Park Chiropractor | Pura Vida Chiropractic | San Antonio TX",
+    titleEs:
+      "Quiropráctico en Shavano Park | Pura Vida Chiropractic | San Antonio TX",
+    metaDescription:
+      "Shavano Park chiropractor — closest practice to Shavano Park (78230). Pura Vida Chiropractic offers Advanced SOT, SoftWave, Class IV laser, bilingual care for back pain, sciatica, prenatal, pediatric. 5-minute drive on NW Military Hwy.",
+    metaDescriptionEs:
+      "Quiropráctico en Shavano Park — la práctica más cercana a Shavano Park (78230). Pura Vida Chiropractic ofrece SOT Avanzada, SoftWave, láser Clase IV, atención bilingüe para dolor de espalda, ciática, prenatal, pediátrica. 5 minutos por NW Military Hwy.",
+    whyChooseUs: [
+      "Closest chiropractor to Shavano Park — 5 minutes south on NW Military Hwy",
+      "Advanced SOT certification — the only Sacro-Occipital Technique specialist in the area",
+      "Bilingual chiropractic care (English/Spanish)",
+      "Specialized prenatal and pediatric care for Shavano Park's growing families",
+    ],
+    whyChooseUsEs: [
+      "El quiropráctico más cercano a Shavano Park — 5 minutos al sur por NW Military Hwy",
+      "Certificación SOT Avanzada — el único especialista en Técnica Sacro-Occipital del área",
+      "Atención quiropráctica bilingüe (inglés/español)",
+      "Atención prenatal y pediátrica especializada para las crecientes familias de Shavano Park",
+    ],
+    commonConditions: [
+      { en: "Lower back pain", es: "Dolor lumbar" },
+      { en: "Neck pain and tech neck", es: "Dolor de cuello y cuello tecnológico" },
+      { en: "Sciatica", es: "Ciática" },
+      { en: "Pregnancy and prenatal chiropractic", es: "Quiropráctica de embarazo y prenatal" },
+      { en: "Pediatric chiropractic", es: "Quiropráctica pediátrica" },
+      { en: "Headaches and migraines", es: "Dolores de cabeza y migrañas" },
+    ],
+    landmarks: ["NW Military Hwy", "Lockhill-Selma Rd", "Shavano Park City Hall", "TPC Parkway", "Loop 1604"],
+    landmarksEs: ["NW Military Hwy", "Lockhill-Selma Rd", "Shavano Park City Hall", "TPC Parkway", "Loop 1604"],
+    zipCodes: ["78230", "78231"],
+    lat: 29.5742,
+    lng: -98.5658,
+  },
+  {
+    slug: "hill-country-village",
+    name: "Hill Country Village",
+    nameEs: "Hill Country Village",
+    distanceFromOffice: "about 8 minutes north via NW Military Hwy",
+    distanceFromOfficeEs: "aproximadamente 8 minutos al norte por NW Military Hwy",
+    areaDescription:
+      "Hill Country Village is a tiny, leafy incorporated city just north of San Antonio's Loop 1604 (zip code 78232) — wooded lots, large family homes, and a tightly knit residential character. Pura Vida Chiropractic offers Hill Country Village families a short, easy drive south on NW Military Hwy for bilingual, family-focused chiropractic care.",
+    areaDescriptionEs:
+      "Hill Country Village es una pequeña ciudad incorporada y arbolada justo al norte del Loop 1604 de San Antonio (código postal 78232) — lotes boscosos, grandes casas familiares y un carácter residencial muy unido. Pura Vida Chiropractic ofrece a las familias de Hill Country Village un viaje corto y fácil al sur por NW Military Hwy para atención quiropráctica bilingüe y centrada en la familia.",
+    title:
+      "Hill Country Village Chiropractor | Pura Vida Chiropractic | San Antonio TX",
+    titleEs:
+      "Quiropráctico en Hill Country Village | Pura Vida Chiropractic | San Antonio TX",
+    metaDescription:
+      "Hill Country Village chiropractor — Pura Vida Chiropractic on NW Military Hwy. Advanced SOT, SoftWave, bilingual care for back pain, sciatica, prenatal, pediatric. 8-minute drive south for Hill Country Village families.",
+    metaDescriptionEs:
+      "Quiropráctico en Hill Country Village — Pura Vida Chiropractic en NW Military Hwy. SOT Avanzada, SoftWave, atención bilingüe para dolor de espalda, ciática, prenatal, pediátrica. 8 minutos al sur para las familias de Hill Country Village.",
+    whyChooseUs: [
+      "Short 8-minute drive south on NW Military Hwy",
+      "Advanced SOT certification — the only such specialist in the area",
+      "Bilingual chiropractic care (English/Spanish)",
+      "Pediatric and prenatal specialty for Hill Country Village families",
+    ],
+    whyChooseUsEs: [
+      "Corto viaje de 8 minutos al sur por NW Military Hwy",
+      "Certificación SOT Avanzada — el único especialista de su tipo en el área",
+      "Atención quiropráctica bilingüe (inglés/español)",
+      "Especialidad pediátrica y prenatal para las familias de Hill Country Village",
+    ],
+    commonConditions: [
+      { en: "Lower back pain", es: "Dolor lumbar" },
+      { en: "Neck pain", es: "Dolor de cuello" },
+      { en: "Sciatica", es: "Ciática" },
+      { en: "Pregnancy and prenatal", es: "Embarazo y prenatal" },
+      { en: "Pediatric chiropractic", es: "Quiropráctica pediátrica" },
+      { en: "Auto accident injuries", es: "Lesiones de accidentes de auto" },
+    ],
+    landmarks: ["NW Military Hwy", "Loop 1604", "Hill Country Village City Hall", "Salado Creek Greenway"],
+    landmarksEs: ["NW Military Hwy", "Loop 1604", "Hill Country Village City Hall", "Salado Creek Greenway"],
+    zipCodes: ["78232"],
+    lat: 29.5758,
+    lng: -98.4900,
+  },
+  {
+    slug: "hollywood-park",
+    name: "Hollywood Park",
+    nameEs: "Hollywood Park",
+    distanceFromOffice: "about 12 minutes north via US-281",
+    distanceFromOfficeEs: "aproximadamente 12 minutos al norte por la US-281",
+    areaDescription:
+      "Hollywood Park is the small, family-oriented incorporated city just north of San Antonio off US-281 (zip code 78232) — known for its quiet residential streets, abundant deer, and tight community feel. Pura Vida Chiropractic serves Hollywood Park residents with bilingual SOT chiropractic, prenatal and pediatric specialty, and a quick drive south.",
+    areaDescriptionEs:
+      "Hollywood Park es la pequeña ciudad incorporada y orientada a la familia justo al norte de San Antonio por la US-281 (código postal 78232) — conocida por sus calles residenciales tranquilas, abundantes venados y un sentido de comunidad unido. Pura Vida Chiropractic atiende a los residentes de Hollywood Park con quiropráctica SOT bilingüe, especialidad prenatal y pediátrica, y un viaje rápido al sur.",
+    title:
+      "Hollywood Park Chiropractor | Pura Vida Chiropractic | San Antonio TX",
+    titleEs:
+      "Quiropráctico en Hollywood Park | Pura Vida Chiropractic | San Antonio TX",
+    metaDescription:
+      "Hollywood Park chiropractor — bilingual SOT chiropractic, SoftWave therapy, prenatal, pediatric. Pura Vida Chiropractic serves Hollywood Park (78232) — 12 min south via US-281.",
+    metaDescriptionEs:
+      "Quiropráctico en Hollywood Park — quiropráctica SOT bilingüe, terapia SoftWave, prenatal, pediátrica. Pura Vida Chiropractic atiende Hollywood Park (78232) — 12 min al sur por la US-281.",
+    whyChooseUs: [
+      "Short 12-minute drive south via US-281",
+      "Bilingual chiropractic care (English/Spanish)",
+      "Advanced SOT certification — the only such specialist in the area",
+      "Specialized prenatal and pediatric care for Hollywood Park families",
+    ],
+    whyChooseUsEs: [
+      "Corto viaje de 12 minutos al sur por la US-281",
+      "Atención quiropráctica bilingüe (inglés/español)",
+      "Certificación SOT Avanzada — el único especialista de su tipo en el área",
+      "Atención prenatal y pediátrica especializada para las familias de Hollywood Park",
+    ],
+    commonConditions: [
+      { en: "Lower back pain", es: "Dolor lumbar" },
+      { en: "Neck pain", es: "Dolor de cuello" },
+      { en: "Sciatica", es: "Ciática" },
+      { en: "Pregnancy and prenatal", es: "Embarazo y prenatal" },
+      { en: "Pediatric chiropractic", es: "Quiropráctica pediátrica" },
+      { en: "Sports injuries", es: "Lesiones deportivas" },
+    ],
+    landmarks: ["US-281", "Loop 1604", "Hollywood Park City Hall", "Voelcker Park"],
+    landmarksEs: ["US-281", "Loop 1604", "Hollywood Park City Hall", "Voelcker Park"],
+    zipCodes: ["78232"],
+    lat: 29.5953,
+    lng: -98.4836,
+  },
+  {
+    slug: "leon-valley",
+    name: "Leon Valley",
+    nameEs: "Leon Valley",
+    distanceFromOffice: "about 10 minutes west via Loop 410",
+    distanceFromOfficeEs: "aproximadamente 10 minutos al oeste por el Loop 410",
+    areaDescription:
+      "Leon Valley is the family-oriented incorporated city just west of San Antonio's Loop 410 (zip codes 78238, 78240) — a working-class community with a strong Hispanic majority and accessible commercial corridors along Bandera Rd. Pura Vida Chiropractic offers Leon Valley families fully bilingual SOT chiropractic care, SoftWave therapy, and accessible payment options for self-pay patients.",
+    areaDescriptionEs:
+      "Leon Valley es la ciudad incorporada y familiar justo al oeste del Loop 410 de San Antonio (códigos postales 78238, 78240) — una comunidad de clase trabajadora con una fuerte mayoría hispana y corredores comerciales accesibles a lo largo de Bandera Rd. Pura Vida Chiropractic ofrece a las familias de Leon Valley atención quiropráctica SOT completamente bilingüe, terapia SoftWave y opciones de pago accesibles para pacientes sin seguro.",
+    title:
+      "Leon Valley Chiropractor | Atención Bilingüe | Pura Vida Chiropractic",
+    titleEs:
+      "Quiropráctico en Leon Valley | Atención Bilingüe | Pura Vida Chiropractic",
+    metaDescription:
+      "Leon Valley chiropractor — fully bilingual care for Leon Valley families. Insurance friendly. Bring your insurance card and ID to verify coverage. Pura Vida Chiropractic serves 78238, 78240. 10 min east via Loop 410.",
+    metaDescriptionEs:
+      "Quiropráctico en Leon Valley — atención completamente bilingüe para las familias de Leon Valley. Insurance friendly. Traiga su tarjeta de seguro e ID para verificar cobertura. Pura Vida Chiropractic atiende 78238, 78240. 10 min al este por el Loop 410.",
+    whyChooseUs: [
+      "Fully bilingual practice — Spanish from front desk to adjustment table",
+      "Insurance friendly. Bring your insurance card and ID to verify coverage",
+      "Quick 10-minute drive east via Loop 410",
+      "Advanced SOT, SoftWave, and Class IV laser — modalities not commonly available locally",
+    ],
+    whyChooseUsEs: [
+      "Práctica completamente bilingüe — español desde recepción hasta la mesa de ajuste",
+      "Insurance friendly. Traiga su tarjeta de seguro e identificación para verificar cobertura",
+      "Viaje rápido de 10 minutos al este por el Loop 410",
+      "SOT Avanzada, SoftWave y láser Clase IV — modalidades no comúnmente disponibles localmente",
+    ],
+    commonConditions: [
+      { en: "Lower back pain from physical labor", es: "Dolor lumbar por trabajo físico" },
+      { en: "Neck pain and stiffness", es: "Dolor y rigidez de cuello" },
+      { en: "Sciatica", es: "Ciática" },
+      { en: "Auto accident injuries (Loop 410 / Bandera Rd corridor)", es: "Lesiones de accidentes de auto (corredor Loop 410 / Bandera Rd)" },
+      { en: "Pregnancy and prenatal", es: "Embarazo y prenatal" },
+      { en: "Pediatric chiropractic", es: "Quiropráctica pediátrica" },
+    ],
+    landmarks: ["Bandera Rd", "Loop 410", "Leon Valley City Hall", "Huebner Rd", "Ingram Park Mall"],
+    landmarksEs: ["Bandera Rd", "Loop 410", "Leon Valley City Hall", "Huebner Rd", "Ingram Park Mall"],
+    zipCodes: ["78238", "78240"],
+    lat: 29.4953,
+    lng: -98.6156,
+  },
+  {
+    slug: "windcrest",
+    name: "Windcrest",
+    nameEs: "Windcrest",
+    distanceFromOffice: "about 15 minutes east via Loop 410",
+    distanceFromOfficeEs: "aproximadamente 15 minutos al este por el Loop 410",
+    areaDescription:
+      "Windcrest is the family-friendly incorporated city east of San Antonio along Loop 410 / IH-35 (zip code 78239) — known for its Christmas-light tradition and tightly knit residential community. Pura Vida Chiropractic serves Windcrest families with bilingual chiropractic care, accessible payment options, and a quick 15-minute drive west.",
+    areaDescriptionEs:
+      "Windcrest es la ciudad incorporada y familiar al este de San Antonio por el Loop 410 / IH-35 (código postal 78239), conocida por su tradición de luces navideñas y una comunidad residencial muy unida. Pura Vida Chiropractic atiende a las familias de Windcrest con atención quiropráctica bilingüe, opciones de pago accesibles y un viaje rápido de 15 minutos al oeste.",
+    title:
+      "Windcrest Chiropractor | Pura Vida Chiropractic | San Antonio TX",
+    titleEs:
+      "Quiropráctico en Windcrest | Pura Vida Chiropractic | San Antonio TX",
+    metaDescription:
+      "Windcrest chiropractor — Pura Vida Chiropractic offers bilingual SOT chiropractic, SoftWave, prenatal, pediatric care for Windcrest (78239) families. 15 min west via Loop 410.",
+    metaDescriptionEs:
+      "Quiropráctico en Windcrest — Pura Vida Chiropractic ofrece quiropráctica SOT bilingüe, SoftWave, atención prenatal y pediátrica para las familias de Windcrest (78239). 15 min al oeste por el Loop 410.",
+    whyChooseUs: [
+      "Quick 15-minute drive west via Loop 410",
+      "Bilingual chiropractic care (English/Spanish)",
+      "Advanced SOT certification — the only such specialist in the area",
+      "Pediatric and prenatal specialty for Windcrest families",
+    ],
+    whyChooseUsEs: [
+      "Viaje rápido de 15 minutos al oeste por el Loop 410",
+      "Atención quiropráctica bilingüe (inglés/español)",
+      "Certificación SOT Avanzada — el único especialista de su tipo en el área",
+      "Especialidad pediátrica y prenatal para las familias de Windcrest",
+    ],
+    commonConditions: [
+      { en: "Lower back pain", es: "Dolor lumbar" },
+      { en: "Neck pain", es: "Dolor de cuello" },
+      { en: "Sciatica", es: "Ciática" },
+      { en: "Auto accident injuries (Loop 410 / IH-35)", es: "Lesiones de accidentes de auto (Loop 410 / IH-35)" },
+      { en: "Pregnancy and prenatal", es: "Embarazo y prenatal" },
+      { en: "Pediatric chiropractic", es: "Quiropráctica pediátrica" },
+    ],
+    landmarks: ["Loop 410", "IH-35", "Windcrest City Hall", "Walzem Rd", "Crestway Dr"],
+    landmarksEs: ["Loop 410", "IH-35", "Windcrest City Hall", "Walzem Rd", "Crestway Dr"],
+    zipCodes: ["78239"],
+    lat: 29.5158,
+    lng: -98.3850,
+  },
+  {
+    slug: "live-oak",
+    name: "Live Oak",
+    nameEs: "Live Oak",
+    distanceFromOffice: "about 18 minutes northeast via Loop 1604",
+    distanceFromOfficeEs: "aproximadamente 18 minutos al noreste por el Loop 1604",
+    areaDescription:
+      "Live Oak is the family-friendly suburban city in the Randolph AFB / Loop 1604 corridor northeast of San Antonio (zip code 78233) — anchored by The Forum shopping district and a steady mix of military and civilian families. Pura Vida Chiropractic serves Live Oak families with bilingual SOT chiropractic, SoftWave, and prenatal/pediatric specialty.",
+    areaDescriptionEs:
+      "Live Oak es la ciudad suburbana familiar en el corredor Randolph AFB / Loop 1604 al noreste de San Antonio (código postal 78233), anclada por el distrito comercial The Forum y una mezcla constante de familias militares y civiles. Pura Vida Chiropractic atiende a las familias de Live Oak con quiropráctica SOT bilingüe, SoftWave y especialidad prenatal/pediátrica.",
+    title:
+      "Live Oak Chiropractor | Pura Vida Chiropractic | San Antonio TX",
+    titleEs:
+      "Quiropráctico en Live Oak | Pura Vida Chiropractic | San Antonio TX",
+    metaDescription:
+      "Live Oak chiropractor — bilingual SOT chiropractic, SoftWave, Class IV laser. Pura Vida Chiropractic serves Live Oak (78233) families with prenatal, pediatric, and auto-injury care. 18 min via Loop 1604.",
+    metaDescriptionEs:
+      "Quiropráctico en Live Oak — quiropráctica SOT bilingüe, SoftWave, láser Clase IV. Pura Vida Chiropractic atiende Live Oak (78233) con atención prenatal, pediátrica y de lesiones de auto. 18 min por el Loop 1604.",
+    whyChooseUs: [
+      "Bilingual chiropractic care (English/Spanish)",
+      "Insurance friendly. Bring your insurance card and ID to verify coverage",
+      "Advanced SOT certification — the only such specialist in the area",
+      "Pediatric and prenatal specialty for Live Oak's growing families",
+    ],
+    whyChooseUsEs: [
+      "Atención quiropráctica bilingüe (inglés/español)",
+      "Insurance friendly. Traiga su tarjeta de seguro e identificación para verificar cobertura",
+      "Certificación SOT Avanzada — el único especialista de su tipo en el área",
+      "Especialidad pediátrica y prenatal para las crecientes familias de Live Oak",
+    ],
+    commonConditions: [
+      { en: "Lower back pain", es: "Dolor lumbar" },
+      { en: "Neck pain (deployment / training related)", es: "Dolor de cuello (relacionado con despliegue / entrenamiento)" },
+      { en: "Pregnancy and prenatal", es: "Embarazo y prenatal" },
+      { en: "Pediatric chiropractic", es: "Quiropráctica pediátrica" },
+      { en: "Auto accident injuries", es: "Lesiones de accidentes de auto" },
+      { en: "Sports injuries", es: "Lesiones deportivas" },
+    ],
+    landmarks: ["The Forum at Olympia Parkway", "Loop 1604", "IH-35", "Live Oak City Hall", "Northeast Lakeview College"],
+    landmarksEs: ["The Forum at Olympia Parkway", "Loop 1604", "IH-35", "Live Oak City Hall", "Northeast Lakeview College"],
+    zipCodes: ["78233"],
+    lat: 29.5483,
+    lng: -98.3322,
+  },
   // ─── Phase 2 hyperlocal expansion: high-Hispanic-density underserved areas ───
   // Per Phase 2 Spanish keyword gap research (~65% of SA metro is Hispanic;
   // Southside and Westside SA are 90-95% Hispanic). Zero competitors mapped in
@@ -585,6 +893,94 @@ export const neighborhoods: NeighborhoodData[] = [
     zipCodes: ["78108"],
     lat: 29.5688,
     lng: -98.2189,
+  },
+  {
+    slug: "universal-city",
+    name: "Universal City",
+    nameEs: "Universal City",
+    distanceFromOffice: "about 22 minutes northeast via Loop 1604 / IH-35",
+    distanceFromOfficeEs: "aproximadamente 22 minutos al noreste por el Loop 1604 / IH-35",
+    areaDescription:
+      "Universal City is the family-friendly municipality next to Randolph AFB northeast of San Antonio (zip code 78148) — heavily populated by active-duty military families, retirees, and civilians supporting Joint Base San Antonio. Pura Vida Chiropractic serves Universal City families with bilingual SOT chiropractic, SoftWave therapy, and insurance-friendly service.",
+    areaDescriptionEs:
+      "Universal City es el municipio familiar junto a Randolph AFB al noreste de San Antonio (código postal 78148), poblado en gran medida por familias militares en servicio activo, jubilados y civiles que apoyan Joint Base San Antonio. Pura Vida Chiropractic atiende a las familias de Universal City con quiropráctica SOT bilingüe, terapia SoftWave y servicio insurance-friendly.",
+    title:
+      "Universal City Chiropractor | Pura Vida | Insurance Friendly",
+    titleEs:
+      "Quiropráctico en Universal City | Pura Vida | Insurance Friendly",
+    metaDescription:
+      "Universal City chiropractor — Pura Vida Chiropractic is insurance friendly for military families and civilians near Randolph AFB. SOT, SoftWave, prenatal, pediatric. Bilingual. 22 min via Loop 1604 (78148).",
+    metaDescriptionEs:
+      "Quiropráctico en Universal City — Pura Vida Chiropractic es insurance friendly para familias militares y civiles cerca de Randolph AFB. SOT, SoftWave, prenatal, pediátrica. Bilingüe. 22 min por el Loop 1604 (78148).",
+    whyChooseUs: [
+      "Insurance friendly. Bring your insurance card and ID to verify coverage",
+      "Bilingual chiropractic care (English/Spanish)",
+      "Advanced SOT certification — the only Sacro-Occipital Technique specialist in the area",
+      "Pediatric and prenatal specialty for Universal City's military and civilian families",
+    ],
+    whyChooseUsEs: [
+      "Insurance friendly. Traiga su tarjeta de seguro e identificación para verificar cobertura",
+      "Atención quiropráctica bilingüe (inglés/español)",
+      "Certificación SOT Avanzada — el único especialista en Técnica Sacro-Occipital en el área",
+      "Especialidad pediátrica y prenatal para las familias militares y civiles de Universal City",
+    ],
+    commonConditions: [
+      { en: "Lower back pain", es: "Dolor lumbar" },
+      { en: "Neck pain (deployment / training related)", es: "Dolor de cuello (relacionado con despliegue / entrenamiento)" },
+      { en: "Pregnancy and prenatal", es: "Embarazo y prenatal" },
+      { en: "Pediatric chiropractic", es: "Quiropráctica pediátrica" },
+      { en: "Sports injuries", es: "Lesiones deportivas" },
+      { en: "Auto accident injuries", es: "Lesiones de accidentes de auto" },
+    ],
+    landmarks: ["Randolph AFB", "Pat Booker Rd", "Loop 1604", "IH-35", "Universal City Northeast Park"],
+    landmarksEs: ["Randolph AFB", "Pat Booker Rd", "Loop 1604", "IH-35", "Universal City Northeast Park"],
+    zipCodes: ["78148"],
+    lat: 29.5483,
+    lng: -98.3008,
+  },
+  {
+    slug: "converse",
+    name: "Converse",
+    nameEs: "Converse",
+    distanceFromOffice: "about 22 minutes east via Loop 410 / IH-35",
+    distanceFromOfficeEs: "aproximadamente 22 minutos al este por el Loop 410 / IH-35",
+    areaDescription:
+      "Converse is the family-oriented suburban city east of San Antonio along IH-35 (zip code 78109) — a working-class community with a strong Hispanic majority and a large active-duty / retired military presence from nearby Randolph AFB. Pura Vida Chiropractic serves Converse families with fully bilingual chiropractic care, accessible payment options, and insurance-friendly service.",
+    areaDescriptionEs:
+      "Converse es la ciudad suburbana familiar al este de San Antonio por IH-35 (código postal 78109) — una comunidad de clase trabajadora con una fuerte mayoría hispana y una gran presencia militar en servicio activo / jubilada de la cercana Randolph AFB. Pura Vida Chiropractic atiende a las familias de Converse con atención quiropráctica completamente bilingüe, opciones de pago accesibles y servicio insurance-friendly.",
+    title:
+      "Converse Chiropractor | Atención Bilingüe | Pura Vida Chiropractic",
+    titleEs:
+      "Quiropráctico en Converse | Atención Bilingüe | Pura Vida Chiropractic",
+    metaDescription:
+      "Converse chiropractor — fully bilingual care for Converse families. Insurance friendly. SOT, SoftWave, prenatal, pediatric. Pura Vida Chiropractic serves 78109. 22 min west via Loop 410.",
+    metaDescriptionEs:
+      "Quiropráctico en Converse — atención completamente bilingüe para las familias de Converse. Insurance friendly. SOT, SoftWave, prenatal, pediátrica. Pura Vida Chiropractic atiende 78109. 22 min al oeste por el Loop 410.",
+    whyChooseUs: [
+      "Fully bilingual practice — Spanish from front desk to adjustment table",
+      "Insurance friendly. Bring your insurance card and ID to verify coverage",
+      "Advanced SOT, SoftWave, and Class IV laser — modalities not commonly available locally",
+      "Pediatric and prenatal specialty for Converse families",
+    ],
+    whyChooseUsEs: [
+      "Práctica completamente bilingüe — español desde recepción hasta la mesa de ajuste",
+      "Insurance friendly. Traiga su tarjeta de seguro e identificación para verificar cobertura",
+      "SOT Avanzada, SoftWave y láser Clase IV — modalidades no comúnmente disponibles localmente",
+      "Especialidad pediátrica y prenatal para las familias de Converse",
+    ],
+    commonConditions: [
+      { en: "Lower back pain", es: "Dolor lumbar" },
+      { en: "Neck pain", es: "Dolor de cuello" },
+      { en: "Sciatica", es: "Ciática" },
+      { en: "Auto accident injuries (IH-35 / Loop 410)", es: "Lesiones de accidentes de auto (IH-35 / Loop 410)" },
+      { en: "Pregnancy and prenatal", es: "Embarazo y prenatal" },
+      { en: "Pediatric chiropractic", es: "Quiropráctica pediátrica" },
+    ],
+    landmarks: ["Loop 1604", "IH-35", "FM 78", "Converse City Hall", "Judson High School"],
+    landmarksEs: ["Loop 1604", "IH-35", "FM 78", "Converse City Hall", "Judson High School"],
+    zipCodes: ["78109"],
+    lat: 29.5208,
+    lng: -98.3119,
   },
 ];
 
