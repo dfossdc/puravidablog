@@ -309,13 +309,22 @@ const nextConfig = {
 
       // ── Unprefixed legacy paths → /en/<type>/<slug> ──
       // Old WordPress URLs (and external backlinks) frequently used the bare
-      // /conditions/X, /services/X, /blog/X form with no locale prefix. Without
-      // these wildcards those URLs 404. GSC was reporting them in the
+      // /conditions/X, /services/X, /blog/X, /sot/X form with no locale prefix.
+      // Without these wildcards those URLs 404. GSC was reporting them in the
       // 'Not found (404)' bucket, blocking fix validation. Use :slug+ (one or
-      // more) so the bare /blog redirect on line 71 still wins for /blog itself.
+      // more) for the three with existing exact-match rules above; use :slug*
+      // for /sot since there's no separate bare-/sot rule and we want both
+      // /sot and /sot/X to redirect.
       { source: "/conditions/:slug+", destination: "/en/conditions/:slug+", permanent: true },
       { source: "/services/:slug+", destination: "/en/services/:slug+", permanent: true },
       { source: "/blog/:slug+", destination: "/en/blog/:slug+", permanent: true },
+      { source: "/sot/:slug*", destination: "/en/sot/:slug*", permanent: true },
+
+      // ── Typo fix: /en/sot/renearch → /en/sot/research ──
+      // Google indexed a misspelled URL (likely from an old broken internal
+      // link). Specific 301 to the correct page so the indexed URL doesn't
+      // keep showing up in the 404 report.
+      { source: "/en/sot/renearch", destination: "/en/sot/research", permanent: true },
 
       // ── Pages flagged 404 with no direct equivalent — send to closest topical match ──
       { source: "/en/blog/first-visit", destination: "/en/blog/first-chiropractic-visit-what-to-expect", permanent: true },
