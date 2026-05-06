@@ -446,28 +446,6 @@ const nextConfig = {
 
     ];
   },
-  async headers() {
-    return [
-      // ── Preview/staging deployments: emit X-Robots-Tag noindex ──
-      // GSC reported puravidablog.vercel.app as the "referring page" for
-      // /en/services/pregnancy-chiropractic and other URLs. That means
-      // Google is indexing the Vercel preview deployment as a separate
-      // site, treating it as duplicate content of the canonical
-      // puravidasanantonio.com. Apply X-Robots-Tag: noindex,nofollow on
-      // any request whose host is NOT the canonical hostname so Google
-      // drops staging URLs from its index. Production traffic is unaffected
-      // because puravidasanantonio.com matches the `missing` condition's
-      // negation. www.puravidasanantonio.com hits the existing 301 redirect
-      // before headers() runs, so it never reaches this rule.
-      {
-        source: "/:path*",
-        missing: [{ type: "host", value: "puravidasanantonio.com" }],
-        headers: [
-          { key: "X-Robots-Tag", value: "noindex, nofollow" },
-        ],
-      },
-    ];
-  },
 };
 
 export default nextConfig;
