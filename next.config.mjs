@@ -405,6 +405,28 @@ const nextConfig = {
       { source: "/chiropractic-care/",    destination: "/en/services/chiropractic-care", permanent: true },
       { source: "/chiropractic-blog/",    destination: "/en/blog", permanent: true },
 
+      // ── GSC May 6 2026: 'Discovered/Crawled - not indexed' cleanup ──
+      // /es/blog/neck-pain-and-chiropractic-care: GSC has this URL queued in
+      // "Discovered - currently not indexed". The unprefixed legacy WP URL
+      // /neck-pain-and-chiropractic-care already redirects to
+      // /en/conditions/neck-pain (line 196) — but Google ALSO indexed a
+      // /es/blog/-prefixed variant from somewhere (likely an old internal
+      // link). Send the ES variant to its Spanish-content equivalent so we
+      // preserve the locale signal AND the WP authority. The EN/blog/ path
+      // is already handled by the bare /blog/:slug+ wildcard above.
+      { source: "/es/blog/neck-pain-and-chiropractic-care", destination: "/es/conditions/neck-pain", permanent: true },
+
+      // ── /es-mx/* → /es/* (Google indexed Mexican-Spanish locale variants) ──
+      // GSC found /es-mx/videos in the "not in sitemap" bucket. The site
+      // doesn't have a separate /es-mx locale — it's just /es. Google
+      // probably picked this up from a hreflang misfire or an old structured-
+      // data entry. Wildcard so any future /es-mx/* URL also gets handled.
+      // Specific /es-mx/chiropractic-faq already exists above (line 396)
+      // — this is a broader catchall that supersedes it; keeping the
+      // specific one for documentation since Next picks the first match.
+      { source: "/es-mx/:path+", destination: "/es/:path+", permanent: true },
+      { source: "/es-mx",        destination: "/es",        permanent: true },
+
     ];
   },
 };

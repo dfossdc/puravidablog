@@ -11,15 +11,26 @@ const BASE_URL = "https://puravidasanantonio.com";
 // that 301-redirect to a canonical URL — Semrush flagged 10 of these as
 // "incorrect pages found in sitemap.xml" because sitemaps should only list
 // final destinations, not redirects. Removed.
+//
+// May 6, 2026 follow-up: re-added wellness-care, latino-community, and
+// chiropractic-care below. The May 2 cleanup (commit bd6a23d) removed all
+// 8 "new services" slugs assuming they all redirected — but only 5 of them
+// did (cranial-chiropractic, infant-chiropractic, pediatric-chiropractic,
+// pregnancy-chiropractic, auto-injury-chiropractic). These 3 are real
+// 200-status pages in [service]/page.tsx with no outbound redirect. GSC
+// reported them as "Discovered - currently not indexed" because they
+// weren't being crawled via the sitemap.
 const enServices = [
   "sot-chiropractic", "softwave-therapy", "auto-injury",
   "pediatric-chiropractor", "prenatal-chiropractor", "pregnancy-chiropractor",
   "infants-chiropractic", "pediatric-prenatal", "shockwave-therapy", "class-iv-laser",
+  "wellness-care", "latino-community", "chiropractic-care",
 ];
 const esServices = [
   "quiropractica-sot", "terapia-softwave", "lesiones-de-auto",
   "quiropractico-pediatrico", "quiropractico-prenatal", "quiropractico-embarazo",
   "quiropractico-infantes", "quiropractica-pediatrica", "terapia-ondas-de-choque", "laser-clase-iv",
+  "wellness-care", "latino-community", "chiropractic-care",
 ];
 
 // Pages that exist in BOTH /en and /es with bilingual content.
