@@ -24,9 +24,15 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const isEs = locale === "es";
   const canonical = `${BASE_URL}/${locale}`;
   return {
+    // Title leads with the FULL brand "Pura Vida Chiropractic" so Google
+    // strongly associates branded queries (pura vida chiropractic,
+    // vidasanantonio.com) with this page. GSC May 6 2026 showed those
+    // queries stuck at pos 11.9 and 46.8 respectively — brand was at the
+    // END of the title (and EN was abbreviated to "Pura Vida"), which
+    // weakened the brand-query signal.
     title: isEs
-      ? "Quiropráctico San Antonio TX | Mejor Quiropráctico | Pura Vida Chiropractic"
-      : "Chiropractor San Antonio | Best Chiropractor | Pura Vida",
+      ? "Pura Vida Chiropractic | Quiropráctico San Antonio TX | Dr. Dan Foss"
+      : "Pura Vida Chiropractic | Top Chiropractor in San Antonio TX",
     description: isEs
       ? "El Dr. Dan Foss — mejor quiropráctico en San Antonio TX. Ajuste quiropráctico San Antonio, terapia SoftWave, láser Clase IV. Quiropráctico cerca de mí en Stone Oak, Castle Hills, Alamo Heights y Helotes. Técnica SOT, quiropráctico que habla español, más de 23 años de experiencia. ¡Evaluación quiropráctica gratis San Antonio!"
       : "Pura Vida Chiropractic — top-rated chiropractor in San Antonio TX. Dr. Dan Foss DC offers chiropractic adjustment, SoftWave therapy, Class IV laser. Chiropractor near me serving Stone Oak, Castle Hills, Alamo Heights, and Helotes. SOT chiropractic, Spanish-speaking chiropractor in San Antonio TX, 23+ years experience. Free evaluation!",
@@ -43,8 +49,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     },
     openGraph: {
       title: isEs
-        ? "Quiropráctico San Antonio TX | Pura Vida Chiropractic"
-        : "Chiropractor San Antonio TX | Best Chiropractor | Pura Vida",
+        ? "Pura Vida Chiropractic | Quiropráctico San Antonio TX"
+        : "Pura Vida Chiropractic | Top Chiropractor in San Antonio TX",
       description: isEs
         ? "Quiropráctico bilingüe en San Antonio TX. Atendemos Stone Oak, Castle Hills, Alamo Heights y Helotes. Dr. Dan Foss, DC — más de 23 años de experiencia."
         : "Best chiropractor near me in San Antonio TX. Serving Stone Oak, Castle Hills, Alamo Heights, and Helotes. Dr. Dan Foss, DC — 23+ years experience.",
@@ -338,10 +344,18 @@ export default async function HomePage({ params }: Props) {
         <section className={styles.hero}>
           <div className={styles.heroInner}>
             <div className={styles.heroText}>
+              {/*
+                Eyebrow leads with the brand name so Google associates the
+                branded query "Pura Vida Chiropractic" / "vidasanantonio.com"
+                with this page. The H1 below is conversion-focused (value
+                prop, no brand), so the eyebrow is where the on-page brand
+                signal lives. Pairs with the title-tag fix in
+                generateMetadata above.
+              */}
               <p className={styles.heroEyebrow}>
                 {isEs
-                  ? "Quiropráctico Bilingüe en San Antonio, TX — Atención en Español e Inglés"
-                  : "Top-Rated Chiropractor in San Antonio, TX — Bilingual Chiropractic Care for the Hispanic Community"}
+                  ? "Pura Vida Chiropractic — Quiropráctico Bilingüe en San Antonio, TX | Atención en Español e Inglés"
+                  : "Pura Vida Chiropractic — Top-Rated Bilingual Chiropractor in San Antonio, TX | Serving the Hispanic Community"}
               </p>
               <h1 className={styles.heroTitle}>
                 {isEs ? "No Solo Ajustamos su Espalda. Tratamos Todo su Sistema." : "We Don't Just Adjust Your Back. We Treat Your Whole System."}
