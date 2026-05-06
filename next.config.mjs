@@ -444,6 +444,17 @@ const nextConfig = {
       { source: "/about-pura-vida/:path+", destination: "/en/about", permanent: true },
       { source: "/radiografias/:path+",    destination: "/es/blog/radiografias", permanent: true },
 
+      // ── GSC May 6 2026: 'Not found (404)' typo fixes ──
+      // Two typo URLs Google has been crawling that don't match anything:
+      //   /en/tentimonials   → typo of /en/testimonials
+      //   /en/servicen/...   → typo of /en/services/... ("servicen" instead of "services")
+      // Both 404 because the dynamic [locale]/[...] route can't resolve.
+      // The 47 other 404 URLs in this bucket are either already covered by
+      // existing wildcards (just awaiting Google's revalidation, which started
+      // 5/5/26) or by the runtime wrong-locale safety net (commit 7b40df8).
+      { source: "/en/tentimonials",                destination: "/en/testimonials",                  permanent: true },
+      { source: "/en/servicen/:slug+",             destination: "/en/services/:slug+",               permanent: true },
+
     ];
   },
 };
