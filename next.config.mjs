@@ -427,6 +427,45 @@ const nextConfig = {
       { source: "/es-mx/:path+", destination: "/es/:path+", permanent: true },
       { source: "/es-mx",        destination: "/es",        permanent: true },
 
+      // ── GSC May 6 2026: 'Server error (5xx)' fixes ──
+      // All 6 5xx errors are old WordPress URL patterns where Google
+      // appended a sub-path to a legitimate top-level slug:
+      //   /about-pura-vida/conditions/shin-splints
+      //   /about-pura-vida/conditions/chronic-fatigue-syndrome
+      //   /radiografias/services/class-iv-laser
+      //   /radiografias/services/sot-chiropractic
+      //   /radiografias/conditions/tennis-elbow
+      //   /radiografias/blog
+      // Next.js routes these through [locale]/[catchall] with locale=
+      // "about-pura-vida" or "radiografias" — neither is valid, and
+      // the dynamic page handler crashes when it can't resolve.
+      // Wildcards 301 them to the closest current page so Google replaces
+      // the 5xx response with a clean redirect target.
+      { source: "/about-pura-vida/:path+", destination: "/en/about", permanent: true },
+      { source: "/radiografias/:path+",    destination: "/es/blog/radiografias", permanent: true },
+
+    ];
+  },
+  async headers() {
+    return [
+      // ── Preview/staging deployments: emit X-Robots-Tag noindex ──
+      // GSC reported puravidablog.vercel.app as the "referring page" for
+      // /en/services/pregnancy-chiropractic and other URLs. That means
+      // Google is indexing the Vercel preview deployment as a separate
+      // site, treating it as duplicate content of the canonical
+      // puravidasanantonio.com. Apply X-Robots-Tag: noindex,nofollow on
+      // any request whose host is NOT the canonical hostname so Google
+      // drops staging URLs from its index. Production traffic is unaffected
+      // because puravidasanantonio.com matches the `missing` condition's
+      // negation. www.puravidasanantonio.com hits the existing 301 redirect
+      // before headers() runs, so it never reaches this rule.
+      {
+        source: "/:path*",
+        missing: [{ type: "host", value: "puravidasanantonio.com" }],
+        headers: [
+          { key: "X-Robots-Tag", value: "noindex, nofollow" },
+        ],
+      },
     ];
   },
 };
