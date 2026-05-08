@@ -209,6 +209,7 @@ const nextConfig = {
       { source: "/en/quiropractico-dolor-de-cabeza-san-antonio", destination: "/es/quiropractico-dolor-de-cabeza-san-antonio", permanent: true },
       { source: "/en/quiropractico-escoliosis-san-antonio", destination: "/es/quiropractico-escoliosis-san-antonio", permanent: true },
       { source: "/en/quiropractico-postparto-san-antonio", destination: "/es/quiropractico-postparto-san-antonio", permanent: true },
+      { source: "/en/quiropractico-craneal-san-antonio", destination: "/es/quiropractico-craneal-san-antonio", permanent: true },
       { source: "/en/que-es-un-quiropractico", destination: "/es/que-es-un-quiropractico", permanent: true },
       { source: "/en/huesero-san-antonio", destination: "/es/huesero-san-antonio", permanent: true },
 
@@ -223,6 +224,7 @@ const nextConfig = {
       { source: "/es/scoliosis-chiropractor-san-antonio",    destination: "/es/quiropractico-escoliosis-san-antonio",      permanent: true },
       { source: "/es/postpartum-chiropractor-san-antonio",   destination: "/es/quiropractico-postparto-san-antonio",       permanent: true },
       { source: "/es/quiropractico-posparto-san-antonio",    destination: "/es/quiropractico-postparto-san-antonio",       permanent: true },
+      { source: "/es/cranial-chiropractor-san-antonio",      destination: "/es/quiropractico-craneal-san-antonio",         permanent: true },
       { source: "/es/best-chiropractor-san-antonio",         destination: "/es/el-mejor-quiropractico-san-antonio",        permanent: true },
       { source: "/es/chiropractor-near-me-san-antonio",      destination: "/es/quiropractico-cerca-de-mi-san-antonio",     permanent: true },
 

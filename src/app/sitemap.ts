@@ -60,6 +60,7 @@ const englishOnlyPages = [
   "headache-chiropractor-san-antonio",
   "scoliosis-chiropractor-san-antonio",
   "postpartum-chiropractor-san-antonio",
+  "cranial-chiropractor-san-antonio",
 ];
 
 // Pages that only exist at /es/ (Spanish-language SEO landing pages).
@@ -77,6 +78,7 @@ const spanishOnlyPages = [
   "quiropractico-dolor-de-cabeza-san-antonio",
   "quiropractico-escoliosis-san-antonio",
   "quiropractico-postparto-san-antonio",
+  "quiropractico-craneal-san-antonio",
   // Spanish-only definition + cultural pillars (Phase 2 Spanish dominate)
   "que-es-un-quiropractico", // 1,860 vol cluster: que es / qué hace / para qué sirve
   "huesero-san-antonio",     // cultural bridge: huesero (folk bone-setter) → licensed quiropráctico
