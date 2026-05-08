@@ -54,16 +54,20 @@ export const metadata: Metadata = {
     locale: "en_US",
     images: [
       {
-        url: "/images/dr-foss-adjusting-patient.webp",
+        url: "/images/dr-foss-banner-custom-1128.jpg",
         width: 1200,
         height: 630,
-        alt: "Pura Vida Chiropractic San Antonio TX",
+        alt: "Pura Vida Chiropractic San Antonio",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
     site: "@PuraVidaSATX",
+    images: ["/images/dr-foss-banner-custom-1128.jpg"],
+  },
+  other: {
+    "p:domain_verify": "e85edfa0856727cdac47b88042c5a73c",
   },
   robots: {
     index: true,

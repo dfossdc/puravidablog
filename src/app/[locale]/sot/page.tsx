@@ -41,6 +41,18 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       url: canonical,
       siteName: "Pura Vida Chiropractic",
       locale: locale === "es" ? "es_MX" : "en_US",
+      images: [
+        {
+          url: "/images/social-cards/dejarnette-history-story-behind-sot-chiropractic.jpg",
+          width: 1200,
+          height: 630,
+          alt: "SOT Chiropractic — The Story Behind Sacro-Occipital Technique",
+        },
+      ],
+    },
+    twitter: {
+      card: "summary_large_image",
+      images: ["/images/social-cards/dejarnette-history-story-behind-sot-chiropractic.jpg"],
     },
   };
 }

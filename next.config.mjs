@@ -441,6 +441,8 @@ const nextConfig = {
       // the dynamic page handler crashes when it can't resolve.
       // Wildcards 301 them to the closest current page so Google replaces
       // the 5xx response with a clean redirect target.
+      { source: "/en/about-pura-vida",       destination: "/en/about", permanent: true },
+      { source: "/es/about-pura-vida",       destination: "/es/about", permanent: true },
       { source: "/about-pura-vida/:path+", destination: "/en/about", permanent: true },
       { source: "/radiografias/:path+",    destination: "/es/blog/radiografias", permanent: true },
 
