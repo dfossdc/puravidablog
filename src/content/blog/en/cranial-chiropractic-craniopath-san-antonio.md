@@ -1,6 +1,6 @@
 ---
 title: "Cranial Chiropractic in San Antonio: How a Craniopath Treats Trigeminal Neuralgia, TMJ, and Migraines"
-description: "Looking for a cranial chiropractor in San Antonio? Dr. Dan Foss, DC is a SORSI-certified craniopath using SOT and CMRT to treat trigeminal neuralgia, TMJ disorders, chronic migraines, postpartum recovery, and pediatric cranial concerns at Pura Vida Chiropractic."
+description: "Looking for a cranial chiropractor in San Antonio? Dr. Dan Foss, DC is a Advanced SOT-certified through SORSI using SOT and CMRT to treat trigeminal neuralgia, TMJ disorders, chronic migraines, postpartum recovery, and pediatric cranial concerns at Pura Vida Chiropractic."
 date: "2026-05-02"
 author: "Dr. Dan Foss, DC"
 image: "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&h=450&fit=crop&auto=format"
@@ -31,19 +31,19 @@ slug: "cranial-chiropractic-craniopath-san-antonio"
 
 ## Why Cranial Chiropractic Is Different — and Why It Matters in San Antonio
 
-Most San Antonio residents searching for a chiropractor expect spinal adjustments — neck cracks, lower-back manipulations, the standard relief for back pain. What far fewer realize is that a small subspecialty within chiropractic focuses on the cranium itself: the bones of the skull, the membranes that surround the brain, and the nervous and vascular pathways that run through them. Practitioners trained at the highest level in this work are called **craniopaths**.
+Most San Antonio residents searching for a chiropractor expect spinal adjustments — neck cracks, lower-back manipulations, the standard relief for back pain. What far fewer realize is that a small subspecialty within chiropractic focuses on the cranium itself: the bones of the skull, the membranes that surround the brain, and the nervous and vascular pathways that run through them. The technique used to assess and adjust this system within Advanced SOT is called **SOT Craniopathy**.
 
-Dr. Dan Foss, DC, of Pura Vida Chiropractic on NW Military Hwy is one of the few certified craniopaths in San Antonio. He holds advanced certifications with **SORSI — the Sacro-Occipital Research Society International** — where he serves as both an instructor and board member. The conditions he treats with cranial work are conditions most chiropractors do not address at all: **trigeminal neuralgia, TMJ disorders, chronic migraines, postpartum cranial dysfunction, and pediatric cranial concerns** like torticollis, plagiocephaly, and infant feeding difficulties.
+Dr. Dan Foss, DC, of Pura Vida Chiropractic on NW Military Hwy is one of the few chiropractors in San Antonio with Advanced SOT certification through SORSI. He holds advanced certifications with **SORSI — the Sacro-Occipital Research Society International** — where he serves as both an instructor and board member. The conditions he treats with cranial work are conditions most chiropractors do not address at all: **trigeminal neuralgia, TMJ disorders, chronic migraines, postpartum cranial dysfunction, and pediatric cranial concerns** like torticollis, plagiocephaly, and infant feeding difficulties.
 
 Pura Vida is a **bilingual practice (English and Spanish)**, founded in 2010 to serve San Antonio's Hispanic community and families across the city. If you have been told that nothing more can be done for a head, jaw, or facial-pain condition — or if you are searching for a different kind of care for an infant or new mother — cranial chiropractic deserves a closer look.
 
-## What Is a Craniopath, Exactly?
+## What Is SOT Craniopathy, Exactly?
 
-The word "craniopath" comes from the certification track of SORSI, the same organization that originated and continues to refine **Sacro-Occipital Technique (SOT)** — a comprehensive chiropractic system developed by Dr. Major Bertrand DeJarnette beginning in the 1920s. SOT is built on the recognition that the cranium, the spine, the sacrum, and the membranes connecting them function as a single, dynamic system. When that system is balanced, the body's own healing capacity works at its best. When it is restricted — through birth trauma, head injury, dental work, postural strain, or chronic stress — the consequences can show up as headaches, jaw pain, nervous-system dysregulation, or digestive and organ-function issues.
+SOT Craniopathy is the cranial-adjusting branch of **Sacro-Occipital Technique (SOT)** — a comprehensive chiropractic system developed by Dr. Major Bertrand DeJarnette beginning in the 1920s and refined through SORSI (Sacro-Occipital Research Society International). It is part of the Advanced SOT certification curriculum. SOT is built on the recognition that the cranium, the spine, the sacrum, and the membranes connecting them function as a single, dynamic system. When that system is balanced, the body's own healing capacity works at its best. When it is restricted — through birth trauma, head injury, dental work, postural strain, or chronic stress — the consequences can show up as headaches, jaw pain, nervous-system dysregulation, or digestive and organ-function issues.
 
-A SORSI-certified craniopath is trained to evaluate cranial bone motion, dural membrane tension, and the relationship between the cranium and the sacrum at the other end of the spine. Treatment is **gentle, low-force, and precise — no cracking, no thrust** — closer to a careful tuning than a forceful adjustment. Patients searching for a "gentle, no-cracking chiropractor" in San Antonio often end up at Pura Vida for exactly this reason. Dr. Foss combines cranial work with **Chiropractic Manipulative Reflex Technique (CMRT)** — an SOT-related technique that uses specific spinal reflex points to support healthy organ and visceral function — to address the body as an integrated whole.
+An Advanced SOT-certified chiropractor is trained to evaluate cranial bone motion, dural membrane tension, and the relationship between the cranium and the sacrum at the other end of the spine. Treatment is **gentle, low-force, and precise — no cracking, no thrust** — closer to a careful tuning than a forceful adjustment. Patients searching for a "gentle, no-cracking chiropractor" in San Antonio often end up at Pura Vida for exactly this reason. Dr. Foss combines cranial work with **Chiropractic Manipulative Reflex Technique (CMRT)** — an SOT-related technique that uses specific spinal reflex points to support healthy organ and visceral function — to address the body as an integrated whole.
 
-## Conditions a Craniopath Treats That Most Chiropractors Do Not
+## Conditions SOT Craniopathy Addresses That Most Chiropractors Do Not
 
 ### Trigeminal Neuralgia
 
@@ -63,7 +63,7 @@ Childbirth places extraordinary stress on a mother's pelvis and cranium, and on 
 
 ### Infant Head Shaping (Plagiocephaly, Brachycephaly, Torticollis)
 
-A growing number of San Antonio parents notice their newborn developing a flat spot on one side of the head (plagiocephaly), an unusually wide or flattened back of the skull (brachycephaly), or a persistent head-turn preference that signals torticollis. Conventional medicine often defaults to a wait-and-see approach or a cranial helmet referral, but the underlying issue is frequently **cranial bone restriction and cervical-spine asymmetry that gentle craniopath work can address directly** — often in the first months of life when the skull is still highly malleable.
+A growing number of San Antonio parents notice their newborn developing a flat spot on one side of the head (plagiocephaly), an unusually wide or flattened back of the skull (brachycephaly), or a persistent head-turn preference that signals torticollis. Conventional medicine often defaults to a wait-and-see approach or a cranial helmet referral, but the underlying issue is frequently **cranial bone restriction and cervical-spine asymmetry that gentle SOT cranial work can address directly** — often in the first months of life when the skull is still highly malleable.
 
 Dr. Foss uses extraordinarily gentle SOT cranial techniques (no thrust, no force — only the lightest touch needed) to invite the cranium back toward balance and to release the cervical patterns that create asymmetric head-shape development. Many families come to Pura Vida specifically as an alternative to or in conjunction with helmet therapy, and many report visible head-shape changes within weeks of starting care.
 
@@ -85,6 +85,6 @@ Care typically includes some combination of SOT pelvic blocking, cranial bone mo
 
 ## Reclaim Comfort, Function, and Quiet Days
 
-San Antonio deserves the chance to find specialists for the conditions that have not responded to standard care. If you are searching for a **cranial chiropractor in San Antonio** — whether for trigeminal neuralgia, TMJ, migraines, postpartum recovery, or your child's cranial concerns — Pura Vida Chiropractic invites you to learn what a craniopath visit can offer.
+San Antonio deserves the chance to find specialists for the conditions that have not responded to standard care. If you are searching for a **cranial chiropractor in San Antonio** — whether for trigeminal neuralgia, TMJ, migraines, postpartum recovery, or your child's cranial concerns — Pura Vida Chiropractic invites you to learn what an Advanced SOT cranial visit can offer.
 
 Pura Vida Chiropractic is offering a **free initial evaluation** for new patients. Call Dr. Dan Foss at **(210) 685-1994** or visit **2318 NW Military Hwy Suite 103, San Antonio, TX 78231**. Bilingual care available. Pura vida.

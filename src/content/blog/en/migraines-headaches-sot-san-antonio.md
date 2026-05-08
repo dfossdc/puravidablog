@@ -48,7 +48,7 @@ Sessions are calm, gentle, and often deeply relaxing. Many patients report feeli
 
 Clinical studies and decades of practitioner experience have demonstrated that chiropractic care — particularly approaches addressing the craniosacral system — can significantly reduce both the frequency and severity of migraines and tension headaches. Patients who have relied on daily pain medication for years have been able to reduce or eliminate their dependence on drugs after a structured course of SOT care.
 
-For migraine cases involving facial-nerve pain, trigeminal neuralgia, or TMJ-related triggers, the deeper cranial work falls into a specialty subset of SOT called craniopath care. See our companion guide on [cranial chiropractic and craniopath specialty care in San Antonio](/en/blog/cranial-chiropractic-craniopath-san-antonio) for the conditions and techniques involved.
+For migraine cases involving facial-nerve pain, trigeminal neuralgia, or TMJ-related triggers, the deeper cranial work falls into a specialty subset of SOT called SOT Craniopathy. See our companion guide on [cranial chiropractic and SOT Craniopathy in San Antonio](/en/blog/cranial-chiropractic-craniopath-san-antonio) for the conditions and techniques involved.
 
 ## Reclaim Your Days from Migraine Pain
 

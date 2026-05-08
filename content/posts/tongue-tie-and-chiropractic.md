@@ -62,7 +62,7 @@ Many times tongue-tie goes undiagnosed for many years and is discovered later on
 
 - The next step is doing a complete Chiropractic and Neurological workup including an evaluation of the spine and nervous system and also checking cranial nerves of the head and face. Many times babies that have had a difficult birth or have had some form of trauma either cesarean or difficult labor many times can have issues with cranial bones being subluxated or misaligned. One test we look at is called the “cortisol sign” where a baby can turn their wrists in and thump their chests indicating they are distressed.
 
-- When the bones of the cranium misalign they pinch nerves particularly the nerves that go to the tongue. Our office focuses on specific [cranial chiropractic techniques as a SORSI-certified craniopath](/en/blog/cranial-chiropractic-craniopath-san-antonio) to address issues with the cranium:
+- When the bones of the cranium misalign they pinch nerves particularly the nerves that go to the tongue. Our office uses [Advanced SOT cranial chiropractic techniques](/en/blog/cranial-chiropractic-craniopath-san-antonio) — Dr. Foss is Advanced SOT-certified through SORSI — to address issues with the cranium:
 
 Vagus nerve – which is responsible for the parasympathetic control of the body and controls not only digestion but soothing and calming. If this nerve is compressed it can cause a baby to be more distressed.
 

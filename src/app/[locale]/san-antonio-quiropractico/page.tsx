@@ -31,6 +31,27 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
         "x-default": `${BASE_URL}/es/san-antonio-quiropractico`,
       },
     },
+    openGraph: {
+      title: isEs
+        ? "San Antonio Quiropráctico | Pura Vida Chiropractic"
+        : "San Antonio Chiropractor | Pura Vida",
+      url: canonical,
+      siteName: "Pura Vida Chiropractic",
+      locale: isEs ? "es_MX" : "en_US",
+      type: "website",
+      images: [
+        {
+          url: "/images/dr-foss-banner-custom-1128.jpg",
+          width: 1200,
+          height: 630,
+          alt: "Pura Vida Chiropractic — Dr. Dan Foss, San Antonio TX",
+        },
+      ],
+    },
+    twitter: {
+      card: "summary_large_image",
+      images: ["/images/dr-foss-banner-custom-1128.jpg"],
+    },
     robots: { index: true, follow: true },
   };
 }

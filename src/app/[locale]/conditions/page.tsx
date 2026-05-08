@@ -40,6 +40,18 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       url,
       locale: isEs ? "es_MX" : "en_US",
       type: "website",
+      images: [
+        {
+          url: "/images/dr-foss-adjusting-patient.webp",
+          width: 1200,
+          height: 630,
+          alt: "Dr. Dan Foss adjusting a patient at Pura Vida Chiropractic, San Antonio TX",
+        },
+      ],
+    },
+    twitter: {
+      card: "summary_large_image",
+      images: ["/images/dr-foss-adjusting-patient.webp"],
     },
     robots: { index: true, follow: true },
   };

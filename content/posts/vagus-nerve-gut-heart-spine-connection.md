@@ -73,7 +73,7 @@ Many of these symptoms are common enough that people accept them as "just how I 
 
 ## Cranial Adjusting and CMRT: Restoring Vagal Function
 
-SOT-trained craniopaths — practitioners with specific training in cranial bone motion and correction — address the occiput-temporal restriction that compresses the vagal outlet. This is not a forceful manipulation. Cranial adjusting involves extremely light, sustained contact on specific cranial bones to restore their natural, subtle motion pattern.
+Advanced SOT-trained chiropractors — practitioners with specific training in cranial bone motion and correction — address the occiput-temporal restriction that compresses the vagal outlet. This is not a forceful manipulation. Cranial adjusting involves extremely light, sustained contact on specific cranial bones to restore their natural, subtle motion pattern.
 
 When the occiput and temporal bone relationships are normalized and the jugular foramen decompression occurs, vagal output is restored. Patients frequently report afterward that they feel profoundly relaxed — a parasympathetic flood of activity as the vagus reestablishes its normal tone. Some patients fall asleep on the table. Many describe a warming sensation or a sense of the gut "waking up."
 

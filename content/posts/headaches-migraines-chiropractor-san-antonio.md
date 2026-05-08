@@ -20,7 +20,7 @@ translatedSlug: "dolores-de-cabeza-migranas-san-antonio"
 
 Headaches are not normal — and neither is living with them every week. If you are relying on pain relievers just to get through the day, or if migraines are regularly forcing you to cancel plans, something in your body is out of balance. **Chiropractic care for [headaches and migraines in San Antonio](https://puravidasanantonio.com/headaches-migraines/)** at Pura Vida Chiropractic offers a powerful, drug-free solution that addresses the underlying cause.
 
-Dr. Dan Foss is one of the few chiropractors in San Antonio with specialized training in **[cranial chiropractic therapy](https://puravidasanantonio.com/cranial-chiropractor/)** — a powerful approach to headache and migraine care that addresses the meningeal system, the cranial bones, and their relationship to the cervical spine. As a [SORSI-certified craniopath](/en/blog/cranial-chiropractic-craniopath-san-antonio), Dr. Foss treats migraines using gentle, no-cracking, no-thrust SOT cranial work that releases dural tension and restores cerebrospinal fluid flow.
+Dr. Dan Foss is one of the few chiropractors in San Antonio with specialized training in **[cranial chiropractic therapy](https://puravidasanantonio.com/cranial-chiropractor/)** — a powerful approach to headache and migraine care that addresses the meningeal system, the cranial bones, and their relationship to the cervical spine. As an [Advanced SOT-certified chiropractor through SORSI](/en/blog/cranial-chiropractic-craniopath-san-antonio), Dr. Foss treats migraines using gentle, no-cracking, no-thrust SOT cranial work that releases dural tension and restores cerebrospinal fluid flow.
 
 ## The Spine-Headache Connection
 

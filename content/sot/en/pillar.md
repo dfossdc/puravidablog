@@ -48,7 +48,7 @@ Conditions CMRT commonly helps: GERD and acid reflux, adrenal fatigue, chronic d
 
 The 22 bones of your skull continue to move in adulthood — a subtle, rhythmic motion called the **cranial rhythmic impulse** that drives cerebrospinal fluid flow, nourishing your brain and spinal cord. When these bones lose proper motion, the effects are wide: headaches, migraines, vertigo, TMJ, ear infections in children, post-concussion syndrome, sinus problems, and adjustments that simply will not hold.
 
-SOT Craniopathy gently restores cranial motion and CSF flow. Dr. Foss is the only Advanced SOT craniopath in San Antonio.
+SOT Craniopathy gently restores cranial motion and CSF flow. Dr. Foss is the only practitioner in San Antonio Advanced SOT-certified through SORSI, including the SOT Craniopathy curriculum.
 
 [Read: The Cranial Rhythmic Impulse](https://puravidasanantonio.com/en/blog/cranial-rhythmic-impulse)
 

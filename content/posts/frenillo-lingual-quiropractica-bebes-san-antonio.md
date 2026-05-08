@@ -18,7 +18,7 @@ Su bebé tiene una membrana restrictiva debajo de la lengua que está interferie
 
 La respuesta es compleja, pero aquí está la línea: **La quiropráctica no puede "alargar" un frenillo que es genéticamente corto. Pero puede liberar la restricción que está haciendo que el frenillo sea funcional.**
 
-En mis 23 años de práctica, aproximadamente el 70% de los bebés con frenillo lingual restringido mejoran significativamente con quiropráctica sola. El otro 30% necesita revisión además de quiropráctica. La clave es saber cuál es cuál. Como [craniopath certificado por SORSI](/es/blog/quiropractica-craneal-craniopath-san-antonio), uso técnicas SOT extraordinariamente suaves — sin chasquidos, sin empujes — para liberar la tensión craneal y cervical que afecta el movimiento de la lengua del bebé.
+En mis 23 años de práctica, aproximadamente el 70% de los bebés con frenillo lingual restringido mejoran significativamente con quiropráctica sola. El otro 30% necesita revisión además de quiropráctica. La clave es saber cuál es cuál. Como [quiropráctico certificado en SOT Avanzado por SORSI](/es/blog/quiropractica-craneal-craniopath-san-antonio), uso técnicas SOT extraordinariamente suaves — sin chasquidos, sin empujes — para liberar la tensión craneal y cervical que afecta el movimiento de la lengua del bebé.
 
 ## ¿Qué Exactamente Es el Frenillo Lingual?
 

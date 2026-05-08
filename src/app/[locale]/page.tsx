@@ -58,6 +58,18 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       siteName: "Pura Vida Chiropractic",
       locale: isEs ? "es_MX" : "en_US",
       type: "website",
+      images: [
+        {
+          url: "/images/dr-foss-banner-custom-1128.jpg",
+          width: 1200,
+          height: 630,
+          alt: "Pura Vida Chiropractic — Dr. Dan Foss, San Antonio TX",
+        },
+      ],
+    },
+    twitter: {
+      card: "summary_large_image",
+      images: ["/images/dr-foss-banner-custom-1128.jpg"],
     },
   };
 }
@@ -706,7 +718,7 @@ export default async function HomePage({ params }: Props) {
                 : [
                     { img: "/images/sideposture.jpg", imgAlt: "Dr. Foss performing SOT chiropractic adjustment", title: "Pillar 1 — The Spine & Pelvis (SOT)", desc: "Sacro Occipital Technique uses pelvic blocks and precise neurological analysis to correct the structural foundation of your health. Category I, II, and III protocols address sacroiliac instability, disc involvement, sciatica, and cascading pelvic dysfunction." },
                     { img: "/images/adrenals.jpg", imgAlt: "Dr. Foss performing CMRT organ adjustment", title: "Pillar 2 — The Organs (CMRT)", desc: "Chiropractic Manipulative Reflex Technique is the organ-adjusting branch of Advanced SOT. Every thoracic vertebra connects to an organ through the autonomic nervous system. CMRT addresses GERD, adrenal fatigue, PMS, gallbladder dysfunction, allergies, and fertility challenges. Dr. Foss is the only CMRT-certified chiropractor in San Antonio." },
-                    { img: "/images/cranialadult.jpg", imgAlt: "Dr. Foss performing SOT Craniopathy cranial adjustment", title: "Pillar 3 — The Cranium (SOT Craniopathy)", desc: "The 22 bones of your skull continue to move in adulthood, driving cerebrospinal fluid flow that nourishes your brain and spinal cord. SOT Craniopathy corrects headaches, vertigo, TMJ, ear infections in children, post-concussion syndrome, and adjustments that won't hold. Dr. Foss is San Antonio's only Advanced SOT craniopath." },
+                    { img: "/images/cranialadult.jpg", imgAlt: "Dr. Foss performing SOT Craniopathy cranial adjustment", title: "Pillar 3 — The Cranium (SOT Craniopathy)", desc: "The 22 bones of your skull continue to move in adulthood, driving cerebrospinal fluid flow that nourishes your brain and spinal cord. SOT Craniopathy corrects headaches, vertigo, TMJ, ear infections in children, post-concussion syndrome, and adjustments that won't hold. Dr. Foss is San Antonio's only Advanced SOT-certified chiropractor — including completion of the SOT Craniopathy curriculum through SORSI." },
                     { img: "/images/shockwave.jpg", imgAlt: "Dr. Foss performing shockwave therapy", title: "Advanced Modalities", desc: "SoftWave Shockwave and Class IV Laser therapies accelerate healing where chiropractic adjustment alone isn't enough. SoftWave breaks up scar tissue and stimulates stem-cell migration; Class IV Laser drives deep through tissue to reduce inflammation. Combined with SOT, these modalities resolve plantar fasciitis, tendonitis, frozen shoulder, and chronic joint pain that hasn't responded to other treatments." },
                   ]
               ).map((p) => (

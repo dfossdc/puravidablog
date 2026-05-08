@@ -42,6 +42,18 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
         : "Real 5-star Google reviews and video testimonials from patients of Dr. Dan Foss in San Antonio, TX.",
       url: canonical,
       locale: isEs ? "es_MX" : "en_US",
+      images: [
+        {
+          url: "/images/dr-foss-banner-custom-1128.jpg",
+          width: 1200,
+          height: 630,
+          alt: "Pura Vida Chiropractic — Dr. Dan Foss, San Antonio TX",
+        },
+      ],
+    },
+    twitter: {
+      card: "summary_large_image",
+      images: ["/images/dr-foss-banner-custom-1128.jpg"],
     },
   };
 }

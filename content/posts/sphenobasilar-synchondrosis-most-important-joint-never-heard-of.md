@@ -80,7 +80,7 @@ Many adults walking around with chronic headaches, facial asymmetry, or unexplai
 
 Assessing SBS position and motion requires developed palpatory skill. I place my hands in a vault hold — specific finger contacts on the cranial bones — and evaluate the quality, amplitude, symmetry, and rate of the primary respiratory mechanism.
 
-SBS strain patterns have characteristic motion signatures under the vault hold. An experienced craniopath can identify flexion/extension, torsion, lateral strain, vertical strain, and compression patterns through palpation alone. Findings are confirmed by the clinical presentation and symptom history.
+SBS strain patterns have characteristic motion signatures under the vault hold. An experienced Advanced SOT-trained chiropractor can identify flexion/extension, torsion, lateral strain, vertical strain, and compression patterns through palpation alone. Findings are confirmed by the clinical presentation and symptom history.
 
 Treatment uses the same extremely gentle, sustained contact that characterizes all cranial adjusting. The goal is to introduce a therapeutic direction into the SBS motion — guiding the restricted joint toward normalized position — and then hold until the dural membranes release and the SBS settles into better balance.
 

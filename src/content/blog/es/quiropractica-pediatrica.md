@@ -55,7 +55,7 @@ Muchos padres en San Antonio se sorprenden al saber que los niños pueden benefi
 
 Los ajustes pediátricos realizados por el **Dr. Dan Foss** son extraordinariamente suaves — la presión utilizada en un bebé no es mayor que la que usted aplicaría cómodamente sobre su propio párpado cerrado. Los niños generalmente disfrutan sus ajustes y responden rápidamente al cuidado.
 
-Para recién nacidos que presentan moldeado craneal, plagiocefalia, tortícolis o dificultades para amamantar — y para madres posparto que se recuperan del estrés cráneo-pélvico — el Dr. Foss aplica su entrenamiento como craniopath certificado por SORSI. Lea más sobre nuestra [quiropráctica craneal y cuidado craniopath especializado](/es/blog/quiropractica-craneal-craniopath-san-antonio) para los casos en que el cuidado pediátrico estándar no ha sido suficiente.
+Para recién nacidos que presentan moldeado craneal, plagiocefalia, tortícolis o dificultades para amamantar — y para madres posparto que se recuperan del estrés cráneo-pélvico — el Dr. Foss aplica su entrenamiento como quiropráctico certificado en SOT Avanzado por SORSI. Lea más sobre nuestra [quiropráctica craneal y SOT Craniopathy](/es/blog/quiropractica-craneal-craniopath-san-antonio) para los casos en que el cuidado pediátrico estándar no ha sido suficiente.
 
 ## Una Práctica Centrada en la Familia en San Antonio
 

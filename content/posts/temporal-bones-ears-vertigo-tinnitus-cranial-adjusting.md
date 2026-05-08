@@ -88,7 +88,7 @@ I've had patients tell me after cranial adjusting that the tinnitus dropped in v
 - The temporal bones house the inner ear, the vestibulocochlear nerve (CN VIII), and the Eustachian tube opening — making them central to hearing, balance, and ear drainage.
 - Temporal bone restriction — from trauma, birth injury, whiplash, or TMJ dysfunction — can compress CN VIII within the internal auditory meatus, producing vertigo, tinnitus, and hearing changes.
 - Compressed Eustachian tube drainage from temporal bone torque is a primary mechanism in recurrent childhood ear infections.
-- SOT craniopaths assess temporal bone motion through mastoid and squamous palpation, identifying rotational restrictions and suture fixations.
+- Advanced SOT-trained chiropractors assess temporal bone motion through mastoid and squamous palpation, identifying rotational restrictions and suture fixations.
 - Temporal bone adjusting uses extremely gentle, direction-of-ease contacts to release cranial dural restrictions and restore normal CN VIII function.
 - BPPV (crystal-related vertigo) responds best to vestibular repositioning; mechanical temporal bone vertigo responds to cranial adjusting.
 

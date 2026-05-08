@@ -32,6 +32,27 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
         "x-default": `${BASE_URL}/en/services`,
       },
     },
+    openGraph: {
+      title: isEs
+        ? "Nuestros Servicios | Pura Vida Chiropractic"
+        : "Our Services | Pura Vida Chiropractic",
+      url: canonical,
+      siteName: "Pura Vida Chiropractic",
+      locale: isEs ? "es_MX" : "en_US",
+      type: "website",
+      images: [
+        {
+          url: "/images/dr-foss-adjusting-patient.webp",
+          width: 1200,
+          height: 630,
+          alt: "Dr. Dan Foss adjusting a patient at Pura Vida Chiropractic, San Antonio TX",
+        },
+      ],
+    },
+    twitter: {
+      card: "summary_large_image",
+      images: ["/images/dr-foss-adjusting-patient.webp"],
+    },
   };
 }
 

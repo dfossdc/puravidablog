@@ -55,7 +55,7 @@ Many parents in San Antonio are surprised to learn that children can benefit eno
 
 Pediatric adjustments performed by **Dr. Dan Foss** are extraordinarily gentle — the pressure used on an infant is no more than you would comfortably apply to your own closed eyelid. Children typically enjoy their adjustments and respond rapidly to care.
 
-For newborns presenting with cranial molding, plagiocephaly, torticollis, or latching difficulties — and for postpartum mothers recovering from cranial-pelvic stress — Dr. Foss draws on his SORSI craniopath training. Read more about our [cranial chiropractic and craniopath specialty care](/en/blog/cranial-chiropractic-craniopath-san-antonio) for the cases where standard pediatric care has not been enough.
+For newborns presenting with cranial molding, plagiocephaly, torticollis, or latching difficulties — and for postpartum mothers recovering from cranial-pelvic stress — Dr. Foss draws on his Advanced SOT training through SORSI. Read more about our [cranial chiropractic and SOT Craniopathy](/en/blog/cranial-chiropractic-craniopath-san-antonio) for the cases where standard pediatric care has not been enough.
 
 ## A Family-Centered Practice in San Antonio
 

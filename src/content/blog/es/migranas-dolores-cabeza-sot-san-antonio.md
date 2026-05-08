@@ -64,7 +64,7 @@ Un estudio publicado en el *Journal of Manipulative and Physiological Therapeuti
 
 Para muchos pacientes en San Antonio, el cuidado SOT representa la primera vez que experimentan control real sobre sus migrañas sin depender de pastillas. El objetivo no es enmascarar el dolor — es eliminar los factores estructurales y neuromusculares que lo generan.
 
-Para casos de migraña que involucran dolor del nervio facial, neuralgia del trigémino o desencadenantes relacionados con la ATM, el trabajo craneal más profundo cae en una subespecialidad de SOT llamada cuidado craniopath. Consulta nuestra guía complementaria sobre [quiropráctica craneal y cuidado craniopath especializado en San Antonio](/es/blog/quiropractica-craneal-craniopath-san-antonio) para conocer las condiciones y técnicas involucradas.
+Para casos de migraña que involucran dolor del nervio facial, neuralgia del trigémino o desencadenantes relacionados con la ATM, el trabajo craneal más profundo cae en una subespecialidad de SOT llamada SOT Craniopathy. Consulta nuestra guía complementaria sobre [quiropráctica craneal y SOT Craniopathy en San Antonio](/es/blog/quiropractica-craneal-craniopath-san-antonio) para conocer las condiciones y técnicas involucradas.
 
 ## Agenda Tu Evaluación
 
