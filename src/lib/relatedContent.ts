@@ -68,14 +68,35 @@ export function getRelatedPosts(
 
   const currentTokens = tokenize(postCorpus(current));
 
-  const scored = all
-    .filter((p) => p.slug !== currentSlug && p.lang === locale)
+  const candidates = all.filter((p) => p.slug !== currentSlug && p.lang === locale);
+
+  // Score-based primary matches (Jaccard similarity > 0)
+  const scored = candidates
     .map((p) => ({ post: p, score: jaccard(currentTokens, tokenize(postCorpus(p))) }))
     .filter((x) => x.score > 0)
-    .sort((a, b) => b.score - a.score)
-    .slice(0, limit);
+    .sort((a, b) => b.score - a.score);
 
-  return scored.map(({ post }) => ({
+  const picked: typeof scored = scored.slice(0, limit);
+
+  // Fallback: if we don't have `limit` matches yet, fill the gap with the most
+  // recent posts (by date desc) that aren't already in the picked list. This
+  // guarantees every post emits `limit` outbound links — important for SEO so
+  // orphan posts (e.g., topic-specific posts whose vocabulary doesn't overlap
+  // with the rest of the corpus) still contribute to the internal link graph.
+  if (picked.length < limit) {
+    const pickedSlugs = new Set(picked.map((x) => x.post.slug));
+    const recent = candidates
+      .filter((p) => !pickedSlugs.has(p.slug))
+      .sort((a, b) => {
+        const da = a.date ? new Date(a.date).getTime() : 0;
+        const db = b.date ? new Date(b.date).getTime() : 0;
+        return db - da;
+      })
+      .slice(0, limit - picked.length);
+    picked.push(...recent.map((post) => ({ post, score: 0 })));
+  }
+
+  return picked.map(({ post }) => ({
     title: post.title,
     href: `/${locale}/blog/${post.slug}`,
     image: post.image,
