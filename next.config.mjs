@@ -98,11 +98,14 @@ const nextConfig = {
       { source: "/office-tour", destination: "/en/about", permanent: true },
       { source: "/special", destination: "/en/book-now", permanent: true },
       { source: "/book-now", destination: "/en/book-now", permanent: true },
-      // ---- Sitemap-listed pages that don't exist as routes ----
-      { source: "/en/meet-dr-foss", destination: "/en/about", permanent: true },
-      { source: "/es/meet-dr-foss", destination: "/es/about", permanent: true },
-      { source: "/en/office-hours", destination: "/en/contact", permanent: true },
-      { source: "/es/office-hours", destination: "/es/contact", permanent: true },
+      // ---- Legacy fallback redirects ----
+      // meet-dr-foss and office-hours used to 404 on Vercel before commit
+      // ea3dc15 (2026-04-30) shipped the actual route files. The redirects to
+      // /about and /contact were a stop-gap and were never removed when the
+      // pages went live — Google has been seeing the rich pages as "Page with
+      // redirect" since then. Removed 2026-05-08 so the real pages serve.
+      // /privacy-policy → /privacy stays: both are noindex and /privacy is
+      // the canonical legal page used across the site.
       { source: "/en/privacy-policy", destination: "/privacy", permanent: true },
       { source: "/es/privacy-policy", destination: "/privacy/es", permanent: true },
       { source: "/us", destination: "/en/about", permanent: true },
