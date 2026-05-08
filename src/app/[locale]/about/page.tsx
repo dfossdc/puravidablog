@@ -45,6 +45,18 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       siteName: "Pura Vida Chiropractic",
       locale: isEs ? "es_MX" : "en_US",
       type: "profile",
+      images: [
+        {
+          url: "/images/social-cards/meet-dr-foss-portrait.jpg",
+          width: 1200,
+          height: 630,
+          alt: "Dr. Dan Foss, DC — Pura Vida Chiropractic San Antonio",
+        },
+      ],
+    },
+    twitter: {
+      card: "summary_large_image",
+      images: ["/images/social-cards/meet-dr-foss-portrait.jpg"],
     },
   };
 }
