@@ -112,7 +112,15 @@ export default async function RootLayout({ children }: { children: React.ReactNo
         {isPreviewHost && (
           <meta name="robots" content="noindex, nofollow" />
         )}
-        <link rel="preconnect" href="https://i.ytimg.com" />
+        {/*
+          Preconnects: critical-path origins only. 2026-05-10: removed
+          i.ytimg.com preconnect — YouTubeFacade is below-fold on every page,
+          so opening a TLS connection eagerly was wasting ~50ms of LCP budget.
+          The facade component opens its own connection just-in-time when it
+          enters the viewport. Kept dns-prefetch as a lightweight hint.
+        */}
+        <link rel="preconnect" href="https://www.googletagmanager.com" />
+        <link rel="dns-prefetch" href="https://i.ytimg.com" />
         <link rel="alternate" type="application/rss+xml" title="Pura Vida Chiropractic — Blog" href="/feed.xml" />
         <link rel="alternate" type="application/rss+xml" title="Blog (English)" href="/en/feed.xml" />
         <link rel="alternate" type="application/rss+xml" title="Blog (Español)" href="/es/feed.xml" />

@@ -476,6 +476,34 @@ const nextConfig = {
 
     ];
   },
+
+  // ── Performance: long cache lifetimes for fingerprinted static assets ──
+  // PageSpeed flagged "Use efficient cache lifetimes — 96 KiB savings" on
+  // mobile (2026-05-10). Vercel's defaults are decent but conservative.
+  // Setting Cache-Control: public, max-age=31536000, immutable on filename-
+  // hashed assets (Next.js bundles, images, fonts, CSS, JS) is safe because
+  // those URLs change every deploy. For HTML pages we leave Vercel's defaults
+  // alone — they need to revalidate so content changes show up.
+  async headers() {
+    return [
+      {
+        // Match any path ending in a static-asset extension. Catches
+        // /_next/static/*, /images/*, /fonts/*, etc. without enumerating them.
+        source: "/:path*\\.(jpg|jpeg|png|gif|webp|avif|svg|ico|woff|woff2|ttf|otf|css|js|map|mp4|webm)",
+        headers: [
+          { key: "Cache-Control", value: "public, max-age=31536000, immutable" },
+        ],
+      },
+      {
+        // Sitemap + RSS: cache for an hour. Long enough to reduce origin hits,
+        // short enough that newly-published posts show up to crawlers same-day.
+        source: "/(sitemap.xml|feed.xml|en/feed.xml|es/feed.xml|robots.txt)",
+        headers: [
+          { key: "Cache-Control", value: "public, max-age=3600, s-maxage=3600" },
+        ],
+      },
+    ];
+  },
 };
 
 export default nextConfig;
