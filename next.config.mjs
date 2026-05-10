@@ -235,6 +235,13 @@ const nextConfig = {
       // "deprenion" should be "depresion" (Spanish for "depression")
       { source: "/en/blog/ansiedad-deprenion-quiropractico-san-antonio", destination: "/es/blog/ansiedad-depresion-quiropractico-san-antonio", permanent: true },
       { source: "/es/blog/ansiedad-deprenion-quiropractico-san-antonio", destination: "/es/blog/ansiedad-depresion-quiropractico-san-antonio", permanent: true },
+      // GSC 404 fixes (5/8/26): Spanish slugs accidentally linked under /en/
+      // and/or with typos. Both target real /es/blog/ posts.
+      // "que-en-cmrt" should be "que-es-cmrt" (typo: en→es)
+      { source: "/en/blog/que-en-cmrt-quiropractica-visceral-san-antonio", destination: "/es/blog/que-es-cmrt-quiropractica-visceral-san-antonio", permanent: true },
+      // "procenamiento" should be "procesamiento" (typo) + locale fix /en/→/es/
+      { source: "/en/blog/trastorno-procenamiento-sensorial-quiropractica-san-antonio", destination: "/es/blog/trastorno-procesamiento-sensorial-quiropractica-san-antonio", permanent: true },
+      { source: "/es/blog/trastorno-procenamiento-sensorial-quiropractica-san-antonio", destination: "/es/blog/trastorno-procesamiento-sensorial-quiropractica-san-antonio", permanent: true },
 
       // ── ILLEGAL "Que Acepta Medicaid" posts: HARD redirect to insurance page ──
       // Per Dr. Foss compliance directive: "it is illegal to say that we accept
@@ -380,9 +387,14 @@ const nextConfig = {
       { source: "/es/blog/pediatric-prenatal",
         destination: "/es/services/quiropractica-pediatrica", permanent: true },
 
-      // Old long WP URL still showing up in GSC after the .net cutover
-      { source: "/about-pura-vida-chiropractic/pura-vida-quiropractica/",
+      // Old long WP URL still showing up in GSC after the .net cutover.
+      // 5/8/26: Next.js strips trailing slash before matching, so the
+      // /…/quiropractica/ rule never fired — replaced with no-slash exact +
+      // wildcard catch-all for any other /about-pura-vida-chiropractic/* paths.
+      { source: "/about-pura-vida-chiropractic/pura-vida-quiropractica",
         destination: "/es/about", permanent: true },
+      { source: "/about-pura-vida-chiropractic/:path*",
+        destination: "/en/about", permanent: true },
 
       // ── GSC May 2026: 'Crawled - currently not indexed' WP legacy URLs ──
       // Old WordPress URLs from the .net cutover that Google still crawls but
