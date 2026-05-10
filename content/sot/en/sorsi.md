@@ -1,6 +1,6 @@
 ---
-title: "SORSI: The Sacro Occipital Research Society International | Pura Vida Chiropractic"
-description: "The story of SORSI — founded 1929, official home of SOT since 1957 — and why Advanced SOT certification through SORSI matters for your chiropractic care."
+title: "Why \"Advanced SOT Certified\" Matters: The SORSI Story | Pura Vida San Antonio"
+description: "Only ~3% of US chiropractors are Advanced SOT certified through SORSI — the world's oldest chiropractic technique society (founded 1929). Here's what that credential means for your spine, organs, and cranial care at Pura Vida."
 date: "2026-04-15"
 lang: "en"
 slug: "sorsi"

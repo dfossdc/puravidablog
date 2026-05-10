@@ -19,11 +19,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const canonical = `${BASE_URL}/${locale}/san-antonio-quiropractico`;
   return {
     title: isEs
-      ? "San Antonio Quiropráctico | Pura Vida Chiropractic — Dr. Dan Foss DC"
-      : "San Antonio Chiropractor | Pura Vida — Dr. Foss",
+      ? "Quiropráctico Hispano San Antonio TX (En Español) ★ 159 Reseñas | Pura Vida"
+      : "San Antonio Chiropractor in Spanish — 159 Five-Star Reviews | Pura Vida",
     description: isEs
-      ? "Quiropráctico en San Antonio, TX con atención bilingüe en inglés y español. Dr. Dan Foss DC — certificación SOT Avanzada, 23+ años de experiencia, 159+ reseñas de 5 estrellas. ¡Llame al (210) 685-1994!"
-      : "Chiropractor in San Antonio, TX offering bilingual care in English and Spanish. Dr. Dan Foss DC — Advanced SOT certification, 23+ years experience, 159+ five-star reviews. Call (210) 685-1994!",
+      ? "¿Busca un quiropráctico que hable español en San Antonio? Dr. Dan Foss — bilingüe, certificación SOT Avanzada, 23+ años atendiendo familias hispanas. Evaluación gratis. 4.8★ con 159 reseñas. (210) 685-1994."
+      : "Spanish-speaking chiropractor in San Antonio, TX. Dr. Dan Foss DC — bilingual EN/ES, Advanced SOT certification, 23+ years serving the Hispanic community. Free evaluation. 4.8★ with 159 reviews. (210) 685-1994.",
     alternates: {
       canonical,
       languages: {

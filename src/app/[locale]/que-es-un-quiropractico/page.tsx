@@ -26,9 +26,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale } = await params;
   const canonical = `${BASE_URL}/${locale}/que-es-un-quiropractico`;
   return {
-    title: "¿Qué es un Quiropráctico? | Pura Vida San Antonio",
+    title: "¿Qué es un Quiropráctico y Qué Hace? Guía Completa 2026 (En Español)",
     description:
-      "¿Qué es un quiropráctico y qué hace? Guía completa de la quiropráctica: definición, formación, técnicas, beneficios, riesgos, costos y cuándo verlo. Pura Vida Chiropractic — atención bilingüe en San Antonio TX.",
+      "Quiropráctico vs huesero, vs masajista, vs fisioterapeuta — ¿cuál es la diferencia? Esta guía completa explica qué hace un quiropráctico, formación universitaria, técnicas como SOT, costos típicos y cuándo (y cuándo NO) acudir. Por el Dr. Dan Foss, San Antonio TX.",
     alternates: {
       canonical,
       languages: {

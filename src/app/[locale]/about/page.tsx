@@ -21,11 +21,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const canonical = `${BASE_URL}/${locale}/about`;
   return {
     title: isEs
-      ? "Sobre el Dr. Dan Foss, DC | Pura Vida Chiropractic San Antonio"
-      : "About Dr. Dan Foss, DC | Pura Vida San Antonio",
+      ? "Pura Vida Chiropractic — Clínica Quiropráctica Bilingüe en San Antonio TX"
+      : "About Pura Vida Chiropractic — Bilingual Family Practice in San Antonio TX",
     description: isEs
-      ? "Conozca al Dr. Dan Foss, DC — mejor quiropráctico en San Antonio TX, certificado SOT, más de 23 años de experiencia internacional. Quiropráctico que habla español en NW Military Hwy, San Antonio TX. Atendemos Stone Oak, Castle Hills, Alamo Heights y Helotes. Especializado en SOT, pediatría y Técnica Webster. Evaluación quiropráctica gratis."
-      : "Meet Dr. Dan Foss, DC — best chiropractor in San Antonio TX, Advanced SOT-certified, 23+ years of international clinical experience. Spanish-speaking chiropractor near Stone Oak on NW Military Hwy, San Antonio TX. Serving Castle Hills, Alamo Heights, and Helotes. Pediatric, prenatal, and SOT chiropractic specialist. Free chiropractic evaluation San Antonio.",
+      ? "Pura Vida Chiropractic en San Antonio TX: clínica familiar bilingüe (inglés y español) dirigida por el Dr. Dan Foss, DC. La única práctica con Certificación SOT Avanzada en San Antonio. Pediatría, prenatal, SOT, terapia SoftWave. 4.8★ con 159 reseñas. Atendemos Stone Oak, Castle Hills, Alamo Heights, Helotes."
+      : "Pura Vida Chiropractic in San Antonio TX: bilingual (English/Spanish) family practice led by Dr. Dan Foss, DC. The only Advanced SOT-certified practice in San Antonio. Pediatric, prenatal, SOT, SoftWave therapy. 4.8★ with 159 five-star reviews. Serving Stone Oak, Castle Hills, Alamo Heights, Helotes.",
     alternates: {
       canonical,
       languages: {

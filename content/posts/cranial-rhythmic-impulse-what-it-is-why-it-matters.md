@@ -1,8 +1,8 @@
 ---
-title: "The Cranial Rhythmic Impulse: What It Is and Why It Matters for Your Health"
-metaTitle: "The Cranial Rhythmic Impulse"
+title: "Your Skull Bones Move 6–12 Times Per Minute — Here's Why It Matters for TMJ, Migraines & More"
+metaTitle: "Cranial Rhythmic Impulse Explained — San Antonio Cranial Chiropractor"
 date: "2024-09-27"
-description: "The cranial rhythmic impulse — a subtle 6-12 cycles per minute rhythm felt throughout the body — is the foundation of cranial osteopathy and chiropractic craniopathy. Here's what it tells us about your nervous system health."
+description: "Yes, your skull bones move — 6-12 micro-movements per minute. This cranial rhythmic impulse drives CSF flow, nervous-system tone, and is what cranial chiropractors palpate to find TMJ, migraine, and vertigo dysfunction. Here's how it works and what it means for you."
 tags: ["cranial rhythmic impulse", "CRI", "CSF", "craniopathy", "Sutherland", "primary respiratory mechanism"]
 author: "Dr. Dan Foss DC"
 lang: "en"

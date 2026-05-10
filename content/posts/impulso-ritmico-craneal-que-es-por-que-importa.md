@@ -1,8 +1,8 @@
 ---
-title: "El Impulso Rítmico Craneal: Qué Es y Por Qué Importa para Su Salud"
-metaTitle: "El Impulso Rítmico Craneal"
+title: "Sus Huesos del Cráneo Se Mueven 6–12 Veces Por Minuto — Aquí Está Por Qué Importa para ATM, Migrañas y Más"
+metaTitle: "Impulso Rítmico Craneal Explicado — Quiropráctico Craneal San Antonio"
 date: "2024-09-27"
-description: "El impulso rítmico craneal — un ritmo sutil de 6 a 12 ciclos por minuto que se siente en todo el cuerpo — es la base de la osteopatía craneal y la quiropráctica craneopática. Esto es lo que nos dice sobre la salud de su sistema nervioso."
+description: "Sí, los huesos del cráneo se mueven — 6 a 12 micro-movimientos por minuto. Este impulso rítmico craneal impulsa el flujo del LCR, el tono del sistema nervioso, y es lo que palpa un quiropráctico craneal para encontrar disfunción de ATM, migraña y vértigo. Aquí cómo funciona."
 tags: ["impulso rítmico craneal", "CRI", "LCR", "craneopatía", "Sutherland", "mecanismo respiratorio primario"]
 author: "Dr. Dan Foss DC"
 lang: "es"
