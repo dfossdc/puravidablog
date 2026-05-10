@@ -174,6 +174,16 @@ export default function Footer({ locale }: FooterProps) {
             {isEs ? "Aviso Médico" : "Healthcare Disclaimer"}
           </Link>
           <span className={styles.bottomSep}>|</span>
+          {/* Patient Rights & Consumer Notices — required "prominent" posting
+              under Texas Health & Safety Code §181.105 (HB 4224, eff. 9/1/2025).
+              Must contain detailed instructions for: requesting health records,
+              contacting the licensing authority (TBCE), and filing a consumer
+              complaint per §181.103. Sitewide footer placement satisfies the
+              "prominently post on the entity's Internet website" requirement. */}
+          <Link href={`/${locale}/patient-rights`}>
+            {isEs ? "Derechos del Paciente" : "Patient Rights"}
+          </Link>
+          <span className={styles.bottomSep}>|</span>
           {/* Site map link surfaces the HTML sitemap that lists every page on
               the domain. Sitewide footer placement collapses crawl depth for
               all 313+ blog posts, condition pages, neighborhood pages, etc.

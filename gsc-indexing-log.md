@@ -6,6 +6,54 @@ Format: most recent run at top.
 
 ---
 
+## 2026-05-08 — 0 URLs submitted (quota burned), 1 root-cause fix shipped
+
+Scheduled run. Quota was already exhausted on first Request Indexing attempt (4th consecutive day with same pattern: 5/5, 5/6, 5/7, 5/8) — strongly suggests the IndexNow daily cron is consuming the same Google account's manual-submission window.
+
+**Inspections (12 URLs):**
+
+11 returned "URL is on Google" — May 1 research posts (EN+ES) settled, ES neighborhood and condition pages settled, ES posicion-fetal-optima settled, EN osteoporosis settled.
+
+The 12th surfaced a real bug:
+- `/es/meet-dr-foss` → "URL is unknown to Google"
+- Cross-checked `/en/meet-dr-foss` → "Page is not indexed: Page with redirect", user-declared canonical `https://puravidasanantonio.com/en/about`
+- Last crawled Apr 30 2026 8:46 PM, but page is 301'd to /about so Google never sees it
+
+**Root cause:** stale redirects in next.config.mjs (lines 102–105 pre-fix). When commit `ea3dc15` shipped on 2026-04-30 ("commit missing route files (Spanish landing pages, meet-dr-foss, office-hours, privacy-policy, …) — these existed locally but never made it to git"), the four redirects added before that fix to mask the 404s were never removed. The actual rich pages have been live for 8 days but unreachable behind the 301s.
+
+**LinkedIn impact:** `linkedin-featured-paste-ready.md` and `linkedin-profile-cleanup.md` both pointed traffic at `https://puravidasanantonio.com/en/meet-dr-foss`. Anyone clicking those LinkedIn featured links got bounced to the generic /about page instead of the Dr. Foss portrait/story page.
+
+**Code fix shipped (1 commit):**
+
+`33b871d` — `fix(seo): remove stale meet-dr-foss + office-hours redirects`
+- Deleted 4 lines from next.config.mjs `redirects()`:
+  - `/en/meet-dr-foss` → `/en/about`
+  - `/es/meet-dr-foss` → `/es/about`
+  - `/en/office-hours` → `/en/contact`
+  - `/es/office-hours` → `/es/contact`
+- Replaced section comment with explanation of what happened and why /privacy-policy still redirects (both /privacy-policy and /privacy are noindex; /privacy is the canonical legal page).
+- TypeScript clean. node --check clean. Branch: feat/og-image-followup-and-pinterest-claim.
+
+**Post-deploy verification (after `git push` from local):**
+
+1. curl -I https://puravidasanantonio.com/en/meet-dr-foss → expect HTTP 200, NOT 308/301
+2. curl -I https://puravidasanantonio.com/es/meet-dr-foss → expect HTTP 200
+3. curl -I https://puravidasanantonio.com/en/office-hours → expect HTTP 200
+4. curl -I https://puravidasanantonio.com/es/office-hours → expect HTTP 200
+5. GSC URL Inspection on /en/meet-dr-foss + /es/meet-dr-foss → click Request Indexing once quota refreshes (probably ~24h after last cron run)
+
+**Tomorrow's queue (if quota fresh):**
+
+1. `/es/meet-dr-foss` (root cause confirmed today, fix deploying — submit FIRST)
+2. `/en/meet-dr-foss` (same)
+3. `/en/office-hours` and `/es/office-hours` (sibling redirect fix — verify they're indexable post-deploy)
+4. `/en/blog/dejarnette-history-story-behind-sot-chiropractic` (4-day stuck carryover from 5/4)
+5. Continue rotation through queue per scheduled-task spec
+
+**Quota note:** worth investigating whether IndexNow daily cron should back off when scheduled-task is about to run, OR alternatively, this scheduled task should accept that manual-submission quota is contended and treat IndexNow as the primary signal with manual submissions as just a top-up.
+
+---
+
 ## 2026-05-06 — 12 URLs submitted + 4 code fixes shipped
 
 Big run. Quota was fresh; pushed 12 URLs through and shipped multiple code fixes for issues found while inspecting.
