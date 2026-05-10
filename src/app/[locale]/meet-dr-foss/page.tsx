@@ -121,7 +121,7 @@ export default async function MeetDrFossPage({ params }: Props) {
             <span className={styles.statLabel}>{isEs ? "Continentes" : "Continents"}</span>
           </div>
           <div className={styles.stat}>
-            <span className={styles.statNum}>147+</span>
+            <span className={styles.statNum}>159+</span>
             <span className={styles.statLabel}>{isEs ? "Reseñas de 5 Estrellas" : "5-Star Reviews"}</span>
           </div>
         </div>

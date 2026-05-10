@@ -23,8 +23,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       ? "Testimonios | Pura Vida Chiropractic San Antonio"
       : "Patient Testimonials | Pura Vida Chiropractic San Antonio TX",
     description: isEs
-      ? "147 reseñas de cinco estrellas de pacientes de San Antonio, TX que encontraron alivio con el Dr. Dan Foss — quiropráctica SOT, terapia SoftWave y más."
-      : "Read 147 five-star Google reviews from San Antonio, TX patients of Dr. Dan Foss — SOT chiropractic, SoftWave therapy, auto injury, prenatal, and more.",
+      ? "159 reseñas de cinco estrellas de pacientes de San Antonio, TX que encontraron alivio con el Dr. Dan Foss — quiropráctica SOT, terapia SoftWave y más."
+      : "Read 159 five-star Google reviews from San Antonio, TX patients of Dr. Dan Foss — SOT chiropractic, SoftWave therapy, auto injury, prenatal, and more.",
     alternates: {
       canonical,
       languages: {
@@ -256,7 +256,7 @@ export default async function TestimonialsPage({ params }: Props) {
     aggregateRating: {
       "@type": "AggregateRating",
       ratingValue: "5",
-      reviewCount: "147",
+      reviewCount: "159",
       bestRating: "5",
       worstRating: "1",
     },
@@ -315,8 +315,8 @@ export default async function TestimonialsPage({ params }: Props) {
           </h1>
           <p className={styles.heroSub}>
             {isEs
-              ? "147 reseñas de cinco estrellas de familias de San Antonio que encontraron alivio real con el "
-              : "147 five-star reviews from San Antonio families who found real relief with "}
+              ? "159 reseñas de cinco estrellas de familias de San Antonio que encontraron alivio real con el "
+              : "159 five-star reviews from San Antonio families who found real relief with "}
             <Link href={`/${locale}/about`} className={styles.heroLink}>
               {isEs ? "Dr. Dan Foss" : "Dr. Dan Foss"}
             </Link>
@@ -330,13 +330,13 @@ export default async function TestimonialsPage({ params }: Props) {
         <div className={styles.statsBar}>
           <div className={styles.statsGrid}>
             <div className={styles.stat}>
-              <span className={styles.statNum}>147+</span>
+              <span className={styles.statNum}>159+</span>
               <span className={styles.statLabel}>
                 {isEs ? "Reseñas de 5 Estrellas" : "5-Star Reviews"}
               </span>
             </div>
             <div className={styles.stat}>
-              <span className={styles.statNum}>4.9★</span>
+              <span className={styles.statNum}>4.8★</span>
               <span className={styles.statLabel}>
                 {isEs ? "Calificación en Google" : "Google Rating"}
               </span>

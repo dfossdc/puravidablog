@@ -145,8 +145,8 @@ export default async function QuiropraticoSanAntonioPage({ params }: Props) {
     ],
     aggregateRating: {
       "@type": "AggregateRating",
-      ratingValue: "4.9",
-      reviewCount: "147",
+      ratingValue: "4.8",
+      reviewCount: "159",
       bestRating: "5",
       worstRating: "1",
     },
@@ -178,7 +178,7 @@ export default async function QuiropraticoSanAntonioPage({ params }: Props) {
     },
     {
       q: "¿Cómo encuentro un buen quiropráctico en San Antonio?",
-      a: "Tres criterios prácticos: 1) Verifique su licencia activa con el Texas Board of Chiropractic Examiners. 2) Pregunte por certificaciones avanzadas más allá de la licencia básica (SOT, Webster, Activator). 3) Lea reseñas verificadas de Google. El Dr. Foss en Pura Vida cumple los tres criterios — licencia activa de TX, certificación SOT Avanzada del SORSI, y 147+ reseñas de 5 estrellas en Google.",
+      a: "Tres criterios prácticos: 1) Verifique su licencia activa con el Texas Board of Chiropractic Examiners. 2) Pregunte por certificaciones avanzadas más allá de la licencia básica (SOT, Webster, Activator). 3) Lea reseñas verificadas de Google. El Dr. Foss en Pura Vida cumple los tres criterios — licencia activa de TX, certificación SOT Avanzada del SORSI, y 159+ reseñas de 5 estrellas en Google.",
     },
     {
       q: "¿Qué tratamientos ofrece el quiropráctico Pura Vida?",
@@ -237,8 +237,8 @@ export default async function QuiropraticoSanAntonioPage({ params }: Props) {
               <a href="tel:+12106851994" className={styles.heroPhone}>📞 (210) 685-1994</a>
             </div>
             <div className={styles.heroBadges}>
-              <span className={styles.badge}>⭐ 4.9/5 Google</span>
-              <span className={styles.badge}>147+ {isEs ? "reseñas" : "reviews"}</span>
+              <span className={styles.badge}>⭐ 4.8/5 Google</span>
+              <span className={styles.badge}>159+ {isEs ? "reseñas" : "reviews"}</span>
               <span className={styles.badge}>{isEs ? "Bilingüe" : "Bilingual"}</span>
               <span className={styles.badge}>SOT {isEs ? "Avanzado" : "Advanced"}</span>
               <span className={styles.badge}>{isEs ? "23+ años" : "23+ years"}</span>
@@ -314,8 +314,8 @@ export default async function QuiropraticoSanAntonioPage({ params }: Props) {
               </p>
               <p className={styles.p}>
                 {isEs
-                  ? "Hoy, con más de 23 años de experiencia y más de 147 reseñas de 5 estrellas en Google, el Dr. Foss es reconocido como uno de los quiroprácticos más destacados de San Antonio, especialmente entre la comunidad hispanohablante de la ciudad."
-                  : "Today, with over 23 years of experience and over 147 five-star Google reviews, Dr. Foss is recognized as one of San Antonio's most distinguished chiropractors, especially among the city's Spanish-speaking community."}
+                  ? "Hoy, con más de 23 años de experiencia y más de 159 reseñas de 5 estrellas en Google, el Dr. Foss es reconocido como uno de los quiroprácticos más destacados de San Antonio, especialmente entre la comunidad hispanohablante de la ciudad."
+                  : "Today, with over 23 years of experience and over 159 five-star Google reviews, Dr. Foss is recognized as one of San Antonio's most distinguished chiropractors, especially among the city's Spanish-speaking community."}
               </p>
               <div className={styles.aboutLinks}>
                 <Link href={`/${locale}/meet-dr-foss`} className={styles.linkPrimary}>

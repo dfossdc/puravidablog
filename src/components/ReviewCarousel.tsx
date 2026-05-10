@@ -119,7 +119,7 @@ export default function ReviewCarousel({ locale }: Props) {
     <section className={styles.section}>
       {/* Top badge */}
       <div className={styles.badge}>
-        ★ {isEs ? "147+ RESEÑAS DE CINCO ESTRELLAS" : "147+ FIVE-STAR REVIEWS"}
+        ★ {isEs ? "159+ RESEÑAS DE CINCO ESTRELLAS" : "159+ FIVE-STAR REVIEWS"}
       </div>
 
       {/* Title */}

@@ -22,8 +22,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       ? "San Antonio Quiropráctico | Pura Vida Chiropractic — Dr. Dan Foss DC"
       : "San Antonio Chiropractor | Pura Vida — Dr. Foss",
     description: isEs
-      ? "Quiropráctico en San Antonio, TX con atención bilingüe en inglés y español. Dr. Dan Foss DC — certificación SOT Avanzada, 23+ años de experiencia, 147+ reseñas de 5 estrellas. ¡Llame al (210) 685-1994!"
-      : "Chiropractor in San Antonio, TX offering bilingual care in English and Spanish. Dr. Dan Foss DC — Advanced SOT certification, 23+ years experience, 147+ five-star reviews. Call (210) 685-1994!",
+      ? "Quiropráctico en San Antonio, TX con atención bilingüe en inglés y español. Dr. Dan Foss DC — certificación SOT Avanzada, 23+ años de experiencia, 159+ reseñas de 5 estrellas. ¡Llame al (210) 685-1994!"
+      : "Chiropractor in San Antonio, TX offering bilingual care in English and Spanish. Dr. Dan Foss DC — Advanced SOT certification, 23+ years experience, 159+ five-star reviews. Call (210) 685-1994!",
     alternates: {
       canonical,
       languages: {
@@ -135,8 +135,8 @@ export default async function SanAntonioQuiropracticoPage({ params }: Props) {
     knowsLanguage: ["en", "es"],
     aggregateRating: {
       "@type": "AggregateRating",
-      ratingValue: "4.9",
-      reviewCount: "147",
+      ratingValue: "4.8",
+      reviewCount: "159",
       bestRating: "5",
       worstRating: "1",
     },
@@ -196,8 +196,8 @@ export default async function SanAntonioQuiropracticoPage({ params }: Props) {
               </h1>
               <p className={styles.heroSub}>
                 {isEs
-                  ? "Pura Vida Chiropractic, con el Dr. Dan Foss, DC, es su quiropráctico bilingüe de confianza en San Antonio. Con más de 23 años de experiencia, certificación SOT Avanzada y más de 147 reseñas de 5 estrellas, ofrecemos atención quiropráctica de excelencia para toda la familia en inglés y en español."
-                  : "Pura Vida Chiropractic, with Dr. Dan Foss, DC, is your trusted bilingual chiropractor in San Antonio. With over 23 years of experience, Advanced SOT Certification, and over 147 five-star reviews, we offer exceptional chiropractic care for the whole family in English and Spanish."}
+                  ? "Pura Vida Chiropractic, con el Dr. Dan Foss, DC, es su quiropráctico bilingüe de confianza en San Antonio. Con más de 23 años de experiencia, certificación SOT Avanzada y más de 159 reseñas de 5 estrellas, ofrecemos atención quiropráctica de excelencia para toda la familia en inglés y en español."
+                  : "Pura Vida Chiropractic, with Dr. Dan Foss, DC, is your trusted bilingual chiropractor in San Antonio. With over 23 years of experience, Advanced SOT Certification, and over 159 five-star reviews, we offer exceptional chiropractic care for the whole family in English and Spanish."}
               </p>
               <div className={styles.heroBtns}>
                 <a href="https://puravidasanantonio.com/special/" target="_blank" rel="noopener noreferrer" className={styles.heroBtn}>
@@ -223,7 +223,7 @@ export default async function SanAntonioQuiropracticoPage({ params }: Props) {
 
         {/* Stats */}
         <div className={styles.stats}>
-          <div className={styles.stat}><span className={styles.statNum}>147+</span><span className={styles.statLabel}>{isEs ? "Reseñas ⭐⭐⭐⭐⭐" : "5-Star Reviews"}</span></div>
+          <div className={styles.stat}><span className={styles.statNum}>159+</span><span className={styles.statLabel}>{isEs ? "Reseñas ⭐⭐⭐⭐⭐" : "5-Star Reviews"}</span></div>
           <div className={styles.stat}><span className={styles.statNum}>23+</span><span className={styles.statLabel}>{isEs ? "Años de Exp." : "Years of Exp."}</span></div>
           <div className={styles.stat}><span className={styles.statNum}>2</span><span className={styles.statLabel}>{isEs ? "Idiomas" : "Languages"}</span></div>
           <div className={styles.stat}><span className={styles.statNum}>7AM</span><span className={styles.statLabel}>{isEs ? "Abre Lun/Mar/Jue" : "Opens Mon/Tue/Thu"}</span></div>
@@ -271,7 +271,7 @@ export default async function SanAntonioQuiropracticoPage({ params }: Props) {
                   <li>{isEs ? "Atención bilingüe inglés–español" : "Bilingual English–Spanish care"}</li>
                   <li>{isEs ? "Certificación SOT Avanzada (única en SA)" : "Advanced SOT Certification (unique in SA)"}</li>
                   <li>{isEs ? "23+ años de experiencia clínica" : "23+ years of clinical experience"}</li>
-                  <li>{isEs ? "147+ reseñas de 5 estrellas en Google" : "147+ five-star Google reviews"}</li>
+                  <li>{isEs ? "159+ reseñas de 5 estrellas en Google" : "159+ five-star Google reviews"}</li>
                   <li>{isEs ? "Tecnología SoftWave y Láser Clase IV" : "SoftWave and Class IV Laser technology"}</li>
                   <li>{isEs ? "Quiropráctica pediátrica y prenatal" : "Pediatric and prenatal chiropractic"}</li>
                   <li>{isEs ? "Amigables con tu seguro" : "Insurance friendly"}</li>

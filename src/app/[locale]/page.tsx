@@ -378,7 +378,7 @@ export default async function HomePage({ params }: Props) {
                   : "Pura Vida Chiropractic — the only Advanced SOT-certified chiropractor in San Antonio, TX. As a bilingual chiropractor in San Antonio who serves the Hispanic community, Dr. Dan Foss treats the spine, organs, and cranium as one connected system, in English and Spanish."}
               </p>
               <div className={styles.heroTrust}>
-                <span className={styles.heroTrustItem}>⭐ {isEs ? "147+ Reseñas 5 Estrellas" : "147+ Five-Star Reviews"}</span>
+                <span className={styles.heroTrustItem}>⭐ {isEs ? "159+ Reseñas 5 Estrellas" : "159+ Five-Star Reviews"}</span>
                 <span className={styles.heroTrustItem}>✓ {isEs ? "23+ Años de Experiencia" : "23+ Years Experience"}</span>
                 <span className={styles.heroTrustItem}>🗣 {isEs ? "Bilingüe EN/ES" : "Bilingual EN/ES"}</span>
               </div>
@@ -665,7 +665,7 @@ export default async function HomePage({ params }: Props) {
               </div>
             </div>
             <div className={styles.statItem}>
-              <div className={styles.statNumber}>147+</div>
+              <div className={styles.statNumber}>159+</div>
               <div className={styles.statLabel}>
                 {isEs ? "Reseñas de 5 Estrellas" : "Five-Star Reviews"}
               </div>

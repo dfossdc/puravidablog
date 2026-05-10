@@ -128,8 +128,8 @@ export default async function ElMejorQuiropracticoPage({ params }: Props) {
     knowsLanguage: ["en", "es"],
     aggregateRating: {
       "@type": "AggregateRating",
-      ratingValue: "4.9",
-      reviewCount: "147",
+      ratingValue: "4.8",
+      reviewCount: "159",
       bestRating: "5",
       worstRating: "1",
     },
@@ -159,7 +159,7 @@ export default async function ElMejorQuiropracticoPage({ params }: Props) {
   const faqs = [
     {
       q: "¿Qué hace que un quiropráctico sea \"el mejor\" en San Antonio?",
-      a: "Tres factores: experiencia clínica medible (años en práctica + número de pacientes atendidos), certificaciones avanzadas más allá de la licencia básica (en nuestro caso, certificación SOT Avanzada por SORSI), y reseñas verificadas de pacientes reales. El Dr. Dan Foss tiene 23+ años de práctica continua en San Antonio, certificación SOT Avanzada (rara en San Antonio), y más de 147 reseñas de 5 estrellas en Google.",
+      a: "Tres factores: experiencia clínica medible (años en práctica + número de pacientes atendidos), certificaciones avanzadas más allá de la licencia básica (en nuestro caso, certificación SOT Avanzada por SORSI), y reseñas verificadas de pacientes reales. El Dr. Dan Foss tiene 23+ años de práctica continua en San Antonio, certificación SOT Avanzada (rara en San Antonio), y más de 159 reseñas de 5 estrellas en Google.",
     },
     {
       q: "¿Cómo escojo el mejor quiropráctico para mí en San Antonio?",
@@ -225,7 +225,7 @@ export default async function ElMejorQuiropracticoPage({ params }: Props) {
                 </a>
               </div>
               <div className={styles.heroBadges}>
-                <span className={styles.badge}>⭐ 147+ {isEs ? "Reseñas de 5 Estrellas" : "5-Star Reviews"}</span>
+                <span className={styles.badge}>⭐ 159+ {isEs ? "Reseñas de 5 Estrellas" : "5-Star Reviews"}</span>
                 <span className={styles.badge}>✓ {isEs ? "23+ Años de Experiencia" : "23+ Years Experience"}</span>
                 <span className={styles.badge}>🌎 {isEs ? "Bilingüe" : "Bilingual"}</span>
                 <span className={styles.badge}>🏆 SOT {isEs ? "Certificado Avanzado" : "Advanced Certified"}</span>
@@ -247,7 +247,7 @@ export default async function ElMejorQuiropracticoPage({ params }: Props) {
         {/* Stats bar */}
         <div className={styles.stats}>
           <div className={styles.stat}><span className={styles.statNum}>23+</span><span className={styles.statLabel}>{isEs ? "Años de Experiencia" : "Years Experience"}</span></div>
-          <div className={styles.stat}><span className={styles.statNum}>147+</span><span className={styles.statLabel}>{isEs ? "Reseñas de Google" : "Google Reviews"}</span></div>
+          <div className={styles.stat}><span className={styles.statNum}>159+</span><span className={styles.statLabel}>{isEs ? "Reseñas de Google" : "Google Reviews"}</span></div>
           <div className={styles.stat}><span className={styles.statNum}>5</span><span className={styles.statLabel}>{isEs ? "Países de Práctica" : "Countries Practiced"}</span></div>
           <div className={styles.stat}><span className={styles.statNum}>SOT</span><span className={styles.statLabel}>{isEs ? "Certificación Avanzada" : "Advanced Certified"}</span></div>
         </div>
@@ -358,8 +358,8 @@ export default async function ElMejorQuiropracticoPage({ params }: Props) {
             </h2>
             <p className={styles.p}>
               {isEs
-                ? "Con más de 147 reseñas de 5 estrellas en Google, Pura Vida Chiropractic es consistentemente reconocida como la mejor clínica quiropráctica en San Antonio. Estos son solo algunos testimonios de nuestros pacientes satisfechos."
-                : "With over 147 five-star Google reviews, Pura Vida Chiropractic is consistently recognized as the top chiropractic clinic in San Antonio. Here are just a few testimonials from our satisfied patients."}
+                ? "Con más de 159 reseñas de 5 estrellas en Google, Pura Vida Chiropractic es consistentemente reconocida como la mejor clínica quiropráctica en San Antonio. Estos son solo algunos testimonios de nuestros pacientes satisfechos."
+                : "With over 159 five-star Google reviews, Pura Vida Chiropractic is consistently recognized as the top chiropractic clinic in San Antonio. Here are just a few testimonials from our satisfied patients."}
             </p>
             <div className={styles.reviewGrid}>
               {googleReviews.map((r, i) => (

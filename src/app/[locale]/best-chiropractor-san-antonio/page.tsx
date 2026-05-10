@@ -94,7 +94,7 @@ const whyPuraVida = [
   { en: "23+ years of chiropractic practice across 4 countries", es: "23+ años de práctica quiropráctica en 4 países" },
   { en: "Trained at Parker College of Chiropractic, cum laude", es: "Formado en Parker College of Chiropractic, cum laude" },
   { en: "Webster Technique certified for safe prenatal care", es: "Certificado en Técnica Webster para cuidado prenatal seguro" },
-  { en: "147+ five-star Google reviews from real San Antonio patients", es: "147+ reseñas de 5 estrellas en Google de pacientes reales de San Antonio" },
+  { en: "159+ five-star Google reviews from real San Antonio patients", es: "159+ reseñas de 5 estrellas en Google de pacientes reales de San Antonio" },
   { en: "Fully bilingual practice — English & Spanish, no translator needed", es: "Práctica completamente bilingüe — inglés y español, sin traductor" },
   { en: "Class IV laser, SoftWave shockwave, and advanced decompression therapy", es: "Láser Clase IV, terapia SoftWave y terapia de descompresión avanzada" },
   { en: "Treats 90+ conditions — from back pain to infant colic to ADHD", es: "Trata 90+ condiciones — desde dolor de espalda hasta cólicos infantiles y TDAH" },
@@ -106,11 +106,11 @@ const faqs = [
   {
     en: {
       q: "Who is the best chiropractor in San Antonio TX?",
-      a: "The 'best' chiropractor depends on your specific needs. Pura Vida Chiropractic is consistently rated a top chiropractor in San Antonio with 147+ five-star Google reviews, an Advanced SOT certification (rare in the area), 23+ years of experience under Dr. Dan Foss, DC, and bilingual care. Book a free evaluation at (210) 685-1994 to see if we're the right fit.",
+      a: "The 'best' chiropractor depends on your specific needs. Pura Vida Chiropractic is consistently rated a top chiropractor in San Antonio with 159+ five-star Google reviews, an Advanced SOT certification (rare in the area), 23+ years of experience under Dr. Dan Foss, DC, and bilingual care. Book a free evaluation at (210) 685-1994 to see if we're the right fit.",
     },
     es: {
       q: "¿Quién es el mejor quiropráctico en San Antonio TX?",
-      a: "El 'mejor' quiropráctico depende de sus necesidades específicas. Pura Vida Chiropractic está constantemente calificado entre los mejores quiroprácticos de San Antonio con 147+ reseñas de 5 estrellas, certificación SOT Avanzada (rara en el área), 23+ años de experiencia con el Dr. Dan Foss, DC, y atención bilingüe. Reserve una evaluación gratuita al (210) 685-1994.",
+      a: "El 'mejor' quiropráctico depende de sus necesidades específicas. Pura Vida Chiropractic está constantemente calificado entre los mejores quiroprácticos de San Antonio con 159+ reseñas de 5 estrellas, certificación SOT Avanzada (rara en el área), 23+ años de experiencia con el Dr. Dan Foss, DC, y atención bilingüe. Reserve una evaluación gratuita al (210) 685-1994.",
     },
   },
   {
@@ -186,8 +186,8 @@ export default async function BestChiropractorPage({ params }: Props) {
     },
     aggregateRating: {
       "@type": "AggregateRating",
-      ratingValue: "4.9",
-      reviewCount: "147",
+      ratingValue: "4.8",
+      reviewCount: "159",
       bestRating: "5",
       worstRating: "1",
     },

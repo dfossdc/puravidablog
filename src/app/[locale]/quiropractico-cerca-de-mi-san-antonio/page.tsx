@@ -313,8 +313,8 @@ export default async function QuiropracticoCercaDeMiSanAntonioPage({ params }: P
             </h1>
             <p className={styles.heroSub}>
               {isEs
-                ? "¿Está buscando un quiropráctico cerca de mí en San Antonio TX que hable español? En Pura Vida Chiropractic, el Dr. Dan Foss, DC y todo el equipo lo atienden completamente en español. Más de 23 años de experiencia, 147+ reseñas de 5 estrellas, y atención personalizada para toda su familia. Su primera evaluación es gratuita."
-                : "Looking for a Spanish-speaking chiropractor near you in San Antonio, TX? At Pura Vida Chiropractic, Dr. Dan Foss, DC and the entire team serve you completely in Spanish (and English). 23+ years of experience, 147+ five-star reviews, and personalized care for your whole family. Your first evaluation is free."}
+                ? "¿Está buscando un quiropráctico cerca de mí en San Antonio TX que hable español? En Pura Vida Chiropractic, el Dr. Dan Foss, DC y todo el equipo lo atienden completamente en español. Más de 23 años de experiencia, 159+ reseñas de 5 estrellas, y atención personalizada para toda su familia. Su primera evaluación es gratuita."
+                : "Looking for a Spanish-speaking chiropractor near you in San Antonio, TX? At Pura Vida Chiropractic, Dr. Dan Foss, DC and the entire team serve you completely in Spanish (and English). 23+ years of experience, 159+ five-star reviews, and personalized care for your whole family. Your first evaluation is free."}
             </p>
             <div className={styles.heroActions}>
               <a href="https://puravidasanantonio.com/special/" target="_blank" rel="noopener noreferrer" className={styles.heroBtn}>
@@ -324,7 +324,7 @@ export default async function QuiropracticoCercaDeMiSanAntonioPage({ params }: P
             </div>
             <div className={styles.heroBadges}>
               <span className={styles.badge}>{isEs ? "Bilingüe Inglés/Español" : "Bilingual EN/ES"}</span>
-              <span className={styles.badge}>⭐ 4.9/5 Google</span>
+              <span className={styles.badge}>⭐ 4.8/5 Google</span>
               <span className={styles.badge}>{isEs ? "23+ años" : "23+ years"}</span>
               <span className={styles.badge}>{isEs ? "Insurance Friendly" : "Insurance Friendly"}</span>
               <span className={styles.badge}>{isEs ? "Primera visita gratis" : "Free first visit"}</span>

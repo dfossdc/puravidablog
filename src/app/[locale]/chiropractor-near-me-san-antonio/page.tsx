@@ -75,11 +75,11 @@ const faqs = [
   {
     en: {
       q: "What's the closest chiropractor to me right now?",
-      a: "If you're searching 'chiropractor near me' from anywhere in San Antonio, Pura Vida Chiropractic is likely your closest top-rated option. We hold a 4.9-star Google rating across 147+ reviews, are insurance friendly, and offer a free first evaluation. Open Monday, Tuesday, and Thursday 7 AM – 4 PM.",
+      a: "If you're searching 'chiropractor near me' from anywhere in San Antonio, Pura Vida Chiropractic is likely your closest top-rated option. We hold a 4.8-star Google rating across 159+ reviews, are insurance friendly, and offer a free first evaluation. Open Monday, Tuesday, and Thursday 7 AM – 4 PM.",
     },
     es: {
       q: "¿Cuál es el quiropráctico más cercano a mí ahora mismo?",
-      a: "Si está buscando 'quiropráctico cerca de mí' desde cualquier parte de San Antonio, Pura Vida Chiropractic probablemente es su opción mejor calificada más cercana. Tenemos calificación de 4.9 estrellas en Google con 147+ reseñas, somos insurance friendly, y ofrecemos primera evaluación gratis.",
+      a: "Si está buscando 'quiropráctico cerca de mí' desde cualquier parte de San Antonio, Pura Vida Chiropractic probablemente es su opción mejor calificada más cercana. Tenemos calificación de 4.8 estrellas en Google con 159+ reseñas, somos insurance friendly, y ofrecemos primera evaluación gratis.",
     },
   },
   {
@@ -225,8 +225,8 @@ export default async function ChiropractorNearMePage({ params }: Props) {
               <a href="tel:+12106851994" className={styles.heroPhone}>📞 (210) 685-1994</a>
             </div>
             <div className={styles.heroBadges}>
-              <span className={styles.badge}>⭐ 4.9/5 Google</span>
-              <span className={styles.badge}>147+ {isEs ? "reseñas" : "reviews"}</span>
+              <span className={styles.badge}>⭐ 4.8/5 Google</span>
+              <span className={styles.badge}>159+ {isEs ? "reseñas" : "reviews"}</span>
               <span className={styles.badge}>{isEs ? "Bilingüe" : "Bilingual EN/ES"}</span>
               <span className={styles.badge}>{isEs ? "23+ años" : "23+ years"}</span>
               <span className={styles.badge}>{isEs ? "Insurance Friendly" : "Insurance Friendly"}</span>

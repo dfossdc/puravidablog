@@ -131,8 +131,8 @@ export default async function ConditionChiropractorPage({ params, content }: Pro
     knowsLanguage: ["en", "es"],
     aggregateRating: {
       "@type": "AggregateRating",
-      ratingValue: "4.9",
-      reviewCount: "147",
+      ratingValue: "4.8",
+      reviewCount: "159",
       bestRating: "5",
       worstRating: "1",
     },
@@ -192,8 +192,8 @@ export default async function ConditionChiropractorPage({ params, content }: Pro
               <a href={PHONE_TEL} className={styles.heroPhone}>📞 {PHONE_DISPLAY}</a>
             </div>
             <div className={styles.heroBadges}>
-              <span className={styles.badge}>⭐ 4.9/5 Google</span>
-              <span className={styles.badge}>147+ {isEs ? "reseñas" : "reviews"}</span>
+              <span className={styles.badge}>⭐ 4.8/5 Google</span>
+              <span className={styles.badge}>159+ {isEs ? "reseñas" : "reviews"}</span>
               <span className={styles.badge}>{isEs ? "Bilingüe" : "Bilingual EN/ES"}</span>
               <span className={styles.badge}>{isEs ? "23+ años" : "23+ years"}</span>
               <span className={styles.badge}>{isEs ? "Insurance Friendly" : "Insurance Friendly"}</span>

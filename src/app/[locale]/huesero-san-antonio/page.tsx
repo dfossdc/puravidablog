@@ -131,8 +131,8 @@ export default async function HueseroSanAntonioPage({ params }: Props) {
     knowsLanguage: ["es", "en"],
     aggregateRating: {
       "@type": "AggregateRating",
-      ratingValue: "4.9",
-      reviewCount: "147",
+      ratingValue: "4.8",
+      reviewCount: "159",
       bestRating: "5",
       worstRating: "1",
     },
@@ -188,7 +188,7 @@ export default async function HueseroSanAntonioPage({ params }: Props) {
               <span className={styles.badge}>Bilingüe español/inglés</span>
               <span className={styles.badge}>Licenciado en Texas</span>
               <span className={styles.badge}>23+ años de experiencia</span>
-              <span className={styles.badge}>4.9⭐ Google · 147+ reseñas</span>
+              <span className={styles.badge}>4.8⭐ Google · 159+ reseñas</span>
               <span className={styles.badge}>Insurance friendly</span>
             </div>
           </div>
@@ -277,7 +277,7 @@ export default async function HueseroSanAntonioPage({ params }: Props) {
               <li><span className={styles.checkMark}>✓</span><span>Más de 23 años de experiencia, incluyendo años practicando en Costa Rica, España e Irlanda</span></li>
               <li><span className={styles.checkMark}>✓</span><span>Certificación SOT Avanzada — única en San Antonio, ideal para casos complejos</span></li>
               <li><span className={styles.checkMark}>✓</span><span>Certificación Webster Technique para cuidado prenatal seguro</span></li>
-              <li><span className={styles.checkMark}>✓</span><span>147+ reseñas de 5 estrellas en Google de pacientes reales de San Antonio</span></li>
+              <li><span className={styles.checkMark}>✓</span><span>159+ reseñas de 5 estrellas en Google de pacientes reales de San Antonio</span></li>
               <li><span className={styles.checkMark}>✓</span><span>Insurance friendly</span></li>
               <li><span className={styles.checkMark}>✓</span><span>Primera evaluación completamente gratis — sin compromiso</span></li>
               <li><span className={styles.checkMark}>✓</span><span>Atendemos a familias del Westside, Marbach, South SA, East SA y suburbios</span></li>
