@@ -113,6 +113,9 @@ export default async function RootLayout({ children }: { children: React.ReactNo
           <meta name="robots" content="noindex, nofollow" />
         )}
         <link rel="preconnect" href="https://i.ytimg.com" />
+        <link rel="alternate" type="application/rss+xml" title="Pura Vida Chiropractic — Blog" href="/feed.xml" />
+        <link rel="alternate" type="application/rss+xml" title="Blog (English)" href="/en/feed.xml" />
+        <link rel="alternate" type="application/rss+xml" title="Blog (Español)" href="/es/feed.xml" />
         {/*
           Set <html lang> based on the URL path. Runs before page hydration
           so that crawlers and analytics see the correct lang attribute.

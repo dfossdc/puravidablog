@@ -240,6 +240,12 @@ export default async function BlogPost({ params }: Props) {
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
         />
+        {post.customSchema && (
+          <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{ __html: JSON.stringify(post.customSchema) }}
+          />
+        )}
         <article className={styles.article}>
           <Link href={`/${locale}/blog`} className={styles.back}>
             {isEs ? "← Volver al blog" : "← Back to blog"}
