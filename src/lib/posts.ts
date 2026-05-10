@@ -39,6 +39,8 @@ export interface PostFrontmatter {
    * (safe — no broken links — but loses bilingual SEO benefit until paired).
    */
   translatedSlug?: string;
+  /** Optional JSON-LD schema object to render in the page head (e.g. MedicalCondition). */
+  customSchema?: Record<string, unknown>;
 }
 
 export interface FaqItem {
@@ -218,6 +220,7 @@ export async function fetchPostBySlug(slug: string, lang: string): Promise<Post 
     headings,
     mentions: Array.isArray(data.mentions) ? data.mentions : undefined,
     translatedSlug: typeof data.translatedSlug === "string" ? data.translatedSlug : undefined,
+    customSchema: data.customSchema && typeof data.customSchema === "object" ? data.customSchema : undefined,
   };
 }
 
