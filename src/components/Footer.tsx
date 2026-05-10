@@ -87,8 +87,15 @@ export default function Footer({ locale }: FooterProps) {
             <h4 className={styles.quickTitle}>{isEs ? "Acceso Rápido" : "Quick Links"}</h4>
             <ul className={styles.quickList}>
               <li><Link href={`/${locale}/about`}>{isEs ? "Sobre Nosotros" : "About"}</Link></li>
+              <li><Link href={`/${locale}/meet-dr-foss`}>{isEs ? "Conozca al Dr. Foss" : "Meet Dr. Foss"}</Link></li>
               <li><Link href={`/${locale}/services/chiropractic-care`}>{isEs ? "Servicios" : "Services"}</Link></li>
+              <li><Link href={`/${locale}/conditions`}>{isEs ? "Condiciones que Tratamos" : "Conditions We Treat"}</Link></li>
+              <li><Link href={`/${locale}/sot`}>{isEs ? "Técnica SOT" : "SOT Technique"}</Link></li>
               <li><Link href={`/${locale}/blog`}>Blog</Link></li>
+              <li><Link href={`/${locale}/testimonials`}>{isEs ? "Testimonios" : "Testimonials"}</Link></li>
+              <li><Link href={`/${locale}/faq`}>FAQ</Link></li>
+              <li><Link href={`/${locale}/office-hours`}>{isEs ? "Horario" : "Office Hours"}</Link></li>
+              <li><Link href={`/${locale}/provider-referral`}>{isEs ? "Para Profesionales" : "For Providers"}</Link></li>
               <li><Link href={`/${locale}/contact`}>{isEs ? "Contacto" : "Contact"}</Link></li>
             </ul>
             <h4 className={styles.quickTitle}>{isEs ? "Páginas Populares" : "Popular Pages"}</h4>
