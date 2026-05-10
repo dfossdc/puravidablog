@@ -31,6 +31,11 @@ export default function LocalBusinessSchema() {
         "opens": "07:00",
         "closes": "16:00",
       },
+      {
+        "@type": "OpeningHoursSpecification",
+        "description": "Additional times by appointment",
+        "dayOfWeek": ["Wednesday", "Friday", "Saturday"],
+      },
     ],
     "sameAs": [
       "https://www.facebook.com/puravidasanantonio/",

@@ -30,10 +30,32 @@
   text-decoration: underline;
 }
 
+.spanishBadge {
+  background: rgba(255, 255, 255, 0.2);
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  border-radius: 4px;
+  padding: 0.15rem 0.5rem;
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: #ffffff;
+  letter-spacing: 0.01em;
+}
+
 .meta {
   font-size: 0.85rem;
   color: rgba(255, 255, 255, 0.92);
   font-weight: 600;
+}
+
+.bookLink {
+  color: #ffffff;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+.bookLink:hover {
+  color: #ffffff;
+  text-decoration-thickness: 2px;
 }
 
 @media (max-width: 640px) {
@@ -43,6 +65,9 @@
   }
   .callLink {
     font-size: 0.95rem;
+  }
+  .spanishBadge {
+    display: none;
   }
   .meta {
     display: none;

@@ -9,6 +9,7 @@ const PHONE_DISPLAY = "(210) 685-1994";
 
 export default function UrgencyBar({ locale }: UrgencyBarProps) {
   const isEs = locale === "es";
+  const bookHref = `/${locale}/book-now`;
 
   return (
     <div className={styles.bar} role="region" aria-label={isEs ? "Llame ahora" : "Call now"}>
@@ -18,12 +19,16 @@ export default function UrgencyBar({ locale }: UrgencyBarProps) {
           className={styles.callLink}
           aria-label={isEs ? "Llamar a Pura Vida Quiropráctica" : "Call Pura Vida Chiropractic"}
         >
-          📞 {isEs ? `Llame Hoy: ${PHONE_DISPLAY}` : `Call Today: ${PHONE_DISPLAY}`}
+          📞 {PHONE_DISPLAY}
         </a>
+        <span className={styles.spanishBadge}>¡Hablamos Español!</span>
         <span className={styles.meta}>
           {isEs
-            ? "¡Hablamos Español! · Lun/Mar/Jue 7am–4pm"
-            : "¡Hablamos Español! · Mon/Tue/Thu 7am–4pm"}
+            ? "Consultas Gratis Disponibles · "
+            : "Free Consultations Available · "}
+          <a href={bookHref} className={styles.bookLink}>
+            {isEs ? "Reservar en Línea →" : "Book Online →"}
+          </a>
         </span>
       </div>
     </div>
