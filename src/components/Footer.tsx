@@ -78,8 +78,9 @@ export default function Footer({ locale }: FooterProps) {
               <span>7:00 AM – 4:00 PM</span>
             </li>
             <li>
-              <span className={styles.day}>{isEs ? "Mié, Vie–Dom" : "Wed, Fri–Sun"}</span>
-              <span>{isEs ? "Cerrado" : "Closed"}</span>
+              <span className={styles.byAppt}>
+                {isEs ? "Horarios adicionales con cita" : "Additional times by appointment"}
+              </span>
             </li>
           </ul>
           <div className={styles.quickLinks}>

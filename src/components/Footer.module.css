@@ -139,6 +139,12 @@
   color: rgba(255, 255, 255, 0.9);
 }
 
+.byAppt {
+  font-size: 0.78rem;
+  font-style: italic;
+  color: rgba(255, 255, 255, 0.7);
+}
+
 /* Quick Links */
 .quickTitle {
   font-size: 0.72rem;

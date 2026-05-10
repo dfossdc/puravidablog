@@ -113,8 +113,9 @@ export default async function ContactPage({ params }: Props) {
                         <span>7:00 AM – 4:00 PM</span>
                       </li>
                       <li>
-                        <span>{isEs ? "Mié / Vie / Sáb / Dom" : "Wed / Fri / Sat / Sun"}</span>
-                        <span>{isEs ? "Cerrado" : "Closed"}</span>
+                        <span style={{ fontStyle: "italic", fontSize: "0.9em", opacity: 0.85 }}>
+                          {isEs ? "Horarios adicionales con cita" : "Additional times by appointment"}
+                        </span>
                       </li>
                     </ul>
                   </div>
