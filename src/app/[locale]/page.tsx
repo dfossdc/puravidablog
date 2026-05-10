@@ -3,20 +3,19 @@ import dynamic from "next/dynamic";
 import Link from "next/link";
 import Image from "next/image";
 import Header from "@/components/Header";
+import Footer from "@/components/Footer";
+import InsuranceSection from "@/components/InsuranceSection";
 import LocalBusinessSchema from "@/components/LocalBusinessSchema";
 import YouTubeFacade from "@/components/YouTubeFacade";
 import styles from "./home.module.css";
 
-// Below-fold components — dynamic-imported to keep them out of the initial
-// client bundle. PageSpeed flagged ~121 KiB of unused JS on mobile (2026-05-10);
-// these four were the dominant chunks. They render server-side via Next.js
-// (loading: () => null avoids flashing skeletons) but their JS only ships when
-// the user scrolls down. ssr: true keeps the HTML in the initial document so
-// SEO crawlers see complete page content. Hero + Header + first YouTubeFacade
-// stay eager because they're above the fold and improve LCP when present.
+// Below-fold CLIENT components — dynamic-imported to keep their JS out of
+// the initial bundle until the user scrolls down. ReviewCarousel ships ~14 KB
+// of "use client" code that doesn't need to load before LCP. Footer +
+// InsuranceSection are Server Components (zero client JS) so they stay
+// eagerly imported — dynamic-importing them would add overhead without
+// shedding any KB.
 const ReviewCarousel = dynamic(() => import("@/components/ReviewCarousel"));
-const InsuranceSection = dynamic(() => import("@/components/InsuranceSection"));
-const Footer = dynamic(() => import("@/components/Footer"));
 
 const BASE_URL = "https://puravidasanantonio.com";
 
