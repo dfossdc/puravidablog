@@ -68,7 +68,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       type: "website",
       images: [
         {
-          url: "/images/dr-foss-banner-custom-1128.jpg",
+          url: "/images/dr-foss-adjusting-patient.jpg",
           width: 1200,
           height: 630,
           alt: "Pura Vida Chiropractic San Antonio",
@@ -77,7 +77,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     },
     twitter: {
       card: "summary_large_image",
-      images: ["/images/dr-foss-banner-custom-1128.jpg"],
+      images: ["/images/dr-foss-adjusting-patient.jpg"],
     },
   };
 }
