@@ -474,6 +474,70 @@ const nextConfig = {
       { source: "/en/tentimonials",                destination: "/en/testimonials",                  permanent: true },
       { source: "/en/servicen/:slug+",             destination: "/en/services/:slug+",               permanent: true },
 
+      // ── GSC May 10 2026: 45 URLs still 404 after first validation ──
+      // Sunday-night batch. Categorized by pattern:
+      //   (1) Spanish slugs incorrectly indexed under /en/blog/
+      //   (2) English slugs incorrectly indexed under /es/blog/
+      //   (3) Missing /es/conditions/ pages — redirect to EN equivalent or index
+      //   (4) Missing /en/conditions/ pages — redirect to conditions index
+      //   (5) Blog post slugs that don't have markdown files — redirect to closest
+      //   (6) Trailing-slash variant of /about-pura-vida-chiropractic/...
+      //   (7) Misc typo cleanups
+      // After deploy: click "Validate Fix" on the 404 bucket in GSC. Google
+      // takes ~3-7 days to recrawl + revalidate.
+
+      // (1) Spanish slugs incorrectly indexed under /en/blog/ → /es/blog/
+      { source: "/en/blog/quiropractico-que-habla-espanol-san-antonio",
+        destination: "/es/blog/quiropractico-que-habla-espanol-san-antonio", permanent: true },
+      { source: "/en/blog/retraso-lenguaje-quiropractica-craneal-ninos-san-antonio",
+        destination: "/es/blog/retraso-lenguaje-quiropractica-craneal-ninos-san-antonio", permanent: true },
+      { source: "/en/blog/como-elegir-quiropractico",
+        destination: "/es/blog/como-elegir-quiropractico", permanent: true },
+      { source: "/en/blog/quiropractico-cerca-de-mi-san-antonio",
+        destination: "/es/blog/quiropractico-cerca-de-mi-san-antonio", permanent: true },
+      { source: "/en/blog/quiropractico-vs-fisioterapeuta",
+        destination: "/es/blog/quiropractico-vs-fisioterapeuta", permanent: true },
+
+      // (2) English slugs incorrectly indexed under /es/blog/ → /en/blog/
+      { source: "/es/blog/x-rays-chiropractic-san-antonio",
+        destination: "/en/blog/x-rays-chiropractic-san-antonio", permanent: true },
+
+      // (3) Missing /es/conditions/ pages — redirect to EN equivalent (which exists)
+      // or /es/conditions index where no EN counterpart is known to exist.
+      { source: "/es/conditions/fibromyalgia",     destination: "/es/conditions", permanent: true },
+      { source: "/es/conditions/dysmenorrhea",     destination: "/es/conditions", permanent: true },
+      { source: "/es/conditions/sinus-congestion", destination: "/es/conditions", permanent: true },
+      { source: "/es/conditions/vertigo",          destination: "/en/conditions/vertigo", permanent: true },
+      { source: "/es/conditions/rib-subluxation",  destination: "/es/conditions", permanent: true },
+      { source: "/es/conditions/tinnitus",         destination: "/es/conditions", permanent: true },
+
+      // (4) Missing /en/conditions/ pages — redirect to conditions index
+      { source: "/en/conditions/heel-spur",        destination: "/en/conditions", permanent: true },
+      { source: "/en/conditions/insomnia",         destination: "/en/conditions", permanent: true },
+
+      // (5) Blog post slugs that 404 — redirect to closest topical match
+      { source: "/en/blog/herniated-disc-chiropractor-san-antonio",
+        destination: "/en/conditions/disc-problems", permanent: true },
+      { source: "/en/blog/shockwave-therapy",
+        destination: "/en/services/shockwave-therapy", permanent: true },
+      { source: "/en/blog/pediatric-prenatal",
+        destination: "/en/services/prenatal-chiropractor", permanent: true },
+      { source: "/es/blog/lesiones-de-auto",
+        destination: "/es/services/lesiones-de-auto", permanent: true },
+      { source: "/es/blog/mi-batalla-en-esta-crisis-economica",
+        destination: "/es/blog", permanent: true },
+      { source: "/es/blog/terapia-ondas-de-choque",
+        destination: "/es/services/terapia-ondas-de-choque", permanent: true },
+
+      // (6) Trailing-slash variant of /about-pura-vida-chiropractic/pura-vida-quiropractica
+      // Even though Next.js strips trailing slash by default, GSC has the
+      // slash-version cached separately. Explicit rule guarantees the match.
+      { source: "/about-pura-vida-chiropractic/pura-vida-quiropractica/",
+        destination: "/es/about", permanent: true },
+
+      // (7) Misc typos
+      { source: "/services/latino-communicy", destination: "/en/services", permanent: true },
+
     ];
   },
 
