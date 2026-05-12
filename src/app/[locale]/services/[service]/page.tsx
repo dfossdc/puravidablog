@@ -65,6 +65,12 @@ const services: Record<"en" | "es", ServiceMap> = {
         "Dr. Foss performs a thorough SOT Category Assessment to determine the exact pattern of imbalance in your body, then designs a personalized care plan to address the root cause of your pain.",
       ],
       schema: { "@type": "MedicalProcedure", "name": "Sacro-Occipital Technique (SOT)", "procedureType": "Chiropractic" },
+      faqs: [
+        { q: "What is Sacro-Occipital Technique (SOT)?", a: "SOT is a gentle, category-based chiropractic system developed by Dr. Major DeJarnette that addresses the spine, pelvis, and craniosacral rhythm as one integrated unit. It uses specially designed wedge-shaped pelvic blocks and gravity to gently realign the pelvis, dural-tension release for the spinal cord's protective membrane system, and cranial bone correction for headache and TMJ patterns. No high-velocity manipulation, no twisting, no popping." },
+        { q: "How is SOT different from regular chiropractic?", a: "Standard chiropractic typically uses high-velocity, low-amplitude thrusts to restore joint motion. SOT instead identifies which of three biomechanical 'categories' a patient falls into and applies a category-specific correction protocol — pelvic blocks for sacral torsion (Category I), trapezius release for SI instability (Category II), or non-rotational adjusting for disc involvement (Category III). The result is comparable or better outcomes with dramatically less force." },
+        { q: "Is SOT chiropractic safe for kids, pregnancy, and seniors?", a: "Yes — SOT is one of the safest chiropractic systems available specifically because it uses gentle, low-force techniques. Dr. Foss is Webster Technique certified (the SOT protocol for pregnancy), has extensive pediatric experience including newborns, and routinely treats elderly patients with osteoporosis and disc disease. The technique scales naturally to each patient's tolerance." },
+        { q: "How many SOT visits does it typically take to feel results?", a: "Most patients notice meaningful improvement within 3–6 visits. A full corrective phase typically runs 10–20 visits over 6–12 weeks depending on the condition and how long it's been present. Maintenance visits monthly help most patients hold the corrected pattern long-term." },
+      ],
     },
     "softwave-therapy": {
       title: "SoftWave Therapy San Antonio | Pura Vida Chiropractic",
@@ -78,6 +84,12 @@ const services: Record<"en" | "es", ServiceMap> = {
         "Treatments are fast (15–20 minutes), non-invasive, and require no downtime. Many San Antonio patients experience significant improvement in as few as 3–6 sessions.",
       ],
       schema: { "@type": "MedicalProcedure", "name": "SoftWave Tissue Regeneration Therapy", "procedureType": "Physical Therapy" },
+      faqs: [
+        { q: "What is SoftWave therapy and how does it work?", a: "SoftWave is FDA-cleared broadfocused shockwave therapy that uses patented unfocused acoustic waves to stimulate tissue regeneration at the cellular level. The waves activate stem cells, increase blood flow, reduce inflammation, and trigger collagen repair in damaged tendons, ligaments, and joint capsules. Unlike traditional 'focused' shockwave, the broadfocused beam covers a larger treatment area with no skin contact required and minimal discomfort." },
+        { q: "What conditions does SoftWave treat?", a: "SoftWave has strong published evidence for plantar fasciitis, Achilles tendinopathy, rotator cuff tendinopathy, tennis and golfer's elbow, trochanteric bursitis, patellar tendinopathy, knee osteoarthritis, and chronic soft-tissue injuries. It's also effective for degenerative disc disease, trigger finger, and post-surgical scar tissue. Most chronic musculoskeletal conditions where conservative care has plateaued respond well to SoftWave." },
+        { q: "How many SoftWave sessions does it typically take?", a: "Most patients see substantial improvement within 3–6 sessions over 3–6 weeks. Chronic conditions (>6 months) may need 6–10 sessions for full regenerative effect. Treatments are 15–20 minutes, non-invasive, and require no downtime — patients return to normal activity immediately afterward." },
+        { q: "Is SoftWave therapy painful?", a: "SoftWave is well-tolerated by most patients. The sensation is described as a tapping or pulsing pressure rather than pain. Intensity is adjusted to each patient's comfort level, and there is no need for anesthetic. Most patients are surprised at how comfortable the procedure is compared to focused shockwave or corticosteroid injection." },
+      ],
     },
     "auto-injury": {
       title: "Auto Injury Chiropractor San Antonio | Pura Vida",
@@ -92,6 +104,12 @@ const services: Record<"en" | "es", ServiceMap> = {
       ],
       videos: ["https://www.youtube.com/embed/08Zh3oOtrag"],
       schema: { "@type": "MedicalProcedure", "name": "Auto Injury Chiropractic Care", "procedureType": "Chiropractic" },
+      faqs: [
+        { q: "When should I see a chiropractor after a car accident?", a: "As soon as you've been medically cleared for non-emergency injuries — ideally within the first 1–2 weeks. Early conservative care produces better long-term outcomes than waiting for symptoms to settle on their own, and prompt treatment is generally important for insurance and personal injury protection (PIP) documentation. Many post-accident symptoms emerge 24–72 hours after the collision, not immediately." },
+        { q: "Do you work with auto insurance and PIP cases?", a: "Yes. We work with auto insurance, personal injury protection (PIP), MedPay, and uninsured/underinsured motorist coverage. Dr. Foss documents care thoroughly for insurance and attorney use, including narrative reports and objective findings. We coordinate with personal injury attorneys when one is involved in the case." },
+        { q: "What injuries do you treat from car accidents?", a: "We treat whiplash, cervical and lumbar facet sprains, post-concussion symptoms, TMJ dysfunction from airbag impact, sacroiliac joint disruption, soft-tissue contusions, and the cumulative musculoskeletal trauma of motor vehicle collisions. SOT is particularly well-suited to whiplash because it avoids the rotational forces that aggravate freshly injured cervical structures." },
+        { q: "How long does post-accident chiropractic care typically take?", a: "Most uncomplicated whiplash and post-accident cases resolve in 12–20 visits over 8–12 weeks. More severe collisions, prior cervical injury, or delayed presentation can extend treatment to 6 months. Insurance and PIP typically cover this corrective course of care when medically documented." },
+      ],
     },
     "pediatric-chiropractor": {
       title: "Pediatric Chiropractor in San Antonio TX | Pura Vida",
@@ -157,6 +175,12 @@ const services: Record<"en" | "es", ServiceMap> = {
         "**Pelvic balance and the Webster Technique:** When the pelvis is misaligned, it may reduce the space available for the developing baby — a condition called intrauterine constraint. A misaligned pelvis can also make it difficult for the baby to get into the best position for delivery, potentially leading to breech presentation or the need for interventions such as c-sections. The Webster Technique specifically addresses sacral and pelvic alignment to optimize the intrauterine environment and support natural, non-invasive birth.",
       ],
       schema: { "@type": "MedicalProcedure", "name": "Prenatal Chiropractic Care", "procedureType": "Chiropractic" },
+      faqs: [
+        { q: "Is prenatal chiropractic safe?", a: "Yes — prenatal chiropractic is one of the most studied and lowest-risk areas of chiropractic practice. The American Pregnancy Association recognizes chiropractic as a safe and effective treatment during pregnancy. Dr. Foss is Webster Technique certified and uses a specialized pregnancy table with no abdominal pressure. Care is appropriate through all three trimesters." },
+        { q: "What is the Webster Technique?", a: "Webster Technique is a specific chiropractic protocol developed for pregnancy that balances the sacrum, releases the round ligaments, and removes uterine ligament tension. By restoring symmetric pelvic biomechanics, it gives the baby optimal room to assume the ideal head-down position. The protocol is widely used to support breech presentation, pelvic pain, and overall pregnancy comfort." },
+        { q: "When should I start prenatal chiropractic care?", a: "The earlier the better — first trimester care addresses early hormonal ligament changes before they create asymmetric pelvic patterns. That said, it is never too late: many patients begin in the third trimester for specific issues like sciatica, breech positioning, or birth preparation. Webster Technique is appropriate at any stage of pregnancy." },
+        { q: "How often should I see a chiropractor during pregnancy?", a: "Most pregnancy patients see Dr. Foss every 2–3 weeks during the first and second trimesters, increasing to weekly in the final 6 weeks. Patients with specific concerns (breech presentation, severe low back pain, prior cesarean) often benefit from more frequent care." },
+      ],
     },
     "pregnancy-chiropractor": {
       title: "Pregnancy Chiropractor San Antonio | Pura Vida Chiropractic",
@@ -172,6 +196,12 @@ const services: Record<"en" | "es", ServiceMap> = {
         "**Your unborn child feels what you feel.** A mother experiencing nerve misalignment and spinal stress passes that tension to her baby. When you address your own spinal health through chiropractic, you are doing a great favor to both of you.",
       ],
       schema: { "@type": "MedicalProcedure", "name": "Pregnancy Chiropractic Care", "procedureType": "Chiropractic" },
+      faqs: [
+        { q: "Is chiropractic care safe throughout pregnancy?", a: "Yes — chiropractic is safe through all three trimesters when delivered by a Webster Technique certified provider like Dr. Foss. The pregnancy table has a cutout for the abdomen, no force is applied to the belly, and adjustment techniques are adapted to the hormonal ligament laxity of pregnancy. The American Pregnancy Association recognizes chiropractic as safe and beneficial during pregnancy." },
+        { q: "How can chiropractic help with pregnancy-related back pain?", a: "Pregnancy back pain comes from the combined effect of postural shift (lordosis), hormonal ligament laxity, weight gain, and pelvic instability. Webster Technique addresses all of these by restoring symmetric pelvic balance and reducing the asymmetric loading that drives most pregnancy lumbar and pelvic girdle pain. Most patients see substantial relief within 2–4 visits." },
+        { q: "Can chiropractic help turn a breech baby?", a: "Webster Technique creates the pelvic and ligament conditions that allow the baby to self-rotate to head-down position. Chiropractors do not physically turn babies (that's external cephalic version, performed by an obstetrician). Most breech babies turn within 2–4 Webster visits when treatment begins between 28–34 weeks." },
+        { q: "Will chiropractic care help me have an easier labor?", a: "Many mothers who receive Webster Technique care throughout pregnancy report shorter, less complicated labors. The mechanism is twofold: optimal fetal positioning (which lets labor progress mechanically as designed) and a balanced pelvis (which avoids the asymmetric stalls that often lead to interventions). Published literature supports both effects." },
+      ],
     },
     "infants-chiropractic": {
       title: "Infant Chiropractor San Antonio | Pura Vida Chiropractic",
@@ -185,6 +215,12 @@ const services: Record<"en" | "es", ServiceMap> = {
         "Infant adjustments are **extremely gentle** — Dr. Foss uses only the pressure of a light fingertip touch on a baby's spine. He also evaluates early reflexes and sucking reflexes to check for any latching issues. In addition to spinal evaluation, Dr. Foss uses **Cranial Chiropractic** to assess and gently adjust the cranial bones of the skull and face, which can assist with latching and free up restrictions in the craniosacral system that affect infant development.",
       ],
       schema: { "@type": "MedicalProcedure", "name": "Infant Chiropractic Care", "procedureType": "Chiropractic" },
+      faqs: [
+        { q: "Is chiropractic safe for newborns and infants?", a: "Yes — pediatric chiropractic uses fingertip-level pressure only, with no popping, twisting, or force. Dr. Foss has years of experience with infants from birth onward and selects the gentlest possible technique. The safety profile of pediatric chiropractic in trained hands is well established in the literature." },
+        { q: "What infant conditions benefit from chiropractic care?", a: "Common infant conditions Dr. Foss treats include colic, reflux, latching and feeding difficulties, torticollis, constipation, recurrent ear infections, sleep disturbances, and the cumulative effects of birth trauma (vacuum extraction, forceps, prolonged labor, cesarean). Cranial chiropractic addresses cranial molding and asymmetric head shape (plagiocephaly)." },
+        { q: "How soon after birth can my baby be evaluated?", a: "Many parents bring newborns in during the first weeks of life — earlier is generally better for resolving birth-related strain patterns before they compound. Care can begin as early as the first few days postpartum. The evaluation is non-invasive and the gentle adjustments use only fingertip pressure." },
+        { q: "How many visits does an infant typically need?", a: "Many infants respond within 1–3 visits — often dramatically. Stable improvement typically develops over 4–8 visits across 3–6 weeks. Cases involving feeding difficulty, torticollis, or tongue tie may require longer integrated care." },
+      ],
     },
     "pediatric-prenatal": {
       title: "Pediatric & Prenatal Chiropractor San Antonio | Pura Vida",
@@ -199,6 +235,12 @@ const services: Record<"en" | "es", ServiceMap> = {
         "Adjustments for infants use no more pressure than a light fingertip touch. Our San Antonio office is a welcoming space for families at every stage of life.",
       ],
       schema: { "@type": "MedicalProcedure", "name": "Pediatric and Prenatal Chiropractic", "procedureType": "Chiropractic" },
+      faqs: [
+        { q: "Why combine pediatric and prenatal care under one practice?", a: "Pediatric and prenatal chiropractic share the same fundamental approach — gentle, low-force techniques that respect the unique physiology of growing bodies and expectant mothers. SOT and Webster Technique form the foundation of both. Many families find it convenient to have a single practice for mom's prenatal care, the newborn evaluation, and ongoing pediatric care through childhood." },
+        { q: "Is the technique used different for kids vs adults?", a: "Yes. Adult chiropractic typically uses more force; pediatric and prenatal chiropractic specifically uses fingertip-level pressure for infants, modified light contact for older children, and Webster-protocol gentle blocking for pregnant patients. Dr. Foss adapts technique to each patient's age, size, and condition." },
+        { q: "Is SOT safe for both children and pregnant women?", a: "Yes — SOT is one of the safest chiropractic systems precisely because it uses gentle, low-force techniques. It's the chiropractic system most commonly used for pediatric and prenatal care because the same low-force approach works across both populations." },
+        { q: "How often should kids and pregnant moms see a chiropractor?", a: "Pregnancy: every 2–3 weeks early on, weekly in the final 6 weeks. Newborns: as needed for specific issues, typically 4–8 visits over a few weeks. Children: as needed for growth-related issues, sports injuries, or postural concerns — often 4–8 visits per concern, then occasional maintenance. Dr. Foss tailors frequency to each patient." },
+      ],
     },
     "shockwave-therapy": {
       title: "Shockwave Therapy San Antonio | Pura Vida Chiropractic",
@@ -212,6 +254,12 @@ const services: Record<"en" | "es", ServiceMap> = {
         "Most patients require 3–6 sessions spaced 1 week apart. The procedure takes 10–15 minutes and is performed in our San Antonio office with no anesthesia or downtime required.",
       ],
       schema: { "@type": "MedicalProcedure", "name": "Shockwave Therapy (ESWT)", "procedureType": "Physical Therapy" },
+      faqs: [
+        { q: "What is the difference between Shockwave (ESWT) and SoftWave?", a: "Both deliver acoustic energy to stimulate tissue regeneration, but ESWT uses focused high-energy waves at a single point, while SoftWave uses broadfocused unfocused waves over a larger area. Focused ESWT is more aggressive and is typically more uncomfortable; SoftWave is gentler and well-tolerated. Both are FDA-cleared. Dr. Foss uses SoftWave as the primary regenerative technology for most musculoskeletal conditions because of the better patient experience and equivalent or better outcomes." },
+        { q: "What conditions does shockwave therapy treat?", a: "Shockwave is clinically proven for plantar fasciitis, Achilles tendinopathy, tennis and golfer's elbow, calcific shoulder tendinitis, patellar tendinopathy, trochanteric bursitis, hip pain, and chronic musculoskeletal conditions that have plateaued with conservative care. The regenerative effect on degenerated tendons makes it particularly valuable for chronic tendinopathy." },
+        { q: "How many shockwave sessions are typical?", a: "Most patients need 3–6 sessions spaced one week apart. The procedure takes 10–15 minutes and requires no anesthesia or downtime. Chronic conditions may require additional sessions. Results often continue improving for 4–6 weeks after the final treatment as the regenerative cascade completes." },
+        { q: "Does shockwave therapy hurt?", a: "Focused ESWT can be uncomfortable; broadfocused SoftWave is much better tolerated. Intensity is adjusted to each patient's comfort level. Most patients describe the sensation as a tapping pressure rather than pain. No anesthetic is needed for either modality." },
+      ],
     },
     "class-iv-laser": {
       title: "Class IV Laser Therapy San Antonio | Pura Vida Chiropractic",
@@ -225,6 +273,12 @@ const services: Record<"en" | "es", ServiceMap> = {
         "Laser therapy sessions are painless — most patients feel a gentle warmth — and typically last 5–15 minutes. Many San Antonio patients notice reduced pain and improved function within their first few treatments.",
       ],
       schema: { "@type": "MedicalProcedure", "name": "Class IV Laser Therapy", "procedureType": "Physical Therapy" },
+      faqs: [
+        { q: "What is Class IV laser therapy and how does it work?", a: "Class IV laser therapy (photobiomodulation, PBM) uses specific wavelengths of light (typically 800–980 nm) at therapeutic power levels (10–15 watts) to penetrate deep into tissues. The light energy stimulates mitochondrial activity, accelerating ATP production and triggering a cascade of healing effects — reduced inflammation, improved circulation, faster cellular repair, and pain reduction." },
+        { q: "What conditions does Class IV laser treat?", a: "Class IV laser is effective for arthritis, disc herniation, peripheral neuropathy (including diabetic and chemotherapy-induced), sciatica, plantar fasciitis, sports injuries, post-surgical recovery, chronic muscle pain, tendinopathy, and TMJ inflammation. It's particularly valuable for conditions where deep tissue inflammation is a driver." },
+        { q: "Does laser therapy hurt?", a: "No — laser therapy is painless. Most patients feel a gentle, comfortable warmth as the laser energy penetrates. Sessions typically last 5–15 minutes depending on the area treated. No anesthetic, no downtime, no recovery period required after the session." },
+        { q: "How many laser therapy sessions does it take to see results?", a: "Most patients notice reduced pain and improved function within the first 3–5 sessions. Chronic conditions typically require 8–15 sessions for full effect. Laser therapy is often combined with chiropractic adjustment and SoftWave therapy for compounding benefits." },
+      ],
     },
 
     // ── New services ───────────────────────────────────────────────────────
@@ -241,6 +295,12 @@ const services: Record<"en" | "es", ServiceMap> = {
         "Dr. Foss's approach goes beyond pain relief — it's about restoring your body's innate ability to heal and function at its highest level.",
       ],
       schema: { "@type": "MedicalProcedure", "name": "Chiropractic Care", "procedureType": "Chiropractic" },
+      faqs: [
+        { q: "What does a chiropractor actually do?", a: "Chiropractors diagnose and treat musculoskeletal disorders — particularly those involving the spine, joints, and nervous system. The core intervention is the chiropractic adjustment: a precise, controlled force applied to a joint to restore proper motion and reduce nerve irritation. Dr. Foss uses over 300 chiropractic techniques, with Sacro-Occipital Technique (SOT) as the primary approach because it's gentle, comprehensive, and addresses the whole body as an integrated unit." },
+        { q: "What conditions can chiropractic care treat?", a: "Dr. Foss treats 99+ distinct conditions — from common patterns like back pain, neck pain, headaches, sciatica, and disc problems to specialty areas like pregnancy chiropractic (Webster certified), pediatric care, TMJ, vertigo, fibromyalgia, auto accident injuries, and post-concussion syndrome. The complete list is at /en/conditions." },
+        { q: "Is chiropractic care safe?", a: "Yes — chiropractic care has a very strong safety record, particularly when delivered using gentle techniques like SOT rather than high-velocity manipulation. Adverse events are extremely rare. Dr. Foss screens for any contraindications (severe osteoporosis, certain disc patterns, vascular risk factors) before initiating care and selects technique based on each patient's age, condition, and tolerance." },
+        { q: "How many chiropractic visits do I need?", a: "Most conditions require an initial corrective phase of 8–20 visits, followed by tapered maintenance care. Acute issues often resolve in 4–8 visits; chronic conditions typically need 12–24 visits for stable resolution. Dr. Foss provides a clear treatment plan at the first visit and reassesses every 4–6 visits." },
+      ],
     },
     "cranial-chiropractic": {
       title: "Cranial Chiropractor in San Antonio TX | Pura Vida",
@@ -308,6 +368,12 @@ const services: Record<"en" | "es", ServiceMap> = {
         "Common conditions treated in infants include **colic, feeding difficulties, torticollis, reflux, and sleep disturbances**. Early intervention can prevent these issues from affecting your baby's development long-term.",
       ],
       schema: { "@type": "MedicalProcedure", "name": "Infant Chiropractic Care", "procedureType": "Chiropractic" },
+      faqs: [
+        { q: "How early can a baby see a chiropractor?", a: "Infant chiropractic can begin in the first days of life. Earlier is generally better — the goal is to release birth-related strain patterns before they compound and affect feeding, sleep, and development. Dr. Foss has extensive experience with newborns and uses fingertip-level pressure only." },
+        { q: "What does an infant chiropractic adjustment feel like?", a: "Infant adjustments use no more pressure than you'd apply to test the ripeness of a tomato — typically the pressure of a fingertip on a closed eyelid. There's no popping, twisting, or force. Most babies are calm or fall asleep during the session." },
+        { q: "What infant problems benefit from chiropractic care?", a: "Common conditions include colic, reflux, latching and feeding difficulties, torticollis (head tilt), constipation, recurrent ear infections, sleep disturbances, and the cumulative effects of birth trauma (vacuum extraction, forceps, prolonged labor, cesarean). Cranial work addresses asymmetric head shape (plagiocephaly)." },
+        { q: "Is infant chiropractic supported by evidence?", a: "Yes — the body of evidence for pediatric chiropractic, particularly for colic and feeding-related issues, has grown substantially. The International Chiropractic Pediatric Association (ICPA) maintains the research literature. Dr. Foss has trained extensively in pediatric chiropractic and has years of clinical experience with infants." },
+      ],
     },
     "pediatric-chiropractic": {
       title: "Pediatric Chiropractor San Antonio | Pura Vida Chiropractic",
@@ -322,6 +388,12 @@ const services: Record<"en" | "es", ServiceMap> = {
         "Common pediatric conditions Dr. Foss treats include colic, ear infections, torticollis, scoliosis, sports injuries, growing pains, ADHD-related tension, and postural problems. Adjustments for children are gentle, safe, and adapted to each child's age and size.",
       ],
       schema: { "@type": "MedicalProcedure", "name": "Pediatric Chiropractic", "procedureType": "Chiropractic" },
+      faqs: [
+        { q: "Why should my child see a chiropractor?", a: "Children experience countless physical stresses — birth itself, falls during early walking, backpacks, screen time, sports, and the cumulative effect of postural patterns. Pediatric chiropractic addresses these stresses before they compound into adult musculoskeletal patterns. Dr. Foss has 23+ years of pediatric experience treating children from infancy through teen years." },
+        { q: "What pediatric conditions does Dr. Foss treat?", a: "Common pediatric concerns include colic, ear infections, torticollis, scoliosis monitoring, sports injuries, growing pains, ADHD-related muscular tension, postural problems (text neck, backpack patterns), constipation, bedwetting, and recurrent illness. Many of these have a structural component that pediatric chiropractic addresses directly." },
+        { q: "Are pediatric chiropractic adjustments safe?", a: "Yes — pediatric chiropractic uses techniques specifically appropriate for children's developing spines: gentle, low-force, and age-adapted. Dr. Foss never uses adult-intensity manipulation on children. The safety profile of pediatric chiropractic in trained hands is well established." },
+        { q: "How often should my child see a chiropractor?", a: "Frequency depends on the child's specific situation. Acute issues (sports injury, growth-related pain) typically need 4–8 visits. Children with ongoing concerns benefit from monthly check-ins. Many families bring children in periodically during growth spurts for preventive evaluation." },
+      ],
     },
     "pregnancy-chiropractic": {
       title: "Pregnancy Chiropractor San Antonio | Pura Vida Chiropractic",
@@ -336,6 +408,12 @@ const services: Record<"en" | "es", ServiceMap> = {
         "Pregnancy chiropractic care is safe throughout all trimesters, **drug-free**, and works as a powerful complement to your OB or midwife's care.",
       ],
       schema: { "@type": "MedicalProcedure", "name": "Pregnancy Chiropractic (Webster Technique)", "procedureType": "Chiropractic" },
+      faqs: [
+        { q: "How can chiropractic care help me during pregnancy?", a: "Webster Technique addresses the structural changes of pregnancy — shifting center of gravity, hormonal ligament laxity, pelvic widening, and the postural compensations that drive low back pain, sciatica, round ligament pain, and pelvic girdle pain. Most pregnancy patients report substantial reduction in pain, improved sleep, and better overall comfort within several visits." },
+        { q: "Is chiropractic care safe during pregnancy?", a: "Yes — Webster Technique is one of the safest and most well-studied chiropractic protocols for pregnancy. The American Pregnancy Association recognizes chiropractic as safe during pregnancy. The specialized pregnancy table has no abdominal pressure, adjustments are gentle and Webster-protocol specific, and Dr. Foss is certified through ICPA." },
+        { q: "Can chiropractic help with a breech baby?", a: "Webster Technique creates the pelvic conditions that allow the baby to self-rotate to head-down. Most breech babies turn within 2–4 visits when treatment starts between 28–34 weeks. Chiropractors do not physically turn babies (that's ECV, performed by obstetricians); Webster works indirectly by optimizing the pelvic environment." },
+        { q: "How early in pregnancy should I start chiropractic care?", a: "The earlier the better — first trimester care addresses hormonal ligament changes before asymmetric patterns develop. But it's never too late: many patients begin in the third trimester for specific issues like sciatica, breech, or birth preparation. Webster is appropriate at any stage." },
+      ],
     },
     "auto-injury-chiropractic": {
       title: "Auto Injury Chiropractor San Antonio | Pura Vida",
@@ -350,6 +428,12 @@ const services: Record<"en" | "es", ServiceMap> = {
         "Dr. Foss provides thorough evaluation and documentation of auto accident injuries, and works with personal injury attorneys when needed. Early chiropractic intervention reduces recovery time and prevents acute injuries from becoming long-term conditions. [Read about auto injury recovery →](/en/blog/auto-injury)",
       ],
       schema: { "@type": "MedicalProcedure", "name": "Auto Injury Chiropractic", "procedureType": "Chiropractic" },
+      faqs: [
+        { q: "Should I see a chiropractor even if I feel okay after a car accident?", a: "Yes. Whiplash and other soft-tissue injuries often don't produce symptoms for 24–72 hours — or even longer. Early conservative chiropractic care after a collision produces better long-term outcomes than waiting for chronic pain to develop. Early documentation is also typically important for insurance and personal-injury claims." },
+        { q: "What auto accident injuries does Dr. Foss treat?", a: "Common post-accident conditions include whiplash, cervical and lumbar facet sprains, post-concussion symptoms, TMJ dysfunction from airbag impact, sacroiliac joint disruption, soft-tissue contusions, and the cumulative trauma of motor-vehicle collisions. SOT is particularly well-suited to whiplash cases." },
+        { q: "Do you work with personal injury attorneys?", a: "Yes — Dr. Foss has extensive experience working with personal injury attorneys, documenting injuries thoroughly with narrative reports and objective findings. We coordinate with the attorney on case timing, billing, and final reports. Many attorneys refer their clients to Pura Vida specifically for the quality of documentation." },
+        { q: "Will my insurance cover chiropractic care after an accident?", a: "Most auto policies include Personal Injury Protection (PIP) or MedPay coverage that pays for post-accident chiropractic care. We verify coverage at the first visit and work with your auto insurance, MedPay, or attorney's lien. Bring your accident report, insurance card, and ID to the first visit." },
+      ],
     },
     "wellness-care": {
       title: "Wellness Chiropractic San Antonio | Pura Vida Chiropractic",
@@ -364,6 +448,12 @@ const services: Record<"en" | "es", ServiceMap> = {
         "It integrates chiropractic, osteopathic, manual therapy, and energetic modalities to keep your body performing at its highest level. Many San Antonio families make Pura Vida Chiropractic a cornerstone of their overall health plan.",
       ],
       schema: { "@type": "MedicalProcedure", "name": "Wellness Chiropractic Care", "procedureType": "Chiropractic" },
+      faqs: [
+        { q: "What is wellness chiropractic care?", a: "Wellness chiropractic is proactive, regular care designed to maintain optimal spinal alignment, nervous system function, and overall health — even when you are not in pain. It's analogous to regular dental cleanings or routine exercise: ongoing maintenance prevents the small dysfunctions that compound into symptomatic problems." },
+        { q: "Do I need chiropractic care if I'm not in pain?", a: "Pain is one of the last symptoms a misaligned spine produces. By the time pain shows up, the underlying dysfunction has usually been compounding for months or years. Wellness chiropractic catches and corrects these patterns before they become painful — which is much easier to manage than waiting for chronic conditions to develop." },
+        { q: "How often should I get a wellness adjustment?", a: "Most wellness patients see Dr. Foss every 2–4 weeks for ongoing maintenance. Frequency is adjusted based on age, activity level, occupational factors, and stress load. Active patients and those with prior injuries often benefit from more frequent care than sedentary patients without injury history." },
+        { q: "What's the Pura Vida Protocol?", a: "The Pura Vida Protocol is Dr. Foss's comprehensive wellness approach developed over 23 years of practice. It integrates SOT chiropractic, cranial work, CMRT visceral adjusting, manual therapy, and (when appropriate) Class IV laser and SoftWave therapy. The goal is to address the whole person — structural, neurological, visceral, and energetic — rather than chasing isolated symptoms." },
+      ],
     },
     "latino-community": {
       title: "Bilingual Chiropractor San Antonio | Pura Vida Chiropractic",
@@ -378,6 +468,12 @@ const services: Record<"en" | "es", ServiceMap> = {
         "At Pura Vida, you will never feel like you need to explain yourself twice. Dr. Foss speaks your language — both literally and culturally.",
       ],
       schema: { "@type": "MedicalProcedure", "name": "Bilingual Chiropractic Care", "procedureType": "Chiropractic" },
+      faqs: [
+        { q: "Do you speak Spanish at Pura Vida Chiropractic?", a: "Yes — Pura Vida is a fully bilingual practice. Dr. Foss is fluent in Spanish and the entire team is bilingual. We have practiced in Costa Rica, Spain, and Latin America. All paperwork, signage, patient education materials, and the website itself are available in Spanish at /es. Patients will never need to translate or struggle through care in a non-native language." },
+        { q: "What cultural considerations does Dr. Foss bring to Latino patient care?", a: "Dr. Foss spent significant years practicing in Costa Rica, Spain, Ireland, the Netherlands, and Guatemala, giving him deep familiarity with Latino health perspectives, family-centered care, and the cultural context of musculoskeletal complaints. He understands the role of extended family in healthcare decisions and the cultural barriers many Latino patients face in mainstream medicine." },
+        { q: "Do you offer payment plans for the Latino community?", a: "We are insurance-friendly and offer affordable cash-pay options for patients without insurance. Dr. Foss is committed to making chiropractic accessible to working families in San Antonio. We accept HSA/FSA, payment plans for longer treatment courses, and offer a free new-patient consultation so families can determine fit before financial commitment." },
+        { q: "Where do most of your Spanish-speaking patients come from in San Antonio?", a: "We serve Spanish-speaking families from across San Antonio — including the Westside, Southside, Olmos Park, Castle Hills, Stone Oak, and the broader San Antonio metro area. Our location at 2318 NW Military Hwy is accessible from most of San Antonio. Many patients also come from Helotes and Boerne." },
+      ],
     },
   },
 
@@ -395,6 +491,12 @@ const services: Record<"en" | "es", ServiceMap> = {
         "El Dr. Foss realiza una evaluación completa de la Categoría SOT para determinar el patrón exacto de desequilibrio en su cuerpo y diseñar un plan de atención personalizado para abordar la causa raíz de su dolor.",
       ],
       schema: { "@type": "MedicalProcedure", "name": "Técnica Sacro-Occipital (SOT)", "procedureType": "Chiropractic" },
+      faqs: [
+        { q: "¿Qué es la Técnica Sacro-Occipital (SOT)?", a: "SOT es un sistema quiropráctico suave y basado en categorías desarrollado por el Dr. Major DeJarnette que aborda la columna, la pelvis y el ritmo craneosacro como una unidad integrada. Utiliza bloques pélvicos en forma de cuña especialmente diseñados y la gravedad para realinear suavemente la pelvis, liberación de tensión dural para el sistema de membranas protectoras de la médula espinal, y corrección de huesos craneales para patrones de dolor de cabeza y ATM. Sin manipulación de alta velocidad, sin torsiones, sin chasquidos." },
+        { q: "¿En qué se diferencia SOT de la quiropráctica regular?", a: "La quiropráctica estándar típicamente usa empujes de alta velocidad y baja amplitud para restaurar el movimiento articular. SOT en cambio identifica en cuál de las tres 'categorías' biomecánicas se encuentra un paciente y aplica un protocolo de corrección específico por categoría — bloques pélvicos para la torsión sacra (Categoría I), liberación del trapecio para la inestabilidad SI (Categoría II), o ajuste no rotacional para el compromiso del disco (Categoría III). El resultado es resultados comparables o mejores con dramáticamente menos fuerza." },
+        { q: "¿Es segura la quiropráctica SOT para niños, embarazo y adultos mayores?", a: "Sí — SOT es uno de los sistemas quiroprácticos más seguros disponibles específicamente porque usa técnicas suaves y de baja fuerza. El Dr. Foss está certificado en Técnica Webster (el protocolo SOT para embarazo), tiene amplia experiencia pediátrica incluyendo recién nacidos, y rutinariamente trata pacientes mayores con osteoporosis y enfermedad discal. La técnica se adapta naturalmente a la tolerancia de cada paciente." },
+        { q: "¿Cuántas visitas SOT se necesitan típicamente para sentir resultados?", a: "La mayoría de los pacientes notan mejora significativa dentro de 3–6 visitas. Una fase correctiva completa típicamente toma 10–20 visitas durante 6–12 semanas dependiendo de la condición y cuánto tiempo ha estado presente. Las visitas de mantenimiento mensuales ayudan a la mayoría de los pacientes a mantener el patrón corregido a largo plazo." },
+      ],
     },
     "terapia-softwave": {
       title: "Terapia SoftWave San Antonio | Pura Vida Chiropractic",
@@ -408,6 +510,12 @@ const services: Record<"en" | "es", ServiceMap> = {
         "Los tratamientos son rápidos (15–20 minutos), no invasivos y no requieren tiempo de recuperación. Muchos pacientes de San Antonio experimentan una mejora significativa en tan solo 3–6 sesiones.",
       ],
       schema: { "@type": "MedicalProcedure", "name": "Terapia SoftWave de Regeneración Tisular", "procedureType": "Physical Therapy" },
+      faqs: [
+        { q: "¿Qué es la terapia SoftWave y cómo funciona?", a: "SoftWave es terapia de ondas de choque de enfoque amplio aprobada por la FDA que usa ondas acústicas no enfocadas patentadas para estimular la regeneración tisular a nivel celular. Las ondas activan células madre, aumentan el flujo sanguíneo, reducen la inflamación y desencadenan la reparación de colágeno en tendones, ligamentos y cápsulas articulares dañadas. A diferencia de la ondas de choque focalizada tradicional, el haz de enfoque amplio cubre un área de tratamiento más grande sin contacto con la piel requerido." },
+        { q: "¿Qué condiciones trata SoftWave?", a: "SoftWave tiene fuerte evidencia publicada para fascitis plantar, tendinopatía de Aquiles, tendinopatía del manguito rotador, codo de tenista y golfista, bursitis trocantérica, tendinopatía patelar, osteoartritis de rodilla y lesiones crónicas de tejidos blandos. También es efectiva para enfermedad degenerativa de disco, dedo en gatillo y tejido cicatricial post-quirúrgico." },
+        { q: "¿Cuántas sesiones de SoftWave se necesitan típicamente?", a: "La mayoría de los pacientes ven mejoría sustancial dentro de 3–6 sesiones durante 3–6 semanas. Las condiciones crónicas (>6 meses) pueden necesitar 6–10 sesiones para el efecto regenerativo completo. Los tratamientos son de 15–20 minutos, no invasivos y no requieren tiempo de inactividad." },
+        { q: "¿Es dolorosa la terapia SoftWave?", a: "SoftWave es bien tolerada por la mayoría de los pacientes. La sensación se describe como un golpeteo o presión pulsante en lugar de dolor. La intensidad se ajusta al nivel de comodidad de cada paciente, y no hay necesidad de anestesia." },
+      ],
     },
     "lesiones-de-auto": {
       title: "Quiropráctico Lesiones de Auto San Antonio | Pura Vida",
@@ -422,6 +530,12 @@ const services: Record<"en" | "es", ServiceMap> = {
       ],
       videos: ["https://www.youtube.com/embed/08Zh3oOtrag"],
       schema: { "@type": "MedicalProcedure", "name": "Atención Quiropráctica por Lesiones de Auto", "procedureType": "Chiropractic" },
+      faqs: [
+        { q: "¿Cuándo debo ver a un quiropráctico después de un accidente automovilístico?", a: "Tan pronto como haya sido médicamente autorizado para lesiones no urgentes — idealmente dentro de las primeras 1–2 semanas. El cuidado conservador temprano produce mejores resultados a largo plazo que esperar a que los síntomas se asienten por sí solos, y el tratamiento rápido es generalmente importante para la documentación de seguro y PIP. Muchos síntomas post-accidente surgen 24–72 horas después de la colisión, no inmediatamente." },
+        { q: "¿Trabajan con seguro de auto y casos de PIP?", a: "Sí. Trabajamos con seguro de auto, Protección de Lesiones Personales (PIP), MedPay y cobertura de conductor sin seguro/insuficiente. El Dr. Foss documenta el cuidado exhaustivamente para uso del seguro y abogado. Coordinamos con abogados de lesiones personales cuando hay uno involucrado en el caso." },
+        { q: "¿Qué lesiones tratan de accidentes automovilísticos?", a: "Tratamos latigazo, esguinces facetarios cervicales y lumbares, síntomas post-conmoción, disfunción de ATM por impacto del airbag, disrupción de la articulación sacroilíaca, contusiones de tejidos blandos y el trauma musculoesquelético acumulativo de las colisiones de vehículos motorizados. SOT es particularmente adecuado para latigazo." },
+        { q: "¿Cuánto tiempo dura típicamente el cuidado quiropráctico post-accidente?", a: "La mayoría de los casos de latigazo y post-accidente sin complicaciones se resuelven en 12–20 visitas durante 8–12 semanas. Colisiones más severas, lesión cervical previa o presentación tardía pueden extender el tratamiento a 6 meses. El seguro y PIP típicamente cubren este curso correctivo cuando está médicamente documentado." },
+      ],
     },
     "quiropractico-pediatrico": {
       title: "Quiropráctico Pediátrico San Antonio | Pura Vida",
@@ -436,6 +550,12 @@ const services: Record<"en" | "es", ServiceMap> = {
         "Cuando trabajo con niños, el Dr. Foss adopta un enfoque amigable que involucra al niño y hace que el tratamiento se sienta cómodo. Los ajustes para niños son extremadamente suaves — usando solo la presión de un toque suave de la punta del dedo para bebés y niños pequeños. Incluso los niños muy pequeños se sienten cómodos rápidamente una vez que entienden cómo la quiropráctica vuelve a colocar el cuerpo en la alineación correcta.",
       ],
       schema: { "@type": "MedicalProcedure", "name": "Cuidado Quiropráctico Pediátrico", "procedureType": "Chiropractic" },
+      faqs: [
+        { q: "¿Por qué debería mi hijo ver a un quiropráctico?", a: "Los niños experimentan innumerables estrés físicos — el nacimiento mismo, caídas durante los primeros pasos, mochilas, tiempo frente a pantallas, deportes y el efecto acumulativo de patrones posturales. La quiropráctica pediátrica aborda estos estrés antes de que se conviertan en patrones musculoesqueléticos adultos. El Dr. Foss tiene más de 23 años de experiencia pediátrica tratando niños desde la infancia hasta los años adolescentes." },
+        { q: "¿Qué condiciones pediátricas trata el Dr. Foss?", a: "Las preocupaciones pediátricas comunes incluyen cólicos, infecciones de oído, tortícolis, monitoreo de escoliosis, lesiones deportivas, dolores de crecimiento, tensión muscular relacionada con TDAH, problemas posturales (cuello de texto, patrones de mochila), estreñimiento, enuresis y enfermedades recurrentes. Muchos de estos tienen un componente estructural que la quiropráctica pediátrica aborda directamente." },
+        { q: "¿Son seguros los ajustes quiroprácticos pediátricos?", a: "Sí — la quiropráctica pediátrica usa técnicas específicamente apropiadas para las columnas en desarrollo de los niños: suaves, de baja fuerza y adaptadas a la edad. El Dr. Foss nunca usa manipulación de intensidad adulta en niños. El perfil de seguridad de la quiropráctica pediátrica en manos entrenadas está bien establecido." },
+        { q: "¿Con qué frecuencia debería mi hijo ver a un quiropráctico?", a: "La frecuencia depende de la situación específica del niño. Los problemas agudos (lesión deportiva, dolor relacionado con el crecimiento) típicamente necesitan 4–8 visitas. Los niños con preocupaciones continuas se benefician de chequeos mensuales. Muchas familias traen a los niños periódicamente durante los brotes de crecimiento para evaluación preventiva." },
+      ],
     },
     "quiropractico-prenatal": {
       title: "Quiropráctico Prenatal San Antonio | Pura Vida Chiropractic",
@@ -449,6 +569,12 @@ const services: Record<"en" | "es", ServiceMap> = {
         "**Equilibrio pélvico y Técnica Webster:** Cuando la pelvis está desalineada, puede reducir el espacio disponible para el bebé en desarrollo — una condición llamada restricción intrauterina. La Técnica Webster aborda específicamente la alineación del sacro y la pelvis para optimizar el entorno intrauterino y favorecer un parto natural y no invasivo.",
       ],
       schema: { "@type": "MedicalProcedure", "name": "Cuidado Quiropráctico Prenatal", "procedureType": "Chiropractic" },
+      faqs: [
+        { q: "¿Es seguro el cuidado quiropráctico prenatal?", a: "Sí — la quiropráctica prenatal es una de las áreas más estudiadas y de menor riesgo de la práctica quiropráctica. La Asociación Americana de Embarazo reconoce la quiropráctica como un tratamiento seguro y efectivo durante el embarazo. El Dr. Foss está certificado en Técnica Webster y usa una mesa especializada para embarazo sin presión abdominal." },
+        { q: "¿Qué es la Técnica Webster?", a: "La Técnica Webster es un protocolo quiropráctico específico desarrollado para el embarazo que equilibra el sacro, libera los ligamentos redondos y elimina la tensión del ligamento uterino. Al restaurar la biomecánica pélvica simétrica, le da al bebé el espacio óptimo para asumir la posición ideal de cabeza abajo." },
+        { q: "¿Cuándo debo comenzar el cuidado quiropráctico prenatal?", a: "Lo más pronto posible — el cuidado en el primer trimestre aborda los cambios ligamentarios hormonales tempranos antes de que creen patrones pélvicos asimétricos. Dicho esto, nunca es demasiado tarde: muchas pacientes comienzan en el tercer trimestre para problemas específicos como ciática, posición podálica o preparación para el parto." },
+        { q: "¿Con qué frecuencia debo ver a un quiropráctico durante el embarazo?", a: "La mayoría de las pacientes embarazadas ven al Dr. Foss cada 2–3 semanas durante el primer y segundo trimestre, aumentando a semanalmente en las últimas 6 semanas. Las pacientes con preocupaciones específicas (presentación podálica, dolor lumbar severo, cesárea previa) a menudo se benefician de cuidado más frecuente." },
+      ],
     },
     "quiropractico-embarazo": {
       title: "Quiropráctica para el Embarazo San Antonio | Pura Vida",
@@ -463,6 +589,12 @@ const services: Record<"en" | "es", ServiceMap> = {
         "**Nunca es demasiado tarde — ni demasiado pronto.** Una visita en el primer trimestre le da a su cuerpo la mejor preparación para los meses venideros. Pero incluso en sus últimas semanas, la quiropráctica puede reducir el dolor, mejorar la alineación pélvica y preparar su cuerpo para el trabajo de parto. Muchas madres que reciben cuidado durante el embarazo reportan partos más cortos y fáciles.",
       ],
       schema: { "@type": "MedicalProcedure", "name": "Quiropráctica para el Embarazo", "procedureType": "Chiropractic" },
+      faqs: [
+        { q: "¿Es seguro el cuidado quiropráctico durante el embarazo?", a: "Sí — la quiropráctica es segura durante los tres trimestres cuando es entregada por un proveedor certificado en Técnica Webster como el Dr. Foss. La mesa de embarazo tiene un recorte para el abdomen, no se aplica fuerza al vientre, y las técnicas de ajuste se adaptan a la laxitud ligamentaria hormonal del embarazo." },
+        { q: "¿Cómo puede ayudar la quiropráctica con el dolor de espalda relacionado con el embarazo?", a: "El dolor de espalda del embarazo viene del efecto combinado del cambio postural (lordosis), laxitud ligamentaria hormonal, aumento de peso e inestabilidad pélvica. La Técnica Webster aborda todos estos al restaurar el equilibrio pélvico simétrico y reducir la carga asimétrica que impulsa la mayoría del dolor lumbar y de cintura pélvica del embarazo. La mayoría de las pacientes ven alivio sustancial dentro de 2–4 visitas." },
+        { q: "¿Puede la quiropráctica ayudar a voltear un bebé en posición podálica?", a: "La Técnica Webster crea las condiciones pélvicas y ligamentosas que permiten que el bebé auto-rote a la posición de cabeza abajo. Los quiroprácticos no voltean físicamente a los bebés (eso es la versión cefálica externa, realizada por un obstetra). La mayoría de los bebés podálicos se voltean dentro de 2–4 visitas Webster cuando el tratamiento comienza entre las 28–34 semanas." },
+        { q: "¿Me ayudará el cuidado quiropráctico a tener un parto más fácil?", a: "Muchas madres que reciben cuidado de Técnica Webster durante el embarazo reportan partos más cortos y menos complicados. El mecanismo es doble: posicionamiento fetal óptimo (que permite que el parto progrese mecánicamente como está diseñado) y una pelvis equilibrada (que evita los estancamientos asimétricos que a menudo llevan a intervenciones)." },
+      ],
     },
     "quiropractico-infantes": {
       title: "Quiropráctico para Bebés San Antonio | Pura Vida",
@@ -476,6 +608,12 @@ const services: Record<"en" | "es", ServiceMap> = {
         "Los ajustes para bebés son **extremadamente suaves** — el Dr. Foss usa solo la presión de un toque suave de la punta del dedo. Además de la evaluación espinal, el Dr. Foss usa **Quiropráctica Craneal** para evaluar y ajustar suavemente los huesos craneales del cráneo y la cara, lo que puede asistir con la lactancia y liberar restricciones en el sistema cráneo-sacral que afectan el desarrollo del bebé.",
       ],
       schema: { "@type": "MedicalProcedure", "name": "Cuidado Quiropráctico para Bebés", "procedureType": "Chiropractic" },
+      faqs: [
+        { q: "¿Es segura la quiropráctica para recién nacidos y bebés?", a: "Sí — la quiropráctica pediátrica usa solo presión a nivel de la yema del dedo, sin chasquidos, torsiones o fuerza. El Dr. Foss tiene años de experiencia con bebés desde el nacimiento en adelante y selecciona la técnica más suave posible. El perfil de seguridad de la quiropráctica pediátrica en manos entrenadas está bien establecido en la literatura." },
+        { q: "¿Qué condiciones infantiles se benefician del cuidado quiropráctico?", a: "Las condiciones infantiles comunes que el Dr. Foss trata incluyen cólico, reflujo, dificultades de lactancia y alimentación, tortícolis, estreñimiento, infecciones de oído recurrentes, alteraciones del sueño y los efectos acumulativos del trauma de nacimiento (extracción al vacío, fórceps, parto prolongado, cesárea). La quiropráctica craneal aborda el moldeo craneal y la forma asimétrica de la cabeza (plagiocefalia)." },
+        { q: "¿Qué tan pronto después del nacimiento puede ser evaluado mi bebé?", a: "Muchos padres traen a los recién nacidos durante las primeras semanas de vida — antes es generalmente mejor para resolver los patrones de tensión relacionados con el nacimiento antes de que se acumulen. El cuidado puede comenzar tan pronto como los primeros días después del parto. La evaluación es no invasiva y los ajustes suaves usan solo presión con la yema del dedo." },
+        { q: "¿Cuántas visitas necesita típicamente un bebé?", a: "Muchos bebés responden dentro de 1–3 visitas — a menudo dramáticamente. La mejora estable típicamente se desarrolla durante 4–8 visitas a lo largo de 3–6 semanas. Los casos que involucran dificultad de alimentación, tortícolis o frenillo lingual pueden requerir cuidado integrado más prolongado." },
+      ],
     },
     "quiropractica-pediatrica": {
       title: "Quiropráctico Pediátrico y Prenatal San Antonio | Pura Vida",
@@ -490,6 +628,12 @@ const services: Record<"en" | "es", ServiceMap> = {
         "Los ajustes para bebés utilizan una presión no mayor que la de la punta de un dedo. Nuestra consulta en San Antonio es un espacio acogedor para familias en cada etapa de la vida.",
       ],
       schema: { "@type": "MedicalProcedure", "name": "Quiropráctica Pediátrica y Prenatal", "procedureType": "Chiropractic" },
+      faqs: [
+        { q: "¿Por qué combinar el cuidado pediátrico y prenatal bajo una sola práctica?", a: "La quiropráctica pediátrica y prenatal comparten el mismo enfoque fundamental — técnicas suaves y de baja fuerza que respetan la fisiología única de los cuerpos en crecimiento y las futuras madres. SOT y la Técnica Webster forman la base de ambas. Muchas familias encuentran conveniente tener una sola práctica para el cuidado prenatal de mamá, la evaluación del recién nacido y el cuidado pediátrico continuo." },
+        { q: "¿Es la técnica utilizada diferente para niños vs adultos?", a: "Sí. La quiropráctica adulta típicamente usa más fuerza; la quiropráctica pediátrica y prenatal específicamente usa presión a nivel de la yema del dedo para bebés, contacto ligero modificado para niños mayores y bloqueo suave de protocolo Webster para pacientes embarazadas. El Dr. Foss adapta la técnica a la edad, tamaño y condición de cada paciente." },
+        { q: "¿Es SOT seguro tanto para niños como para mujeres embarazadas?", a: "Sí — SOT es uno de los sistemas quiroprácticos más seguros precisamente porque usa técnicas suaves y de baja fuerza. Es el sistema quiropráctico más comúnmente utilizado para el cuidado pediátrico y prenatal porque el mismo enfoque de baja fuerza funciona en ambas poblaciones." },
+        { q: "¿Con qué frecuencia deben los niños y las mamás embarazadas ver a un quiropráctico?", a: "Embarazo: cada 2–3 semanas al principio, semanalmente en las últimas 6 semanas. Recién nacidos: según sea necesario para problemas específicos, típicamente 4–8 visitas durante unas semanas. Niños: según sea necesario para problemas relacionados con el crecimiento, lesiones deportivas o preocupaciones posturales." },
+      ],
     },
     "terapia-ondas-de-choque": {
       title: "Terapia de Ondas de Choque San Antonio | Pura Vida",
@@ -503,6 +647,12 @@ const services: Record<"en" | "es", ServiceMap> = {
         "La mayoría de los pacientes requieren 3–6 sesiones con una semana de separación. El procedimiento dura 10–15 minutos y se realiza en nuestra consulta de San Antonio sin anestesia ni tiempo de recuperación.",
       ],
       schema: { "@type": "MedicalProcedure", "name": "Terapia de Ondas de Choque (ESWT)", "procedureType": "Physical Therapy" },
+      faqs: [
+        { q: "¿Cuál es la diferencia entre Ondas de Choque (ESWT) y SoftWave?", a: "Ambas entregan energía acústica para estimular la regeneración tisular, pero ESWT usa ondas focalizadas de alta energía en un solo punto, mientras que SoftWave usa ondas no focalizadas de enfoque amplio sobre un área más grande. ESWT focalizada es más agresiva y típicamente más incómoda; SoftWave es más suave y mejor tolerada. Ambas están aprobadas por la FDA. El Dr. Foss usa SoftWave como tecnología regenerativa principal por la mejor experiencia del paciente." },
+        { q: "¿Qué condiciones trata la terapia de ondas de choque?", a: "Las ondas de choque están clínicamente probadas para fascitis plantar, tendinopatía de Aquiles, codo de tenista y golfista, tendinitis calcárea del hombro, tendinopatía patelar, bursitis trocantérica, dolor de cadera y condiciones musculoesqueléticas crónicas que se han estancado con cuidado conservador." },
+        { q: "¿Cuántas sesiones de ondas de choque son típicas?", a: "La mayoría de los pacientes necesitan 3–6 sesiones espaciadas una semana. El procedimiento toma 10–15 minutos y no requiere anestesia ni tiempo de inactividad. Las condiciones crónicas pueden requerir sesiones adicionales. Los resultados a menudo continúan mejorando durante 4–6 semanas después del tratamiento final." },
+        { q: "¿Duele la terapia de ondas de choque?", a: "ESWT focalizada puede ser incómoda; SoftWave de enfoque amplio es mucho mejor tolerada. La intensidad se ajusta al nivel de comodidad de cada paciente. La mayoría de los pacientes describen la sensación como una presión de golpeteo en lugar de dolor. No se necesita anestésico." },
+      ],
     },
     "laser-clase-iv": {
       title: "Terapia Láser Clase IV San Antonio | Pura Vida Chiropractic",
@@ -516,6 +666,12 @@ const services: Record<"en" | "es", ServiceMap> = {
         "Las sesiones de terapia láser son indoloras — la mayoría de los pacientes sienten un calor suave — y duran típicamente 5–15 minutos. Muchos pacientes de San Antonio notan reducción del dolor y mejor función en sus primeros tratamientos.",
       ],
       schema: { "@type": "MedicalProcedure", "name": "Terapia Láser Clase IV", "procedureType": "Physical Therapy" },
+      faqs: [
+        { q: "¿Qué es la terapia con láser Clase IV y cómo funciona?", a: "La terapia con láser Clase IV (fotobiomodulación, PBM) usa longitudes de onda específicas de luz (típicamente 800–980 nm) a niveles de potencia terapéutica (10–15 vatios) para penetrar profundamente en los tejidos. La energía de la luz estimula la actividad mitocondrial, acelerando la producción de ATP y desencadenando una cascada de efectos curativos — inflamación reducida, circulación mejorada, reparación celular más rápida y reducción del dolor." },
+        { q: "¿Qué condiciones trata el láser Clase IV?", a: "El láser Clase IV es efectivo para artritis, hernia discal, neuropatía periférica (incluyendo diabética e inducida por quimioterapia), ciática, fascitis plantar, lesiones deportivas, recuperación post-quirúrgica, dolor muscular crónico, tendinopatía e inflamación de ATM. Es particularmente valioso para condiciones donde la inflamación profunda de tejidos es un impulsor." },
+        { q: "¿Duele la terapia con láser?", a: "No — la terapia con láser es indolora. La mayoría de los pacientes sienten una calidez suave y cómoda mientras la energía láser penetra. Las sesiones típicamente duran 5–15 minutos dependiendo del área tratada. Sin anestésico, sin tiempo de inactividad, sin período de recuperación requerido después de la sesión." },
+        { q: "¿Cuántas sesiones de terapia con láser se necesitan para ver resultados?", a: "La mayoría de los pacientes notan dolor reducido y función mejorada dentro de las primeras 3–5 sesiones. Las condiciones crónicas típicamente requieren 8–15 sesiones para el efecto completo. La terapia con láser a menudo se combina con ajuste quiropráctico y terapia SoftWave para beneficios compuestos." },
+      ],
     },
 
     // ── New services ───────────────────────────────────────────────────────
@@ -533,6 +689,12 @@ const services: Record<"en" | "es", ServiceMap> = {
         "El enfoque del Dr. Foss va más allá del alivio del dolor — se trata de restaurar la capacidad innata de su cuerpo para sanar y funcionar al más alto nivel.",
       ],
       schema: { "@type": "MedicalProcedure", "name": "Cuidado Quiropráctico", "procedureType": "Chiropractic" },
+      faqs: [
+        { q: "¿Qué hace realmente un quiropráctico?", a: "Los quiroprácticos diagnostican y tratan trastornos musculoesqueléticos — particularmente aquellos que involucran la columna, las articulaciones y el sistema nervioso. La intervención principal es el ajuste quiropráctico: una fuerza precisa y controlada aplicada a una articulación para restaurar el movimiento adecuado y reducir la irritación nerviosa. El Dr. Foss usa más de 300 técnicas, con la Técnica Sacro-Occipital (SOT) como enfoque principal porque es suave, completa y aborda todo el cuerpo como una unidad integrada." },
+        { q: "¿Qué condiciones puede tratar el cuidado quiropráctico?", a: "El Dr. Foss trata más de 99 condiciones distintas — desde patrones comunes como dolor de espalda, dolor de cuello, dolores de cabeza, ciática y problemas de disco hasta áreas especializadas como quiropráctica de embarazo (certificado Webster), cuidado pediátrico, ATM, vértigo, fibromialgia, lesiones de accidentes automovilísticos y síndrome post-conmoción. La lista completa está en /es/conditions." },
+        { q: "¿Es seguro el cuidado quiropráctico?", a: "Sí — el cuidado quiropráctico tiene un historial de seguridad muy fuerte, particularmente cuando se entrega usando técnicas suaves como SOT en lugar de manipulación de alta velocidad. Los eventos adversos son extremadamente raros. El Dr. Foss detecta contraindicaciones antes de iniciar el cuidado y selecciona la técnica según la edad, condición y tolerancia de cada paciente." },
+        { q: "¿Cuántas visitas quiroprácticas necesito?", a: "La mayoría de las condiciones requieren una fase correctiva inicial de 8–20 visitas, seguida de cuidado de mantenimiento gradual. Los problemas agudos a menudo se resuelven en 4–8 visitas; las condiciones crónicas típicamente necesitan 12–24 visitas para resolución estable. El Dr. Foss proporciona un plan de tratamiento claro en la primera visita y reevalúa cada 4–6 visitas." },
+      ],
     },
     "cranial-chiropractic": {
       title: "Quiropráctico Craneal en San Antonio TX | Pura Vida",
@@ -597,6 +759,12 @@ const services: Record<"en" | "es", ServiceMap> = {
         "Las condiciones comunes tratadas en bebés incluyen **cólico, dificultades de alimentación, tortícolis, reflujo y trastornos del sueño**. La intervención temprana puede prevenir que estos problemas afecten el desarrollo de su bebé a largo plazo.",
       ],
       schema: { "@type": "MedicalProcedure", "name": "Quiropráctica para Bebés", "procedureType": "Chiropractic" },
+      faqs: [
+        { q: "¿Qué tan pronto puede un bebé ver a un quiropráctico?", a: "La quiropráctica para bebés puede comenzar en los primeros días de vida. Antes es generalmente mejor — el objetivo es liberar los patrones de tensión relacionados con el nacimiento antes de que se compongan y afecten la alimentación, el sueño y el desarrollo. El Dr. Foss tiene amplia experiencia con recién nacidos y usa solo presión a nivel de la yema del dedo." },
+        { q: "¿Cómo se siente un ajuste quiropráctico infantil?", a: "Los ajustes infantiles usan no más presión que la que aplicaría para probar la madurez de un tomate — típicamente la presión de la yema del dedo sobre un párpado cerrado. No hay chasquidos, torsiones ni fuerza. La mayoría de los bebés están tranquilos o se duermen durante la sesión." },
+        { q: "¿Qué problemas infantiles se benefician del cuidado quiropráctico?", a: "Las condiciones comunes incluyen cólico, reflujo, dificultades de lactancia y alimentación, tortícolis (inclinación de cabeza), estreñimiento, infecciones de oído recurrentes, alteraciones del sueño y los efectos acumulativos del trauma de nacimiento (extracción al vacío, fórceps, parto prolongado, cesárea). El trabajo craneal aborda la forma asimétrica de la cabeza (plagiocefalia)." },
+        { q: "¿Está respaldada por evidencia la quiropráctica infantil?", a: "Sí — el cuerpo de evidencia para la quiropráctica pediátrica, particularmente para cólico y problemas relacionados con la alimentación, ha crecido sustancialmente. La Asociación Internacional de Quiropráctica Pediátrica (ICPA) mantiene la literatura de investigación. El Dr. Foss ha entrenado extensamente en quiropráctica pediátrica." },
+      ],
     },
     "pediatric-chiropractic": {
       title: "Quiropráctico Pediátrico San Antonio | Pura Vida",
@@ -611,6 +779,12 @@ const services: Record<"en" | "es", ServiceMap> = {
         "Las condiciones pediátricas comunes que trata el Dr. Foss incluyen cólico, infecciones de oído, tortícolis, escoliosis, lesiones deportivas, dolores de crecimiento y problemas posturales. Los ajustes para niños son gentiles, seguros y adaptados a la edad y el tamaño de cada niño.",
       ],
       schema: { "@type": "MedicalProcedure", "name": "Quiropráctica Pediátrica", "procedureType": "Chiropractic" },
+      faqs: [
+        { q: "¿Por qué debería mi hijo ver a un quiropráctico?", a: "Los niños experimentan innumerables estrés físicos — el nacimiento mismo, caídas durante los primeros pasos, mochilas, tiempo frente a pantallas, deportes y el efecto acumulativo de los patrones posturales. La quiropráctica pediátrica aborda estos estrés antes de que se compongan en patrones musculoesqueléticos adultos. El Dr. Foss tiene más de 23 años de experiencia pediátrica." },
+        { q: "¿Qué condiciones pediátricas trata el Dr. Foss?", a: "Las preocupaciones pediátricas comunes incluyen cólicos, infecciones de oído, tortícolis, monitoreo de escoliosis, lesiones deportivas, dolores de crecimiento, tensión muscular relacionada con TDAH, problemas posturales (cuello de texto, patrones de mochila), estreñimiento, enuresis y enfermedades recurrentes." },
+        { q: "¿Son seguros los ajustes quiroprácticos pediátricos?", a: "Sí — la quiropráctica pediátrica usa técnicas específicamente apropiadas para las columnas en desarrollo de los niños: suaves, de baja fuerza y adaptadas a la edad. El Dr. Foss nunca usa manipulación de intensidad adulta en niños. El perfil de seguridad de la quiropráctica pediátrica en manos entrenadas está bien establecido." },
+        { q: "¿Con qué frecuencia debería mi hijo ver a un quiropráctico?", a: "La frecuencia depende de la situación específica del niño. Los problemas agudos típicamente necesitan 4–8 visitas. Los niños con preocupaciones continuas se benefician de chequeos mensuales. Muchas familias traen a los niños periódicamente durante los brotes de crecimiento." },
+      ],
     },
     "pregnancy-chiropractic": {
       title: "Quiropráctico para el Embarazo San Antonio | Pura Vida",
@@ -625,6 +799,12 @@ const services: Record<"en" | "es", ServiceMap> = {
         "El cuidado quiropráctico durante el embarazo es seguro en todos los trimestres, **libre de medicamentos**, y funciona como un poderoso complemento al cuidado de su obstetra o partera.",
       ],
       schema: { "@type": "MedicalProcedure", "name": "Quiropráctica para el Embarazo (Técnica Webster)", "procedureType": "Chiropractic" },
+      faqs: [
+        { q: "¿Cómo puede ayudarme la quiropráctica durante el embarazo?", a: "La Técnica Webster aborda los cambios estructurales del embarazo — cambio de centro de gravedad, laxitud ligamentaria hormonal, ensanchamiento pélvico y las compensaciones posturales que impulsan el dolor lumbar, ciática, dolor del ligamento redondo y dolor de cintura pélvica. La mayoría de las pacientes embarazadas reportan reducción sustancial del dolor, mejor sueño y mejor comodidad general dentro de varias visitas." },
+        { q: "¿Es seguro el cuidado quiropráctico durante el embarazo?", a: "Sí — la Técnica Webster es uno de los protocolos quiroprácticos más seguros y mejor estudiados para el embarazo. La Asociación Americana de Embarazo reconoce la quiropráctica como segura durante el embarazo. La mesa de embarazo especializada no tiene presión abdominal, los ajustes son suaves y específicos del protocolo Webster, y el Dr. Foss está certificado por ICPA." },
+        { q: "¿Puede la quiropráctica ayudar con un bebé en posición podálica?", a: "La Técnica Webster crea las condiciones pélvicas que permiten que el bebé auto-rote a la posición de cabeza abajo. La mayoría de los bebés podálicos se voltean dentro de 2–4 visitas cuando el tratamiento comienza entre las 28–34 semanas. Los quiroprácticos no voltean físicamente a los bebés (eso es ECV)." },
+        { q: "¿Qué tan temprano en el embarazo debo comenzar el cuidado quiropráctico?", a: "Lo más pronto posible — el cuidado en el primer trimestre aborda los cambios hormonales ligamentarios antes de que se desarrollen patrones asimétricos. Pero nunca es demasiado tarde: muchas pacientes comienzan en el tercer trimestre para problemas específicos como ciática, posición podálica o preparación para el parto." },
+      ],
     },
     "auto-injury-chiropractic": {
       title: "Quiropráctico Lesiones de Auto San Antonio | Pura Vida",
@@ -639,6 +819,12 @@ const services: Record<"en" | "es", ServiceMap> = {
         "El Dr. Foss proporciona una evaluación y documentación completa de las lesiones por accidente de auto, y trabaja con abogados de lesiones personales cuando es necesario. La intervención quiropráctica temprana reduce el tiempo de recuperación.",
       ],
       schema: { "@type": "MedicalProcedure", "name": "Quiropráctica para Lesiones de Auto", "procedureType": "Chiropractic" },
+      faqs: [
+        { q: "¿Debo ver a un quiropráctico incluso si me siento bien después de un accidente automovilístico?", a: "Sí. El latigazo y otras lesiones de tejidos blandos a menudo no producen síntomas durante 24–72 horas — o incluso más tiempo. El cuidado quiropráctico conservador temprano después de una colisión produce mejores resultados a largo plazo que esperar a que el dolor crónico se desarrolle. La documentación temprana también es típicamente importante para las reclamaciones de seguro y lesiones personales." },
+        { q: "¿Qué lesiones de accidentes automovilísticos trata el Dr. Foss?", a: "Las condiciones post-accidente comunes incluyen latigazo, esguinces facetarios cervicales y lumbares, síntomas post-conmoción, disfunción de ATM por impacto del airbag, disrupción de la articulación sacroilíaca, contusiones de tejidos blandos y el trauma acumulativo de las colisiones de vehículos motorizados. SOT es particularmente adecuado para casos de latigazo." },
+        { q: "¿Trabaja con abogados de lesiones personales?", a: "Sí — el Dr. Foss tiene amplia experiencia trabajando con abogados de lesiones personales, documentando lesiones exhaustivamente con informes narrativos y hallazgos objetivos. Coordinamos con el abogado en el momento del caso, facturación e informes finales. Muchos abogados refieren a sus clientes específicamente a Pura Vida por la calidad de la documentación." },
+        { q: "¿Cubrirá mi seguro el cuidado quiropráctico después de un accidente?", a: "La mayoría de las pólizas de auto incluyen cobertura de Protección de Lesiones Personales (PIP) o MedPay que paga el cuidado quiropráctico post-accidente. Verificamos la cobertura en la primera visita y trabajamos con su seguro de auto, MedPay o derecho de retención del abogado. Traiga su informe de accidente, tarjeta de seguro e identificación a la primera visita." },
+      ],
     },
     "wellness-care": {
       title: "Quiropráctica de Bienestar San Antonio | Pura Vida",
@@ -653,6 +839,12 @@ const services: Record<"en" | "es", ServiceMap> = {
         "Integra quiropráctica, osteopatía, terapia manual y modalidades energéticas para mantener su cuerpo funcionando al máximo nivel. Muchas familias de San Antonio hacen de Pura Vida Chiropractic la piedra angular de su plan de salud general.",
       ],
       schema: { "@type": "MedicalProcedure", "name": "Cuidado Quiropráctico de Bienestar", "procedureType": "Chiropractic" },
+      faqs: [
+        { q: "¿Qué es el cuidado quiropráctico de bienestar?", a: "El bienestar quiropráctico es un cuidado proactivo y regular diseñado para mantener la alineación espinal óptima, la función del sistema nervioso y la salud en general — incluso cuando no tiene dolor. Es análogo a las limpiezas dentales regulares o al ejercicio rutinario: el mantenimiento continuo previene las pequeñas disfunciones que se acumulan en problemas sintomáticos." },
+        { q: "¿Necesito cuidado quiropráctico si no tengo dolor?", a: "El dolor es uno de los últimos síntomas que produce una columna desalineada. Cuando aparece el dolor, la disfunción subyacente generalmente ha estado acumulándose durante meses o años. La quiropráctica de bienestar atrapa y corrige estos patrones antes de que se vuelvan dolorosos — lo cual es mucho más fácil de manejar que esperar a que se desarrollen condiciones crónicas." },
+        { q: "¿Con qué frecuencia debo recibir un ajuste de bienestar?", a: "La mayoría de los pacientes de bienestar ven al Dr. Foss cada 2–4 semanas para mantenimiento continuo. La frecuencia se ajusta según la edad, nivel de actividad, factores ocupacionales y carga de estrés. Los pacientes activos y aquellos con lesiones previas a menudo se benefician de cuidado más frecuente que los pacientes sedentarios sin historial de lesiones." },
+        { q: "¿Qué es el Protocolo Pura Vida?", a: "El Protocolo Pura Vida es el enfoque integral de bienestar del Dr. Foss desarrollado a lo largo de 23 años de práctica. Integra quiropráctica SOT, trabajo craneal, ajuste visceral CMRT, terapia manual y (cuando es apropiado) láser Clase IV y terapia SoftWave. El objetivo es abordar a toda la persona — estructural, neurológica, visceral y energética — en lugar de perseguir síntomas aislados." },
+      ],
     },
     "latino-community": {
       title: "Quiropráctico Bilingüe San Antonio | Pura Vida Chiropractic",
@@ -667,6 +859,12 @@ const services: Record<"en" | "es", ServiceMap> = {
         "En Pura Vida, nunca sentirá que necesita explicarse dos veces. El Dr. Foss habla su idioma — tanto literal como culturalmente.",
       ],
       schema: { "@type": "MedicalProcedure", "name": "Cuidado Quiropráctico Bilingüe", "procedureType": "Chiropractic" },
+      faqs: [
+        { q: "¿Hablan español en Pura Vida Chiropractic?", a: "Sí — Pura Vida es una práctica completamente bilingüe. El Dr. Foss habla español con fluidez y todo el equipo es bilingüe. Hemos practicado en Costa Rica, España y América Latina. Todo el papeleo, señalización, materiales educativos para pacientes y el sitio web mismo están disponibles en español en /es. Los pacientes nunca necesitarán traducir ni luchar con el cuidado en un idioma no nativo." },
+        { q: "¿Qué consideraciones culturales aporta el Dr. Foss al cuidado de pacientes latinos?", a: "El Dr. Foss pasó años significativos practicando en Costa Rica, España, Irlanda, los Países Bajos y Guatemala, dándole familiaridad profunda con las perspectivas de salud latinas, el cuidado centrado en la familia y el contexto cultural de las quejas musculoesqueléticas. Entiende el papel de la familia extendida en las decisiones de salud y las barreras culturales que muchos pacientes latinos enfrentan en la medicina mainstream." },
+        { q: "¿Ofrecen planes de pago para la comunidad latina?", a: "Somos amigables con los seguros y ofrecemos opciones de pago en efectivo asequibles para pacientes sin seguro. El Dr. Foss está comprometido a hacer que la quiropráctica sea accesible para las familias trabajadoras en San Antonio. Aceptamos HSA/FSA, planes de pago para cursos de tratamiento más largos y ofrecemos una consulta gratuita para nuevos pacientes." },
+        { q: "¿De dónde vienen la mayoría de sus pacientes hispanohablantes en San Antonio?", a: "Atendemos a familias hispanohablantes de todo San Antonio — incluyendo el Westside, Southside, Olmos Park, Castle Hills, Stone Oak y el área metropolitana más amplia de San Antonio. Nuestra ubicación en 2318 NW Military Hwy es accesible desde la mayor parte de San Antonio. Muchos pacientes también vienen de Helotes y Boerne." },
+      ],
     },
   },
 };
