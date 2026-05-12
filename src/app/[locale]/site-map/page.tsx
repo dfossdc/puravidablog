@@ -76,7 +76,6 @@ const staticPages: { slug: string; en: string; es: string }[] = [
   { slug: "new-patient",          en: "New Patient",                        es: "Pacientes Nuevos" },
   { slug: "faq",                  en: "FAQ",                                es: "Preguntas Frecuentes" },
   { slug: "testimonials",         en: "Testimonials",                       es: "Testimonios" },
-  { slug: "videos",               en: "Videos",                             es: "Videos" },
   { slug: "provider-referral",    en: "Provider Referral",                  es: "Referencia de Proveedor" },
   { slug: "thank-you",            en: "Thank You",                          es: "Gracias" },
 ];

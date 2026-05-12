@@ -4,6 +4,7 @@ import Link from "next/link";
 import type { Metadata } from "next";
 import { conditionsContent } from "@/lib/conditionsContent";
 import { conditionsContentEs } from "@/lib/conditionsContentEs";
+import { conditionsFaqs, conditionsFaqsEs } from "@/lib/conditionsFaqs";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import InlineVideo from "@/components/InlineVideo";
@@ -193,6 +194,25 @@ export default async function ConditionPage({
     ],
   };
 
+  // FAQPage schema — locale-specific, falls back to EN if no ES entry.
+  // The Spanish source of truth is conditionsFaqsEs (matches the 67 ES
+  // condition slugs in conditionsContentEs.ts); the English source is
+  // conditionsFaqs (matches all 99 EN slugs in conditionsContent.ts).
+  const faqs = isEs
+    ? conditionsFaqsEs[slug] ?? conditionsFaqs[slug] ?? []
+    : conditionsFaqs[slug] ?? [];
+  const faqSchema = faqs.length
+    ? {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        mainEntity: faqs.map((f) => ({
+          "@type": "Question",
+          name: f.q,
+          acceptedAnswer: { "@type": "Answer", text: f.a },
+        })),
+      }
+    : null;
+
   return (
     <>
       <Header locale={locale as "en" | "es"} currentPath={`/conditions/${slug}`} />
@@ -204,6 +224,12 @@ export default async function ConditionPage({
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
       />
+      {faqSchema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+        />
+      )}
       <div className={styles.page}>
       {/* Hero */}
       <div className={styles.hero}>
@@ -346,6 +372,27 @@ export default async function ConditionPage({
               : "We are insurance friendly. Bring your insurance card and ID to the office to verify how your insurance can contribute to your care. New patient appointments are available promptly."}
           </p>
         </div>
+
+        {/* Frequently Asked Questions — emits FAQPage JSON-LD above for AI
+            search (Perplexity, ChatGPT, Google AI Overviews) and renders an
+            accessible <details> list here for human readers. Each condition
+            has its own FAQ block in src/lib/conditionsFaqs.ts (EN: 99 slugs,
+            ES: 67 slugs). */}
+        {faqs.length > 0 && (
+          <div className={styles.section}>
+            <h2 className={styles.sectionTitle}>
+              {isEs ? "Preguntas Frecuentes" : "Frequently Asked Questions"}
+            </h2>
+            <div className={styles.faqList}>
+              {faqs.map((f, i) => (
+                <details key={i} className={styles.faqItem}>
+                  <summary className={styles.faqQ}>{f.q}</summary>
+                  <p className={styles.faqA}>{f.a}</p>
+                </details>
+              ))}
+            </div>
+          </div>
+        )}
 
         {/* CTA */}
         <div className={styles.cta}>

@@ -306,11 +306,6 @@ export default async function MeetDrFossPage({ params }: Props) {
                 />
               </div>
             </div>
-            <p className={styles.videoMore}>
-              <Link href={`/${locale}/videos`} className={styles.inlineLink}>
-                {isEs ? "Ver todos los videos →" : "View all videos →"}
-              </Link>
-            </p>
           </section>
 
           {/* Patient testimonials snippet */}

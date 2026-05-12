@@ -37,7 +37,6 @@ const esServices = [
 const staticPages = [
   "about", "contact", "new-patient", "faq", "mission",
   "sports-chiropractic", "testimonials", "services",
-  "videos",
   "terms", "healthcare-disclaimer", "book-now",
   "provider-referral",
   "conditions", // /conditions index page (categorized directory)

@@ -171,7 +171,12 @@ const nextConfig = {
       { source: "/about-pura-vida", destination: "/en/about", permanent: true },
       { source: "/prenatal-chiropractor", destination: "/en/services/prenatal-chiropractor", permanent: true },
       { source: "/tongue-tie-and-chiropractic", destination: "/en/conditions/tongue-tie", permanent: true },
-      { source: "/videos", destination: "/en/videos", permanent: true },
+      // /videos page removed pending real YouTube content (was showing
+      // placeholder Rickrolls). Redirect all variants to the homepage
+      // until we re-launch with actual Pura Vida videos.
+      { source: "/videos", destination: "/en", permanent: true },
+      { source: "/en/videos", destination: "/en", permanent: true },
+      { source: "/es/videos", destination: "/es", permanent: true },
       { source: "/mission-trips", destination: "/en/mission", permanent: true },
       { source: "/trigeminal-neuralgia-and-chiropractic", destination: "/en/conditions", permanent: true },
       { source: "/radiografias", destination: "/es/blog/radiografias", permanent: true },
