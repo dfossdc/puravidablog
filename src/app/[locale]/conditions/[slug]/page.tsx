@@ -239,15 +239,19 @@ export default async function ConditionPage({
           src={c.image}
           alt={
             isEs
-              ? `Tratamiento de ${title} en Pura Vida Chiropractic San Antonio`
-              : `${title} treatment at Pura Vida Chiropractic San Antonio`
+              ? `Tratamiento de ${conditionName} en Pura Vida Chiropractic San Antonio`
+              : `${conditionName} treatment at Pura Vida Chiropractic San Antonio`
           }
           fill
           priority
           className={styles.heroImg}
         />
         <div className={styles.heroOverlay} />
-        <h1 className={styles.heroTitle}>{title}</h1>
+        {/* H1 is the clean condition name (no keyword tail). The full
+            keyword-rich variant lives in <title> so the two don't
+            duplicate — Semrush flags H1==<title> as a duplicate-content
+            issue and the condition pages were hitting it ~200 times. */}
+        <h1 className={styles.heroTitle}>{conditionName}</h1>
       </div>
 
       {/* Breadcrumb */}
@@ -256,7 +260,7 @@ export default async function ConditionPage({
         {" › "}
         <Link href={`/${locale}#conditions`}>{isEs ? "Condiciones" : "Conditions"}</Link>
         {" › "}
-        {title}
+        {conditionName}
       </nav>
 
       <div className={styles.content}>
@@ -286,7 +290,7 @@ export default async function ConditionPage({
         {/* What Is */}
         <div className={styles.section}>
           <h2 className={styles.sectionTitle}>
-            {isEs ? `¿Qué Es ${title}?` : `What Is ${title}?`}
+            {isEs ? `¿Qué Es ${conditionName}?` : `What Is ${conditionName}?`}
           </h2>
           <p className={styles.sectionText}>{whatIs}</p>
         </div>
@@ -321,8 +325,8 @@ export default async function ConditionPage({
         <div className={styles.protocolBox}>
           <h2>
             {isEs
-              ? `El Protocolo Pura Vida: Tratamiento Quiropráctico para ${title}`
-              : `The Pura Vida Protocol: Chiropractic Care for ${title}`}
+              ? `El Protocolo Pura Vida: Tratamiento Quiropráctico para ${conditionName}`
+              : `The Pura Vida Protocol: Chiropractic Care for ${conditionName}`}
           </h2>
           <p>{chiropracticTreatment}</p>
           <p style={{ marginTop: "0.75rem" }}>
@@ -400,8 +404,8 @@ export default async function ConditionPage({
         <div className={styles.cta}>
           <h2>
             {isEs
-              ? `¿Listo para Aliviar ${title}?`
-              : `Ready to Get Relief from ${title}?`}
+              ? `¿Listo para Aliviar ${conditionName}?`
+              : `Ready to Get Relief from ${conditionName}?`}
           </h2>
           <p>
             {isEs
