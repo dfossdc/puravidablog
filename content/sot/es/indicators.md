@@ -1,5 +1,5 @@
 ---
-title: "Indicadores SOT: Cómo el Quiropráctico Sabe Qué Ajustar"
+title: "Indicadores SOT: Cómo Saber Qué Ajustar"
 description: "Prueba de Brazo Fossa, fibras del trapecio, fibras occipitales, indicadores cervicales para subluxación lumbar — las pruebas neurológicas objetivas que hacen que SOT sea diferente."
 date: "2026-04-15"
 lang: "es"

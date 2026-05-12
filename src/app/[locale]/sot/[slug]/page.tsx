@@ -32,10 +32,15 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   // Append brand suffix so the <title> differs from in-page <h1>
   // (which strips everything after the first "|"). Some SOT page titles
   // don't contain a pipe so the H1 and <title> would otherwise be
-  // identical — Semrush flags that as duplicate H1+title.
+  // identical — Semrush flags that as duplicate H1+title. Suffix is the
+  // short " | Pura Vida" form (13 chars) so titles like
+  // "SOT Indicators: How Chiropractors Know What to Adjust" (53) stay
+  // under ~70 chars after appending. The longer " | Pura Vida Chiropractic
+  // SA" form (29 chars) used to push titles past 80 chars after the
+  // 2026-05-12 source-title shortening removed the embedded pipes.
   const titleWithBrand = page.title.includes("|")
     ? page.title
-    : `${page.title} | Pura Vida Chiropractic SA`;
+    : `${page.title} | Pura Vida`;
   return {
     title: titleWithBrand,
     description: page.description,
