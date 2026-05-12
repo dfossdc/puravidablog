@@ -67,11 +67,36 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       // emitted when the post explicitly declares its `translatedSlug`
       // counterpart in frontmatter — otherwise we'd link to slugs that
       // 404, which generated 966 broken internal links on Semrush.
+      //
+      // Some blog posts have been consolidated to service/condition pages
+      // via permanent redirects in next.config.mjs (e.g. /en/blog/shockwave-
+      // therapy → /en/services/shockwave-therapy). When the *target* of a
+      // translatedSlug hreflang is a redirected URL, Semrush flags the
+      // hreflang as "Hreflang redirect (308)". For those specific slugs we
+      // suppress the cross-language alternate so the page only emits a
+      // valid self-language hreflang.
       languages: (() => {
         const selfLang = post.lang === "es" ? "es" : "en";
         const otherLang = selfLang === "es" ? "en" : "es";
         const otherSlug = post.translatedSlug;
-        const otherUrl = otherSlug
+
+        // Slugs (in either locale) that redirect to a consolidated page.
+        // Mirrors `redirectedBlogSlugs` in src/app/sitemap.ts.
+        const REDIRECTED_BLOG_SLUGS = new Set<string>([
+          "herniated-disc-chiropractor-san-antonio",
+          "hernia-disco-quiropractico-san-antonio",
+          "shockwave-therapy",
+          "terapia-ondas-de-choque",
+          "pediatric-prenatal",
+          "lesiones-de-auto",
+          "mi-batalla-en-esta-crisis-economica",
+        ]);
+
+        const selfRedirects = REDIRECTED_BLOG_SLUGS.has(slug);
+        const otherRedirects = otherSlug ? REDIRECTED_BLOG_SLUGS.has(otherSlug) : false;
+        const safeToEmitOther = !!otherSlug && !selfRedirects && !otherRedirects;
+
+        const otherUrl = safeToEmitOther
           ? `${BASE_URL}/${otherLang}/blog/${otherSlug}`
           : null;
         if (otherUrl) {

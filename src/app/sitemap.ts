@@ -62,6 +62,23 @@ const englishOnlyPages = [
   "cranial-chiropractor-san-antonio",
 ];
 
+// Blog slugs that intentionally redirect to consolidated service or
+// condition pages (per next.config.mjs lines 524-535). The blog .md files
+// exist on disk so fetchAllSlugs() auto-discovers them, but the redirect
+// intercepts before the post renders. Sitemaps should only list final
+// destinations — Semrush issue "incorrect pages found in sitemap.xml"
+// flagged these 6 (3 EN + 3 ES) when sitemap and redirects disagreed.
+const redirectedBlogSlugs = new Set<string>([
+  // EN: blog slug → service/condition consolidation
+  "herniated-disc-chiropractor-san-antonio", // → /en/conditions/disc-problems
+  "shockwave-therapy",                       // → /en/services/shockwave-therapy
+  "pediatric-prenatal",                      // → /en/services/prenatal-chiropractor
+  // ES: blog slug → service/index consolidation
+  "lesiones-de-auto",                        // → /es/services/lesiones-de-auto
+  "mi-batalla-en-esta-crisis-economica",     // → /es/blog
+  "terapia-ondas-de-choque",                 // → /es/services/terapia-ondas-de-choque
+]);
+
 // Pages that only exist at /es/ (Spanish-language SEO landing pages).
 // /en variants exist as files but redirect to /es per next.config.mjs,
 // so we list them only under /es here.
@@ -135,9 +152,10 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     });
   }
 
-  // Blog posts
+  // Blog posts (skip slugs that redirect to consolidated pages)
   const slugEntries = fetchAllSlugs();
   for (const { slug, lang } of slugEntries) {
+    if (redirectedBlogSlugs.has(slug)) continue;
     entries.push({
       url: `${BASE_URL}/${lang}/blog/${slug}`,
       lastModified: new Date(),

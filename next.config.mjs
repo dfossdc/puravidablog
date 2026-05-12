@@ -507,18 +507,16 @@ const nextConfig = {
       { source: "/es/blog/x-rays-chiropractic-san-antonio",
         destination: "/en/blog/x-rays-chiropractic-san-antonio", permanent: true },
 
-      // (3) Missing /es/conditions/ pages — redirect to EN equivalent (which exists)
-      // or /es/conditions index where no EN counterpart is known to exist.
-      { source: "/es/conditions/fibromyalgia",     destination: "/es/conditions", permanent: true },
-      { source: "/es/conditions/dysmenorrhea",     destination: "/es/conditions", permanent: true },
-      { source: "/es/conditions/sinus-congestion", destination: "/es/conditions", permanent: true },
-      { source: "/es/conditions/vertigo",          destination: "/en/conditions/vertigo", permanent: true },
-      { source: "/es/conditions/rib-subluxation",  destination: "/es/conditions", permanent: true },
-      { source: "/es/conditions/tinnitus",         destination: "/es/conditions", permanent: true },
-
-      // (4) Missing /en/conditions/ pages — redirect to conditions index
-      { source: "/en/conditions/heel-spur",        destination: "/en/conditions", permanent: true },
-      { source: "/en/conditions/insomnia",         destination: "/en/conditions", permanent: true },
+      // (3) (removed 2026-05-12) — these 8 condition-page redirects were
+      // added when /es/conditions/fibromyalgia, /es/conditions/dysmenorrhea,
+      // /es/conditions/sinus-congestion, /es/conditions/vertigo,
+      // /es/conditions/rib-subluxation, /es/conditions/tinnitus,
+      // /en/conditions/heel-spur, and /en/conditions/insomnia did not yet
+      // exist. They now have full content (and FAQs) in conditionsContent.ts
+      // / conditionsContentEs.ts, so the redirects were causing Semrush to
+      // flag 8 "incorrect pages found in sitemap.xml" errors — the sitemap
+      // listed the real URLs but the redirect intercepted them. Removed
+      // these rules so the actual condition pages serve directly.
 
       // (5) Blog post slugs that 404 — redirect to closest topical match
       { source: "/en/blog/herniated-disc-chiropractor-san-antonio",
