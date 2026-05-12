@@ -1,5 +1,5 @@
 ---
-title: "SOT Chiropractic FAQ | Pura Vida Chiropractic San Antonio"
+title: "SOT Chiropractic FAQ | Pura Vida San Antonio"
 description: "Patient FAQ about Sacro Occipital Technique chiropractic care — what it is, who it helps, what to expect, and how SOT differs from traditional chiropractic."
 date: "2026-04-15"
 lang: "en"

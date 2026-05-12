@@ -49,10 +49,12 @@ export async function generateMetadata({
   const c = conditionsWithEs.find((x) => x.slug === slug);
   if (!c) return {};
   const isEs = locale === "es";
+  // Title is taken straight from the source — the condition titles already
+  // include a brand/location suffix (e.g. "| Chiropractor San Antonio TX")
+  // so adding another " | Pura Vida" tail pushes most titles past Google's
+  // ~60-character snippet limit. Semrush was flagging 21 pages for this.
   return {
-    title: isEs
-      ? `${c.titleEs ?? c.title} | Pura Vida`
-      : `${c.title} | Pura Vida`,
+    title: isEs ? (c.titleEs ?? c.title) : c.title,
     description: isEs ? (c.metaDescriptionEs ?? c.metaDescription) : c.metaDescription,
     alternates: {
       canonical: `/${locale}/conditions/${slug}`,

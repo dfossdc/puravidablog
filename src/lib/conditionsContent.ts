@@ -83,7 +83,7 @@ export const conditionsContent: ConditionData[] = [
   },
   {
     slug: "auto-accident-injuries",
-    title: "Auto Accident Injuries | Car Accident Chiropractor San Antonio TX",
+    title: "Auto Accident Injuries | Chiropractor San Antonio TX",
     titleEs: "Lesiones por Accidente Automovilístico | Quiropráctico de Accidentes de Tránsito San Antonio TX",
     image: "/images/conditions/autoaccident.jpg",
     metaDescription:
@@ -574,7 +574,7 @@ export const conditionsContent: ConditionData[] = [
   },
   {
     slug: "hip-knee-foot-ankle",
-    title: "Hip, Knee, Foot & Ankle Pain | Chiropractor San Antonio TX",
+    title: "Hip, Knee & Foot Pain | Chiropractor San Antonio TX",
     titleEs: "Dolor de Cadera, Rodilla, Pie y Tobillo | Quiropráctico San Antonio TX",
     image: "/images/conditions/hipkneefootankle.jpg",
     metaDescription:
@@ -792,7 +792,7 @@ export const conditionsContent: ConditionData[] = [
   },
   {
     slug: "shoulder-arm-pain",
-    title: "Shoulder & Arm Pain | Sports Chiropractor San Antonio TX",
+    title: "Shoulder & Arm Pain | Chiropractor San Antonio TX",
     titleEs: "Dolor de Hombro y Brazo | Quiropráctico Deportivo San Antonio TX",
     image: "/images/conditions/shoulderpain.jpg",
     metaDescription:

@@ -1,5 +1,5 @@
 ---
-title: "What is SOT? Sacro Occipital Technique Explained | Pura Vida Chiropractic San Antonio"
+title: "What is SOT? Sacro Occipital Technique Explained"
 description: "The complete SOT chiropractic system — spine and pelvis, organs (CMRT), and cranium — explained in plain English by Dr. Dan Foss in San Antonio, TX."
 date: "2026-04-15"
 lang: "en"

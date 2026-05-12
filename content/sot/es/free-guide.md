@@ -1,5 +1,5 @@
 ---
-title: "Guía Gratuita para Pacientes: ¿Qué es SOT? | Pura Vida Quiropráctica San Antonio"
+title: "Guía Gratuita: ¿Qué es SOT? | Pura Vida SA"
 description: "Una guía descargable gratuita sobre la quiropráctica SOT para pacientes nuevos y recurrentes. Qué es, cómo funciona, qué esperar — en español sencillo."
 date: "2026-04-15"
 lang: "es"

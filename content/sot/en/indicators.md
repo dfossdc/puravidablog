@@ -1,5 +1,5 @@
 ---
-title: "SOT Indicators: How Your Chiropractor Actually Knows What to Adjust | Pura Vida Chiropractic"
+title: "SOT Indicators: How Chiropractors Know What to Adjust"
 description: "Arm Fossa, trapezius fibers, occipital fibers, cervical indicators for lumbar subluxation — the objective neurological tests that make SOT chiropractic different."
 date: "2026-04-15"
 lang: "en"

@@ -1,5 +1,5 @@
 ---
-title: "¿Es Segura la Quiropráctica? La Respuesta Honesta con Datos Reales | Pura Vida Quiropráctica"
+title: "¿Es Segura la Quiropráctica? Datos Reales | Pura Vida SA"
 description: "Los datos reales de seguridad sobre el cuidado quiropráctico. Tasas de lesión, comparación con procedimientos médicos, y por qué SOT está entre las técnicas más seguras."
 date: "2026-04-15"
 lang: "es"
