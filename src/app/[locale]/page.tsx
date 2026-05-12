@@ -351,6 +351,75 @@ export default async function HomePage({ params }: Props) {
     "priceRange": "$$",
   };
 
+  // Homepage FAQs — brand-level questions that Perplexity, ChatGPT, Google
+  // AI Overviews, and Gemini frequently get asked about Pura Vida specifically.
+  // These also drive FAQPage JSON-LD for the homepage, which is the strongest
+  // single AI-citation signal for "<practice name> + question" research queries.
+  // Each FAQ exists in both EN and ES.
+  const homepageFaqs = isEs
+    ? [
+        {
+          q: "¿Qué hace que Pura Vida Chiropractic sea diferente de otros quiroprácticos en San Antonio?",
+          a: "El Dr. Dan Foss tiene certificación Avanzada en la Técnica Sacro-Occipital (SOT) a través de SORSI — uno de los pocos quiroprácticos en San Antonio con esta credencial. SOT es un sistema quiropráctico suave basado en categorías que aborda la columna, la pelvis y el ritmo craneosacro como una unidad integrada. Sin manipulación de alta velocidad, sin torsiones, sin chasquidos. También ofrecemos terapia SoftWave y láser Clase IV bajo el mismo techo.",
+        },
+        {
+          q: "¿Aceptan seguro médico?",
+          a: "Sí, somos amigables con los seguros. Traiga su tarjeta de seguro y su identificación a la oficina y verificaremos cómo su seguro puede contribuir a su cuidado. Trabajamos con la mayoría de los planes principales y aceptamos PIP de auto-accidente, MedPay y casos de compensación laboral. Ofrecemos una consulta gratuita para nuevos pacientes para que pueda determinar el ajuste antes de comprometerse.",
+        },
+        {
+          q: "¿Qué condiciones trata el Dr. Foss?",
+          a: "El Dr. Foss trata más de 99 condiciones — desde dolor lumbar, ciática, dolores de cabeza y migrañas hasta cuidado durante el embarazo (Técnica Webster certificada), quiropráctica pediátrica para cólico infantil y tortícolis, ATM, vértigo, fibromialgia, lesiones de auto y deportivas, y mucho más. Visite /es/conditions para la lista completa.",
+        },
+        {
+          q: "¿Qué debo esperar en mi primera visita?",
+          a: "Su consulta gratuita incluye una cita individual con el Dr. Foss para discutir sus preocupaciones de salud y determinar si usted es un buen candidato para el cuidado quiropráctico. Recibirá recomendaciones expertas enfocadas en corregir la causa raíz, no solo los síntomas. Si determinamos que no podemos ayudarle, le guiaremos al proveedor adecuado.",
+        },
+        {
+          q: "¿Cuáles son sus horarios de oficina?",
+          a: "Estamos abiertos lunes, martes y jueves de 7 AM a 4 PM. Citas adicionales disponibles miércoles, viernes y sábado. Estamos ubicados en 2318 NW Military Hwy, Suite 103, San Antonio TX 78231, sirviendo a Stone Oak, Castle Hills, Alamo Heights, Helotes y todo San Antonio. Llame al (210) 685-1994 para reservar.",
+        },
+        {
+          q: "¿Atienden a pacientes en español?",
+          a: "Sí — Pura Vida Chiropractic es una clínica completamente bilingüe (inglés/español). El Dr. Foss y nuestro personal hablan español con fluidez. Atendemos a la comunidad latina de San Antonio con cuidado quiropráctico culturalmente competente, planes de pago accesibles y todo el sitio web disponible en español.",
+        },
+      ]
+    : [
+        {
+          q: "What makes Pura Vida Chiropractic different from other San Antonio chiropractors?",
+          a: "Dr. Dan Foss holds Advanced certification in Sacro-Occipital Technique (SOT) through SORSI — one of the small number of chiropractors in San Antonio with this credential. SOT is a gentle, category-based chiropractic system that addresses the spine, pelvis, and craniosacral rhythm as one integrated unit. No high-velocity manipulation, no twisting, no popping. We also offer SoftWave shockwave therapy and Class IV laser under the same roof.",
+        },
+        {
+          q: "Do you accept insurance?",
+          a: "Yes, we are insurance friendly. Bring your insurance card and ID to the office and we will verify how your insurance can contribute to your care. We work with most major plans and accept auto-accident PIP, MedPay, and workers' compensation cases. We offer a free new-patient consultation so you can determine fit before committing.",
+        },
+        {
+          q: "What conditions does Dr. Foss treat?",
+          a: "Dr. Foss treats 99+ conditions — from lower back pain, sciatica, headaches, and migraines to pregnancy care (Webster Technique certified), pediatric chiropractic for infant colic and torticollis, TMJ, vertigo, fibromyalgia, auto and sports injuries, and much more. Visit /en/conditions for the complete list.",
+        },
+        {
+          q: "What should I expect on my first visit?",
+          a: "Your free consultation includes a one-on-one appointment with Dr. Foss to discuss your health concerns and determine whether you are a good candidate for chiropractic care. You will receive expert recommendations focused on correcting the root cause — not just symptoms. If we determine we cannot help you, we will guide you to the right provider.",
+        },
+        {
+          q: "What are your office hours?",
+          a: "We are open Monday, Tuesday, and Thursday from 7 AM to 4 PM. Additional appointments are available Wednesday, Friday, and Saturday. We are located at 2318 NW Military Hwy, Suite 103, San Antonio TX 78231, serving Stone Oak, Castle Hills, Alamo Heights, Helotes, and all of San Antonio. Call (210) 685-1994 to book.",
+        },
+        {
+          q: "Do you see Spanish-speaking patients?",
+          a: "Yes — Pura Vida Chiropractic is a fully bilingual (English/Spanish) clinic. Dr. Foss and our staff speak Spanish fluently. We serve San Antonio's Latino community with culturally competent chiropractic care, accessible payment plans, and the entire website available in Spanish at /es.",
+        },
+      ];
+
+  const homepageFaqSchema = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: homepageFaqs.map((f) => ({
+      "@type": "Question",
+      name: f.q,
+      acceptedAnswer: { "@type": "Answer", text: f.a },
+    })),
+  };
+
   return (
     <>
       <Header locale={locale as "en" | "es"} currentPath="" />
@@ -358,6 +427,10 @@ export default async function HomePage({ params }: Props) {
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaJson) }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(homepageFaqSchema) }}
         />
         <LocalBusinessSchema />
 
@@ -905,7 +978,28 @@ export default async function HomePage({ params }: Props) {
           </div>
         </section>
 
-        {/* Wave: New Patient (white) → Final CTA (dark blue) */}
+        {/* ── FAQ ─────────────────────────────────────
+            Brand-level FAQs that match the patient-style research queries
+            Perplexity, ChatGPT, Google AI Overviews, and Gemini ask about
+            chiropractic practices. Each Q is rendered visibly here and
+            mirrored in the FAQPage JSON-LD above for AI retrieval. */}
+        <section className={styles.faqSection}>
+          <div className={styles.sectionInner}>
+            <h2 className={styles.faqTitle}>
+              {isEs ? "Preguntas Frecuentes" : "Frequently Asked Questions"}
+            </h2>
+            <div className={styles.faqList}>
+              {homepageFaqs.map((f, i) => (
+                <details key={i} className={styles.faqItem}>
+                  <summary className={styles.faqQ}>{f.q}</summary>
+                  <p className={styles.faqA}>{f.a}</p>
+                </details>
+              ))}
+            </div>
+          </div>
+        </section>
+
+        {/* Wave: FAQ (white) → Final CTA (dark blue) */}
         <WaveDown fill="#0d2a3a" />
 
         {/* ── FINAL CTA ─────────────────────────────── */}
