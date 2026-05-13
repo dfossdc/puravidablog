@@ -38,9 +38,20 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     // queries stuck at pos 11.9 and 46.8 respectively — brand was at the
     // END of the title (and EN was abbreviated to "Pura Vida"), which
     // weakened the brand-query signal.
+    //
+    // 2026-05-13 tune: keep the brand-first decision (it's working for
+    // branded queries) but pack the head-term tail more tightly to chase
+    // the "best chiropractor san antonio" / "chiropractor in san antonio
+    // tx" cluster where competitor safamilychiro.com owns position 1-8
+    // and Pura Vida sits at 30-40. Replaced "Top Chiropractor" with
+    // "Best SOT Chiropractor" — the "Best ___ Chiropractor in San
+    // Antonio TX" pattern matches the 260-vol "best chiropractor san
+    // antonio" query while "SOT" reinforces the specialty differentiator
+    // (you're not a generic family chiropractor, you're THE Advanced SOT
+    // certified chiropractor in San Antonio).
     title: isEs
-      ? "Pura Vida Chiropractic | Quiropráctico San Antonio TX | Dr. Dan Foss"
-      : "Pura Vida Chiropractic | Top Chiropractor in San Antonio TX",
+      ? "Pura Vida Chiropractic | Mejor Quiropráctico SOT San Antonio TX"
+      : "Pura Vida Chiropractic | Best SOT Chiropractor in San Antonio TX",
     description: isEs
       ? "El Dr. Dan Foss — mejor quiropráctico en San Antonio TX. Ajuste quiropráctico San Antonio, terapia SoftWave, láser Clase IV. Quiropráctico cerca de mí en Stone Oak, Castle Hills, Alamo Heights y Helotes. Técnica SOT, quiropráctico que habla español, más de 23 años de experiencia. ¡Evaluación quiropráctica gratis San Antonio!"
       : "Pura Vida Chiropractic — top-rated chiropractor in San Antonio TX. Dr. Dan Foss DC offers chiropractic adjustment, SoftWave therapy, Class IV laser. Chiropractor near me serving Stone Oak, Castle Hills, Alamo Heights, and Helotes. SOT chiropractic, Spanish-speaking chiropractor in San Antonio TX, 23+ years experience. Free evaluation!",
@@ -824,8 +835,320 @@ export default async function HomePage({ params }: Props) {
           </div>
         </section>
 
-        {/* Wave: Why (#ffffff) → Insurance (#F4F9FF) */}
+        {/* Wave: Why (#ffffff) → SA Chiropractor Hub (#F4F9FF) */}
         <WaveDown fill="#F4F9FF" />
+
+        {/* ── SAN ANTONIO CHIROPRACTOR HUB ─────────────
+            1,500-word head-term-pillar section added 2026-05-13 after
+            Semrush competitor audit showed safamilychiro.com owns the
+            top 8 positions on the 9 highest-volume "chiropractor san
+            antonio" / "chiropractic san antonio" / "best chiropractor
+            san antonio" queries (combined ~4,500 monthly searches),
+            while Pura Vida sits at positions 21-40 (effectively
+            invisible). Their advantage: brand name "San Antonio Family
+            Chiropractic" literally contains the keyword.
+
+            Counter-strategy: increase head-term keyword density on the
+            homepage without diluting the SOT/CMRT/Cranial/bilingual
+            specialty positioning. This section frames the head-term
+            question ("how do I find a chiropractor in San Antonio?")
+            with the specialty answer ("the only Advanced SOT
+            certified chiropractor in the city"). */}
+        <section className={styles.saChiroHubSection}>
+          <div className={styles.sectionInner}>
+            <h2 className={styles.sectionTitle}>
+              {isEs
+                ? "¿Buscando un Quiropráctico en San Antonio? Esto Es Lo Que Debe Saber"
+                : "Looking for a Chiropractor in San Antonio? Here's What to Know"}
+            </h2>
+
+            <div className={styles.saChiroHubLead}>
+              <p>
+                {isEs
+                  ? "Si ha buscado “quiropráctico San Antonio” y se ha sentido abrumado, no está solo. Hay más de 250 quiroprácticos en San Antonio, TX — y la mayoría ofrecen el mismo enfoque general: el ajuste rápido, el pop, el adiós. En Pura Vida Chiropractic, hacemos algo fundamentalmente diferente."
+                  : "If you've searched \"chiropractor San Antonio\" and felt overwhelmed by the options, you're not alone. There are over 250 chiropractors in San Antonio, TX — and most offer the same general approach: the quick adjustment, the pop, the goodbye. At Pura Vida Chiropractic, we do something fundamentally different."}
+              </p>
+              <p>
+                {isEs
+                  ? "Esta página le ayudará a entender qué buscar en un quiropráctico en San Antonio, por qué la técnica del Dr. Foss es única entre los quiroprácticos de San Antonio TX, y cómo nuestro enfoque ayuda con problemas que otros quiroprácticos en San Antonio no abordan."
+                  : "This page will help you understand what to look for in a chiropractor in San Antonio, why Dr. Foss's technique is unique among San Antonio chiropractors, and how our approach helps with problems other chiropractors in San Antonio don't address."}
+              </p>
+            </div>
+
+            {/* What to look for — checklist format */}
+            <div className={styles.saChiroHubBlock}>
+              <h3 className={styles.saChiroHubH3}>
+                {isEs
+                  ? "5 Cosas Que Buscar en el Mejor Quiropráctico de San Antonio"
+                  : "5 Things to Look For in the Best Chiropractor in San Antonio"}
+              </h3>
+              <p>
+                {isEs
+                  ? "No todos los quiroprácticos en San Antonio TX están entrenados al mismo nivel. Estos son los cinco criterios que separan a los mejores quiroprácticos de San Antonio del resto:"
+                  : "Not all chiropractors in San Antonio TX are trained to the same level. These five criteria separate the best chiropractors in San Antonio from the rest:"}
+              </p>
+              <ol className={styles.saChiroHubList}>
+                <li>
+                  <strong>{isEs ? "Certificaciones avanzadas, no solo una licencia de DC." : "Advanced certifications, not just a DC license."}</strong>
+                  {" "}
+                  {isEs
+                    ? "Cada quiropráctico en San Antonio tiene una licencia DC básica, pero solo unos pocos completan las certificaciones avanzadas de varios años que marcan el nivel más alto de la profesión. El Dr. Foss tiene Certificación SOT Avanzada a través de SORSI — una credencial que requiere dominio de los tres pilares de la Técnica Sacro-Occipital: bloqueo pélvico de Categoría I/II/III para corrección estructural, CMRT (Técnica de Reflejo Manipulativo Quiropráctico) para ajuste visceral de órganos, y Craniopatía SOT para corrección de huesos craneales — más la certificación de Técnica Webster para el embarazo. Él es el único quiropráctico en San Antonio con esta pila completa de certificaciones."
+                    : "Every chiropractor in San Antonio has a basic DC license, but only a handful complete the multi-year advanced certifications that mark the top tier of the profession. Dr. Foss holds Advanced SOT certification through SORSI — a credential that requires mastery of all three Sacro-Occipital Technique pillars: Category I/II/III pelvic blocking for structural correction, CMRT (Chiropractic Manipulative Reflex Technique) for visceral organ adjusting, and SOT Craniopathy for cranial bone correction — plus Webster Technique certification for pregnancy. He is the only chiropractor in San Antonio holding this complete certification stack."}
+                </li>
+                <li>
+                  <strong>{isEs ? "Un sistema, no una lista de técnicas." : "A system, not a list of techniques."}</strong>
+                  {" "}
+                  {isEs
+                    ? "Muchos quiroprácticos en San Antonio TX enumeran 10 técnicas en su sitio web pero usan principalmente una (Diversificada). Pregunte cuál es su método principal y cómo lo eligen. El Protocolo Pura Vida es un método basado en SOT que evaluúa cada paciente neurológicamente y le asigna a una de tres categorías de tratamiento — sin adivinanzas."
+                    : "Many chiropractors in San Antonio TX list 10 techniques on their website but mainly use one (Diversified). Ask what their primary method is and how they choose it. The Pura Vida Protocol is an SOT-based method that evaluates each patient neurologically and assigns them to one of three treatment categories — no guessing."}
+                </li>
+                <li>
+                  <strong>{isEs ? "Enfoque en la causa raíz, no solo en el síntoma." : "Root-cause focus, not just symptom relief."}</strong>
+                  {" "}
+                  {isEs
+                    ? "Si su quiropráctico de San Antonio solo se enfoca en el lugar del dolor, está perdiendo cómo el cuerpo se mantiene a sí mismo. El SOT trata la columna, los órganos (a través de CMRT) y el cráneo como un sistema conectado. Por eso vemos resultados en condiciones que otros quiroprácticos en San Antonio no pueden tocar: vertigo, ATM, GERD, fatiga adrenal, infecciones recurrentes de oído, fertilidad y síndrome post-conmoción."
+                    : "If your San Antonio chiropractor only focuses on where it hurts, they're missing how the body holds itself together. SOT treats the spine, organs (through CMRT), and cranium as one connected system. That's why we get results on conditions other chiropractors in San Antonio can't touch: vertigo, TMJ, GERD, adrenal fatigue, recurring ear infections, fertility, and post-concussion syndrome."}
+                </li>
+                <li>
+                  <strong>{isEs ? "Modalidades regenerativas en el consultorio." : "Regenerative modalities in-office."}</strong>
+                  {" "}
+                  {isEs
+                    ? "Los mejores quiroprácticos en San Antonio combinan el ajuste con la regeneración de tejidos. Pura Vida ofrece terapia SoftWave Shockwave y láser Clase IV — dos tecnologías que aceleran la curación donde el ajuste por sí solo no es suficiente. Es por eso que ayudamos a pacientes con fascitis plantar, tendinitis crónica, hombro congelado y dolor articular que no han respondido a otros tratamientos."
+                    : "The best chiropractors in San Antonio combine adjustment with tissue regeneration. Pura Vida offers SoftWave Shockwave therapy and Class IV laser — two technologies that accelerate healing where adjustment alone isn't enough. That's why we help patients with plantar fasciitis, chronic tendonitis, frozen shoulder, and joint pain that hasn't responded to other treatments."}
+                </li>
+                <li>
+                  <strong>{isEs ? "Atención bilingüe para la diversidad de San Antonio." : "Bilingual care for San Antonio's diverse population."}</strong>
+                  {" "}
+                  {isEs
+                    ? "El Dr. Foss es uno de los pocos quiroprácticos en San Antonio TX que ofrece atención completamente bilingüe en inglés y español. Tras años practicando en Costa Rica, España, Irlanda y los Países Bajos, entiende la cultura latina y las necesidades de salud específicas de la comunidad hispana de San Antonio. Si busca un “quiropráctico cerca de mí que hable español”, ha llegado al lugar correcto."
+                    : "Dr. Foss is one of the few chiropractors in San Antonio TX offering fully bilingual care in English and Spanish. After years practicing in Costa Rica, Spain, Ireland, and the Netherlands, he understands Latino culture and the specific health needs of San Antonio's Hispanic community. If you're searching for a \"chiropractor near me who speaks Spanish,\" you've come to the right place."}
+                </li>
+              </ol>
+            </div>
+
+            {/* Conditions chiropractors in SA can/can't treat */}
+            <div className={styles.saChiroHubBlock}>
+              <h3 className={styles.saChiroHubH3}>
+                {isEs
+                  ? "Lo Que Otros Quiroprácticos en San Antonio No Tratan"
+                  : "What Other Chiropractors in San Antonio Can't Treat"}
+              </h3>
+              <p>
+                {isEs
+                  ? "El quiropráctico promedio en San Antonio puede ayudarle con dolor de espalda básico y dolor de cuello. Pero estos son los problemas reales que vienen a Pura Vida después de probar a uno o dos quiroprácticos en San Antonio TX sin resultados:"
+                  : "The average chiropractor in San Antonio can help you with basic back pain and neck pain. But these are the real problems that come to Pura Vida after trying one or two other San Antonio chiropractors without results:"}
+              </p>
+              <ul className={styles.saChiroHubList}>
+                <li>{isEs ? "Dolores de cabeza y migrañas crónicos que no responden a medicamentos" : "Chronic headaches and migraines that don't respond to medication"}</li>
+                <li>{isEs ? "Vértigo, tinnitus o problemas de equilibrio inexplicables" : "Vertigo, tinnitus, or unexplained balance issues"}</li>
+                <li>{isEs ? "ATM y dolor mandibular que dispositivos dentales no resolvieron" : "TMJ and jaw pain that dental devices haven't resolved"}</li>
+                <li>{isEs ? "Síntomas post-conmoción meses después de un accidente o lesión deportiva" : "Post-concussion symptoms months after an accident or sports injury"}</li>
+                <li>{isEs ? "Reflujo GERD, fatiga adrenal o problemas digestivos que parecen “médicos”" : "GERD reflux, adrenal fatigue, or digestive issues that seem \"medical\""}</li>
+                <li>{isEs ? "Cólicos, problemas de lactancia o tortícolis en bebés" : "Colic, latching issues, or torticollis in infants"}</li>
+                <li>{isEs ? "Presentación podálica o dolor pélvico durante el embarazo (Técnica Webster)" : "Breech presentation or pelvic pain during pregnancy (Webster Technique)"}</li>
+                <li>{isEs ? "Infecciones recurrentes de oído en niños" : "Recurring ear infections in children"}</li>
+                <li>{isEs ? "Ajustes que “no se mantienen” — vuelve cada semana sin progreso" : "Adjustments that \"don't hold\" — coming back every week with no progress"}</li>
+              </ul>
+              <p>
+                {isEs
+                  ? "Si reconoce alguno de estos en su experiencia con quiroprácticos anteriores en San Antonio, hay una razón: faltaba el sistema correcto. SOT aborda la columna, los órganos y el cráneo como una unidad integrada — que es por qué los resultados llegan cuando otros tratamientos quiroprácticos en San Antonio fallan."
+                  : "If you recognize any of these from your experience with previous chiropractors in San Antonio, there's a reason — the right system was missing. SOT addresses the spine, organs, and cranium as one integrated unit, which is why results come when other San Antonio chiropractic treatments fail."}
+              </p>
+            </div>
+
+            {/* Neighborhoods we serve */}
+            <div className={styles.saChiroHubBlock}>
+              <h3 className={styles.saChiroHubH3}>
+                {isEs
+                  ? "Quiropráctico para Cada Vecindario de San Antonio"
+                  : "Chiropractor for Every San Antonio Neighborhood"}
+              </h3>
+              <p>
+                {isEs
+                  ? "Nuestro consultorio en 2318 NW Military Hwy, Suite 103, está ubicado centralmente para los pacientes de toda el área de San Antonio. Aceptamos pacientes nuevos de:"
+                  : "Our office at 2318 NW Military Hwy, Suite 103, is centrally located for patients across the San Antonio area. We accept new patients from:"}
+              </p>
+              <ul className={styles.saChiroHubGrid}>
+                <li><strong>Stone Oak</strong> {isEs ? "— quiropráctico" : "— chiropractor"}</li>
+                <li><strong>Castle Hills</strong> {isEs ? "— quiropráctico" : "— chiropractor"}</li>
+                <li><strong>Alamo Heights</strong> {isEs ? "— quiropráctico" : "— chiropractor"}</li>
+                <li><strong>Olmos Park</strong> {isEs ? "— quiropráctico" : "— chiropractor"}</li>
+                <li><strong>Helotes</strong> {isEs ? "— quiropráctico" : "— chiropractor"}</li>
+                <li><strong>Shavano Park</strong> {isEs ? "— quiropráctico" : "— chiropractor"}</li>
+                <li><strong>Hill Country Village</strong> {isEs ? "— quiropráctico" : "— chiropractor"}</li>
+                <li><strong>Hollywood Park</strong> {isEs ? "— quiropráctico" : "— chiropractor"}</li>
+                <li><strong>Leon Valley</strong> {isEs ? "— quiropráctico" : "— chiropractor"}</li>
+                <li><strong>Boerne</strong> {isEs ? "— quiropráctico" : "— chiropractor"}</li>
+                <li><strong>Balcones Heights</strong> {isEs ? "— quiropráctico" : "— chiropractor"}</li>
+                <li><strong>Windcrest, Live Oak, Universal City, Converse</strong></li>
+              </ul>
+              <p>
+                {isEs
+                  ? "Si ha escrito “quiropráctico cerca de mí San Antonio” y vive dentro de 30 minutos del centro de San Antonio, está dentro de nuestra área principal de servicio."
+                  : "If you've typed \"chiropractor near me San Antonio\" and you live within 30 minutes of central San Antonio, you're within our primary service area."}
+              </p>
+            </div>
+
+            {/* Side-by-side comparison table — high-intent content for
+                "best chiropractor san antonio" searchers comparing options.
+                The 'comparison' search intent is the strongest signal for
+                this query type; presenting it inline saves the user a
+                Google tab and increases on-page time. */}
+            <div className={styles.saChiroHubBlock}>
+              <h3 className={styles.saChiroHubH3}>
+                {isEs
+                  ? "Pura Vida vs. el Quiropráctico Típico en San Antonio"
+                  : "Pura Vida vs. the Typical San Antonio Chiropractor"}
+              </h3>
+              <p>
+                {isEs
+                  ? "Si está comparando quiroprácticos en San Antonio TX, esta tabla muestra exactamente cómo Pura Vida se diferencia de la oferta promedio en el mercado:"
+                  : "If you're comparing chiropractors in San Antonio TX, this table shows exactly how Pura Vida differs from the typical offering in the market:"}
+              </p>
+              <div className={styles.saChiroHubCompareWrap}>
+                <table className={styles.saChiroHubCompare}>
+                  <thead>
+                    <tr>
+                      <th>{isEs ? "Criterio" : "Criterion"}</th>
+                      <th>{isEs ? "Quiropráctico típico en SA" : "Typical SA chiropractor"}</th>
+                      <th>{isEs ? "Pura Vida Chiropractic" : "Pura Vida Chiropractic"}</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td>{isEs ? "Técnica principal" : "Primary technique"}</td>
+                      <td>{isEs ? "Diversificada (general)" : "Diversified (general)"}</td>
+                      <td>{isEs ? "SOT Avanzado (específico)" : "Advanced SOT (specific)"}</td>
+                    </tr>
+                    <tr>
+                      <td>{isEs ? "Trata columna, órganos y cráneo como un sistema" : "Treats spine, organs, and cranium as one system"}</td>
+                      <td>❌</td>
+                      <td>✅</td>
+                    </tr>
+                    <tr>
+                      <td>{isEs ? "Certificación CMRT (ajuste visceral de órganos)" : "CMRT certified (visceral organ adjusting)"}</td>
+                      <td>❌</td>
+                      <td>{isEs ? "✅ (el único en San Antonio)" : "✅ (only one in San Antonio)"}</td>
+                    </tr>
+                    <tr>
+                      <td>{isEs ? "Craniopatía SOT (ajuste de huesos craneales)" : "SOT Craniopathy (cranial bone adjusting)"}</td>
+                      <td>❌</td>
+                      <td>{isEs ? "✅ (el único en San Antonio)" : "✅ (only one in San Antonio)"}</td>
+                    </tr>
+                    <tr>
+                      <td>{isEs ? "Técnica Webster certificada (embarazo)" : "Webster Technique certified (pregnancy)"}</td>
+                      <td>{isEs ? "A veces" : "Sometimes"}</td>
+                      <td>✅</td>
+                    </tr>
+                    <tr>
+                      <td>{isEs ? "Bilingüe inglés/español" : "Bilingual English/Spanish"}</td>
+                      <td>{isEs ? "Raro" : "Rare"}</td>
+                      <td>✅</td>
+                    </tr>
+                    <tr>
+                      <td>{isEs ? "SoftWave Shockwave + láser Clase IV en consultorio" : "SoftWave Shockwave + Class IV laser in-office"}</td>
+                      <td>{isEs ? "Raro" : "Rare"}</td>
+                      <td>✅</td>
+                    </tr>
+                    <tr>
+                      <td>{isEs ? "Consulta gratis para nuevos pacientes" : "Free consultation for new patients"}</td>
+                      <td>{isEs ? "A veces" : "Sometimes"}</td>
+                      <td>✅</td>
+                    </tr>
+                    <tr>
+                      <td>{isEs ? "Años de experiencia clínica" : "Years of clinical experience"}</td>
+                      <td>{isEs ? "Variado" : "Varies"}</td>
+                      <td>{isEs ? "23+ años en EE.UU., Costa Rica, España, Irlanda, Países Bajos, Guatemala" : "23+ years across US, Costa Rica, Spain, Ireland, Netherlands, Guatemala"}</td>
+                    </tr>
+                    <tr>
+                      <td>{isEs ? "Trata cuidado prenatal pediátrico desde recién nacidos" : "Treats pediatric prenatal care from newborn"}</td>
+                      <td>{isEs ? "Raro" : "Rare"}</td>
+                      <td>✅</td>
+                    </tr>
+                    <tr>
+                      <td>{isEs ? "Ayuda con condiciones médicas (vértigo, ATM, GERD, fertilidad)" : "Helps with medical conditions (vertigo, TMJ, GERD, fertility)"}</td>
+                      <td>{isEs ? "Limitado" : "Limited"}</td>
+                      <td>✅</td>
+                    </tr>
+                    <tr>
+                      <td>{isEs ? "Calificación de Google" : "Google rating"}</td>
+                      <td>{isEs ? "Variado" : "Varies"}</td>
+                      <td>{isEs ? "4.8★ · 159+ reseñas verificadas" : "4.8★ · 159+ verified reviews"}</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+
+            {/* Why pura vida ranks for "best" */}
+            <div className={styles.saChiroHubBlock}>
+              <h3 className={styles.saChiroHubH3}>
+                {isEs
+                  ? "Por Qué Pura Vida Es Uno de los Mejores Quiroprácticos en San Antonio"
+                  : "Why Pura Vida Is One of the Best Chiropractors in San Antonio"}
+              </h3>
+              <p>
+                {isEs
+                  ? "Decir que somos uno de los “mejores quiroprácticos en San Antonio” no es marketing — es un reflejo de tres hechos verificables sobre el Dr. Dan Foss:"
+                  : "Calling ourselves one of the \"best chiropractors in San Antonio\" isn't marketing — it's a reflection of three verifiable facts about Dr. Dan Foss:"}
+              </p>
+              <ul className={styles.saChiroHubList}>
+                <li>
+                  <strong>{isEs ? "Credenciales avanzadas que pocos quiroprácticos en San Antonio tienen." : "Advanced credentials few chiropractors in San Antonio hold."}</strong>
+                  {" "}
+                  {isEs
+                    ? "Certificación SOT Avanzada a través de SORSI (la sociedad de técnica quiropráctica más antigua del mundo, fundada en 1929). “SOT Avanzado” significa la finalización del currículo completo: bloqueo pélvico de Categoría I/II/III para corrección estructural, CMRT (Técnica de Reflejo Manipulativo Quiropráctico) para ajuste visceral de órganos, y Craniopatía SOT para corrección de huesos craneales. El Dr. Foss es el único quiropráctico en San Antonio TX que tiene la pila completa de Certificación SOT Avanzada."
+                    : "Advanced SOT certification through SORSI (the world's oldest chiropractic technique society, founded 1929). \"Advanced SOT\" means completion of the full multi-year curriculum: Category I/II/III pelvic blocking for structural correction, CMRT (Chiropractic Manipulative Reflex Technique) for visceral organ adjusting, and SOT Craniopathy for cranial bone correction. Dr. Foss is the only chiropractor in San Antonio TX holding the complete Advanced SOT certification stack."}
+                </li>
+                <li>
+                  <strong>{isEs ? "Experiencia internacional rara entre los quiroprácticos de San Antonio TX." : "International experience rare among San Antonio TX chiropractors."}</strong>
+                  {" "}
+                  {isEs
+                    ? "23+ años de experiencia clínica que abarcan Estados Unidos, Costa Rica, España, Irlanda, los Países Bajos y Guatemala. Esto significa enfoques clínicos más amplios que muchos quiroprácticos en San Antonio simplemente no han encontrado."
+                    : "23+ years of clinical experience spanning the United States, Costa Rica, Spain, Ireland, the Netherlands, and Guatemala. That breadth of clinical perspective is something most chiropractors in San Antonio simply haven't encountered."}
+                </li>
+                <li>
+                  <strong>{isEs ? "Calificación verificable de pacientes." : "Verifiable patient ratings."}</strong>
+                  {" "}
+                  {isEs
+                    ? "4.8 estrellas de más de 159 reseñas de Google. Cada reseña es un paciente real de San Antonio que ha pasado por nuestro proceso y ha visto resultados — muchos después de probar 2-3 otros quiroprácticos en San Antonio TX primero."
+                    : "4.8 stars from 159+ Google reviews. Every review is a real San Antonio patient who has gone through our process and seen results — many after trying 2-3 other chiropractors in San Antonio TX first."}
+                </li>
+              </ul>
+            </div>
+
+            {/* CTA */}
+            <div className={styles.saChiroHubCta}>
+              <h3 className={styles.saChiroHubH3}>
+                {isEs
+                  ? "Listo Para Probar al Mejor Quiropráctico en San Antonio?"
+                  : "Ready to Try the Best Chiropractor in San Antonio?"}
+              </h3>
+              <p>
+                {isEs
+                  ? "Su consulta inicial es gratuita. El Dr. Foss revisará su historial, hará un examen SOT completo y le dirá honestamente si podemos ayudarle. Si no podemos, le referiremos al proveedor correcto en San Antonio. Esa transparencia es por qué los pacientes se quedan."
+                  : "Your initial consultation is free. Dr. Foss will review your history, perform a complete SOT exam, and tell you honestly whether we can help. If we can't, we'll refer you to the right provider in San Antonio. That transparency is why patients stay."}
+              </p>
+              <a
+                href={`/${locale}/book-now`}
+                target="_blank"
+                rel="noopener noreferrer"
+                className={styles.saChiroHubBtn}
+              >
+                {isEs ? "Reservar Consulta Gratis San Antonio" : "Book Your Free San Antonio Consultation"}
+              </a>
+              <p className={styles.saChiroHubPhone}>
+                {isEs ? "O llame a nuestro consultorio quiropráctico de San Antonio:" : "Or call our San Antonio chiropractic office:"}
+                {" "}
+                <a href="tel:+12106851994" className={styles.saChiroHubPhoneLink}>
+                  (210) 685-1994
+                </a>
+              </p>
+            </div>
+          </div>
+        </section>
+
+        {/* Wave: SA Chiropractor Hub (#F4F9FF) → Insurance (also #F4F9FF, no wave) */}
 
         {/* ── INSURANCE ─────────────────────────────── */}
         <InsuranceSection locale={locale} />
