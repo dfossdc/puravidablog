@@ -168,6 +168,9 @@ const faqs = [
 
 // Other Spanish SA pages to cross-link
 const relatedSpanishPages = [
+  { slug: "quiropractico-bilingue-san-antonio", es: "Quiropráctico Bilingüe en San Antonio", en: "Bilingual Chiropractor in San Antonio" },
+  { slug: "quiropractico-hispano-san-antonio", es: "Quiropráctico Hispano en San Antonio", en: "Hispanic Chiropractor in San Antonio" },
+  { slug: "doctor-de-columna-san-antonio", es: "Doctor de Columna en San Antonio", en: "Spine Doctor in San Antonio" },
   { slug: "el-mejor-quiropractico-san-antonio", es: "El Mejor Quiropráctico San Antonio", en: "Best Chiropractor San Antonio" },
   { slug: "quiropratico-san-antonio", es: "Quiropráctico San Antonio (Servicios)", en: "Chiropractor San Antonio (Services)" },
   { slug: "san-antonio-quiropractico", es: "San Antonio Quiropráctico (Información)", en: "San Antonio Chiropractor (Info)" },

@@ -98,6 +98,12 @@ const spanishOnlyPages = [
   // Spanish-only definition + cultural pillars (Phase 2 Spanish dominate)
   "que-es-un-quiropractico", // 1,860 vol cluster: que es / qué hace / para qué sirve
   "huesero-san-antonio",     // cultural bridge: huesero (folk bone-setter) → licensed quiropráctico
+  // Tier 2.2/2.3 Spanish-market dominance (2026-05-13)
+  // Directly attack the 480-vol "quiropráctico cerca de mí que hablen español" head term cluster
+  // and the long-tail bilingüe / hispano / doctor-de-columna queries safamilychiro can't compete on.
+  "quiropractico-bilingue-san-antonio", // "quiropráctico bilingüe", "inglés y español"
+  "quiropractico-hispano-san-antonio",  // "quiropráctico hispano", "quiropráctico latino", huesero-vs-DC explainer
+  "doctor-de-columna-san-antonio",      // "doctor de columna", "doctor de espalda", "especialista en columna"
 ];
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
