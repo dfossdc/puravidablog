@@ -1,5 +1,5 @@
 ---
-title: "Technic vs Technique: SOT como Technic Quiropráctica"
+title: "Technic vs Technique: Por Qué SOT Es Technic Quiropráctica"
 description: "Por qué el Dr. Major Bertrand DeJarnette llamó deliberadamente a SOT una 'technic quiropráctica' en lugar de 'técnica' — y qué significa esa distinción de ingeniería para tu cuidado."
 date: "2026-04-15"
 lang: "es"
