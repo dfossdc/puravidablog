@@ -371,6 +371,27 @@ export default async function ConditionPage({
               ? "Somos insurance friendly. Traiga su tarjeta de seguro y identificación a la oficina para verificar cómo su seguro puede contribuir a su cuidado. Las citas para nuevos pacientes están disponibles con prontitud."
               : "We are insurance friendly. Bring your insurance card and ID to the office to verify how your insurance can contribute to your care. New patient appointments are available promptly."}
           </p>
+          {/* Hub link — every condition page passes link equity to the two
+              pillar hubs with keyword-rich anchor text. 99 EN × 1 link +
+              67 ES × 1 link = 166 internal links flowing into the hubs,
+              which directly improves their head-term rankings. */}
+          <p className={styles.sectionText}>
+            {isEs ? (
+              <>
+                ¿Está comparando opciones?{" "}
+                <Link href={`/${locale}/quiropractico-cerca-de-mi-san-antonio`}>Vea cómo elegir un quiropráctico cerca de mí en San Antonio</Link>
+                {" o lea nuestra guía sobre "}
+                <Link href={`/${locale}/el-mejor-quiropractico-san-antonio`}>cómo elegir el mejor quiropráctico en San Antonio</Link>.
+              </>
+            ) : (
+              <>
+                Comparing options?{" "}
+                <Link href={`/${locale}/chiropractor-near-me-san-antonio`}>See how to choose a chiropractor near me in San Antonio</Link>
+                {" or read our guide on "}
+                <Link href={`/${locale}/best-chiropractor-san-antonio`}>how to choose the best chiropractor in San Antonio</Link>.
+              </>
+            )}
+          </p>
         </div>
 
         {/* Frequently Asked Questions — emits FAQPage JSON-LD above for AI

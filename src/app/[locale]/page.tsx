@@ -869,9 +869,21 @@ export default async function HomePage({ params }: Props) {
                   : "If you've searched \"chiropractor San Antonio\" and felt overwhelmed by the options, you're not alone. There are over 250 chiropractors in San Antonio, TX — and most offer the same general approach: the quick adjustment, the pop, the goodbye. At Pura Vida Chiropractic, we do something fundamentally different."}
               </p>
               <p>
-                {isEs
-                  ? "Esta página le ayudará a entender qué buscar en un quiropráctico en San Antonio, por qué la técnica del Dr. Foss es única entre los quiroprácticos de San Antonio TX, y cómo nuestro enfoque ayuda con problemas que otros quiroprácticos en San Antonio no abordan."
-                  : "This page will help you understand what to look for in a chiropractor in San Antonio, why Dr. Foss's technique is unique among San Antonio chiropractors, and how our approach helps with problems other chiropractors in San Antonio don't address."}
+                {isEs ? (
+                  <>
+                    Esta página le ayudará a entender qué buscar en un quiropráctico en San Antonio, por qué la técnica del Dr. Foss es única entre los quiroprácticos de San Antonio TX, y cómo nuestro enfoque ayuda con problemas que otros quiroprácticos en San Antonio no abordan. Para una guía completa, consulte nuestras páginas pilares:{" "}
+                    <Link href={`/${locale}/quiropractico-cerca-de-mi-san-antonio`}>quiropráctico cerca de mí en San Antonio</Link>
+                    {" y "}
+                    <Link href={`/${locale}/el-mejor-quiropractico-san-antonio`}>cómo elegir el mejor quiropráctico de San Antonio</Link>.
+                  </>
+                ) : (
+                  <>
+                    This page will help you understand what to look for in a chiropractor in San Antonio, why Dr. Foss&apos;s technique is unique among San Antonio chiropractors, and how our approach helps with problems other chiropractors in San Antonio don&apos;t address. For a deeper guide, see our pillar pages:{" "}
+                    <Link href={`/${locale}/chiropractor-near-me-san-antonio`}>chiropractor near me in San Antonio</Link>
+                    {" and "}
+                    <Link href={`/${locale}/best-chiropractor-san-antonio`}>how to choose the best chiropractor in San Antonio</Link>.
+                  </>
+                )}
               </p>
             </div>
 
@@ -968,19 +980,26 @@ export default async function HomePage({ params }: Props) {
                   ? "Nuestro consultorio en 2318 NW Military Hwy, Suite 103, está ubicado centralmente para los pacientes de toda el área de San Antonio. Aceptamos pacientes nuevos de:"
                   : "Our office at 2318 NW Military Hwy, Suite 103, is centrally located for patients across the San Antonio area. We accept new patients from:"}
               </p>
+              {/* Neighborhood grid — each cell is now an internal link
+                  to the existing neighborhood landing page, creating 12
+                  high-equity homepage→spoke links. This is the SPOKE side
+                  of the hub-and-spoke pattern: the homepage flows
+                  authority down to the neighborhood pages, and each
+                  neighborhood page links back to the homepage and to the
+                  pillar hubs. */}
               <ul className={styles.saChiroHubGrid}>
-                <li><strong>Stone Oak</strong> {isEs ? "— quiropráctico" : "— chiropractor"}</li>
-                <li><strong>Castle Hills</strong> {isEs ? "— quiropráctico" : "— chiropractor"}</li>
-                <li><strong>Alamo Heights</strong> {isEs ? "— quiropráctico" : "— chiropractor"}</li>
-                <li><strong>Olmos Park</strong> {isEs ? "— quiropráctico" : "— chiropractor"}</li>
-                <li><strong>Helotes</strong> {isEs ? "— quiropráctico" : "— chiropractor"}</li>
-                <li><strong>Shavano Park</strong> {isEs ? "— quiropráctico" : "— chiropractor"}</li>
-                <li><strong>Hill Country Village</strong> {isEs ? "— quiropráctico" : "— chiropractor"}</li>
-                <li><strong>Hollywood Park</strong> {isEs ? "— quiropráctico" : "— chiropractor"}</li>
-                <li><strong>Leon Valley</strong> {isEs ? "— quiropráctico" : "— chiropractor"}</li>
-                <li><strong>Boerne</strong> {isEs ? "— quiropráctico" : "— chiropractor"}</li>
-                <li><strong>Balcones Heights</strong> {isEs ? "— quiropráctico" : "— chiropractor"}</li>
-                <li><strong>Windcrest, Live Oak, Universal City, Converse</strong></li>
+                <li><Link href={`/${locale}/stone-oak-chiropractor`}><strong>Stone Oak</strong> {isEs ? "— quiropráctico" : "— chiropractor"}</Link></li>
+                <li><Link href={`/${locale}/castle-hills-chiropractor`}><strong>Castle Hills</strong> {isEs ? "— quiropráctico" : "— chiropractor"}</Link></li>
+                <li><Link href={`/${locale}/alamo-heights-chiropractor`}><strong>Alamo Heights</strong> {isEs ? "— quiropráctico" : "— chiropractor"}</Link></li>
+                <li><Link href={`/${locale}/olmos-park-chiropractor`}><strong>Olmos Park</strong> {isEs ? "— quiropráctico" : "— chiropractor"}</Link></li>
+                <li><Link href={`/${locale}/helotes-chiropractor`}><strong>Helotes</strong> {isEs ? "— quiropráctico" : "— chiropractor"}</Link></li>
+                <li><Link href={`/${locale}/shavano-park-chiropractor`}><strong>Shavano Park</strong> {isEs ? "— quiropráctico" : "— chiropractor"}</Link></li>
+                <li><Link href={`/${locale}/hill-country-village-chiropractor`}><strong>Hill Country Village</strong> {isEs ? "— quiropráctico" : "— chiropractor"}</Link></li>
+                <li><Link href={`/${locale}/hollywood-park-chiropractor`}><strong>Hollywood Park</strong> {isEs ? "— quiropráctico" : "— chiropractor"}</Link></li>
+                <li><Link href={`/${locale}/leon-valley-chiropractor`}><strong>Leon Valley</strong> {isEs ? "— quiropráctico" : "— chiropractor"}</Link></li>
+                <li><Link href={`/${locale}/boerne-chiropractor`}><strong>Boerne</strong> {isEs ? "— quiropráctico" : "— chiropractor"}</Link></li>
+                <li><Link href={`/${locale}/balcones-heights-chiropractor`}><strong>Balcones Heights</strong> {isEs ? "— quiropráctico" : "— chiropractor"}</Link></li>
+                <li><Link href={`/${locale}/live-oak-chiropractor`}><strong>Live Oak</strong> {isEs ? "— quiropráctico" : "— chiropractor"}</Link></li>
               </ul>
               <p>
                 {isEs

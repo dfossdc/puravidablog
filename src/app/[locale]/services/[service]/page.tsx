@@ -1173,6 +1173,34 @@ export default async function ServicePage({ params }: Props) {
               ? "¿Listo para experimentar la diferencia? El Dr. Dan Foss, DC está aquí para ayudarle."
               : "Ready to experience the difference? Dr. Dan Foss, DC is here to help."
             }</p>
+            {/* Hub link — every service page passes link equity to the two
+                pillar hubs with keyword-rich anchor text. 18 EN + 18 ES
+                service pages each add a flow into the head-term hubs. */}
+            <p style={{ fontSize: "0.95rem", color: "#475569", margin: "0.5rem 0 1rem" }}>
+              {isEs ? (
+                <>
+                  ¿Buscando un quiropráctico en San Antonio?{" "}
+                  <a href={`/${locale}/quiropractico-cerca-de-mi-san-antonio`} style={{ color: "#2685b2" }}>
+                    Vea cómo elegir un quiropráctico cerca de mí en San Antonio
+                  </a>
+                  {" o lea "}
+                  <a href={`/${locale}/el-mejor-quiropractico-san-antonio`} style={{ color: "#2685b2" }}>
+                    cómo elegir el mejor quiropráctico en San Antonio
+                  </a>.
+                </>
+              ) : (
+                <>
+                  Looking for a chiropractor in San Antonio?{" "}
+                  <a href={`/${locale}/chiropractor-near-me-san-antonio`} style={{ color: "#2685b2" }}>
+                    See how to choose a chiropractor near me in San Antonio
+                  </a>
+                  {" or read "}
+                  <a href={`/${locale}/best-chiropractor-san-antonio`} style={{ color: "#2685b2" }}>
+                    how to choose the best chiropractor in San Antonio
+                  </a>.
+                </>
+              )}
+            </p>
             <a href={ctaHref} className={styles.ctaBtn} target="_blank" rel="noopener noreferrer">
               {ctaText} →
             </a>
