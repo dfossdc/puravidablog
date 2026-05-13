@@ -49,25 +49,12 @@ export async function generateMetadata({
   const c = conditionsWithEs.find((x) => x.slug === slug);
   if (!c) return {};
   const isEs = locale === "es";
-  // Title handling for the condition page.
-  //
-  // 14 of 99 condition source titles already include a keyword suffix
-  // (e.g. "Sciatica | Sciatica Chiropractor San Antonio TX"). For those we
-  // use the source as-is — it's already keyword-rich and the H1 component
-  // strips everything after the first pipe so <title> ≠ <h1>.
-  //
-  // The other 85 source titles are bare condition names ("Achilles
-  // Tendonitis", "Acid Reflux & GERD"). Used straight, <title> would
-  // exactly match the H1 — Semrush flagged this as 'Duplicate content in
-  // h1 and title' on 145 pages. Appending " | Pura Vida Chiropractic"
-  // (25 chars) gives the bare titles a brand differentiator while
-  // keeping the total ≤62 chars across all 99 EN + 67 ES conditions.
-  const rawTitle = isEs ? (c.titleEs ?? c.title) : c.title;
-  const finalTitle = rawTitle.includes("|")
-    ? rawTitle
-    : `${rawTitle} | Pura Vida Chiropractic`;
+  // Title is taken straight from the source — the condition titles already
+  // include a brand/location suffix (e.g. "| Chiropractor San Antonio TX")
+  // so adding another " | Pura Vida" tail pushes most titles past Google's
+  // ~60-character snippet limit. Semrush was flagging 21 pages for this.
   return {
-    title: finalTitle,
+    title: isEs ? (c.titleEs ?? c.title) : c.title,
     description: isEs ? (c.metaDescriptionEs ?? c.metaDescription) : c.metaDescription,
     alternates: {
       canonical: `/${locale}/conditions/${slug}`,
