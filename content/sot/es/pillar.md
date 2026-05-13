@@ -1,5 +1,5 @@
 ---
-title: "¿Qué es SOT? Técnica Sacro Occipital Explicada"
+title: "¿Qué es SOT? Técnica Sacro Occipital Explicada | Pura Vida Quiropráctica San Antonio"
 description: "El sistema quiropráctico SOT completo — columna y pelvis, órganos (CMRT) y cráneo — explicado en español sencillo por el Dr. Dan Foss en San Antonio, TX."
 date: "2026-04-15"
 lang: "es"

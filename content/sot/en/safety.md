@@ -1,5 +1,5 @@
 ---
-title: "Is Chiropractic Safe? Honest Data | Pura Vida SA"
+title: "Is Chiropractic Safe? The Honest Answer With Real Data | Pura Vida Chiropractic"
 description: "The real safety data on chiropractic care. Injury rates, comparison to medical procedures, and why SOT is among the safest chiropractic techniques."
 date: "2026-04-15"
 lang: "en"

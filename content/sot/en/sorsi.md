@@ -1,5 +1,5 @@
 ---
-title: "Why Advanced SOT Certification Matters: The SORSI Story"
+title: "Why \"Advanced SOT Certified\" Matters: The SORSI Story | Pura Vida San Antonio"
 description: "Only ~3% of US chiropractors are Advanced SOT certified through SORSI — the world's oldest chiropractic technique society (founded 1929). Here's what that credential means for your spine, organs, and cranial care at Pura Vida."
 date: "2026-04-15"
 lang: "en"

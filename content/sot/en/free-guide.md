@@ -1,5 +1,5 @@
 ---
-title: "Free Patient Guide to SOT | Pura Vida San Antonio"
+title: "Free Patient Guide: What Is SOT? | Pura Vida Chiropractic San Antonio"
 description: "A free downloadable guide to SOT chiropractic for new and returning patients. What it is, how it works, what to expect — in plain English."
 date: "2026-04-15"
 lang: "en"

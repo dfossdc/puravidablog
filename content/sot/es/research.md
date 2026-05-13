@@ -1,5 +1,5 @@
 ---
-title: "Investigación y Evidencia de la Quiropráctica SOT"
+title: "Investigación y Evidencia de la Quiropráctica SOT | Pura Vida Quiropráctica San Antonio"
 description: "La base de evidencia detrás de la Técnica Sacro Occipital, CMRT y Craneopatía SOT. Estudios clínicos, reportes de casos y la literatura revisada por pares."
 date: "2026-04-15"
 lang: "es"

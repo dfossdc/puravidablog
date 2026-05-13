@@ -1,5 +1,5 @@
 ---
-title: "SOT Chiropractic Research & Evidence | Pura Vida SA"
+title: "SOT Chiropractic Research & Evidence | Pura Vida Chiropractic San Antonio"
 description: "The evidence base behind Sacro Occipital Technique, CMRT, and SOT Craniopathy. Clinical studies, case reports, and the peer-reviewed literature."
 date: "2026-04-15"
 lang: "en"

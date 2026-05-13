@@ -1,5 +1,5 @@
 ---
-title: "Preguntas Frecuentes SOT | Pura Vida San Antonio"
+title: "Preguntas Frecuentes SOT | Pura Vida Quiropráctica San Antonio"
 description: "Preguntas frecuentes sobre el cuidado quiropráctico de Técnica Sacro Occipital — qué es, a quién ayuda, qué esperar, y cómo SOT se diferencia de la quiropráctica tradicional."
 date: "2026-04-15"
 lang: "es"

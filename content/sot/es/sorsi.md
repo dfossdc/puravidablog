@@ -1,5 +1,5 @@
 ---
-title: "Por Qué Importa la Certificación SOT Avanzada: SORSI"
+title: "Por Qué Importa la Certificación \"SOT Avanzada\": La Historia de SORSI | Pura Vida San Antonio"
 description: "Solo ~3% de los quiroprácticos en EE.UU. tienen Certificación SOT Avanzada por SORSI — la sociedad de técnica quiropráctica más antigua del mundo (fundada en 1929). Esto es lo que ese credencial significa para su columna, órganos y cráneo en Pura Vida."
 date: "2026-04-15"
 lang: "es"

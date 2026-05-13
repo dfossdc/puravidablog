@@ -1,5 +1,5 @@
 ---
-title: "Technic vs Technique: Why SOT Is a Chiropractic Technic"
+title: "Technic vs Technique: Why SOT Is Called a Chiropractic Technic | Pura Vida Chiropractic"
 description: "Why Dr. Major Bertrand DeJarnette deliberately called SOT a 'chiropractic technic' rather than 'technique' — and what that engineering distinction means for your care."
 date: "2026-04-15"
 lang: "en"
