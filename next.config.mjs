@@ -417,6 +417,20 @@ const nextConfig = {
       { source: "/chiropractic-faq",                              destination: "/en/faq",                            permanent: true },
       { source: "/es-mx/chiropractic-faq",                        destination: "/es/faq",                            permanent: true },
       { source: "/Auto-Injury-Chiropractor/",                     destination: "/en/services/auto-injury",           permanent: true },
+      // 5/14/26: Next.js strips trailing slashes BEFORE matching redirects,
+      // so the three slash-only rules above (`/new-patient-form/`,
+      // `/services/`, `/initial-reservation/new-patient-forms/`) never
+      // fire — by the time matching runs, the slash is gone and there's no
+      // matching no-slash rule, so the path 404s. Add explicit no-slash
+      // counterparts. Verified-broken via curl on 5/14 in the same GSC
+      // verification run that found the "Crawled - currently not indexed"
+      // validation failure. Same shape as the 5/8 meet-dr-foss /
+      // office-hours stragglers fixed in commit 33b871d.
+      { source: "/new-patient-form",                              destination: "/en/new-patient",                    permanent: true },
+      { source: "/services",                                      destination: "/en/services",                       permanent: true },
+      { source: "/initial-reservation/new-patient-forms",         destination: "/en/new-patient",                    permanent: true },
+      { source: "/initial-reservation/new-patient-forms/",        destination: "/en/new-patient",                    permanent: true },
+      { source: "/initial-reservation/:path*",                    destination: "/en/new-patient",                    permanent: true },
 
       // ── GSC May 3 2026: 'Duplicate canonical' trailing-slash variants ──
       // The non-slash versions of these are already redirected (above).
