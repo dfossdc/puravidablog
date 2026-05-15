@@ -30,12 +30,26 @@ export default function GoogleAnalytics() {
   const loaderId = gaId || adsId;
   if (!loaderId) return null;
 
+  // 5/14/26: Two-script split for TBT optimization.
+  //   - INLINE bootstrap (afterInteractive): defines window.gtag + the
+  //     dataLayer queue and pushes the initial `js` + `config` calls. Runs
+  //     early so window.gtag is a function by the time AnalyticsTracker's
+  //     useEffect attaches its click listener — any pre-load click queues
+  //     in dataLayer and is replayed when gtag.js arrives.
+  //   - EXTERNAL gtag.js loader (lazyOnload): the heavy ~80KB Google script
+  //     that drains the dataLayer queue. Deferring it past window.onload
+  //     pulls ~250ms off Total Blocking Time on the Lighthouse mobile
+  //     profile without dropping events (dataLayer is the buffer).
+  //
+  // PSI run on 5/14 showed mobile Performance 67 / TBT 480ms / LCP 4.2s.
+  // gtag.js was the top "Minimize main-thread work" + "Reduce unused JS"
+  // contributor. Mobile score regressed from 5/10's 92 mostly because the
+  // SEO pushes since then (FAQ JSON-LD on 99 EN + 67 ES condition pages,
+  // homepage hub rebuild, Spanish landing pages) materially grew HTML/JS
+  // payload — this is the highest-leverage single fix that doesn't touch
+  // page content.
   return (
     <>
-      <Script
-        src={`https://www.googletagmanager.com/gtag/js?id=${loaderId}`}
-        strategy="afterInteractive"
-      />
       <Script id="ga4-init" strategy="afterInteractive">
         {`
           window.dataLayer = window.dataLayer || [];
@@ -49,6 +63,10 @@ export default function GoogleAnalytics() {
           ${adsId ? `gtag('config', '${adsId}');` : ""}
         `}
       </Script>
+      <Script
+        src={`https://www.googletagmanager.com/gtag/js?id=${loaderId}`}
+        strategy="lazyOnload"
+      />
     </>
   );
 }
