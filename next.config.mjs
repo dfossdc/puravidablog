@@ -178,6 +178,9 @@ const nextConfig = {
       { source: "/en/videos", destination: "/en", permanent: true },
       { source: "/es/videos", destination: "/es", permanent: true },
       { source: "/mission-trips", destination: "/en/mission", permanent: true },
+      // 5/15/26: GSC "Not found (404)" bucket has /mission (no -trips). Add
+      // explicit redirect — was 404'ing.
+      { source: "/mission", destination: "/en/mission", permanent: true },
       { source: "/trigeminal-neuralgia-and-chiropractic", destination: "/en/conditions", permanent: true },
       { source: "/radiografias", destination: "/es/blog/radiografias", permanent: true },
       { source: "/initial-visit", destination: "/en/new-patient", permanent: true },
@@ -335,6 +338,12 @@ const nextConfig = {
       { source: "/conditions/:slug+", destination: "/en/conditions/:slug+", permanent: true },
       { source: "/services/:slug+", destination: "/en/services/:slug+", permanent: true },
       { source: "/blog/:slug+", destination: "/en/blog/:slug+", permanent: true },
+      // 5/15/26: /sot/conditions/<X> must come BEFORE the /sot/:slug* wildcard.
+      // The wildcard would otherwise send /sot/conditions/pinched-nerve to
+      // /en/sot/conditions/pinched-nerve — which 404s. The actual SOT pages
+      // are flat under /en/sot/ (no /conditions/ subdirectory), so any
+      // /sot/conditions/<slug> reference should go to /en/conditions/<slug>.
+      { source: "/sot/conditions/:slug+", destination: "/en/conditions/:slug+", permanent: true },
       { source: "/sot/:slug*", destination: "/en/sot/:slug*", permanent: true },
 
       // ── Typo fix: /en/sot/renearch → /en/sot/research ──
