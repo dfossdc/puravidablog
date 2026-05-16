@@ -1121,7 +1121,8 @@
 .newPatientBtn {
   display: inline-block;
   background: #fb8e28;
-  color: #ffffff;
+  /* 5/14/26: WCAG contrast — same fix as .howCta. #fb8e28 + #1a1a1a = 7.46:1. */
+  color: #1a1a1a;
   font-weight: 800;
   font-size: 1.05rem;
   padding: 0.9rem 2rem;
@@ -1133,7 +1134,7 @@
 
 .newPatientBtn:hover {
   background: #e07a18;
-  color: #ffffff;
+  color: #1a1a1a;
   transform: translateY(-2px);
 }
 
@@ -1186,7 +1187,8 @@
 .finalCtaBtn {
   display: inline-block;
   background: #fb8e28;
-  color: #ffffff;
+  /* 5/14/26: WCAG contrast — same fix as .howCta. */
+  color: #1a1a1a;
   font-weight: 800;
   font-size: 1.05rem;
   padding: 0.85rem 2.25rem;
@@ -1198,7 +1200,7 @@
 
 .finalCtaBtn:hover {
   background: #e07a18;
-  color: #ffffff;
+  color: #1a1a1a;
   transform: translateY(-2px);
 }
 
@@ -1525,7 +1527,8 @@
 }
 
 .saChiroHubPhoneLink {
-  color: #2685b2;
+  /* 5/14/26: WCAG contrast — same fix as .saChiroHubGrid li a. */
+  color: #0d6092;
   font-weight: 700;
   text-decoration: none;
 }

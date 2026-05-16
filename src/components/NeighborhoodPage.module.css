@@ -92,7 +92,9 @@
   align-items: center;
   justify-content: center;
   background: #fb8e28;
-  color: #ffffff;
+  /* 5/14/26: WCAG contrast — #fb8e28 + #ffffff was 2.33:1. Dark text on the
+     same brand orange = 7.46:1 (AAA). See home.module.css .howCta. */
+  color: #1a1a1a;
   font-weight: 800;
   font-size: 1.05rem;
   padding: 0.95rem 1.85rem;
@@ -103,7 +105,7 @@
 
 .ctaBookFinal:hover {
   background: #e07a18;
-  color: #ffffff;
+  color: #1a1a1a;
   transform: translateY(-2px);
 }
 
