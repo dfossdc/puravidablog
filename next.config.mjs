@@ -344,6 +344,14 @@ const nextConfig = {
       // are flat under /en/sot/ (no /conditions/ subdirectory), so any
       // /sot/conditions/<slug> reference should go to /en/conditions/<slug>.
       { source: "/sot/conditions/:slug+", destination: "/en/conditions/:slug+", permanent: true },
+      // 5/16/26: More /sot/<X> 404s found in GSC 'Duplicate, Google chose
+      // different canonical' bucket. The /sot/:slug* wildcard maps these to
+      // /en/sot/<X> which 404s because /en/sot/[slug] route doesn't have
+      // these slugs. Add specific overrides before the wildcard for known
+      // problematic slugs (likely from old templated SOT URLs Google indexed).
+      { source: "/sot/contact", destination: "/en/contact", permanent: true },
+      { source: "/sot/about", destination: "/en/about", permanent: true },
+      { source: "/sot/alamo-heights-chiropractor", destination: "/en/alamo-heights-chiropractor", permanent: true },
       { source: "/sot/:slug*", destination: "/en/sot/:slug*", permanent: true },
 
       // ── Typo fix: /en/sot/renearch → /en/sot/research ──
