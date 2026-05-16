@@ -28,28 +28,16 @@ const nextConfig = {
         permanent: true,
         has: [{ type: "host", value: "www.puravidasanantonio.com" }],
       },
-      // ── puravidasanantonio.net → puravidasanantonio.com (path-preserving) ──
-      // 5/16/26: Semrush shows .net still ranks for 5 keywords with 27%
-      // overlap with .com — Google is splitting authority. The .net root
-      // currently 301s to .com via GoDaddy forwarding but the path is
-      // STRIPPED, so URLs like puravidasanantonio.net/san-antonio-quiropractico/
-      // 404 instead of preserving path equity. Once .net DNS points at this
-      // Vercel project and .net is added as a domain alias, these two host-
-      // based redirects will catch every path on .net (and www.net) and
-      // preserve the path on its way to .com. Closes the duplicate-domain
-      // authority leak that's been suppressing head-term rankings.
-      {
-        source: "/:path*",
-        destination: "https://puravidasanantonio.com/:path*",
-        permanent: true,
-        has: [{ type: "host", value: "puravidasanantonio.net" }],
-      },
-      {
-        source: "/:path*",
-        destination: "https://puravidasanantonio.com/:path*",
-        permanent: true,
-        has: [{ type: "host", value: "www.puravidasanantonio.net" }],
-      },
+      // 5/16/26: NOTE — earlier we added puravidasanantonio.net host-based
+      // redirect rules here intending to point .net DNS at Vercel for path-
+      // preserving 301s. User decided instead to fully kill .net: deleted
+      // GoDaddy domain forwarding + A records, removed both .net domains
+      // from this Vercel project, and turned off auto-renew on .net domain
+      // + WordPress hosting. .net now returns NXDOMAIN at the DNS level —
+      // no host-based redirect rules needed because .net traffic can no
+      // longer reach this server. Removed the dead rules to keep redirects()
+      // clean. Google will drop .net URLs from its index over the next
+      // 2-6 weeks as it tries to re-crawl and gets no-resolve.
       // ── quiropracticosanantonio.com → puravidasanantonio.com/es ──
       // MUST come before the generic "/" → "/en" rule below, otherwise
       // the catchall wins and sends quiropracticosanantonio.com/ to /en.
