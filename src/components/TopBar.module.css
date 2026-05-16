@@ -7,7 +7,11 @@
   max-width: 1200px;
   margin: 0 auto;
   padding: 0 1.25rem;
-  height: 36px;
+  /* 5/14/26: Bumped 36px → 44px so .link min-height: 44px fills the bar
+     without overflow. PSI flagged BOOK APPOINTMENT + NEW PATIENT FORMS as
+     failing the touch-target audit (48x48 best practice / 44x44 WCAG AAA).
+     The bar is now slightly taller but still compact. */
+  height: 44px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -18,7 +22,7 @@
 .leftLinks {
   list-style: none;
   display: flex;
-  align-items: center;
+  align-items: stretch;
   gap: 0;
   flex-wrap: wrap;
   padding: 0;
@@ -37,6 +41,9 @@
   text-decoration: none;
   white-space: nowrap;
   padding: 0 0.65rem;
+  /* 5/14/26: Touch-target fix — fills bar height (44px desktop, 48px mobile
+     via media query below) so the hit area meets WCAG 2.5.5/2.5.8 minimums. */
+  min-height: 44px;
   transition: color 0.15s;
 }
 
@@ -67,6 +74,9 @@
   justify-content: center;
   color: rgba(255, 255, 255, 0.85);
   padding: 0 0.45rem;
+  /* 5/14/26: Touch-target fix — see .link above. */
+  min-height: 44px;
+  min-width: 44px;
   transition: color 0.15s, opacity 0.15s;
   text-decoration: none;
 }
@@ -79,8 +89,10 @@
 /* ── Responsive ── */
 @media (max-width: 640px) {
   .inner {
-    height: auto;
-    padding: 0.4rem 1rem;
+    /* 5/14/26: Touch-target fix — keep fixed height on mobile too so the
+       link min-height stretches the bar consistently. */
+    height: 48px;
+    padding: 0 1rem;
   }
 
   .link span {
@@ -96,6 +108,12 @@
     padding: 0 0.4rem;
     font-size: 0.67rem;
     letter-spacing: 0.03em;
+    min-height: 48px;
+  }
+
+  .iconLink {
+    min-height: 48px;
+    min-width: 48px;
   }
 }
 

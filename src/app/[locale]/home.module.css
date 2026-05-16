@@ -413,7 +413,10 @@
 .howCta {
   display: inline-block;
   background: #fb8e28;
-  color: #ffffff;
+  /* 5/14/26: WCAG contrast fix. #fb8e28 + #ffffff was 2.33:1 (failing AA's
+     4.5 threshold for normal text). Same brand orange + #1a1a1a is 7.46:1
+     — passes AAA. Standard accessible-CTA pattern (Amazon-style). */
+  color: #1a1a1a;
   font-weight: 800;
   font-size: 1.1rem;
   padding: 1rem 2.5rem;
@@ -425,7 +428,7 @@
 
 .howCta:hover {
   background: #e07a18;
-  color: #ffffff;
+  color: #1a1a1a;
   transform: translateY(-2px);
 }
 
@@ -587,7 +590,9 @@
   align-items: center;
   gap: 0.5rem;
   background: #fb8e28;
-  color: #ffffff;
+  /* 5/14/26: WCAG contrast fix — see .howCta above. Dark text on the same
+     brand orange passes 7.46:1 (AAA). */
+  color: #1a1a1a;
   font-weight: 700;
   font-size: 1.05rem;
   padding: 1rem 2.5rem;
@@ -1447,7 +1452,10 @@
 }
 
 .saChiroHubGrid li a {
-  color: #2685b2;
+  /* 5/14/26: WCAG contrast fix. #2685b2 on #F4F9FF was 3.91:1 — passes AA
+     for large text only, fails for normal text (need 4.5). #0d6092 on the
+     same background is 6.39:1 — passes AA + AAA for normal text. */
+  color: #0d6092;
   text-decoration: none;
   transition: color 0.15s;
 }
@@ -1464,7 +1472,8 @@
 /* Inline contextual links in the lead paragraph (pillar hub links) */
 .saChiroHubLead a,
 .saChiroHubBlock p a {
-  color: #2685b2;
+  /* 5/14/26: WCAG contrast fix — see .saChiroHubGrid li a above. */
+  color: #0d6092;
   text-decoration: underline;
   text-decoration-thickness: 1px;
   text-underline-offset: 2px;
